@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Edit {{ folder_name }}</title>
+  <style>
+    body { font-family: Arial; margin: 20px; }
+    input { width: 100%; padding: 10px; font-size: 16px; margin-bottom: 10px; }
+    .entry { border: 1px solid #ddd; margin: 10px 0; padding: 10px; border-radius: 5px; }
+    .hidden { display: none; }
+    textarea { width: 100%; height: 80px; }
+    button { padding: 8px 16px; margin: 5px; }
+  </style>
+</head>
+<body>
+  <h1>Editing: <code>{{ folder_name }}</code></h1>
+  <a href="/">← Back to Uploads</a>
+
+  <input type="text" id="search" placeholder="Search msgid or msgstr..." autofocus>
+
+  {% for lang, content in translations.items %}
+    <div class="language">
+      <h2>{{ lang|upper }}</h2>
+      <form method="post">
+        {% csrf_token %}
+        <input type="hidden" name="language" value="{{ lang }}">
+        <textarea name="content">{{ content }}</textarea>
+        <br>
+        <button type="χsubmit">Save {{ lang }}</button>
+      </form>
+      <hr>
+    </div>
+  {% endfor %}
+
+  <script>
+    const searchInput = document.getElementById('search');
+    searchInput.addEventListener('input', function() {
+      const query = this.value.toLowerCase();
+      document.querySelectorAll('.entry').forEach(entry => {
+        const text = entry.textContent.toLowerCase();
+        entry.classList.toggle('hidden', query && !text.includes(query));
+      });
+    });
+  </script>
+</body>
+</html>

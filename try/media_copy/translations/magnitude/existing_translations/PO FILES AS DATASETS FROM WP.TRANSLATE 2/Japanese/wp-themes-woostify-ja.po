@@ -1,0 +1,2899 @@
+# Translation of Themes - Woostify in Japanese
+# This file is distributed under the same license as the Themes - Woostify package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-11-07 16:10:21+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - Woostify\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Woostify is fast, lightweight, responsive and super flexible WooCommerce theme built with SEO, speed, and usability in mind. The theme works great with any of your favorite page builder likes Elementor, Beaver Builder, SiteOrigin, Thrive Architect, Divi, etc. Therefore, you can build any type of websites like shop, business agencies, corporate, portfolio, education, university portal, consulting, church, restaurant, medical and so on. Woostify is compatible with all well-coded plugins, including major ones like WooCommerce, OrbitFox, Yoast, BuddyPress, bbPress, etc. Learn more about the theme and ready to import demo sites at https://woostify.com"
+msgstr "Woostify は、SEO、速度と操作性を考慮して構築された高速で軽量、レスポンシブと非常に柔軟な WooCommerce テーマです。テーマは Elementor、Beaver Builder、SiteOrigin、Thrive Architect、Divi や他の人気なページビルダーの連携が最適です。よって、店舗、ビジネス代理店、コーポレート、ポートフォリオ、教育、大学ポータル、コンサルティング、教会、レストラン、医療など、どんなウェブサイトを構築できます。Woostify は、WooCommerce、OrbitFox、Yoast、BuddyPress、bbPress などの主要プラグインを含む、よくコードされている全プラグインと互換性があります。テーマの詳細とそのインポート可能なデモサイトはこちらになります。https://woostify.com"
+
+#. translators: 1: first result 2: last result 3: total results
+#: woocommerce/loop/result-count.php:36
+msgctxt "with first and last result"
+msgid "Showing <span class=\"result-first\">%1$d</span>&ndash;<span class=\"result-end\">%2$d</span> of %3$d result"
+msgid_plural "Showing <span class=\"result-first\">%1$d</span>&ndash;<span class=\"result-end\">%2$d</span> of %3$d results"
+msgstr[0] "%3$d 件の結果のうち、<span class=\"result-first\">%1$d 件目</span> と <span class=\"result-end\">%2$d 件目 </span>を表示中"
+
+#. translators: In stock
+#: inc/woocommerce/woostify-woocommerce-single-product-functions.php:583
+msgid "In stock"
+msgstr "在庫あり"
+
+#. translators: %s stock quantity
+#: inc/woocommerce/woostify-woocommerce-single-product-functions.php:579
+msgid "%s in stock"
+msgstr "在庫%s件"
+
+#: inc/customizer/sections/header/topbar.php:513
+msgid "Button Color"
+msgstr "ボタン色"
+
+#: inc/customizer/sections/header/topbar.php:402
+msgid "Sliders"
+msgstr "スライダー"
+
+#: inc/customizer/sections/header/topbar.php:379
+msgid "Auto Play"
+msgstr "自動再生"
+
+#: inc/customizer/sections/header/topbar.php:357
+msgid "PrevNext Button"
+msgstr "前・次のボタン"
+
+#: inc/customizer/sections/header/topbar.php:323
+msgid "Slide To Show"
+msgstr "表示するスライド"
+
+#: inc/customizer/sections/header/topbar.php:301
+msgid "Text Slide"
+msgstr "テキストのスライド"
+
+#: inc/customizer/sections/header/topbar.php:300
+msgid "Text Scroll"
+msgstr "テキストスクロール"
+
+#: inc/customizer/sections/header/topbar.php:271
+msgid "Topbar Slider Display"
+msgstr "トップバーのスライダーを表示"
+
+#: inc/customizer/register-sections.php:13
+msgid "Topbar Slider"
+msgstr "トップバースライダー"
+
+#: inc/customizer/custom-controls/topbar-slider-data-items/class-woostify-topbar-slider-data-items-control.php:126
+msgid "Add Item"
+msgstr "アイテムを追加"
+
+#: inc/customizer/custom-controls/topbar-slider-data-items/class-woostify-topbar-slider-data-items-control.php:88
+msgid "Item"
+msgstr "アイテム"
+
+#: inc/customizer/class-woostify-customizer.php:297
+#: inc/customizer/class-woostify-customizer.php:312
+msgid "Welcome to Woostify"
+msgstr "Woostify へようこそ"
+
+#: inc/customizer/class-woostify-customizer.php:292
+#: inc/customizer/class-woostify-customizer.php:307
+msgid "Free shipping on all U.S. orders $50+"
+msgstr "米国内での $50+ 以上のご注文は送料無料"
+
+#: inc/customizer/class-woostify-customizer.php:287
+#: inc/customizer/class-woostify-customizer.php:302
+msgid "Sign up & enjoy 10% off"
+msgstr "登録して 10% オフを得る"
+
+#. translators: %d: total results
+#: woocommerce/loop/result-count.php:31
+msgid "Showing all %d result"
+msgid_plural "Showing all %d results"
+msgstr[0] "全%d件の結果を表示中"
+
+#: woocommerce/loop/result-count.php:28
+msgid "Showing the single result"
+msgstr "1件の結果を表示中"
+
+#: inc/admin/class-woostify-admin.php:749
+msgid "View All Add-ons"
+msgstr "すべてのアドオンを見る"
+
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:2016
+msgid "Username is required."
+msgstr "ユーザー名は必須です。"
+
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:2012
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:2016
+msgid "Error:"
+msgstr "エラー:"
+
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:1936
+msgid "Your account was created successfully. Your login details have been sent to your email address."
+msgstr "アカウントは正常に作成されました。ログイン情報がメールアドレスに送信されました。"
+
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:1934
+msgid "Your account was created successfully and a password has been sent to your email address."
+msgstr "アカウントが正常に作成され、ログイン情報がメールアドレスに送信されました。"
+
+#: inc/customizer/sections/shop/shop-page.php:169
+msgid "Out-of-stock products to bottom"
+msgstr "下に在庫なしの商品へ"
+
+#: inc/admin/class-woostify-admin.php:631
+msgid "Offers a way owners to get related products and put them in a deal"
+msgstr "所有者が関連商品を入手し、1 つのオファーにまとめる方法を提供します"
+
+#: inc/admin/class-woostify-admin.php:630
+msgid "Frequently Bought Together"
+msgstr "よく一緒に購入されるもの"
+
+#: inc/admin/class-woostify-admin.php:832
+msgid "Woostify Theme"
+msgstr "Woostify テーマ"
+
+#: inc/admin/class-woostify-admin.php:962
+msgid "Write a Review"
+msgstr "レビューを書く"
+
+#: inc/admin/class-woostify-admin.php:950
+msgid "Give us feedback"
+msgstr "フィードバックをお寄せください"
+
+#: inc/admin/class-woostify-admin.php:924
+msgid "Go to Facebook Group"
+msgstr "Facebook グループに行く"
+
+#: inc/admin/class-woostify-admin.php:898
+msgid "Go to Documentation"
+msgstr "ドキュメンテーションに行く"
+
+#: inc/admin/class-woostify-admin.php:836
+msgid "Woostify Pro"
+msgstr "Woostify Pro"
+
+#: inc/admin/class-woostify-admin.php:800
+msgid "Activate Woostify site library"
+msgstr "Woostify のサイトライブラリーを有効化"
+
+#: inc/admin/class-woostify-admin.php:734
+msgid "Pro"
+msgstr "Pro"
+
+#: inc/admin/class-woostify-admin.php:719
+msgid "Unlock All Add-ons"
+msgstr "すべてのアドオンをアンロック"
+
+#: inc/admin/class-woostify-admin.php:714
+msgid "Woostify Pro Add-ons"
+msgstr "Woostify Pro のアドオン"
+
+#: inc/admin/class-woostify-admin.php:681
+msgid "Go to Customizer"
+msgstr "カスタマイザーに移動"
+
+#: inc/admin/class-woostify-admin.php:681
+msgid "Customizer Settings"
+msgstr "カスタマイザー設定"
+
+#: inc/admin/class-woostify-admin.php:623
+msgid "Change info theme and plugin"
+msgstr "テーマとプラグインの情報を変更する"
+
+#: inc/admin/class-woostify-admin.php:622
+msgid "White label"
+msgstr "ホワイトラベル"
+
+#: inc/admin/class-woostify-admin.php:607
+msgid "Allows customers to place an order for your upcoming products"
+msgstr "お客様が今後の商品に予約注文を可能にする"
+
+#: inc/admin/class-woostify-admin.php:606
+msgid "Pre Order"
+msgstr "予約注文"
+
+#: inc/admin/class-woostify-admin.php:599
+#: inc/admin/class-woostify-admin.php:615
+msgid "Displays the email subscription form when the product is out of stock"
+msgstr "商品の在庫がない場合、メール購読フォームを表示する"
+
+#: inc/admin/class-woostify-admin.php:598
+msgid "Call Back"
+msgstr "電話をかけ直す"
+
+#: inc/admin/class-woostify-admin.php:591
+msgid "Color, Image and Buttons Variation Swatches for product attributes"
+msgstr "商品属性の色、画像とボタンのバリエーション見本"
+
+#: inc/admin/class-woostify-admin.php:583
+msgid "Countdown that motivates customers to buy product before time runs out"
+msgstr "期限切れの前に商品を購入するようお客様が促すカウントダウン"
+
+#: inc/admin/class-woostify-admin.php:575
+msgid "Allow clients to have a quick view of your product details"
+msgstr "クライアントが商品詳細のクイックビューを可能にする"
+
+#: inc/admin/class-woostify-admin.php:567
+msgid "Add the  products to shopping cart immediately without scrolling up"
+msgstr "スクロールアップせずに、即座でショッピングカートに商品を追加する"
+
+#: inc/admin/class-woostify-admin.php:559
+msgid "Customers go to checkout page immediately if they click into Buy Now"
+msgstr "お客様が今すぐ購入をクリックした際、すぐにチェックアウトページに移動します"
+
+#: inc/admin/class-woostify-admin.php:551
+msgid "More Shop’s widgets including nested product categories and feature products"
+msgstr "更なるショップウィジェットにネストした商品カテゴリーと機能商品が含まれています"
+
+#: inc/admin/class-woostify-admin.php:543
+msgid "Assign ready-to-use default size chart templates to the product"
+msgstr "商品に使用可能なデフォルトサイズのチャートテンプレートを割り当てる"
+
+#: inc/admin/class-woostify-admin.php:535
+msgid "Allow customers to get instant live search results as they type their query"
+msgstr "お客様がクエリーを入力する際に、速やかに検索結果を取得できるようにする"
+
+#: inc/admin/class-woostify-admin.php:527
+msgid "Filters by any criteria, attributes, taxonomies, prices, or other product data."
+msgstr "あらゆる基準、属性、タクソノミー、値段または他の商品データで絞り込む。"
+
+#: inc/admin/class-woostify-admin.php:519
+msgid "Customize shop page, product page, cart page, and checkout page as desired"
+msgstr "思うままにショップ、商品、カートと購入手続きのページをカスタマイズ"
+
+#: inc/admin/class-woostify-admin.php:511
+msgid "Create your website header & footer using Elementor"
+msgstr "Elementor でウェブサイトのヘッダーとフッターを作成する"
+
+#: inc/admin/class-woostify-admin.php:503
+msgid "Customize widget elementor"
+msgstr "ウィジェット elementor をカスタマイズ"
+
+#: inc/admin/class-woostify-admin.php:495
+msgid "Create a fully responsive mega menu with Elementor."
+msgstr "Elementor で完全にレスポンシブなメガメニューを作成"
+
+#: inc/admin/class-woostify-admin.php:487
+msgid "Creating a floating header that sticks at the top of your site when scrolling"
+msgstr "スクロール時にサイトの上に固定表示される浮動ヘッダーを作成する"
+
+#: inc/admin/class-woostify-admin.php:479
+msgid "Offering you with a set of 8 stunning header layouts to apply and customize"
+msgstr "適用とカスタマイズできる 8 つの優れたヘッダーレイアウトを提供します"
+
+#: inc/admin/class-woostify-admin.php:382
+msgid "Changelog woostify theme"
+msgstr "Woostify テーマの変更履歴"
+
+#: inc/admin/class-woostify-admin.php:352
+msgid "Save successfully!"
+msgstr "正常に保存 !"
+
+#: inc/admin/class-woostify-admin.php:333
+#: inc/admin/class-woostify-admin.php:667
+#: inc/admin/class-woostify-admin.php:700
+msgid "Woostify Support"
+msgstr "Woostify サポート"
+
+#: inc/admin/class-woostify-admin.php:328
+#: inc/admin/class-woostify-admin.php:660
+msgid "Starter sites"
+msgstr "スターターサイト"
+
+#: inc/admin/class-woostify-admin.php:324
+#: inc/admin/class-woostify-admin.php:656
+msgid "Add-ons"
+msgstr "アドオン"
+
+#: inc/woocommerce/class-woostify-woocommerce.php:696
+#: inc/woocommerce/class-woostify-woocommerce.php:697
+#: inc/woocommerce/class-woostify-woocommerce.php:698
+msgid "You can’t add more than %s items in cart"
+msgstr "%s 個を越える数の商品をカートに追加することはできません"
+
+#: inc/woocommerce/class-woostify-woocommerce.php:368
+msgid "View Previous"
+msgstr "前を見る"
+
+#: inc/customizer/sections/header/header.php:143
+msgid "Count Color"
+msgstr "カウントの色"
+
+#: inc/customizer/sections/shop/shop-page.php:336
+msgid "Price Font Size"
+msgstr "価格の文字サイズ"
+
+#: inc/customizer/sections/shop/shop-page.php:288
+msgid "Price Color"
+msgstr "価格の色"
+
+#: inc/customizer/sections/shop/shop-page.php:191
+msgid "Product Title Color"
+msgstr "商品タイトルの色"
+
+#: inc/customizer/sections/blog/blog.php:431
+msgid "Description Font Size"
+msgstr "説明文の文字サイズ"
+
+#: inc/customizer/sections/blog/blog.php:382
+msgid "Description Color"
+msgstr "説明文の色"
+
+#: inc/customizer/sections/blog/blog.php:331
+msgid "Meta Data Font Size"
+msgstr "メタ情報の文字サイズ"
+
+#: inc/customizer/sections/blog/blog.php:285
+msgid "Meta Data Color"
+msgstr "メタ情報の色"
+
+#: inc/customizer/sections/blog/blog.php:234
+#: inc/customizer/sections/shop/shop-page.php:239
+msgid "Title Font Size"
+msgstr "タイトル文字サイズ"
+
+#: inc/customizer/sections/blog/blog.php:27
+#: inc/customizer/sections/shop/shop-page.php:60
+msgid "Settings"
+msgstr "設定"
+
+#: inc/customizer/sections/shop/shop-single.php:592
+msgid "Open first tab by default"
+msgstr "デフォルトで最初のタブを開く"
+
+#: inc/woostify-template-functions.php:591
+msgid "Categories Menu"
+msgstr "カテゴリーのメニュー"
+
+#: inc/customizer/sections/shop/product-catalog.php:53
+msgid "Use this option to hide product variations when enabling the catalog mode."
+msgstr "カタログモードを有効化する際に、このオプションを使用して、商品バリエーションを隠す。"
+
+#: inc/customizer/sections/shop/product-catalog.php:52
+msgid "Hide product variations"
+msgstr "商品バリエーションを隠す"
+
+#: inc/customizer/sections/mobile-menu/mobile-menu.php:371
+msgid "Nav Tab Spacing Bottom"
+msgstr "下のナビゲーションタブの間隔"
+
+#: inc/customizer/sections/mobile-menu/mobile-menu.php:330
+msgid "Tab Padding"
+msgstr "タブのパディング"
+
+#: inc/customizer/sections/mobile-menu/mobile-menu.php:300
+msgid "Tab background"
+msgstr "タブの背景"
+
+#: inc/customizer/sections/mobile-menu/mobile-menu.php:261
+msgid "Tab Color"
+msgstr "タブの色"
+
+#: inc/customizer/sections/mobile-menu/mobile-menu.php:163
+msgid "Hamburger Icon"
+msgstr "ハンバーガーアイコン"
+
+#: inc/customizer/sections/mobile-menu/mobile-menu.php:138
+msgid "Categories Menu Tab Title"
+msgstr "カテゴリーのメニューのタブタイトル"
+
+#: inc/customizer/sections/mobile-menu/mobile-menu.php:116
+msgid "Primary Menu Tab Title"
+msgstr "メインメニューのタブタイトル"
+
+#: inc/customizer/sections/mobile-menu/mobile-menu.php:94
+msgid "Show Categories Menu on Mobile"
+msgstr "モバイルでカテゴリーのメニューを表示"
+
+#: inc/customizer/sections/mobile-menu/mobile-menu.php:72
+msgid "Hide Login/Register Link"
+msgstr "ログイン・登録のリンクを隠す"
+
+#: inc/customizer/sections/mobile-menu/mobile-menu.php:49
+msgid "Hide Search Box"
+msgstr "検索ボックスを非表示"
+
+#: inc/customizer/sections/header/header.php:455
+msgid "Enable Login Popup"
+msgstr "ログインのポップアップを有効化"
+
+#: inc/customizer/sections/header/header.php:316
+msgid "Enable Search"
+msgstr "検索を有効化"
+
+#: inc/customizer/class-woostify-customizer.php:389
+#: inc/customizer/sections/color/color.php:110
+msgid "Link Hover Color"
+msgstr "リンクホバー色"
+
+#: inc/class-woostify.php:1202
+msgid "Theme Link Hover Color"
+msgstr "テーマリンクのホバー色"
+
+#: inc/class-woostify.php:410
+msgid "Mobile Categories Menu"
+msgstr "モバイルカテゴリーメニュー"
+
+#: inc/customizer/sections/performance/performance.php:26
+msgid "Enable Dynamic CSS"
+msgstr "ダイナミック CSS を有効化"
+
+#: inc/class-woostify.php:696
+msgid "View cart"
+msgstr "カートを表示"
+
+#: inc/woostify-functions.php:896
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "検索&hellip;"
+
+#: inc/woostify-functions.php:895 inc/woostify-functions.php:904
+msgctxt "label"
+msgid "Search for:"
+msgstr "検索対象:"
+
+#. translators: %s: reviews count
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:2427
+msgid "Reviews (%d)"
+msgstr "レビュー (%d)"
+
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:2158
+msgid "Back to cart"
+msgstr "カートに戻る"
+
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:1801
+#: inc/woostify-functions.php:898 inc/woostify-functions.php:906
+msgctxt "submit button"
+msgid "Search"
+msgstr "検索"
+
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:1800
+msgid "Search products&hellip;"
+msgstr "商品検索 &hellip;"
+
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:1799
+msgid "Search for:"
+msgstr "検索対象:"
+
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:1779
+msgid "Dismiss"
+msgstr "閉じる"
+
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:1771
+msgid "This is a demo store for testing purposes &mdash; no orders shall be fulfilled."
+msgstr "これはデモストアです &mdash; 注文は出来ません。"
+
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:843
+msgid "Continue Shopping"
+msgstr "ショッピングを続ける"
+
+#: inc/customizer/sections/shop/shop-single.php:781
+msgid "Show Dots"
+msgstr "ドットを表示"
+
+#: inc/customizer/sections/shop/shop-single.php:760
+msgid "Show Arrows"
+msgstr "矢印を表示"
+
+#: inc/customizer/sections/shop/shop-single.php:739
+msgid "Enable Carousel"
+msgstr "カルーセルを有効化"
+
+#: inc/customizer/sections/shop/shop-single.php:571
+msgid "After Product Summary"
+msgstr "商品の概要の後"
+
+#: inc/customizer/sections/shop/shop-single.php:570
+msgid "In Product Summary"
+msgstr "商品概要の中に"
+
+#: inc/customizer/sections/shop/shop-single.php:542
+msgid "Accordion"
+msgstr "アコーディオン"
+
+#: inc/customizer/sections/shop/shop-single.php:508
+msgid "Product Data Tabs"
+msgstr "商品データタブ"
+
+#: inc/customizer/sections/shop/shop-page.php:729
+msgid "Product Quantity"
+msgstr "商品数量"
+
+#: inc/customizer/sections/shop/shipping-threshold.php:245
+msgid "Progress Bar Color"
+msgstr "プログレスバーの色"
+
+#: inc/customizer/sections/shop/shipping-threshold.php:204
+msgid "Message Color"
+msgstr "メッセージの色"
+
+#: inc/customizer/sections/shop/shipping-threshold.php:168
+msgid "Message to show after reaching 100%."
+msgstr "100% を到達した後、表示するメッセージ。"
+
+#: inc/customizer/sections/shop/shipping-threshold.php:167
+msgid "Success Message"
+msgstr "成功メッセージ"
+
+#: inc/customizer/sections/shop/shipping-threshold.php:144
+msgid "Message to show before reaching the goal. Use shortcode <b><code>[missing_amount]</code></b> to display the amount left to reach the minimum"
+msgstr "目的を到達する前に表示するメッセージ。ショートコード <b><code>[missing_amount]</code></b> を使用して、最低限の数を到達するまでの残り金額を表示する"
+
+#: inc/customizer/sections/shop/shipping-threshold.php:143
+msgid "Initial Message"
+msgstr "最初のメッセージ"
+
+#: inc/customizer/sections/shop/shipping-threshold.php:120
+msgid "Amount to reach 100%. Note: use <b><code>.</code></b> for Decimal separator"
+msgstr "到達する数量は 100%。注意: 小数点区切りに <b><code>.</code></b> を使用してください"
+
+#: inc/customizer/sections/shop/shipping-threshold.php:119
+msgid "Goal Amount"
+msgstr "目的の数量"
+
+#: inc/customizer/sections/shop/shipping-threshold.php:97
+msgid "Enable Progress Bar"
+msgstr "プログレスバーを有効化"
+
+#: inc/customizer/sections/shop/shipping-threshold.php:75
+msgid "Show confetti effect when reach to 100%"
+msgstr "100% を到達際には、コンフェッティ効果を表示する"
+
+#: inc/customizer/sections/shop/shipping-threshold.php:74
+msgid "Enable Confetti Effect"
+msgstr "コンフェッティ効果を有効化"
+
+#: inc/customizer/sections/shop/shipping-threshold.php:52
+msgid "Enable Shipping Threshold"
+msgstr "配送境界値を有効化"
+
+#: inc/customizer/sections/shop/product-catalog.php:30
+msgid "This option will hide all button add to cart on site"
+msgstr "このオプションはサイトのすべてのカートに追加ボタンを隠す"
+
+#: inc/customizer/sections/shop/product-catalog.php:29
+msgid "Catalog Mode"
+msgstr "カタログモード"
+
+#: inc/customizer/sections/shop/mini-cart.php:265
+msgid "After checkout button"
+msgstr "チェックアウト後ボタン"
+
+#: inc/customizer/sections/shop/mini-cart.php:191
+msgid "Before checkout button"
+msgstr "チェックアウト前ボタン"
+
+#: inc/customizer/sections/shop/mini-cart.php:150
+#: inc/customizer/sections/shop/mini-cart.php:224
+#: inc/customizer/sections/shop/mini-cart.php:298
+msgid "Free Shipping Threshold"
+msgstr "無料配送の境界値"
+
+#: inc/customizer/sections/shop/mini-cart.php:149
+#: inc/customizer/sections/shop/mini-cart.php:171
+#: inc/customizer/sections/shop/mini-cart.php:223
+#: inc/customizer/sections/shop/mini-cart.php:245
+#: inc/customizer/sections/shop/mini-cart.php:297
+#: inc/customizer/sections/shop/mini-cart.php:319
+msgid "Custom HTML"
+msgstr "カスタム HTML"
+
+#: inc/customizer/sections/shop/mini-cart.php:141
+#: inc/customizer/sections/shop/mini-cart.php:215
+#: inc/customizer/sections/shop/mini-cart.php:289
+msgid "Select Content"
+msgstr "コンテンツを選択"
+
+#: inc/customizer/sections/shop/mini-cart.php:117
+msgid "Top content"
+msgstr "トップコンテンツ"
+
+#: inc/customizer/sections/shop/mini-cart.php:98
+msgid "Enable Empty Cart Button"
+msgstr "カートを空にするボタンを有効化"
+
+#: inc/customizer/sections/shop/mini-cart.php:76
+msgid "Empty Cart Message"
+msgstr "空のカートメッセージ"
+
+#: inc/customizer/sections/shop/checkout-page.php:29
+msgid "Checkout Page Layout"
+msgstr "チェックアウトページのレイアウト"
+
+#: inc/customizer/sections/performance/performance.php:142
+msgid "Disable Woocommerce Blocks CSS"
+msgstr "Woocommerce ブロック CSS を無効化"
+
+#: inc/customizer/sections/performance/performance.php:116
+msgid "Click the button to reset the local fonts cache."
+msgstr "ボタンをクリックすると、ローカルフォントのキャッシュがリセットされます。"
+
+#: inc/customizer/sections/performance/performance.php:115
+msgid "Clear Local Fonts Cache"
+msgstr "ローカルフォントキャッシュをクリア"
+
+#: inc/customizer/sections/performance/performance.php:94
+msgid "Preload Local Font"
+msgstr "ローカルフォントを先に読み込む"
+
+#: inc/customizer/sections/performance/performance.php:73
+msgid "Load Google Fonts Locally"
+msgstr "Google フォントをローカルで読み込む"
+
+#: inc/customizer/sections/performance/performance.php:51
+msgid "Reset Dynamic CSS File"
+msgstr "ダイナミック CSS ファイルをリセット"
+
+#: inc/customizer/sections/performance/performance.php:48
+msgid "Click the button to resset dynamic css file."
+msgstr "ダイナミック CSS ファイルをリセットするように、ボタンをクリックしてください。"
+
+#: inc/customizer/sections/performance/performance.php:47
+msgid "Dynamic CSS Print Method"
+msgstr "ダイナミック CSS ファイルのプリント方法"
+
+#: inc/customizer/register-sections.php:150
+msgid "Performance"
+msgstr "パフォーマンス"
+
+#: inc/customizer/register-sections.php:141
+msgid "Mini Cart"
+msgstr "ミニカート"
+
+#: inc/customizer/register-sections.php:132
+msgid "Shipping Threshold"
+msgstr "配送の境界値"
+
+#: inc/customizer/custom-controls/product-data-tabs/class-woostify-product-data-tabs-control.php:170
+msgid "Add Tab"
+msgstr "タブの追加"
+
+#: inc/customizer/custom-controls/product-data-tabs/class-woostify-product-data-tabs-control.php:123
+#: inc/customizer/custom-controls/product-data-tabs/class-woostify-product-data-tabs-control.php:163
+msgid "Content"
+msgstr "コンテンツ"
+
+#: inc/customizer/custom-controls/product-data-tabs/class-woostify-product-data-tabs-control.php:84
+#: inc/customizer/custom-controls/product-data-tabs/class-woostify-product-data-tabs-control.php:107
+#: inc/customizer/custom-controls/product-data-tabs/class-woostify-product-data-tabs-control.php:147
+msgid "Reviews"
+msgstr "レビュー"
+
+#: inc/customizer/custom-controls/product-data-tabs/class-woostify-product-data-tabs-control.php:81
+#: inc/customizer/custom-controls/product-data-tabs/class-woostify-product-data-tabs-control.php:106
+#: inc/customizer/custom-controls/product-data-tabs/class-woostify-product-data-tabs-control.php:146
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:2417
+msgid "Additional information"
+msgstr "追加情報"
+
+#: inc/customizer/custom-controls/product-data-tabs/class-woostify-product-data-tabs-control.php:78
+#: inc/customizer/custom-controls/product-data-tabs/class-woostify-product-data-tabs-control.php:105
+#: inc/customizer/custom-controls/product-data-tabs/class-woostify-product-data-tabs-control.php:145
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:2408
+msgid "Description"
+msgstr "説明"
+
+#: inc/customizer/class-woostify-customizer.php:391
+#: inc/customizer/sections/color/color.php:164
+msgid "Extra Color 2"
+msgstr "エクストラカラー2"
+
+#: inc/customizer/class-woostify-customizer.php:390
+#: inc/customizer/sections/color/color.php:137
+msgid "Extra Color 1"
+msgstr "エクストラカラー1"
+
+#: inc/class-woostify.php:1214
+msgid "Theme Extra Color 2"
+msgstr "テーマのエクストラカラー2"
+
+#: inc/class-woostify.php:1208
+msgid "Theme Extra Color 1"
+msgstr "テーマのエクストラカラー1"
+
+#: inc/class-woostify.php:1196
+msgid "Theme Accent Color"
+msgstr "テーマのアクセントカラー"
+
+#: inc/class-woostify.php:1190
+msgid "Theme Text Color"
+msgstr "テーマの文字色"
+
+#: inc/class-woostify.php:1184
+msgid "Theme Primary Color"
+msgstr "テーマのメイン色"
+
+#: inc/admin/class-woostify-admin.php:939
+msgid "Have a question, we are happy to help! Get in touch with our support team."
+msgstr "質問があるのなら、喜んでお手伝いします! サポートチームにご自由に連絡してかまいません。"
+
+#: inc/admin/class-woostify-admin.php:920
+#: inc/admin/class-woostify-admin.php:958
+msgid "Join our community! Share your site, ask a question and help others."
+msgstr "コミュニティーに参加 ! サイトを共有して、質問を聞いて、他を助けましょう。"
+
+#: inc/admin/class-woostify-admin.php:905
+msgid "Community"
+msgstr "コミュニティ"
+
+#: inc/admin/class-woostify-admin.php:894
+msgid "Want a guide? We have video tutorials to walk you through getting started."
+msgstr "ガイドが必要ですか ? スタートするためのやり方をご紹介した動画チュートリアルを用意しています。"
+
+#: inc/admin/class-woostify-admin.php:883
+msgid "Document"
+msgstr "ドキュメント"
+
+#: inc/admin/class-woostify-admin.php:702
+msgid "Go to option"
+msgstr "オプションに移動"
+
+#: inc/admin/class-woostify-admin.php:590
+msgid "Variation Swatches"
+msgstr "バリエーション見本"
+
+#: inc/admin/class-woostify-admin.php:566
+msgid "Sticky Single Add To Cart"
+msgstr "固定個別カートに追加"
+
+#: inc/admin/class-woostify-admin.php:534
+msgid "Ajax Product Search"
+msgstr "Ajax の商品検索"
+
+#: inc/admin/class-woostify-admin.php:526
+msgid "Smart Product Filter"
+msgstr "スマートな商品フィルター"
+
+#: inc/woocommerce/class-woostify-woocommerce.php:347
+msgid "View more"
+msgstr "詳しくみる"
+
+#: inc/customizer/sections/shop/shop-single.php:263
+msgid "Theme"
+msgstr "テーマ"
+
+#: inc/customizer/sections/shop/shop-single.php:262
+msgid "Woocommerce Default"
+msgstr "WooCommerce デフォルト"
+
+#: inc/customizer/sections/shop/shop-single.php:257
+msgid "Gallery Style"
+msgstr "ギャラリースタイル"
+
+#: inc/customizer/sections/shop/shop-page.php:438
+msgid "Auto (On scroll)"
+msgstr "自動 (スクロール時)"
+
+#: inc/customizer/sections/shop/shop-page.php:437
+msgid "Button (On click)"
+msgstr "ボタン (クリックで)"
+
+#: inc/customizer/sections/shop/shop-page.php:430
+msgid "Loading Type"
+msgstr "ローディングタイプ"
+
+#: inc/customizer/sections/shop/shop-page.php:409
+msgid "Enable infinite scroll for WooCommerce category/product archive."
+msgstr "WooCommerce のカテゴリー・商品アーカイブに無限スクロールを有効化。"
+
+#: inc/customizer/sections/shop/shop-page.php:384
+msgid "Infinite Scroll"
+msgstr "無限スクロール"
+
+#: inc/customizer/sections/header/header.php:570
+msgid "Hide Cart Subtotal When Zero"
+msgstr "カートの小計がゼロの場合、非表示する"
+
+#: inc/customizer/sections/header/header.php:546
+msgid "Hide Cart Count When Zero"
+msgstr "カートのカウントがゼロの場合、非表示する"
+
+#: inc/woocommerce/class-woostify-woocommerce.php:529
+#: inc/woocommerce/class-woostify-woocommerce.php:548
+msgid "Disable"
+msgstr "無効化"
+
+#: inc/woocommerce/class-woostify-woocommerce.php:527
+#: inc/woocommerce/class-woostify-woocommerce.php:545
+msgid "Enable thumbnail for page header BG"
+msgstr "ページヘッダーの背景のサムネイルを有効化"
+
+#: inc/customizer/sections/sidebar/sidebar.php:199
+msgid "Offcanvas sidebar"
+msgstr "オフキャンバスサイドバー"
+
+#: inc/customizer/sections/mobile-menu/mobile-menu.php:347
+#: inc/customizer/sections/sticky-footer-bar/sticky-footer-bar.php:608
+msgid "Bottom"
+msgstr "下"
+
+#: inc/customizer/sections/mobile-menu/mobile-menu.php:345
+#: inc/customizer/sections/sticky-footer-bar/sticky-footer-bar.php:606
+msgid "Top"
+msgstr "上"
+
+#: inc/customizer/sections/sticky-footer-bar/sticky-footer-bar.php:575
+msgid "Spacing"
+msgstr "間隔"
+
+#: inc/customizer/sections/sticky-footer-bar/sticky-footer-bar.php:534
+msgid "900"
+msgstr "900"
+
+#: inc/customizer/sections/sticky-footer-bar/sticky-footer-bar.php:533
+msgid "800"
+msgstr "800"
+
+#: inc/customizer/sections/sticky-footer-bar/sticky-footer-bar.php:532
+msgid "700"
+msgstr "700"
+
+#: inc/customizer/sections/sticky-footer-bar/sticky-footer-bar.php:531
+msgid "600"
+msgstr "600"
+
+#: inc/customizer/sections/sticky-footer-bar/sticky-footer-bar.php:530
+msgid "500"
+msgstr "500"
+
+#: inc/customizer/sections/sticky-footer-bar/sticky-footer-bar.php:529
+msgid "400"
+msgstr "400"
+
+#: inc/customizer/sections/sticky-footer-bar/sticky-footer-bar.php:528
+msgid "300"
+msgstr "300"
+
+#: inc/customizer/sections/sticky-footer-bar/sticky-footer-bar.php:523
+msgid "Text Font Weight"
+msgstr "文字の太さ"
+
+#: inc/customizer/sections/sticky-footer-bar/sticky-footer-bar.php:472
+msgid "Text Font Size"
+msgstr "テキストのフォントサイズ"
+
+#: inc/customizer/sections/sticky-footer-bar/sticky-footer-bar.php:402
+msgid "Icon Spacing"
+msgstr "アイコン間隔"
+
+#: inc/customizer/sections/shop/shop-single.php:615
+#: inc/customizer/sections/sticky-footer-bar/sticky-footer-bar.php:191
+msgid "Items"
+msgstr "アイテム"
+
+#: inc/customizer/sections/sticky-footer-bar/sticky-footer-bar.php:140
+msgid "Hide On Checkout Page"
+msgstr "チェックアウトページに非表示する"
+
+#: inc/customizer/sections/sticky-footer-bar/sticky-footer-bar.php:117
+msgid "Hide On Cart Page"
+msgstr "カートページに非表示する"
+
+#: inc/customizer/sections/sticky-footer-bar/sticky-footer-bar.php:94
+msgid "Hide On Product Single Page"
+msgstr "商品の個別ページに非表示する"
+
+#: inc/customizer/sections/sticky-footer-bar/sticky-footer-bar.php:71
+msgid "Hide When Scroll"
+msgstr "スクロール時に非表示する"
+
+#: inc/customizer/sections/shop/shop-page.php:408
+#: inc/customizer/sections/sticky-footer-bar/sticky-footer-bar.php:48
+#: inc/woocommerce/class-woostify-woocommerce.php:530
+#: inc/woocommerce/class-woostify-woocommerce.php:549
+msgid "Enable"
+msgstr "有効化"
+
+#: inc/customizer/sections/blog/blog.php:28
+#: inc/customizer/sections/footer/footer.php:28
+#: inc/customizer/sections/header/header-transparent.php:28
+#: inc/customizer/sections/header/header.php:28
+#: inc/customizer/sections/header/topbar.php:28
+#: inc/customizer/sections/header/topbar.php:250
+#: inc/customizer/sections/mobile-menu/mobile-menu.php:28
+#: inc/customizer/sections/page-header/page-header.php:28
+#: inc/customizer/sections/scroll-to-top/scroll-to-top.php:28
+#: inc/customizer/sections/shop/shipping-threshold.php:32
+#: inc/customizer/sections/shop/shop-page.php:61
+#: inc/customizer/sections/sticky-footer-bar/sticky-footer-bar.php:28
+msgid "Design"
+msgstr "デザイン"
+
+#: inc/customizer/register-sections.php:22
+msgid "Sticky Footer Bar"
+msgstr "固定フッターバー"
+
+#: inc/customizer/custom-controls/adv-list/class-woostify-adv-list-control.php:168
+msgid "Link"
+msgstr "リンク"
+
+#: inc/customizer/custom-controls/adv-list/class-woostify-adv-list-control.php:143
+msgid "Select"
+msgstr "選択"
+
+#: inc/customizer/custom-controls/adv-list/class-woostify-adv-list-control.php:139
+#: inc/customizer/sections/header/header.php:112
+#: inc/customizer/sections/sticky-footer-bar/sticky-footer-bar.php:246
+msgid "Icon"
+msgstr "アイコン"
+
+#: inc/customizer/custom-controls/adv-list/class-woostify-adv-list-control.php:121
+#: inc/customizer/custom-controls/adv-list/class-woostify-adv-list-control.php:130
+msgid "Shortcode"
+msgstr "ショートコード"
+
+#: inc/customizer/custom-controls/adv-list/class-woostify-adv-list-control.php:120
+msgid "Cart"
+msgstr "カート"
+
+#: inc/customizer/custom-controls/adv-list/class-woostify-adv-list-control.php:119
+msgid "Wishlist"
+msgstr "ウィッシュリスト"
+
+#: inc/customizer/custom-controls/adv-list/class-woostify-adv-list-control.php:118
+#: inc/customizer/custom-controls/product-data-tabs/class-woostify-product-data-tabs-control.php:75
+#: inc/customizer/custom-controls/product-data-tabs/class-woostify-product-data-tabs-control.php:87
+#: inc/customizer/custom-controls/product-data-tabs/class-woostify-product-data-tabs-control.php:104
+#: inc/customizer/custom-controls/product-data-tabs/class-woostify-product-data-tabs-control.php:144
+msgid "Custom"
+msgstr "カスタム"
+
+#: inc/customizer/custom-controls/adv-list/class-woostify-adv-list-control.php:116
+#: inc/customizer/custom-controls/product-data-tabs/class-woostify-product-data-tabs-control.php:102
+#: inc/customizer/custom-controls/product-data-tabs/class-woostify-product-data-tabs-control.php:142
+#: inc/customizer/sections/header/topbar.php:293
+msgid "Type"
+msgstr "タイプ"
+
+#: inc/customizer/custom-controls/group/class-woostify-group-control.php:120
+msgid "Link Values Together"
+msgstr "値をまとめてリンク"
+
+#: inc/woocommerce/class-woostify-woocommerce.php:470
+#: inc/woocommerce/class-woostify-woocommerce.php:494
+msgid "Single ajax add to cart"
+msgstr "個別 Ajax カートに追加"
+
+#: inc/customizer/sections/header/header.php:522
+msgid "Show Subtotal"
+msgstr "小計を表示"
+
+#: inc/customizer/sections/header/header.php:432
+msgid "Account/Dashboard"
+msgstr "アカウント・ダッシュボード"
+
+#: inc/customizer/sections/shop/shop-single.php:314
+msgid "Image Loading Effect"
+msgstr "画像の読み込み効果"
+
+#: inc/admin/class-woostify-admin.php:128
+msgid "Dismiss this notice."
+msgstr "この通知を非表示にする。"
+
+#: inc/class-woostify.php:409 inc/customizer/register-sections.php:17
+msgid "Mobile Menu"
+msgstr "モバイルメニュー"
+
+#: inc/customizer/sections/header/header-transparent.php:310
+msgid "Count Transparent Background"
+msgstr "透明なカウント背景"
+
+#: inc/customizer/sections/header/header-transparent.php:285
+msgid "Icon Transparent Color"
+msgstr "透明なアイコンの色"
+
+#: inc/customizer/sections/shop/shop-single.php:399
+msgid "Bottom Space"
+msgstr "下の間隔"
+
+#: inc/customizer/sections/shop/shop-single.php:377
+msgid "Top Space"
+msgstr "上の間隔"
+
+#: inc/customizer/sections/sidebar/sidebar.php:188
+msgid "Shop/Product Archive"
+msgstr "ショップ・商品アーカイブ"
+
+#: inc/compatibility/elementor/class-woostify-elementor-single-product-images.php:79
+msgid "Default single product image"
+msgstr "デフォルト個別商品の画像"
+
+#: inc/compatibility/elementor/class-woostify-elementor-single-product-images.php:40
+msgid "Woostify - Default Product Images"
+msgstr "Woostify - デフォルト商品の画像"
+
+#: inc/customizer/sections/header/header.php:261
+msgid "Menu Breakpoint"
+msgstr "メニューのブレークポイント"
+
+#: inc/customizer/sections/header/header-transparent.php:260
+msgid "Menu Transparent Color"
+msgstr "透明なメニューの色"
+
+#: inc/customizer/sections/header/header-transparent.php:237
+msgid "Header Transparent Logo"
+msgstr "透明ヘッダーのロゴ"
+
+#: inc/customizer/sections/scroll-to-top/scroll-to-top.php:259
+msgid "Offset Bottom"
+msgstr "下のオフセット"
+
+#: inc/customizer/sections/scroll-to-top/scroll-to-top.php:188
+#: inc/customizer/sections/sticky-footer-bar/sticky-footer-bar.php:333
+msgid "Icon Size"
+msgstr "アイコンのサイズ"
+
+#: inc/customizer/sections/scroll-to-top/scroll-to-top.php:80
+msgid "Mobile + Desktop"
+msgstr "モバイル + デスクトップ"
+
+#: inc/customizer/sections/scroll-to-top/scroll-to-top.php:73
+msgid "Scroll On"
+msgstr "スクロールで"
+
+#: inc/customizer/sections/shop/shop-single.php:888
+msgid "Button Add To Cart"
+msgstr "カートに追加のボタン"
+
+#: inc/admin/class-woostify-admin.php:819
+msgid "Installing"
+msgstr "インストール中"
+
+#: inc/customizer/sections/shop/shop-single.php:164
+msgid "Default = 0 show stock"
+msgstr "デフォルト = 在庫数 0"
+
+#: inc/customizer/sections/shop/shop-single.php:163
+msgid "Min stock to show"
+msgstr "表示する最低限の在庫数"
+
+#: inc/customizer/sections/shop/shop-single.php:142
+msgid "Loading Bar"
+msgstr "読み込みバー"
+
+#: inc/customizer/sections/sidebar/sidebar.php:273
+msgid "Sidebar Width"
+msgstr "サイドバーの幅"
+
+#: inc/woocommerce/class-woostify-woocommerce.php:683
+msgid "Calculated at next step"
+msgstr "次のステップで計算される"
+
+#: inc/woocommerce/class-woostify-woocommerce.php:682
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:1664
+msgid "Shipping"
+msgstr "配送"
+
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:1622
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:1656
+msgid "Address"
+msgstr "住所"
+
+#: inc/admin/class-woostify-meta-boxes.php:195
+#: inc/customizer/sections/wordpress/background-image.php:15
+#: inc/customizer/sections/wordpress/background-image.php:25
+msgid "Content Boxed"
+msgstr "ボックスコンテンツ"
+
+#: inc/class-woostify.php:242
+#: inc/customizer/custom-controls/alpha-color-picker/class-woostify-color-control.php:111
+msgid "Color value"
+msgstr "色の値"
+
+#: inc/class-woostify.php:241
+#: inc/customizer/custom-controls/alpha-color-picker/class-woostify-color-control.php:113
+msgid "Select Color"
+msgstr "色を選択"
+
+#: inc/class-woostify.php:240
+#: inc/customizer/custom-controls/alpha-color-picker/class-woostify-color-control.php:110
+msgid "Select default color"
+msgstr "デフォルトの色を選択"
+
+#: inc/class-woostify.php:238
+#: inc/customizer/custom-controls/alpha-color-picker/class-woostify-color-control.php:109
+msgid "Clear color"
+msgstr "色をクリア"
+
+#: inc/class-woostify.php:237
+#: inc/customizer/custom-controls/adv-list/class-woostify-adv-list-control.php:144
+#: inc/customizer/custom-controls/alpha-color-picker/class-woostify-color-control.php:108
+#: inc/customizer/sections/performance/performance.php:119
+#: inc/woocommerce/woostify-woocommerce-single-product-functions.php:794
+msgid "Clear"
+msgstr "クリア"
+
+#: inc/customizer/sections/wordpress/background-image.php:221
+msgid "Shop Single Container"
+msgstr "ショップの個別コンテナ"
+
+#: inc/customizer/sections/wordpress/background-image.php:198
+msgid "Shop Container"
+msgstr "ショップのコンテナ"
+
+#: inc/customizer/sections/wordpress/background-image.php:154
+msgid "Archives Container"
+msgstr "アーカイブのコンテナ"
+
+#: inc/customizer/sections/wordpress/background-image.php:131
+msgid "Blog Single Container"
+msgstr "ブログの個別コンテナ"
+
+#: inc/customizer/sections/wordpress/background-image.php:108
+msgid "Page Container"
+msgstr "ページのコンテナ"
+
+#: inc/customizer/sections/wordpress/background-image.php:66
+msgid "Width"
+msgstr "幅"
+
+#: inc/admin/class-woostify-meta-boxes.php:203
+#: inc/customizer/sections/wordpress/background-image.php:17
+#: inc/customizer/sections/wordpress/background-image.php:27
+msgid "Full Width / Stretched"
+msgstr "全幅・ストレッチ"
+
+#: inc/admin/class-woostify-meta-boxes.php:199
+#: inc/customizer/sections/wordpress/background-image.php:16
+#: inc/customizer/sections/wordpress/background-image.php:26
+msgid "Full Width / Contained"
+msgstr "全幅・含まれる"
+
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:460
+msgid "Remove this item"
+msgstr "このアイテムを削除"
+
+#: inc/admin/class-woostify-admin.php:518
+msgid "WooBuilder"
+msgstr "WooBuilder"
+
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:1691
+msgid "Continue to Delivery"
+msgstr "配達を続行"
+
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:1691
+msgid "Continue to"
+msgstr "を続行"
+
+#. translators: Date time
+#: inc/woostify-template-functions.php:120
+msgid "%s ago"
+msgstr "%s前"
+
+#: inc/customizer/sections/shop/shop-single.php:684
+msgid "Columns"
+msgstr "列"
+
+#: inc/customizer/sections/shop/shop-single.php:717
+msgid "Total Products"
+msgstr "全商品"
+
+#. translators: %s number of product
+#. translators: %s stock quantity
+#: inc/woocommerce/class-woostify-woocommerce.php:803
+#: inc/woocommerce/woostify-woocommerce-single-product-functions.php:581
+msgid "Hurry! only %s left in stock."
+msgstr "速く ! 在庫に %s しか残っています。"
+
+#: inc/woocommerce/class-woostify-woocommerce.php:1153
+msgid "Enter Youtube or Vimeo video url"
+msgstr "YouTube または Vimeo の動画 URL を入力"
+
+#: inc/woocommerce/class-woostify-woocommerce.php:1132
+msgid "Product video url"
+msgstr "商品の動画 URL"
+
+#: inc/customizer/sections/shop/shop-page.php:1399
+msgid "Square"
+msgstr "スクエア"
+
+#: inc/customizer/sections/shop/shop-page.php:1234
+msgid "Out Of Stock Label"
+msgstr "在庫なしのラベル"
+
+#: inc/customizer/class-woostify-customizer.php:637
+msgid "Out Of Stock"
+msgstr "在庫なし"
+
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:1713
+msgid "Order Summary"
+msgstr "注文の概要"
+
+#. translators: 1: single item, 2: plural items
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:1708
+msgid "%s item"
+msgid_plural "%s items"
+msgstr[0] "%s項目"
+
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:1686
+msgid "Place Order"
+msgstr "発注する"
+
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:1690
+msgid "Back"
+msgstr "戻る"
+
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:1617
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:1625
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:1651
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:1659
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:1667
+msgid "Change"
+msgstr "変更"
+
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:1614
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:1648
+msgid "Contact"
+msgstr "連絡"
+
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:1534
+msgid "Payment"
+msgstr "支払い"
+
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:1530
+msgid "Delivery"
+msgstr "配達"
+
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:1526
+msgid "Billing Details"
+msgstr "請求先詳細"
+
+#: inc/customizer/sections/shop/shop-page.php:1483
+msgid "TI WooCommerce Wishlist"
+msgstr "TI WooCommerce Wishlist"
+
+#: inc/customizer/sections/shop/shop-page.php:1482
+msgid "YITH WooCommerce Wishlist"
+msgstr "YITH WooCommerce Wishlist"
+
+#: inc/customizer/sections/shop/shop-page.php:1475
+msgid "Support For Plugin"
+msgstr "プラグインにサポート"
+
+#: inc/customizer/sections/shop/checkout-page.php:59
+msgid "Distraction Free Checkout"
+msgstr "気が散らない購入手続き"
+
+#: inc/customizer/register-sections.php:123
+msgid "Cart Page"
+msgstr "カートページ"
+
+#: inc/customizer/sections/shop/cart-page.php:58
+msgid "Sticky Proceed To Checkout Button"
+msgstr "固定チェックアウトボタンに進む"
+
+#: inc/customizer/sections/shop/cart-page.php:29
+msgid "Cart Page Layout"
+msgstr "カートページのレイアウト"
+
+#: inc/customizer/sections/shop/cart-page.php:59
+#: inc/customizer/sections/shop/checkout-page.php:82
+msgid "This option only available on mobile devices"
+msgstr "このオプションはモバイルにのみ利用可能です。"
+
+#: inc/customizer/sections/shop/checkout-page.php:81
+msgid "Sticky Place Order Button"
+msgstr "固定発注ボタン"
+
+#: inc/admin/class-woostify-admin.php:614
+msgid "Sale Notification"
+msgstr "販売通知"
+
+#: inc/admin/class-woostify-admin.php:582
+msgid "Countdown Urgency"
+msgstr "緊急カウントダウン"
+
+#: inc/admin/class-woostify-admin.php:494
+msgid "Mega Menu"
+msgstr "メガメニュー"
+
+#: inc/customizer/sections/header/header.php:77
+msgid "Header Background"
+msgstr "ヘッダー背景"
+
+#: inc/customizer/class-woostify-customizer.php:677
+#: inc/customizer/sections/shop/shop-single.php:800
+msgid "Recently Viewed Products"
+msgstr "最近閲覧された商品"
+
+#: inc/customizer/sections/shop/shop-single.php:121
+msgid "Stock Label"
+msgstr "ストックのラベル"
+
+#: inc/woocommerce/class-woostify-woocommerce.php:680
+msgid "Sorry, something went wrong. Please try again!"
+msgstr "問題が発生しました。後ほどもう一度お試しください。"
+
+#: inc/customizer/sections/shop/shop-single.php:871
+msgid "Total Product"
+msgstr "全商品"
+
+#: inc/customizer/sections/shop/shop-single.php:849
+msgid "Section Title"
+msgstr "セクションタイトル"
+
+#: inc/customizer/sections/shop/shop-page.php:1264
+#: inc/customizer/sections/shop/shop-single.php:662
+#: inc/customizer/sections/shop/shop-single.php:825
+msgid "Display"
+msgstr "表示"
+
+#: inc/customizer/sections/shop/shop-single.php:634
+msgid "Related Products"
+msgstr "関連商品"
+
+#: inc/woostify-template-functions.php:279
+msgid "Copyright &copy; [current_year] [site_title] | Powered by [theme_author]"
+msgstr "Copyright &copy; [current_year] [site_title] | Powered by [theme_author]"
+
+#: inc/woocommerce/woostify-woocommerce-single-product-functions.php:94
+msgid "Next Product Image"
+msgstr "次の商品画像"
+
+#: inc/woocommerce/woostify-woocommerce-single-product-functions.php:71
+msgid "Previous"
+msgstr "前"
+
+#: inc/woocommerce/woostify-woocommerce-single-product-functions.php:62
+msgid "Previous Product Image"
+msgstr "前の商品画像"
+
+#: inc/customizer/sections/header/topbar.php:48
+msgid "Topbar Display"
+msgstr "トップバーを表示"
+
+#: inc/customizer/sections/shop/shop-single.php:209
+#: inc/woocommerce/woostify-woocommerce-single-product-functions.php:623
+msgid "Trust Badge Image"
+msgstr "信頼バッジ画像"
+
+#: inc/customizer/sections/shop/shop-single.php:79
+msgid "Product Navigation"
+msgstr "商品のナビゲーション"
+
+#: inc/customizer/sections/wordpress/title-tagline.php:25
+msgid "Retina Logo (Optional)"
+msgstr "Retina ロゴ (任意)"
+
+#: inc/woocommerce/class-woostify-woocommerce.php:681
+msgid "Please enter a valid quantity for this product"
+msgstr "この商品に正当な数量を入力してください"
+
+#: inc/customizer/sections/shop/shop-single.php:228
+msgid "Product Images"
+msgstr "商品画像"
+
+#: inc/compatibility/elementor/class-woostify-elementor-single-product-images.php:71
+#: inc/customizer/sections/footer/footer.php:27
+#: inc/customizer/sections/header/header-transparent.php:27
+#: inc/customizer/sections/header/header.php:27
+#: inc/customizer/sections/header/topbar.php:27
+#: inc/customizer/sections/header/topbar.php:249
+#: inc/customizer/sections/mobile-menu/mobile-menu.php:27
+#: inc/customizer/sections/page-header/page-header.php:27
+#: inc/customizer/sections/scroll-to-top/scroll-to-top.php:27
+#: inc/customizer/sections/shop/mini-cart.php:27
+#: inc/customizer/sections/shop/shipping-threshold.php:31
+#: inc/customizer/sections/shop/shop-page.php:27
+#: inc/customizer/sections/shop/shop-single.php:27
+#: inc/customizer/sections/sticky-footer-bar/sticky-footer-bar.php:27
+msgid "General"
+msgstr "一般"
+
+#: inc/woostify-template-functions.php:910
+msgid "Lost password"
+msgstr "パスワード紛失"
+
+#: inc/woostify-template-functions.php:906
+msgid "Addresses"
+msgstr "住所"
+
+#: inc/woostify-template-functions.php:904
+msgid "Account details"
+msgstr "アカウント詳細"
+
+#: inc/woostify-template-functions.php:902
+msgid "Downloads"
+msgstr "ダウンロード"
+
+#: inc/woostify-template-functions.php:900
+msgid "Orders"
+msgstr "注文"
+
+#: inc/customizer/sections/shop/shop-page.php:1591
+msgid "Cart Icon"
+msgstr "カートアイコン"
+
+#: inc/customizer/sections/shop/shop-page.php:1451
+msgid "Wishlist Button"
+msgstr "ウィッシュリストボタン"
+
+#: inc/customizer/sections/shop/shop-page.php:771
+msgid "Product Content Min Height"
+msgstr "商品コンテンツの最低限の高さ"
+
+#: inc/customizer/sections/shop/shop-page.php:750
+msgid "Equal Product Content"
+msgstr "商品のコンテンツを一致する"
+
+#: inc/widget/class-woostify-recent-post-thumbnail.php:23
+msgid "Woostify Recent Post With Thumbnail"
+msgstr "Woostify のサムネイル付き最近の投稿"
+
+#: inc/customizer/sections/header/header.php:238
+msgid "Header Menu"
+msgstr "ヘッダーメニュー"
+
+#: inc/customizer/sections/shop/shop-page.php:1204
+#: inc/customizer/sections/shop/shop-page.php:1421
+msgid "Size"
+msgstr "サイズ"
+
+#: inc/customizer/sections/shop/shop-page.php:1182
+msgid "Sale Square"
+msgstr "セールスクエア"
+
+#: inc/customizer/sections/shop/shop-page.php:1160
+msgid "Sale Percentage"
+msgstr "セールのパーセント"
+
+#: inc/customizer/custom-controls/topbar-slider-data-items/class-woostify-topbar-slider-data-items-control.php:102
+#: inc/customizer/custom-controls/topbar-slider-data-items/class-woostify-topbar-slider-data-items-control.php:120
+#: inc/customizer/sections/mobile-menu/mobile-menu.php:222
+#: inc/customizer/sections/shop/shop-page.php:1057
+#: inc/customizer/sections/shop/shop-page.php:1295
+#: inc/customizer/sections/sticky-footer-bar/sticky-footer-bar.php:284
+msgid "Text"
+msgstr "テキスト"
+
+#: inc/customizer/sections/shop/shop-page.php:996
+msgid "Sale Tag"
+msgstr "セールのタグ"
+
+#: inc/customizer/sections/scroll-to-top/scroll-to-top.php:106
+#: inc/customizer/sections/shop/shop-page.php:1027
+#: inc/customizer/sections/shop/shop-page.php:1504
+#: inc/customizer/sections/shop/shop-page.php:1560
+#: inc/customizer/sections/shop/shop-single.php:563
+msgid "Position"
+msgstr "配置"
+
+#: inc/customizer/sections/shop/shop-page.php:1531
+msgid "Add To Cart Button"
+msgstr "カートに追加ボタン"
+
+#: inc/customizer/sections/shop/shop-page.php:966
+msgid "Image Height"
+msgstr "画像の高さ"
+
+#: inc/customizer/sections/shop/shop-page.php:944
+msgid "Equal Image Height"
+msgstr "商品の画像の高さを一致する"
+
+#: inc/customizer/sections/shop/shop-page.php:838
+msgid "Swap"
+msgstr "スワップ"
+
+#: inc/customizer/sections/shop/shop-page.php:837
+msgid "Zoom"
+msgstr "ズーム"
+
+#: inc/customizer/sections/shop/shop-page.php:829
+msgid "Hover Effect"
+msgstr "ホバー効果"
+
+#: inc/customizer/sections/shop/shop-page.php:801
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:1465
+msgid "Product Image"
+msgstr "商品画像"
+
+#: inc/customizer/sections/shop/shop-page.php:596
+msgid "Alignment"
+msgstr "整列"
+
+#: inc/customizer/sections/shop/shop-page.php:565
+msgid "Product Content"
+msgstr "商品の内容"
+
+#: inc/customizer/sections/shop/shop-page.php:514
+#: inc/customizer/sections/shop/shop-page.php:891
+msgid "Border Width"
+msgstr "ボーダー幅"
+
+#: inc/customizer/sections/shop/shop-page.php:493
+#: inc/customizer/sections/shop/shop-page.php:870
+msgid "Double"
+msgstr "ダブル"
+
+#: inc/customizer/sections/shop/shop-page.php:492
+#: inc/customizer/sections/shop/shop-page.php:869
+msgid "Dotted"
+msgstr "ドット"
+
+#: inc/customizer/sections/shop/shop-page.php:491
+#: inc/customizer/sections/shop/shop-page.php:868
+msgid "Dashed"
+msgstr "破線"
+
+#: inc/customizer/sections/shop/shop-page.php:490
+#: inc/customizer/sections/shop/shop-page.php:867
+msgid "Solid"
+msgstr "単色"
+
+#: inc/customizer/sections/shop/mini-cart.php:148
+#: inc/customizer/sections/shop/mini-cart.php:222
+#: inc/customizer/sections/shop/mini-cart.php:296
+#: inc/customizer/sections/shop/shop-page.php:489
+#: inc/customizer/sections/shop/shop-page.php:836
+#: inc/customizer/sections/shop/shop-page.php:866
+#: inc/customizer/sections/shop/shop-page.php:1273
+msgid "None"
+msgstr "なし"
+
+#: inc/customizer/sections/shop/shop-page.php:482
+#: inc/customizer/sections/shop/shop-page.php:859
+msgid "Border Style"
+msgstr "枠線のスタイル"
+
+#: inc/customizer/sections/shop/shop-page.php:457
+msgid "Product Card"
+msgstr "商品カード"
+
+#: inc/customizer/sections/shop/shop-page.php:147
+msgid "Product Filtering"
+msgstr "商品のフィルタリング"
+
+#: inc/customizer/sections/shop/shop-page.php:125
+msgid "Result Count"
+msgstr "結果数"
+
+#: inc/customizer/sections/shop/product-catalog.php:140
+msgid "Products Per Page"
+msgstr "ページあたりの商品数"
+
+#: inc/customizer/class-woostify-customizer.php:817
+msgid "Get Woostify  Pro Extensions!"
+msgstr "Woostify  Pro の拡張機能を入手 !"
+
+#: inc/admin/class-woostify-admin.php:486
+msgid "Sticky Header"
+msgstr "固定ヘッダー"
+
+#: inc/admin/class-woostify-admin.php:542
+msgid "Size Guide"
+msgstr "サイズのガイド"
+
+#: inc/admin/class-woostify-admin.php:510
+msgid "Header Footer Builder"
+msgstr "ヘッダーフッタービルダー"
+
+#: inc/customizer/sections/blog/blog-single.php:54
+msgid "Blog Single Post Meta"
+msgstr "ブログの個別投稿メタ"
+
+#: inc/customizer/sections/blog/blog-single.php:33
+#: inc/customizer/sections/blog/blog.php:132
+msgid "Post Meta"
+msgstr "投稿メタ"
+
+#: inc/customizer/sections/blog/blog-single.php:32
+#: inc/customizer/sections/blog/blog.php:131
+#: inc/customizer/sections/page-header/page-header.php:90
+msgid "Title"
+msgstr "タイトル"
+
+#: inc/customizer/sections/shop/shop-single.php:356
+msgid "Gallery Lightbox Effect"
+msgstr "ギャラリーのライトボックス効果"
+
+#: inc/customizer/sections/shop/shop-single.php:335
+msgid "Gallery Zoom Effect"
+msgstr "ギャラリーズーム効果"
+
+#: inc/admin/class-woostify-meta-boxes.php:300
+msgid "Disable Header"
+msgstr "ヘッダーを無効化"
+
+#: inc/woocommerce/woostify-woocommerce-archive-product-functions.php:335
+msgid "Filter"
+msgstr "フィルター"
+
+#: inc/customizer/sections/header/header-transparent.php:185
+msgid "Disable on Product page"
+msgstr "商品ページで無効化"
+
+#: inc/customizer/sections/header/header-transparent.php:93
+msgid "Disable on Blog page"
+msgstr "ブログページで無効化"
+
+#: inc/admin/class-woostify-admin.php:329
+#: inc/admin/class-woostify-admin.php:861
+msgid "Changelog"
+msgstr "更新履歴"
+
+#: inc/admin/class-woostify-meta-boxes.php:293
+msgid "Disable Topbar"
+msgstr "トップバーを無効化"
+
+#: inc/customizer/custom-controls/adv-list/class-woostify-adv-list-control.php:122
+#: inc/woostify-template-functions.php:916
+msgid "Search"
+msgstr "検索"
+
+#: inc/woostify-template-functions.php:853
+msgid "Archives"
+msgstr "アーカイブ"
+
+#: inc/woostify-template-functions.php:837
+msgid "Tags: "
+msgstr "タグ: "
+
+#: inc/woostify-template-functions.php:832
+msgid "Search results: "
+msgstr "検索結果: "
+
+#. translators: post date
+#: inc/woostify-template-functions.php:830
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "年"
+
+#. translators: post date
+#: inc/woostify-template-functions.php:830
+msgid "Yearly Archives: %s"
+msgstr "年間アーカイブ: %s"
+
+#. translators: post date
+#: inc/woostify-template-functions.php:820
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "Y年n月"
+
+#. translators: post date
+#: inc/woostify-template-functions.php:820
+msgid "Monthly Archives: %s"
+msgstr "月間アーカイブ: %s"
+
+#. translators: post date
+#: inc/woostify-template-functions.php:817
+msgid "Daily Archives: %s"
+msgstr "日別アーカイブ: %s"
+
+#: inc/admin/class-woostify-meta-boxes.php:262
+#: inc/customizer/register-sections.php:16
+msgid "Page Header"
+msgstr "ページヘッダー"
+
+#: inc/customizer/register-sections.php:14
+msgid "Normal Header"
+msgstr "通常ヘッダー"
+
+#: inc/customizer/sections/header/header-transparent.php:390
+#: inc/customizer/sections/shop/shop-page.php:546
+#: inc/customizer/sections/shop/shop-page.php:923
+msgid "Border Color"
+msgstr "枠線の色"
+
+#: inc/customizer/sections/header/header-transparent.php:356
+msgid "Bottom Border Width"
+msgstr "下枠線の幅"
+
+#: inc/customizer/sections/header/header-transparent.php:216
+#: inc/customizer/sections/sticky-footer-bar/sticky-footer-bar.php:170
+msgid "Desktop + Mobile"
+msgstr "デスクトップ + モバイル"
+
+#: inc/customizer/sections/footer/footer.php:48
+msgid "Footer Display"
+msgstr "フッターを表示"
+
+#: inc/customizer/sections/buttons/button.php:123
+#: inc/customizer/sections/scroll-to-top/scroll-to-top.php:224
+#: inc/customizer/sections/shop/shop-page.php:1128
+#: inc/customizer/sections/shop/shop-page.php:1366
+#: inc/customizer/sections/shop/shop-page.php:1692
+#: inc/customizer/sections/shop/shop-single.php:995
+msgid "Border Radius"
+msgstr "枠線の半径"
+
+#: inc/customizer/sections/page-header/page-header.php:476
+msgid "Margin Bottom"
+msgstr "下マージン"
+
+#: inc/customizer/sections/page-header/page-header.php:442
+msgid "Padding Bottom"
+msgstr "下パディング"
+
+#: inc/customizer/sections/page-header/page-header.php:408
+msgid "Padding Top"
+msgstr "上パディング"
+
+#: inc/customizer/sections/page-header/page-header.php:366
+msgid "Local"
+msgstr "ローカル"
+
+#: inc/customizer/sections/page-header/page-header.php:365
+msgid "Fixed"
+msgstr "固定"
+
+#: inc/customizer/sections/page-header/page-header.php:359
+msgid "Background Attachment"
+msgstr "背景の添付ファイル"
+
+#: inc/customizer/sections/page-header/page-header.php:337
+msgid "Right Bottom"
+msgstr "右下"
+
+#: inc/customizer/sections/page-header/page-header.php:336
+msgid "Right Center"
+msgstr "右中央"
+
+#: inc/customizer/sections/page-header/page-header.php:335
+msgid "Right Top"
+msgstr "右上"
+
+#: inc/customizer/sections/page-header/page-header.php:334
+msgid "Center Bottom"
+msgstr "中央下"
+
+#: inc/customizer/sections/page-header/page-header.php:333
+msgid "Center Center"
+msgstr "中央中央"
+
+#: inc/customizer/sections/page-header/page-header.php:332
+msgid "Center Top"
+msgstr "中央上"
+
+#: inc/customizer/sections/page-header/page-header.php:331
+msgid "Left Bottom"
+msgstr "左下"
+
+#: inc/customizer/sections/page-header/page-header.php:330
+msgid "Left Center"
+msgstr "左中央"
+
+#: inc/customizer/sections/page-header/page-header.php:329
+msgid "Left Top"
+msgstr "左上"
+
+#: inc/customizer/sections/page-header/page-header.php:324
+msgid "Background Position"
+msgstr "背景の位置"
+
+#: inc/customizer/sections/page-header/page-header.php:302
+msgid "Round"
+msgstr "丸"
+
+#: inc/customizer/sections/page-header/page-header.php:300
+msgid "Repeat Y"
+msgstr "繰り返しY"
+
+#: inc/customizer/sections/page-header/page-header.php:299
+msgid "Repeat X"
+msgstr "繰り返しX"
+
+#: inc/customizer/sections/page-header/page-header.php:298
+msgid "No Repeat"
+msgstr "繰り返さない"
+
+#: inc/customizer/sections/page-header/page-header.php:292
+msgid "Background Repeat"
+msgstr "背景の繰り返し"
+
+#: inc/customizer/sections/page-header/page-header.php:270
+msgid "Contain"
+msgstr "含む"
+
+#: inc/customizer/sections/page-header/page-header.php:269
+msgid "Cover"
+msgstr "カバー"
+
+#: inc/customizer/sections/page-header/page-header.php:263
+msgid "Background Size"
+msgstr "背景サイズ"
+
+#: inc/customizer/sections/page-header/page-header.php:240
+msgid "Background Image"
+msgstr "背景画像"
+
+#: inc/customizer/sections/page-header/page-header.php:190
+msgid "Breadcrumb Color"
+msgstr "パンくずリストの色"
+
+#: inc/customizer/sections/blog/blog.php:186
+#: inc/customizer/sections/page-header/page-header.php:165
+msgid "Title Color"
+msgstr "タイトルの色"
+
+#: inc/customizer/sections/page-header/page-header.php:143
+msgid "Page Title / Breadcrumb"
+msgstr "ページタイトル・パンくずリスト"
+
+#: inc/customizer/sections/mobile-menu/mobile-menu.php:346
+#: inc/customizer/sections/page-header/page-header.php:142
+#: inc/customizer/sections/scroll-to-top/scroll-to-top.php:113
+#: inc/customizer/sections/shop/shop-page.php:605
+#: inc/customizer/sections/shop/shop-page.php:1035
+#: inc/customizer/sections/shop/shop-page.php:1272
+#: inc/customizer/sections/sticky-footer-bar/sticky-footer-bar.php:607
+msgid "Right"
+msgstr "右"
+
+#: inc/customizer/sections/page-header/page-header.php:141
+#: inc/customizer/sections/shop/shop-page.php:604
+msgid "Center"
+msgstr "中央"
+
+#: inc/customizer/sections/mobile-menu/mobile-menu.php:348
+#: inc/customizer/sections/page-header/page-header.php:140
+#: inc/customizer/sections/scroll-to-top/scroll-to-top.php:114
+#: inc/customizer/sections/shop/shop-page.php:603
+#: inc/customizer/sections/shop/shop-page.php:1034
+#: inc/customizer/sections/shop/shop-page.php:1271
+#: inc/customizer/sections/sticky-footer-bar/sticky-footer-bar.php:609
+msgid "Left"
+msgstr "左"
+
+#: inc/customizer/sections/page-header/page-header.php:135
+msgid "Text Align"
+msgstr "テキストの配置"
+
+#: inc/customizer/sections/page-header/page-header.php:48
+msgid "Page Header Display"
+msgstr "ページヘッダーを表示"
+
+#: inc/admin/class-woostify-admin.php:943
+msgid "Submit a Ticket"
+msgstr "チケットを送信"
+
+#: inc/admin/class-woostify-admin.php:574
+msgid "Quick View"
+msgstr "クイックビュー"
+
+#: inc/customizer/sections/shop/shop-single.php:100
+msgid "Ajax Single Add To Cart"
+msgstr "Ajax の個別カートに追加"
+
+#: inc/admin/class-woostify-admin.php:558
+msgid "Buy Now Button"
+msgstr "今すぐ購入ボタン"
+
+#: inc/admin/class-woostify-admin.php:550
+msgid "Advanced Shop Widgets"
+msgstr "高度なショップウィジェット"
+
+#: inc/admin/class-woostify-admin.php:502
+msgid "Elementor Bundle"
+msgstr "Elementor バンドル"
+
+#: inc/admin/class-woostify-admin.php:478
+msgid "Multiple Headers"
+msgstr "複数のヘッダー"
+
+#: inc/woostify-template-functions.php:1515
+msgid "by Unknown author"
+msgstr "不明な作成者によって"
+
+#: inc/widget/class-woostify-recent-post-thumbnail.php:58
+msgid "Number:"
+msgstr "数:"
+
+#: inc/widget/class-woostify-recent-post-thumbnail.php:49
+msgid "Title:"
+msgstr "タイトル:"
+
+#: inc/widget/class-woostify-recent-post-thumbnail.php:38
+msgid "Recent Posts"
+msgstr "最近の投稿"
+
+#: inc/widget/class-woostify-recent-post-thumbnail.php:26
+msgid "List the most recent posts with post titles, thumbnail"
+msgstr "投稿タイトル、サムネイル付きのもっとも最近の投稿をリストアップ"
+
+#: inc/admin/class-woostify-admin.php:818
+msgid "Activating"
+msgstr "有効化中"
+
+#: inc/admin/class-woostify-admin.php:808
+msgid "Install Woostify Library"
+msgstr "Woostify ライブラリーをインストール"
+
+#: inc/admin/class-woostify-admin.php:806
+msgid "Activate"
+msgstr "有効化"
+
+#: inc/admin/class-woostify-admin.php:71
+msgid "It will require other 3rd party plugins such as Elementor, WooCommerce, Contact form 7, etc."
+msgstr "Elementor、WooCommerce や Contact form 7 などの他の第三者プラグインは必須です。"
+
+#: inc/admin/class-woostify-admin.php:68
+msgid "Quickly and easily transform your shops appearance with Woostify Demo Sites."
+msgstr "Woostify のデモサイトで素早く簡単にショップの外観を変更する。"
+
+#: inc/admin/class-woostify-admin.php:775
+msgid "Import Demo"
+msgstr "デモをインポート"
+
+#. translators: 1: Class name
+#: inc/admin/class-woostify-admin.php:693
+msgid "%s not activated."
+msgstr "%s が有効化されていません。"
+
+#: inc/admin/class-woostify-admin.php:741
+msgid "Documention"
+msgstr "ドキュメンテーション"
+
+#: inc/admin/class-woostify-admin.php:334
+#: inc/admin/class-woostify-admin.php:668
+#: inc/admin/class-woostify-admin.php:931
+msgid "Support"
+msgstr "サポート"
+
+#: inc/admin/class-woostify-admin.php:251
+msgid "Set Colors"
+msgstr "色を設定"
+
+#: inc/admin/class-woostify-admin.php:244
+msgid "Upload Logo"
+msgstr "ロゴをアップロード"
+
+#. translators: Theme options
+#: inc/admin/class-woostify-admin.php:117
+msgid "To fully take advantage of the best our theme can offer please make sure you visit our <a href=\"%1$s\">Woostify Options</a>."
+msgstr "当テーマを最大限に活用するために、必ず <a href=\"%1$s\">Woostify オプション </a> を確認ください。"
+
+#: inc/admin/class-woostify-admin.php:111
+msgid "Thanks for installing Woostify!"
+msgstr "Woostify をインストールしていただきありがとうございます !"
+
+#: inc/admin/class-woostify-meta-boxes.php:285
+msgid "Disable Sections"
+msgstr "セクションの無効化"
+
+#: inc/admin/class-woostify-meta-boxes.php:253
+#: inc/admin/class-woostify-meta-boxes.php:276
+#: inc/woocommerce/class-woostify-woocommerce.php:473
+#: inc/woocommerce/class-woostify-woocommerce.php:499
+msgid "Disabled"
+msgstr "無効化済み"
+
+#: inc/admin/class-woostify-meta-boxes.php:249
+#: inc/admin/class-woostify-meta-boxes.php:272
+#: inc/woocommerce/class-woostify-woocommerce.php:472
+#: inc/woocommerce/class-woostify-woocommerce.php:498
+msgid "Enabled"
+msgstr "有効化済み"
+
+#: inc/admin/class-woostify-meta-boxes.php:239
+msgid "Transparent Header"
+msgstr "透明ヘッダー"
+
+#: inc/admin/class-woostify-meta-boxes.php:230
+msgid "No Sidebar"
+msgstr "サイドバーなし"
+
+#: inc/admin/class-woostify-meta-boxes.php:226
+msgid "Right Sidebar"
+msgstr "右サイドバー"
+
+#: inc/admin/class-woostify-meta-boxes.php:222
+msgid "Left Sidebar"
+msgstr "左サイドバー"
+
+#: inc/admin/class-woostify-meta-boxes.php:183
+#: inc/admin/class-woostify-meta-boxes.php:218
+#: inc/admin/class-woostify-meta-boxes.php:245
+#: inc/admin/class-woostify-meta-boxes.php:268
+msgid "Customizer Setting"
+msgstr "カスタマイザー設定"
+
+#: inc/admin/class-woostify-meta-boxes.php:177
+msgid "Container"
+msgstr "コンテナ"
+
+#: inc/admin/class-woostify-meta-boxes.php:122
+msgid " Settings"
+msgstr " 設定"
+
+#: inc/customizer/override-defaults.php:10
+msgid "Site Container"
+msgstr "サイトコンテナ"
+
+#: inc/customizer/class-woostify-customizer.php:835
+#: inc/customizer/class-woostify-customizer.php:851
+#: inc/customizer/class-woostify-customizer.php:867
+#: inc/customizer/class-woostify-customizer.php:883
+#: inc/customizer/class-woostify-customizer.php:899
+msgid "More options are coming for this section in our Pro Extensions."
+msgstr "プロの拡張機能には、このセクションのオプションがさらに充実になります。"
+
+#: inc/customizer/class-woostify-customizer.php:834
+#: inc/customizer/class-woostify-customizer.php:850
+#: inc/customizer/class-woostify-customizer.php:866
+#: inc/customizer/class-woostify-customizer.php:882
+#: inc/customizer/class-woostify-customizer.php:898
+msgid "Learn More"
+msgstr "さらに詳しく"
+
+#: inc/customizer/class-woostify-customizer.php:724
+msgid "Opps! The page you are looking for is missing for some reasons. Please come back to homepage"
+msgstr "おっと ! お探しのページはなぜか見つかりませんでした。ホームページに戻ってください"
+
+#: inc/customizer/sections/header/header.php:499
+msgid "Shopping Cart Icon"
+msgstr "ショッピングカートのアイコン"
+
+#: inc/customizer/sections/header/header.php:387
+msgid "Wishlist Icon"
+msgstr "お気に入りリストアイコン"
+
+#: inc/customizer/sections/header/header.php:341
+msgid "Search Only Product"
+msgstr "製品のみを検索"
+
+#: inc/customizer/sections/header/header.php:216
+msgid "Elements"
+msgstr "要素"
+
+#: inc/customizer/sections/header/header.php:48
+msgid "Header Layout"
+msgstr "ヘッダーレイアウト"
+
+#: inc/customizer/sections/header/header-transparent.php:209
+#: inc/customizer/sections/sticky-footer-bar/sticky-footer-bar.php:163
+msgid "Enable On"
+msgstr "有効化する"
+
+#: inc/customizer/sections/header/header-transparent.php:139
+msgid "Disable on Posts"
+msgstr "投稿で無効化"
+
+#: inc/customizer/sections/header/header-transparent.php:116
+msgid "Disable on Pages"
+msgstr "ページで無効化"
+
+#: inc/customizer/sections/header/header-transparent.php:162
+msgid "Disable on Shop page"
+msgstr "ショップページで無効化"
+
+#: inc/customizer/sections/header/header-transparent.php:70
+msgid "Disable on 404, Search & Archives"
+msgstr "404、検索、アーカイブで無効化"
+
+#: inc/customizer/sections/header/header-transparent.php:48
+msgid "Enable Transparent Header"
+msgstr "透明ヘッダーを有効化"
+
+#: inc/customizer/sections/header/topbar.php:224
+msgid "Content Right"
+msgstr "右コンテンツ"
+
+#: inc/customizer/sections/header/topbar.php:200
+msgid "Content Center"
+msgstr "中央コンテンツ"
+
+#: inc/customizer/sections/header/topbar.php:176
+msgid "Content Left"
+msgstr "左コンテンツ"
+
+#: inc/customizer/sections/404/error-404.php:47
+#: inc/customizer/sections/mobile-menu/mobile-menu.php:188
+#: inc/customizer/sections/scroll-to-top/scroll-to-top.php:137
+#: inc/customizer/sections/shop/mini-cart.php:53
+#: inc/customizer/sections/shop/shop-page.php:1623
+#: inc/customizer/sections/shop/shop-single.php:926
+#: inc/customizer/sections/sticky-footer-bar/sticky-footer-bar.php:213
+msgid "Background"
+msgstr "背景"
+
+#: inc/customizer/sections/blog/blog-single.php:124
+msgid "Related Post"
+msgstr "関連投稿"
+
+#: inc/customizer/sections/blog/blog-single.php:103
+msgid "Author Box"
+msgstr "投稿者ボックス"
+
+#: inc/customizer/sections/blog/blog-single.php:25
+msgid "Blog Single Structure"
+msgstr "ブログの個別構造"
+
+#: inc/customizer/sections/blog/blog-single.php:63
+#: inc/customizer/sections/blog/blog.php:163
+msgid "Comments"
+msgstr "コメント"
+
+#: inc/customizer/sections/blog/blog-single.php:62
+#: inc/customizer/sections/blog/blog.php:162
+msgid "Category"
+msgstr "カテゴリー"
+
+#: inc/customizer/sections/blog/blog-single.php:61
+#: inc/customizer/sections/blog/blog.php:161
+msgid "Author"
+msgstr "投稿者"
+
+#: inc/customizer/sections/blog/blog-single.php:60
+#: inc/customizer/sections/blog/blog.php:160
+msgid "Publish Date"
+msgstr "公開日"
+
+#: inc/customizer/sections/blog/blog.php:153
+msgid "Blog Post Meta"
+msgstr "ブログ投稿メタ"
+
+#: inc/customizer/sections/blog/blog-single.php:31
+#: inc/customizer/sections/blog/blog.php:130
+msgid "Featured Image"
+msgstr "アイキャッチ画像"
+
+#: inc/customizer/sections/blog/blog.php:123
+msgid "Blog List Structure"
+msgstr "ブログリストの構造"
+
+#: inc/customizer/sections/blog/blog.php:83
+msgid "Limit Excerpt"
+msgstr "抜粋の制限"
+
+#: inc/customizer/sections/blog/blog.php:51
+msgid "Blog Layout"
+msgstr "ブログレイアウト"
+
+#: inc/customizer/sections/typography/body.php:74
+msgid "Body Font"
+msgstr "本文フォント"
+
+#: inc/customizer/sections/typography/heading.php:74
+msgid "Heading Font"
+msgstr "見出しのフォント"
+
+#: inc/customizer/sections/typography/primary-menu.php:247
+msgid "Sub Menu"
+msgstr "サブメニュー"
+
+#: inc/customizer/sections/typography/body.php:138
+#: inc/customizer/sections/typography/heading.php:103
+#: inc/customizer/sections/typography/primary-menu.php:175
+#: inc/customizer/sections/typography/primary-menu.php:307
+msgid "Line Height"
+msgstr "行の高さ"
+
+#: inc/customizer/sections/typography/body.php:103
+#: inc/customizer/sections/typography/heading.php:175
+#: inc/customizer/sections/typography/primary-menu.php:140
+#: inc/customizer/sections/typography/primary-menu.php:272
+msgid "Font Size"
+msgstr "フォントサイズ"
+
+#: inc/customizer/sections/typography/primary-menu.php:115
+msgid "Parent Menu"
+msgstr "親メニュー"
+
+#: inc/customizer/sections/typography/primary-menu.php:72
+msgid "Menu Font"
+msgstr "メニューフォント"
+
+#: inc/customizer/sections/header/header.php:169
+msgid "Count Background Color"
+msgstr "カウントの背景色"
+
+#: inc/customizer/class-woostify-customizer.php:388
+#: inc/customizer/sections/color/color.php:83
+msgid "Link / Accent Color"
+msgstr "リンク・アクセント色"
+
+#: inc/customizer/sections/typography/primary-menu.php:339
+msgid "Sub-menu Color"
+msgstr "サブメニューの色"
+
+#: inc/customizer/sections/typography/primary-menu.php:207
+msgid "Parent Menu Color"
+msgstr "親メニューの色"
+
+#: inc/customizer/class-woostify-customizer.php:386
+#: inc/customizer/sections/color/color.php:29
+msgid "Theme Color"
+msgstr "テーマ色"
+
+#: inc/customizer/sections/404/error-404.php:25
+#: inc/customizer/sections/footer/footer.php:278
+msgid "Custom Text"
+msgstr "カスタムテキスト"
+
+#: inc/customizer/sections/footer/footer.php:209
+msgid "Link Color"
+msgstr "リンク色"
+
+#: inc/customizer/sections/buttons/button.php:75
+#: inc/customizer/sections/footer/footer.php:159
+#: inc/customizer/sections/header/topbar.php:97
+#: inc/customizer/sections/header/topbar.php:453
+#: inc/customizer/sections/page-header/page-header.php:215
+#: inc/customizer/sections/shop/shop-page.php:1104
+#: inc/customizer/sections/shop/shop-page.php:1342
+#: inc/customizer/sections/site-container/site-container.php:20
+msgid "Background Color"
+msgstr "背景色"
+
+#: inc/customizer/sections/footer/footer.php:104
+msgid "Widget Columns"
+msgstr "ウィジェットカラム"
+
+#: inc/customizer/sections/footer/footer.php:71
+#: inc/customizer/sections/header/topbar.php:122
+#: inc/customizer/sections/header/topbar.php:478
+#: inc/customizer/sections/page-header/page-header.php:301
+msgid "Space"
+msgstr "スペース"
+
+#: inc/admin/class-woostify-meta-boxes.php:307
+msgid "Disable Footer"
+msgstr "フッターを無効化"
+
+#: inc/admin/class-woostify-meta-boxes.php:191
+#: inc/customizer/sections/wordpress/background-image.php:14
+#: inc/customizer/sections/wordpress/background-image.php:24
+msgid "Boxed"
+msgstr "ボックス"
+
+#: inc/admin/class-woostify-meta-boxes.php:187
+#: inc/customizer/sections/shop/shop-single.php:541
+#: inc/customizer/sections/wordpress/background-image.php:13
+#: inc/customizer/sections/wordpress/background-image.php:23
+msgid "Normal"
+msgstr "通常"
+
+#: inc/customizer/sections/wordpress/background-image.php:85
+msgid "Default Container"
+msgstr "デフォルトコンテナ"
+
+#: inc/customizer/sections/wordpress/title-tagline.php:109
+msgid "Logo Width"
+msgstr "ロゴの幅"
+
+#: inc/customizer/sections/wordpress/title-tagline.php:47
+msgid "Mobile Logo (Optional)"
+msgstr "モバイルロゴ (オプション)"
+
+#: inc/customizer/sections/sidebar/sidebar.php:221
+msgid "Shop Single"
+msgstr "個別ショップ"
+
+#: inc/customizer/sections/sidebar/sidebar.php:105
+msgid "Blog List"
+msgstr "ブログリスト"
+
+#: inc/customizer/sections/sidebar/sidebar.php:55
+msgid "Page"
+msgstr "ページ"
+
+#: inc/customizer/sections/sidebar/sidebar.php:34
+#: inc/customizer/sections/sidebar/sidebar.php:65
+#: inc/customizer/sections/sidebar/sidebar.php:115
+#: inc/customizer/sections/sidebar/sidebar.php:146
+#: inc/customizer/sections/sidebar/sidebar.php:198
+#: inc/customizer/sections/sidebar/sidebar.php:231
+msgid "Right sidebar"
+msgstr "右サイドバー"
+
+#: inc/customizer/sections/sidebar/sidebar.php:33
+#: inc/customizer/sections/sidebar/sidebar.php:64
+#: inc/customizer/sections/sidebar/sidebar.php:114
+#: inc/customizer/sections/sidebar/sidebar.php:145
+#: inc/customizer/sections/sidebar/sidebar.php:197
+#: inc/customizer/sections/sidebar/sidebar.php:230
+msgid "Left sidebar"
+msgstr "左サイドバー"
+
+#: inc/customizer/sections/sidebar/sidebar.php:32
+#: inc/customizer/sections/sidebar/sidebar.php:63
+#: inc/customizer/sections/sidebar/sidebar.php:113
+#: inc/customizer/sections/sidebar/sidebar.php:144
+#: inc/customizer/sections/sidebar/sidebar.php:196
+#: inc/customizer/sections/sidebar/sidebar.php:229
+msgid "No sidebar"
+msgstr "サイドバーなし"
+
+#: inc/class-woostify.php:239
+#: inc/customizer/custom-controls/alpha-color-picker/class-woostify-color-control.php:112
+#: inc/customizer/sections/page-header/page-header.php:268
+#: inc/customizer/sections/page-header/page-header.php:297
+#: inc/customizer/sections/page-header/page-header.php:364
+#: inc/customizer/sections/sidebar/sidebar.php:25
+#: inc/customizer/sections/sidebar/sidebar.php:62
+#: inc/customizer/sections/sidebar/sidebar.php:112
+#: inc/customizer/sections/sidebar/sidebar.php:143
+#: inc/customizer/sections/sidebar/sidebar.php:195
+#: inc/customizer/sections/sidebar/sidebar.php:228
+#: inc/customizer/sections/wordpress/background-image.php:22
+msgid "Default"
+msgstr "デフォルト"
+
+#: inc/customizer/sections/shop/shop-single.php:467
+msgid "Categories"
+msgstr "カテゴリー"
+
+#: inc/customizer/sections/shop/shop-single.php:445
+msgid "SKU"
+msgstr "SKU"
+
+#: inc/customizer/sections/shop/shop-single.php:284
+msgid "Gallery Layout"
+msgstr "ギャラリーレイアウト"
+
+#: inc/customizer/sections/shop/shop-single.php:186
+msgid "Content Background"
+msgstr "コンテンツの背景"
+
+#: inc/customizer/sections/shop/shop-page.php:708
+msgid "Product Price"
+msgstr "商品価格"
+
+#: inc/customizer/sections/shop/shop-page.php:687
+msgid "Product Rating"
+msgstr "商品の評価"
+
+#: inc/customizer/sections/shop/shop-page.php:666
+msgid "Product Category"
+msgstr "商品カテゴリー"
+
+#: inc/customizer/sections/shop/shop-page.php:645
+msgid "Product Title"
+msgstr "商品タイトル"
+
+#: inc/customizer/sections/shop/shop-single.php:419
+msgid "Product Meta"
+msgstr "商品メタ"
+
+#: inc/customizer/sections/page-header/page-header.php:112
+#: inc/customizer/sections/shop/shop-page.php:103
+#: inc/customizer/sections/shop/shop-single.php:58
+msgid "Breadcrumb"
+msgstr "パンくずリスト"
+
+#: inc/customizer/sections/shop/shop-page.php:81
+msgid "Shop Title"
+msgstr "ショップタイトル"
+
+#: inc/customizer/sections/shop/product-catalog.php:92
+msgid "Products Per Row"
+msgstr "行あたりの商品数"
+
+#: inc/customizer/register-sections.php:114
+msgid "Product Single"
+msgstr "単一商品"
+
+#: inc/customizer/register-sections.php:105
+msgid "Shop Archive"
+msgstr "ショップのアーカイブ"
+
+#: inc/admin/class-woostify-admin.php:279
+#: inc/woostify-template-functions.php:718
+#: inc/woostify-template-functions.php:768
+#: inc/woostify-template-functions.php:835
+msgid "Shop"
+msgstr "ショップ"
+
+#: inc/customizer/register-sections.php:23
+msgid "404"
+msgstr "404"
+
+#: inc/customizer/register-sections.php:95
+msgid "Heading"
+msgstr "見出し"
+
+#: inc/customizer/register-sections.php:86
+msgid "Primary menu"
+msgstr "メインメニュー"
+
+#: inc/customizer/register-sections.php:77
+msgid "Body"
+msgstr "本文"
+
+#: inc/admin/class-woostify-admin.php:272
+#: inc/customizer/register-sections.php:68
+msgid "Typography"
+msgstr "タイポグラフィ"
+
+#: inc/admin/class-woostify-admin.php:265
+#: inc/customizer/register-sections.php:59
+msgid "Buttons"
+msgstr "ボタン"
+
+#: inc/customizer/register-sections.php:50
+#: inc/customizer/sections/scroll-to-top/scroll-to-top.php:162
+#: inc/customizer/sections/shop/shop-page.php:1662
+#: inc/customizer/sections/shop/shop-single.php:965
+msgid "Color"
+msgstr "色"
+
+#: inc/customizer/register-sections.php:21
+msgid "Footer"
+msgstr "フッター"
+
+#: inc/admin/class-woostify-meta-boxes.php:212
+#: inc/customizer/register-sections.php:20
+msgid "Sidebar"
+msgstr "サイドバー"
+
+#: inc/customizer/register-sections.php:19
+#: inc/customizer/sections/sidebar/sidebar.php:136
+msgid "Blog Single"
+msgstr "個別ブログ"
+
+#: inc/customizer/register-sections.php:18
+#: inc/woostify-template-functions.php:743
+#: inc/woostify-template-functions.php:790
+#: inc/woostify-template-functions.php:914
+msgid "Blog"
+msgstr "ブログ"
+
+#: inc/customizer/register-sections.php:15
+msgid "Header Transparent"
+msgstr "透明ヘッダー"
+
+#: inc/customizer/register-sections.php:12
+msgid "Topbar"
+msgstr "トップバー"
+
+#: inc/admin/class-woostify-admin.php:258
+#: inc/customizer/register-sections.php:31
+#: inc/customizer/sections/shop/shop-single.php:534
+msgid "Layout"
+msgstr "レイアウト"
+
+#: inc/customizer/custom-controls/typography/class-woostify-typography-control.php:78
+msgid "Variants"
+msgstr "バリエーション"
+
+#: inc/customizer/custom-controls/typography/class-woostify-typography-control.php:76
+msgid "Text transform"
+msgstr "テキスト変換"
+
+#: inc/customizer/custom-controls/typography/class-woostify-typography-control.php:75
+msgid "Font weight"
+msgstr "フォントの太さ"
+
+#: inc/customizer/custom-controls/typography/class-woostify-typography-control.php:74
+msgid "Font family"
+msgstr "フォントファミリー"
+
+#: inc/customizer/custom-controls/typography/class-woostify-typography-control.php:71
+msgid "Google fonts"
+msgstr "Google フォント"
+
+#: inc/customizer/custom-controls/typography/class-woostify-typography-control.php:70
+msgid "System fonts"
+msgstr "システムフォント"
+
+#: inc/customizer/custom-controls/group/class-woostify-group-control.php:107
+#: inc/customizer/custom-controls/group/class-woostify-group-control.php:118
+#: inc/customizer/custom-controls/range/class-woostify-range-slider-control.php:83
+msgid "Reset"
+msgstr "リセット"
+
+#: inc/customizer/custom-controls/group/class-woostify-group-control.php:106
+#: inc/customizer/custom-controls/group/class-woostify-group-control.php:140
+#: inc/customizer/custom-controls/range/class-woostify-range-slider-control.php:82
+#: inc/customizer/sections/header/header-transparent.php:215
+#: inc/customizer/sections/scroll-to-top/scroll-to-top.php:81
+#: inc/customizer/sections/sticky-footer-bar/sticky-footer-bar.php:169
+msgid "Mobile"
+msgstr "モバイル"
+
+#: inc/customizer/custom-controls/group/class-woostify-group-control.php:105
+#: inc/customizer/custom-controls/group/class-woostify-group-control.php:138
+#: inc/customizer/custom-controls/range/class-woostify-range-slider-control.php:81
+msgid "Tablet"
+msgstr "タブレット"
+
+#: inc/customizer/custom-controls/group/class-woostify-group-control.php:104
+#: inc/customizer/custom-controls/group/class-woostify-group-control.php:136
+#: inc/customizer/custom-controls/range/class-woostify-range-slider-control.php:80
+#: inc/customizer/sections/header/header-transparent.php:214
+#: inc/customizer/sections/scroll-to-top/scroll-to-top.php:82
+#: inc/customizer/sections/sticky-footer-bar/sticky-footer-bar.php:168
+msgid "Desktop"
+msgstr "デスクトップ"
+
+#: inc/class-woostify.php:1112
+msgid "Post Pagination"
+msgstr "投稿のページ送り"
+
+#: inc/admin/class-woostify-admin.php:383
+msgid "Woostify theme"
+msgstr "Woostify テーマ"
+
+#: inc/class-woostify.php:588
+msgid "Appears in the footer section of the site."
+msgstr "サイトのフッターセクションに表示されます。"
+
+#: inc/class-woostify.php:579
+msgid " Appears in the sidebar of shop/product page."
+msgstr " ショップ・商品ページのサイドバーに表示されます。"
+
+#: inc/class-woostify.php:577
+msgid "Woocommerce Sidebar"
+msgstr "WooCommerce サイドバー"
+
+#: inc/class-woostify.php:570
+msgid "Appears in the sidebar of the site."
+msgstr "サイトのサイドバーに表示されます。"
+
+#: inc/class-woostify.php:568
+msgid "Main Sidebar"
+msgstr "メインサイドバー"
+
+#: inc/class-woostify.php:527
+#: inc/customizer/sections/typography/heading.php:200
+msgid "H1"
+msgstr "H1"
+
+#: inc/class-woostify.php:522
+#: inc/customizer/sections/typography/heading.php:235
+msgid "H2"
+msgstr "H2"
+
+#: inc/class-woostify.php:517
+#: inc/customizer/sections/typography/heading.php:270
+msgid "H3"
+msgstr "H3"
+
+#: inc/class-woostify.php:512
+#: inc/customizer/sections/typography/heading.php:305
+msgid "H4"
+msgstr "H4"
+
+#: inc/class-woostify.php:507
+#: inc/customizer/sections/typography/heading.php:340
+msgid "H5"
+msgstr "H5"
+
+#: inc/class-woostify.php:502
+#: inc/customizer/sections/typography/heading.php:375
+msgid "H6"
+msgstr "H6"
+
+#: inc/class-woostify.php:490 inc/customizer/class-woostify-customizer.php:387
+#: inc/customizer/sections/buttons/button.php:36
+#: inc/customizer/sections/color/color.php:56
+#: inc/customizer/sections/footer/footer.php:234
+#: inc/customizer/sections/header/topbar.php:71
+#: inc/customizer/sections/header/topbar.php:426
+#: inc/customizer/sections/shop/shop-page.php:1080
+#: inc/customizer/sections/shop/shop-page.php:1318
+msgid "Text Color"
+msgstr "テキスト色"
+
+#: inc/class-woostify.php:485 inc/customizer/sections/footer/footer.php:184
+#: inc/customizer/sections/typography/heading.php:135
+msgid "Heading Color"
+msgstr "見出しの色"
+
+#: inc/class-woostify.php:480
+msgid "Primary Color"
+msgstr "メインの色"
+
+#: inc/class-woostify.php:408
+msgid "Footer Menu"
+msgstr "フッターメニュー"
+
+#: inc/class-woostify.php:407
+msgid "Primary Menu"
+msgstr "メインメニュー"
+
+#: inc/class-woostify.php:311
+msgid "Image"
+msgstr "画像"
+
+#: inc/woostify-functions.php:422
+msgid "Error image"
+msgstr "エラー画像"
+
+#: inc/woostify-functions.php:419
+msgid "Placeholder image"
+msgstr "プレースホルダー画像"
+
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:921
+msgid "Shopping cart"
+msgstr "ショッピングカート"
+
+#: inc/woocommerce/woostify-woocommerce-archive-product-functions.php:98
+#: inc/woocommerce/woostify-woocommerce-single-product-functions.php:355
+#: inc/woocommerce/woostify-woocommerce-single-product-functions.php:399
+#: inc/woocommerce/woostify-woocommerce-single-product-functions.php:438
+#: inc/woocommerce/woostify-woocommerce-single-product-functions.php:455
+msgid "Product image"
+msgstr "商品画像"
+
+#: inc/customizer/class-woostify-customizer.php:629
+msgid "Sale!"
+msgstr "セール"
+
+#: inc/woocommerce/woostify-woocommerce-single-product-functions.php:100
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:1083
+msgid "Next"
+msgstr "次"
+
+#: inc/woocommerce/woostify-woocommerce-template-functions.php:1082
+msgid "Prev"
+msgstr "前"
+
+#: inc/customizer/register-sections.php:24
+#: inc/customizer/sections/scroll-to-top/scroll-to-top.php:49
+#: inc/woostify-template-functions.php:2583
+msgid "Scroll To Top"
+msgstr "トップにスクロール"
+
+#: inc/woostify-template-functions.php:660
+#: inc/woostify-template-functions.php:908
+msgid "Logout"
+msgstr "ログアウト"
+
+#: inc/admin/class-woostify-admin.php:320
+#: inc/admin/class-woostify-admin.php:652
+#: inc/woostify-template-functions.php:653
+msgid "Dashboard"
+msgstr "ダッシュボード"
+
+#: inc/woostify-template-functions.php:644
+msgid "Login / Register"
+msgstr "ログイン/登録"
+
+#: inc/woostify-template-functions.php:1878
+msgid "Type to search"
+msgstr "入力して検索"
+
+#: inc/woostify-template-functions.php:1473
+msgid "Posted on"
+msgstr "投稿日"
+
+#: inc/woostify-template-functions.php:1441
+msgid "Written by"
+msgstr "によって書かれた"
+
+#: inc/woostify-template-functions.php:1436
+msgid "Author Avatar"
+msgstr "投稿者アバター"
+
+#: inc/woostify-template-functions.php:1410
+msgid "Previous post:"
+msgstr "前の投稿:"
+
+#: inc/woostify-template-functions.php:1409
+msgid "Next post:"
+msgstr "次の投稿:"
+
+#: inc/woostify-template-functions.php:1392
+msgctxt "Previous post"
+msgid "Prev"
+msgstr "前"
+
+#: inc/woostify-template-functions.php:1391
+msgctxt "Next post"
+msgid "Next"
+msgstr "次"
+
+#: inc/customizer/sections/shop/shop-single.php:489
+#: inc/woostify-template-functions.php:1369
+msgid "Tags"
+msgstr "タグ"
+
+#: inc/woostify-template-functions.php:1305
+#: inc/woostify-template-functions.php:1351
+msgid "Read More"
+msgstr "続きを読む"
+
+#: inc/woostify-template-functions.php:1579
+msgid "% Comments"
+msgstr "%件のコメント"
+
+#: inc/woostify-template-functions.php:1578
+msgid "1 Comment"
+msgstr "1件のコメント"
+
+#: inc/woostify-template-functions.php:1577
+msgid "No comments yet"
+msgstr "コメントはまだありません"
+
+#: inc/woostify-template-functions.php:1547
+msgid "Posted in"
+msgstr "投稿日"
+
+#: inc/woostify-template-functions.php:1369
+#: inc/woostify-template-functions.php:1541
+msgid ", "
+msgstr ", "
+
+#: inc/woostify-template-functions.php:1517
+msgid "by"
+msgstr "によって"
+
+#: inc/woostify-template-functions.php:989
+#: inc/woostify-template-functions.php:1325
+msgid "Pages:"
+msgstr "ページ:"
+
+#: inc/woostify-template-functions.php:618
+msgid "Skip to content"
+msgstr "コンテンツへ移動"
+
+#: inc/woostify-template-functions.php:617
+msgid "Skip to navigation"
+msgstr "ナビゲーションへ移動"
+
+#: inc/woostify-template-functions.php:585
+msgid "Add a Primary Menu"
+msgstr "メインメニューを追加"
+
+#: inc/woostify-template-functions.php:561
+msgid "Primary navigation"
+msgstr "メインナビゲーション"
+
+#: inc/woostify-template-functions.php:446
+msgid "Woostify retina logo"
+msgstr "Woostify のレティナロゴ"
+
+#: inc/woostify-template-functions.php:418
+msgid "Woostify logo"
+msgstr "Woostify のロゴ"
+
+#: inc/woostify-template-functions.php:367
+#: inc/woostify-template-functions.php:386
+msgid "Woostify mobile logo"
+msgstr "Woostify のモバイルロゴ"
+
+#. translators: 1: admin URL
+#: inc/woostify-template-functions.php:229
+#: inc/woostify-template-functions.php:244
+#: inc/woostify-template-functions.php:259
+msgid "Replace this widget content by going to <a href=\"%1$s\"><strong>Appearance / Widgets / Footer Widget</strong></a> and dragging widgets into this widget area."
+msgstr "このウィジェットコンテンツを置き換えるために、<a href=\"%1$s\"><strong> 外観 / ウィジェット / フッターウィジェット </strong></a> に移動して、このウィジェットエリアでウィジェットをドラッグしてください。"
+
+#: inc/class-woostify.php:586 inc/woostify-template-functions.php:223
+#: inc/woostify-template-functions.php:238
+#: inc/woostify-template-functions.php:253
+msgid "Footer Widget"
+msgstr "フッターウィジェット"
+
+#: inc/woostify-template-functions.php:188
+msgid "Edit"
+msgstr "編集"
+
+#: inc/woostify-template-functions.php:162
+msgid "Your comment is awaiting moderation."
+msgstr "あなたのコメントは承認待ちです。"
+
+#: inc/woostify-template-functions.php:80
+msgid "Read more"
+msgstr "もっと読む"
+
+#: inc/woostify-template-functions.php:61
+msgid "Related Posts"
+msgstr "関連投稿"
+
+#: comments.php:68
+msgid "Submit"
+msgstr "送信"
+
+#: comments.php:66
+msgid "Message"
+msgstr "メッセージ"
+
+#: comments.php:57
+msgid "Email"
+msgstr "メール"
+
+#: comments.php:56
+#: inc/customizer/custom-controls/adv-list/class-woostify-adv-list-control.php:160
+#: inc/customizer/custom-controls/product-data-tabs/class-woostify-product-data-tabs-control.php:115
+#: inc/customizer/custom-controls/product-data-tabs/class-woostify-product-data-tabs-control.php:155
+msgid "Name"
+msgstr "お名前"
+
+#: comments.php:51
+msgid "Comments are closed."
+msgstr "コメントは受け付けていません。"
+
+#: comments.php:32
+msgid "Newer Comments &rarr;"
+msgstr "新しいコメント &rarr;"
+
+#: comments.php:31
+msgid "&larr; Older Comments"
+msgstr "&larr; 過去のコメント"
+
+#: comments.php:30
+msgid "Comment navigation"
+msgstr "コメントナビゲーション"
+
+#: comments.php:29
+msgid "Comment Navigation Above"
+msgstr "上のコメントナビゲーション"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:21
+msgctxt "comments title"
+msgid "%1$s comment"
+msgid_plural "%1$s comments"
+msgstr[0] "%1$s 件のコメント"
+
+#: comments.php:14
+msgid "Post Comments"
+msgstr "投稿コメント"
+
+#. translators: %s: search term
+#: inc/woostify-template-functions.php:925 search.php:19
+msgid "Search Results for: %s"
+msgstr "検索結果: %s"
+
+#. translators: 1: admin URL
+#: sidebar.php:23 sidebar.php:38 sidebar.php:53
+msgid "Replace this widget content by going to <a href=\"%1$s\"><strong>Appearance / Widgets / Main Sidebar</strong></a> and dragging widgets into this widget area."
+msgstr "このウィジェットコンテンツを置き換えるために、<a href=\"%1$s\"><strong> 外観 / ウィジェット / メインサイドバー </strong></a> に移動して、このウィジェットエリアでウィジェットをドラッグしてください。"
+
+#: sidebar.php:17 sidebar.php:32 sidebar.php:47
+msgid "Sidebar Widget"
+msgstr "サイドバーウィジェット"
+
+#. translators: 1: admin URL
+#: sidebar-shop.php:22 sidebar-shop.php:37 sidebar-shop.php:52
+msgid "Replace this widget content by going to <a href=\"%1$s\"><strong>Appearance / Widgets / Woocommerce Sidebar</strong></a> and dragging widgets into this widget area."
+msgstr "このウィジェットコンテンツを置き換えるために、<a href=\"%1$s\"><strong> 外観 / ウィジェット / Woocommerce のサイドバー </strong></a> に移動して、このウィジェットエリアでウィジェットをドラッグしてください。"
+
+#: sidebar-shop.php:16 sidebar-shop.php:31 sidebar-shop.php:46
+msgid "Sidebar Shop Widget"
+msgstr "サイドバーショップウィジェット"
+
+#: template-parts/content-photoswipe.php:62
+msgid "Next (arrow right)"
+msgstr "次へ (右矢印)"
+
+#: template-parts/content-photoswipe.php:59
+msgid "Previous (arrow left)"
+msgstr "前へ (左矢印)"
+
+#: template-parts/content-none.php:34
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "お探しのコンテンツを見つけられませんでした。検索をお試しください。"
+
+#: template-parts/content-none.php:29
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "検索キーワードに一致するものが見つかりませんでした。 別のキーワードで試してみてください。"
+
+#. translators: 1: URL
+#: template-parts/content-none.php:23
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "最初の投稿を公開する準備はできましたか ? <a href=\"%1$s\">ここから始めましょう</a>。"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "何も見つかりませんでした"
+
+#. Theme Name of the theme
+#. Author of the theme
+#: style.css inc/admin/class-woostify-admin.php:316
+#: inc/admin/class-woostify-admin.php:648
+#: inc/woostify-template-functions.php:23
+msgid "Woostify"
+msgstr "Woostify"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://woostify.com/about"
+msgstr "https://woostify.com/about"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://woostify.com"
+msgstr "https://woostify.com"

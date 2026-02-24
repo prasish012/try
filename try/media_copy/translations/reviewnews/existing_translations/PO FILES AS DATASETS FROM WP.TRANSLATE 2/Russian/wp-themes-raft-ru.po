@@ -1,0 +1,912 @@
+# Translation of Themes - Raft in Russian
+# This file is distributed under the same license as the Themes - Raft package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-10-01 09:23:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Raft\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Raft is a lightweight, full-site-editing compatible (FSE) theme ready for your next website. Raft is a super fast, easily customizable, simple theme. It’s perfect for blogs, small business, startups, agencies, firms, e-commerce shops (WooCommerce storefront) as well as personal portfolio sites and most types of projects. Raft works perfectly with Gutenberg and the most popular page builders (Elementor, Brizy, Beaver Builder or the Block Editor). Raft is also WooCommerce ready, responsive, RTL & translation ready. Learn more at https://themeisle.com/themes/raft/."
+msgstr "Raft - это легкая, совместимая с полным редактированием сайта (FSE) тема, готовая для вашего следующего сайта. Это супербыстрая, легко настраиваемая, простая тема. Она идеально подходит для блогов, малого бизнеса, стартапов, агентств, фирм, магазинов электронной коммерции (витрина WooCommerce), а также персональных сайтов-портфолио и большинства типов проектов. Raft отлично работает с Gutenberg и самыми популярными конструкторами страниц (Elementor, Brizy, Beaver Builder или Block Editor). Raft также готова к WooCommerce, переводу и к языкам, которые используют письмо справа налево. Узнайте больше на сайте https://themeisle.com/themes/raft/."
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Raft"
+msgstr "Raft"
+
+#. translators: %1$s - plugin name, %2$s - HTML tag, %3$s - discount, %4$s -
+#. HTML tag, %5$s - company name.
+#: inc/Admin.php:427
+msgid "Enhance %1$s with %2$s– up to %3$s OFF in our biggest sale of the year. Limited time only."
+msgstr "Улучшите %1$s с помощью %2$s- до %3$s OFF на нашей самой большой распродаже года. Только ограниченное время."
+
+#. translators: %s: FSE Design Pack:
+#: inc/Admin.php:70
+msgid "%s Access a collection of 40+ layout patterns ready to import to your website"
+msgstr "%s Получите доступ к коллекции из 40+ макетов паттернов, готовых к импорту на Ваш сайт"
+
+#: inc/Admin.php:66
+msgid "Raft recommends"
+msgstr ""
+
+#: inc/Admin.php:65
+msgid "Dismiss"
+msgstr "Закрыть"
+
+#. translators: %s: Otter Blocks
+#: inc/Admin.php:202
+msgid "Install %s"
+msgstr "Установка %s"
+
+#: inc/Admin.php:185
+msgid "Install our free builder plugin for more blocks, enhanced functionality, and seamless theme setup."
+msgstr ""
+
+#. translators: %s: Otter Blocks
+#: inc/Admin.php:179
+msgid "Extend Raft with our Free Builder"
+msgstr ""
+
+#. translators: %s: Otter Blocks
+#: inc/Admin.php:173
+msgid "Thanks for downloading Raft Theme 🎉"
+msgstr ""
+
+#: inc/patterns/loop-3.php:18
+msgid "Posts Query Loop 3"
+msgstr ""
+
+#: inc/patterns/call-to-action-2.php:18
+msgid "Call to Action 2"
+msgstr "Призыв к действию 2"
+
+#: inc/Block_Patterns.php:71 inc/patterns/call-to-action.php:18
+msgid "Call to Action"
+msgstr "Призыв в действию"
+
+#: styles/washed.json
+msgctxt "Style variation name"
+msgid "washed"
+msgstr ""
+
+#: styles/violet-grain.json
+msgctxt "Style variation name"
+msgid "Violet Grain"
+msgstr ""
+
+#: styles/mono.json
+msgctxt "Style variation name"
+msgid "Mono"
+msgstr "Моно"
+
+#: styles/green-retro.json
+msgctxt "Style variation name"
+msgid "Green Retro"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page with Header & Footer"
+msgstr "Страница с заголовком и подвалом"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "XXL"
+msgstr "XXL"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "XL"
+msgstr "Огромный"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "L"
+msgstr "L"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "M"
+msgstr "M"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "S"
+msgstr "S"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "XS"
+msgstr "XS"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "XXS"
+msgstr "XXS"
+
+#: theme.json styles/apple-clean.json styles/blue-cream.json
+#: styles/blue-retro.json styles/clean-cut.json styles/dark-fit.json
+#: styles/garden-flow.json styles/green-corn.json styles/green-retro.json
+#: styles/light-serif.json styles/mono.json styles/night-owl.json
+#: styles/purple-dawn.json styles/violet-grain.json styles/washed.json
+#: styles/wooden.json
+msgctxt "Color name"
+msgid "Inverted Text"
+msgstr "Инвертированный текст"
+
+#: theme.json styles/apple-clean.json styles/blue-cream.json
+#: styles/blue-retro.json styles/clean-cut.json styles/dark-fit.json
+#: styles/garden-flow.json styles/green-corn.json styles/green-retro.json
+#: styles/light-serif.json styles/mono.json styles/night-owl.json
+#: styles/purple-dawn.json styles/violet-grain.json styles/washed.json
+#: styles/wooden.json
+msgctxt "Color name"
+msgid "Light Background"
+msgstr "Светлый фон"
+
+#: theme.json styles/apple-clean.json styles/blue-cream.json
+#: styles/blue-retro.json styles/clean-cut.json styles/dark-fit.json
+#: styles/garden-flow.json styles/green-corn.json styles/green-retro.json
+#: styles/light-serif.json styles/mono.json styles/night-owl.json
+#: styles/purple-dawn.json styles/violet-grain.json styles/washed.json
+#: styles/wooden.json
+msgctxt "Color name"
+msgid "Dark Background"
+msgstr "Тёмный фон"
+
+#: theme.json styles/apple-clean.json styles/blue-cream.json
+#: styles/blue-retro.json styles/clean-cut.json styles/dark-fit.json
+#: styles/garden-flow.json styles/green-corn.json styles/green-retro.json
+#: styles/light-serif.json styles/mono.json styles/night-owl.json
+#: styles/purple-dawn.json styles/violet-grain.json styles/washed.json
+#: styles/wooden.json
+msgctxt "Color name"
+msgid "Accent Secondary"
+msgstr "Вторичный акцент"
+
+#: theme.json styles/apple-clean.json styles/blue-cream.json
+#: styles/blue-retro.json styles/clean-cut.json styles/dark-fit.json
+#: styles/garden-flow.json styles/green-corn.json styles/green-retro.json
+#: styles/light-serif.json styles/mono.json styles/night-owl.json
+#: styles/purple-dawn.json styles/violet-grain.json styles/washed.json
+#: styles/wooden.json
+msgctxt "Color name"
+msgid "Text"
+msgstr "Текст"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Spline Sans Mono"
+msgstr "Spline Sans Mono"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Gloock"
+msgstr "Gloock"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Geologica"
+msgstr "Geologica"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Spline Sans"
+msgstr "Spline Sans"
+
+#: inc/patterns/title-button.php:18
+msgid "Page title with button"
+msgstr "Название страницы с кнопкой"
+
+#: inc/patterns/title-background.php:18
+msgid "Page title on background"
+msgstr ""
+
+#: inc/patterns/text-columns.php:18
+msgid "Text Columns"
+msgstr "Столбцы текста"
+
+#: inc/patterns/testimonial-fullwidth.php:22
+msgid "Testimonial Fullwidth"
+msgstr ""
+
+#: inc/patterns/testimonial-columns.php:22
+msgid "Testimonial Columns with Rating"
+msgstr ""
+
+#: inc/patterns/testimonial-cards.php:18
+msgid "Testimonial Cards"
+msgstr ""
+
+#: inc/patterns/testimonial-background.php:22
+msgid "Testimonial on Background"
+msgstr ""
+
+#: inc/patterns/team-rows.php:23
+msgid "Team Member Rows"
+msgstr ""
+
+#: inc/patterns/single-feature-button.php:22
+msgid "single-feature-button"
+msgstr ""
+
+#: inc/patterns/pricing-plans-inline-title.php:18
+msgid "Pricing Plans 2"
+msgstr ""
+
+#: inc/patterns/pricing-5.php:18
+msgid "Pricing Plans 5"
+msgstr ""
+
+#: inc/patterns/pricing-4.php:18
+msgid "Pricing Plans 4"
+msgstr ""
+
+#: inc/patterns/pricing-3.php:18
+msgid "Pricing Plans 3"
+msgstr ""
+
+#: inc/patterns/posts-query-loop-2.php:18
+msgid "Post Query Loop 2"
+msgstr ""
+
+#: inc/patterns/portfolio-columns.php:25
+msgid "Portfolio Columns"
+msgstr "Столбцы портфолио"
+
+#: inc/patterns/loop-rows.php:20
+msgid "Posts Loop Rows"
+msgstr ""
+
+#: inc/patterns/loop-cards.php:18
+msgid "Posts Loop Cards"
+msgstr ""
+
+#: inc/patterns/loop-card-centered.php:18
+msgid "Posts Loop Card Centered"
+msgstr ""
+
+#: inc/patterns/hero-with-columns.php:23
+msgid "Hero with Columns"
+msgstr ""
+
+#: inc/patterns/hero-columns.php:22
+msgid "Hero Columns"
+msgstr ""
+
+#: inc/patterns/hero-boxed.php:22
+msgid "Hero Cover with boxed title"
+msgstr ""
+
+#: inc/patterns/features-centered.php:22
+msgid "Feature Block"
+msgstr ""
+
+#: inc/patterns/features-background.php:18
+msgid "Features on Background"
+msgstr ""
+
+#: inc/patterns/feature-cards.php:23
+msgid "Feature Cards"
+msgstr ""
+
+#: inc/patterns/cover-background.php:22
+msgid "Cover with Background"
+msgstr ""
+
+#: inc/patterns/contact-details.php:23
+msgid "Contact Details"
+msgstr "Контактная информация"
+
+#: inc/patterns/centered-title.php:18
+msgid "Centered Title"
+msgstr ""
+
+#: inc/patterns/centered-text-background.php:18
+msgid "Centered Text on Background"
+msgstr ""
+
+#: inc/patterns/call-to-action-image.php:22
+msgid "Call to Action with Image"
+msgstr ""
+
+#: inc/Core.php:262
+msgid "Create your new website today, with Raft!"
+msgstr ""
+
+#: inc/Core.php:261
+msgid "Get started today, get in touch!"
+msgstr ""
+
+#: inc/Core.php:258
+msgid "Jason Doe"
+msgstr ""
+
+#: inc/Core.php:257
+msgid "\"...Absolutely one of the best services out there, very professional and easy-going experience, highly recommended...\""
+msgstr ""
+
+#: inc/Core.php:254
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+
+#: inc/Core.php:253
+msgid "A content subtitle"
+msgstr ""
+
+#: inc/Core.php:252
+msgid "A generic content title"
+msgstr ""
+
+#: inc/Core.php:249
+msgid "Read also…"
+msgstr ""
+
+#: inc/Core.php:248
+msgid "Categories"
+msgstr "Категории"
+
+#: inc/Core.php:247
+msgid "Unfortunately the page was not found."
+msgstr ""
+
+#: inc/Core.php:246
+msgid "404"
+msgstr "404"
+
+#: inc/Core.php:245
+msgid "Search for a keyword..."
+msgstr ""
+
+#: inc/Core.php:244
+msgid "Search"
+msgstr "Поиск"
+
+#: inc/Core.php:243
+msgid "Search results"
+msgstr "Результаты поиска"
+
+#: inc/Core.php:241
+msgid "Continue reading"
+msgstr "Продолжить чтение"
+
+#: inc/Core.php:240
+msgid "Read more"
+msgstr "Читать далее"
+
+#: inc/Core.php:237
+msgid "Client Name"
+msgstr "Имя клиента"
+
+#: inc/Core.php:236
+msgid "A project title"
+msgstr ""
+
+#: inc/Core.php:235
+msgid "Selected Portfolio"
+msgstr ""
+
+#: inc/Core.php:232
+msgid "Just a frequent question"
+msgstr ""
+
+#: inc/Core.php:228
+msgid "Contact detail example"
+msgstr ""
+
+#: inc/Core.php:227
+msgid "Follow us"
+msgstr "Подпишитесь на нас"
+
+#: inc/Core.php:226
+msgid "Contact details"
+msgstr "Контактные данные"
+
+#: inc/Core.php:225
+msgid "Get in touch"
+msgstr "Свяжитесь с нами"
+
+#: inc/Core.php:222
+msgid "A pricing feature"
+msgstr ""
+
+#: inc/Core.php:221
+msgid "$19.99"
+msgstr "$19.99"
+
+#: inc/Core.php:220
+msgid "Plan title"
+msgstr "Название плана"
+
+#: inc/Core.php:219
+msgid "A pricing section. Join premium!"
+msgstr ""
+
+#: inc/Core.php:216
+msgid "Company role"
+msgstr ""
+
+#: inc/Core.php:215
+msgid "Team member name"
+msgstr ""
+
+#: inc/Core.php:214
+msgid "Our Team"
+msgstr "Наша команда"
+
+#: inc/Core.php:211
+msgid "Get Started"
+msgstr "Начать"
+
+#: inc/Core.php:210
+msgid "Button Text"
+msgstr "Текст кнопки"
+
+#: inc/Core.php:209
+msgid "A placeholder description that you can replace with your own content."
+msgstr ""
+
+#: inc/Core.php:208
+msgid "This is feature title"
+msgstr ""
+
+#: inc/Core.php:207
+msgid "Showcase your Features and Services"
+msgstr ""
+
+#: inc/Core.php:204
+msgid "Just some placeholder text"
+msgstr ""
+
+#: inc/Core.php:203
+msgid "This is placeholder text, feel free to replace it with your unique content as it's included here just to provide you with a better understanding of how your text will fit in the layout. Explore the various patterns and templates as you create your personalized web experience."
+msgstr ""
+
+#: inc/Core.php:202
+msgid "A short section description"
+msgstr ""
+
+#: inc/Core.php:201
+msgid "Subtitle"
+msgstr "Подзаголовок"
+
+#: inc/Core.php:200
+msgid "This is section title"
+msgstr ""
+
+#: inc/Core.php:199
+msgid "Explore our Services"
+msgstr ""
+
+#: inc/Core.php:198
+msgid "About me"
+msgstr "Обо мне"
+
+#: inc/Core.php:197
+msgid "About our Team"
+msgstr ""
+
+#: inc/Core.php:196
+msgid "This is a page title"
+msgstr ""
+
+#: inc/Core.php:192
+msgid "Block Based Themes Made simple"
+msgstr ""
+
+#: inc/Core.php:152 inc/patterns/services-page.php:18
+msgid "Services Page"
+msgstr "Страница услуг"
+
+#: inc/Core.php:147 inc/patterns/portfolio-page.php:18
+msgid "Portfolio Page"
+msgstr "Страница портфолио"
+
+#: inc/Core.php:142 inc/patterns/contact-page.php:18
+msgid "Contact Page"
+msgstr "Страница контактов"
+
+#: inc/Core.php:137 inc/patterns/about-page.php:18
+msgid "About Page"
+msgstr "Страница О нас"
+
+#: inc/Core.php:130 inc/patterns/homepage-3.php:18
+msgid "Homepage 3"
+msgstr ""
+
+#: inc/Core.php:126 inc/patterns/homepage-2.php:18
+msgid "Homepage 2"
+msgstr "Главная страница 2"
+
+#: inc/Core.php:120
+msgid "Single Post Cover"
+msgstr "Обложка отдельной записи"
+
+#: inc/Core.php:116
+msgid "Single Post Columns"
+msgstr ""
+
+#: inc/Core.php:112
+msgid "Single Post Centered"
+msgstr ""
+
+#: inc/Core.php:106
+msgid "Archive Row"
+msgstr ""
+
+#: inc/Core.php:102
+msgid "Archive Cards"
+msgstr ""
+
+#: inc/Core.php:98
+msgid "Archive Boxed"
+msgstr ""
+
+#: inc/Block_Patterns.php:78
+msgid "Archives"
+msgstr "Архивы"
+
+#: inc/Block_Patterns.php:77
+msgid "Singles"
+msgstr "Одинарные"
+
+#: inc/Block_Patterns.php:73
+msgid "Pages"
+msgstr "Страницы"
+
+#: inc/Block_Patterns.php:72
+msgid "Post Loops"
+msgstr ""
+
+#: inc/Block_Patterns.php:70
+msgid "Pricing"
+msgstr "Ценообразование"
+
+#: inc/Block_Patterns.php:69 inc/patterns/team.php:22
+msgid "Team"
+msgstr "Команда"
+
+#: inc/Block_Patterns.php:68
+msgid "Testimonials"
+msgstr "Рекомендации"
+
+#: inc/Block_Patterns.php:67
+msgid "Content"
+msgstr "Содержимое"
+
+#: inc/Block_Patterns.php:66
+msgid "Features"
+msgstr "Функции"
+
+#: inc/Block_Patterns.php:65
+msgid "Heroes / Page Titles"
+msgstr ""
+
+#: inc/Block_Patterns.php:64
+msgid "Footers"
+msgstr "Подвалы"
+
+#: inc/Block_Patterns.php:63
+msgid "Headers"
+msgstr "Заголовки"
+
+#: inc/Block_Patterns.php:62
+msgid "Featured"
+msgstr "Рекомендуемое"
+
+#. translators: %s: Otter Blocks
+#: inc/Admin.php:196
+msgid "Try it out!"
+msgstr "Попробуйте!"
+
+#: styles/wooden.json
+msgctxt "Style variation name"
+msgid "Wooden"
+msgstr "Деревянный"
+
+#: styles/light-serif.json
+msgctxt "Style variation name"
+msgid "Light Serif"
+msgstr "Светлый шрифт"
+
+#: styles/dark-fit.json
+msgctxt "Style variation name"
+msgid "Dark Fit"
+msgstr "Темный прикид"
+
+#: styles/blue-cream.json
+msgctxt "Style variation name"
+msgid "Blue Cream"
+msgstr "Синий кремовый"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer with Columns"
+msgstr "Подвал со столбцами"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header Centered"
+msgstr "Шапка по центру"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Outfit"
+msgstr "Outfit"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Figtree"
+msgstr "Figtree"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Source Serif Pro"
+msgstr "Source Serif Pro"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Readex Pro"
+msgstr "Readex Pro"
+
+#: inc/patterns/pricing-plans.php:18
+msgid "Pricing Plans"
+msgstr "Ценовые планы"
+
+#: inc/patterns/inverted-gallery-with-title.php:27
+msgid "Inverted Gallery with Title"
+msgstr ""
+
+#: inc/patterns/horizontal-content-cards.php:23
+msgid "Horizontal content cards"
+msgstr "Горизонтальные карточки с содержимым"
+
+#: inc/patterns/content-columns-with-hero.php:21
+msgid "Content Columns with Hero"
+msgstr ""
+
+#: inc/patterns/alternating-feature-columns.php:23
+msgid "Alternating Feature Columns"
+msgstr ""
+
+#: styles/purple-dawn.json
+msgctxt "Style variation name"
+msgid "Purple Dawn"
+msgstr "Пурпурная заря"
+
+#: styles/night-owl.json
+msgctxt "Style variation name"
+msgid "Night Owl"
+msgstr "Ночная сова"
+
+#: styles/green-corn.json
+msgctxt "Style variation name"
+msgid "Green corn"
+msgstr "Зелёная кукуруза"
+
+#: styles/garden-flow.json
+msgctxt "Style variation name"
+msgid "Garden flow"
+msgstr "Садовый поток"
+
+#: styles/clean-cut.json
+msgctxt "Style variation name"
+msgid "Clean cut"
+msgstr "Чистый разрез"
+
+#: styles/blue-retro.json
+msgctxt "Style variation name"
+msgid "Blue retro"
+msgstr "Ретросиний"
+
+#: styles/apple-clean.json
+msgctxt "Style variation name"
+msgid "Apple clean"
+msgstr "Яблочная чистота"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Нижняя часть"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Заголовок"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "WooCommerce Cart"
+msgstr "Корзина WooCommerce"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "WooCommerce Checkout"
+msgstr "Оформление заказа WooCommerce"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "WooCommerce Single Product"
+msgstr "Отдельный продукт WooCommerce"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank Page - Only Content"
+msgstr "Пустая страница - только содержимое"
+
+#: theme.json styles/apple-clean.json styles/blue-cream.json
+#: styles/blue-retro.json styles/clean-cut.json styles/dark-fit.json
+#: styles/garden-flow.json styles/green-corn.json styles/green-retro.json
+#: styles/light-serif.json styles/mono.json styles/night-owl.json
+#: styles/purple-dawn.json styles/violet-grain.json styles/washed.json
+#: styles/wooden.json
+msgctxt "Color name"
+msgid "Accent"
+msgstr "Акцент"
+
+#: theme.json styles/apple-clean.json styles/blue-cream.json
+#: styles/blue-retro.json styles/clean-cut.json styles/dark-fit.json
+#: styles/garden-flow.json styles/green-corn.json styles/green-retro.json
+#: styles/light-serif.json styles/mono.json styles/night-owl.json
+#: styles/purple-dawn.json styles/violet-grain.json styles/washed.json
+#: styles/wooden.json
+msgctxt "Color name"
+msgid "Background"
+msgstr "Фон"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Lora"
+msgstr "Лора"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge"
+msgstr "Огромный"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "Очень большой"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Большой"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Средний"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Normal"
+msgstr "Обычный"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Маленький"
+
+#: inc/patterns/two-columns-features.php:23
+msgid "Two Columns of Features"
+msgstr ""
+
+#: inc/patterns/three-columns-features.php:24
+msgid "Three Columns of Features"
+msgstr ""
+
+#: inc/Core.php:195
+msgid "Powered by Blocks"
+msgstr ""
+
+#: inc/Core.php:194
+msgid "Built-in Patterns"
+msgstr "Встроенные шаблоны"
+
+#: inc/Core.php:193
+msgid "Style Variations"
+msgstr "Вариации стиля"
+
+#: inc/Core.php:242
+msgid "Unfortunately no posts were found"
+msgstr "К сожалению, публикации не найдены"
+
+#: inc/patterns/posts-query-loop.php:18
+msgid "Post Query Loop"
+msgstr "Цикл запроса публикаций"
+
+#: inc/patterns/inverted-background.php:23
+msgid "Inverted Background"
+msgstr "Перевёрнутый фон"
+
+#: inc/patterns/image-gallery.php:26
+msgid "Image Gallery with Title"
+msgstr "Галерея изображений с названием"
+
+#: inc/patterns/hero.php:22
+msgid "Hero Section"
+msgstr "Раздел темы дня"
+
+#: inc/Core.php:231 inc/patterns/frequently-asked-questions.php:18
+msgid "Frequently Asked Questions"
+msgstr "Распространенные вопросы"
+
+#: inc/patterns/call-to-action-3.php:18
+msgid "Call to Action 3"
+msgstr "Призыв к действию 3"
+
+#: inc/Core.php:161
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: inc/Block_Styles.php:53
+msgid "Pills"
+msgstr "Округленный"
+
+#: inc/Admin.php:67 inc/Admin.php:183
+msgid "Learn More"
+msgstr "Узнать больше"
+
+#. translators: %s: Otter Blocks
+#: inc/Admin.php:199
+msgid "Activate %s"
+msgstr "Активировать %s"
+
+#: inc/Admin.php:167
+msgid "Otter Blocks preview"
+msgstr "Предварительный просмотр Otter Blocks"
+
+#: inc/Admin.php:159
+msgid "Done"
+msgstr "Готово"
+
+#: inc/Admin.php:158
+msgid "Installing"
+msgstr "Установка"
+
+#: inc/Admin.php:157
+msgid "Activating"
+msgstr "Активация"
+
+#. translators: %s: commands to run the theme
+#: functions.php:106
+msgid "You appear to be running the Raft theme from source code. Please finish installation by running %s."
+msgstr "Похоже, что вы запускаете тему Raft из исходного кода. Пожалуйста, завершите установку, выполнив %s."
+
+#: functions.php:57
+msgid "upgrading PHP to the latest version"
+msgstr "обновление PHP до последней версии"
+
+#. translators: %s message to upgrade PHP to the latest version
+#: functions.php:53
+msgid "Hey, we've noticed that you're running an outdated version of PHP which is no longer supported. Make sure your site is fast and secure, by %1$s. Raft's minimal requirement is PHP%2$s."
+msgstr "Эй, мы заметили, что вы запустили устаревшую версию PHP, которая больше не поддерживается. Убедитесь, что ваш сайт работает быстро и безопасно %1$s. Минимальное требование для Raft - PHP%2$s."
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themeisle.com"
+msgstr "https://themeisle.com"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "ThemeIsle"
+msgstr "ThemeIsle"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themeisle.com/themes/raft/"
+msgstr "https://themeisle.com/themes/raft/"

@@ -1,0 +1,761 @@
+# Translation of Themes - PopularFX in Russian
+# This file is distributed under the same license as the Themes - PopularFX package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-05-02 06:34:03+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - PopularFX\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Lightweight theme to make beautiful websites with Pagelayer. Includes 100s of pre-made templates to design your dream website !"
+msgstr "Легкая тема для создания красивых веб-сайтов с помощью PageLayer. Включает в себя 100 готовых шаблонов для создания веб-сайта вашей мечты!"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "PopularFX"
+msgstr "PopularFX"
+
+#: inc/customizer.php:1030
+msgid "Set hover border color for scrolltop"
+msgstr "Установите цвет границы при наведении курсора мыши для scrolltop"
+
+#: inc/customizer.php:1013
+msgid "Set border color for scrolltop"
+msgstr "Установите цвет границы для scrolltop"
+
+#: inc/customizer.php:996
+msgid "Set hover color for scrolltop"
+msgstr "Установите цвет при наведении курсора мыши для scrolltop"
+
+#: inc/customizer.php:979
+msgid "Set hover background color for scrolltop"
+msgstr "Установите цвет фона при наведении курсора мыши для scrolltop"
+
+#: inc/customizer.php:962
+msgid "Set icon color for scrolltop"
+msgstr "Установите цвет значка для scrolltop"
+
+#: inc/customizer.php:945
+msgid "Set background color for scrolltop"
+msgstr "Установите цвет фона для scrolltop"
+
+#: inc/customizer.php:1032
+msgid "On Hover Border Color"
+msgstr "Цвет границы при наведении курсора мыши"
+
+#: inc/customizer.php:1015
+msgid "Border Color"
+msgstr "Цвет рамки"
+
+#: inc/customizer.php:998
+msgid "On Hover Icon Color"
+msgstr "Цвет значка при наведении"
+
+#: inc/customizer.php:981
+msgid "On Hover Background Color"
+msgstr "Цвет фона при наведении"
+
+#: inc/customizer.php:964
+msgid "Icon Color"
+msgstr "Цвет значка"
+
+#: inc/customizer.php:927
+msgid "Set border radius for scroll top button in px"
+msgstr "Установите радиус рамки для кнопки Прокрутить вверх в px"
+
+#: inc/customizer.php:926
+msgid "Border Radius"
+msgstr "Радиус рамки"
+
+#: inc/customizer.php:907
+msgid "Set border width for scroll top button in px"
+msgstr "Установите ширину рамки для кнопки Прокрутить вверх в px"
+
+#: inc/customizer.php:906
+msgid "Border Width"
+msgstr "Ширина рамки"
+
+#: inc/customizer.php:887
+msgid "Set icon size for scroll top button in px"
+msgstr "Установите размер значка для кнопки Прокрутить вверх в px"
+
+#: inc/customizer.php:886
+msgid "Icon Size"
+msgstr "Размер значка"
+
+#: inc/customizer.php:867
+msgid "Set button spacing for scroll top button in px"
+msgstr "Установите интервал для кнопки Прокрутить вверх в px"
+
+#: inc/customizer.php:866
+msgid "Button Spacing "
+msgstr "Интервал кнопки "
+
+#: inc/customizer.php:847
+msgid "Set button position for scroll top button in %"
+msgstr "Установить положение для кнопки Прокрутить вверх в %"
+
+#: inc/customizer.php:846
+msgid "Button Position "
+msgstr "Позиция кнопки "
+
+#: inc/customizer.php:828
+msgid "Enable Scroll to Top"
+msgstr "Включить прокрутку вверх"
+
+#: inc/customizer.php:812
+msgid "Scroll to Top Button"
+msgstr "Кнопка Прокрутить вверх"
+
+#: inc/customizer.php:773
+msgid "Woocommerce Shop Page Sidebar"
+msgstr "Область виджетов страницы магазина Woocommerce"
+
+#: inc/customizer.php:549
+msgid "Global"
+msgstr "Глобально"
+
+#: inc/customizer.php:260 inc/customizer.php:273
+msgid "Install Pagelayer"
+msgstr "Установить PageLayer"
+
+#: inc/customizer.php:196
+msgid "Install Pagelayer to get full access !"
+msgstr "Установите PageLayer, чтобы получить полный доступ!"
+
+#: functions.php:516
+msgid "Thanks for choosing PopularFX. We recommend that you see the <a href=\"https://www.youtube.com/watch?v=DCisrbrmjgI\" target=\"_blank\">PopularFX Theme Guide Video</a> to know the basics of PopularFX."
+msgstr "Спасибо, что выбрали PopularFX. Мы рекомендуем вам просмотреть <a href=\"https://www.youtube.com/watch?v=DCisrbrmjgI\" target=\"_blank\">видеоруководство по темам PopularFX</a>, чтобы ознакомиться с основами PopularFX."
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий для &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария для &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s комментариев для &ldquo;%2$s&rdquo;"
+
+#. translators: 1: title.
+#: comments.php:35
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Один комментарий к &ldquo;%1$s&rdquo;"
+
+#. translators: %s: CMS name, i.e. WordPress.
+#: footer.php:22
+msgid "Proudly powered by %s"
+msgstr "Работает на %s"
+
+#: footer.php:19
+msgid "https://wordpress.org/"
+msgstr "https://ru.wordpress.org/"
+
+#: inc/customizer.php:1313
+msgid "Word Spacing"
+msgstr "Интервал между словами"
+
+#: inc/customizer.php:1296
+msgid "Text Spacing"
+msgstr "Интервал текста"
+
+#: inc/customizer.php:1279
+msgid "Line Height"
+msgstr "Высота строки"
+
+#: inc/customizer.php:1252
+msgid "Text Transform"
+msgstr "Преобразование текста"
+
+#: inc/customizer.php:1230
+msgid "Font Weight"
+msgstr "Насыщенность шрифта"
+
+#: inc/customizer.php:1208
+msgid "Oblique"
+msgstr "Наклонный"
+
+#: inc/customizer.php:1207
+msgid "Italic"
+msgstr "Курсив"
+
+#: inc/customizer.php:1206
+msgid "Normal"
+msgstr "Обычный"
+
+#: inc/customizer.php:1203
+msgid "Font Style"
+msgstr "Стиль шрифта"
+
+#: inc/customizer.php:1186
+msgid "Font Size"
+msgstr "Размер шрифта"
+
+#: inc/customizer.php:1163
+msgid "Font Family"
+msgstr "Семейство шрифта"
+
+#: inc/customizer.php:1102
+msgid "Set the breakpoint for mobile devices. The default breakpoint for mobile layout is 360px."
+msgstr "Установите точку останова для мобильных устройств. Точка останова по умолчанию для макета мобильных - 360px.."
+
+#: inc/customizer.php:1101
+msgid "Mobile Breakpoint"
+msgstr "Точка останова мобильных"
+
+#: inc/customizer.php:1081
+msgid "Set the breakpoint for tablet devices. The default breakpoint for tablet layout is 768px."
+msgstr "Установите точку останова для планшетных устройств. Точка останова по умолчанию для макета планшета - 768px."
+
+#: inc/customizer.php:1080
+msgid "Tablet Breakpoint"
+msgstr "Точка останова планшета"
+
+#: inc/customizer.php:1060
+msgid "The width of the content container. Default is 1170px"
+msgstr "Ширина контейнера содержимого. По умолчанию 1170px"
+
+#: inc/customizer.php:1059
+msgid "Content Width"
+msgstr "Ширина содержимого"
+
+#: inc/customizer.php:1043
+msgid "Container"
+msgstr "Контейнер"
+
+#: inc/customizer.php:797
+msgid "Set the width of the Sidebar in percentage"
+msgstr "Установите ширину области виджетов в %"
+
+#: inc/customizer.php:796
+msgid "Sidebar Width"
+msgstr "Ширина области виджетов"
+
+#: inc/customizer.php:749
+msgid "Archives Sidebar"
+msgstr "Область виджетов архивов"
+
+#: inc/customizer.php:728
+msgid "Post Sidebar"
+msgstr "Область виджетов записи"
+
+#: inc/customizer.php:709 inc/customizer.php:730 inc/customizer.php:751
+#: inc/customizer.php:775 inc/customizer.php:1205
+msgid "Default"
+msgstr "По умолчанию"
+
+#: inc/customizer.php:707
+msgid "Page Sidebar"
+msgstr "Область виджетов страницы"
+
+#: inc/customizer.php:691 inc/customizer.php:712 inc/customizer.php:733
+#: inc/customizer.php:754 inc/customizer.php:778
+msgid "Right Sidebar"
+msgstr "Правая область виджетов"
+
+#: inc/customizer.php:690 inc/customizer.php:711 inc/customizer.php:732
+#: inc/customizer.php:753 inc/customizer.php:777
+msgid "Left Sidebar"
+msgstr "Левая область виджетов"
+
+#: inc/customizer.php:689 inc/customizer.php:710 inc/customizer.php:731
+#: inc/customizer.php:752 inc/customizer.php:776
+msgid "No Sidebar"
+msgstr "Без области виджетов"
+
+#: inc/customizer.php:687
+msgid "Default layout for the Sidebar throughout the site"
+msgstr "Макет области виджетов по умолчанию на всем сайте"
+
+#: inc/customizer.php:686
+msgid "Default Sidebar"
+msgstr "Область виджетов по умолчанию"
+
+#: inc/customizer.php:660
+msgid "Heading Color (H1-H6)"
+msgstr "Цвет заголовка (H1-H6)"
+
+#: inc/customizer.php:644
+msgid "Link Hover Color"
+msgstr "Цвет ссылки при наведении курсора"
+
+#: inc/customizer.php:628
+msgid "Link Color"
+msgstr "Цвет ссылки"
+
+#: inc/customizer.php:612 inc/customizer.php:1330
+msgid "Text Color"
+msgstr "Цвет текста"
+
+#: inc/customizer.php:596 inc/customizer.php:947
+msgid "Background Color"
+msgstr "Цвет фона"
+
+#: inc/customizer.php:579
+msgid "Colors"
+msgstr "Цвета"
+
+#: inc/customizer.php:554
+msgid "Typography"
+msgstr "Типографика"
+
+#: inc/customizer.php:540
+msgid "Footer Background Color"
+msgstr "Цвет фона подвала"
+
+#: inc/customizer.php:526
+msgid "Add any text to your footer. e.g. your copyright - &copy; Site Name"
+msgstr "Добавьте любой текст в подвал. напр., copyright - &copy; название сайта"
+
+#: inc/customizer.php:525
+msgid "Footer Text / HTML"
+msgstr "Подвал текст / HTML"
+
+#: inc/customizer.php:509
+msgid "Tagline Color"
+msgstr "Цвет краткого описания"
+
+#: inc/customizer.php:491
+msgid "Change font size of site description"
+msgstr "Изменить размер шрифта описания сайта"
+
+#: inc/customizer.php:470
+msgid "Change font size of site tagline"
+msgstr "Изменить размер шрифта краткого описания сайта"
+
+#: inc/customizer.php:453
+msgid "Site Title Color"
+msgstr "Цвет названия сайта"
+
+#: inc/customizer.php:435
+msgid "Change font size of site title"
+msgstr "Изменить размер шрифта названия сайта"
+
+#: inc/customizer.php:434 inc/customizer.php:469 inc/customizer.php:490
+msgid "Font size"
+msgstr "Размер шрифта"
+
+#: inc/customizer.php:418
+msgid "Header Background Color"
+msgstr "Цвет фона заголовка"
+
+#: inc/customizer.php:404
+msgid "Header & Footer Options"
+msgstr "Параметры заголовка и подвала"
+
+#: inc/customizer.php:392
+msgid "Edit Pages"
+msgstr "Изменть страницы"
+
+#: inc/customizer.php:374
+msgid "Edit Templates"
+msgstr "Изменить шаблоны"
+
+#: inc/customizer.php:356
+msgid "Edit Header / Footer"
+msgstr "Изменить заголовок/подвал"
+
+#: inc/customizer.php:344
+msgid "<b>Note:</b> The Pagelayer editor will open to edit these pages"
+msgstr "<b>Примечание:</b> Для редактирования этих страниц будет открыт редактор PageLayer"
+
+#: inc/customizer.php:308
+msgid "Header, Footer, Templates, Pages"
+msgstr "Заголовок, Подвал, Шаблоны, Страницы"
+
+#: inc/customizer.php:248
+msgid "See Pro Features"
+msgstr "Посмотреть возможности Pro-версии"
+
+#: inc/customizer.php:209 inc/customizer.php:235
+msgid "Get More Options with PopularFX Pro"
+msgstr "Получите больше возможностей с PopularFX Pro"
+
+#: inc/popularfx-dashboard.php:225
+msgid "Server's IP Address"
+msgstr "Server's IP Address"
+
+#: inc/popularfx-dashboard.php:221
+msgid "Path"
+msgstr "Путь"
+
+#: inc/popularfx-dashboard.php:217
+msgid "URL"
+msgstr "URL"
+
+#: inc/popularfx-dashboard.php:212
+msgid "Pagelayer Version"
+msgstr "Версия PageLayer"
+
+#: inc/popularfx-dashboard.php:207
+msgid "Install PopularFX Website Templates Plugin"
+msgstr "Установите плагин шаблонов сайтов PopularFX"
+
+#: inc/popularfx-dashboard.php:205
+msgid "PopularFX Templates Plugin"
+msgstr "Плагин шаблонов PopularFX"
+
+#: inc/popularfx-dashboard.php:201
+msgid "Theme Version"
+msgstr "Версия темы"
+
+#: inc/popularfx-dashboard.php:197
+msgid "Theme Name"
+msgstr "Название темы"
+
+#: inc/popularfx-dashboard.php:186
+msgid "Theme Information"
+msgstr "Информация о теме"
+
+#: inc/popularfx-dashboard.php:173
+msgid "The settings were saved successfully"
+msgstr "Настройки успешно сохранены"
+
+#: inc/popularfx-dashboard.php:139
+msgid "here"
+msgstr "здесь"
+
+#: inc/popularfx-dashboard.php:139
+msgid "You can report any bugs"
+msgstr "Вы можете сообщить о любых ошибках"
+
+#: inc/popularfx-dashboard.php:127
+msgid "I easily built my #WordPress #site using @PopularFXthemes"
+msgstr "Я легко создал свой #WordPress #сайт, используя @PopularFXthemes"
+
+#: inc/popularfx-dashboard.php:125
+msgid "Let your followers know that you use PopularFX to build your website"
+msgstr "Сообщите своим последователям, что вы используете PopularFX для создания своего сайта"
+
+#: inc/popularfx-dashboard.php:110
+msgid "Visit wpCentral"
+msgstr "Посетите wpCentral"
+
+#: inc/popularfx-dashboard.php:107
+msgid "Post Management"
+msgstr "Управление записью"
+
+#: inc/popularfx-dashboard.php:106
+msgid "Plugins & Theme Management"
+msgstr "Управление плагинами и темой"
+
+#: inc/popularfx-dashboard.php:105
+msgid "Backup your WordPress Site"
+msgstr "Сделайте резервную копию вашего сайта WordPress"
+
+#: inc/popularfx-dashboard.php:104
+msgid "Update Plugins"
+msgstr "Обновление плагинов"
+
+#: inc/popularfx-dashboard.php:103
+msgid "Update Themes"
+msgstr "Обновить темы"
+
+#: inc/popularfx-dashboard.php:102
+msgid "Update WordPress"
+msgstr "Обновить WordPress"
+
+#: inc/popularfx-dashboard.php:101
+msgid "1-click Admin Access"
+msgstr "Доступ админа в один клик"
+
+#: inc/popularfx-dashboard.php:99
+msgid "Manage all your WordPress sites from <b>1 dashboard</b>"
+msgstr "Управляйте всеми своими сайтами WordPress с <b>одной консоли</b>"
+
+#: inc/popularfx-dashboard.php:86
+msgid "Disable XML-RPC"
+msgstr "Отключить XML-RPC"
+
+#: inc/popularfx-dashboard.php:85
+msgid "Rename Login Page"
+msgstr "Переименовать страницу логина"
+
+#: inc/popularfx-dashboard.php:84
+msgid "reCAPTCHA"
+msgstr "reCAPTCHA"
+
+#: inc/popularfx-dashboard.php:83
+msgid "Login Challenge Question"
+msgstr "Вход через контрольный вопрос"
+
+#: inc/popularfx-dashboard.php:82
+msgid "Two Factor Auth - App"
+msgstr "Двухфакторная аутентификация - Приложение"
+
+#: inc/popularfx-dashboard.php:81
+msgid "Two Factor Auth - Email"
+msgstr "Двухфакторная аутентификация - Email"
+
+#: inc/popularfx-dashboard.php:80
+msgid "PasswordLess Login"
+msgstr "Вход без пароля"
+
+#: inc/popularfx-dashboard.php:78
+msgid "Secure your website with the following features"
+msgstr "Защитите свой сайт с помощью следующих функций"
+
+#: inc/popularfx-dashboard.php:68 inc/popularfx-dashboard.php:89
+msgid "Upgrade"
+msgstr "Обновление"
+
+#: inc/popularfx-dashboard.php:66 inc/popularfx-dashboard.php:87
+#: inc/popularfx-dashboard.php:108
+msgid "And many more ..."
+msgstr "И многое другое..."
+
+#: inc/popularfx-dashboard.php:65
+msgid "Popup Builder"
+msgstr "Конструктор всплывающего окна"
+
+#: inc/popularfx-dashboard.php:64
+msgid "Form Builder"
+msgstr "Конструктор форм"
+
+#: inc/popularfx-dashboard.php:63
+msgid "Theme Creator and Exporter"
+msgstr "Создатель и экспортер темы"
+
+#: inc/popularfx-dashboard.php:62
+msgid "WooCommerce Builder"
+msgstr "Конструктор WooCommerce"
+
+#: inc/popularfx-dashboard.php:61
+msgid "Theme Builder"
+msgstr "Конструктор тем"
+
+#: inc/popularfx-dashboard.php:60
+msgid "400+ Premium Sections"
+msgstr "400+ премиальных разделов"
+
+#: inc/popularfx-dashboard.php:59
+msgid "60+ Premium Widgets"
+msgstr "60+ премиальных виджетов"
+
+#: inc/popularfx-dashboard.php:58
+msgid "30+ Free Widgets"
+msgstr "30+ бесплатных виджетов"
+
+#: inc/popularfx-dashboard.php:56
+msgid "The best WordPress page builder"
+msgstr "Лучший конструктор страниц WordPress"
+
+#: inc/popularfx-dashboard.php:21
+msgid "Review Pagelayer"
+msgstr "Обзор PageLayer"
+
+#. translators: %s: post title
+#: inc/template-tags.php:83
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Добавить комментарий<span class=\"screen-reader-text\"> к %s</span>"
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:73
+msgid "Tagged %1$s"
+msgstr "Метки %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:70
+msgctxt "list item separator"
+msgid ", "
+msgstr ", "
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:66
+msgid "Posted in %1$s"
+msgstr "Опубликовано в %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:63
+msgid ", "
+msgstr ", "
+
+#. translators: %s: post author.
+#: inc/template-tags.php:46
+msgctxt "post author"
+msgid "by %s"
+msgstr "от автора %s"
+
+#. translators: %s: post date.
+#: inc/template-tags.php:30
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Опубликовано %s"
+
+#: inc/popularfx.php:105
+msgid "PopularFX Options"
+msgstr "Параметры PopularFX"
+
+#: inc/popularfx.php:68
+msgid "Done! Pagelayer is now installed and activated"
+msgstr "Готово! PageLayer теперь установлен и активирован"
+
+#: inc/popularfx.php:67
+msgid "Done! Pagelayer is now installed and activated.  Please click <a href=\"%s\">here</a> to import your themes content"
+msgstr "Готово! Теперь PageLayer установлен и активирован. Нажмите <a href=\"%s\">здесь</a>, чтобы импортировать содержимое тем"
+
+#: inc/popularfx.php:62
+msgid "Activating Pagelayer Plugin !"
+msgstr "Активация плагина PageLayer!"
+
+#: inc/popularfx.php:52
+msgid "Install Pagelayer Free Version"
+msgstr "Установите бесплатную версию PageLayer"
+
+#. translators: %s: search query.
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr "Результат поиска для: %s"
+
+#: template-parts/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Кажется, мы не можем найти то, что вы ищите. Возможно, поможет поиск."
+
+#: template-parts/content-none.php:37
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, по вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы написать свою первую статью? <a href=\"%1$s\">Начнем!</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:40
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Читать далее<span class=\"screen-reader-text\"> «%s»</span>"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:100 template-parts/content-page.php:39
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Изменить <span class=\"screen-reader-text\">%s</span>"
+
+#: template-parts/content-page.php:25 template-parts/content.php:53
+msgid "Pages:"
+msgstr "Страниц:"
+
+#: header.php:26
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: single.php:24
+msgid "Next:"
+msgstr "Далее:"
+
+#: single.php:23
+msgid "Previous:"
+msgstr "Предыдущий:"
+
+#. translators: %1$s: smiley
+#: 404.php:49
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Попробуйте поискать в ежемесячных архивах. %1$s"
+
+#: 404.php:31
+msgid "Most Used Categories"
+msgstr "Часто используемые рубрики"
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "К сожалению ни чего найдено не было. Может быть, попробовать одну из ссылок ниже, или поиск?"
+
+#: 404.php:18
+msgid "Sorry we couldn't find that page."
+msgstr "Мы не смогли найти эту страницу."
+
+#: 404.php:17
+msgid "404"
+msgstr "404"
+
+#: functions.php:651
+msgid "Install from 500+ Website Templates"
+msgstr "Установка из 500+ шаблонов веб-сайтов"
+
+#: functions.php:647
+msgid "Dismiss"
+msgstr "Отклонить"
+
+#: functions.php:646
+msgid "Dismiss this Notice"
+msgstr "Отклонить это уведомление"
+
+#: functions.php:639
+msgid "%1$s has many more features like 500+ Website %2$s Templates%3$s, 90+ widgets, 500+ sections, Theme Builder, WooCommerce Builder, Theme Creator and Exporter, Form Builder, Popup Builder, etc. You get a Pagelayer Pro license with the PopularFX Pro version."
+msgstr "%1$s имеет гораздо больше функций, таких как 500+ шаблонов веб-сайтов %2$s%3$s, более 90 виджетов, более 500 разделов, конструктор тем, конструктор WooCommerce, создатель и экспортер тем, конструктор форм, конструктор всплывающих окон и т. д. получите лицензию PageLayer Pro с версией PopularFX Pro."
+
+#: functions.php:631
+msgid "We are glad you are using %1$s to build your website. We really appreciate it ! <br>We would like to request you to give us a 5 Star rating on %2$s. <br>It will greatly boost our motivation !"
+msgstr "Мы рады, что вы используете %1$s для создания своего веб-сайта. Мы действительно это ценим ! <br>Мы хотели бы попросить вас дать нам оценку 5 звезд на %2$s. <br>Это значительно повысит нашу мотивацию!"
+
+#: functions.php:473 functions.php:637
+msgid "Visit our website"
+msgstr "Посетите наш сайт"
+
+#: functions.php:472 functions.php:636
+msgid "Tweet"
+msgstr "Твит"
+
+#: functions.php:471 functions.php:635
+msgid "Facebook"
+msgstr "Facebook"
+
+#: functions.php:470 functions.php:634
+msgid "Rate it 5★'s"
+msgstr "Оцените в 5★"
+
+#: functions.php:469 functions.php:633
+msgid "Buy PopularFX Pro"
+msgstr "Купить PopularFX Pro"
+
+#: functions.php:466
+msgid "Did you know PopularFX comes with 500+ Templates to design your website. <br>Click to choose your template !"
+msgstr "Знаете ли вы, что PopularFX поставляется с более чем 500 шаблонами для оформления вашего веб-сайта. <br>Нажмите, чтобы выбрать шаблон!"
+
+#: functions.php:266
+msgid "Add widgets here."
+msgstr "Добавьте сюда виджеты."
+
+#: functions.php:264 inc/customizer.php:670
+msgid "Sidebar"
+msgstr "Область виджетов"
+
+#: functions.php:201
+msgid "PopularFX Theme"
+msgstr "Тема PopularFX"
+
+#: functions.php:73
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://pagelayer.com"
+msgstr "https://pagelayer.com"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Pagelayer"
+msgstr "PageLayer"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://popularfx.com"
+msgstr "https://popularfx.com"

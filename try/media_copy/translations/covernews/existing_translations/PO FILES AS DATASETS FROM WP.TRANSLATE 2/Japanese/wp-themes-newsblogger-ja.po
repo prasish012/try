@@ -1,0 +1,679 @@
+# Translation of Themes - NewsBlogger in Japanese
+# This file is distributed under the same license as the Themes - NewsBlogger package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-07-09 08:46:22+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - NewsBlogger\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "NewsBlogger is a dynamic and versatile child theme for the popular NewCrunch WordPress theme. Perfect for bloggers, journalists, and online magazines, it offers enhanced customization options, improved performance, and seamless integration with both the Gutenberg and Classic editors. Compatible to various popular plugins such as Elementor, Contact Form 7, Polylang and WPML. Theme is RTL ready and prioritizes user privacy and complies with the General Data Protection Regulation (GDPR) guidelines by refraining from collecting any personal data restricted under GDPR. The theme is also schema-ready, enhancing search engine visibility and optimization. To explore the theme further, feel free to check out our demo at: https://demo-news.spicethemes.com/startersite-1/. For video tutorial visit here https://www.youtube.com/playlist?list=PLTfjrb24Pq_DeJOZdKEaP3rZPbHuOCLtZ"
+msgstr "NewsBlogger は、人気の NewCrunch WordPress テーマのダイナミックで多用途な子テーマです。ブロガー、ジャーナリスト、オンライン マガジンに最適で、強化されたカスタマイズ オプション、改善されたパフォーマンス、Gutenberg エディターと Classic エディターの両方とのシームレスな統合を提供します。Elementor、Contact Form 7、Polylang、WPML などのさまざまな人気プラグインと互換性があります。このテーマは RTL 対応で、ユーザーのプライバシーを優先し、GDPR で制限されている個人データの収集を控えることで、一般データ保護規則 (GDPR) ガイドラインに準拠しています。このテーマはスキーマ対応でもあり、検索エンジンの可視性と最適化を強化します。このテーマをさらに詳しく調べるには、https://demo-news.spicethemes.com/startersite-1/ でデモをご覧ください。動画のチュートリアルについては、https://www.youtube.com/playlist?list=PLTfjrb24Pq_DeJOZdKEaP3rZPbHuOCLtZ をご覧ください。"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "NewsBlogger"
+msgstr "NewsBlogger"
+
+#: functions.php:508
+msgid "No plugin URL provided."
+msgstr ""
+
+#: functions.php:503
+msgid "You do not have permission to install plugins."
+msgstr ""
+
+#: functions.php:476
+msgid "No plugin slug provided."
+msgstr ""
+
+#: functions.php:471
+msgid "You do not have permission to manage plugins."
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:569
+msgid "It is recommended that you install & activate the Spice Blocks plugin to import the gutenberg starter sites"
+msgstr ""
+
+#: functions.php:173 functions.php:257
+msgid "Dismiss this notice"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:564
+msgid "We highly recommend installing and activating the WooCommerce plugin, which allows you to create a shop and enhance your business."
+msgstr ""
+
+#. translators: %s: theme name
+#: admin/inc/class-spicethemes-about-page.php:344
+msgid "now"
+msgstr ""
+
+#. translators: %s: theme name
+#: admin/inc/class-spicethemes-about-page.php:344
+msgid "Install"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:26 functions.php:164
+msgid "Install Plugin"
+msgstr ""
+
+#: partials/header/header-nav.php:115
+msgid "Light/Dark Mode"
+msgstr "ライト/ダークモード"
+
+#: partials/header/header-nav.php:103
+msgid "Close Search"
+msgstr "検索を閉じる"
+
+#: partials/header/header-nav.php:79 partials/header/header-nav.php:87
+#: partials/header/header-nav.php:88 partials/header/header-nav.php:99
+#: partials/header/header-nav.php:106 partials/header/header-nav.php:108
+msgid "Search"
+msgstr "検索"
+
+#: partials/header/header-nav.php:40
+msgid "Close Off-Canvas"
+msgstr "Close Off-Canvas"
+
+#: partials/header/header-nav.php:28
+msgid "Close Icon"
+msgstr "閉じるアイコン"
+
+#: partials/header/header-nav.php:21
+msgid "Toggle Icon"
+msgstr "トグルのアイコン"
+
+#: partials/header/header-nav.php:15
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "コンテンツへスキップ"
+
+#: functions.php:408
+msgid "Alignment"
+msgstr "アラインメント"
+
+#: functions.php:312
+msgid "Header Layout"
+msgstr "ヘッダーレイアウト"
+
+#: functions.php:249 functions.php:251
+msgid "Upgrade To Pro"
+msgstr "プロ仕様にアップグレード"
+
+#: functions.php:244 functions.php:246
+msgid "Watch Videos"
+msgstr "動画を見ます"
+
+#: functions.php:241
+msgid "See Changelog"
+msgstr "変更履歴を見る"
+
+#: functions.php:236
+msgid "Try It Now"
+msgstr "やってみよう"
+
+#: functions.php:234
+msgid "Try Now"
+msgstr "やってみよう"
+
+#: functions.php:226
+msgid "complete with exciting new features. Take a look now!"
+msgstr "エキサイティングな新機能が満載です。今すぐご覧ください!"
+
+#: functions.php:226
+msgid "We've consistently aimed to meet our users' needs and demands. In order to address specific requirements and rectify issues from our previous version, we've rolled out version"
+msgstr "常にユーザーのニーズと要求を満たすことを目指してきました。特定の要件に対応し、以前のバージョンからの問題を修正するために、バージョンをリリースしました。"
+
+#: functions.php:223
+msgid "%1$s Current %2$s"
+msgstr "%1$s 現在 %2$s"
+
+#: functions.php:170
+msgid "Welcome Banner"
+msgstr "「ようこそ」バナー"
+
+#: functions.php:160
+msgid "Theme Documentation"
+msgstr "テーマドキュメンテーション"
+
+#: functions.php:156
+msgid "View Live Demos"
+msgstr "ライブデモを表示"
+
+#: functions.php:154
+msgid "Live Demo"
+msgstr "ライブデモ"
+
+#: functions.php:150 functions.php:152
+msgid "Theme Dashboard"
+msgstr "テーマダッシュボード"
+
+#. translators: %s: theme name
+#: functions.php:147
+msgid "%s is now installed and ready to use. We've provide some links to get you started."
+msgstr "%s がインストールされ、使用できるようになりました。 すぐに始められるよう、いくつかのリンクを用意しました。"
+
+#. translators: %s: theme name
+#: functions.php:142
+msgid "Welcome to"
+msgstr "ようこそ"
+
+#: functions.php:133
+msgid "Hello"
+msgstr "こんにちは"
+
+#: admin/tab-pages/video-tutorials.php:158
+msgid "Core Background Color & Image Customize"
+msgstr "メイン背景色と画像のカスタマイズ"
+
+#: admin/tab-pages/video-tutorials.php:157
+msgid "Core Background Color & Image Video"
+msgstr "メイン背景色とイメージ動画"
+
+#: admin/tab-pages/video-tutorials.php:155
+msgid "Background Color & Image"
+msgstr "背景色と画像"
+
+#: admin/tab-pages/video-tutorials.php:146
+msgid "Theme Color Customize"
+msgstr "テーマカラーのカスタマイズ"
+
+#: admin/tab-pages/video-tutorials.php:145
+msgid "Theme Color Video"
+msgstr "テーマカラーに関する動画"
+
+#: admin/tab-pages/video-tutorials.php:143
+msgid "Theme & Category Color"
+msgstr "カテゴリーのテーマとカラー"
+
+#: admin/tab-pages/video-tutorials.php:134
+msgid "Footer Section Customize"
+msgstr "フッターセクションのカスタマイズ"
+
+#: admin/tab-pages/video-tutorials.php:133
+msgid "Footer Section Video"
+msgstr "フッターセクションの動画"
+
+#: admin/tab-pages/video-tutorials.php:131
+msgid "Footer Widgets & Copyright Text"
+msgstr "フッターウィジェットと著作権テキスト"
+
+#: admin/tab-pages/video-tutorials.php:122
+msgid "Custom Widgets Customize"
+msgstr "カスタムウィジェットカスタマイズ"
+
+#: admin/tab-pages/video-tutorials.php:121
+msgid "Custom Widgets Video"
+msgstr "カスタムウィジェット動画"
+
+#: admin/tab-pages/video-tutorials.php:119
+msgid "Setup Custom Widgets"
+msgstr "カスタムウィジェットの設定"
+
+#: admin/tab-pages/video-tutorials.php:110
+msgid "Sections Rearrange Customize"
+msgstr "セクションの並べ替えカスタマイズ"
+
+#: admin/tab-pages/video-tutorials.php:109
+msgid "Sections Rearrange Video"
+msgstr "セクション再編の動画"
+
+#: admin/tab-pages/video-tutorials.php:107
+msgid "Reorder/Rearrange Sections"
+msgstr "セクションの並べ替え"
+
+#: admin/tab-pages/video-tutorials.php:98
+msgid "Highlight Customize"
+msgstr "ハイライトをカスタマイズ"
+
+#: admin/tab-pages/video-tutorials.php:97
+msgid "Highlight Video"
+msgstr "ハイライトの動画"
+
+#: admin/tab-pages/video-tutorials.php:95
+msgid "Setup Highlight Section"
+msgstr "ハイライトセクションの設定"
+
+#: admin/tab-pages/video-tutorials.php:86
+msgid "Banner Customize"
+msgstr "バナーをカスタマイズ"
+
+#: admin/tab-pages/video-tutorials.php:85
+msgid "Banner Video"
+msgstr "動画バナー"
+
+#: admin/tab-pages/video-tutorials.php:83
+msgid "Setup Banner Section"
+msgstr "バナーセクションの設定"
+
+#: admin/tab-pages/video-tutorials.php:74
+msgid "Toggle Sidebar Customize"
+msgstr "サイドバーの切り替えをカスタマイズ"
+
+#: admin/tab-pages/video-tutorials.php:73
+msgid "Toggle Sidebar Video"
+msgstr "サイドバー動画を切り替える"
+
+#: admin/tab-pages/video-tutorials.php:71
+msgid "Setup Toggle Sidebar"
+msgstr "ページ切り替えを設定"
+
+#: admin/tab-pages/video-tutorials.php:62
+msgid "Global Options Customize"
+msgstr "グローバルオプションのカスタマイズ"
+
+#: admin/tab-pages/video-tutorials.php:61
+msgid "Global Options Video"
+msgstr "グローバルオプションの動画"
+
+#: admin/tab-pages/video-tutorials.php:59
+msgid "Manage Global Options"
+msgstr "グローバルオプションの管理"
+
+#: admin/tab-pages/video-tutorials.php:50
+msgid "Header Customize"
+msgstr "ヘッダーのカスタマイズ"
+
+#: admin/tab-pages/video-tutorials.php:49
+msgid "Header Video"
+msgstr "ヘッダー動画"
+
+#: admin/tab-pages/video-tutorials.php:47
+msgid "Setup Header"
+msgstr "ヘッダーの設定"
+
+#: admin/tab-pages/video-tutorials.php:38
+msgid "Site Identity Customize"
+msgstr "サイトアイデンティティのカスタマイズ"
+
+#: admin/tab-pages/video-tutorials.php:37
+msgid "Site Identity Video"
+msgstr "サイトアイデンティティの動画"
+
+#: admin/tab-pages/video-tutorials.php:35
+msgid "Setup Site Identity"
+msgstr "サイトのアイデンティティを設定"
+
+#: admin/tab-pages/video-tutorials.php:26
+#: admin/tab-pages/video-tutorials.php:38
+#: admin/tab-pages/video-tutorials.php:50
+#: admin/tab-pages/video-tutorials.php:62
+#: admin/tab-pages/video-tutorials.php:74
+#: admin/tab-pages/video-tutorials.php:86
+#: admin/tab-pages/video-tutorials.php:98
+#: admin/tab-pages/video-tutorials.php:110
+#: admin/tab-pages/video-tutorials.php:122
+#: admin/tab-pages/video-tutorials.php:134
+#: admin/tab-pages/video-tutorials.php:146
+#: admin/tab-pages/video-tutorials.php:158
+msgid "Customize"
+msgstr "カスタマイズ"
+
+#: admin/tab-pages/video-tutorials.php:26
+msgid "Menu Customize"
+msgstr "メニューのカスタマイズ"
+
+#: admin/tab-pages/video-tutorials.php:25
+msgid "Menu Video"
+msgstr "メニューの動画"
+
+#: admin/tab-pages/video-tutorials.php:23
+msgid "Setup Main Menu"
+msgstr "メインメニューの設定"
+
+#: admin/tab-pages/video-tutorials.php:13
+#: admin/tab-pages/video-tutorials.php:25
+#: admin/tab-pages/video-tutorials.php:37
+#: admin/tab-pages/video-tutorials.php:49
+#: admin/tab-pages/video-tutorials.php:61
+#: admin/tab-pages/video-tutorials.php:73
+#: admin/tab-pages/video-tutorials.php:85
+#: admin/tab-pages/video-tutorials.php:97
+#: admin/tab-pages/video-tutorials.php:109
+#: admin/tab-pages/video-tutorials.php:121
+#: admin/tab-pages/video-tutorials.php:133
+#: admin/tab-pages/video-tutorials.php:145
+#: admin/tab-pages/video-tutorials.php:157
+msgid "Watch Video"
+msgstr "動画を見る"
+
+#: admin/tab-pages/video-tutorials.php:13
+msgid "Demo Import Video"
+msgstr "デモインポート動画"
+
+#: admin/tab-pages/video-tutorials.php:11
+msgid "Demo Import"
+msgstr "デモのインポート"
+
+#: admin/tab-pages/unlock-premium-feature.php:99
+msgid "Explore Premium Features"
+msgstr "プレミアム機能を見る"
+
+#: admin/tab-pages/unlock-premium-feature.php:97
+msgid "Upgrade today and transform your website with NewsBlogger Premium!"
+msgstr "今すぐアップグレードして、NewsBlogger Premium でサイトを変革しましょう。"
+
+#: admin/tab-pages/unlock-premium-feature.php:96
+msgid "All premium features are managed through the Newscrunch Plus plugin, providing a seamless and integrated experience for both NewsBlogger and Newscrunch users."
+msgstr "すべてのプレミアム機能は Newscrunch Plus プラグインを通じて管理され、NewsBlogger ユーザーと Newscrunch ユーザーの両方にシームレスで統合されたエクスペリエンスを提供します。"
+
+#: admin/tab-pages/unlock-premium-feature.php:96
+msgid "Note"
+msgstr "注:"
+
+#: admin/tab-pages/unlock-premium-feature.php:89
+msgid "Explore and import the premium starter sites available under both NewsBlogger and Newscrunch."
+msgstr "NewsBlogger と Newscrunch の両方で利用可能なプレミアム スターター サイトを調べてインポートします。"
+
+#: admin/tab-pages/unlock-premium-feature.php:86
+msgid "To access premium starter sites offered by Newscrunch, deactivate the NewsBlogger theme and activate the Newscrunch theme."
+msgstr "Newscrunch が提供するプレミアム スターター サイトにアクセスするには、NewsBlogger テーマを無効にし、Newscrunch テーマを有効にします。"
+
+#: admin/tab-pages/unlock-premium-feature.php:83
+msgid "Navigate to the starter sites section in your WordPress dashboard."
+msgstr "WordPress ダッシュボードのスターター サイト セクションに移動します。"
+
+#: admin/tab-pages/unlock-premium-feature.php:80
+msgid "Access Premium Starter Sites"
+msgstr "プレミアムスターターサイトにアクセス"
+
+#: admin/tab-pages/unlock-premium-feature.php:75
+msgid "Enter your premium license key to activate all the premium features."
+msgstr "すべてのプレミアム機能を有効にするには、プレミアム ライセンス キーを入力します。"
+
+#: admin/tab-pages/unlock-premium-feature.php:72
+msgid "Download and install the Newscrunch Plus plugin if you haven’t already."
+msgstr "Newscrunch Plus プラグインをまだダウンロードしてインストールしていない場合は、ダウンロードしてインストールしてください。"
+
+#: admin/tab-pages/unlock-premium-feature.php:69
+msgid "Install and Activate Newscrunch Plus"
+msgstr "Newscrunch Plusをインストールして有効化"
+
+#: admin/tab-pages/unlock-premium-feature.php:64
+msgid "Visit our pricing page to choose the plan that suits you best."
+msgstr "料金ページにアクセスして、最適なプランを選択してください。"
+
+#: admin/tab-pages/unlock-premium-feature.php:61
+msgid "Purchase NewsBlogger Premium functionality coded in Newscrunch Plus plugin"
+msgstr "Newscrunch Plus プラグインでコード化された NewsBlogger Premium 機能を購入する"
+
+#: admin/tab-pages/unlock-premium-feature.php:58
+#: admin/tab-pages/video-tutorials.php:14
+msgid "Get Started"
+msgstr "始めてみよう"
+
+#: admin/tab-pages/unlock-premium-feature.php:53
+msgid "Stay up-to-date with the latest features and improvements with regular updates to Newscrunch Plus."
+msgstr "Newscrunch Plus を定期的に更新して、最新の機能と改善点を常に把握してください。"
+
+#: admin/tab-pages/unlock-premium-feature.php:50
+msgid "Regular Updates"
+msgstr "定期的な更新"
+
+#: admin/tab-pages/unlock-premium-feature.php:45
+msgid "Receive dedicated support from our team to help you with any questions or issues."
+msgstr "ご質問や問題がありましたら、弊社のチームから専用のサポートを受けられます。"
+
+#: admin/tab-pages/unlock-premium-feature.php:42
+msgid "Priority Support"
+msgstr "優先サポート"
+
+#: admin/tab-pages/unlock-premium-feature.php:37
+msgid "Benefit from performance optimizations to ensure your site runs smoothly and efficiently."
+msgstr "パフォーマンスの最適化を活用して、サイトがスムーズかつ効率的に実行されるようにします。"
+
+#: admin/tab-pages/unlock-premium-feature.php:34
+msgid "Enhanced Performance Features"
+msgstr "強化されたパフォーマンス機能"
+
+#: admin/tab-pages/unlock-premium-feature.php:29
+msgid "Unlock advanced customization settings to fine-tune the appearance and functionality of your site."
+msgstr "高度なカスタマイズ設定のロックを解除して、サイトの外観と機能を微調整します。"
+
+#: admin/tab-pages/unlock-premium-feature.php:26
+msgid "Advanced Customization Options"
+msgstr "高度なカスタマイズオプション"
+
+#: admin/tab-pages/unlock-premium-feature.php:21
+msgid "To access premium starter sites offered by Newscrunch, you need to deactivate the NewsBlogger theme and activate the Newscrunch theme."
+msgstr "Newscrunch が提供するプレミアム スターター サイトにアクセスするには、NewsBlogger テーマを無効にして、Newscrunch テーマを有効にする必要があります。"
+
+#: admin/tab-pages/unlock-premium-feature.php:21
+msgid "Premium starter sites for Newscrunch are also available, offering you a broader selection of templates to choose from. Note"
+msgstr "Newscrunch のプレミアム スターター サイトも利用可能で、より幅広いテンプレートから選択できます。"
+
+#: admin/tab-pages/unlock-premium-feature.php:18
+msgid "Access exclusive NewsBlogger starter sites that are crafted for various niches and styles."
+msgstr "さまざまなニッチやスタイルに合わせて作成された専用の NewsBlogger スターター サイトにアクセスします。"
+
+#: admin/tab-pages/unlock-premium-feature.php:15
+msgid "Premium Starter Sites"
+msgstr "プレミアムスターターサイト"
+
+#: admin/tab-pages/unlock-premium-feature.php:11
+msgid "Here’s what you get with NewsBlogger Premium"
+msgstr "NewsBlogger Premium で得られるもの"
+
+#: admin/tab-pages/getting-started.php:125
+msgid "Pre-sales enquiry"
+msgstr "プリセールス問い合わせ"
+
+#: admin/tab-pages/getting-started.php:125
+msgid "Pre-sales Enquiry"
+msgstr "販売前のお問い合わせ"
+
+#: admin/tab-pages/getting-started.php:121
+msgid "Premium Version"
+msgstr "プレミアムバージョン"
+
+#: admin/tab-pages/getting-started.php:121
+msgid "Premium Demo"
+msgstr "プレミアム版デモ"
+
+#: admin/tab-pages/getting-started.php:117 functions.php:239
+msgid "Changelog"
+msgstr "更新履歴"
+
+#: admin/tab-pages/getting-started.php:113
+msgid "Free vs Pro"
+msgstr "Free 版と Pro 版を比較"
+
+#: admin/tab-pages/getting-started.php:113
+msgid "Free or Pro Comparison"
+msgstr "無料版とプロ版の比較"
+
+#: admin/tab-pages/getting-started.php:109
+msgid "Your feedback is valuable to us"
+msgstr "フィードバックに感謝します。"
+
+#: admin/tab-pages/getting-started.php:109
+msgid "Valuable Feedback"
+msgstr "貴重なフィードバック"
+
+#: admin/tab-pages/getting-started.php:105
+msgid "Support"
+msgstr "サポート"
+
+#: admin/tab-pages/getting-started.php:101
+msgid "Documentation"
+msgstr "Documentation"
+
+#: admin/tab-pages/getting-started.php:101 functions.php:158
+msgid "Help Docs"
+msgstr "ヘルプドキュメント"
+
+#: admin/tab-pages/getting-started.php:97
+msgid "Theme Demos"
+msgstr "テーマのデモ"
+
+#: admin/tab-pages/getting-started.php:93
+msgid "Theme Detail"
+msgstr "テーマの詳細"
+
+#: admin/tab-pages/getting-started.php:88
+msgid "Useful Links"
+msgstr "便利なリンク集"
+
+#: admin/tab-pages/getting-started.php:80
+msgid "Widgets"
+msgstr "ウィジェット"
+
+#: admin/tab-pages/getting-started.php:76
+msgid "Menus"
+msgstr "メニュー"
+
+#: admin/tab-pages/getting-started.php:72
+msgid "Footer Widgets"
+msgstr "フッターウィジェット"
+
+#: admin/tab-pages/getting-started.php:68
+msgid "Social Icons"
+msgstr "ソーシャルアイコン"
+
+#: admin/tab-pages/getting-started.php:64
+msgid "Sidebar Layout"
+msgstr "サイドバーのレイアウト"
+
+#: admin/tab-pages/getting-started.php:60
+msgid "Header Section"
+msgstr "ヘッダーセクション"
+
+#: admin/tab-pages/getting-started.php:56
+msgid "Site Layout"
+msgstr "サイトのレイアウト"
+
+#: admin/tab-pages/getting-started.php:52
+msgid "Site Logo"
+msgstr "サイトのロゴ"
+
+#: admin/tab-pages/getting-started.php:47
+msgid "Theme Features"
+msgstr "テーマの特徴"
+
+#: admin/tab-pages/getting-started.php:38
+msgid "Customize Image"
+msgstr "画像をカスタマイズ"
+
+#: admin/tab-pages/getting-started.php:29
+msgid "Need to install & activate the \"Spice Starter Sites\" plugin to import the demo."
+msgstr "デモをインポートするには、「Spice Starter Sites」プラグインをインストールして有効化する必要があります。"
+
+#: admin/tab-pages/getting-started.php:22
+#: admin/tab-pages/getting-started.php:28
+msgid "Import Image"
+msgstr "画像をインポート"
+
+#. translators: %s: theme name
+#: admin/tab-pages/getting-started.php:13
+msgid "%s Theme Configuration"
+msgstr "%s テーマの設定"
+
+#: admin/inc/class-spicethemes-about-page.php:559
+msgid "We highly recommend installing and activating the Seo Optimized Images plugin, which will dynamically insert SEO-friendly alt attributes and title attributes to enhance your image optimization."
+msgstr "Seo Optimized Images プラグインをインストールして有効にすることを強くお勧めします。このプラグインは、SEO に適した alt 属性と title 属性を動的に挿入して、画像の最適化を強化します。"
+
+#: admin/inc/class-spicethemes-about-page.php:554
+msgid "To add the social share buttons to your posts, install & activate this plugin."
+msgstr "投稿にソーシャル共有ボタンを追加するには、このプラグインをインストールして有効化します。"
+
+#: admin/inc/class-spicethemes-about-page.php:549
+msgid "To display the posts in a beautiful slider with multiple options, install & activate this plugin."
+msgstr "複数のオプションを備えた美しいスライダーで投稿を表示するには、このプラグインをインストールして有効化してください。"
+
+#: admin/inc/class-spicethemes-about-page.php:544
+msgid "To add a different banner image for a different page or post, install & activate this plugin."
+msgstr "別のページまたは投稿に別のバナー画像を追加するには、このプラグインをインストールして有効化してください。"
+
+#: admin/inc/class-spicethemes-about-page.php:539
+msgid "To enable the display of breadcrumbs, please install and activate this plugin."
+msgstr "パンくずリストの表示を有効にするには、このプラグインをインストールして有効化してください。"
+
+#: admin/inc/class-spicethemes-about-page.php:534
+msgid "To display the contact form, install & activate this plugin."
+msgstr "お問い合わせフォームを表示するには、このプラグインをインストールして有効化します。"
+
+#: admin/inc/class-spicethemes-about-page.php:384
+msgid "Active"
+msgstr "有効"
+
+#. translators: %s: theme name
+#: admin/inc/class-spicethemes-about-page.php:375
+msgid "Activate %s now"
+msgstr "今%sを有効化"
+
+#: admin/inc/class-spicethemes-about-page.php:368
+msgid "Activate Import Plugin"
+msgstr "インポートプラグインを有効化する"
+
+#: admin/inc/class-spicethemes-about-page.php:364
+msgid "Activate"
+msgstr "有効化"
+
+#: admin/inc/class-spicethemes-about-page.php:346
+msgid "Install and activate"
+msgstr "インストールと有効化"
+
+#. translators: %s: theme name
+#: admin/inc/class-spicethemes-about-page.php:137
+msgid "Get started with %s theme"
+msgstr "%s テーマを始めましょう"
+
+#. translators: %1$s: theme name and %2$ %3$s: url of the options page
+#: admin/inc/class-spicethemes-about-page.php:134
+msgid "%1$s theme is installed. To take full advantage of the features this theme has to offer visit our %2$swelcome page%3$s"
+msgstr "%1$s テーマがインストールされています。このテーマが提供する機能を最大限に活用するには、%2$sようこそページ%3$sをご覧ください。"
+
+#. translators: %1$s: theme name and %2$s: version of the theme
+#: admin/inc/class-spicethemes-about-page.php:117
+msgid "Welcome to %1$s %2$s"
+msgstr "%1$sへようこそ - %2$s"
+
+#. translators: %1$s: theme name and %2$s: count of recommended plugins
+#: admin/inc/class-spicethemes-about-page.php:115
+msgid "About %1$s %2$s"
+msgstr "%1$s%2$sについて"
+
+#: admin/inc/class-spicethemes-about-page.php:106
+msgid "View Theme Info"
+msgstr "テーマ情報を見る"
+
+#: admin/inc/class-spicethemes-about-page.php:71
+msgid "Error"
+msgstr "エラー"
+
+#: admin/inc/class-spicethemes-about-page.php:70
+msgid "Activating"
+msgstr "有効化しています"
+
+#: admin/inc/class-spicethemes-about-page.php:69
+msgid "Installing"
+msgstr "インストール中"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://spicethemes.com"
+msgstr "https://spicethemes.com"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "spicethemes"
+msgstr "spicethemes"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://spicethemes.com/newsblogger-wordpress-theme/"
+msgstr "https://spicethemes.com/newsblogger-wordpress-theme/"

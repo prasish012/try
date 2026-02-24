@@ -1,0 +1,912 @@
+# Translation of Themes - Raft in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Raft package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-11-02 08:40:55+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Raft\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Raft is a lightweight, full-site-editing compatible (FSE) theme ready for your next website. Raft is a super fast, easily customizable, simple theme. It’s perfect for blogs, small business, startups, agencies, firms, e-commerce shops (WooCommerce storefront) as well as personal portfolio sites and most types of projects. Raft works perfectly with Gutenberg and the most popular page builders (Elementor, Brizy, Beaver Builder or the Block Editor). Raft is also WooCommerce ready, responsive, RTL & translation ready. Learn more at https://themeisle.com/themes/raft/."
+msgstr "Raft es un tema ligero, compatible con la edición de sitios completos (FSE), perfecto para crear tu próximo sitio web. Raft es un tema súper rápido, fácilmente personalizable y sencillo. Es perfecto para blogs, pequeñas empresas, startups, agencias, empresas, tiendas de comercio electrónico (escaparate de WooCommerce), así como sitios de porfolios personales y para casi cualquier tipo de proyecto. Raft funciona perfectamente con Gutenberg y los constructores de páginas más populares (Elementor, Brizy, Beaver Builder o el Editor de Bloques). Raft también está preparado para WooCommerce, es adaptable, está preparado para RTL y para la traducción. Más información en https://themeisle.com/themes/raft/."
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Raft"
+msgstr "Raft"
+
+#. translators: %1$s - plugin name, %2$s - HTML tag, %3$s - discount, %4$s -
+#. HTML tag, %5$s - company name.
+#: inc/Admin.php:427
+msgid "Enhance %1$s with %2$s– up to %3$s OFF in our biggest sale of the year. Limited time only."
+msgstr "Mejora %1$s con %2$s- hasta %3$s de DESCUENTO en nuestra mayor oferta del año. Solo por tiempo limitado."
+
+#. translators: %s: FSE Design Pack:
+#: inc/Admin.php:70
+msgid "%s Access a collection of 40+ layout patterns ready to import to your website"
+msgstr "%s Accede a una colección de más de 40 patrones de diseño listos para importar a tu sitio web"
+
+#: inc/Admin.php:66
+msgid "Raft recommends"
+msgstr "Raft recomienda"
+
+#: inc/Admin.php:65
+msgid "Dismiss"
+msgstr "Descartar"
+
+#. translators: %s: Otter Blocks
+#: inc/Admin.php:202
+msgid "Install %s"
+msgstr "Instalar %s"
+
+#: inc/Admin.php:185
+msgid "Install our free builder plugin for more blocks, enhanced functionality, and seamless theme setup."
+msgstr "Instala nuestro plugin maquetador gratuito para obtener más bloques, una funcionalidad mejorada y una configuración perfecta del tema."
+
+#. translators: %s: Otter Blocks
+#: inc/Admin.php:179
+msgid "Extend Raft with our Free Builder"
+msgstr "Amplía Raft con nuestro maquetador gratuito"
+
+#. translators: %s: Otter Blocks
+#: inc/Admin.php:173
+msgid "Thanks for downloading Raft Theme 🎉"
+msgstr "Gracias por descargar el tema Raft  🎉"
+
+#: inc/patterns/loop-3.php:18
+msgid "Posts Query Loop 3"
+msgstr "Bucle de consulta de entradas 3"
+
+#: inc/patterns/call-to-action-2.php:18
+msgid "Call to Action 2"
+msgstr "Llamada a la acción 2"
+
+#: inc/Block_Patterns.php:71 inc/patterns/call-to-action.php:18
+msgid "Call to Action"
+msgstr "Llamada a la acción"
+
+#: styles/washed.json
+msgctxt "Style variation name"
+msgid "washed"
+msgstr "lavado"
+
+#: styles/violet-grain.json
+msgctxt "Style variation name"
+msgid "Violet Grain"
+msgstr "Grano violeta"
+
+#: styles/mono.json
+msgctxt "Style variation name"
+msgid "Mono"
+msgstr "Mono"
+
+#: styles/green-retro.json
+msgctxt "Style variation name"
+msgid "Green Retro"
+msgstr "Retro verde"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page with Header & Footer"
+msgstr "Página con cabecera y pie de página"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "XXL"
+msgstr "XXL"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "XL"
+msgstr "XL"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "L"
+msgstr "L"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "M"
+msgstr "M"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "S"
+msgstr "S"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "XS"
+msgstr "XS"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "XXS"
+msgstr "XXS"
+
+#: theme.json styles/apple-clean.json styles/blue-cream.json
+#: styles/blue-retro.json styles/clean-cut.json styles/dark-fit.json
+#: styles/garden-flow.json styles/green-corn.json styles/green-retro.json
+#: styles/light-serif.json styles/mono.json styles/night-owl.json
+#: styles/purple-dawn.json styles/violet-grain.json styles/washed.json
+#: styles/wooden.json
+msgctxt "Color name"
+msgid "Inverted Text"
+msgstr "Texto invertido"
+
+#: theme.json styles/apple-clean.json styles/blue-cream.json
+#: styles/blue-retro.json styles/clean-cut.json styles/dark-fit.json
+#: styles/garden-flow.json styles/green-corn.json styles/green-retro.json
+#: styles/light-serif.json styles/mono.json styles/night-owl.json
+#: styles/purple-dawn.json styles/violet-grain.json styles/washed.json
+#: styles/wooden.json
+msgctxt "Color name"
+msgid "Light Background"
+msgstr "Fondo claro"
+
+#: theme.json styles/apple-clean.json styles/blue-cream.json
+#: styles/blue-retro.json styles/clean-cut.json styles/dark-fit.json
+#: styles/garden-flow.json styles/green-corn.json styles/green-retro.json
+#: styles/light-serif.json styles/mono.json styles/night-owl.json
+#: styles/purple-dawn.json styles/violet-grain.json styles/washed.json
+#: styles/wooden.json
+msgctxt "Color name"
+msgid "Dark Background"
+msgstr "Fondo oscuro"
+
+#: theme.json styles/apple-clean.json styles/blue-cream.json
+#: styles/blue-retro.json styles/clean-cut.json styles/dark-fit.json
+#: styles/garden-flow.json styles/green-corn.json styles/green-retro.json
+#: styles/light-serif.json styles/mono.json styles/night-owl.json
+#: styles/purple-dawn.json styles/violet-grain.json styles/washed.json
+#: styles/wooden.json
+msgctxt "Color name"
+msgid "Accent Secondary"
+msgstr "Énfasis secundario"
+
+#: theme.json styles/apple-clean.json styles/blue-cream.json
+#: styles/blue-retro.json styles/clean-cut.json styles/dark-fit.json
+#: styles/garden-flow.json styles/green-corn.json styles/green-retro.json
+#: styles/light-serif.json styles/mono.json styles/night-owl.json
+#: styles/purple-dawn.json styles/violet-grain.json styles/washed.json
+#: styles/wooden.json
+msgctxt "Color name"
+msgid "Text"
+msgstr "Texto"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Spline Sans Mono"
+msgstr "Spline Sans Mono"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Gloock"
+msgstr "Gloock"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Geologica"
+msgstr "Geologica"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Spline Sans"
+msgstr "Spline Sans"
+
+#: inc/patterns/title-button.php:18
+msgid "Page title with button"
+msgstr "Título de la página con botón"
+
+#: inc/patterns/title-background.php:18
+msgid "Page title on background"
+msgstr "Título de la página en el fondo"
+
+#: inc/patterns/text-columns.php:18
+msgid "Text Columns"
+msgstr "Columnas de texto"
+
+#: inc/patterns/testimonial-fullwidth.php:22
+msgid "Testimonial Fullwidth"
+msgstr "Testimonio ancho completo"
+
+#: inc/patterns/testimonial-columns.php:22
+msgid "Testimonial Columns with Rating"
+msgstr "Columnas de testimonios con valoración"
+
+#: inc/patterns/testimonial-cards.php:18
+msgid "Testimonial Cards"
+msgstr "Tarjetas de testimonio"
+
+#: inc/patterns/testimonial-background.php:22
+msgid "Testimonial on Background"
+msgstr "Testimonio sobre fondo"
+
+#: inc/patterns/team-rows.php:23
+msgid "Team Member Rows"
+msgstr "Filas de miembros del equipo"
+
+#: inc/patterns/single-feature-button.php:22
+msgid "single-feature-button"
+msgstr "single-feature-button"
+
+#: inc/patterns/pricing-plans-inline-title.php:18
+msgid "Pricing Plans 2"
+msgstr "Planes de precios 2"
+
+#: inc/patterns/pricing-5.php:18
+msgid "Pricing Plans 5"
+msgstr "Planes de precios 5"
+
+#: inc/patterns/pricing-4.php:18
+msgid "Pricing Plans 4"
+msgstr "Planes de precios 4"
+
+#: inc/patterns/pricing-3.php:18
+msgid "Pricing Plans 3"
+msgstr "Planes de precios 3"
+
+#: inc/patterns/posts-query-loop-2.php:18
+msgid "Post Query Loop 2"
+msgstr "Bucle de consulta de entradas 2"
+
+#: inc/patterns/portfolio-columns.php:25
+msgid "Portfolio Columns"
+msgstr "Columnas de porfolio"
+
+#: inc/patterns/loop-rows.php:20
+msgid "Posts Loop Rows"
+msgstr "Filas de bucle de entradas"
+
+#: inc/patterns/loop-cards.php:18
+msgid "Posts Loop Cards"
+msgstr "Tarjetas de bucle de entradas"
+
+#: inc/patterns/loop-card-centered.php:18
+msgid "Posts Loop Card Centered"
+msgstr "Tarjeta de bucle de entradas centrada"
+
+#: inc/patterns/hero-with-columns.php:23
+msgid "Hero with Columns"
+msgstr "Fondo con columnas"
+
+#: inc/patterns/hero-columns.php:22
+msgid "Hero Columns"
+msgstr "Columnas con fondo completo"
+
+#: inc/patterns/hero-boxed.php:22
+msgid "Hero Cover with boxed title"
+msgstr "Fondo completo con título en caja"
+
+#: inc/patterns/features-centered.php:22
+msgid "Feature Block"
+msgstr "Bloques de características"
+
+#: inc/patterns/features-background.php:18
+msgid "Features on Background"
+msgstr "Características en fondo"
+
+#: inc/patterns/feature-cards.php:23
+msgid "Feature Cards"
+msgstr "Tarjetas de características"
+
+#: inc/patterns/cover-background.php:22
+msgid "Cover with Background"
+msgstr "Portada con fondo"
+
+#: inc/patterns/contact-details.php:23
+msgid "Contact Details"
+msgstr "Datos de contacto"
+
+#: inc/patterns/centered-title.php:18
+msgid "Centered Title"
+msgstr "Título centrado"
+
+#: inc/patterns/centered-text-background.php:18
+msgid "Centered Text on Background"
+msgstr "Texto centrado sobre el fondo"
+
+#: inc/patterns/call-to-action-image.php:22
+msgid "Call to Action with Image"
+msgstr "Llamada a la acción con imagen"
+
+#: inc/Core.php:262
+msgid "Create your new website today, with Raft!"
+msgstr "Crea hoy tu nueva web, ¡con Raft!"
+
+#: inc/Core.php:261
+msgid "Get started today, get in touch!"
+msgstr "Empieza hoy mismo, ¡ponte en contacto!"
+
+#: inc/Core.php:258
+msgid "Jason Doe"
+msgstr "Jason Doe"
+
+#: inc/Core.php:257
+msgid "\"...Absolutely one of the best services out there, very professional and easy-going experience, highly recommended...\""
+msgstr "\"...Absolutamente uno de los mejores servicios que existen, una experiencia muy profesional y fácil de llevar, muy recomendable...\""
+
+#: inc/Core.php:254
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+
+#: inc/Core.php:253
+msgid "A content subtitle"
+msgstr "Un subtítulo de contenido"
+
+#: inc/Core.php:252
+msgid "A generic content title"
+msgstr "Un título de contenido genérico"
+
+#: inc/Core.php:249
+msgid "Read also…"
+msgstr "Lee también..."
+
+#: inc/Core.php:248
+msgid "Categories"
+msgstr "Categorías"
+
+#: inc/Core.php:247
+msgid "Unfortunately the page was not found."
+msgstr "Lamentablemente, no se ha encontrado la página."
+
+#: inc/Core.php:246
+msgid "404"
+msgstr "404"
+
+#: inc/Core.php:245
+msgid "Search for a keyword..."
+msgstr "Busca una palabra clave..."
+
+#: inc/Core.php:244
+msgid "Search"
+msgstr "Buscar"
+
+#: inc/Core.php:243
+msgid "Search results"
+msgstr "Resultados de búsqueda"
+
+#: inc/Core.php:241
+msgid "Continue reading"
+msgstr "Seguir leyendo"
+
+#: inc/Core.php:240
+msgid "Read more"
+msgstr "Leer más"
+
+#: inc/Core.php:237
+msgid "Client Name"
+msgstr "Nombre del cliente"
+
+#: inc/Core.php:236
+msgid "A project title"
+msgstr "Un título de proyecto"
+
+#: inc/Core.php:235
+msgid "Selected Portfolio"
+msgstr "Porfolio seleccionado"
+
+#: inc/Core.php:232
+msgid "Just a frequent question"
+msgstr "Sólo una pregunta frecuente"
+
+#: inc/Core.php:228
+msgid "Contact detail example"
+msgstr "Ejemplo de datos de contacto"
+
+#: inc/Core.php:227
+msgid "Follow us"
+msgstr "Síguenos"
+
+#: inc/Core.php:226
+msgid "Contact details"
+msgstr "Datos de contacto"
+
+#: inc/Core.php:225
+msgid "Get in touch"
+msgstr "Ponte en contacto"
+
+#: inc/Core.php:222
+msgid "A pricing feature"
+msgstr "Característica del precio"
+
+#: inc/Core.php:221
+msgid "$19.99"
+msgstr "$19.99"
+
+#: inc/Core.php:220
+msgid "Plan title"
+msgstr "Título del plan"
+
+#: inc/Core.php:219
+msgid "A pricing section. Join premium!"
+msgstr "Una sección de precios. ¡Únete a premium!"
+
+#: inc/Core.php:216
+msgid "Company role"
+msgstr "Papel en la empresa"
+
+#: inc/Core.php:215
+msgid "Team member name"
+msgstr "Nombre del miembro del equipo"
+
+#: inc/Core.php:214
+msgid "Our Team"
+msgstr "Nuestro equipo"
+
+#: inc/Core.php:211
+msgid "Get Started"
+msgstr "Primeros pasos"
+
+#: inc/Core.php:210
+msgid "Button Text"
+msgstr "Texto del botón"
+
+#: inc/Core.php:209
+msgid "A placeholder description that you can replace with your own content."
+msgstr "Una descripción de marcador de posición que puedes sustituir por tu propio contenido."
+
+#: inc/Core.php:208
+msgid "This is feature title"
+msgstr "Este es el título de la característica"
+
+#: inc/Core.php:207
+msgid "Showcase your Features and Services"
+msgstr "Muestra tus características y servicios"
+
+#: inc/Core.php:204
+msgid "Just some placeholder text"
+msgstr "Solo un marcador de posición de texto"
+
+#: inc/Core.php:203
+msgid "This is placeholder text, feel free to replace it with your unique content as it's included here just to provide you with a better understanding of how your text will fit in the layout. Explore the various patterns and templates as you create your personalized web experience."
+msgstr "Este es un texto de marcador de posición, no dudes en sustituirlo por tu contenido único, ya que se incluye aquí sólo para proporcionarte una mejor comprensión de cómo encajará tu texto en el diseño. Explora los distintos patrones y plantillas mientras creas tu experiencia web personalizada."
+
+#: inc/Core.php:202
+msgid "A short section description"
+msgstr "Una breve descripción de la sección"
+
+#: inc/Core.php:201
+msgid "Subtitle"
+msgstr "Subtítulo"
+
+#: inc/Core.php:200
+msgid "This is section title"
+msgstr "Este es el título de la sección"
+
+#: inc/Core.php:199
+msgid "Explore our Services"
+msgstr "Explora nuestros servicios"
+
+#: inc/Core.php:198
+msgid "About me"
+msgstr "Sobre mí"
+
+#: inc/Core.php:197
+msgid "About our Team"
+msgstr "Acerca de nuestro equipo"
+
+#: inc/Core.php:196
+msgid "This is a page title"
+msgstr "Esto es un título de página"
+
+#: inc/Core.php:192
+msgid "Block Based Themes Made simple"
+msgstr "Temas basados en bloques simplificados"
+
+#: inc/Core.php:152 inc/patterns/services-page.php:18
+msgid "Services Page"
+msgstr "Página de servicios"
+
+#: inc/Core.php:147 inc/patterns/portfolio-page.php:18
+msgid "Portfolio Page"
+msgstr "Página de porfolio"
+
+#: inc/Core.php:142 inc/patterns/contact-page.php:18
+msgid "Contact Page"
+msgstr "Página de contacto"
+
+#: inc/Core.php:137 inc/patterns/about-page.php:18
+msgid "About Page"
+msgstr "Página «Acerca de»"
+
+#: inc/Core.php:130 inc/patterns/homepage-3.php:18
+msgid "Homepage 3"
+msgstr "Página de inicio 3"
+
+#: inc/Core.php:126 inc/patterns/homepage-2.php:18
+msgid "Homepage 2"
+msgstr "Página de inicio 2"
+
+#: inc/Core.php:120
+msgid "Single Post Cover"
+msgstr "Fondo de entrada única"
+
+#: inc/Core.php:116
+msgid "Single Post Columns"
+msgstr "Columnas de una entrada"
+
+#: inc/Core.php:112
+msgid "Single Post Centered"
+msgstr "Entrada única centrada"
+
+#: inc/Core.php:106
+msgid "Archive Row"
+msgstr "Archivo con filas"
+
+#: inc/Core.php:102
+msgid "Archive Cards"
+msgstr "Archivo con tarjetas"
+
+#: inc/Core.php:98
+msgid "Archive Boxed"
+msgstr "Archivo en caja"
+
+#: inc/Block_Patterns.php:78
+msgid "Archives"
+msgstr "Archivos"
+
+#: inc/Block_Patterns.php:77
+msgid "Singles"
+msgstr "Individuales"
+
+#: inc/Block_Patterns.php:73
+msgid "Pages"
+msgstr "Páginas"
+
+#: inc/Block_Patterns.php:72
+msgid "Post Loops"
+msgstr "Bucles de entradas"
+
+#: inc/Block_Patterns.php:70
+msgid "Pricing"
+msgstr "Precios"
+
+#: inc/Block_Patterns.php:69 inc/patterns/team.php:22
+msgid "Team"
+msgstr "Equipo"
+
+#: inc/Block_Patterns.php:68
+msgid "Testimonials"
+msgstr "Recomendaciones"
+
+#: inc/Block_Patterns.php:67
+msgid "Content"
+msgstr "Contenido"
+
+#: inc/Block_Patterns.php:66
+msgid "Features"
+msgstr "Características"
+
+#: inc/Block_Patterns.php:65
+msgid "Heroes / Page Titles"
+msgstr "Heros / Títulos de página"
+
+#: inc/Block_Patterns.php:64
+msgid "Footers"
+msgstr "Pies de página"
+
+#: inc/Block_Patterns.php:63
+msgid "Headers"
+msgstr "Cabeceras"
+
+#: inc/Block_Patterns.php:62
+msgid "Featured"
+msgstr "Destacado"
+
+#. translators: %s: Otter Blocks
+#: inc/Admin.php:196
+msgid "Try it out!"
+msgstr "¡Pruébalo!"
+
+#: styles/wooden.json
+msgctxt "Style variation name"
+msgid "Wooden"
+msgstr "Madera"
+
+#: styles/light-serif.json
+msgctxt "Style variation name"
+msgid "Light Serif"
+msgstr "Serifa suave"
+
+#: styles/dark-fit.json
+msgctxt "Style variation name"
+msgid "Dark Fit"
+msgstr "Ajuste oscuro"
+
+#: styles/blue-cream.json
+msgctxt "Style variation name"
+msgid "Blue Cream"
+msgstr "Crema azul"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer with Columns"
+msgstr "Pie de página con columnas"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header Centered"
+msgstr "Cabecera centrada"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Outfit"
+msgstr "Outfit"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Figtree"
+msgstr "Higuera"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Source Serif Pro"
+msgstr "Source Serif Pro"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Readex Pro"
+msgstr "Readex Pro"
+
+#: inc/patterns/pricing-plans.php:18
+msgid "Pricing Plans"
+msgstr "Planes de precios"
+
+#: inc/patterns/inverted-gallery-with-title.php:27
+msgid "Inverted Gallery with Title"
+msgstr "Galería invertida con título"
+
+#: inc/patterns/horizontal-content-cards.php:23
+msgid "Horizontal content cards"
+msgstr "Tarjetas de contenido horizontal"
+
+#: inc/patterns/content-columns-with-hero.php:21
+msgid "Content Columns with Hero"
+msgstr "Columnas de contenido con sección a pantalla completa"
+
+#: inc/patterns/alternating-feature-columns.php:23
+msgid "Alternating Feature Columns"
+msgstr "Columnas alternas de características"
+
+#: styles/purple-dawn.json
+msgctxt "Style variation name"
+msgid "Purple Dawn"
+msgstr "Amanecer morado"
+
+#: styles/night-owl.json
+msgctxt "Style variation name"
+msgid "Night Owl"
+msgstr "Búho nocturno"
+
+#: styles/green-corn.json
+msgctxt "Style variation name"
+msgid "Green corn"
+msgstr "Maíz verde"
+
+#: styles/garden-flow.json
+msgctxt "Style variation name"
+msgid "Garden flow"
+msgstr "Jardín fluido"
+
+#: styles/clean-cut.json
+msgctxt "Style variation name"
+msgid "Clean cut"
+msgstr "Corte limpio"
+
+#: styles/blue-retro.json
+msgctxt "Style variation name"
+msgid "Blue retro"
+msgstr "Azul retro"
+
+#: styles/apple-clean.json
+msgctxt "Style variation name"
+msgid "Apple clean"
+msgstr "Manzana limpia"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Pie de página"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Cabecera"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "WooCommerce Cart"
+msgstr "Cesta WooCommerce"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "WooCommerce Checkout"
+msgstr "Pago de WooCommerce"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "WooCommerce Single Product"
+msgstr "Producto individual de Woocommerce"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank Page - Only Content"
+msgstr "Página en blanco - Sólo contenido"
+
+#: theme.json styles/apple-clean.json styles/blue-cream.json
+#: styles/blue-retro.json styles/clean-cut.json styles/dark-fit.json
+#: styles/garden-flow.json styles/green-corn.json styles/green-retro.json
+#: styles/light-serif.json styles/mono.json styles/night-owl.json
+#: styles/purple-dawn.json styles/violet-grain.json styles/washed.json
+#: styles/wooden.json
+msgctxt "Color name"
+msgid "Accent"
+msgstr "Acento"
+
+#: theme.json styles/apple-clean.json styles/blue-cream.json
+#: styles/blue-retro.json styles/clean-cut.json styles/dark-fit.json
+#: styles/garden-flow.json styles/green-corn.json styles/green-retro.json
+#: styles/light-serif.json styles/mono.json styles/night-owl.json
+#: styles/purple-dawn.json styles/violet-grain.json styles/washed.json
+#: styles/wooden.json
+msgctxt "Color name"
+msgid "Background"
+msgstr "Fondo"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Lora"
+msgstr "Lora"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge"
+msgstr "Enorme"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "Muy grande"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Grande"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Medio"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Normal"
+msgstr "Normal"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Pequeño"
+
+#: inc/patterns/two-columns-features.php:23
+msgid "Two Columns of Features"
+msgstr "Dos columnas de características"
+
+#: inc/patterns/three-columns-features.php:24
+msgid "Three Columns of Features"
+msgstr "Tres columnas de características"
+
+#: inc/Core.php:195
+msgid "Powered by Blocks"
+msgstr "Funciona con bloques"
+
+#: inc/Core.php:194
+msgid "Built-in Patterns"
+msgstr "Patrones integrados"
+
+#: inc/Core.php:193
+msgid "Style Variations"
+msgstr "Variaciones de estilo"
+
+#: inc/Core.php:242
+msgid "Unfortunately no posts were found"
+msgstr "Lamentablemente no se ha encontrado ninguna entrada"
+
+#: inc/patterns/posts-query-loop.php:18
+msgid "Post Query Loop"
+msgstr "Bucle de consulta de entradas"
+
+#: inc/patterns/inverted-background.php:23
+msgid "Inverted Background"
+msgstr "Fondo invertido"
+
+#: inc/patterns/image-gallery.php:26
+msgid "Image Gallery with Title"
+msgstr "Galería de imágenes con título"
+
+#: inc/patterns/hero.php:22
+msgid "Hero Section"
+msgstr "Sección a pantalla completa"
+
+#: inc/Core.php:231 inc/patterns/frequently-asked-questions.php:18
+msgid "Frequently Asked Questions"
+msgstr "Preguntas frecuentes"
+
+#: inc/patterns/call-to-action-3.php:18
+msgid "Call to Action 3"
+msgstr "Llamada a la acción 3"
+
+#: inc/Core.php:161
+msgid "Primary Menu"
+msgstr "Menú principal"
+
+#: inc/Block_Styles.php:53
+msgid "Pills"
+msgstr "Pastillas"
+
+#: inc/Admin.php:67 inc/Admin.php:183
+msgid "Learn More"
+msgstr "Más información"
+
+#. translators: %s: Otter Blocks
+#: inc/Admin.php:199
+msgid "Activate %s"
+msgstr "Activar %s"
+
+#: inc/Admin.php:167
+msgid "Otter Blocks preview"
+msgstr "Vista previa de los bloques de Otter"
+
+#: inc/Admin.php:159
+msgid "Done"
+msgstr "Hecho"
+
+#: inc/Admin.php:158
+msgid "Installing"
+msgstr "Instalando"
+
+#: inc/Admin.php:157
+msgid "Activating"
+msgstr "Activando"
+
+#. translators: %s: commands to run the theme
+#: functions.php:106
+msgid "You appear to be running the Raft theme from source code. Please finish installation by running %s."
+msgstr "Parece que estás ejecutando el tema Raft desde el código fuente. Por favor, termina la instalación ejecutando %s."
+
+#: functions.php:57
+msgid "upgrading PHP to the latest version"
+msgstr "actualizando PHP a la última versión"
+
+#. translators: %s message to upgrade PHP to the latest version
+#: functions.php:53
+msgid "Hey, we've noticed that you're running an outdated version of PHP which is no longer supported. Make sure your site is fast and secure, by %1$s. Raft's minimal requirement is PHP%2$s."
+msgstr "Nos hemos dado cuenta de que estás ejecutando una versión obsoleta de PHP que ya no es compatible. Asegúrate de que tu sitio es rápido y seguro, %1$s. El requisito mínimo de Raft es PHP%2$s."
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themeisle.com"
+msgstr "https://themeisle.com"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "ThemeIsle"
+msgstr "ThemeIsle"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themeisle.com/themes/raft/"
+msgstr "https://themeisle.com/themes/raft/"

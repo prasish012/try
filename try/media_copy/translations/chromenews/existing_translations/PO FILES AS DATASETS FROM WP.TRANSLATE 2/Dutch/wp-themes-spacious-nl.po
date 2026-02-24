@@ -1,0 +1,1686 @@
+# Translation of Themes - Spacious in Dutch
+# This file is distributed under the same license as the Themes - Spacious package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-10-30 13:12:27+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: nl\n"
+"Project-Id-Version: Themes - Spacious\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Spacious is an incredible free business WordPress theme that fits small to medium businesses. This responsive theme is optimized for speed. So, you end up with a business website that loads within 1 second. Since Spacious is compatible with WooCommerce, you can easily set up an online store for your business. It's amazing collection of 16 free starter demos makes building a complete website very beginner-friendly. Spacious theme supports Gutenberg and page builder plugins like Elementor, Brizy, Beaver Builder, SiteOrigin, etc. So, import a demo with just one click and start customizing it using a page builder of your choice. Here are the key Spacious features you get with this theme: >> Well-coded >> Translation & RTL Ready >> Sticky Menu >> Complete Documentation >> Multiple Widget Areas >> Optimized for SEO >> Compatible with Major Browsers. Try this free theme yourself to establish and grow your business’ online presence without having to rely on developers or designers. You can always reach out at https://themegrill.com/contact/ if you encounter any issues. Also, explore all the available free starter sites at https://themegrilldemos.com/spacious-demos."
+msgstr "Spacious is een ongelooflijk gratis business WordPress thema dat past bij kleine tot middelgrote bedrijven. Dit responsive thema is geoptimaliseerd voor snelheid. Dus, je eindigt met een zakelijke site die laadt binnen 1 seconde. Aangezien Spacious compatibel is met WooCommerce, kun je gemakkelijk een online winkel opzetten voor je bedrijf. De geweldige collectie van 16 gratis starters demo's maakt het bouwen van een complete site zeer beginnersvriendelijk. Spacious thema ondersteunt Gutenberg en pagina bouwer plugins zoals Elementor, Brizy, Beaver Builder, SiteOrigin, enz. Dus, importeer een demo met slechts één klik en begin met het aanpassen met behulp van een pagina bouwer van je keuze. Hier zijn de belangrijkste Ruime functies die je krijgt met dit thema: >> Goed gecodeerd >> Vertaling & RTL klaar >> Sticky menu >> Volledige documentatie >> Meerdere widget gebieden >> Geoptimaliseerd voor SEO >> Compatibel met de belangrijkste browsers. Probeer dit gratis thema zelf uit om de online aanwezigheid van je bedrijf op te zetten en te laten groeien zonder een beroep te hoeven doen op ontwikkelaars of ontwerpers. Je kunt altijd contact opnemen via https://themegrill.com/contact/ als je tegen problemen aanloopt. Bekijk ook alle beschikbare gratis starterssites op https://themegrilldemos.com/spacious-demos."
+
+#. Theme Name of the theme
+#: style.css inc/admin/class-spacious-theme-review-notice.php:93
+#: inc/admin/class-spacious-welcome-notice.php:51 inc/functions.php:555
+#, gp-priority: high
+msgid "Spacious"
+msgstr "Spacious"
+
+#: inc/admin/class-spacious-welcome-notice.php:110
+msgid "You do not have permission to perform this action."
+msgstr "Je hebt geen toestemming om deze actie uit te voeren."
+
+#: inc/widgets/class-spacious-service-widget.php:51
+msgid "Read More Text:"
+msgstr "Lees meer tekst:"
+
+#: inc/admin/class-spacious-theme-review-notice.php:144
+msgid "I have a query"
+msgstr "Ik heb een vraag"
+
+#: inc/admin/class-spacious-theme-review-notice.php:132
+msgid "Sure, I'd love to!"
+msgstr "Tuurlijk, ik zou het geweldig vinden!"
+
+#. translators: %s: Smiley icon
+#: inc/admin/class-spacious-theme-review-notice.php:124
+msgid "Basically, it would encourage us to release updates regularly with new features & bug fixes so that you can keep on using the theme without any issues and also to provide free support like we have been doing. %s"
+msgstr "In wezen zou het ons aanmoedigen om regelmatig updates uit te brengen met nieuwe functies en bugfixes, zodat je het thema probleemloos kunt blijven gebruiken en ook om gratis ondersteuning te bieden zoals we hebben gedaan. %s"
+
+#: inc/admin/class-spacious-theme-review-notice.php:118
+msgid "What benefit would you have?"
+msgstr "Welk voordeel zou je hebben?"
+
+#. translators: %1$s: Opening of strong tag, %2$s: Theme's Name, %3$s: Closing
+#. of strong tag
+#: inc/admin/class-spacious-theme-review-notice.php:110
+msgid "Hope you are having a nice experience with %1$s %2$s %3$s theme. Please provide this theme a nice review."
+msgstr "Ik hoop dat je een leuke ervaring hebt met het thema %1$s %2$s %3$s. Geef dit thema een leuke beoordeling."
+
+#. translators: %s: Smile icon
+#: inc/admin/class-spacious-theme-review-notice.php:101
+msgid "The above word is just to draw your attention. %s"
+msgstr "Het bovenstaande woord is alleen bedoeld om je aandacht te trekken. %s"
+
+#: inc/customizer/class-spacious-customizer-partials.php:85
+msgid "Powered by: "
+msgstr "Aangedreven door: "
+
+#: inc/customizer/class-spacious-customizer-partials.php:85
+msgid "Theme by: "
+msgstr "Thema door: "
+
+#: inc/customizer/class-spacious-customizer-partials.php:85
+msgid "Copyright &copy; "
+msgstr "Copyright &copy; "
+
+#: inc/customizer/class-spacious-customizer-register-sections-panels.php:293
+msgid "Social Icons"
+msgstr "Sociale pictogrammen"
+
+#: inc/customizer/class-spacious-customizer-register-sections-panels.php:192
+msgid "Site Identity"
+msgstr "Site identiteit"
+
+#: inc/customizer/class-spacious-customizer-register-sections-panels.php:171
+msgid "Base"
+msgstr "Basis"
+
+#: inc/customizer/class-spacious-customizer-register-sections-panels.php:108
+msgid "Primary Colors"
+msgstr "Primaire kleuren"
+
+#: inc/customizer/core/extend-customizer/class-spacious-wp-customize-section.php:73
+msgid "Customizing"
+msgstr "Aanpassen"
+
+#. Translators: 1: Panel Title.
+#: inc/customizer/core/extend-customizer/class-spacious-wp-customize-section.php:69
+msgid "Customizing &#9656; %s"
+msgstr "Aanpassen van &#9656; %s"
+
+#: inc/customizer/core/class-spacious-fonts.php:228
+msgid "Vietnamese"
+msgstr "Vietnamees"
+
+#: inc/customizer/core/class-spacious-fonts.php:227
+msgid "Tibetan"
+msgstr "Tibetaans"
+
+#: inc/customizer/core/class-spacious-fonts.php:226
+msgid "Thai"
+msgstr "Thais"
+
+#: inc/customizer/core/class-spacious-fonts.php:225
+msgid "Telugu"
+msgstr "Telugu"
+
+#: inc/customizer/core/class-spacious-fonts.php:224
+msgid "Tamil"
+msgstr "Tamil"
+
+#: inc/customizer/core/class-spacious-fonts.php:223
+msgid "Sinhala"
+msgstr "Singalees"
+
+#: inc/customizer/core/class-spacious-fonts.php:222
+msgid "Oriya"
+msgstr "Oriya"
+
+#: inc/customizer/core/class-spacious-fonts.php:221
+msgid "Myanmar"
+msgstr "Myanmar"
+
+#: inc/customizer/core/class-spacious-fonts.php:220
+msgid "Malayalam"
+msgstr "Malayalam"
+
+#: inc/customizer/core/class-spacious-fonts.php:219
+msgid "Latin Extended"
+msgstr "Latijn uitgebreid"
+
+#: inc/customizer/core/class-spacious-fonts.php:218
+msgid "Latin"
+msgstr "Latijns"
+
+#: inc/customizer/core/class-spacious-fonts.php:217
+msgid "Korean"
+msgstr "Koreaans"
+
+#: inc/customizer/core/class-spacious-fonts.php:216
+msgid "Khmer"
+msgstr "Khmer"
+
+#: inc/customizer/core/class-spacious-fonts.php:215
+msgid "Kannada"
+msgstr "Canada"
+
+#: inc/customizer/core/class-spacious-fonts.php:214
+msgid "Japanese"
+msgstr "Japans"
+
+#: inc/customizer/core/class-spacious-fonts.php:213
+msgid "Hebrew"
+msgstr "Hebreews"
+
+#: inc/customizer/core/class-spacious-fonts.php:212
+msgid "Gurmukhi"
+msgstr "Gurmukhi"
+
+#: inc/customizer/core/class-spacious-fonts.php:211
+msgid "Gujarati"
+msgstr "Gujarati"
+
+#: inc/customizer/core/class-spacious-fonts.php:210
+msgid "Greek Extended"
+msgstr "Grieks uitgebreid"
+
+#: inc/customizer/core/class-spacious-fonts.php:209
+msgid "Greek"
+msgstr "Grieks"
+
+#: inc/customizer/core/class-spacious-fonts.php:208
+msgid "Devanagari"
+msgstr "Devanagari"
+
+#: inc/customizer/core/class-spacious-fonts.php:207
+msgid "Cyrillic Extended"
+msgstr "Cyrillisch uitgebreid"
+
+#: inc/customizer/core/class-spacious-fonts.php:206
+msgid "Cyrillic"
+msgstr "Cyrillisch"
+
+#: inc/customizer/core/class-spacious-fonts.php:205
+msgid "Chinese (Traditional)"
+msgstr "Chinees (traditioneel)"
+
+#: inc/customizer/core/class-spacious-fonts.php:204
+msgid "Chinese (Simplified)"
+msgstr "Chinees (Versimpeld)"
+
+#: inc/customizer/core/class-spacious-fonts.php:203
+msgid "Chinese (Hong Kong)"
+msgstr "Chinees (Hong Kong)"
+
+#: inc/customizer/core/class-spacious-fonts.php:202
+msgid "Bengali"
+msgstr "Bengalisch"
+
+#: inc/customizer/core/class-spacious-fonts.php:201
+msgid "Arabic"
+msgstr "Arabisch"
+
+#: inc/customizer/core/class-spacious-fonts.php:182
+msgid "Black 900 Italic"
+msgstr "Zwart 900 cursief"
+
+#: inc/customizer/core/class-spacious-fonts.php:181
+msgid "Black 900"
+msgstr "Zwart 900"
+
+#: inc/customizer/core/class-spacious-fonts.php:180
+msgid "Extra-Bold 800 Italic"
+msgstr "Extra vet 800 cursief"
+
+#: inc/customizer/core/class-spacious-fonts.php:179
+msgid "Extra-Bold 800"
+msgstr "Extra vet 800"
+
+#: inc/customizer/core/class-spacious-fonts.php:178
+msgid "Bold 700 Italic"
+msgstr "Vet 700 cursief"
+
+#: inc/customizer/core/class-spacious-fonts.php:177
+msgid "Bold 700"
+msgstr "Vet 700"
+
+#: inc/customizer/core/class-spacious-fonts.php:176
+msgid "Semi-Bold 600 Italic"
+msgstr "Halfvet 600 cursief"
+
+#: inc/customizer/core/class-spacious-fonts.php:175
+msgid "Semi-Bold 600"
+msgstr "Halfvet 600"
+
+#: inc/customizer/core/class-spacious-fonts.php:174
+msgid "Medium 500 Italic"
+msgstr "Medium 500 cursief"
+
+#: inc/customizer/core/class-spacious-fonts.php:173
+msgid "Medium 500"
+msgstr "Gemiddeld 500"
+
+#: inc/customizer/core/class-spacious-fonts.php:172
+msgid "Regular 400 Italic"
+msgstr "Normaal 400 cursief"
+
+#: inc/customizer/core/class-spacious-fonts.php:171
+msgid "Regular 400"
+msgstr "Normaal 400"
+
+#: inc/customizer/core/class-spacious-fonts.php:170
+msgid "Light 300 Italic"
+msgstr "Licht 300 cursief"
+
+#: inc/customizer/core/class-spacious-fonts.php:169
+msgid "Light 300"
+msgstr "Licht 300"
+
+#: inc/customizer/core/class-spacious-fonts.php:168
+msgid "Extra-Light 200 Italic"
+msgstr "Extra-Light 200 cursief"
+
+#: inc/customizer/core/class-spacious-fonts.php:167
+msgid "Extra-Light 200"
+msgstr "Extra licht 200"
+
+#: inc/customizer/core/class-spacious-fonts.php:166
+msgid "Thin 100 Italic"
+msgstr "Dun 100 cursief"
+
+#: inc/customizer/core/class-spacious-fonts.php:165
+msgid "Thin 100"
+msgstr "Dun 100"
+
+#: inc/customizer/core/custom-controls/background/class-spacious-background-control.php:205
+msgid "Fixed"
+msgstr "Vast"
+
+#: inc/customizer/core/custom-controls/background/class-spacious-background-control.php:202
+msgid "Scroll"
+msgstr "Scroll"
+
+#: inc/customizer/core/custom-controls/background/class-spacious-background-control.php:198
+msgid "Background Attachment"
+msgstr "Achtergrondbijlage"
+
+#: inc/customizer/core/custom-controls/background/class-spacious-background-control.php:193
+msgid "Auto"
+msgstr "Auto"
+
+#: inc/customizer/core/custom-controls/background/class-spacious-background-control.php:190
+msgid "Contain"
+msgstr "Bevatten"
+
+#: inc/customizer/core/custom-controls/background/class-spacious-background-control.php:187
+msgid "Cover"
+msgstr "Omslagafbeelding"
+
+#: inc/customizer/core/custom-controls/background/class-spacious-background-control.php:183
+msgid "Background Size"
+msgstr "Achtergrondgrootte"
+
+#: inc/customizer/core/custom-controls/background/class-spacious-background-control.php:178
+msgid "Center Bottom"
+msgstr "Midden onder"
+
+#: inc/customizer/core/custom-controls/background/class-spacious-background-control.php:175
+msgid "Center Center"
+msgstr "Midden midden"
+
+#: inc/customizer/core/custom-controls/background/class-spacious-background-control.php:172
+msgid "Center Top"
+msgstr "Midden boven"
+
+#: inc/customizer/core/custom-controls/background/class-spacious-background-control.php:169
+msgid "Right Bottom"
+msgstr "Rechtsonder"
+
+#: inc/customizer/core/custom-controls/background/class-spacious-background-control.php:166
+msgid "Right Center"
+msgstr "Rechts midden"
+
+#: inc/customizer/core/custom-controls/background/class-spacious-background-control.php:163
+msgid "Right Top"
+msgstr "Rechtsboven"
+
+#: inc/customizer/core/custom-controls/background/class-spacious-background-control.php:160
+msgid "Left Bottom"
+msgstr "Linksonder"
+
+#: inc/customizer/core/custom-controls/background/class-spacious-background-control.php:157
+msgid "Left Center"
+msgstr "Links midden"
+
+#: inc/customizer/core/custom-controls/background/class-spacious-background-control.php:154
+msgid "Left Top"
+msgstr "Linksboven"
+
+#: inc/customizer/core/custom-controls/background/class-spacious-background-control.php:150
+msgid "Background Position"
+msgstr "Achtergrondpositie"
+
+#: inc/customizer/core/custom-controls/background/class-spacious-background-control.php:132
+msgid "Background Repeat"
+msgstr "Achtergrond herhaling"
+
+#: inc/customizer/core/custom-controls/background/class-spacious-background-control.php:125
+msgid "Select Image"
+msgstr "Afbeelding selecteren"
+
+#: inc/customizer/core/custom-controls/background/class-spacious-background-control.php:111
+msgid "No Image Selected"
+msgstr "Geen afbeelding geselecteerd"
+
+#: inc/customizer/core/custom-controls/background/class-spacious-background-control.php:105
+msgid "Background Image"
+msgstr "Achtergrond afbeelding"
+
+#: inc/customizer/core/custom-controls/background/class-spacious-background-control.php:94
+msgid "Background Color"
+msgstr "Achtergrondkleur"
+
+#: inc/customizer/core/custom-controls/background/class-spacious-background-control.php:42
+msgid "No file selected"
+msgstr "Geen bestand geselecteerd"
+
+#: inc/customizer/core/custom-controls/typography/class-spacious-typography-control.php:649
+msgid "Line Through"
+msgstr "Doorstrepen"
+
+#: inc/customizer/core/custom-controls/typography/class-spacious-typography-control.php:646
+msgid "Overline"
+msgstr "Lijn boven tekst"
+
+#: inc/customizer/core/custom-controls/typography/class-spacious-typography-control.php:643
+msgid "Underline"
+msgstr "Onderstrepen"
+
+#: inc/customizer/core/custom-controls/typography/class-spacious-typography-control.php:635
+msgid "Decoration"
+msgstr "Decoratie"
+
+#: inc/customizer/core/custom-controls/typography/class-spacious-typography-control.php:621
+msgid "Lowercase"
+msgstr "Kleine letters"
+
+#: inc/customizer/core/custom-controls/typography/class-spacious-typography-control.php:618
+msgid "Uppercase"
+msgstr "Hoofdletters"
+
+#: inc/customizer/core/custom-controls/typography/class-spacious-typography-control.php:615
+msgid "Capitalize"
+msgstr "Omzetten naar hoofdletter"
+
+#: inc/customizer/core/custom-controls/typography/class-spacious-typography-control.php:612
+#: inc/customizer/core/custom-controls/typography/class-spacious-typography-control.php:640
+msgid "None"
+msgstr "Geen"
+
+#: inc/customizer/core/custom-controls/typography/class-spacious-typography-control.php:607
+msgid "Transform"
+msgstr "Transformeren"
+
+#: inc/customizer/core/custom-controls/typography/class-spacious-typography-control.php:599
+#: inc/customizer/core/custom-controls/typography/class-spacious-typography-control.php:627
+#: inc/customizer/core/custom-controls/typography/class-spacious-typography-control.php:655
+msgid "Inherit"
+msgstr "Erven"
+
+#: inc/customizer/core/custom-controls/typography/class-spacious-typography-control.php:596
+#: inc/customizer/core/custom-controls/typography/class-spacious-typography-control.php:624
+#: inc/customizer/core/custom-controls/typography/class-spacious-typography-control.php:652
+msgid "Initial"
+msgstr "Primair"
+
+#: inc/customizer/core/custom-controls/typography/class-spacious-typography-control.php:593
+msgid "Oblique"
+msgstr "Schuin"
+
+#: inc/customizer/core/custom-controls/typography/class-spacious-typography-control.php:582
+msgid "Style"
+msgstr "Stijl"
+
+#: inc/customizer/core/custom-controls/typography/class-spacious-typography-control.php:490
+msgid "Letter Spacing"
+msgstr "Letterafstand"
+
+#: inc/customizer/core/custom-controls/typography/class-spacious-typography-control.php:398
+msgid "Line Height"
+msgstr "Regelhoogte"
+
+#: inc/customizer/core/custom-controls/typography/class-spacious-typography-control.php:306
+msgid "Size"
+msgstr "Grootte"
+
+#: inc/customizer/core/custom-controls/typography/class-spacious-typography-control.php:291
+msgid "Subset(s)"
+msgstr "Subset(s)"
+
+#: inc/customizer/core/custom-controls/typography/class-spacious-typography-control.php:282
+msgid "Weight"
+msgstr "Gewicht"
+
+#: inc/customizer/core/custom-controls/typography/class-spacious-typography-control.php:274
+msgid "Family"
+msgstr "Familie"
+
+#: inc/customizer/core/custom-controls/typography/class-spacious-typography-control.php:58
+msgid "Custom Fonts"
+msgstr "Aangepaste lettertypen"
+
+#: inc/customizer/core/custom-controls/slider/class-spacious-slider-control.php:110
+msgid "Back to default"
+msgstr "Terug naar standaard"
+
+#: inc/customizer/core/custom-controls/color/class-spacious-color-control.php:52
+msgid "Color value"
+msgstr "Kleurwaarde"
+
+#: inc/customizer/core/custom-controls/color/class-spacious-color-control.php:51
+msgid "Select Color"
+msgstr "Selecteer kleur"
+
+#: inc/customizer/core/custom-controls/color/class-spacious-color-control.php:50
+msgid "Select default color"
+msgstr "Selecteer standaard kleur"
+
+#: inc/customizer/core/custom-controls/color/class-spacious-color-control.php:49
+msgid "Default"
+msgstr "Standaard"
+
+#: inc/customizer/core/custom-controls/color/class-spacious-color-control.php:48
+msgid "Clear color"
+msgstr "Wis kleur"
+
+#: inc/customizer/core/custom-controls/color/class-spacious-color-control.php:47
+msgid "Clear"
+msgstr "Wissen"
+
+#. Translators: %1$s: Anchor tag open, %2$s: Customizer section name %3$s:
+#. Anchor tag close
+#: inc/customizer/core/custom-controls/navigate/class-spacious-navigate-control.php:62
+msgid "%1$s Click here to edit %2$s features %3$s"
+msgstr "%1$s Klik hier om %2$s functies %3$s te bewerken"
+
+#: inc/customizer/options/header/class-spacious-customize-header-media-options.php:74
+msgid "Header image display position"
+msgstr "Header afbeelding weergavepositie"
+
+#: inc/customizer/options/content/class-spacious-customize-blog-archive-options.php:53
+msgid "Choose the layout option for the blog, archive and search results pages."
+msgstr "Kies de lay-out optie voor de blog-, archief- en zoekresultaten pagina's."
+
+#: inc/demo-import-migration.php:44
+msgid "Any confusion?"
+msgstr "Enige verwarring?"
+
+#: inc/demo-import-migration.php:40
+msgid "Fix Imported Demo"
+msgstr "Geïmporteerde demo repareren"
+
+#: inc/demo-import-migration.php:29
+msgid "It looks like you have imported one of the demos recently. Please check your site, if fonts and background are not the same as in the demo. Please click the 'Fix Imported Demo' button below."
+msgstr "Het lijkt erop dat je onlangs een van de demo's hebt geïmporteerd. Controleer je site of de lettertypen en achtergrond niet hetzelfde zijn als in de demo. Klik op de knop 'Geïmporteerde demo repareren' hieronder."
+
+#: inc/functions.php:557
+msgid "by ThemeGrill. Powered by: %2$s."
+msgstr "door ThemeGrill. Aangedreven door: %2$s."
+
+#: inc/functions.php:557
+msgid " Theme %1$s"
+msgstr " Thema %1$s"
+
+#: inc/functions.php:557
+msgid "All rights reserved."
+msgstr "Alle rechten voorbehouden."
+
+#: inc/customizer/options/woocommerce/class-spacious-customize-woocommerce-design-options.php:47
+msgid "Cart Icon"
+msgstr "Winkelwagen pictogram"
+
+#: inc/customizer/class-spacious-customizer-register-sections-panels.php:303
+msgid "Sidebar"
+msgstr "Zijbalk"
+
+#: inc/customizer/class-spacious-customizer-register-sections-panels.php:281
+msgid "Footer Widgets Area"
+msgstr "Footer widgets gebied"
+
+#: inc/customizer/class-spacious-customizer-register-sections-panels.php:260
+msgid "Single Post"
+msgstr "Enkel bericht"
+
+#: inc/customizer/class-spacious-customizer-register-sections-panels.php:252
+msgid "Blog / Archive"
+msgstr "Blog / Archief"
+
+#: inc/customizer/class-spacious-customizer-register-sections-panels.php:244
+msgid "Page Header"
+msgstr "Pagina hoofd"
+
+#: inc/customizer/class-spacious-customizer-register-sections-panels.php:74
+msgid "Content"
+msgstr "Inhoud"
+
+#: inc/customizer/options/slider/class-spacious-customize-slider-options.php:103
+msgid "Slider Content #%1$s"
+msgstr "Slider inhoud #%1$s"
+
+#: inc/customizer/class-spacious-customizer-register-sections-panels.php:224
+msgid "Header Button"
+msgstr "Header knop"
+
+#: inc/customizer/class-spacious-customizer-register-sections-panels.php:208
+msgid "Primary Header"
+msgstr "Primaire header"
+
+#: inc/customizer/class-spacious-customizer-register-sections-panels.php:200
+msgid "Top Bar"
+msgstr "Bovenste balk"
+
+#: inc/customizer/options/header/class-spacious-customize-site-identity-options.php:40
+msgid "Visibility"
+msgstr "Zichtbaarheid"
+
+#: inc/customizer/options/header/class-spacious-customize-site-identity-options.php:117
+msgid "Site Tagline"
+msgstr "Site slogan"
+
+#: inc/customizer/options/header/class-spacious-customize-site-identity-options.php:108
+msgid "Site Title"
+msgstr "Sitetitel"
+
+#: inc/customizer/options/header/class-spacious-customize-site-identity-options.php:99
+msgid "Site Icon"
+msgstr "Site icoon"
+
+#: inc/customizer/options/header/class-spacious-customize-site-identity-options.php:66
+msgid "Site Logo"
+msgstr "Logo van de site"
+
+#: inc/customizer/class-spacious-customizer-register-sections-panels.php:153
+msgid "Sidebar Layout"
+msgstr "Zijbalk lay-out"
+
+#: inc/customizer/class-spacious-customizer-register-sections-panels.php:136
+msgid "Layout"
+msgstr "Lay-out"
+
+#: inc/customizer/options/global/class-spacious-customize-background-options.php:45
+msgid "Outside Container"
+msgstr "Buiten container"
+
+#: inc/customizer/class-spacious-customizer-register-sections-panels.php:127
+msgid "Background"
+msgstr "Achtergrond"
+
+#: inc/customizer/class-spacious-customizer-register-sections-panels.php:180
+#: inc/customizer/options/global/class-spacious-customize-typography-options.php:66
+msgid "Headings"
+msgstr "Kopteksten"
+
+#: inc/customizer/options/global/class-spacious-customize-typography-options.php:43
+msgid "Body"
+msgstr "Body"
+
+#: inc/customizer/options/global/class-spacious-customize-colors-options.php:45
+msgid "Primary Color"
+msgstr "Primaire kleur"
+
+#: inc/customizer/class-spacious-customizer-register-sections-panels.php:100
+#: inc/customizer/options/header/class-spacious-customize-site-identity-options.php:129
+msgid "Colors"
+msgstr "Kleuren"
+
+#: inc/customizer/class-spacious-customizer-register-sections-panels.php:53
+msgid "Global"
+msgstr "Globaal"
+
+#: inc/customizer/class-spacious-customizer-register-sections-panels.php:40
+msgid "View Pro Version"
+msgstr "Bekijk Pro versie"
+
+#: inc/admin/class-spacious-welcome-notice.php:26
+msgid "Get started with spacious"
+msgstr "Ga aan de slag met ruim"
+
+#: inc/admin/class-spacious-upgrade-notice.php:100
+msgid "Got pre sales queries?"
+msgstr "Heb je pre-sales vragen?"
+
+#. Translators: %1$s current user display name., %2$s this theme name., %3$s
+#. discount coupon code., %4$s discount percentage.
+#: inc/admin/class-spacious-upgrade-notice.php:75
+msgid "Howdy, %1$s! You've been using %2$s theme for a while now, and we hope you're happy with it. To access more premium features you can always upgrade to pro. All contents and settings will remain as it is after upgrading to pro, you basically start from where you left. Also, you can use the coupon code %3$s to get up to %4$s discount (limited time offer) while making the purchase. Enjoy! "
+msgstr "Hallo, %1$s! Je hebt het %2$s thema al een tijd in gebruik, en we hopen dat je ervan genoten hebt. Om meer premium functies tot je beschikking te hebben kun je altijd upgraden naar pro. Alle inhoud en instellingen zullen blijven zoals ze zijn na het updaten naar pro, je start in principe waar je gebleven bent. Ook kun je de waardebon code gebruiken %3$s om de korting %4$s te krijgen (beperkt geldig) als je de plugin gaat kopen. Veel plezier! "
+
+#: inc/admin/class-spacious-dashboard.php:103
+msgid "Leave a review"
+msgstr "Laat een beoordeling achter"
+
+#: inc/admin/class-spacious-dashboard.php:100
+msgid "Further Actions"
+msgstr "Verdere acties"
+
+#: inc/admin/class-spacious-dashboard.php:95
+msgid "Premium Version"
+msgstr "Premium versie"
+
+#: inc/admin/class-spacious-dashboard.php:94
+msgid "Starter Demos"
+msgstr "Startdemo's"
+
+#: inc/admin/class-spacious-dashboard.php:91
+msgid "Next Steps"
+msgstr "Volgende stappen"
+
+#: inc/admin/class-spacious-dashboard.php:86
+msgid "Learn Basics"
+msgstr "Basisprincipes leren"
+
+#: inc/admin/class-spacious-dashboard.php:83
+msgid "Get Started"
+msgstr "Ga aan de slag"
+
+#. translators: %s: Theme Name.
+#: inc/admin/class-spacious-dashboard.php:77
+msgid "Important links to get you started with %s"
+msgstr "Belangrijke links om je op weg te helpen met %s"
+
+#. translators: %s: Theme Name.
+#: inc/admin/class-spacious-dashboard.php:71
+msgid "Welcome to %s!"
+msgstr "Welkom bij %s!"
+
+#. translators: %s: Theme version.
+#: inc/admin/class-spacious-dashboard.php:62
+msgid "Spacious %s"
+msgstr "Ruim %s"
+
+#. translators: %s: Theme Name.
+#: inc/admin/class-spacious-dashboard.php:34
+msgid "%s Options"
+msgstr "%s opties"
+
+#. Translators: 1: Plugin name
+#: inc/admin/class-spacious-tdi-notice.php:53
+msgid "Also, if the purpose of importing the demo via \"%1$s\" plugin is fulfilled, you can simply delete this plugin now."
+msgstr "Als het doel van het importeren van de demo via de plugin \"%1$s\" is bereikt, kun je deze plugin nu ook eenvoudig verwijderen."
+
+#: inc/admin/class-spacious-tdi-notice.php:47
+msgid "Update Now"
+msgstr "Nu updaten"
+
+#: inc/admin/class-spacious-tdi-notice.php:42
+#: inc/admin/class-spacious-tdi-notice.php:54
+msgid "ThemeGrill Demo Importer"
+msgstr "ThemeGrill Demo-importeur"
+
+#: inc/admin/class-spacious-tdi-notice.php:41
+msgid "Action Required"
+msgstr "Actie vereist"
+
+#. Translators: 1: Notice text 2: Plugin Name 3. CTA
+#: inc/admin/class-spacious-tdi-notice.php:40
+msgid "%1$s: Please update \"%2$s\" plugin to latest version to make sure your site is all secure. We released a security patch in the latest version of this plugin. %3$s"
+msgstr "%1$s: update \"%2$s \"plugin naar de nieuwste versie om ervoor te zorgen dat jouw site helemaal veilig is. We hebben een beveiligingspatch uitgebracht in de nieuwste versie van deze plugin.%3$s"
+
+#: inc/customizer/options/header/class-spacious-customize-site-identity-options.php:85
+msgid "Retina Logo"
+msgstr "Retina logo"
+
+#: inc/customizer/options/header/class-spacious-customize-site-identity-options.php:76
+msgid "Different Logo for Retina Devices?"
+msgstr "Ander logo voor retina apparaten?"
+
+#: inc/customizer/options/content/class-spacious-customize-page-header-options.php:52
+msgid "Hide page/post header title"
+msgstr "Titel van pagina/berichtkop verbergen"
+
+#: inc/customizer/options/content/class-spacious-customize-page-header-options.php:43
+msgid "Header Title"
+msgstr "Header titel"
+
+#: header.php:50
+msgid "Skip to content"
+msgstr "Ga naar de inhoud"
+
+#: inc/admin/class-spacious-welcome-notice.php:68
+msgid "Clicking the button will install and activate the ThemeGrill demo importer plugin."
+msgstr "Als je op de knop klikt, wordt de ThemeGrill demo-importplugin geïnstalleerd en geactiveerd."
+
+#: inc/customizer/options/woocommerce/class-spacious-customize-woocommerce-sidebar-options.php:98
+msgid "This layout will be reflected in woocommerce Product page."
+msgstr "Deze lay-out wordt weerspiegeld in de WooCommerce product pagina."
+
+#: inc/customizer/options/woocommerce/class-spacious-customize-woocommerce-sidebar-options.php:87
+msgid "Product Page Layout"
+msgstr "Lay-out van productpagina"
+
+#: inc/customizer/options/woocommerce/class-spacious-customize-woocommerce-sidebar-options.php:59
+msgid "This layout will be reflected in woocommerce archive page only."
+msgstr "Deze lay-out wordt alleen weergegeven in de WooCommerce archiefpagina."
+
+#: inc/customizer/options/woocommerce/class-spacious-customize-woocommerce-sidebar-options.php:47
+msgid "Archive Page Layout"
+msgstr "Lay-out van archiefpagina's"
+
+#: inc/customizer/class-spacious-customizer-register-sections-panels.php:163
+msgid "Typography"
+msgstr "Typografie"
+
+#: inc/customizer/options/header/class-spacious-customize-primary-menu-options.php:81
+msgid "Display menu in one line"
+msgstr "Menu op één regel weergeven"
+
+#: inc/customizer/options/header/class-spacious-customize-primary-menu-options.php:71
+msgid "Menu Display"
+msgstr "Menu weergave"
+
+#: inc/customizer/options/header/class-spacious-customize-header-button.php:56
+msgid "Button Link"
+msgstr "Knop link"
+
+#: inc/customizer/options/header/class-spacious-customize-header-button.php:45
+msgid "Button Text"
+msgstr "Knoptekst"
+
+#: inc/customizer/class-spacious-customizer-register-sections-panels.php:232
+msgid "Header Button One"
+msgstr "Header knop 1"
+
+#: inc/customizer/core/custom-controls/typography/class-spacious-typography-control.php:51
+msgid "Google Fonts"
+msgstr "Google Fonts"
+
+#: inc/customizer/core/custom-controls/typography/class-spacious-typography-control.php:50
+msgid "Standard Fonts"
+msgstr "Standaard lettertypen"
+
+#: inc/admin/class-spacious-theme-review-notice.php:136
+msgid "I already did!"
+msgstr "Heb ik al gedaan!"
+
+#: inc/admin/class-spacious-theme-review-notice.php:140
+#: inc/admin/class-spacious-upgrade-notice.php:95
+msgid "Maybe later"
+msgstr "Misschien later"
+
+#: inc/admin/meta-boxes.php:53
+msgid "No Sidebar Content Stretched"
+msgstr "Geen zijbalk inhoud uitgerekt"
+
+#: inc/widgets/widgets.php:174
+msgid "Widget area for WooCommerce Pages."
+msgstr "Widget gebied voor WooCommerce pagina's."
+
+#: inc/widgets/widgets.php:172
+msgid "Shop Sidebar"
+msgstr "Winkel zijbalk"
+
+#: inc/customizer/options/woocommerce/class-spacious-customize-woocommerce-design-options.php:57
+msgid "Check to show WooCommerce cart icon on menu bar"
+msgstr "Vink aan om het WooCommerce winkelwagen pictogram op de menu balk te tonen"
+
+#: inc/customizer/options/footer/class-spacious-customize-footer-widgets-area-options.php:51
+msgid "Choose the number of column for the footer widgetized areas."
+msgstr "Kies het aantal kolommen voor de widget gebieden in de footer."
+
+#: inc/customizer/options/header/class-spacious-customize-header-button.php:66
+#: inc/customizer/options/social/class-spacious-customize-social-icons-options.php:115
+msgid "Check to show in new tab"
+msgstr "Vink dit aan om in een nieuwe tab te tonen"
+
+#: inc/customizer/options/social/class-spacious-customize-social-icons-options.php:86
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/customizer/options/social/class-spacious-customize-social-icons-options.php:85
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/customizer/options/social/class-spacious-customize-social-icons-options.php:84
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/customizer/options/social/class-spacious-customize-social-icons-options.php:83
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/customizer/options/social/class-spacious-customize-social-icons-options.php:56
+msgid "Check to activate social links area. You also need to activate the header top bar section in Header options to show this social links area"
+msgstr "Vink dit aan om het gebied met sociale links te activeren. Je moet ook het bovenste gedeelte van de header in de header opties activeren om dit gebied met sociale links weer te geven"
+
+#: inc/customizer/options/social/class-spacious-customize-social-icons-options.php:46
+msgid "Activate social links area"
+msgstr "Gebied voor sociale links activeren"
+
+#: inc/customizer/options/header/class-spacious-customize-primary-menu-options.php:57
+msgid "Show search icon in header."
+msgstr "Toon zoekpictogram in header."
+
+#: inc/customizer/options/header/class-spacious-customize-primary-menu-options.php:46
+msgid "Search Icon"
+msgstr "Zoek pictogram"
+
+#: inc/customizer/options/header/class-spacious-customize-header-top-bar-options.php:81
+msgid "You can add phone numbers, other contact info here as you like. This box also accepts shortcodes."
+msgstr "Je kunt hier telefoonnummers en andere contactgegevens toevoegen als je wilt. Deze box accepteert ook shortcodes."
+
+#: inc/customizer/options/header/class-spacious-customize-header-top-bar-options.php:66
+msgid "Header Info Text"
+msgstr "Tekst header"
+
+#: inc/customizer/options/header/class-spacious-customize-header-top-bar-options.php:56
+msgid "Check to show top header bar. The top header bar includes social icons area, small text area and menu area."
+msgstr "Vink aan om de bovenste headerbalk weer te geven. De bovenste headerbalk bevat het gebied met sociale pictogrammen, een klein tekstgebied en een menugebied."
+
+#: inc/customizer/options/header/class-spacious-customize-header-top-bar-options.php:46
+msgid "Activate Header Top Bar"
+msgstr "Activeer de bovenbalk van de header"
+
+#: inc/header-functions.php:96
+msgid "Total"
+msgstr "Totaal"
+
+#: functions.php:99
+msgid "Header Menu"
+msgstr "Header menu"
+
+#: inc/admin/class-spacious-admin.php:38
+msgid "Processing..."
+msgstr "Verwerken..."
+
+#: inc/customizer/options/header/class-spacious-customize-primary-header-options.php:51
+msgid "Choose the header display type that you want."
+msgstr "Kies het gewenste weergavetype voor de header."
+
+#: inc/customizer/options/header/class-spacious-customize-primary-header-options.php:40
+msgid "Header Display Type"
+msgstr "Type header weergave"
+
+#: inc/related-posts.php:6
+msgid "You May Also Like"
+msgstr "Misschien vind je dit ook leuk"
+
+#: inc/customizer/options/content/class-spacious-customize-single-post-options.php:56
+msgid "Check to enable the author bio section just below the post."
+msgstr "Vink dit aan om de bio sectie van de auteur net onder het bericht in te schakelen."
+
+#: inc/customizer/options/content/class-spacious-customize-single-post-options.php:118
+msgid "Related Posts By Tags"
+msgstr "Gerelateerde berichten volgens tags"
+
+#: inc/customizer/options/content/class-spacious-customize-single-post-options.php:117
+msgid "Related Posts By Categories"
+msgstr "Gerelateerde berichten volgens categorie"
+
+#: inc/customizer/options/content/class-spacious-customize-single-post-options.php:114
+msgid "Related Posts Must Be Shown As:"
+msgstr "Gerelateerde berichten moeten worden getoond als:"
+
+#: inc/customizer/options/content/class-spacious-customize-single-post-options.php:104
+msgid "Check to activate the related posts"
+msgstr "Vink dit aan om de gerelateerde berichten te activeren"
+
+#: inc/customizer/options/content/class-spacious-customize-single-post-options.php:94
+msgid "Related Posts"
+msgstr "Gerelateerde berichten"
+
+#. Template Name of the theme
+msgid "Page Builder Template"
+msgstr "Pagina bouwer template"
+
+#: inc/customizer/options/content/class-spacious-customize-page-options.php:51
+msgid "Check to enable the featured image in single page."
+msgstr "Aanvinken om de uitgelichte afbeelding in enkele pagina in te schakelen."
+
+#: inc/customizer/options/content/class-spacious-customize-page-options.php:40
+msgid "Featured Image in Single Page"
+msgstr "Uitgelichte afbeelding in enkele pagina"
+
+#: inc/customizer/options/content/class-spacious-customize-single-post-options.php:82
+msgid "Check to enable the featured image in single post page."
+msgstr "Aanvinken om de uitgelichte afbeelding in enkel bericht in te schakelen."
+
+#: inc/customizer/options/content/class-spacious-customize-single-post-options.php:72
+msgid "Featured Image In Single Post Page"
+msgstr "Uitgelichte afbeelding in enkel bericht"
+
+#: inc/customizer/class-spacious-customizer-register-sections-panels.php:81
+msgid "Footer"
+msgstr "Footer"
+
+#: inc/customizer/options/header/class-spacious-customize-primary-menu-options.php:101
+msgid "Switch to new responsive menu."
+msgstr "Wissel naar nieuw responsive menu."
+
+#: inc/customizer/options/header/class-spacious-customize-primary-menu-options.php:91
+msgid "Responsive Menu Style"
+msgstr "Responsive menu stijl"
+
+#: functions.php:269
+msgid "Import Demo"
+msgstr "Importeer demo"
+
+#: inc/customizer/options/footer/class-spacious-customize-footer-widgets-area-options.php:41
+msgid "Footer Widgets Column"
+msgstr "Kolom voor footer widgets"
+
+#: inc/customizer/options/content/class-spacious-customize-single-post-options.php:46
+msgid "Author Bio"
+msgstr "Biografie van auteur"
+
+#: inc/customizer/options/social/class-spacious-customize-social-icons-options.php:68
+msgid "Social Icon"
+msgstr "Sociale pictogrammen"
+
+#: inc/admin/class-spacious-dashboard.php:102
+msgid "Got theme support question?"
+msgstr "Heb je een ondersteuningsvraag over dit thema?"
+
+#: inc/admin/class-spacious-welcome-notice.php:26
+msgid "Get started with Spacious"
+msgstr "Beginnen met Spacious"
+
+#. translators: 1: welcome page link starting html tag, 2: welcome page link
+#. ending html tag.
+#: inc/admin/class-spacious-welcome-notice.php:59
+msgid "Welcome! Thank you for choosing Spacious! To fully take advantage of the best our theme can offer please make sure you visit our %1$swelcome page%2$s."
+msgstr "Welkom. Bedankt voor het kiezen van Spacious. Om het beste gebruik te maken van alle mogelijkheden vanons thema bezoek onze %1$swelkomst pagina%2$s."
+
+#: inc/admin/class-spacious-notice.php:63
+#: inc/admin/class-spacious-notice.php:82
+#: inc/admin/class-spacious-welcome-notice.php:86
+msgid "Cheatin&#8217; huh?"
+msgstr "Valsspelen, hé?"
+
+#: inc/admin/class-spacious-notice.php:59
+#: inc/admin/class-spacious-notice.php:78
+#: inc/admin/class-spacious-theme-review-notice.php:164
+#: inc/admin/class-spacious-theme-review-notice.php:182
+#: inc/admin/class-spacious-welcome-notice.php:82
+#: inc/demo-import-migration.php:64 inc/demo-import-migration.php:82
+msgid "Action failed. Please refresh the page and retry."
+msgstr "Actie mislukt. Vernieuw de pagina en probeer nogmaals."
+
+#: functions.php:265
+msgid "Spacious Important Links"
+msgstr "Spacious belangrijke links"
+
+#: functions.php:271
+msgid "Support Forum"
+msgstr "Forum voor ondersteuning"
+
+#: functions.php:190 functions.php:267
+msgid "Theme Info"
+msgstr "Thema info"
+
+#: inc/functions.php:639 inc/related-posts.php:64
+msgid "<span class=\"date\"><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\">%3$s</a></span>"
+msgstr "<span class=\"date\"><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\">%3$s</a></span>"
+
+#. Template Name of the theme
+msgid "Contact Page Template"
+msgstr "Template voor contactpagina"
+
+#. Template Name of the theme
+msgid "Business Template"
+msgstr "Bedrijf template"
+
+#: sidebar-left.php:36 sidebar.php:39
+msgid "Meta"
+msgstr "Meta"
+
+#: searchform.php:12
+msgid "Search"
+msgstr "Zoeken"
+
+#: functions.php:268
+msgid "View Demo"
+msgstr "Bekijk Demo"
+
+#: functions.php:270 inc/admin/class-spacious-dashboard.php:93
+msgid "Documentation"
+msgstr "Documentatie"
+
+#: inc/admin/class-spacious-upgrade-notice.php:90
+msgid "Upgrade to pro"
+msgstr "Upgrade naar Pro"
+
+#: inc/customizer/options/slider/class-spacious-customize-slider-options.php:173
+msgid "Enter link to redirect slider when clicked"
+msgstr "Voer de link in om de slider om te leiden als erop wordt geklikt"
+
+#: inc/customizer/options/slider/class-spacious-customize-slider-options.php:159
+msgid "Enter the button text. Default is \"Read more\""
+msgstr "Vul de tekst voor de knop in. Standaard is \"Lees meer\""
+
+#: inc/customizer/options/slider/class-spacious-customize-slider-options.php:145
+msgid "Enter your slider description."
+msgstr "Voer je beschrijving van de slider in."
+
+#: functions.php:322 functions.php:327
+#: inc/customizer/options/slider/class-spacious-customize-slider-options.php:131
+msgid "Enter title for your slider."
+msgstr "Voer de titel van je slider item in."
+
+#: inc/customizer/options/slider/class-spacious-customize-slider-options.php:117
+msgid "Upload slider image."
+msgstr "Upload slider-afbeelding."
+
+#: inc/customizer/options/slider/class-spacious-customize-slider-options.php:80
+msgid "Check to disable slider in Posts Page"
+msgstr "Aanvinken om de slider te deactiveren op de berichten pagina"
+
+#: inc/customizer/options/slider/class-spacious-customize-slider-options.php:66
+msgid "Disable slider in Posts page"
+msgstr "Deactiveer slider op berichtenpagina"
+
+#: inc/customizer/options/slider/class-spacious-customize-slider-options.php:52
+msgid "Check to activate slider."
+msgstr "Aanvinken om de slider te activeren."
+
+#: inc/customizer/options/slider/class-spacious-customize-slider-options.php:43
+msgid "Activate slider"
+msgstr "Activeer slider"
+
+#: inc/customizer/class-spacious-customizer-register-sections-panels.php:67
+msgid "Slider"
+msgstr "Slider"
+
+#: inc/customizer/class-spacious-customizer-register-sections-panels.php:117
+#: inc/customizer/options/global/class-spacious-customize-colors-options.php:56
+msgid "Color Skin"
+msgstr "Kleur Skin"
+
+#: inc/customizer/options/content/class-spacious-customize-blog-archive-options.php:59
+msgid "Blog Full Content"
+msgstr "Blog volledige inhoud"
+
+#: inc/customizer/options/content/class-spacious-customize-blog-archive-options.php:58
+msgid "Blog Image Alternate Medium"
+msgstr "Blog afbeelding alternatief medium"
+
+#: inc/customizer/options/content/class-spacious-customize-blog-archive-options.php:57
+msgid "Blog Image Medium"
+msgstr "Medium blogafbeelding"
+
+#: inc/customizer/options/content/class-spacious-customize-blog-archive-options.php:56
+msgid "Blog Image Large"
+msgstr "Grote blogafbeelding"
+
+#: inc/customizer/options/content/class-spacious-customize-blog-archive-options.php:43
+msgid "Blog Posts display type"
+msgstr "Weergavetype blogberichten"
+
+#: inc/customizer/options/global/class-spacious-customize-layout-options.php:127
+msgid "Default layout for single posts only"
+msgstr "Standaard lay-out alleen voor enkele berichten"
+
+#: inc/customizer/options/global/class-spacious-customize-layout-options.php:93
+msgid "Default layout for pages only"
+msgstr "Standaard lay-out alleen voor pagina's"
+
+#: inc/customizer/options/global/class-spacious-customize-layout-options.php:59
+msgid "Default layout"
+msgstr "Standaard lay-out"
+
+#: inc/customizer/options/global/class-spacious-customize-layout-options.php:48
+msgid "Wide layout with content width of 978px"
+msgstr "Brede lay-out met inhoud breedte van 978px"
+
+#: inc/customizer/options/global/class-spacious-customize-layout-options.php:47
+msgid "Wide layout with content width of 1218px"
+msgstr "Brede lay-out met inhoud breedte van 1218px"
+
+#: inc/customizer/options/global/class-spacious-customize-layout-options.php:46
+msgid "Boxed layout with content width of 978px"
+msgstr "Ingesloten lay-out met inhoud breedte van 978px"
+
+#: inc/customizer/options/global/class-spacious-customize-layout-options.php:45
+msgid "Boxed layout with content width of 1218px"
+msgstr "Ingesloten lay-out met inhoud breedte van 1218px"
+
+#: inc/customizer/options/global/class-spacious-customize-layout-options.php:42
+msgid "Choose your site layout. The change is reflected in whole site."
+msgstr "Kies je site-lay-out. De wijziging geldt voor de gehele site."
+
+#: inc/customizer/class-spacious-customizer-register-sections-panels.php:144
+msgid "Site Layout"
+msgstr "Site lay-out"
+
+#: inc/customizer/class-spacious-customizer-register-sections-panels.php:311
+msgid "Design"
+msgstr "Design"
+
+#: inc/customizer/options/header/class-spacious-customize-header-media-options.php:78
+msgid "Position Below: Display the Header image just below the site title and main menu part."
+msgstr "Positie onder: geef de kopafbeelding weer net onder de titel van de site en het hoofdmenu."
+
+#: inc/customizer/options/header/class-spacious-customize-header-media-options.php:77
+msgid "Position Above (Default): Display the Header image just above the site title and main menu part."
+msgstr "Erboven Plaatsen (Standaard): Toon de header-afbeelding net boven de site-titel en de hoofdnavigatie."
+
+#: inc/customizer/options/header/class-spacious-customize-header-media-options.php:43
+msgid "Header Image Position"
+msgstr "Positie van de kopafbeelding"
+
+#: inc/customizer/options/header/class-spacious-customize-site-identity-options.php:51
+msgid "Choose the option that you want."
+msgstr "Kies de optie die je wilt."
+
+#: inc/customizer/options/header/class-spacious-customize-site-identity-options.php:57
+msgid "Disable"
+msgstr "Uitschakelen"
+
+#: inc/customizer/options/header/class-spacious-customize-site-identity-options.php:56
+msgid "Show Both"
+msgstr "Toon beide"
+
+#: inc/customizer/options/header/class-spacious-customize-site-identity-options.php:55
+msgid "Header Text Only"
+msgstr "Alleen header tekst"
+
+#: inc/customizer/options/header/class-spacious-customize-site-identity-options.php:54
+msgid "Header Logo Only"
+msgstr "Alleen header logo"
+
+#: inc/customizer/class-spacious-customizer-register-sections-panels.php:60
+msgid "Header"
+msgstr "Header"
+
+#: no-results.php:27
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Het lijkt erop dat we niet kunnen vinden waar je naar zoekt. Misschien kun je er naar zoeken."
+
+#: no-results.php:22
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Er kwam niets overeen met je zoektermen. Probeer het nog eens met wat andere keywords."
+
+#: no-results.php:18
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Klaar om je eerste bericht te publiceren? <a href=\"%1$s\">Ga hier aan de slag</a>."
+
+#: navigation.php:32
+msgid "Next &rarr;"
+msgstr "Volgende &rarr;"
+
+#: navigation.php:31
+msgid "&larr; Previous"
+msgstr "&larr; Vorige"
+
+#: navigation.php:20
+msgid "Next &raquo;"
+msgstr "Volgende &raquo;"
+
+#: navigation.php:19
+msgid "&laquo; Previous"
+msgstr "&laquo; Vorige"
+
+#: inc/widgets/class-spacious-recent-work-widget.php:38
+msgid "Description"
+msgstr "Beschrijving"
+
+#: functions.php:181 functions.php:243
+#: inc/widgets/class-spacious-recent-work-widget.php:14
+msgid "TG: Featured Widget"
+msgstr "TG: Uitgelicht Widget"
+
+#: functions.php:181 functions.php:243
+#: inc/widgets/class-spacious-recent-work-widget.php:10
+msgid "Show your some pages as recent work. Best for Business Top or Bottom sidebar."
+msgstr "Toon een aantal pagina's als je recente werk. Ideaal voor Bedrijf top of onder zijbalk."
+
+#: inc/widgets/class-spacious-testimonial-widget.php:86
+msgid "Byline:"
+msgstr "Onderschrift:"
+
+#: inc/widgets/class-spacious-testimonial-widget.php:80
+msgid "Name:"
+msgstr "Naam:"
+
+#: inc/widgets/class-spacious-testimonial-widget.php:76
+msgid "Testimonial Description"
+msgstr "Aanbeveling beschrijving"
+
+#: functions.php:225 inc/widgets/class-spacious-testimonial-widget.php:15
+msgid "TG: Testimonial"
+msgstr "TG: aanbeveling"
+
+#: inc/widgets/class-spacious-testimonial-widget.php:11
+msgid "Display Testimonial"
+msgstr "Toon aanbeveling"
+
+#: inc/widgets/class-spacious-call-to-action-widget.php:39
+msgid "Button Redirect Link:"
+msgstr "Knop herverwijst naar pagina:"
+
+#: inc/widgets/class-spacious-call-to-action-widget.php:35
+msgid "Button Text:"
+msgstr "Tekst op Knop:"
+
+#: functions.php:189 inc/widgets/class-spacious-call-to-action-widget.php:32
+msgid "Call to Action Additional Text"
+msgstr "Extra tekst van Call to Action"
+
+#: functions.php:188 inc/widgets/class-spacious-call-to-action-widget.php:30
+msgid "Call to Action Main Text"
+msgstr "Call to Action Tekst"
+
+#: functions.php:180 functions.php:242
+#: inc/widgets/class-spacious-call-to-action-widget.php:14
+msgid "TG: Call To Action Widget"
+msgstr "TG: Call To Action Widget"
+
+#: functions.php:180 functions.php:242
+#: inc/widgets/class-spacious-call-to-action-widget.php:10
+msgid "Use this widget to show the call to action section."
+msgstr "Gebruik deze widget om de Call To Action sectie te tonen."
+
+#: functions.php:179 functions.php:241
+#: inc/widgets/class-spacious-service-widget.php:17
+msgid "TG: Services"
+msgstr "TG: Diensten"
+
+#: functions.php:179 functions.php:241
+#: inc/widgets/class-spacious-service-widget.php:10
+msgid "Display some pages as services. Best for Business Top or Bottom sidebar."
+msgstr "Toon enkele pagina's als diensten. Ideaal voor Bedrijf top of onder zijbalk."
+
+#: inc/widgets/class-spacious-featured-single-page-widget.php:45
+#: inc/widgets/class-spacious-featured-single-page-widget.php:52
+msgid "Show Image After Title"
+msgstr "Toon afbeelding na titel"
+
+#: inc/widgets/class-spacious-featured-single-page-widget.php:43
+#: inc/widgets/class-spacious-featured-single-page-widget.php:50
+msgid "Show Image Before Title"
+msgstr "Toon afbeelding voor titel"
+
+#: inc/widgets/class-spacious-featured-single-page-widget.php:38
+msgid "Remove Featured image"
+msgstr "Verwijder uitgelichte afbeelding"
+
+#: inc/customizer/class-spacious-customizer-register-sections-panels.php:269
+#: inc/widgets/class-spacious-featured-single-page-widget.php:33
+#: inc/widgets/class-spacious-recent-work-widget.php:44
+#: inc/widgets/class-spacious-service-widget.php:33
+msgid "Page"
+msgstr "Pagina"
+
+#: inc/widgets/class-spacious-featured-single-page-widget.php:30
+msgid "Displays the title of the Page if title input is empty."
+msgstr "Toon de titel van de Pagina als het titelveld leeg is."
+
+#: inc/widgets/class-spacious-featured-single-page-widget.php:27
+#: inc/widgets/class-spacious-recent-work-widget.php:35
+#: inc/widgets/class-spacious-testimonial-widget.php:71
+msgid "Title:"
+msgstr "Titel:"
+
+#: inc/widgets/class-spacious-featured-single-page-widget.php:24
+msgid "Suitable for Home Top Sidebar, Home Bottom Left Sidebar and Side Sidbar."
+msgstr "Geschikt voor homepage top zijbalk, homepage onder links zijbalk en zijkant zijbalk."
+
+#: inc/widgets/class-spacious-featured-single-page-widget.php:11
+msgid "Display Featured Single Page"
+msgstr "Toon Uitgelichte Enkele Pagina"
+
+#: inc/widgets/widgets.php:161
+msgid "Shows widgets at footer sidebar four."
+msgstr "Toon widgets op footer zijbalk vier."
+
+#: inc/widgets/widgets.php:159
+msgid "Footer Sidebar Four"
+msgstr "Footer zijbalk vier"
+
+#: inc/widgets/widgets.php:148
+msgid "Shows widgets at footer sidebar three."
+msgstr "Toon widgets op footer zijbalk drie."
+
+#: inc/widgets/widgets.php:146
+msgid "Footer Sidebar Three"
+msgstr "Footer zijbalk drie"
+
+#: inc/widgets/widgets.php:135
+msgid "Shows widgets at footer sidebar two."
+msgstr "Toon widgets op footer zijbalk twee."
+
+#: inc/widgets/widgets.php:133
+msgid "Footer Sidebar Two"
+msgstr "Footer zijbalk twee"
+
+#: inc/widgets/widgets.php:120
+msgid "Shows widgets at footer sidebar one."
+msgstr "Toon widgets op footer zijbalk één."
+
+#: inc/widgets/widgets.php:118
+msgid "Footer Sidebar One"
+msgstr "Footer zijbalk een"
+
+#: inc/widgets/widgets.php:109
+msgid "Shows widgets on Error 404 page."
+msgstr "Toon widgets op 404 foutpagina."
+
+#: inc/widgets/widgets.php:107
+msgid "Error 404 Page Sidebar"
+msgstr "Fout 404 pagina zijbalk"
+
+#: inc/widgets/widgets.php:98
+msgid "Shows widgets on Contact Page Template."
+msgstr "Toont widgets op contactpagina template."
+
+#: inc/widgets/widgets.php:96
+msgid "Contact Page Sidebar"
+msgstr "Contact pagina zijbalk"
+
+#: functions.php:239 inc/widgets/widgets.php:87
+msgid "Shows widgets on Business Page Template Bottom Section."
+msgstr "Toon widgets op de onder sectie van het pagina template voor Bedrijf."
+
+#: functions.php:238 inc/widgets/widgets.php:85
+msgid "Business Bottom Sidebar"
+msgstr "Bedrijf onder zijbalk"
+
+#: functions.php:219 inc/widgets/widgets.php:75
+msgid "Shows widgets on Business Page Template Middle Section Right Half."
+msgstr "Toon widgets op de middensectie rechts van het pagina template voor Bedrijf."
+
+#: functions.php:218 inc/widgets/widgets.php:73
+msgid "Business Middle Right Sidebar"
+msgstr "Bedrijf rechter zijbalk"
+
+#: functions.php:202 functions.php:219 inc/widgets/widgets.php:64
+#: inc/widgets/widgets.php:75
+msgid "Suitable widget: TG: Testimonial, TG: Featured Single Page"
+msgstr "Geschikte widget: TG: aanbeveling, TG: uitgelicht enkelvoudige pagina"
+
+#: functions.php:202 inc/widgets/widgets.php:64
+msgid "Shows widgets on Business Page Template Middle Section Left Half."
+msgstr "Toon widgets op de middensectie links van het pagina template voor Bedrijf."
+
+#: functions.php:201 inc/widgets/widgets.php:62
+msgid "Business Middle Left Sidebar"
+msgstr "Bedrijf linker zijbalk"
+
+#: functions.php:177 functions.php:239 inc/widgets/widgets.php:53
+#: inc/widgets/widgets.php:87
+msgid "Suitable widget: TG: Services, TG: Call To Action Widget, TG: Featured Widget"
+msgstr "Geschikte widget: TG: Services, TG: Call To Action Widget, TG: Uitgelicht Widget"
+
+#: functions.php:177 inc/widgets/widgets.php:53
+msgid "Shows widgets on Business Page Template Top Section."
+msgstr "Toon widgets op top sectie van de pagina template voor Bedrijf."
+
+#: functions.php:176 inc/widgets/widgets.php:51
+msgid "Business Top Sidebar"
+msgstr "Bedrijf top zijbalk"
+
+#: inc/widgets/widgets.php:42
+msgid "Shows widgets in header section just above the main navigation menu."
+msgstr "Toon widgets in header sectie net boven de hoofd navigatie menu."
+
+#: inc/widgets/widgets.php:40
+msgid "Header Sidebar"
+msgstr "Header zijbalk"
+
+#: inc/widgets/widgets.php:31
+msgid "Shows widgets at Left side."
+msgstr "Laat de Widgets aan de linkerkant zien."
+
+#: inc/widgets/widgets.php:20
+msgid "Shows widgets at Right side."
+msgstr "Laat de Widgets aan de rechterkant zien."
+
+#: inc/customizer/class-spacious-customizer-partials.php:49
+#: inc/customizer/class-spacious-customizer-partials.php:56
+#: inc/header-functions.php:314 inc/header-functions.php:320
+msgid "You are here: "
+msgstr "Je bent hier: "
+
+#: inc/header-functions.php:285
+msgid "Search Results"
+msgstr "Zoekresultaten"
+
+#: inc/header-functions.php:283
+msgid "Page NOT Found"
+msgstr "Pagina niet gevonden"
+
+#: inc/header-functions.php:279 sidebar-left.php:29 sidebar.php:32
+msgid "Archives"
+msgstr "Archieven"
+
+#: inc/header-functions.php:273
+msgid "Links"
+msgstr "Links"
+
+#: inc/header-functions.php:270
+msgid "Quotes"
+msgstr "Citaten"
+
+#: inc/header-functions.php:267
+msgid "Videos"
+msgstr "Video's"
+
+#: inc/header-functions.php:264
+msgid "Images"
+msgstr "Afbeeldingen"
+
+#: inc/header-functions.php:261
+msgid "Asides"
+msgstr "Asides"
+
+#: inc/header-functions.php:258
+msgid "Year: %s"
+msgstr "Jaar: %s"
+
+#: inc/header-functions.php:255
+msgid "Month: %s"
+msgstr "Maand: %s"
+
+#: inc/header-functions.php:252
+msgid "Day: %s"
+msgstr "Dag: %s"
+
+#: inc/header-functions.php:244
+msgid "Author: %s"
+msgstr "Auteur: %s"
+
+#: inc/functions.php:557
+msgid "Copyright &copy; %1$s %2$s."
+msgstr "Copyright &copy; %1$s %2$s."
+
+#: inc/functions.php:553
+msgid "WordPress"
+msgstr "WordPress"
+
+#: inc/functions.php:530
+msgid "Reply"
+msgstr "Beantwoorden"
+
+#: inc/functions.php:524
+msgid "Your comment is awaiting moderation."
+msgstr "Je reactie is in afwachting van moderatie."
+
+#: inc/functions.php:518
+msgid "<a class=\"comment-permalink\" href=\"%1$s\">Permalink</a>"
+msgstr "<a class=\"comment-permalink\" href=\"%1$s\">Permalink</a>"
+
+#: inc/functions.php:516
+msgid "%1$s at %2$s"
+msgstr "%1$s om %2$s"
+
+#: inc/functions.php:513
+msgid "Post author"
+msgstr "Bericht auteur"
+
+#: inc/functions.php:498
+msgid "(Edit)"
+msgstr "(bewerken)"
+
+#: inc/functions.php:498
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/functions.php:472
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Nieuwere berichten <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/functions.php:468
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Oudere berichten"
+
+#: inc/functions.php:463 navigation.php:40
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: inc/functions.php:462 navigation.php:39
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: inc/functions.php:458
+msgid "Post navigation"
+msgstr "Bericht navigatie"
+
+#: inc/customizer/core/custom-controls/typography/class-spacious-typography-control.php:590
+msgid "Italic"
+msgstr "Cursief"
+
+#: inc/customizer/core/custom-controls/typography/class-spacious-typography-control.php:587
+msgid "Normal"
+msgstr "Normaal"
+
+#: inc/customizer/core/custom-controls/background/class-spacious-background-control.php:139
+msgid "Repeat All"
+msgstr "Herhaal Alles"
+
+#: inc/customizer/core/custom-controls/background/class-spacious-background-control.php:145
+msgid "Repeat Vertically"
+msgstr "Herhaal Verticaal"
+
+#: inc/customizer/core/custom-controls/background/class-spacious-background-control.php:142
+msgid "Repeat Horizontally"
+msgstr "Herhaal Horizontaal"
+
+#: inc/customizer/core/custom-controls/background/class-spacious-background-control.php:136
+msgid "No Repeat"
+msgstr "Niet herhalen"
+
+#: inc/customizer/core/custom-controls/background/class-spacious-background-control.php:118
+msgid "Remove"
+msgstr "Verwijderen"
+
+#: inc/admin/meta-boxes.php:48
+msgid "No Sidebar Content Centered"
+msgstr "Geen zijbalk, inhoud gecentreerd"
+
+#: inc/admin/meta-boxes.php:43
+msgid "No Sidebar Full Width"
+msgstr "Geen zijbalk, volledige breedte"
+
+#: inc/admin/meta-boxes.php:38 inc/widgets/widgets.php:29
+msgid "Left Sidebar"
+msgstr "Zijbalk links"
+
+#: inc/admin/meta-boxes.php:33 inc/widgets/widgets.php:18
+msgid "Right Sidebar"
+msgstr "Zijbalk rechts"
+
+#: inc/admin/meta-boxes.php:28
+msgid "Default Layout"
+msgstr "Standaard lay-out"
+
+#: inc/admin/meta-boxes.php:16 inc/admin/meta-boxes.php:18
+msgid "Select Layout"
+msgstr "Selecteer lay-out"
+
+#: inc/header-functions.php:341
+msgid "Menu"
+msgstr "Menu"
+
+#: functions.php:101 functions.php:349
+msgid "Footer Menu"
+msgstr "Footer menu"
+
+#: functions.php:100 functions.php:337
+#: inc/customizer/class-spacious-customizer-register-sections-panels.php:216
+msgid "Primary Menu"
+msgstr "Hoofdmenu"
+
+#: content-single.php:34
+msgid "Tagged on: "
+msgstr "Getagd op: "
+
+#: functions.php:324 functions.php:329
+#: inc/customizer/class-spacious-customizer-partials.php:30
+#: inc/functions.php:662 inc/header-functions.php:166
+#: inc/widgets/class-spacious-featured-single-page-widget.php:104
+#: inc/widgets/class-spacious-service-widget.php:48
+#: inc/widgets/class-spacious-service-widget.php:74
+msgid "Read more"
+msgstr "Lees verder"
+
+#: content-page.php:39 inc/functions.php:656
+msgid "Edit"
+msgstr "Bewerken"
+
+#: inc/functions.php:653
+msgid "Comments Off"
+msgstr "Reageren uitgeschakeld"
+
+#: inc/functions.php:653
+msgid "% Comments"
+msgstr "% reacties"
+
+#: inc/functions.php:653
+msgid "1 Comment"
+msgstr "1 reactie"
+
+#: inc/functions.php:653
+msgid "No Comments"
+msgstr "Geen reacties"
+
+#: content-blog-full-content.php:23 content-page.php:30 content-single.php:42
+msgid "Pages:"
+msgstr "Pagina's:"
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "Reacties zijn gesloten."
+
+#: comments.php:40 comments.php:57
+msgid "Newer Comments &rarr;"
+msgstr "Nieuwere reacties &rarr;"
+
+#: comments.php:39 comments.php:56
+msgid "&larr; Older Comments"
+msgstr "&larr; Oudere reacties"
+
+#: comments.php:38 comments.php:55
+msgid "Comment navigation"
+msgstr "Reactie navigatie"
+
+#: comments.php:31
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Eén gedachte over &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s gedachten over &ldquo;%2$s&rdquo;"
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Try the search below."
+msgstr "Het lijkt erop dat er niets is gevonden op deze plek. Probeer de zoekfunctie hieronder."
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Die pagina kan niet worden gevonden."
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themegrill.com"
+msgstr "https://themegrill.com"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themegrill.com/themes/spacious"
+msgstr "https://themegrill.com/themes/spacious"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "ThemeGrill"
+msgstr "ThemeGrill"

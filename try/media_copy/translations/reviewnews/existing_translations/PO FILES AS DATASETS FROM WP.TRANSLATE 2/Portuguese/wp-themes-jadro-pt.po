@@ -1,0 +1,651 @@
+# Translation of Themes - Jadro in Portuguese (Portugal)
+# This file is distributed under the same license as the Themes - Jadro package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-09-04 13:59:25+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: pt\n"
+"Project-Id-Version: Themes - Jadro\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Jadro is a minimal and lightweight Full Site Editing theme. This speed optimized theme utilizes the WordPress blocks editor to create unique and eye-catching layouts. Jadro is perfect for blogs, small businesses, startups, law firms and other creative agencies who prefer simple and speed optimized websites."
+msgstr "O Jadro é um tema minimalista e leve, com suporte para edição integral do site. Este tema com velocidade aprimorada, utiliza o editor de blocos do WordPress para criar layouts únicos e apelativos. O tema Jadro é perfeito para blogs, pequenas empresas, startups, escritórios de advogados e agências criativas que preferem sites simples e optimizados para serem rápidos."
+
+#: styles/faded-blue.json
+msgctxt "Style variation name"
+msgid "Faded Blue"
+msgstr ""
+
+#: styles/earthly-green.json
+msgctxt "Style variation name"
+msgid "Earthly Green"
+msgstr ""
+
+#: styles/deep-turqoise.json
+msgctxt "Style variation name"
+msgid "Deep Turqoise"
+msgstr ""
+
+#. translators: 1: Theme name, 2: Theme author.
+#: patterns/footer.php:110
+msgid "Powered by WordPress"
+msgstr ""
+
+#: styles/kelly-green.json
+msgctxt "Style variation name"
+msgid "Kelly Green"
+msgstr "Verde Kelly"
+
+#: styles/hot-pink.json
+msgctxt "Style variation name"
+msgid "Hot Pink"
+msgstr "Rosa choque"
+
+#: styles/dodger-blue.json
+msgctxt "Style variation name"
+msgid "Dodger Blue"
+msgstr "Azul Dodger"
+
+#: styles/coral.json
+msgctxt "Style variation name"
+msgid "Coral"
+msgstr "Coral"
+
+#: styles/black.json
+msgctxt "Style variation name"
+msgid "Black"
+msgstr "Preto"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Rodapé"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Cabeçalho"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "No Title and Space"
+msgstr "Sem título nem espaço"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2X Large"
+msgstr "2X Grande"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "X Large"
+msgstr "X Grande"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Large"
+msgstr "Grande"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Medium"
+msgstr "Médio"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Small"
+msgstr "Pequeno"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "X Small"
+msgstr "X Pequeno"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2X Small"
+msgstr "2X Pequeno"
+
+#: styles/black.json styles/coral.json styles/deep-turqoise.json
+#: styles/dodger-blue.json styles/earthly-green.json styles/faded-blue.json
+#: styles/hot-pink.json styles/kelly-green.json theme.json
+msgctxt "Color name"
+msgid "Inherit"
+msgstr "Herdar"
+
+#: styles/black.json styles/coral.json styles/deep-turqoise.json
+#: styles/dodger-blue.json styles/earthly-green.json styles/faded-blue.json
+#: styles/hot-pink.json styles/kelly-green.json theme.json
+msgctxt "Color name"
+msgid "Current Color"
+msgstr "Cor actual"
+
+#: styles/black.json styles/coral.json styles/deep-turqoise.json
+#: styles/dodger-blue.json styles/earthly-green.json styles/faded-blue.json
+#: styles/hot-pink.json styles/kelly-green.json theme.json
+msgctxt "Color name"
+msgid "Transparent"
+msgstr "Transparente"
+
+#: styles/black.json styles/coral.json styles/deep-turqoise.json
+#: styles/dodger-blue.json styles/earthly-green.json styles/faded-blue.json
+#: styles/hot-pink.json styles/kelly-green.json theme.json
+msgctxt "Color name"
+msgid "Senary"
+msgstr "Senário"
+
+#: styles/black.json styles/coral.json styles/deep-turqoise.json
+#: styles/dodger-blue.json styles/earthly-green.json styles/faded-blue.json
+#: styles/hot-pink.json styles/kelly-green.json theme.json
+msgctxt "Color name"
+msgid "Quinary"
+msgstr "Quinário"
+
+#: styles/black.json styles/coral.json styles/deep-turqoise.json
+#: styles/dodger-blue.json styles/earthly-green.json styles/faded-blue.json
+#: styles/hot-pink.json styles/kelly-green.json theme.json
+msgctxt "Color name"
+msgid "Quaternary"
+msgstr "Quaternário"
+
+#: styles/black.json styles/coral.json styles/deep-turqoise.json
+#: styles/dodger-blue.json styles/earthly-green.json styles/faded-blue.json
+#: styles/hot-pink.json styles/kelly-green.json theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "Terciário"
+
+#: styles/black.json styles/coral.json styles/deep-turqoise.json
+#: styles/dodger-blue.json styles/earthly-green.json styles/faded-blue.json
+#: styles/hot-pink.json styles/kelly-green.json theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Secundário"
+
+#: styles/black.json styles/coral.json styles/deep-turqoise.json
+#: styles/dodger-blue.json styles/earthly-green.json styles/faded-blue.json
+#: styles/hot-pink.json styles/kelly-green.json theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Principal"
+
+#: styles/black.json styles/coral.json styles/deep-turqoise.json
+#: styles/dodger-blue.json styles/earthly-green.json styles/faded-blue.json
+#: styles/hot-pink.json styles/kelly-green.json theme.json
+msgctxt "Color name"
+msgid "Base"
+msgstr "Base"
+
+#: styles/black.json styles/coral.json styles/deep-turqoise.json
+#: styles/dodger-blue.json styles/earthly-green.json styles/faded-blue.json
+#: styles/hot-pink.json styles/kelly-green.json theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr "Fundo"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Outfit"
+msgstr "Outfit"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Figtree"
+msgstr "Figtree"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Inter"
+msgstr "Inter"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "4X Large"
+msgstr "4X Grande"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "3X Large"
+msgstr "3X Grande"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "2X Large"
+msgstr "2X Grande"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "X Large"
+msgstr "X Grande"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Grande"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Médio"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Base"
+msgstr "Base"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Pequeno"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "X Small"
+msgstr "X Pequeno"
+
+#: patterns/testimonials.php
+msgctxt "Pattern title"
+msgid "Testimonials"
+msgstr "Testemunhos"
+
+#: patterns/team-members.php
+msgctxt "Pattern title"
+msgid "Team Members"
+msgstr "Membros da equipa"
+
+#: patterns/pricing-table.php
+msgctxt "Pattern title"
+msgid "Pricing Table"
+msgstr "Tabela de preços"
+
+#: patterns/latest-articles.php
+msgctxt "Pattern title"
+msgid "Latest Articles"
+msgstr "Artigos mais recentes"
+
+#: patterns/hero-banner.php
+msgctxt "Pattern title"
+msgid "Hero Banner"
+msgstr "Banner"
+
+#: patterns/header.php
+msgctxt "Pattern title"
+msgid "Header"
+msgstr "Cabeçalho"
+
+#: patterns/header-with-button.php
+msgctxt "Pattern title"
+msgid "Header with Button"
+msgstr "Cabeçalho com botão"
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Footer"
+msgstr "Rodapé"
+
+#: patterns/features.php
+msgctxt "Pattern title"
+msgid "Features"
+msgstr "Funcionalidades"
+
+#: patterns/cta-two-columns.php
+msgctxt "Pattern title"
+msgid "Call to Action 2 Columns"
+msgstr "Chamada para acção com 2 colunas"
+
+#: patterns/cta-default.php
+msgctxt "Pattern title"
+msgid "Call to Action"
+msgstr "Chamada para acção"
+
+#: patterns/testimonials.php:116
+msgid "Useful features, pattern library &amp; regular updates."
+msgstr "Funcionalidades úteis, biblioteca de padrões e actualizações regulares."
+
+#: patterns/testimonials.php:110
+msgid "Corporate Lawyer"
+msgstr "Advogado de empresas"
+
+#: patterns/testimonials.php:80
+msgid "Public Speaker"
+msgstr "Orador público"
+
+#: patterns/testimonials.php:50
+msgid "Life Coach"
+msgstr "Life Coach"
+
+#: patterns/testimonials.php:27
+msgid "A range of testimonials from our happy customers across a variety of industries and use cases."
+msgstr "Uma série de testemunhos dos nossos clientes satisfeitos, numa variedade de sectores e casos de utilização."
+
+#: patterns/testimonials.php:21
+msgid "Testimonials"
+msgstr "Testemunhos"
+
+#: patterns/testimonials.php:17
+msgid "Customer Reviews"
+msgstr "Avaliações de clientes"
+
+#: patterns/team-members.php:78
+msgid "Consultant"
+msgstr "Consultor"
+
+#: patterns/team-members.php:74 patterns/testimonials.php:106
+msgid "Dina Crossin"
+msgstr "Dina Crossin"
+
+#: patterns/team-members.php:62
+msgid "Manager"
+msgstr "Gestora"
+
+#: patterns/team-members.php:58 patterns/testimonials.php:76
+msgid "Danial Chen"
+msgstr "Danial Chen"
+
+#: patterns/team-members.php:46
+msgid "Director"
+msgstr "Director"
+
+#: patterns/team-members.php:42 patterns/testimonials.php:46
+msgid "Eliza Weber"
+msgstr "Eliza Weber"
+
+#: patterns/team-members.php:27
+msgid "An experienced team working together, crafting exceptional experiences, and growing stronger."
+msgstr "Uma equipa experiente a trabalhar em conjunto, a criar experiências excepcionais e a tornar-se mais forte."
+
+#: patterns/team-members.php:21
+msgid "Team Members"
+msgstr "Membros da equipa"
+
+#: patterns/team-members.php:17
+msgid "Creative"
+msgstr "Criativo"
+
+#: patterns/pricing-table.php:197
+msgid "Onpage SEO Included"
+msgstr "SEO de páginas incluído"
+
+#: patterns/pricing-table.php:189
+msgid "Website Security Hardening"
+msgstr "Reforço da segurança do site"
+
+#: patterns/pricing-table.php:181
+msgid "Monthly Maintenance Service"
+msgstr "Serviço de manutenção mensal"
+
+#: patterns/pricing-table.php:173
+msgid "Everything in Advanced"
+msgstr "Tudo do plano avançado"
+
+#: patterns/pricing-table.php:159
+msgid "$499"
+msgstr "$499"
+
+#: patterns/pricing-table.php:154
+msgid "Premium"
+msgstr "Premium"
+
+#: patterns/pricing-table.php:139
+msgid "Support via Dedicated Email"
+msgstr "Suporte via email dedicado"
+
+#: patterns/pricing-table.php:131
+msgid "Additional Block Patterns"
+msgstr "Padrões de blocos adicionais"
+
+#: patterns/pricing-table.php:123
+msgid "One Click Demo Import"
+msgstr "Importar demonstração com um clique"
+
+#: patterns/pricing-table.php:115
+msgid "Everything in Basic"
+msgstr "Tudo do plano Básico"
+
+#: patterns/pricing-table.php:101
+msgid "$99"
+msgstr "$99"
+
+#: patterns/pricing-table.php:96
+msgid "Advanced"
+msgstr "Avançado"
+
+#: patterns/pricing-table.php:81
+msgid "Support via Public Forum"
+msgstr "Suporte através do fórum público"
+
+#: patterns/pricing-table.php:73
+msgid "Block Pattern Library"
+msgstr "Biblioteca de padrões de blocos"
+
+#: patterns/pricing-table.php:57
+msgid "Responsive Layouts"
+msgstr "Layouts responsivos"
+
+#: patterns/pricing-table.php:47 patterns/pricing-table.php:105
+#: patterns/pricing-table.php:163
+msgid "/year"
+msgstr "/ano"
+
+#: patterns/pricing-table.php:43
+msgid "$49"
+msgstr "$49"
+
+#: patterns/pricing-table.php:38
+msgid "Basic"
+msgstr "Básico"
+
+#: patterns/pricing-table.php:27
+msgid "We offer a range of plans to suit businesses of all sizes, from small startups to large corporations."
+msgstr "Oferecemos uma gama de planos que se adequam a empresas de todas as dimensões, desde pequenas empresas em fase de arranque a grandes empresas."
+
+#: patterns/pricing-table.php:21
+msgid "Pricing Plans"
+msgstr "Planos de preços"
+
+#: patterns/pricing-table.php:17
+msgid "Straightforward"
+msgstr "Simples"
+
+#: patterns/latest-articles.php:27
+msgid "Quickly browse the latest offers, read in-depth articles, and case studies to get the full story."
+msgstr "Navegue rapidamente pelas últimas ofertas, leia artigos aprofundados e casos de estudo para ficar a saber tudo."
+
+#: patterns/latest-articles.php:21
+msgid "Latest Articles"
+msgstr "Artigos mais recentes"
+
+#: patterns/latest-articles.php:17
+msgid "Stay Updated"
+msgstr "Mantenha-se actualizado"
+
+#: patterns/hero-banner.php:26
+msgid "Simple, Clean, and Lightning Fast Full Site Editing Theme. Google Core Web Vitals and Search Engines optimized WordPress block theme."
+msgstr "Tema simples, limpo e rápido, com suporte para edição integral do site. Tema de blocos WordPress optimizado para Google Core Web Vitals e motores de pesquisa."
+
+#: patterns/hero-banner.php:22
+msgid "WordPress Block Theme"
+msgstr "Tema de blocos do WordPress"
+
+#: patterns/footer.php:67
+msgid "Terms &amp; Conditions"
+msgstr "Termos e condições"
+
+#: patterns/footer.php:63
+msgid "Privacy Policies"
+msgstr "Políticas de privacidade"
+
+#: patterns/footer.php:59
+msgid "Get Involved"
+msgstr "Participe"
+
+#: patterns/footer.php:55
+msgid "Showcase"
+msgstr "Montra"
+
+#: patterns/footer.php:51
+msgid "Affiliate"
+msgstr "Afiliados"
+
+#: patterns/footer.php:46
+msgid "Quick Links"
+msgstr "Ligações rápidas"
+
+#: patterns/footer.php:39
+msgid "Customization Request"
+msgstr "Pedido de personalização"
+
+#: patterns/footer.php:35
+msgid "Support Forum"
+msgstr "Fórum de suporte"
+
+#: patterns/footer.php:31
+msgid "Help Center"
+msgstr "Centro de ajuda"
+
+#: patterns/footer.php:27
+msgid "Success Stories"
+msgstr "Histórias de sucesso"
+
+#: patterns/footer.php:23 patterns/footer.php:76
+msgid "About"
+msgstr "Sobre"
+
+#: patterns/footer.php:18
+msgid "Company"
+msgstr "Empresa"
+
+#: patterns/features.php:78
+msgid "Select the color of your choice from the variations available."
+msgstr "Seleccione a cor da sua preferência entre as variações disponíveis."
+
+#: patterns/features.php:74
+msgid "Color Variations"
+msgstr "Variações de cor"
+
+#: patterns/features.php:60 patterns/testimonials.php:86
+msgid "Lightning fast theme that loads in fractions of seconds."
+msgstr "Tema extremamente rápido que é carregado em fracções de segundos."
+
+#: patterns/features.php:56
+msgid "Speed Optimized"
+msgstr "Velocidade optimizada"
+
+#: patterns/features.php:47 patterns/features.php:65 patterns/features.php:83
+msgid "Read More"
+msgstr "Ler mais"
+
+#: patterns/features.php:42 patterns/testimonials.php:56
+msgid "Simple, clean &amp; minimal Full Site Editing theme."
+msgstr "Tema simples, limpo e minimalista, com suporte para edição integral do site."
+
+#: patterns/features.php:38 patterns/hero-banner.php:18
+#: patterns/pricing-table.php:65
+msgid "Full Site Editing"
+msgstr "Edição integral do site"
+
+#: patterns/features.php:27
+msgid "Create stunning websites effortlessly with a collection of inbuilt patterns and style variations."
+msgstr "Crie sites fantásticos sem esforço com uma colecção de padrões e variações de estilo."
+
+#: patterns/features.php:21
+msgid "Features"
+msgstr "Funcionalidades"
+
+#: patterns/features.php:17
+msgid "Innovative"
+msgstr "Inovador"
+
+#: patterns/cta-two-columns.php:36
+msgid "Get In Touch"
+msgstr "Entre em contacto"
+
+#: patterns/cta-two-columns.php:31
+msgid "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+msgstr "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+
+#: patterns/cta-two-columns.php:27
+msgid "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+
+#: patterns/cta-two-columns.php:21
+msgid "Add Your Heading Here"
+msgstr "Adicione aqui o seu título"
+
+#: patterns/cta-two-columns.php:17
+msgid "Call to Action"
+msgstr "Chamada para acção"
+
+#: patterns/cta-default.php:34 patterns/hero-banner.php:35
+msgid "Learn More"
+msgstr "Saiba mais"
+
+#: patterns/cta-default.php:30 patterns/header-with-button.php:32
+#: patterns/hero-banner.php:31 patterns/pricing-table.php:87
+#: patterns/pricing-table.php:145 patterns/pricing-table.php:203
+msgid "Get Started"
+msgstr "Começar"
+
+#: patterns/cta-default.php:25 patterns/footer.php:80
+msgid "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+#: patterns/cta-default.php:15
+msgid "Add Call to Action Heading Here"
+msgstr "Adicione aqui um título de chamada para acção"
+
+#: functions.php:95
+msgid "Right Aligned"
+msgstr "Alinhado à direita"
+
+#: functions.php:94
+msgid "Left Aligned"
+msgstr "Alinhado à esquerda"
+
+#: functions.php:93
+msgid "Wide Thin Line"
+msgstr "Linha fina e larga"
+
+#: functions.php:92
+msgid "Dotted"
+msgstr "Pontilhado"
+
+#: functions.php:89
+msgid "None"
+msgstr "Nenhum"
+
+#: functions.php:88
+msgid "Square"
+msgstr "Quadrado"
+
+#: functions.php:87
+msgid "Checklist Circle"
+msgstr "Caixa de verificação circular"
+
+#: functions.php:86
+msgid "Checklist"
+msgstr "Caixa de verificação"
+
+#. Theme Name of the theme
+#. translators: %s: CMS name, i.e. WordPress.
+#: style.css functions.php:71 patterns/footer.php:104
+msgid "Jadro"
+msgstr "Jadro"
+
+#. Theme URI of the theme
+#: style.css patterns/footer.php:101
+#, gp-priority: low
+msgid "https://wpshout.com/jadro/"
+msgstr ""
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Jadro WP"
+msgstr "Jadro WP"

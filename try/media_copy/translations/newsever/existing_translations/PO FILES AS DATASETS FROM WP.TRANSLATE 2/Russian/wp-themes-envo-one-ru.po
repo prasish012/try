@@ -1,0 +1,255 @@
+# Translation of Themes - Envo One in Russian
+# This file is distributed under the same license as the Themes - Envo One package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-05-01 14:53:52+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Envo One\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Envo One is a fast, clean, lightweight, customizable and modern-looking free responsive WooCommerce WordPress theme for e-commerce stores like clothing, fashion, electronics, ebooks, dress store, sports shop, marketplace, multivendor, equipments or online products. Theme works perfectly with the new block editor (Gutenberg) and popular page builders like Elementor, Beaver Builder, SiteOrigin, Thrive Architect, Divi, Brizy, Visual Composer etc. Theme is compatible with YITH WooCommerce Wishlist, YITH WooCommerce Compare, WooCommerce Variation Swatches and other popular plugins. The theme is SEO friendly, WPML and RTL ready. Theme demo ready to import: https://envothemes.com/envo-one/"
+msgstr "Envo One - это быстрая, чистая, легкая, настраиваемая и современная бесплатная отзывчивая тема WooCommerce от WordPress для магазинов электронной коммерции: магазинов одежды, моды, электроники, электронных книг, спортивных магазинов, торговых площадок, магазинов с разными поставщиками, оборудованием или онлайн-товарами. Тема отлично работает с новым блочным редактором (Gutenberg) и популярными конструкторами страниц, такими как Elementor, Beaver Builder, SiteOrigin, Thrive Architect, Divi, Brizy, Visual Composer и др. Она совместима с YITH WooCommerce Wishlist, YITH WooCommerce Compare, WooCommerce Variation Swatches и другими популярными плагинами. Тема является SEO дружественной, WPML и RTL готовой. Демо-версия готова к импорту: https://envothemes.com/envo-one/"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Envo One"
+msgstr "Envo One"
+
+#: lib/customizer/install/class-plugin-install-helper.php:110
+#: lib/customizer/notice/class-customizer-notice.php:144
+msgid "Activating"
+msgstr "Активация"
+
+#. Template Name of the theme
+msgid "Page Builders"
+msgstr "Конструкторы страниц"
+
+#. Template Name of the theme
+msgid "No Sidebar"
+msgstr "Без боковой колонки"
+
+#. translators: %s: Search results
+#: search.php:7
+msgid "Results for \"%s\""
+msgstr "Результаты для \"%s\""
+
+#: lib/wp_bootstrap_navwalker.php:366
+msgid "Add a menu"
+msgstr "Добавить меню"
+
+#: lib/envo-one-woocommerce.php:123
+msgid "Compare"
+msgstr "Сравнить"
+
+#: lib/envo-one-woocommerce.php:102
+msgid "Wishlist"
+msgstr "Список желаний"
+
+#: lib/envo-one-woocommerce.php:83
+msgid "My Account"
+msgstr "Учетная запись"
+
+#: lib/envo-one-woocommerce.php:27
+msgid "Cart"
+msgstr "Корзина"
+
+#: lib/envo-one-plugin-install.php:75
+msgid "Learn more"
+msgstr "Подробнее"
+
+#: lib/customizer-recommend.php:27 lib/envo-one-plugin-install.php:55
+msgid "Install now"
+msgstr "Установить сейчас"
+
+#. translators: %1$s: Envo One theme author (do not translate) with
+#. envothemes.com URL
+#: lib/envo-one-extra.php:544
+msgctxt "Theme author"
+msgid "EnvoThemes"
+msgstr "EnvoThemes"
+
+#. translators: %1$s: Envo One theme author (do not translate) with
+#. envothemes.com URL
+#: lib/envo-one-extra.php:544
+msgid "Theme by %1$s"
+msgstr "Тема от %1$s"
+
+#: lib/envo-one-extra.php:500
+msgid "Tags"
+msgstr "Метки"
+
+#: lib/envo-one-extra.php:496
+msgid "Category"
+msgstr "Рубрика"
+
+#: lib/envo-one-extra.php:385
+msgid "Next"
+msgstr "Далее"
+
+#: lib/envo-one-extra.php:385
+msgid "Next Post"
+msgstr "Следующая запись"
+
+#: lib/envo-one-extra.php:384
+msgid "Previous"
+msgstr "Назад"
+
+#: lib/envo-one-extra.php:384
+msgid "Previous Post"
+msgstr "Предыдущая запись"
+
+#: lib/envo-one-extra.php:270
+msgid "About The Author"
+msgstr "Об авторе"
+
+#: lib/envo-one-extra.php:247
+msgid "Comment on "
+msgstr "Комментировать"
+
+#: lib/envo-one-extra.php:244
+msgid "Off"
+msgstr "Выкл"
+
+#: lib/envo-one-extra.php:221
+msgid "By"
+msgstr "от"
+
+#. translators: %s: Theme name
+#: lib/envo-one-dashboard.php:87
+msgid "Get started with %s"
+msgstr "Начать с %s"
+
+#: lib/envo-one-dashboard.php:83 lib/envo-one-dashboard.php:139
+msgid "Install"
+msgstr "Установить"
+
+#: lib/customizer-recommend.php:28
+#: lib/customizer/install/class-plugin-install-helper.php:59
+#: lib/customizer/install/class-plugin-install-helper.php:75
+#: lib/envo-one-dashboard.php:83 lib/envo-one-dashboard.php:139
+#: lib/envo-one-plugin-install.php:40
+msgid "Activate"
+msgstr "Активировать"
+
+#: lib/envo-one-dashboard.php:83 lib/envo-one-dashboard.php:139
+#: lib/envo-one-plugin-install.php:29
+msgid "Activated"
+msgstr "Активировано"
+
+#. translators: %s: Plugin name string
+#: lib/customizer-recommend.php:22 lib/envo-one-dashboard.php:79
+#: lib/envo-one-dashboard.php:136
+msgid "To take full advantage of all the features this theme has to offer, please install and activate the %s plugin."
+msgstr "Если вы хотите воспользоваться полным спектром функций этой темы, пожалуйста, установите и активируйте плагин %s."
+
+#. translators: %s: Theme name
+#: lib/customizer-recommend.php:26 lib/envo-one-dashboard.php:73
+#: lib/envo-one-dashboard.php:130
+msgid "Thank you for installing %s."
+msgstr "Спасибо за установку %s."
+
+#: functions.php:544
+msgid "Skip to the content"
+msgstr "Перейти к содержимому"
+
+#: functions.php:510
+msgid "Top bar"
+msgstr "Верхняя панель"
+
+#: functions.php:500
+msgid "Header Section"
+msgstr "Раздел заголовка"
+
+#: functions.php:490
+msgid "Footer Section"
+msgstr "Раздел подвала"
+
+#: functions.php:480
+msgid "Sidebar"
+msgstr "Боковая колонка"
+
+#: functions.php:350
+msgid "All Categories"
+msgstr "Все Категории"
+
+#: functions.php:348
+msgid "Search products..."
+msgstr "Искать товары..."
+
+#: functions.php:31
+msgid "Menu Right"
+msgstr "Меню справа"
+
+#: functions.php:31
+msgid "Main Menu"
+msgstr "Главное меню"
+
+#: content-none.php:19
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Кажется, мы не можем найти то, что вы ищете. Возможно, поможет поиск."
+
+#: content-none.php:14
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, по вашему запросу ничего не найдено. Пожалуйста попробуйте еще с другими ключевыми словами."
+
+#. translators: %1$s: link to admin area
+#: content-none.php:9
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы к публикации своей первой записи? <a href=\"%1$s\">Начните отсюда</a>."
+
+#: content-none.php:3
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: comments.php:47
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:22
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s мысль по \"%2$s\""
+msgstr[1] "%1$s мысли по \"%2$s\""
+msgstr[2] "%1$s мыслей по \"%2$s\""
+
+#. translators: %s: post title
+#: comments.php:19
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Один отзыв для &ldquo;%s&rdquo;"
+
+#: 404.php:7
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "По данному адресу ничего не найдено. Попробуйте воспользоваться поиском."
+
+#: 404.php:5
+msgid "Nothing here"
+msgstr "Здесь ничего нет"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://envothemes.com/"
+msgstr "https://envothemes.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "EnvoThemes"
+msgstr "EnvoThemes"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://envothemes.com/envo-one-woocommerce/"
+msgstr "https://envothemes.com/envo-one-woocommerce/"

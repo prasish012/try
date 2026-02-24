@@ -1,0 +1,2046 @@
+# Translation of Themes - OnePress in Japanese
+# This file is distributed under the same license as the Themes - OnePress package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-11-24 04:08:49+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - OnePress\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "OnePress is an outstanding creative and flexible WordPress one page theme well suited for business website, portfolio, digital agency, product showcase, freelancers and everyone else who appreciate good design. The theme overall is an elegant and classic one, a fine example of Bootstrap 4 WordPress theme which compatibility with latest version of WooCommerce. (Live preview : https://demos.famethemes.com/onepress)"
+msgstr "OnePress は、良いデザインを理解する方のためのクリエイティブで柔軟な1ページ WordPress テーマです。企業サイトやポートフォリオ、制作会社、製品ショーケース、フリーランサーなどにぴったりです。テーマ全体がエレガントでクラシックであり、最新版の WooCommerce との互換性があります。Bootstrap 4 をベースにした WordPress テーマの好例のひとつです。(ライブプレビュー: https://demos.famethemes.com/onepress)"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "OnePress"
+msgstr "OnePress"
+
+#: inc/admin/class-editor.php:107 inc/admin/dashboard.php:804
+#: inc/admin/dashboard.php:829 inc/class-config.php:33
+msgid "You are not authorized to access this page."
+msgstr ""
+
+#: inc/admin/class-editor.php:113 inc/admin/dashboard.php:36
+#: inc/admin/dashboard.php:835
+msgid "Security check!"
+msgstr ""
+
+#: functions.php:151
+msgid "Bulk Edit for WooCommerce"
+msgstr "WooCommerceの一括編集"
+
+#: functions.php:144
+msgid "Currency Switcher for WooCommerce"
+msgstr "WooCommerceの通貨スイッチャー"
+
+#: inc/customizer-controls.php:56
+msgid "Please setup your main Latitude & Longitude first"
+msgstr "まずはメインの緯度と経度を設定してください"
+
+#: inc/customize-configs/section-about.php:50
+#: inc/customize-configs/section-contact.php:50
+#: inc/customize-configs/section-counter.php:49
+#: inc/customize-configs/section-features.php:50
+#: inc/customize-configs/section-gallery.php:59
+#: inc/customize-configs/section-hero.php:51
+#: inc/customize-configs/section-news.php:50
+#: inc/customize-configs/section-videolightbox.php:50
+msgid "The section ID should be English character, lowercase and no space."
+msgstr "セクション ID は英字、小文字、スペースなしで入力してください。"
+
+#: inc/class-sections-navigation.php:92
+msgid "Disable the section navigation on mobile"
+msgstr "モバイルではセクションナビゲーションを無効にする"
+
+#: inc/customize-configs/options-page.php:148
+msgid "Apply when the page display featured image as header cover."
+msgstr "ページがアイキャッチ画像をヘッダーカバーとして表示する場合に適用します。"
+
+#: inc/customize-configs/options-page.php:147
+msgid "Page Title Cover Alignment"
+msgstr "ページタイトルカバーの配置"
+
+#: inc/customize-configs/options-page.php:124
+msgid "Page Title Alignment"
+msgstr "ページタイトルの配置"
+
+#: inc/customize-configs/options-blog-posts.php:51
+msgid "Hide placeholder if the post thumbnail not exists."
+msgstr "投稿サムネイルが存在しない場合、プレースホルダーを非表示にします。"
+
+#: inc/customize-configs/options-blog-posts.php:49
+msgid "Hide thumbnail placeholder"
+msgstr "サムネイルプレースホルダーを非表示"
+
+#: inc/customize-configs/section-gallery.php:331
+msgid "Enable Image Link"
+msgstr "画像リンクを有効化"
+
+#: inc/customize-configs/section-gallery.php:171
+msgid "Select a page which have content contain [gallery] shortcode or gallery blocks."
+msgstr "本文内に[gallery] ショートコードまたはギャラリーブロックを含むページを選択します。"
+
+#: inc/customize-configs/options-colors.php:54
+msgid "Secondary Color"
+msgstr "サブカラー"
+
+#: inc/customize-configs/options-single.php:46
+msgid "Enter content max width number, e.g : 800"
+msgstr "コンテンツの最大幅を入力します。例: 800"
+
+#: inc/customize-configs/options-single.php:45
+msgid "Single Content Max Width"
+msgstr "個別コンテンツの最大幅"
+
+#: inc/customize-configs/options-single.php:30
+msgid "Right Sidebar"
+msgstr "右サイドバー"
+
+#: inc/customize-configs/options-single.php:28
+msgid "No Sidebar"
+msgstr "サイドバーなし"
+
+#: inc/customize-configs/options-single.php:24
+msgid "Single Layout Sidebar"
+msgstr "個別レイアウトのサイドバー"
+
+#: inc/customize-configs/options-blog-posts.php:32
+msgid "Disable archive prefix"
+msgstr "アーカイブ接頭辞を無効化"
+
+#: inc/class-sections-navigation.php:191
+msgid "Label Color"
+msgstr "ラベル色"
+
+#: inc/class-sections-navigation.php:171
+msgid "Label Background"
+msgstr "ラベル背景"
+
+#: inc/class-config.php:97
+msgid "Testimonials"
+msgstr "推薦文"
+
+#: inc/class-config.php:96
+msgid "Section: Testimonials"
+msgstr "セクション: 推薦文"
+
+#: inc/class-config.php:91
+msgid "Highlight Projects"
+msgstr "プロジェクトをハイライト"
+
+#: inc/class-config.php:90
+msgid "Section: Projects"
+msgstr "セクション: プロジェクト"
+
+#: inc/class-config.php:85
+msgid "Pricing Table"
+msgstr "価格表"
+
+#: inc/class-config.php:84
+msgid "Section: Pricing"
+msgstr "セクション: 価格表"
+
+#: inc/class-config.php:79
+msgid "Map"
+msgstr "地図"
+
+#: inc/class-config.php:78
+msgid "Section: Map"
+msgstr "セクション: 地図"
+
+#: inc/class-config.php:72
+msgid "Section: Call to Action"
+msgstr "セクション: CTA"
+
+#: inc/class-config.php:67
+msgid "Our Clients"
+msgstr "クライアント"
+
+#: inc/class-config.php:66
+msgid "Section: Clients"
+msgstr "セクション: クライアント"
+
+#: inc/class-config.php:59
+msgid "Section: Slider"
+msgstr "セクション: スライダー"
+
+#: inc/admin/dashboard.php:282
+msgid "Demo Import"
+msgstr "デモインポート"
+
+#: inc/admin/dashboard.php:276
+msgid "Overview"
+msgstr "概要"
+
+#: inc/admin/dashboard.php:212
+msgid "Disable (or enable) unused sections to improve Customizer loading speed. Your section settings is still saved."
+msgstr "未使用のセクションを無効 (または有効) にして、カスタマイザーの読み込み速度を向上させます。セクション設定は引き続き保存されます。"
+
+#: inc/admin/dashboard.php:211
+msgid "Customizer Section Manager"
+msgstr "カスタマイザーセクション管理"
+
+#: inc/admin/dashboard.php:202
+msgid "Settings saved"
+msgstr "設定を保存しました"
+
+#: inc/admin/dashboard.php:182
+msgid "Plus Feature"
+msgstr "Plus 版機能"
+
+#: functions.php:129
+msgid "Contact Form by WPForms"
+msgstr "Contact Form by WPForms"
+
+#: inc/extras.php:409
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "Y年n月j日"
+
+#: inc/extras.php:407
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "Y年n月"
+
+#: inc/extras.php:405
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y年"
+
+#: inc/customizer.php:31
+msgid "<h4 class=\"customizer-group-heading-message\">Advanced Section Styling</h4><p class=\"customizer-group-heading-message\">Check out the <a target=\"_blank\" href=\"https://www.famethemes.com/plugins/onepress-plus/?utm_source=theme_customizer&utm_medium=text_link&utm_campaign=onepress_customizer#get-started\">OnePress Plus</a> version for full control over the section styling which includes background color, image, video, parallax effect, custom style and more ...</p>"
+msgstr "<h4 class=\"customizer-group-heading-message\">高度なセクションのスタイリング</h4><p class=\"customizer-group-heading-message\"><a target=\"_blank\" href=\"//www.famethemes.com/plugins/onepress-plus/?utm_source=theme_customizer&utm_medium=text_link&utm_campaign=onepress_customizer#get-started\">OnePress Plus</a>バージョンで、背景色、画像、動画を含むセクションのスタイリングを完全に制御 、視差効果、カスタム スタイルなど ...</p>"
+
+#: inc/customize-configs/section-news.php:283
+msgid "Custom More News link"
+msgstr "カスタム追加ニュースリンク"
+
+#: inc/customize-configs/section-news.php:265
+msgid "More News Page"
+msgstr "追加ニュースページ"
+
+#: inc/customize-configs/section-news.php:150
+msgid "Full content"
+msgstr "完全なコンテンツ"
+
+#: inc/customize-configs/section-news.php:149
+msgid "Strip excerpt by more tag"
+msgstr ""
+
+#: inc/customize-configs/section-news.php:148
+msgid "Use excerpt metabox"
+msgstr "抜粋メタボックスを使う"
+
+#: inc/customize-configs/section-news.php:147
+msgid "Custom"
+msgstr "カスタム"
+
+#: inc/customize-configs/section-news.php:143
+#: inc/customize-configs/section-news.php:167
+msgid "Custom excerpt length"
+msgstr "カスタム抜粋の長さ"
+
+#: inc/customize-configs/section-news.php:125
+msgid "Hide post categories"
+msgstr "投稿カテゴリーを非表示"
+
+#: inc/customize-configs/options-sections-navigation.php:9
+msgid "Sections Navigation"
+msgstr "セクションナビゲーション"
+
+#: inc/customize-configs/options-blog-posts.php:34
+msgid "Check this to disable archive prefix on category, date, tag page."
+msgstr "カテゴリー、日付、タグページのアーカイブ接頭辞を無効化するには、ここにチェックを入れてください。"
+
+#: inc/customize-configs/options-blog-posts.php:15
+msgid "Blog Posts"
+msgstr "ブログ投稿"
+
+#: inc/class-sections-navigation.php:271
+msgid "Custom navigation label"
+msgstr "カスタムナビゲーションラベル"
+
+#: inc/class-sections-navigation.php:254
+msgid "Inverse dots color"
+msgstr "ドットの色を反転"
+
+#: inc/class-sections-navigation.php:151
+msgid "Dots inverse color"
+msgstr "ドットの反転色"
+
+#: inc/class-sections-navigation.php:130
+msgid "Dots color"
+msgstr "ドットの色"
+
+#: inc/class-sections-navigation.php:110
+msgid "By default navigation label is section title."
+msgstr ""
+
+#: inc/class-sections-navigation.php:109
+msgid "Enable navigation labels"
+msgstr "ナビゲーションラベルを有効化"
+
+#: inc/class-sections-navigation.php:75 inc/class-sections-navigation.php:237
+msgid "Enable in section navigation"
+msgstr ""
+
+#: inc/class-config.php:129
+msgid "Home"
+msgstr "ホーム"
+
+#: inc/admin/dashboard.php:315
+msgid "Create a support ticket"
+msgstr "サポートチケットを作成"
+
+#: inc/customize-configs/options-header.php:345
+msgid "Transparent Logo Height in Pixel"
+msgstr "ピクセル単位の透過ロゴの高さ"
+
+#: inc/customize-configs/section-hero.php:542
+msgid "Open Button #2 In New Window"
+msgstr ""
+
+#: inc/customize-configs/section-hero.php:476
+msgid "Open Button #1 In New Window"
+msgstr ""
+
+#: inc/metabox.php:175
+msgid "Apply header cover settings for single product."
+msgstr ""
+
+#: inc/admin/dashboard.php:436
+msgid "Keep %s updated"
+msgstr "%s を最新に保つ"
+
+#: inc/admin/dashboard.php:356
+msgid "Your settings were copied."
+msgstr "設定をコピーしました。"
+
+#: inc/metabox.php:166
+msgid "Hide footer."
+msgstr "フッターを非表示にする。"
+
+#: inc/metabox.php:155
+msgid "Display page excerpt as header cover description."
+msgstr ""
+
+#: inc/metabox.php:149
+msgid "Display featured image as header cover."
+msgstr ""
+
+#: inc/metabox.php:143
+msgid "Hide page title area."
+msgstr "ページタイトルエリアを非表示。"
+
+#: inc/metabox.php:138
+msgid "Hide header."
+msgstr "ヘッダーを非表示にする。"
+
+#: inc/metabox.php:161
+msgid "Hide breadcrumb."
+msgstr "パンくずリストを非表示にする。"
+
+#: inc/customize-configs/options-header.php:179
+msgid "Only set if display site tagline."
+msgstr ""
+
+#: inc/customize-configs/options-header.php:177
+msgid "Site Tagline Color"
+msgstr "サイトキャッチフレーズの色"
+
+#. Template Name of the theme
+msgid "Full Width - Contained Content"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Full Width - Stretched Content"
+msgstr ""
+
+#. translators: 1: feature name
+#: inc/sanitize.php:287
+msgid "Upgrade to %1s to unlock this feature."
+msgstr ""
+
+#: inc/metabox.php:38
+msgid "Page Settings"
+msgstr "ページ設定"
+
+#: inc/admin/dashboard.php:645
+msgid "Get OnePress Plus now!"
+msgstr "OnePress Plus を今すぐ入手 !"
+
+#: inc/admin/dashboard.php:280
+msgid "Free vs PLUS"
+msgstr "無料版と PLUS 版の違い"
+
+#: inc/admin/dashboard.php:277
+msgid "Recommended Actions"
+msgstr "推奨アクション"
+
+#: inc/customize-configs/section-upsell.php:38
+msgid "OnePress Plus Available! Take a look"
+msgstr ""
+
+#: inc/customize-configs/section-upsell.php:28
+msgid "<h4 class=\"customizer-group-heading-message\">Drag &amp; Drop Section Orders</h4><p class=\"customizer-group-heading-message\">Check out the <a target=\"_blank\" href=\"https://www.famethemes.com/plugins/onepress-plus/?utm_source=theme_customizer&utm_medium=text_link&utm_campaign=onepress_customizer#get-started\">OnePress Plus</a> version for full control over the frontpage SECTIONS ORDER!</p><h4 class=\"customizer-group-heading-message\">Advanced Section Styling</h4><p class=\"customizer-group-heading-message\">Check out the <a target=\"_blank\" href=\"https://www.famethemes.com/plugins/onepress-plus/?utm_source=theme_customizer&utm_medium=text_link&utm_campaign=onepress_customizer#get-started\">OnePress Plus</a> version for full control over the section styling which includes background color, image, video, parallax effect, custom style and more ...</p>"
+msgstr ""
+
+#: inc/customize-configs/section-news.php:247
+msgid "Ascending"
+msgstr "昇順"
+
+#: inc/customize-configs/section-news.php:246
+msgid "Descending"
+msgstr "降順"
+
+#: inc/customize-configs/section-news.php:242
+msgid "Order"
+msgstr "順序"
+
+#: inc/customize-configs/section-news.php:227
+msgid "Random order"
+msgstr "ランダム順"
+
+#: inc/customize-configs/section-news.php:226
+msgid "Order by Page Order"
+msgstr ""
+
+#: inc/customize-configs/section-news.php:225
+msgid "Comment Count"
+msgstr "コメント数"
+
+#: inc/customize-configs/section-news.php:224
+msgid "Date"
+msgstr "日付"
+
+#: inc/customize-configs/section-news.php:222
+msgid "Author"
+msgstr "投稿者"
+
+#: inc/customize-configs/section-news.php:221
+msgid "ID"
+msgstr "ID"
+
+#: inc/customize-configs/options-single.php:27
+#: inc/customize-configs/section-news.php:220
+msgid "Default"
+msgstr "デフォルト"
+
+#: inc/customize-configs/section-news.php:216
+msgid "Order By"
+msgstr "並び順"
+
+#: inc/customize-configs/section-news.php:200
+msgid "Category to show"
+msgstr "表示するカテゴリー"
+
+#: inc/customize-configs/section-services.php:214
+msgid "1x"
+msgstr "1倍"
+
+#: inc/customize-configs/section-services.php:213
+msgid "2x"
+msgstr "2倍"
+
+#: inc/customize-configs/section-services.php:212
+msgid "3x"
+msgstr "3倍"
+
+#: inc/customize-configs/section-services.php:211
+msgid "4x"
+msgstr "4倍"
+
+#: inc/customize-configs/section-services.php:210
+msgid "5x"
+msgstr "5倍"
+
+#: inc/customize-configs/section-services.php:205
+msgid "Icon Size"
+msgstr "アイコンサイズ"
+
+#: inc/customize-configs/section-about.php:112
+msgid "Layout Settings"
+msgstr "レイアウト設定"
+
+#: inc/customize-configs/section-hero.php:393
+msgid "Rotating Text Background"
+msgstr "ローテーションテキストの背景"
+
+#: inc/customize-configs/section-hero.php:378
+msgid "Rotating Text Color"
+msgstr "ローテーションテキストの色"
+
+#: inc/customize-configs/section-hero.php:354
+msgid "We are <span class=\"js-rotating\">OnePress | One Page | Responsive | Perfection</span>"
+msgstr "We are <span class=\"js-rotating\">OnePress | One Page | Responsive | Perfection</span>"
+
+#: inc/customize-configs/section-hero.php:311
+msgid "Want to add <strong>background video</strong> for hero section? Upgrade to <a target=\"_blank\" href=\"https://www.famethemes.com/plugins/onepress-plus/?utm_source=theme_customizer&utm_medium=text_link&utm_campaign=onepress_customizer#get-started\">OnePress Plus</a> version."
+msgstr ""
+
+#: inc/customize-configs/section-hero.php:81
+msgid "Disable Preload Icon"
+msgstr "事前読み込みアイコンを無効化"
+
+#: inc/customize-configs/options-footer.php:334
+msgid "Footer Copyright"
+msgstr "フッターの著作権"
+
+#: inc/customize-configs/options-footer.php:322
+#: inc/customize-configs/options-footer.php:388
+msgid "Link Hover Color"
+msgstr "マウスオーバー時のリンク色"
+
+#: inc/customize-configs/options-footer.php:306
+#: inc/customize-configs/options-footer.php:375
+msgid "Link Color"
+msgstr "リンク色"
+
+#: inc/customize-configs/options-footer.php:289
+msgid "Widget Title Color"
+msgstr "ウィジェットタイトルの色"
+
+#: inc/customize-configs/options-footer.php:240
+msgid "Enter int numbers and sum of them must smaller or equal 12, separated by \"+\""
+msgstr ""
+
+#. translators: 1: col name
+#: inc/customize-configs/options-footer.php:238
+msgid "Custom footer %s columns width"
+msgstr ""
+
+#: inc/customize-configs/options-footer.php:236
+msgid "Custom footer 1 column width"
+msgstr ""
+
+#: inc/customize-configs/options-footer.php:212
+msgid "Disable footer widgets"
+msgstr "フッターウィジェットの無効化"
+
+#: inc/customize-configs/options-footer.php:206
+msgid "Number footer columns to display."
+msgstr "表示するフッターカラムの数。"
+
+#: inc/customize-configs/options-footer.php:186
+msgid "Footer Widgets"
+msgstr "フッターウィジェット"
+
+#: inc/customize-configs/options-footer.php:174
+#: inc/customize-configs/options-footer.php:256
+#: inc/customize-configs/options-footer.php:362
+msgid "Text Color"
+msgstr "文字色"
+
+#: inc/customize-configs/options-footer.php:78
+#: inc/customize-configs/section-about.php:159
+#: inc/customize-configs/section-counter.php:131
+#: inc/customize-configs/section-features.php:156
+#: inc/customize-configs/section-services.php:158
+#: inc/customize-configs/section-team.php:153
+msgid "Upgrade to <a target=\"_blank\" href=\"https://www.famethemes.com/plugins/onepress-plus/?utm_source=theme_customizer&utm_medium=text_link&utm_campaign=onepress_customizer#get-started\">OnePress Plus</a> to be able to add more items and unlock other premium features!"
+msgstr "さらに項目を追加したり、他のプレミアム機能を利用するには、<a target=\"_blank\" href=\"https://www.famethemes.com/plugins/onepress-plus/?utm_source=theme_customizer&utm_medium=text_link&utm_campaign=onepress_customizer#get-started\">OnePress Plus</a> にアップグレードしてください。"
+
+#: inc/customize-configs/options-footer.php:6
+msgid "Footer Socials"
+msgstr "フッターソーシャル"
+
+#: inc/customize-configs/options-page.php:129
+#: inc/customize-configs/options-page.php:154
+msgid "Right"
+msgstr "右"
+
+#: inc/customize-configs/options-page.php:128
+#: inc/customize-configs/options-page.php:153
+msgid "Left"
+msgstr "左"
+
+#: inc/customize-configs/options-page.php:130
+#: inc/customize-configs/options-page.php:152
+msgid "Center"
+msgstr "中央"
+
+#: inc/customize-configs/options-page.php:83
+msgid "Color"
+msgstr "色"
+
+#: inc/customize-configs/options-page.php:65
+msgid "The page cover padding bottom in percent (%)."
+msgstr "ページカバーの下余白 (%)。"
+
+#: inc/customize-configs/options-page.php:64
+msgid "Padding Bottom"
+msgstr "下部余白"
+
+#: inc/customize-configs/options-page.php:48
+msgid "The page cover padding top in percent (%)."
+msgstr "ページカバーの上余白 (%)。"
+
+#: inc/customize-configs/options-page.php:47
+msgid "Padding Top"
+msgstr "上余白"
+
+#: inc/customize-configs/options-page.php:32
+msgid "Check this box to disable the page title bar on all pages."
+msgstr "すべてのページでページタイトルバーを無効化するには、ここにチェックを入れてください。"
+
+#: inc/customize-configs/options-page.php:30
+msgid "Disable Page Title bar?"
+msgstr "ページのタイトルバーを無効化しますか ?"
+
+#: inc/customize-configs/options-page.php:12
+msgid "Page Title Area"
+msgstr "ページタイトルエリア"
+
+#: inc/customize-configs/options-navigation.php:22
+msgid "Padding left and right for Navigation items (pixels)."
+msgstr ""
+
+#: inc/customize-configs/options-navigation.php:21
+msgid "Menu Item Padding"
+msgstr "メニュー項目の余白"
+
+#: inc/customize-configs/options-navigation.php:7
+msgid "Navigation"
+msgstr "ナビゲーション"
+
+#: inc/customize-configs/options-header.php:382
+msgid "Transparent Site Tagline Color"
+msgstr "透過サイトキャッチフレーズ色"
+
+#: inc/customize-configs/options-header.php:363
+msgid "Transparent Site Title Color"
+msgstr "透過サイトタイトル色"
+
+#: inc/customize-configs/options-header.php:325
+msgid "Transparent Retina Logo"
+msgstr "透過 Retiana ロゴ"
+
+#: inc/customize-configs/options-header.php:306
+#: inc/customize-configs/options-header.php:326
+msgid "Only apply when transparent header option is checked."
+msgstr ""
+
+#: inc/customize-configs/options-header.php:304
+msgid "Transparent Logo"
+msgstr "透過ロゴ"
+
+#: inc/customize-configs/options-header.php:60
+msgid "Below Hero Slider"
+msgstr "ヒーロースライダーの下"
+
+#: inc/customize-configs/options-header.php:59
+msgid "Top"
+msgstr "トップ"
+
+#: inc/customize-configs/options-header.php:56
+msgid "Header Position"
+msgstr "ヘッダーの位置"
+
+#: inc/customize-configs/options-header.php:36
+msgid "Contained"
+msgstr "コンテンツ幅に合わせる"
+
+#: inc/customize-configs/options-header.php:32
+msgid "Header Width"
+msgstr "ヘッダーの幅"
+
+#: inc/customize-configs/options-global.php:83
+msgid "Check this if you want to disable default google fonts in theme."
+msgstr "テーマ内のデフォルト Google フォントを無効化するにはここにチェックを入れてください。"
+
+#: inc/customize-configs/options-global.php:81
+msgid "Disable Google Fonts"
+msgstr "Google フォントを無効化"
+
+#: inc/customize-configs/site-identity.php:70
+msgid "Logo Height In Pixel"
+msgstr "ピクセル単位のロゴの高さ"
+
+#: inc/customize-configs/site-identity.php:52
+msgid "Retina Logo"
+msgstr "Retina 用ロゴ"
+
+#: inc/customize-controls/control-category.php:28
+msgid "All"
+msgstr "すべて"
+
+#. translators: 1: widget number
+#: functions.php:256
+msgid "Footer %s"
+msgstr "フッター %s"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:34
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgstr "「%2$s」への1件のフィードバック"
+
+#: inc/customize-configs/options-single.php:79
+msgid "Check this box to show single post meta such as post date, author, category,..."
+msgstr ""
+
+#: inc/customize-configs/options-single.php:77
+msgid "Show single post meta"
+msgstr "個別投稿メタ情報を表示"
+
+#: inc/customize-configs/options-single.php:64
+msgid "Check this box to show post thumbnail on single post."
+msgstr "個別投稿で投稿サムネイルを表示するには、ここにチェックを入れてください。"
+
+#: inc/customize-configs/options-single.php:62
+msgid "Show single post thumbnail"
+msgstr "個別投稿サムネイルを表示"
+
+#: inc/customize-configs/options-single.php:8
+msgid "Single Post"
+msgstr "個別投稿"
+
+#: inc/customize-configs/section-hero.php:203
+msgid "The amount of time in between slides, expressed as the number of milliseconds."
+msgstr ""
+
+#: inc/customize-configs/section-hero.php:202
+msgid "Slider duration speed"
+msgstr "スライダー存続速度"
+
+#: inc/customize-configs/section-hero.php:186
+msgid "This is the speed at which the image will fade in. Integers in milliseconds are accepted."
+msgstr ""
+
+#: inc/customize-configs/section-hero.php:185
+msgid "Slider animation speed"
+msgstr "スライダーのアニメーション速度"
+
+#: inc/customize-configs/section-hero.php:167
+msgid "Text animation speed"
+msgstr "テキストのアニメーション速度"
+
+#: inc/admin/dashboard.php:335
+msgid "Child theme uses it's own theme setting name, would you like to copy setting data from parent theme to this child theme?"
+msgstr ""
+
+#: inc/customizer.php:209
+msgid "Font Awesome"
+msgstr "Font Awesome"
+
+#: inc/customizer.php:205
+msgid "Search"
+msgstr "検索"
+
+#: inc/admin/dashboard.php:725
+msgid "Are you sure you want to copy?"
+msgstr "本当にコピーしてもよろしいですか ?"
+
+#: inc/admin/dashboard.php:374
+msgid "Recommend Plugins"
+msgstr "おすすめのプラグイン"
+
+#: inc/admin/dashboard.php:353
+msgid "Copy now"
+msgstr "今すぐコピー"
+
+#: inc/admin/dashboard.php:345
+msgid "To Theme"
+msgstr "テーマへ"
+
+#: inc/admin/dashboard.php:339
+msgid "From Theme"
+msgstr "テーマから"
+
+#: inc/admin/dashboard.php:333
+msgid "You're using %1$s theme, It's a child theme of OnePress"
+msgstr ""
+
+#: inc/admin/dashboard.php:793
+msgid "Details"
+msgstr "詳細"
+
+#: inc/admin/dashboard.php:150
+msgid "Import Demo Data"
+msgstr "デモデータをインポート"
+
+#: inc/admin/dashboard.php:150
+msgid "Save time by import our demo data, your website will be set up and ready to customize in minutes. %s"
+msgstr "デモデータをインポートして時間を節約すれば、ウェブサイトがセットアップされ、数分でカスタマイズする準備ができます。 %s"
+
+#: inc/customize-configs/section-gallery.php:366
+msgid "Read More Text"
+msgstr "「続きを読む」テキスト"
+
+#: inc/customize-configs/section-gallery.php:360
+#: section-parts/section-gallery.php:37
+msgid "View More"
+msgstr "さらに表示"
+
+#: inc/customize-configs/section-gallery.php:349
+msgid "Read More Link"
+msgstr "「続きを読む」リンク"
+
+#: inc/customize-configs/options-global.php:31
+msgid "No sidebar"
+msgstr "サイドバーなし"
+
+#: inc/customize-configs/options-global.php:30
+msgid "Left sidebar"
+msgstr "左サイドバー"
+
+#: inc/customize-configs/options-global.php:29
+msgid "Right sidebar"
+msgstr "右サイドバー"
+
+#: inc/customize-configs/options-global.php:26
+msgid "Site Layout, apply for all pages, exclude home page and custom page templates."
+msgstr "サイトレイアウト、すべてのページに適用、ホームページとカスタムページテンプレートを除外します。"
+
+#: inc/customize-configs/options-global.php:25
+msgid "Site Layout"
+msgstr "サイトのレイアウト"
+
+#: functions.php:133
+msgid "Famethemes Demo Importer"
+msgstr "Famethemes Demo Importer"
+
+#: functions.php:241
+msgid "WooCommerce Sidebar"
+msgstr "WooCommerce サイドバー"
+
+#: inc/customize-configs/section-about.php:120
+#: inc/customize-configs/section-services.php:120
+msgid "1 Column"
+msgstr "1 カラム"
+
+#: inc/customize-configs/section-gallery.php:313
+msgid "Enable Lightbox"
+msgstr "Lightbox を有効にする"
+
+#: inc/customize-configs/section-gallery.php:297
+msgid "Number items"
+msgstr "項目数"
+
+#: inc/customize-configs/section-gallery.php:270
+msgid "Layout columns"
+msgstr "カラムのレイアウト"
+
+#: inc/customize-configs/section-gallery.php:252
+msgid "Row Height"
+msgstr "行の高さ"
+
+#: inc/customize-configs/section-gallery.php:234
+msgid "Item Spacing"
+msgstr "アイテムの間隔"
+
+#: inc/customize-configs/section-gallery.php:218
+msgid "Masonry"
+msgstr "Masonry"
+
+#: inc/customize-configs/section-gallery.php:217
+msgid "Justified"
+msgstr "均等割付"
+
+#: inc/class-config.php:60 inc/customize-configs/section-gallery.php:216
+msgid "Slider"
+msgstr "スライダー"
+
+#: inc/customize-configs/section-gallery.php:215
+msgid "Carousel"
+msgstr "カルーセル"
+
+#: inc/customize-configs/section-gallery.php:214
+msgid "Grid"
+msgstr "グリッド"
+
+#: inc/customize-configs/section-gallery.php:209
+msgid "Display"
+msgstr "表示"
+
+#: inc/customize-configs/section-gallery.php:192
+msgid "Default, inside container"
+msgstr "デフォルト、コンテナ内"
+
+#: inc/customize-configs/options-footer.php:203
+#: inc/customize-configs/section-gallery.php:187
+msgid "Layout"
+msgstr "レイアウト"
+
+#: inc/customize-configs/section-gallery.php:166
+msgid "Select Gallery Page"
+msgstr "ギャラリーページを選択"
+
+#: inc/customize-configs/section-gallery.php:147
+msgid "Page"
+msgstr "固定ページ"
+
+#: inc/customize-configs/section-gallery.php:142
+msgid "Select Gallery Source"
+msgstr "ギャラリーソースを選択"
+
+#: inc/class-config.php:160 inc/customize-configs/section-gallery.php:68
+#: section-parts/section-gallery.php:4
+msgid "Gallery"
+msgstr "ギャラリー"
+
+#: inc/customize-configs/section-gallery.php:51
+msgid "gallery"
+msgstr "ギャラリー"
+
+#: inc/class-config.php:159 inc/customize-configs/section-gallery.php:12
+msgid "Section: Gallery"
+msgstr "セクション: ギャラリー"
+
+#: inc/customize-configs/options-header.php:116
+msgid "Scroll to top when click to the site logo or site title, only apply on front page."
+msgstr ""
+
+#: inc/admin/dashboard.php:706
+msgid "FameThemes Demo Importer"
+msgstr "FameThemes デモインポーター"
+
+#: inc/admin/dashboard.php:705
+msgid "Hey."
+msgstr " "
+
+#: inc/admin/dashboard.php:701
+msgid "%1$s you will need to install and activate the %2$s plugin first."
+msgstr ""
+
+#: inc/admin/dashboard.php:684 inc/admin/dashboard.php:773
+msgid "Active Now"
+msgstr "今すぐ有効化"
+
+#: inc/admin/dashboard.php:663 inc/admin/dashboard.php:752
+msgid "Install Now"
+msgstr "今すぐインストール"
+
+#: inc/customize-configs/section-hero.php:519
+msgid "Button #2 style"
+msgstr "ボタン #2 スタイル"
+
+#: inc/customize-configs/section-news.php:297
+msgid "More News Button Text"
+msgstr "もっとニュースを読むボタンのテキスト"
+
+#: inc/customize-configs/section-news.php:268
+msgid "It should be your blog page link."
+msgstr "ブログページのリンクにしてください。"
+
+#: inc/customize-configs/section-hero.php:464
+#: inc/customize-configs/section-hero.php:530
+msgid "Danger"
+msgstr "危険"
+
+#: inc/customize-configs/section-hero.php:463
+#: inc/customize-configs/section-hero.php:529
+msgid "Warning"
+msgstr "警告"
+
+#: inc/customize-configs/section-hero.php:462
+#: inc/customize-configs/section-hero.php:528
+msgid "Info"
+msgstr "情報"
+
+#: inc/customize-configs/section-hero.php:461
+#: inc/customize-configs/section-hero.php:527
+msgid "Success"
+msgstr "成功"
+
+#: inc/customize-configs/section-hero.php:460
+#: inc/customize-configs/section-hero.php:526
+msgid "Primary"
+msgstr "メイン"
+
+#: inc/customize-configs/section-hero.php:459
+#: inc/customize-configs/section-hero.php:525
+msgid "Button"
+msgstr "ボタン"
+
+#: inc/customize-configs/section-hero.php:458
+#: inc/customize-configs/section-hero.php:524
+msgid "Button Secondary"
+msgstr "サブボタン"
+
+#: inc/customize-configs/section-hero.php:457
+#: inc/customize-configs/section-hero.php:523
+msgid "Button Primary"
+msgstr "メインボタン"
+
+#: inc/customize-configs/section-hero.php:453
+msgid "Button #1 style"
+msgstr "ボタン #1 スタイル"
+
+#: inc/customize-configs/section-hero.php:113
+msgid "The hero content padding bottom in percent (%)."
+msgstr "ヒーローコンテンツの下の余白 (％で指定)"
+
+#: inc/customize-configs/section-hero.php:97
+msgid "The hero content padding top in percent (%)."
+msgstr "ヒーローコンテンツの上の余白 (％で指定)"
+
+#: inc/customize-configs/section-hero.php:168
+msgid "The delay between the changing of each phrase in milliseconds."
+msgstr "フレーズごとの変化の間隔をミリ秒で指定"
+
+#: inc/customize-configs/options-footer.php:147
+msgid "The newsletter form use MailChimp, please follow <a target=\"_blank\" href=\"https://mailchimp.com/help/host-your-own-signup-forms/\">this guide</a> to know how to get MailChimp Action URL. Example <i>//famethemes.us8.list-manage.com/subscribe/post?u=521c400d049a59a4b9c0550c2&amp;id=83187e0006</i>"
+msgstr "ニュースレターフォームには MailChimp を使用しています。<a target=\"_blank\" href=\"https://mailchimp.com/help/host-your-own-signup-forms/\">ガイド</a>に従って、MailChimp アクション URL の取得方法を確認してください。例: <i>//famethemes.us8.list-manage.com/subscribe/post?u=521c400d049a59a4b9c0550c2&amp;id=83187e0006</i>"
+
+#: inc/customize-configs/site-identity.php:32
+msgid "Hide site tagline"
+msgstr "サイトのキャッチフレーズを非表示にする"
+
+#: inc/customize-configs/site-identity.php:17
+msgid "Hide site title"
+msgstr "サイトタイトルを非表示にする"
+
+#: inc/customize-configs/section-features.php:167
+#: inc/customize-configs/section-services.php:165
+msgid "image"
+msgstr "画像"
+
+#: inc/customize-configs/section-hero.php:148
+msgid "Text animation"
+msgstr "テキストアニメーション"
+
+#: inc/admin/dashboard.php:109
+msgid "OnePress Theme %s"
+msgstr "OnePress テーマ %s"
+
+#: inc/admin/dashboard.php:107
+msgid "%1$s action required"
+msgid_plural "%1$s actions required"
+msgstr[0] "%1$s件のアクションが必要です"
+
+#: inc/customize-configs/options.php:26 inc/customize-configs/options.php:44
+msgid "Custom CSS"
+msgstr "カスタム CSS"
+
+#: section-parts/section-features.php:5
+msgid "Why choose Us"
+msgstr "選ばれる理由"
+
+#: inc/customize-configs/section-services.php:112
+msgid "Services Layout Settings"
+msgstr "サービスレイアウト設定"
+
+#: inc/customize-configs/section-features.php:185
+#: inc/customize-configs/section-news.php:267
+#: inc/customize-configs/section-team.php:161
+msgid "Custom Link"
+msgstr "カスタムリンク"
+
+#: inc/customize-configs/section-features.php:181
+msgid "Description"
+msgstr "説明"
+
+#: inc/customize-configs/section-features.php:150
+msgid "Features content"
+msgstr "注目コンテンツ"
+
+#: inc/customize-configs/section-features.php:111
+msgid "Features Layout Setting"
+msgstr "「注目」レイアウト設定"
+
+#: inc/class-config.php:154 inc/customize-configs/section-features.php:58
+#: section-parts/section-features.php:4
+msgid "Features"
+msgstr "注目"
+
+#: inc/customize-configs/section-features.php:43
+msgid "features"
+msgstr "features"
+
+#: inc/class-config.php:153 inc/customize-configs/section-features.php:8
+msgid "Section: Features"
+msgstr "セクション: 注目"
+
+#: inc/customize-configs/section-about.php:95
+#: inc/customize-configs/section-contact.php:95
+#: inc/customize-configs/section-counter.php:94
+#: inc/customize-configs/section-features.php:95
+#: inc/customize-configs/section-gallery.php:110
+#: inc/customize-configs/section-news.php:95
+#: inc/customize-configs/section-services.php:95
+#: inc/customize-configs/section-team.php:94
+msgid "Section Description"
+msgstr "セクション説明"
+
+#: inc/customize-configs/section-features.php:176
+#: inc/customize-configs/section-hero.php:581
+#: inc/customize-configs/section-services.php:174
+msgid "Image"
+msgstr "画像"
+
+#: inc/customize-configs/section-hero.php:563
+msgid "Content Text"
+msgstr "本文"
+
+#: inc/customize-configs/section-hero.php:343
+msgid "Layout 2"
+msgstr "レイアウト2"
+
+#: inc/customize-configs/section-hero.php:342
+msgid "Layout 1"
+msgstr "レイアウト1"
+
+#: inc/customize-configs/section-hero.php:337
+msgid "Display Layout"
+msgstr "表示レイアウト"
+
+#: inc/customize-configs/options-footer.php:89
+msgid "URL"
+msgstr "URL"
+
+#: inc/customize-configs/options-footer.php:85
+#: inc/customize-configs/section-features.php:166
+#: inc/customize-configs/section-features.php:171
+#: inc/customize-configs/section-services.php:164
+#: inc/customize-configs/section-services.php:169
+msgid "Icon"
+msgstr "アイコン"
+
+#: inc/customize-configs/options-footer.php:81
+msgid "Social network"
+msgstr "SNS"
+
+#: inc/customize-configs/options-footer.php:72
+msgid "Socials"
+msgstr "ソーシャル"
+
+#: inc/customize-configs/options-header.php:286
+msgid "Apply for front page template only."
+msgstr "フロントページテンプレートでのみ適用します。"
+
+#: inc/customize-configs/options-header.php:284
+msgid "Header Transparent"
+msgstr "ヘッダーの透過"
+
+#: inc/template-tags.php:1946
+msgid "Subscribe"
+msgstr "購読"
+
+#: inc/template-tags.php:1945
+msgid "Enter your e-mail address"
+msgstr "メールアドレスを入力してください"
+
+#: inc/admin/dashboard.php:313
+msgid "Support for %s WordPress theme is conducted through FameThemes support ticket system."
+msgstr "WordPress テーマ %s のサポートは、FameThemes のサポートチケットシステムを通じて行われます。"
+
+#: inc/admin/dashboard.php:307
+msgid "OnePress Documentation"
+msgstr "OnePress ドキュメンテーション"
+
+#: inc/customize-configs/section-about.php:119
+#: inc/customize-configs/section-features.php:118
+#: inc/customize-configs/section-services.php:119
+#: inc/customize-configs/section-team.php:117
+msgid "2 Columns"
+msgstr "2カラム"
+
+#: inc/customize-configs/section-about.php:118
+#: inc/customize-configs/section-features.php:117
+#: inc/customize-configs/section-services.php:118
+#: inc/customize-configs/section-team.php:116
+msgid "3 Columns"
+msgstr "3コラム"
+
+#: inc/customize-configs/section-about.php:117
+#: inc/customize-configs/section-features.php:116
+#: inc/customize-configs/section-services.php:117
+#: inc/customize-configs/section-team.php:115
+msgid "4 Columns"
+msgstr "4コラム"
+
+#: inc/customize-configs/section-team.php:110
+msgid "Team Layout Settings"
+msgstr "チームのレイアウト設定"
+
+#: inc/customize-configs/section-about.php:196
+#: inc/customize-configs/section-features.php:210
+#: inc/customize-configs/section-services.php:235
+msgid "Page Excerpt"
+msgstr "抜粋"
+
+#: inc/customize-configs/section-about.php:195
+#: inc/customize-configs/section-features.php:209
+#: inc/customize-configs/section-services.php:234
+msgid "Full Page Content"
+msgstr "全幅コンテンツ"
+
+#: inc/customize-configs/section-about.php:190
+#: inc/customize-configs/section-features.php:204
+#: inc/customize-configs/section-services.php:229
+msgid "Item content source"
+msgstr "項目の取得方法"
+
+#: inc/customize-configs/section-about.php:153
+msgid "About content page"
+msgstr "アバウトコンテンツページ"
+
+#: inc/customize-configs/section-hero.php:293
+msgid "Enable parallax effect (apply for first BG image only)"
+msgstr "パララックス効果を有効にする (最初の背景画像のみ適用)"
+
+#: inc/customize-configs/options-header.php:99
+msgid "If you use logo and your logo is too tall, check this box to auto vertical align menu."
+msgstr "ロゴを使用していてロゴの縦幅が高すぎる場合は、このボックスにチェックを入れてメニューを自動で垂直方向に揃えてください。"
+
+#: inc/customize-configs/options-header.php:97
+msgid "Center vertical align for menu"
+msgstr "メニューを中央揃えにする"
+
+#: inc/customize-configs/options-header.php:262
+msgid "Responsive Menu Button Color"
+msgstr "レスポンシブメニューボタンの色"
+
+#: inc/customize-configs/options-header.php:241
+msgid "Menu Link Hover/Active BG Color"
+msgstr "メニューリンクのホバー/アクティブ時の背景色"
+
+#: inc/customize-configs/options-header.php:219
+msgid "Menu Link Hover/Active Color"
+msgstr "メニューリンクのホバー/アクティブ時の色"
+
+#: inc/customize-configs/options-header.php:198
+msgid "Menu Link Color"
+msgstr "メニューリンク色"
+
+#: inc/customize-configs/options-header.php:159
+msgid "Only set if you don't use an image logo."
+msgstr "画像ロゴを使用しない場合のみ設定します。"
+
+#: inc/customize-configs/options-header.php:157
+msgid "Site Title Color"
+msgstr "サイトタイトルの色"
+
+#: inc/customize-configs/options-footer.php:272
+#: inc/customize-configs/options-header.php:135
+msgid "Background Color"
+msgstr "背景色"
+
+#: inc/customize-configs/options-header.php:12
+msgid "Header"
+msgstr "ヘッダー"
+
+#: inc/customize-configs/options-colors.php:28
+msgid "Primary Color"
+msgstr "メインカラー"
+
+#: inc/customize-configs/options-colors.php:9
+msgid "Site Colors"
+msgstr "サイト配色"
+
+#: inc/customize-configs/section-team.php:156
+msgid "User media"
+msgstr "ユーザメディア"
+
+#: inc/customize-configs/section-videolightbox.php:98
+msgid "Background image"
+msgstr "背景画像"
+
+#: inc/customize-configs/section-videolightbox.php:83
+msgid "Paste Youtube or Vimeo url here"
+msgstr "YouTube または Vimeo の URL を貼り付けます"
+
+#: inc/customize-configs/section-videolightbox.php:81
+msgid "Video url"
+msgstr "動画 URL"
+
+#: inc/customize-configs/section-videolightbox.php:66
+msgid "Section heading"
+msgstr "セクションの見出し"
+
+#: inc/class-config.php:183 inc/customize-configs/section-videolightbox.php:8
+msgid "Section: Video Lightbox"
+msgstr "セクション: ビデオライトボックス"
+
+#: inc/admin/dashboard.php:437
+msgid "Hooray! There are no required actions for you right now."
+msgstr "今のところ必要な作業はありません。"
+
+#: inc/admin/dashboard.php:427
+msgid "Change homepage page template"
+msgstr "トップページのページテンプレートを変更"
+
+#: inc/admin/dashboard.php:413
+msgid "In order to change homepage section contents, you will need to set template \"Frontpage\" for your homepage."
+msgstr "ホームページのセクション内容を変更するには、ホームページのテンプレートを「フロントページ」に設定します。"
+
+#: inc/admin/dashboard.php:410
+msgid "Set your homepage page template to \"Frontpage\"."
+msgstr "トップページのページテンプレートを「フロントページ」に設定します。"
+
+#: inc/admin/dashboard.php:396 inc/admin/dashboard.php:420
+msgid "Setup front page displays"
+msgstr "フロントページの表示設定"
+
+#: inc/admin/dashboard.php:393
+msgid "In order to have the one page look for your website, please go to Customize -&gt; Static Front Page and switch \"Front page displays\" to \"A static page\"."
+msgstr "サイトを1ページ表示にするには、「カスタマイズ」>「固定フロントページ」で、「フロントページ表示」を「固定ページ」に切り替えます。"
+
+#: inc/admin/dashboard.php:391
+msgid "Switch \"Front page displays\" to \"A static page\""
+msgstr "「フロントページ表示」を「固定ページ」に切り替える"
+
+#: inc/admin/dashboard.php:384 inc/admin/dashboard.php:403
+msgid "Dismiss"
+msgstr "非表示"
+
+#: inc/admin/dashboard.php:269
+msgid "Welcome to OnePress - Version %1s"
+msgstr "OnePress バージョン%1sへようこそ。"
+
+#. translators: 1: name, 2: link
+#: inc/admin/dashboard.php:135
+msgid "Welcome! Thank you for choosing %1$s! To fully take advantage of the best our theme can offer please make sure you visit our <a href=\"%2$s\">Welcome page</a>"
+msgstr "ようこそ。％1$s をお選びいただきありがとうございます。テーマが提供する利益を享受するために、必ず<a href=\"%2$s\">ウェルカムページ</a>をご覧ください・"
+
+#: inc/admin/dashboard.php:111
+msgid "OnePress Theme"
+msgstr "OnePress テーマ"
+
+#: inc/admin/dashboard.php:114
+msgid "OnePress Dashboard"
+msgstr "OnePress ダッシュボード"
+
+#: inc/customize-configs/options-page.php:102
+#: inc/customize-configs/section-hero.php:274
+msgid "Background Overlay Color"
+msgstr "背景に重ねる色"
+
+#: inc/customize-configs/section-upsell.php:13
+msgid "Section Order & Styling"
+msgstr "セクションの順序とスタイリング"
+
+#: inc/customize-configs/options-header.php:80
+msgid "Check this box to disable sticky header when scroll."
+msgstr "スクロール時の固定ヘッダーを無効にするには、チェックします。"
+
+#: inc/customize-configs/options-header.php:78
+msgid "Disable Sticky Header?"
+msgstr "ヘッダーの固定表示を無効化しますか ?"
+
+#. Template Name of the theme
+#: inc/customize-configs/options-single.php:29
+msgid "Left Sidebar"
+msgstr "左サイドバー"
+
+#: inc/customize-configs/options-header.php:35
+#: inc/customize-configs/section-gallery.php:193
+msgid "Full Width"
+msgstr "全幅"
+
+#. Template Name of the theme
+msgid "Frontpage"
+msgstr "フロントページ"
+
+#: template-parts/content-none.php:27
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "お探しのコンテンツを見つけられませんでした。検索をお試しください。"
+
+#: template-parts/content-none.php:22
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "検索キーワードに一致するものが見つかりませんでした。 別のキーワードで試してみてください。"
+
+#: template-parts/content-none.php:18
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "最初の投稿を公開する準備はできましたか ? <a href=\"%1$s\">ここから始めましょう</a>。"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "何も見つかりませんでした"
+
+#: template-parts/content-list.php:78 template-parts/content-page.php:21
+#: template-parts/content-single.php:35 template-parts/content.php:57
+msgid "Pages:"
+msgstr "固定ページ:"
+
+#: section-parts/section-hero.php:94
+msgid "#services"
+msgstr "#services"
+
+#: section-parts/section-contact.php:53
+msgid "You can install %1$s plugin and go to Customizer &rarr; Section: Contact &rarr; Section Content to show a working contact form here."
+msgstr "%1$s プラグインをインストールし、「カスタマイザー」&rarr;「セクション: お問い合わせ」&rarr;「セクション内容」から表示するお問い合わせフォームを設定します。"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "「%s」の検索結果"
+
+#: inc/template-tags.php:517
+msgid "Your comment is awaiting moderation."
+msgstr "あなたのコメントは承認待ちです。"
+
+#: inc/template-tags.php:512
+msgid "Edit"
+msgstr "編集"
+
+#: inc/template-tags.php:505
+msgid "Reply"
+msgstr "返信"
+
+#: inc/template-tags.php:492
+msgid "Post author"
+msgstr "投稿者"
+
+#: inc/template-tags.php:472
+msgid "(Edit)"
+msgstr "(編集)"
+
+#: inc/template-tags.php:472
+msgid "Pingback:"
+msgstr "ピンバック:"
+
+#: inc/template-tags.php:388
+msgid "% Comments"
+msgstr "%件のコメント"
+
+#: inc/template-tags.php:388
+msgid "1 Comment"
+msgstr "1件のコメント"
+
+#: inc/template-tags.php:388
+msgid "Leave a comment"
+msgstr "コメントを残す"
+
+#. translators: 1 : tag list
+#: inc/template-tags.php:379
+msgid "Tagged %1$s"
+msgstr "タグ: %1$s"
+
+#: inc/template-tags.php:370
+msgid "Posted in %1$s"
+msgstr "カテゴリー: %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:368 inc/template-tags.php:374
+msgid ", "
+msgstr ", "
+
+#. translators: 1: author
+#: inc/template-tags.php:347
+msgctxt "post author"
+msgid "by %s"
+msgstr "投稿者: %s"
+
+#. translators: 1: time
+#: inc/template-tags.php:341
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "投稿日: %s"
+
+#: inc/admin/dashboard.php:312
+msgid "Having Trouble, Need Support?"
+msgstr "お困りですか ?"
+
+#: inc/admin/dashboard.php:305
+msgid "Need any help to setup and configure %s? Please have a look at our documentations instructions."
+msgstr "%s の設置や設定でお困りですか? ドキュメンテーションをご覧ください。"
+
+#: inc/admin/dashboard.php:304
+msgid "Theme Documentation"
+msgstr "テーマドキュメンテーション"
+
+#: inc/admin/dashboard.php:300
+msgid "Start Customize"
+msgstr "カスタマイズを始める"
+
+#: inc/admin/dashboard.php:298
+msgid "%s supports the Theme Customizer for all theme settings. Click \"Customize\" to start customize your site."
+msgstr "%s は、すべてのテーマ設定をテーマカスタマイザーで行います。「カスタマイズ」をクリックして、あなたのサイトのカスタマイズを始めましょう。"
+
+#: inc/admin/dashboard.php:297
+msgid "Theme Customizer"
+msgstr "テーマカスタマイザー"
+
+#: inc/admin/dashboard.php:270
+msgid "OnePress is a creative and flexible WordPress ONE PAGE theme well suited for business, portfolio, digital agency, product showcase, freelancers websites."
+msgstr "OnePress は、ビジネスのポートフォリオ、制作会社、製品ショーケース、フリーランサーの Web サイトに適した、創造的で柔軟な WordPress の1ページのテーマです。"
+
+#: inc/customize-configs/section-contact.php:253
+msgid "Fax"
+msgstr "Fax"
+
+#: inc/customize-configs/section-contact.php:238
+msgid "Email"
+msgstr "メール"
+
+#: inc/customize-configs/section-contact.php:223
+msgid "Phone"
+msgstr "電話"
+
+#: inc/customize-configs/section-contact.php:208
+msgid "Address"
+msgstr "住所"
+
+#: inc/customize-configs/section-contact.php:193
+msgid "Contact Box Title"
+msgstr "お問い合わせボックスのタイトル"
+
+#: inc/customize-configs/section-contact.php:169
+msgid "Contact Text"
+msgstr "お問い合わせのテキスト"
+
+#: inc/customize-configs/section-contact.php:154
+msgid "Check this box to hide contact form."
+msgstr "チェックしてお問い合わせフォームを非表示にします。"
+
+#: inc/customize-configs/section-contact.php:152
+msgid "Hide contact form completely."
+msgstr "完全にお問い合わせフォームを非表示にします。"
+
+#: inc/customize-configs/section-contact.php:136
+msgid "Contact Form Shortcode."
+msgstr "Contact Form のショートコード。"
+
+#: inc/class-config.php:141 inc/customize-configs/section-contact.php:58
+#: section-parts/section-contact.php:4
+msgid "Get in touch"
+msgstr "お問い合わせ"
+
+#: inc/customize-configs/section-contact.php:43
+msgid "contact"
+msgstr "連絡先を知っている"
+
+#: inc/class-config.php:140 inc/customize-configs/section-contact.php:8
+msgid "Section: Contact"
+msgstr "セクション: お問い合わせ"
+
+#: inc/customize-configs/section-news.php:292 section-parts/section-news.php:16
+msgid "Read Our Blog"
+msgstr "ブログを読む"
+
+#: inc/customize-configs/section-news.php:183
+msgid "Number of post to show"
+msgstr "表示する投稿数"
+
+#: inc/class-config.php:166 inc/customize-configs/section-news.php:58
+#: section-parts/section-news.php:11
+msgid "Latest News"
+msgstr "最新ニュース"
+
+#: inc/customize-configs/section-news.php:43
+msgid "news"
+msgstr "ニュース"
+
+#: inc/class-config.php:165 inc/customize-configs/section-news.php:8
+msgid "Section: News"
+msgstr "セクション: ニュース"
+
+#: inc/customize-configs/section-team.php:147
+msgid "Team members"
+msgstr "チームメンバー"
+
+#: inc/class-config.php:178 inc/customize-configs/section-team.php:57
+#: section-parts/section-team.php:4
+msgid "Our Team"
+msgstr "私たちのチーム"
+
+#: inc/customize-configs/section-team.php:42
+msgid "team"
+msgstr "チーム"
+
+#: inc/class-config.php:177 inc/customize-configs/section-team.php:8
+msgid "Section: Team"
+msgstr "セクション: チーム"
+
+#: inc/customize-configs/section-counter.php:150
+msgid "After number"
+msgstr "番号の後"
+
+#: inc/customize-configs/section-counter.php:145
+msgid "Before number"
+msgstr "電話番号の前に表示するテキスト"
+
+#: inc/customize-configs/section-counter.php:140
+msgid "Number"
+msgstr "番号"
+
+#: inc/customize-configs/section-counter.php:137
+msgid "Your counter label"
+msgstr "あなたのカウンターラベル"
+
+#: inc/customize-configs/section-counter.php:134
+#: inc/customize-configs/section-features.php:159
+#: inc/customize-configs/section-news.php:223
+msgid "Title"
+msgstr "タイトル"
+
+#: inc/customize-configs/section-counter.php:125
+msgid "Counter content"
+msgstr "カウンターコンテンツ"
+
+#: inc/class-config.php:148 inc/customize-configs/section-counter.php:57
+#: section-parts/section-counter.php:4
+msgid "Our Numbers"
+msgstr "私たちの番号"
+
+#: inc/customize-configs/section-counter.php:42
+msgid "counter"
+msgstr "カウンター"
+
+#: inc/class-config.php:147 inc/customize-configs/section-counter.php:8
+msgid "Section: Counter"
+msgstr "セクション: カウンター"
+
+#: inc/customize-configs/section-features.php:163
+#: inc/customize-configs/section-services.php:161
+msgid "Custom icon"
+msgstr "カスタムアイコン"
+
+#: inc/customize-configs/section-services.php:152
+msgid "Service content"
+msgstr "サービス内容"
+
+#: inc/class-config.php:172 inc/customize-configs/section-services.php:58
+#: section-parts/section-hero.php:93 section-parts/section-services.php:4
+msgid "Our Services"
+msgstr "私たちのサービス"
+
+#: inc/customize-configs/section-services.php:43
+msgid "services"
+msgstr "サービス"
+
+#: inc/class-config.php:171 inc/customize-configs/section-services.php:8
+msgid "Section: Services"
+msgstr "セクション: サービス"
+
+#: inc/customize-configs/section-about.php:171
+#: inc/customize-configs/section-services.php:185
+msgid "Link to single page"
+msgstr "個別ページへのリンク"
+
+#: inc/customize-configs/section-about.php:167
+msgid "Hide item title"
+msgstr "項目のタイトルを非表示"
+
+#: inc/customize-configs/section-about.php:162
+#: inc/customize-configs/section-services.php:180
+msgid "Select a page"
+msgstr "ページを選択"
+
+#: inc/customize-configs/options-footer.php:76
+#: inc/customize-configs/section-about.php:157
+#: inc/customize-configs/section-counter.php:129
+#: inc/customize-configs/section-features.php:154
+#: inc/customize-configs/section-services.php:156
+#: inc/customize-configs/section-team.php:151
+msgid "[live_title]"
+msgstr "[live_title]"
+
+#: inc/customize-configs/section-about.php:132
+#: inc/customize-configs/section-contact.php:108
+#: inc/customize-configs/section-counter.php:105
+#: inc/customize-configs/section-features.php:130
+#: inc/customize-configs/section-gallery.php:125
+#: inc/customize-configs/section-services.php:132
+#: inc/customize-configs/section-team.php:127
+msgid "Section Content"
+msgstr "セクションの内容"
+
+#: inc/customize-configs/section-about.php:78
+#: inc/customize-configs/section-contact.php:78
+#: inc/customize-configs/section-counter.php:77
+#: inc/customize-configs/section-features.php:78
+#: inc/customize-configs/section-gallery.php:91
+#: inc/customize-configs/section-news.php:78
+#: inc/customize-configs/section-services.php:78
+#: inc/customize-configs/section-team.php:77
+msgid "Section Subtitle"
+msgstr "セクションのサブタイトル"
+
+#: inc/customize-configs/section-about.php:73
+#: inc/customize-configs/section-contact.php:73
+#: inc/customize-configs/section-counter.php:72
+#: inc/customize-configs/section-features.php:73
+#: inc/customize-configs/section-gallery.php:85
+#: inc/customize-configs/section-news.php:73
+#: inc/customize-configs/section-services.php:73
+#: inc/customize-configs/section-team.php:72 section-parts/section-about.php:5
+#: section-parts/section-contact.php:5 section-parts/section-counter.php:5
+#: section-parts/section-gallery.php:5 section-parts/section-news.php:12
+#: section-parts/section-services.php:5 section-parts/section-team.php:5
+msgid "Section subtitle"
+msgstr "セクションのサブタイトル"
+
+#: inc/customize-configs/section-about.php:63
+#: inc/customize-configs/section-contact.php:63
+#: inc/customize-configs/section-counter.php:62
+#: inc/customize-configs/section-features.php:63
+#: inc/customize-configs/section-gallery.php:74
+#: inc/customize-configs/section-news.php:63
+#: inc/customize-configs/section-services.php:63
+#: inc/customize-configs/section-team.php:62
+msgid "Section Title"
+msgstr "セクションのタイトル"
+
+#: inc/customize-configs/section-about.php:43
+msgid "about"
+msgstr "about"
+
+#: inc/customize-configs/section-about.php:17
+#: inc/customize-configs/section-contact.php:17
+#: inc/customize-configs/section-counter.php:17
+#: inc/customize-configs/section-features.php:17
+#: inc/customize-configs/section-gallery.php:22
+#: inc/customize-configs/section-news.php:17
+#: inc/customize-configs/section-services.php:17
+#: inc/customize-configs/section-team.php:17
+#: inc/customize-configs/section-videolightbox.php:17
+msgid "Section Settings"
+msgstr "セクションの設定"
+
+#: inc/class-config.php:134 inc/customize-configs/section-about.php:8
+msgid "Section: About"
+msgstr "セクション: サイトの概要"
+
+#: inc/customize-configs/section-hero.php:505
+msgid "Button #2 Link"
+msgstr "ボタン #2 リンク"
+
+#: inc/customize-configs/section-hero.php:500 section-parts/section-hero.php:96
+msgid "#contact"
+msgstr "#contact"
+
+#: inc/customize-configs/section-hero.php:491
+msgid "Button #2 Text"
+msgstr "ボタン＃2テキスト"
+
+#: inc/customize-configs/section-hero.php:486 section-parts/section-hero.php:95
+msgid "Get Started"
+msgstr "始めてみよう"
+
+#: inc/customize-configs/section-hero.php:440
+msgid "Button #1 Link"
+msgstr "ボタン #1 リンク"
+
+#: inc/customize-configs/section-hero.php:435
+msgid "#about"
+msgstr "#about"
+
+#: inc/customize-configs/section-hero.php:426
+msgid "Button #1 Text"
+msgstr "ボタン #1 テキスト"
+
+#: inc/class-config.php:135 inc/customize-configs/section-about.php:58
+#: inc/customize-configs/section-hero.php:421 section-parts/section-about.php:4
+msgid "About Us"
+msgstr "サイトの概要"
+
+#: inc/customize-configs/section-hero.php:413
+msgid "You can use text rotate slider in this textarea too."
+msgstr "このテキストエリアのテキスト回転スライダーも利用可能です。"
+
+#: inc/customize-configs/section-hero.php:410
+msgid "Small Text"
+msgstr "小さなテキスト"
+
+#: inc/customize-configs/section-hero.php:363
+msgid "Text Rotating Guide: Put your rotate texts separate by \"|\" into <span class=\"js-rotating\">...</span>, go to Customizer -> Theme Options -> Section: Hero -> Hero Settings to control rotate animation."
+msgstr "テキスト回転について: <span class=\"js-rotating\">...</span>に、「|」区切りで回転させるテキストを入力します。「カスタマイザー」>「サイト設定」>「アニメーション」で回転アニメーションを制御します。"
+
+#: inc/customize-configs/section-hero.php:361
+msgid "Large Text"
+msgstr "大きなテキスト"
+
+#: inc/customize-configs/section-hero.php:321
+msgid "Hero Content Layout"
+msgstr "ヒーローコンテンツレイアウト"
+
+#: inc/customize-configs/section-hero.php:248
+msgid "Background Image"
+msgstr "背景画像"
+
+#: inc/customize-configs/options-footer.php:160
+#: inc/customize-configs/options-footer.php:348
+#: inc/customize-configs/section-hero.php:243
+msgid "Background"
+msgstr "背景"
+
+#: inc/customize-configs/section-hero.php:239
+msgid "Background Images"
+msgstr "背景画像"
+
+#: inc/customize-configs/section-hero.php:213
+msgid "Hero Background Media"
+msgstr "ヒーローの背景メディア"
+
+#: inc/customize-configs/section-hero.php:111
+msgid "Padding Bottom:"
+msgstr "下部の余白:"
+
+#: inc/customize-configs/section-hero.php:95
+msgid "Padding Top:"
+msgstr "上部の余白:"
+
+#: inc/customize-configs/section-hero.php:90
+#: inc/customize-configs/section-hero.php:106
+msgid "10"
+msgstr "10"
+
+#: inc/customize-configs/section-hero.php:67
+msgid "Check this box to make hero section full screen."
+msgstr "ヒーローセクションを全画面表示にするには、ここにチェックを入れてください。"
+
+#: inc/customize-configs/section-hero.php:65
+msgid "Make hero section full screen"
+msgstr "ヒーローセクションを全画面表示にする"
+
+#: inc/customize-configs/section-about.php:48
+#: inc/customize-configs/section-contact.php:48
+#: inc/customize-configs/section-counter.php:47
+#: inc/customize-configs/section-features.php:48
+#: inc/customize-configs/section-gallery.php:57
+#: inc/customize-configs/section-hero.php:49
+#: inc/customize-configs/section-news.php:48
+#: inc/customize-configs/section-services.php:48
+#: inc/customize-configs/section-team.php:47
+#: inc/customize-configs/section-videolightbox.php:48
+msgid "Section ID:"
+msgstr "セクション ID:"
+
+#: inc/customize-configs/section-hero.php:44
+msgid "hero"
+msgstr "hero"
+
+#: inc/customize-configs/section-about.php:35
+#: inc/customize-configs/section-contact.php:35
+#: inc/customize-configs/section-counter.php:34
+#: inc/customize-configs/section-features.php:35
+#: inc/customize-configs/section-gallery.php:42
+#: inc/customize-configs/section-hero.php:37
+#: inc/customize-configs/section-news.php:35
+#: inc/customize-configs/section-services.php:35
+#: inc/customize-configs/section-team.php:35
+#: inc/customize-configs/section-videolightbox.php:35
+msgid "Check this box to hide this section."
+msgstr "セクションを非表示にするには、ここにチェックを入れてください。"
+
+#: inc/customize-configs/section-about.php:33
+#: inc/customize-configs/section-contact.php:33
+#: inc/customize-configs/section-counter.php:32
+#: inc/customize-configs/section-features.php:33
+#: inc/customize-configs/section-gallery.php:40
+#: inc/customize-configs/section-hero.php:35
+#: inc/customize-configs/section-news.php:33
+#: inc/customize-configs/section-services.php:33
+#: inc/customize-configs/section-team.php:33
+#: inc/customize-configs/section-videolightbox.php:33
+msgid "Hide this section?"
+msgstr "セクションを非表示にします。"
+
+#: inc/customize-configs/section-hero.php:19
+msgid "Hero Settings"
+msgstr "ヒーロー設定"
+
+#: inc/class-config.php:128 inc/customize-configs/section-hero.php:9
+msgid "Section: Hero"
+msgstr "セクション: ヒーロー"
+
+#: inc/customize-configs/options-footer.php:145
+msgid "MailChimp Action URL"
+msgstr "MailChimp アクション URL"
+
+#: inc/customize-configs/options-footer.php:129
+msgid "Newsletter Form Title"
+msgstr "ニュースレターのフォームタイトル"
+
+#: inc/customize-configs/options-footer.php:115
+msgid "Check this box to hide footer newsletter form."
+msgstr "フッターのニュースレターのフォームを非表示にするには、このボックスをチェックします。"
+
+#: inc/customize-configs/options-footer.php:113
+msgid "Hide Footer Newsletter?"
+msgstr "ニュースレターのフッターを非表示にします。"
+
+#: inc/customize-configs/options-footer.php:52
+msgid "Social Footer Title"
+msgstr "SNS フッターのタイトル"
+
+#: inc/customize-configs/options-footer.php:38
+msgid "The social profiles specified below will be displayed in the footer of your site."
+msgstr "以下の SNS プロフィール設定はサイトのフッターに表示されます。"
+
+#: inc/customize-configs/options-footer.php:25
+msgid "Check this box to hide footer social section."
+msgstr "フッターの SNS セクションを非表示にするには、ここにチェックを入れてください。"
+
+#: inc/customize-configs/options-footer.php:23
+msgid "Hide Footer Social?"
+msgstr "フッターの SNS を非表示にします。"
+
+#: inc/customize-configs/options-global.php:66
+msgid "Check this box to hide footer back to top button."
+msgstr "フッターの「上部へ戻る」ボタンを非表示にするには、ここにチェックを入れてください。"
+
+#: inc/customize-configs/options-global.php:64
+msgid "Hide footer back to top?"
+msgstr "ページ上部へ戻るボタンを非表示にしますか ?"
+
+#: inc/customize-configs/options-global.php:49
+msgid "Check this box to disable all element animation when scroll."
+msgstr "スクロール時の要素アニメーションをすべて無効化するには、ここにチェックを入れてください。"
+
+#: inc/customize-configs/options-global.php:47
+msgid "Disable animation effect?"
+msgstr "アニメーション効果を無効化しますか ?"
+
+#: inc/customize-configs/options-global.php:7
+msgid "Global"
+msgstr "全般"
+
+#: inc/customize-configs/options.php:14
+msgid "Theme Options"
+msgstr "テーマ設定"
+
+#: inc/customizer.php:77
+msgid "Select member"
+msgstr "メンバーを選択"
+
+#: inc/customizer.php:66
+msgid "Select page"
+msgstr "固定ページを選択"
+
+#: inc/customize-controls/control-repeater.php:372
+msgid "Close"
+msgstr "閉じる"
+
+#: inc/customize-controls/control-repeater.php:337
+msgid "Change"
+msgstr "変更"
+
+#: inc/customize-controls/control-repeater.php:337
+msgid "Add"
+msgstr "追加"
+
+#: inc/customize-controls/control-repeater.php:336
+#: inc/customize-controls/control-repeater.php:358
+#: inc/customize-controls/control-repeater.php:370
+msgid "Remove"
+msgstr "削除"
+
+#: inc/customize-controls/control-repeater.php:76
+#: inc/customize-controls/control-repeater.php:220
+msgid "Item"
+msgstr "項目"
+
+#: inc/customize-controls/control-repeater.php:205
+msgid "Add an item"
+msgstr "項目を追加"
+
+#: inc/template-tags.php:235
+msgid "Menu"
+msgstr "メニュー"
+
+#: header.php:29
+msgid "Skip to content"
+msgstr "コンテンツへスキップ"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Raleway, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:437
+msgctxt "Raleway font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:430
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:228
+msgid "Sidebar"
+msgstr "サイドバー"
+
+#: functions.php:85
+msgid "Primary Menu"
+msgstr "メインメニュー"
+
+#. translators: 1: themename, 2: author
+#: inc/template-tags.php:1654
+msgid "%1$s theme by %2$s"
+msgstr "%1$s theme by %2$s"
+
+#: inc/template-tags.php:1646
+msgid "Copyright %1$s %2$s %3$s"
+msgstr "Copyright %1$s %2$s %3$s"
+
+#: footer.php:44
+msgid "Back To Top"
+msgstr "ページトップへ戻る"
+
+#: inc/customize-configs/options-footer.php:123 inc/template-tags.php:1934
+msgid "Join our Newsletter"
+msgstr "ニュースレターを受け取る"
+
+#: inc/customize-configs/options-footer.php:46 inc/template-tags.php:1955
+msgid "Keep Updated"
+msgstr "最新情報を受け取る"
+
+#: comments.php:94
+msgid "Comments are closed."
+msgstr "コメントは受け付けていません。"
+
+#: comments.php:60 comments.php:82
+msgid "Newer Comments"
+msgstr "新しいコメント"
+
+#: comments.php:59 comments.php:81
+msgid "Older Comments"
+msgstr "過去のコメント"
+
+#: comments.php:56 comments.php:78
+msgid "Comment navigation"
+msgstr "コメントナビゲーション"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:39
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "「%2$s」への%1$s件のフィードバック"
+
+#. translators: %1$s: smiley
+#: 404.php:51
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "月別アーカイブを探してみてください: %1$s"
+
+#: 404.php:34
+msgid "Most Used Categories"
+msgstr "よく使われているカテゴリー"
+
+#: 404.php:26
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "ここには何も見つかりませんでした。以下のリンクまたは検索をお試しください。"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "お探しのページが見つかりません。"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "http://www.famethemes.com"
+msgstr "http://www.famethemes.com"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "FameThemes"
+msgstr "FameThemes"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://www.famethemes.com/themes/onepress/"
+msgstr "https://www.famethemes.com/themes/onepress/"

@@ -1,0 +1,2463 @@
+# Translation of Themes - Newsmatic in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Newsmatic package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-06-30 17:48:54+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Newsmatic\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Newsmatic is complete solution for your news website with full Elementor compatibility. By integrating the News Kit Elementor Addons plugin on your site, you can now customize any part of the theme with the Elementor page builder. It is fast, features rich, customizer-based, and multipurpose free news theme. It is multilingual compatibility, gutenberg compatibility, elementor compatibility and can be integrated easily with newsletter/form plugins. This theme is schema ready, which makes it a favourite for search engines. Newsmatic Theme does not collect any kind of personal data restricted under GDPR, so you can sleep without any worry by using our theme on your website. Developed by dedicated developers, it has user friendly and easy to use advanced control fields like select2, react color picker, image selector, typography field and many more inside the theme. Check out our pre-build demos here: https://blazethemes.com/theme/newsmatic-free. Check out news elementor addons: https://wordpress.org/plugins/news-kit-elementor-addons/"
+msgstr "Newsmatic es una solución completa para tu sitio web de noticias con total compatibilidad con Elementor. Al integrar el plugin News Kit Elementor Addons en tu sitio, ahora puedes personalizar cualquier parte del tema con el maquinador de páginas Elementor. Es un tema de noticias gratuito, rápido, repleto de características, basado en el personalizador y multipropósito. Es compatible con varios idiomas, también con Gutenberg y con Elementor, y se puede integrar fácilmente con plugins de boletín/formulario. Este tema está preparado para schema, lo que lo convierte en un favorito para los motores de búsqueda. El tema Newsmatic no recopila ningún tipo de datos personales restringidos por el RGPD, por lo que puedes dormir con tranquilidad utilizando nuestro tema en tu sitio web. Desarrollado por desarrolladores dedicados, tiene campos de control avanzados fáciles de usar como select2, selector de color react, selector de imagen, campo de tipografía y muchos más dentro del tema. Echa un vistazo a nuestras demostraciones preconstruidas aquí: https://blazethemes.com/theme/newsmatic-free. Echa un vistazo a las nuevas extensiones de Elementor: https://wordpress.org/plugins/news-kit-elementor-addons/"
+
+#. Theme Name of the theme
+#: style.css inc/admin/class-theme-info.php:45
+#, gp-priority: high
+msgid "Newsmatic"
+msgstr "Newsmatic"
+
+#: inc/template-tags.php:204
+msgid " mins"
+msgstr ""
+
+#: inc/template-tags.php:198 inc/template-tags.php:202
+msgid " min"
+msgstr ""
+
+#: inc/customizer/handlers.php:3996
+msgid "Search page settings"
+msgstr "Ajustes de la página de búsqueda"
+
+#: inc/customizer/handlers.php:3994
+msgid "Button label & Url"
+msgstr "Etiqueta y URL del botón"
+
+#: inc/customizer/handlers.php:3993
+msgid "404 page & content title"
+msgstr "Título de la página 404 y de contenido"
+
+#: inc/customizer/handlers.php:3990
+msgid "Need More 404 Options ?"
+msgstr "¿Necesitas más opciones 404?"
+
+#: inc/customizer/handlers.php:3897
+msgid "Pagination Type"
+msgstr "Tipo de paginación"
+
+#: inc/customizer/handlers.php:3895
+msgid "5 Layouts"
+msgstr ""
+
+#: inc/customizer/handlers.php:3892
+msgid "Need More Archive Options ?"
+msgstr "¿Necesitas más opciones de archivo?"
+
+#: inc/customizer/handlers.php:3683
+msgid "Need More Bottom Full Width Options ?"
+msgstr ""
+
+#: inc/customizer/handlers.php:3644
+msgid "Need More Right Content Options ?"
+msgstr ""
+
+#: inc/customizer/handlers.php:3581
+msgid "Need More Left Content Options ?"
+msgstr ""
+
+#: inc/customizer/handlers.php:3525 inc/customizer/handlers.php:3586
+#: inc/customizer/handlers.php:3649 inc/customizer/handlers.php:3688
+msgid "Video Playlist"
+msgstr "Lista de reproducción de vídeo"
+
+#: inc/customizer/handlers.php:3524 inc/customizer/handlers.php:3585
+#: inc/customizer/handlers.php:3648 inc/customizer/handlers.php:3687
+msgid "Content & Section Background"
+msgstr "Fondo del contenido y las secciones"
+
+#: inc/customizer/handlers.php:3523 inc/customizer/handlers.php:3584
+#: inc/customizer/handlers.php:3647 inc/customizer/handlers.php:3686
+msgid "Unlimited sections"
+msgstr "Secciones ilimitadas"
+
+#: inc/customizer/handlers.php:3520
+msgid "Need More Full Width Options ?"
+msgstr "¿Necesitas más opciones de ancho completo?"
+
+#: inc/customizer/handlers.php:3081
+msgid "And Many More"
+msgstr "Y muchos más"
+
+#: inc/customizer/handlers.php:3080 inc/customizer/handlers.php:3900
+#: inc/customizer/handlers.php:3995
+msgid "Content Background"
+msgstr "Fondo del contenido"
+
+#: inc/customizer/handlers.php:3079
+msgid "Tab Re-order"
+msgstr "Reordenar pestañas"
+
+#: inc/customizer/handlers.php:3078
+msgid "Block Posts Categories"
+msgstr ""
+
+#: inc/customizer/handlers.php:3077
+msgid "Content Type"
+msgstr "Tipo de contenido"
+
+#: inc/customizer/handlers.php:3076
+msgid "Slider show post category, date & excerpt"
+msgstr ""
+
+#: inc/customizer/handlers.php:3075
+msgid "Slider auto slide, arrows, dots & speed"
+msgstr ""
+
+#: inc/customizer/handlers.php:3074 inc/customizer/handlers.php:3896
+msgid "Excerpt Length"
+msgstr ""
+
+#: inc/customizer/handlers.php:3071
+msgid "5 Banner Layouts"
+msgstr ""
+
+#: inc/customizer/handlers.php:3068
+msgid "Need More Main Banner Options ?"
+msgstr ""
+
+#: inc/customizer/handlers.php:2683
+msgid "Marquee Settings"
+msgstr ""
+
+#: inc/customizer/handlers.php:2682 inc/customizer/handlers.php:3073
+msgid "Offset"
+msgstr ""
+
+#: inc/customizer/handlers.php:2681 inc/customizer/handlers.php:3072
+msgid "Number of Posts to Display"
+msgstr "Número de entradas a mostrar"
+
+#: inc/customizer/handlers.php:2680
+msgid "Show Post thumbnail Image"
+msgstr "Mostrar imagen en miniatura de la entrada"
+
+#: inc/customizer/handlers.php:2679
+msgid "Order By"
+msgstr "Ordenar por"
+
+#: inc/customizer/handlers.php:2676
+msgid "Need More Ticker News Options ?"
+msgstr ""
+
+#: inc/customizer/handlers.php:2488
+msgid "Show View all Button"
+msgstr "Mostrar el botón «Ver todo»"
+
+#: inc/customizer/handlers.php:2487
+msgid "Number Of Posts to Display"
+msgstr ""
+
+#: inc/customizer/handlers.php:2486
+msgid "Show Post Thumbnail, Title & Date"
+msgstr ""
+
+#: inc/customizer/handlers.php:2483
+msgid "Need More Live Search Options ?"
+msgstr ""
+
+#: inc/customizer/handlers.php:2249
+msgid "Need More Random News Options ?"
+msgstr ""
+
+#: inc/customizer/handlers.php:2177 inc/customizer/handlers.php:2253
+msgid "Label Color"
+msgstr "Color de etiqueta"
+
+#: inc/customizer/handlers.php:2176 inc/customizer/handlers.php:2252
+#: inc/customizer/handlers.php:2490
+msgid "Open in New / Same Tab"
+msgstr "Abrir en una nueva / misma pestaña"
+
+#: inc/customizer/handlers.php:2175
+msgid "Button Content Display As"
+msgstr ""
+
+#: inc/customizer/handlers.php:2172
+msgid "Need More Newsletter Options ?"
+msgstr ""
+
+#: inc/customizer/handlers.php:1822
+msgid "Ads Banner Sidebar"
+msgstr ""
+
+#: inc/customizer/handlers.php:1821
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: inc/customizer/handlers.php:1818
+msgid "Need More Ads Banner Options ?"
+msgstr ""
+
+#: inc/customizer/handlers.php:1701
+msgid "Menu & Social Icon Color"
+msgstr ""
+
+#: inc/customizer/handlers.php:1700
+msgid "Date / Time Color"
+msgstr "Color de fecha / hora"
+
+#: inc/customizer/handlers.php:1698
+msgid "Show Social Icons"
+msgstr "Mostrar los iconos sociales"
+
+#: inc/customizer/handlers.php:1697
+msgid "Ticker slide horizontal direction"
+msgstr "Dirección horizontal de deslizamiento del teletipo"
+
+#: inc/customizer/handlers.php:1696
+msgid "Ticker auto slide"
+msgstr "Deslizamiento automático del teletipo"
+
+#: inc/customizer/handlers.php:1695
+msgid "Ticker Offset"
+msgstr "Desplazamiento del ticker"
+
+#: inc/customizer/handlers.php:1694
+msgid "Ticker Number of posts to display"
+msgstr "Número de entradas a mostrar del teletipo"
+
+#: inc/customizer/handlers.php:1431
+msgid "Need More Site Title Options ?"
+msgstr "¿Necesitas más opciones de título del sitio?"
+
+#: inc/customizer/handlers.php:1262
+msgid "Border Hover"
+msgstr "Borde al pasar el cursor"
+
+#: inc/customizer/handlers.php:1258
+msgid "Need More scroll to top Options ?"
+msgstr "¿Necesitas más opciones de desplazamiento a la zona superior?"
+
+#: inc/customizer/handlers.php:1162
+msgid "Link Color"
+msgstr "Color de enlace"
+
+#: inc/customizer/handlers.php:1158
+msgid "Need More breadcrumb Options ?"
+msgstr "¿Necesitas más opciones de migas de pan?"
+
+#: inc/customizer/handlers.php:925 inc/customizer/handlers.php:1263
+msgid "Padding"
+msgstr "Relleno"
+
+#: inc/customizer/handlers.php:924
+msgid "Border"
+msgstr "Borde"
+
+#: inc/customizer/handlers.php:923 inc/customizer/handlers.php:1261
+msgid "Font Size"
+msgstr "Tamaño de letra"
+
+#: inc/customizer/handlers.php:920
+msgid "Need More Global Button Options ?"
+msgstr "¿Necesitas más opciones globales de botón?"
+
+#: inc/customizer/handlers.php:822
+msgid "5 image hover effects"
+msgstr "5 efectos de imagen al pasar el cursor"
+
+#: inc/customizer/handlers.php:821
+msgid "5 post title hover effects"
+msgstr "5 efectos de título de entrada al pasar el cursor"
+
+#: inc/customizer/handlers.php:820
+msgid "Enable Site Wow animation"
+msgstr ""
+
+#: inc/customizer/handlers.php:817
+msgid "Need More animation Options ?"
+msgstr ""
+
+#: inc/customizer/handlers.php:720
+msgid "Border Width & Box Shadow"
+msgstr "Anchura de borde y sombra de caja"
+
+#: inc/customizer/handlers.php:719
+msgid "Frame Width & Color"
+msgstr "Anchura y color del marco"
+
+#: inc/customizer/handlers.php:718
+msgid "Enable Website Frame"
+msgstr "Activar el marco del sitio web"
+
+#: inc/customizer/handlers.php:715
+msgid "Need More Website Styles Options ?"
+msgstr "¿Necesitas más opciones de estilo del sitio web?"
+
+#: inc/customizer/customizer-up.php:123
+msgid "Text & Link Color"
+msgstr "Color del texto y enlace"
+
+#: inc/customizer/customizer-up.php:122
+msgid "WYSIWYG Editor"
+msgstr "Editor WYSIWYG"
+
+#: inc/customizer/customizer-up.php:121
+msgid "Show Bottom Social Icons"
+msgstr "Mostrar los iconos sociales inferiores"
+
+#: inc/customizer/customizer-up.php:118
+msgid "Need More Bottom Theme Footer Options ?"
+msgstr "¿Necesitas más opciones del pie de página inferior del tema?"
+
+#: inc/customizer/customizer-up.php:106
+msgid "Background color"
+msgstr "Color de fondo"
+
+#: inc/customizer/customizer-up.php:102
+msgid "Need More Theme Footer Options ?"
+msgstr "¿Necesitas más opciones de pie de página?"
+
+#: inc/customizer/customizer-up.php:91
+msgid "Main & Sub Menu Typography"
+msgstr "Tipografía del menú principal y del submenú"
+
+#: inc/customizer/customizer-up.php:90 inc/customizer/handlers.php:1699
+msgid "Border Bottom"
+msgstr "Borde inferior"
+
+#: inc/customizer/customizer-up.php:89
+msgid "Mobile Menu Toggle Color"
+msgstr ""
+
+#: inc/customizer/customizer-up.php:88
+msgid "Sub Menu Color & Background"
+msgstr ""
+
+#: inc/customizer/customizer-up.php:87
+msgid "Active Menu Color & Background"
+msgstr ""
+
+#: inc/customizer/customizer-up.php:84
+msgid "Need More Menu Options ?"
+msgstr "¿Necesitas más opciones de menú?"
+
+#: inc/customizer/customizer-up.php:73
+msgid "Sidebar Background"
+msgstr "Fondo de la barra lateral"
+
+#: inc/customizer/customizer-up.php:72
+msgid "Width Layout"
+msgstr ""
+
+#: inc/customizer/customizer-up.php:71
+msgid "2 Layouts"
+msgstr ""
+
+#: inc/customizer/customizer-up.php:68
+msgid "Need More Main Header Options ?"
+msgstr "¿Necesitas más opciones de cabecera principal?"
+
+#: inc/customizer/customizer-up.php:57 inc/customizer/customizer-up.php:107
+#: inc/customizer/handlers.php:1434 inc/customizer/handlers.php:2491
+#: inc/customizer/handlers.php:3901
+msgid "More than 1500+ google fonts"
+msgstr "Más de 1500 fuentes de Google"
+
+#: inc/customizer/customizer-up.php:56
+msgid "Post Title, Meta & Content Typography "
+msgstr "Tipografía de título de entradas, meta y contenido "
+
+#: inc/customizer/customizer-up.php:55
+msgid "content Background"
+msgstr "fondo del contenido"
+
+#: inc/customizer/customizer-up.php:54
+msgid "Related News show in popup box"
+msgstr "Mostrar las noticias relacionadas en caja emergente"
+
+#: inc/customizer/customizer-up.php:53
+msgid "Related News show image"
+msgstr ""
+
+#: inc/customizer/customizer-up.php:52
+msgid "Related News Number of Posts"
+msgstr "Número de entradas de «Noticias relacionadas»"
+
+#: inc/customizer/customizer-up.php:51
+msgid "Related News Filter By"
+msgstr ""
+
+#: inc/customizer/customizer-up.php:50
+msgid "Related News 2 Layouts"
+msgstr ""
+
+#: inc/customizer/customizer-up.php:49 inc/customizer/handlers.php:3899
+msgid "Meta Re-order"
+msgstr ""
+
+#: inc/customizer/customizer-up.php:48 inc/customizer/handlers.php:3898
+msgid "Elements Re-order"
+msgstr ""
+
+#: inc/customizer/customizer-up.php:47
+msgid "Breadcrumb Position"
+msgstr "Posición de las migas de pan"
+
+#: inc/customizer/customizer-up.php:44
+msgid "Need More Single Post Options ?"
+msgstr "¿Necesitas más opciones de entrada individual?"
+
+#: inc/customizer/customizer-up.php:30 inc/customizer/handlers.php:1691
+msgid "Need More Preloader Options ?"
+msgstr "¿Necesitas más opciones de precargador?"
+
+#: inc/customizer/customizer-up.php:16
+msgid "Need More Social Icons Options ?"
+msgstr "¿Necesitas más opciones de iconos sociales?"
+
+#: inc/widgets/widget-fields.php:179
+msgid "Undefined control field"
+msgstr "Campo de control indefinido"
+
+#: inc/hooks/bottom-footer-hooks.php:55
+msgid "Powered By %s."
+msgstr "Funciona gracias a %s."
+
+#: inc/admin/class-theme-info.php:155
+msgid "Install and Activate Plugin"
+msgstr "Instalar y activar el plugin"
+
+#: inc/admin/class-theme-info.php:155
+msgid "Installing plugin"
+msgstr "Instalando plugin"
+
+#: inc/admin/class-theme-info.php:153
+msgid "Activate Plugin"
+msgstr "Activar plugin"
+
+#: inc/admin/class-theme-info.php:153
+msgid "Activating plugin"
+msgstr "Activando plugin"
+
+#: inc/admin/class-theme-info.php:80
+msgid "Dismissing"
+msgstr "Descartar"
+
+#: inc/admin/class-theme-info.php:496
+msgid "Thank you for using Newsmatic theme"
+msgstr "Gracias por utilizar el tema Newsmatic"
+
+#: inc/admin/class-theme-info.php:462
+msgid "Welcom notice hidden"
+msgstr "Aviso de bienvenida oculto"
+
+#: inc/admin/class-theme-info.php:46
+msgid "You dont have permission to perform this action"
+msgstr "No tienes permiso para realizar esta acción"
+
+#: inc/customizer/handlers.php:1465
+msgid "Site Tagline Typography"
+msgstr "Tipografía de la descripción corta del sitio"
+
+#: inc/customizer/handlers.php:229
+msgid "This will hide all the notices or any message shown by the theme like review notices, upgrade log, change log notices"
+msgstr "Esto ocultará todos los avisos y cualquier mensaje mostrado por el tema, como avisos de revisión, registro de actualización o avisos de registro de cambios"
+
+#: inc/customizer/handlers.php:228
+msgid "Disabled the theme admin notices"
+msgstr "Desactivados los avisos de administración del tema"
+
+#: inc/customizer/handlers.php:214
+msgid "Admin Settings"
+msgstr "Ajustes de administrador"
+
+#: inc/admin/class-theme-info.php:583
+msgid "Upgrade"
+msgstr "Actualizar"
+
+#: inc/admin/class-theme-info.php:582
+msgid "Help"
+msgstr "Ayuda"
+
+#: inc/admin/class-theme-info.php:581 inc/admin/class-theme-info.php:582
+#: inc/admin/class-theme-info.php:583
+msgid "(opens in a new tab)"
+msgstr "(se abre en una nueva pestaña)"
+
+#: inc/admin/class-theme-info.php:581
+msgid "Blogs"
+msgstr "Blogs"
+
+#: inc/admin/class-theme-info.php:554
+msgid "BlazeThemes Author Overview"
+msgstr "Vista general del autor de BlazeThemes"
+
+#: inc/customizer/handlers.php:3850 inc/widgets/carousel.php:152
+#: inc/widgets/category-collection.php:162 inc/widgets/popular-posts.php:154
+#: inc/widgets/posts-grid-two-column.php:159 inc/widgets/posts-grid.php:160
+#: inc/widgets/posts-list.php:177
+msgid "Image Ratio"
+msgstr "Proporción de imagen"
+
+#: inc/customizer/handlers.php:3242
+msgid "Trailing Posts Image Size"
+msgstr "Tamaño de la imagen de las entradas del final"
+
+#: inc/customizer/handlers.php:3198
+msgid "Trailing posts categories"
+msgstr "Categorías de las entradas del final"
+
+#: inc/customizer/handlers.php:3123
+msgid "Column Layout"
+msgstr "Disposición de columnas"
+
+#: inc/customizer/handlers.php:3119
+msgid "Row Layout"
+msgstr "Disposición de filas"
+
+#: inc/customizer/handlers.php:3093
+msgid "Trailing Posts Setting"
+msgstr "Ajustes de entradas del final"
+
+#: inc/customizer/handlers.php:3042
+msgid "Trailing Image Border Radius"
+msgstr "Radio del borde de las imágenes del final"
+
+#: inc/customizer/handlers.php:3024
+msgid "Block Posts Image Size"
+msgstr "Tamaño de imagen de bloque de entradas"
+
+#: inc/customizer/handlers.php:2935 inc/customizer/handlers.php:3872
+#: inc/widgets/carousel.php:165 inc/widgets/category-collection.php:175
+#: inc/widgets/popular-posts.php:167 inc/widgets/posts-grid-two-column.php:172
+#: inc/widgets/posts-grid.php:173 inc/widgets/posts-list.php:190
+msgid "Image Border Radius"
+msgstr "Radio del borde de la imagen"
+
+#: inc/customizer/handlers.php:2923
+msgid "Slider Image Size"
+msgstr "Tamaño de imagen del carrusel"
+
+#: inc/customizer/handlers.php:2787
+msgid "Layout Five"
+msgstr "Disposición cinco"
+
+#: inc/customizer/handlers.php:2783
+msgid "Four"
+msgstr "Cuatro"
+
+#: inc/customizer/handlers.php:2666 inc/customizer/handlers.php:2712
+#: inc/customizer/handlers.php:3838 inc/widgets/carousel.php:145
+#: inc/widgets/category-collection.php:155 inc/widgets/popular-posts.php:147
+#: inc/widgets/posts-grid-two-column.php:152 inc/widgets/posts-grid.php:153
+#: inc/widgets/posts-list.php:170
+msgid "Image Size"
+msgstr "Tamaño de imagen"
+
+#: inc/customizer/handlers.php:2650 inc/customizer/handlers.php:2696
+#: inc/customizer/handlers.php:3822 inc/widgets/carousel.php:140
+#: inc/widgets/category-collection.php:150 inc/widgets/popular-posts.php:142
+#: inc/widgets/posts-grid-two-column.php:147 inc/widgets/posts-grid.php:148
+#: inc/widgets/posts-list.php:165
+msgid "Image Setting"
+msgstr "Ajustes de imagen"
+
+#: inc/customizer/handlers.php:789 inc/customizer/handlers.php:807
+msgid "Effect Two"
+msgstr "Efecto dos"
+
+#: inc/template-functions.php:755
+msgid "It looks like nothing was found at this location. Maybe try another search?"
+msgstr "Parece que no hay nada aquí. ¿Quizás probar otra búsqueda?"
+
+#: inc/customizer/handlers.php:2472
+msgid "Enable live search"
+msgstr "Activar la búsqueda en vivo"
+
+#: inc/customizer/handlers.php:2460
+msgid "Live Search"
+msgstr "Búsqueda en vivo"
+
+#: inc/customizer/handlers.php:2006
+msgid "Manage live search"
+msgstr "Gestionar la búsqueda en vivo"
+
+#: inc/theme-starter.php:172
+msgid "Live Now"
+msgstr "En directo"
+
+#: inc/customizer/handlers.php:2447
+msgid "Background Hover"
+msgstr "Color de fondo"
+
+#: inc/customizer/handlers.php:2416
+msgid "Icon / Text Color"
+msgstr "Color de icono / texto"
+
+#: inc/customizer/handlers.php:2376
+msgid "Show header custom button"
+msgstr "Mostrar botón personalizado de cabecera"
+
+#: inc/customizer/handlers.php:2342
+msgid "Custom Button"
+msgstr "Botón personalizado"
+
+#: inc/customizer/customizer-up.php:105 inc/customizer/handlers.php:1161
+#: inc/customizer/handlers.php:2301
+msgid "Text Color"
+msgstr "Color de texto"
+
+#: inc/customizer/handlers.php:2084
+msgid "Search Icon Color"
+msgstr "Color del icono de buscar"
+
+#: inc/customizer/handlers.php:2069
+msgid "Toggle Bar Color"
+msgstr "Alternar el color de la barra"
+
+#: inc/customizer/handlers.php:1869
+msgid "Buttons - Site Logo - Social Icon"
+msgstr "Botones - Logo del sitio - Icono social"
+
+#: inc/customizer/handlers.php:1868
+msgid "Social Icon - Site Logo - Buttons"
+msgstr "Icono social - Logo del sitio - Botones"
+
+#: inc/customizer/handlers.php:1866
+msgid "You can change the position of the social icons and buttons."
+msgstr "Puedes cambiar la posición de los iconos y botones sociales."
+
+#: inc/customizer/handlers.php:1865
+msgid "Elements Display Order"
+msgstr "Orden de visualización de los elementos"
+
+#: inc/customizer/customizer-up.php:33
+msgid "20+ Preloader"
+msgstr "+ 20 precargadores"
+
+#: inc/customizer/customizer-up.php:19
+msgid "Unlimited social icons items with unlimited choices"
+msgstr "Ilimitados elementos de iconos sociales con opciones ilimitadas"
+
+#: inc/customizer/handlers.php:1566
+msgid "Show nav menu"
+msgstr "Mostrar menú de navegación"
+
+#: inc/customizer/handlers.php:1554
+msgid "Nav Menu"
+msgstr "Menu de navegacion"
+
+#: inc/customizer/handlers.php:1551
+msgid "Ticker news / Nav menu choices"
+msgstr "Teletipo de noticias / Opciones de menú de navegación"
+
+#: inc/customizer/custom-controls/upsell/upsell.php:32
+#: inc/customizer/handlers.php:91
+msgid "View Premium"
+msgstr "Ver Premium"
+
+#: inc/customizer/handlers.php:86
+msgid "Our premium version of newsmatic includes unlimited news sections with advanced control fields. No limititation on any field and dedicated support."
+msgstr "Nuestra versión premium de newsmatic incluye secciones de noticias ilimitadas con campos de control avanzados. Sin limitación en ningún campo y soporte dedicado."
+
+#: inc/customizer/handlers.php:85
+msgid "Premium Version"
+msgstr "Versión Premium"
+
+#: inc/admin/class-theme-info.php:774
+msgid "Got pre sales queries?"
+msgstr "¿Tienes preguntas de preventa?"
+
+#: inc/admin/class-theme-info.php:771
+msgid "Maybe later"
+msgstr "Quizá más tarde"
+
+#: inc/admin/class-theme-info.php:768
+msgid "Upgrade to pro"
+msgstr "Mejorar a pro"
+
+#. Translators: %1$s current user display name., %2$s this theme name., %3$s
+#. discount coupon code., %4$s discount percentage.
+#: inc/admin/class-theme-info.php:755
+msgid "Hello %1$s! We hope you're enjoying the %2$s theme now that you've been using it for a while. You may always upgrade to pro to gain access to more premium features. You can also get a %4$s discount by using the promo code %3$s during checkout. Enjoy! "
+msgstr "¡Hola %1$s! Esperamos que estés disfrutando del tema %2$s ahora que llevas un tiempo utilizándolo. Siempre puedes actualizar a pro para acceder a más funciones premium. También puedes obtener un descuento %4$s utilizando el código promocional %3$s durante la compra. ¡Que lo disfrutes! "
+
+#: inc/admin/class-theme-info.php:659 inc/admin/class-theme-info.php:678
+msgid "Cheatin&#8217; huh?"
+msgstr "¿Haciendo trampas?"
+
+#: inc/admin/class-theme-info.php:655 inc/admin/class-theme-info.php:674
+msgid "Action failed. Please refresh the page and retry."
+msgstr "La acción ha fallado. Por favor, recarga la página e inténtalo de nuevo."
+
+#: inc/admin/class-theme-info.php:539
+msgid "Dismiss Notice"
+msgstr "Descartar aviso"
+
+#: inc/admin/class-theme-info.php:538
+msgid "Leave A Review"
+msgstr "Dejar una opinión"
+
+#: inc/admin/class-theme-info.php:536
+msgid "We are constantly striving to improve and we'd like to hear from you. Hope you spend your few seconds reviewing our product. We appreciate your time and feedback! Thank you!!"
+msgstr "Nos esforzamos constantemente por mejorar y nos gustaría conocer tu opinión. Esperamos que dediques unos segundos a revisar nuestro producto. Agradecemos tu tiempo y tus comentarios ¡Gracias!"
+
+#: inc/admin/class-theme-info.php:535
+msgid "How was your experience using Newsmatic theme ? "
+msgstr "¿Cómo ha sido tu experiencia con el tema Newsmatic? "
+
+#: inc/admin/class-theme-info.php:532
+msgid "Newsmatic Review Notice"
+msgstr "Aviso de reseña de Newsmatic"
+
+#: inc/admin/class-theme-info.php:507
+msgid "Dismiss this notice"
+msgstr "Descartar este aviso"
+
+#: inc/admin/class-theme-info.php:502
+msgid "Documentation"
+msgstr "Documentación"
+
+#: inc/admin/class-theme-info.php:501
+msgid "Customize Site"
+msgstr "Personalizar sitio"
+
+#: inc/admin/class-theme-info.php:500
+msgid "Install Demos"
+msgstr "Instalar demos"
+
+#: inc/admin/class-theme-info.php:498
+msgid "Get started with multipurpose news theme and give your site a new look. We recommend you to please go through the documentation to get started with theme and setup homepage quicky."
+msgstr "Empieza a utilizar el tema de noticias multiuso y dale un nuevo aspecto a tu sitio web. Te recomendamos que consultes la documentación para empezar a utilizar el tema y configurar la página de inicio rápidamente."
+
+#: inc/admin/class-theme-info.php:447
+msgid "Review notice hidden."
+msgstr "Aviso de reseña oculto."
+
+#: inc/admin/class-theme-info.php:432
+msgid "Error while trying to install or active the plugin."
+msgstr "Error al intentar instalar o activar el plugin."
+
+#: inc/admin/class-theme-info.php:428
+msgid "Demo importer plugin installed and activated"
+msgstr "Plugin importador de demos instalado y activado"
+
+#: inc/admin/class-theme-info.php:415
+msgid "Demo importer plugin activated"
+msgstr "Plugin importador de demos activado"
+
+#: inc/admin/class-theme-info.php:391
+msgid "Installed but Not Active"
+msgstr "Instalado pero no activo"
+
+#: inc/admin/class-theme-info.php:387
+msgid "Installed and Active"
+msgstr "Instalado y activo"
+
+#: inc/admin/class-theme-info.php:383
+msgid "Not Installed"
+msgstr "No Instalado"
+
+#: inc/admin/class-theme-info.php:359
+msgid "Demo import success"
+msgstr "Éxito de la importación de demostración"
+
+#: inc/admin/class-theme-info.php:349
+msgid "Demo Import Progress"
+msgstr "Progreso de la importación de la demo"
+
+#: inc/admin/class-theme-info.php:341
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: inc/admin/class-theme-info.php:340
+msgid "Import Demo"
+msgstr "Importar demo"
+
+#: inc/admin/class-theme-info.php:334
+msgid "It is always recommended to reset the database for a complete demo import."
+msgstr "Siempre se recomienda restablecer la base de datos para una importación de demostración completa."
+
+#: inc/admin/class-theme-info.php:333
+msgid "Reseting the website will delete all your post, pages, custom post types, categories, taxonomies, images and all other customizer and theme option settings."
+msgstr "Al reiniciar el sitio web se borrarán todas tus entradas, páginas, tipos de entrada personalizados, categorías, taxonomías, imágenes y todos los demás ajustes del personalizador y de las opciones del tema."
+
+#: inc/admin/class-theme-info.php:332
+msgid "Reset Website"
+msgstr "Restablecer web"
+
+#: inc/admin/class-theme-info.php:325
+msgid "No Required Plugins Found."
+msgstr "No se han encontrado los plugins necesarios."
+
+#: inc/admin/class-theme-info.php:297
+msgid "For your website to look exactly like the demo,the import process will install and activate the following plugin if they are not installed or activated."
+msgstr "Para que tu sitio web tenga el mismo aspecto que la demo, el proceso de importación instalará y activará los siguientes plugins si no están instalados o activados."
+
+#: inc/admin/class-theme-info.php:296
+msgid "Required Plugins"
+msgstr "Plugins necesarios"
+
+#: inc/admin/class-theme-info.php:293
+msgid "This process will install all the required plugins, import contents and setup customizer and theme options."
+msgstr "Este proceso instalará todos los plugins necesarios, importará contenidos y configurará el personalizador y las opciones del tema."
+
+#: inc/admin/class-theme-info.php:291
+msgid "All in one migration"
+msgstr "All in one migration"
+
+#: inc/admin/class-theme-info.php:291
+msgid "We recommend you backup your website content before attempting to import the demo so that you can recover your website if something goes wrong. You can use %s plugin for it."
+msgstr "Te recomendamos que hagas una copia de seguridad del contenido de tu sitio web antes de intentar importar la demo, para que puedas recuperar tu sitio web si algo sale mal. Puedes utilizar el plugin %s para ello."
+
+#: inc/admin/class-theme-info.php:273
+msgid "It looks like the config file for the demos is missing or conatins errors!. Demo install can't go futher!"
+msgstr "Parece que falta el archivo de configuración de las demos o contiene errores! ¡La instalación de la demo no puede continuar!"
+
+#: inc/admin/class-theme-info.php:257
+msgid "Install"
+msgstr "Instalar"
+
+#: inc/admin/class-theme-info.php:251
+msgid "Buy Now"
+msgstr "Comprar ahora"
+
+#: inc/admin/class-theme-info.php:244
+msgid "Preview"
+msgstr "Previsualizar"
+
+#: inc/admin/class-theme-info.php:235
+msgid "Free"
+msgstr "Gratis"
+
+#: inc/admin/class-theme-info.php:232
+msgid "Pro"
+msgstr "Pro"
+
+#: inc/admin/class-theme-info.php:157
+msgid "All Ready for demo import!! Setup your site exactly like demo"
+msgstr "¡Todo listo para la importación de demos! Configura tu sitio exactamente igual que la demo"
+
+#: inc/admin/class-theme-info.php:155
+msgid "Install BlazeThemes Demo Importer and Import any available demo in One Click"
+msgstr "Instala el Importador de demos de BlazeThemes e importa cualquier demo disponible con un solo clic"
+
+#: inc/admin/class-theme-info.php:153
+msgid "Activate Blazethemes Demo Importer Now and Import any available demo in One Click"
+msgstr "Activa ahora el Importador de demos de Blazethemes e importa cualquier demo disponible con un solo clic"
+
+#: inc/admin/class-theme-info.php:148
+msgid "Free and Premium Demos"
+msgstr "Demos gratuitas y Premium"
+
+#: inc/admin/class-theme-info.php:142
+msgid "Free vs PRO"
+msgstr "Gratis vs PRO"
+
+#: inc/admin/class-theme-info.php:136
+msgid "Leave a review"
+msgstr "Dejar un comentario"
+
+#: inc/admin/class-theme-info.php:130
+msgid "Theme demo"
+msgstr "Demo del tema"
+
+#: inc/admin/class-theme-info.php:124
+msgid "Support"
+msgstr "Soporte"
+
+#: inc/admin/class-theme-info.php:118
+msgid "Setup Tutorials"
+msgstr "Tutoriales de configuración"
+
+#: inc/admin/class-theme-info.php:97 inc/admin/class-theme-info.php:98
+msgid "Newsmatic Options"
+msgstr "Opciones de Newsmatic"
+
+#: inc/customizer/assets/customizer-extends.js:16707
+msgid "Contain"
+msgstr "Contenido"
+
+#: inc/customizer/assets/customizer-extends.js:16704
+msgid "Cover"
+msgstr "Cubrir"
+
+#: inc/customizer/assets/customizer-extends.js:16701
+msgid "Auto"
+msgstr "Auto"
+
+#: inc/customizer/assets/customizer-extends.js:16698
+msgid "Background Size"
+msgstr "Tamaño del fondo"
+
+#: inc/customizer/assets/customizer-extends.js:16696
+msgid "Scroll"
+msgstr "Desplazar"
+
+#: inc/customizer/assets/customizer-extends.js:16693
+msgid "Fixed"
+msgstr "Fijo"
+
+#: inc/customizer/assets/customizer-extends.js:16690
+msgid "Background Attachment"
+msgstr "Fijación del fondo"
+
+#: inc/customizer/assets/customizer-extends.js:16672
+msgid "Background Repeat"
+msgstr "Repetición del fondo"
+
+#: inc/customizer/assets/customizer-extends.js:16640
+msgid "Background Position"
+msgstr "Posición del fondo"
+
+#: inc/customizer/assets/customizer-extends.js:16639
+msgid "Show more settings!"
+msgstr "¡Mostrar más ajustes!"
+
+#: inc/customizer/assets/customizer-extends.js:16639
+msgid "Show less settings!"
+msgstr "¡Mostrar menos ajustes!"
+
+#: inc/customizer/assets/customizer-extends.js:16609
+msgid "Choose an image"
+msgstr "Elige una imagen"
+
+#: inc/customizer/assets/customizer-extends.js:16396
+msgid "Image"
+msgstr "Imagen"
+
+#: inc/customizer/assets/customizer-extends.js:16392
+msgid "Gradient"
+msgstr "Degradado"
+
+#: inc/customizer/assets/customizer-extends.js:16388
+msgid "Solid"
+msgstr "Sólido"
+
+#: inc/customizer/assets/customizer-extends.js:15948
+#: inc/customizer/assets/customizer-extends.js:16497
+#: inc/customizer/assets/customizer-extends.js:17059
+#: inc/customizer/assets/customizer-extends.js:17175
+msgid "Clear"
+msgstr "Vaciar"
+
+#: inc/customizer/assets/customizer-extends.js:3133
+#: inc/customizer/assets/customizer-extends.js:3144
+#: inc/customizer/assets/customizer-extends.js:16616
+#: inc/customizer/assets/customizer-extends.js:16626
+msgid "Replace image"
+msgstr "Reemplazar imagen"
+
+#: inc/customizer/assets/customizer-extends.js:3126
+msgid "Upload an image"
+msgstr "Subir una imagen"
+
+#: template-parts/content-single.php:90
+msgid "Next:"
+msgstr "Siguiente:"
+
+#: template-parts/content-single.php:89
+msgid "Previous:"
+msgstr "Anterior:"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-single.php:62
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Seguir leyendo<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: template-parts/content-page.php:23 template-parts/content-single.php:75
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: template-parts/content-none.php:43
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no encontramos lo que estás buscando. Puede que una búsqueda te ayude."
+
+#: template-parts/content-none.php:37
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo sentimos, pero nada coincide con tus términos de búsqueda. Por favor, prueba de nuevo con algunas palabras diferentes."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:26
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Preparado para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: template-parts/content-none.php:16
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found for - %1s"
+msgstr "No se ha encontrado nada para - %1s"
+
+#. translators: %s: search query.
+#: search.php:56
+msgid "Search Results for : %s"
+msgstr "Resultados de buscar: %s"
+
+#: inc/hooks/footer-hooks.php:61 inc/widgets/widgets.php:121
+msgid "Footer Sidebar - Column 4"
+msgstr "Barra lateral de pie de página - Columna 4"
+
+#: inc/hooks/footer-hooks.php:47 inc/widgets/widgets.php:108
+msgid "Footer Sidebar - Column 3"
+msgstr "Barra lateral de pie de página - Columna 3"
+
+#: inc/hooks/footer-hooks.php:33 inc/widgets/widgets.php:95
+msgid "Footer Sidebar - Column 2"
+msgstr "Barra lateral de pie de página - Columna 2"
+
+#: inc/hooks/footer-hooks.php:21 inc/widgets/widgets.php:82
+msgid "Footer Sidebar - Column 1"
+msgstr "Barra lateral de pie de página - Columna 1"
+
+#: inc/widgets/widgets.php:71
+msgid "Add widgets suitable for middle left here."
+msgstr "Añade aquí widgets adecuados para el centro izquierda."
+
+#: inc/widgets/widgets.php:69
+msgid "Frontpage - Middle Left Sidebar"
+msgstr "Portada - Barra lateral central izquierda"
+
+#: inc/widgets/widgets.php:58
+msgid "Add widgets suitable for middle right here."
+msgstr "Añade widgets adecuados para el centro justo aquí."
+
+#: inc/widgets/widgets.php:56
+msgid "Frontpage - Middle Right Sidebar"
+msgstr "Portada - Barra lateral central derecha"
+
+#: inc/widgets/widgets.php:43
+msgid "Header Toggle Sidebar"
+msgstr "Cabecera Alternar Barra lateral"
+
+#: inc/widgets/widgets.php:19 inc/widgets/widgets.php:32
+#: inc/widgets/widgets.php:45 inc/widgets/widgets.php:84
+#: inc/widgets/widgets.php:97 inc/widgets/widgets.php:110
+#: inc/widgets/widgets.php:123
+msgid "Add widgets here."
+msgstr "Añade widgets aquí."
+
+#: inc/widgets/widgets.php:17
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: inc/widgets/widget-title.php:58
+msgid "change the alignment of the wiget title text."
+msgstr "cambia la alineación del texto del título de widget."
+
+#: inc/widgets/widget-title.php:57
+msgid "Text Align"
+msgstr "Alineación del texto"
+
+#: inc/widgets/widget-title.php:51
+msgid "Add the widget title here."
+msgstr "Añade aquí el título del widget."
+
+#: inc/widgets/widget-title.php:50
+msgid "Custom Widget Title"
+msgstr "Título personalizado del widget"
+
+#: inc/widgets/widget-title.php:16
+msgid "Theme custom widget title."
+msgstr "Título del widget personalizado del tema."
+
+#: inc/widgets/widget-title.php:15
+msgid "Newsmatic : Widget Title"
+msgstr "Newsmatic : Título del widget"
+
+#: inc/widgets/widget-fields.php:127
+#: inc/customizer/assets/customizer-extends.js:3149
+#: inc/customizer/assets/customizer-extends.js:16631
+msgid "Remove image"
+msgstr "Eliminar la imagen"
+
+#: inc/widgets/widget-fields.php:123
+msgid "Add image"
+msgstr "Añadir imagen"
+
+#: inc/widgets/widget-fields.php:94
+msgid "Add url here . ."
+msgstr "Añadir url aquí . ."
+
+#: inc/widgets/posts-list.php:16
+msgid "A collection of posts from specific category displayed in list layout."
+msgstr "Una colección de entradas de una categoría específica mostradas en forma de lista."
+
+#: inc/widgets/posts-list.php:15
+msgid "Newsmatic : Posts List"
+msgstr "Newsmatic : Lista de entradas"
+
+#: inc/widgets/posts-grid.php:130 inc/widgets/posts-list.php:147
+msgid "Trending News"
+msgstr "Últimas Noticias"
+
+#: inc/widgets/posts-grid.php:16
+msgid "A collection of posts from specific category displayed in grid layout."
+msgstr "Una colección de entradas de una categoría específica mostradas en un diseño de cuadrícula."
+
+#: inc/widgets/posts-grid.php:15
+msgid "Newsmatic : Posts Grid"
+msgstr "Newsmatic : Cuadrícula de entradas"
+
+#: inc/widgets/posts-grid-two-column.php:141 inc/widgets/posts-grid.php:142
+#: inc/widgets/posts-list.php:159
+msgid "Number of posts to show"
+msgstr "Número de entradas a mostrar"
+
+#: inc/widgets/posts-grid-two-column.php:135 inc/widgets/posts-grid.php:136
+#: inc/widgets/posts-list.php:153
+msgid "Choose the category to display list of posts"
+msgstr "Elige la categoría para mostrar la lista de entradas"
+
+#: inc/widgets/posts-grid-two-column.php:129 inc/widgets/widget-title.php:52
+msgid "Latest News"
+msgstr "Últimas noticias"
+
+#: inc/widgets/posts-grid-two-column.php:16
+msgid "A collection of posts from specific category displayed in grid two column layout."
+msgstr "Una colección de entradas de una categoría específica mostradas en una cuadrícula de dos columnas."
+
+#: inc/widgets/posts-grid-two-column.php:15
+msgid "Newsmatic : Posts Grid 2 Column"
+msgstr "Newsmatic : Cuadrícula de entradas 2 columnas"
+
+#: inc/widgets/popular-posts.php:136
+msgid "Enable slider item to auto slide"
+msgstr "Permitir que el elemento deslizante se deslice automáticamente"
+
+#: inc/widgets/popular-posts.php:130
+msgid "Choose the category to display for popular posts"
+msgstr "Elige la categoría que se mostrará para las entradas populares"
+
+#: inc/widgets/popular-posts.php:124
+msgid "Popular News"
+msgstr "Noticias Populares"
+
+#: inc/widgets/popular-posts.php:16
+msgid "A collection of popular posts from specific category."
+msgstr "Una colección de entradas populares de una categoría específica."
+
+#: inc/widgets/popular-posts.php:15
+msgid "Newsmatic : Popular Posts Slider"
+msgstr "Newsmatic : Carrusel de entradas populares"
+
+#: inc/widgets/category-collection.php:144
+msgid "Choose the categories to display"
+msgstr "Elige las categorías a mostrar"
+
+#: inc/widgets/category-collection.php:143
+msgid "Post Categories"
+msgstr "Categorías de entrada"
+
+#: inc/widgets/category-collection.php:138
+msgid "Category Collection"
+msgstr "Colección de categorías"
+
+#: inc/widgets/category-collection.php:107
+msgid "News"
+msgstr "Noticias"
+
+#: inc/widgets/category-collection.php:16
+msgid "A collection of post categories."
+msgstr "Una colección de categorías de entradas."
+
+#: inc/widgets/category-collection.php:15
+msgid "Newsmatic : Category Collection"
+msgstr "Newsmatic : Colección de categorías"
+
+#: inc/widgets/carousel.php:134
+msgid "Choose the category to display for carousel posts"
+msgstr "Elige la categoría que se mostrará en las entradas del carrusel"
+
+#: inc/widgets/carousel.php:133 inc/widgets/popular-posts.php:129
+#: inc/widgets/posts-grid-two-column.php:134 inc/widgets/posts-grid.php:135
+#: inc/widgets/posts-list.php:152
+msgid "Categories"
+msgstr "Categorías"
+
+#: inc/widgets/carousel.php:128
+msgid "Highlights"
+msgstr "Destacado"
+
+#: inc/widgets/carousel.php:118 inc/widgets/popular-posts.php:114
+#: inc/widgets/posts-grid-two-column.php:119 inc/widgets/posts-grid.php:120
+#: inc/widgets/posts-list.php:137
+msgid "Select category"
+msgstr "Seleccionar categoría"
+
+#: inc/widgets/carousel.php:16
+msgid "A collection of posts from specific category for carousel slide."
+msgstr "Una colección de entradas de una categoría específica para la diapositiva carrusel."
+
+#: inc/widgets/carousel.php:15
+msgid "Newsmatic : Carousel Posts"
+msgstr "Newsmatic : Carrusel de entradas"
+
+#: inc/widgets/author-info.php:143
+msgid "Lorem ipsum is simply dummy text"
+msgstr "Lorem Ipsum es sólo un texto ficticio"
+
+#: inc/widgets/author-info.php:142
+msgid "Description"
+msgstr "Descripción"
+
+#: inc/widgets/author-info.php:137
+msgid "Author URL"
+msgstr "URL del autor"
+
+#: inc/widgets/author-info.php:132
+msgid "Writer"
+msgstr "Escritor"
+
+#: inc/widgets/author-info.php:131
+msgid "Author Tag"
+msgstr "Etiqueta del autor"
+
+#: inc/widgets/author-info.php:126
+msgid "Author Image"
+msgstr "Imagen del autor"
+
+#: inc/widgets/author-info.php:120 inc/widgets/author-info.php:121
+msgid "Author Name"
+msgstr "Nombre del autor"
+
+#: inc/widgets/author-info.php:115
+msgid "Author Info"
+msgstr "Información del autor"
+
+#: inc/widgets/author-info.php:114 inc/widgets/carousel.php:127
+#: inc/widgets/category-collection.php:137 inc/widgets/popular-posts.php:123
+#: inc/widgets/posts-grid-two-column.php:128 inc/widgets/posts-grid.php:129
+#: inc/widgets/posts-list.php:146
+msgid "Add the widget title here"
+msgstr "Añade aquí el título del widget"
+
+#: inc/widgets/author-info.php:113 inc/widgets/carousel.php:126
+#: inc/widgets/category-collection.php:136 inc/widgets/popular-posts.php:122
+#: inc/widgets/posts-grid-two-column.php:127 inc/widgets/posts-grid.php:128
+#: inc/widgets/posts-list.php:145
+msgid "Widget Title"
+msgstr "Título del widget"
+
+#: inc/widgets/author-info.php:107
+msgid "Custom will allow you to display below custom content to add."
+msgstr "Personalizado te permitirá mostrar debajo contenido personalizado para añadir."
+
+#: inc/widgets/author-info.php:106
+msgid "Author To Display"
+msgstr "Autor a mostrar"
+
+#: inc/widgets/author-info.php:96
+msgid "Custom"
+msgstr "Personalizado"
+
+#: inc/widgets/author-info.php:16
+msgid "The information of  in detail author."
+msgstr "La información del autor en detalle."
+
+#: inc/widgets/author-info.php:15
+msgid "Newsmatic : Author Info"
+msgstr "Newsmatic : Información del autor"
+
+#: inc/theme-starter.php:429
+msgid "Newsmatic - News WordPress Theme %year%."
+msgstr "Newsmatic - Tema de WordPress para Noticias %year%."
+
+#: inc/theme-starter.php:396
+msgid "You May Have Missed"
+msgstr "Te pueden interesar"
+
+#: inc/theme-starter.php:326
+msgid "Advertisement Banner"
+msgstr "Banner publicitario"
+
+#: inc/theme-starter.php:302 inc/theme-starter.php:340
+#: inc/theme-starter.php:367
+msgid "Latest posts"
+msgstr "Últimas entradas"
+
+#: inc/theme-starter.php:262
+msgid "Headlines"
+msgstr "Titulares"
+
+#: inc/theme-starter.php:186
+msgid "Newsletter"
+msgstr "Boletín"
+
+#: inc/theme-starter.php:52
+msgid "Read More"
+msgstr "Leer más"
+
+#: inc/template-tags.php:229 inc/template-tags.php:240
+msgid "ago"
+msgstr "atrás"
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:130
+msgid "Tagged: %1$s"
+msgstr "Etiquetado: %1$s"
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:113
+msgid "Posted in %1$s"
+msgstr "Publicado en %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:110
+msgid ", "
+msgstr ", "
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:87 template-parts/content-page.php:37
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Editar <span class=\"screen-reader-text\">%s</span>"
+
+#. translators: %s: post title
+#: inc/template-tags.php:70
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Deja un comentario<span class=\"screen-reader-text\"> en %s</span>"
+
+#: inc/template-functions.php:691
+msgid "No posts found"
+msgstr "No se encontraron entradas"
+
+#: inc/template-functions.php:459
+msgid "This Year"
+msgstr "Este año"
+
+#: inc/template-functions.php:416 inc/template-functions.php:455
+msgid "Last Month"
+msgstr "Último mes"
+
+#: inc/template-functions.php:412 inc/template-functions.php:451
+msgid "This Month"
+msgstr "Este mes"
+
+#: inc/template-functions.php:408 inc/template-functions.php:447
+msgid "Last Week"
+msgstr "Última semana"
+
+#: inc/template-functions.php:404 inc/template-functions.php:443
+msgid "This Week"
+msgstr "Esta semana"
+
+#: inc/template-functions.php:400 inc/template-functions.php:439
+msgid "Today"
+msgstr "Hoy"
+
+#: inc/template-functions.php:396 inc/template-functions.php:435
+msgid "Last 7 days"
+msgstr "Últimos 7 días"
+
+#: inc/admin/class-theme-info.php:195 inc/template-functions.php:392
+msgid "All"
+msgstr "Todos"
+
+#: inc/hooks/header-hooks.php:177
+msgid "Menu"
+msgstr "Menú"
+
+#: inc/extras/extras.php:255
+msgid "Both Sidebar"
+msgstr "Las dos barras laterales"
+
+#: inc/extras/extras.php:251
+msgid "Right Sidebar"
+msgstr "Barra lateral derecha"
+
+#: inc/extras/extras.php:247 inc/widgets/widgets.php:30
+msgid "Left Sidebar"
+msgstr "Barra lateral izquierda"
+
+#: inc/extras/extras.php:243
+msgid "No Sidebar"
+msgstr "Sin barra lateral"
+
+#: inc/customizer/selective-refresh.php:314
+#: inc/hooks/bottom-footer-hooks.php:32
+msgid "Setup Bottom Footer Menu"
+msgstr "Configurar menú inferior de pie de página"
+
+#: inc/customizer/handlers.php:3981
+msgid "Upload image that shows you are on 404 error page"
+msgstr "Sube una imagen que muestre que estás en la página de error 404"
+
+#: inc/customizer/handlers.php:3980
+msgid "404 Image"
+msgstr "Imagen 404"
+
+#: inc/customizer/handlers.php:3968
+msgid "404"
+msgstr "404"
+
+#: inc/customizer/handlers.php:3962
+msgid "Pages"
+msgstr "Páginas"
+
+#: inc/customizer/handlers.php:3948
+msgid "Related news title"
+msgstr "Título de las noticias relacionadas"
+
+#: inc/customizer/handlers.php:3933
+msgid "Show related news"
+msgstr "Mostrar noticias relacionadas"
+
+#: inc/customizer/handlers.php:3919 inc/theme-starter.php:443
+msgid "Related News"
+msgstr "Noticias relacionadas"
+
+#: inc/customizer/handlers.php:3908
+msgid "Single Post"
+msgstr "Entrada individual"
+
+#: inc/customizer/handlers.php:3810
+msgid "Edit button styles"
+msgstr "Editar estilos de botones"
+
+#: inc/customizer/handlers.php:3791
+msgid "Show archive title prefix"
+msgstr "Mostrar el prefijo del título del archivo"
+
+#: inc/customizer/handlers.php:3777
+msgid "Layout Two"
+msgstr "Diseño dos"
+
+#: inc/customizer/handlers.php:3773
+msgid "Layout One"
+msgstr "Diseño uno"
+
+#: inc/customizer/handlers.php:3754
+msgid "Blog / Archive"
+msgstr "Blog / archivo"
+
+#: inc/customizer/handlers.php:3748
+msgid "Blog / Archive / Single"
+msgstr "Blog / Archivo / Single"
+
+#: inc/customizer/handlers.php:3731
+msgid "Latest Posts / Page Content"
+msgstr "Últimas Entradas / Contenido de la página"
+
+#: inc/customizer/handlers.php:3728
+msgid "Bottom Full width Section"
+msgstr "Sección inferior de ancho completo"
+
+#: inc/customizer/handlers.php:3722
+msgid "Left Content - Right Sidebar"
+msgstr "Contenido izquierdo - Barra lateral derecha"
+
+#: inc/customizer/handlers.php:3719
+msgid "Full width Section"
+msgstr "Sección de ancho completo"
+
+#: inc/customizer/handlers.php:3713
+msgid "Hold item and drag vertically to re-order the items"
+msgstr "Mantén pulsado el elemento y arrástralo verticalmente para reordenar los elementos"
+
+#: inc/customizer/handlers.php:3712
+msgid "Section Re-order"
+msgstr "Reordenación de secciones"
+
+#: inc/customizer/handlers.php:3695
+msgid "Reorder sections"
+msgstr "Reordenar secciones"
+
+#: inc/customizer/handlers.php:3656
+msgid "Bottom Full Width"
+msgstr "Inferior ancho completo"
+
+#: inc/customizer/handlers.php:3616
+msgid "Manage left sidebar"
+msgstr "Gestionar la barra lateral izquierda"
+
+#: inc/customizer/handlers.php:3596 inc/customizer/handlers.php:3725
+msgid "Left Sidebar - Right Content"
+msgstr "Barra lateral izquierda - Contenido derecho"
+
+#: inc/customizer/handlers.php:3553
+msgid "Manage right sidebar"
+msgstr "Gestionar la barra lateral derecha"
+
+#: inc/customizer/handlers.php:3532
+msgid "Left Content  - Right Sidebar"
+msgstr "Contenido izquierdo - Barra lateral derecha"
+
+#: inc/customizer/handlers.php:3507 inc/customizer/handlers.php:3568
+#: inc/customizer/handlers.php:3632 inc/customizer/handlers.php:3670
+msgid "Hold bar icon at right of block item and drag vertically to re-order blocks"
+msgstr "Mantén pulsado el icono de la barra a la derecha del elemento de bloque y arrástralo verticalmente para reordenar los bloques"
+
+#: inc/customizer/handlers.php:3506 inc/customizer/handlers.php:3567
+#: inc/customizer/handlers.php:3630 inc/customizer/handlers.php:3669
+msgid "Blocks to show in this section"
+msgstr "Bloques a mostrar en esta sección"
+
+#: inc/customizer/handlers.php:3487
+msgid "Front sections"
+msgstr "Secciones de portada"
+
+#: inc/customizer/handlers.php:3471
+msgid "Add %year% to retrieve current year."
+msgstr "Añade %year% para recuperar el año actual."
+
+#: inc/customizer/handlers.php:3469
+msgid "Copyright Text"
+msgstr "Texto de copyright"
+
+#: inc/customizer/handlers.php:3456
+msgid "Show bottom footer menu"
+msgstr "Mostrar el menú inferior del pie de página"
+
+#: inc/customizer/handlers.php:3442
+msgid "Enable bottom footer"
+msgstr "Activar pie de página inferior"
+
+#: inc/customizer/handlers.php:3393
+msgid "Manage footer widget four"
+msgstr "Gestionar el widget de pie de página cuatro"
+
+#: inc/customizer/handlers.php:3388
+msgid "Manage footer widget three"
+msgstr "Gestionar widget de pie de página tres"
+
+#: inc/customizer/handlers.php:3383
+msgid "Manage footer widget two"
+msgstr "Gestionar el widget de pie de página dos"
+
+#: inc/customizer/handlers.php:3378
+msgid "Manage footer widget one"
+msgstr "Gestionar el widget de pie de página uno"
+
+#: inc/customizer/handlers.php:3370 inc/customizer/handlers.php:3544
+#: inc/customizer/handlers.php:3607
+msgid "Widgets"
+msgstr "Widgets"
+
+#: inc/customizer/handlers.php:3357
+msgid "Column Four"
+msgstr "Columna cuatro"
+
+#: inc/customizer/handlers.php:3353
+msgid "Column Three"
+msgstr "Columna tres"
+
+#: inc/customizer/handlers.php:3349
+msgid "Column Two"
+msgstr "Columna dos"
+
+#: inc/customizer/handlers.php:3345
+msgid "Column One"
+msgstr "Columna uno"
+
+#: inc/customizer/handlers.php:3323
+msgid "Enable footer section"
+msgstr "Activar la sección de pie de página"
+
+#: inc/customizer/handlers.php:3289
+msgid "Theme Footer"
+msgstr "Pie de página del tema"
+
+#: inc/customizer/handlers.php:3268
+msgid "Grid Trailing Posts"
+msgstr "Cuadrícula de entradas"
+
+#: inc/customizer/handlers.php:3265
+msgid "Banner Slider Column"
+msgstr "Columna de carrusel de banner"
+
+#: inc/customizer/handlers.php:3259
+msgid "Column Re-order"
+msgstr "Reordenar columnas"
+
+#: inc/customizer/handlers.php:3001
+msgid "Block posts categories"
+msgstr "Categorías de bloque de entradas"
+
+#: inc/customizer/handlers.php:2955
+msgid "Block Posts Setting"
+msgstr "Ajustes de bloque de entradas"
+
+#: inc/customizer/handlers.php:2824 inc/customizer/handlers.php:2983
+#: inc/customizer/handlers.php:3151 inc/template-functions.php:431
+msgid "Random"
+msgstr "Aleatorio"
+
+#: inc/customizer/handlers.php:2823 inc/customizer/handlers.php:2982
+#: inc/customizer/handlers.php:3150
+msgid "Z - A"
+msgstr "Z - A"
+
+#: inc/customizer/handlers.php:2822 inc/customizer/handlers.php:2981
+#: inc/customizer/handlers.php:3149
+msgid "A - Z"
+msgstr "A - Z"
+
+#: inc/customizer/handlers.php:2821 inc/customizer/handlers.php:2980
+#: inc/customizer/handlers.php:3148
+msgid "Oldest - Newest"
+msgstr "Más antiguo - Más reciente"
+
+#: inc/customizer/handlers.php:2820 inc/customizer/handlers.php:2979
+#: inc/customizer/handlers.php:3147
+msgid "Newest - Oldest"
+msgstr "Más reciente - Más antiguo"
+
+#: inc/customizer/handlers.php:2817 inc/customizer/handlers.php:2976
+#: inc/customizer/handlers.php:3145
+msgid "Orderby"
+msgstr "Ordenar por"
+
+#: inc/customizer/handlers.php:2802
+msgid "Slider Setting"
+msgstr "Ajustes del carrusel"
+
+#: inc/customizer/handlers.php:2764
+msgid "Show main banner"
+msgstr "Mostrar banner principal"
+
+#: inc/customizer/handlers.php:2730
+msgid "Main Banner"
+msgstr "Banner principal"
+
+#: inc/customizer/handlers.php:2550
+msgid "Ticker title"
+msgstr "Titulo de teletipo"
+
+#: inc/customizer/handlers.php:2534
+msgid "Content Setting"
+msgstr "Ajustes del contenido"
+
+#: inc/customizer/handlers.php:2523
+msgid "Hide in all pages"
+msgstr "Ocultar en todas las páginas"
+
+#: inc/customizer/handlers.php:2522
+msgid "Show only in innerpages"
+msgstr "Mostrar sólo en páginas interiores"
+
+#: inc/customizer/handlers.php:2521
+msgid "Frontpage"
+msgstr "Portada"
+
+#: inc/customizer/handlers.php:2520
+msgid "Show in all"
+msgstr "Mostrar en todas"
+
+#: inc/customizer/handlers.php:2518
+msgid "Show ticker on"
+msgstr "Mostrar teletipo en"
+
+#: inc/customizer/handlers.php:1553 inc/customizer/handlers.php:2504
+msgid "Ticker News"
+msgstr "Teletipo de noticias"
+
+#: inc/customizer/handlers.php:2316 inc/customizer/handlers.php:3407
+msgid "Border Top"
+msgstr "Borde superior"
+
+#: inc/customizer/handlers.php:2287
+msgid "One"
+msgstr "Uno"
+
+#: inc/customizer/handlers.php:2277
+msgid "Hover Effect"
+msgstr "Efecto al pasar"
+
+#: inc/customizer/handlers.php:2264
+msgid "Menu Options"
+msgstr "Opciones del menú"
+
+#: inc/customizer/handlers.php:2236
+msgid "Type of posts to dislay"
+msgstr "Tipo de entradas a mostrar"
+
+#: inc/customizer/handlers.php:2208
+msgid "Show random news button"
+msgstr "Botón mostrar noticias aleatorias"
+
+#: inc/customizer/handlers.php:2195
+msgid "Random News Setting"
+msgstr "Ajustes de noticias al azar"
+
+#: inc/customizer/handlers.php:2184 inc/theme-starter.php:189
+msgid "Random News"
+msgstr "Noticias aleatorias"
+
+#: inc/customizer/handlers.php:2161 inc/customizer/handlers.php:2403
+msgid "Add url for the button to redirect."
+msgstr "Añade la url para que el botón redirija."
+
+#: inc/customizer/handlers.php:2160 inc/customizer/handlers.php:2402
+msgid "Redirect URL."
+msgstr "URL de redirección."
+
+#: inc/customizer/handlers.php:2147 inc/customizer/handlers.php:2222
+#: inc/customizer/handlers.php:2389 inc/customizer/handlers.php:2489
+msgid "Button Label"
+msgstr "Etiqueta del botón"
+
+#: inc/customizer/handlers.php:2133
+msgid "Show newsletter button"
+msgstr "Mostrar botón del boletín"
+
+#: inc/customizer/handlers.php:2120
+msgid "Newsletter/Subscribe Setting"
+msgstr "Ajustes de boletín/suscripción"
+
+#: inc/customizer/handlers.php:2109
+msgid "Newsletter / Subscribe Button"
+msgstr "Botón boletín / suscripción"
+
+#: inc/customizer/handlers.php:2047
+msgid "Vertical Padding (px)"
+msgstr "Relleno vertical (px)"
+
+#: inc/customizer/handlers.php:2033
+msgid "Enable header section sticky"
+msgstr "Activar la sección de cabecera fija"
+
+#: inc/customizer/handlers.php:2020
+msgid "Show dark/light toggle icon"
+msgstr "Mostrar icono de alternar oscuro/claro"
+
+#: inc/customizer/handlers.php:1988
+msgid "Show search icon"
+msgstr "﻿Mostrar icono de búsqueda"
+
+#: inc/customizer/handlers.php:1973
+msgid "Manage sidebar from here"
+msgstr "Gestiona la barra lateral desde aquí"
+
+#: inc/customizer/handlers.php:1954
+msgid "Show sidebar toggle button"
+msgstr "Mostrar botón de alternar barra lateral"
+
+#: inc/customizer/handlers.php:1939
+msgid "Manage social icons"
+msgstr "Gestionar iconos sociales"
+
+#: inc/customizer/handlers.php:1920
+msgid "Show social icons"
+msgstr "Mostrar iconos sociales"
+
+#: inc/customizer/handlers.php:1905
+msgid "Manage site & Tagline"
+msgstr "Gestionar el sitio y la descripción corta"
+
+#: inc/customizer/handlers.php:1886
+msgid "Manage Site Logo"
+msgstr "Gestionar el logo del sitio"
+
+#: inc/customizer/handlers.php:1808
+msgid "Open in new tab"
+msgstr "Abrir en una nueva pestaña"
+
+#: inc/customizer/handlers.php:1807
+msgid "Open in same tab"
+msgstr "Abrir en la misma pestaña"
+
+#: inc/customizer/handlers.php:1805
+msgid "Open Ads link on"
+msgstr "Abrir enlace de anuncios en"
+
+#: inc/customizer/handlers.php:1793
+msgid "Ads url"
+msgstr "Url de anuncios"
+
+#: inc/customizer/handlers.php:1781
+msgid "Recommended size for ad image is 900 (width) * 350 (height)"
+msgstr "El tamaño recomendado para la imagen del anuncio es 900 (ancho) * 350 (alto)"
+
+#: inc/customizer/handlers.php:1780
+msgid "Ads Image"
+msgstr "Imagen de anuncios"
+
+#: inc/customizer/handlers.php:1766
+msgid "Ads Banner Visibility"
+msgstr "Visibilidad de banner publicitario"
+
+#: inc/customizer/handlers.php:1753
+msgid "Ads Banner Setting"
+msgstr "Ajustes de banner publicitario"
+
+#: inc/customizer/handlers.php:1741
+msgid "Ads Banner"
+msgstr "Banner de anuncios"
+
+#: inc/customizer/handlers.php:1735
+msgid "Theme Header"
+msgstr "Cabecera del tema"
+
+#: inc/customizer/handlers.php:1653 inc/customizer/handlers.php:2609
+#: inc/customizer/handlers.php:2900 inc/customizer/handlers.php:3219
+msgid "Posts"
+msgstr "Entradas"
+
+#: inc/customizer/handlers.php:1633 inc/customizer/handlers.php:2588
+#: inc/customizer/handlers.php:2859
+msgid "Posts Categories"
+msgstr "Categorías de entradas"
+
+#: inc/customizer/handlers.php:1614 inc/customizer/handlers.php:2575
+#: inc/customizer/handlers.php:2845 inc/customizer/handlers.php:3178
+msgid "By title"
+msgstr "Por título"
+
+#: inc/customizer/handlers.php:1610 inc/customizer/handlers.php:2571
+#: inc/customizer/handlers.php:2841 inc/customizer/handlers.php:3174
+msgid "By category"
+msgstr "Por categoría"
+
+#: inc/customizer/handlers.php:1586
+msgid "Show ticker news"
+msgstr "Mostrar teletipo de noticias"
+
+#: inc/customizer/handlers.php:1536
+msgid "Show date and time"
+msgstr "Mostrar fecha y hora"
+
+#: inc/customizer/handlers.php:1522
+msgid "Toggle to enable or disable top header bar"
+msgstr "Activar o desactivar la barra superior de cabecera"
+
+#: inc/customizer/handlers.php:1521
+msgid "Show top header"
+msgstr "Mostrar cabecera superior"
+
+#: functions.php:66 inc/customizer/handlers.php:1487
+msgid "Top Header"
+msgstr "Cabecera superior"
+
+#: inc/customizer/handlers.php:1449
+msgid "Site Title Typography"
+msgstr "Tipografía del título del sitio"
+
+#: inc/customizer/handlers.php:1417
+msgid "Site Description Color"
+msgstr "Color de la descripción del sitio"
+
+#: inc/customizer/handlers.php:1401
+msgid "Site Title Hover Color"
+msgstr "Color del título del sitio al pasar"
+
+#: inc/customizer/handlers.php:1391
+msgid "Site Title Color"
+msgstr "Color del título del sitio"
+
+#: inc/customizer/handlers.php:1383
+msgid "Display site description"
+msgstr "Mostrar descripción del sitio"
+
+#: inc/customizer/handlers.php:1341
+msgid "Logo Width (px)"
+msgstr "Ancho del logotipo (px)"
+
+#: inc/customizer/handlers.php:1330
+msgid "Display site title"
+msgstr "Mostrar el título del sitio"
+
+#: inc/customizer/handlers.php:1324
+msgid "Site Title & Tagline"
+msgstr "Título del sitio y descripción corta"
+
+#: inc/customizer/handlers.php:1316
+msgid "Logo & Site Icon"
+msgstr "Logo e icono del sitio"
+
+#: inc/customizer/handlers.php:1312
+msgid "Site Identity"
+msgstr "Identidad del sitio"
+
+#: inc/customizer/handlers.php:1276
+msgid "Icon Text"
+msgstr "Texto del icono"
+
+#: inc/customizer/handlers.php:1246 inc/widgets/widget-title.php:62
+msgid "Right"
+msgstr "Derecha"
+
+#: inc/customizer/handlers.php:1242 inc/widgets/widget-title.php:61
+msgid "Center"
+msgstr "Centrado"
+
+#: inc/customizer/handlers.php:1238 inc/widgets/widget-title.php:60
+msgid "Left"
+msgstr "Izquierda"
+
+#: inc/customizer/handlers.php:1232
+msgid "Button Align"
+msgstr "Alineación del botón"
+
+#: inc/customizer/handlers.php:1203
+msgid "Scroll To Top Visibility"
+msgstr "Visibilidad de desplazarse hacia arriba"
+
+#: inc/customizer/handlers.php:1189 inc/customizer/handlers.php:1370
+#: inc/customizer/handlers.php:1506 inc/customizer/handlers.php:1850
+#: inc/customizer/handlers.php:2363 inc/customizer/handlers.php:2750
+#: inc/customizer/handlers.php:3308
+msgid "Design"
+msgstr "Diseño"
+
+#: inc/customizer/handlers.php:1185 inc/customizer/handlers.php:1366
+#: inc/customizer/handlers.php:1502 inc/customizer/handlers.php:1846
+#: inc/customizer/handlers.php:2359 inc/customizer/handlers.php:2746
+#: inc/customizer/handlers.php:3304
+msgid "General"
+msgstr "General"
+
+#: inc/customizer/handlers.php:1170
+msgid "Scroll To Top"
+msgstr "Volver arriba"
+
+#: inc/customizer/handlers.php:1148
+msgid "Before Inner Container"
+msgstr "Antes del contenedor interior"
+
+#: inc/customizer/handlers.php:1147
+msgid "Before Main Container - Full Width"
+msgstr "Antes del contenedor principal - Anchura total"
+
+#: inc/customizer/handlers.php:1145
+msgid "Display Breadcrumb On"
+msgstr "Mostrar migas de pan en"
+
+#: inc/customizer/handlers.php:1133
+msgid "Rank Math"
+msgstr "Rank Math"
+
+#: inc/customizer/handlers.php:1132
+msgid "Yoast SEO"
+msgstr "Yoast SEO"
+
+#: inc/customizer/handlers.php:1131
+msgid "NavXT"
+msgstr "NavXT"
+
+#: inc/customizer/handlers.php:1130
+msgid "Default"
+msgstr "Por defecto"
+
+#: inc/customizer/handlers.php:1128
+msgid "If you use other than \"default\" one you will need to install and activate respective plugins Breadcrumb NavXT, Yoast SEO and Rank Math SEO"
+msgstr "Si utilizas otro que no sea el «predeterminado» tendrás que instalar y activar los respectivos plugins Breadcrumb NavXT, Yoast SEO y Rank Math SEO"
+
+#: inc/customizer/handlers.php:1127
+msgid "Breadcrumb type"
+msgstr "Tipo de migas de pan"
+
+#: inc/customizer/handlers.php:1113
+msgid "Show breadcrumb trails"
+msgstr "Mostrar rutas de migas de pan"
+
+#: inc/customizer/handlers.php:1102
+msgid "Breadcrumb Options"
+msgstr "Opciones de las migas de pan"
+
+#: inc/customizer/handlers.php:1065
+msgid "Page Sidebar Layouts"
+msgstr "Diseños de barra lateral de página"
+
+#: inc/customizer/handlers.php:1024
+msgid "Post Sidebar Layouts"
+msgstr "Diseños de barras laterales de entradas"
+
+#: inc/customizer/handlers.php:983
+msgid "Archive Sidebar Layouts"
+msgstr "Diseños de la barra lateral de archivo"
+
+#: inc/customizer/handlers.php:971 inc/customizer/handlers.php:1012
+#: inc/customizer/handlers.php:1053 inc/customizer/handlers.php:1094
+msgid "Enable sidebar sticky"
+msgstr "Activar la barra lateral fija"
+
+#: inc/customizer/handlers.php:942
+msgid "Frontpage Sidebar Layouts"
+msgstr "Diseños de la barra lateral de la página de inicio"
+
+#: inc/customizer/handlers.php:932
+msgid "Sidebar Options"
+msgstr "Opciones de barra lateral"
+
+#: inc/customizer/handlers.php:908 inc/customizer/handlers.php:1217
+msgid "Button label"
+msgstr "Etiqueta de botón"
+
+#: inc/customizer/handlers.php:896
+msgid "Buttons"
+msgstr "Botones"
+
+#: inc/customizer/handlers.php:886
+msgid "URL for icon"
+msgstr "URL del icono"
+
+#: inc/customizer/handlers.php:880
+msgid "Select from dropdown."
+msgstr "Selecciona de la lista desplegable."
+
+#: inc/customizer/handlers.php:879
+msgid "Social Icon"
+msgstr "Icono social"
+
+#: inc/customizer/handlers.php:875
+msgid "Add New Icon"
+msgstr "Añadir nuevo icono"
+
+#: inc/customizer/handlers.php:871
+msgid "Hold bar icon and drag vertically to re-order the icons"
+msgstr "Mantén pulsado el icono de la barra y arrástralo verticalmente para reordenar los iconos"
+
+#: inc/customizer/handlers.php:858
+msgid "Open link in same tab"
+msgstr "Abrir enlace en la misma pestaña"
+
+#: inc/customizer/handlers.php:857
+msgid "Open link in new tab"
+msgstr "Abrir enlace en una nueva pestaña"
+
+#: inc/customizer/handlers.php:855
+msgid "Sets the target attribute according to the value."
+msgstr "Establece el atributo de destino según el valor."
+
+#: inc/customizer/handlers.php:854
+msgid "Social Icon Link Open in"
+msgstr "Abrir enlace de icono social en"
+
+#: inc/customizer/handlers.php:839
+msgid "Social Icons Settings"
+msgstr "Ajustes de iconos sociales"
+
+#: inc/customizer/handlers.php:829 inc/customizer/handlers.php:870
+msgid "Social Icons"
+msgstr "Iconos Sociales"
+
+#: inc/customizer/handlers.php:806
+msgid "Effect One"
+msgstr "Efecto uno"
+
+#: inc/customizer/handlers.php:803
+msgid "Applied to post thumbanails listed in archive pages."
+msgstr "Se aplica a las miniaturas de entrada que aparecen en las páginas de archivo."
+
+#: inc/customizer/handlers.php:802
+msgid "Image hover effects"
+msgstr "Efectos al pasar sobre la imagen"
+
+#: inc/customizer/handlers.php:788
+msgid "Effect one"
+msgstr "Efecto uno"
+
+#: inc/customizer/handlers.php:787 inc/customizer/handlers.php:805
+#: inc/customizer/handlers.php:2283
+msgid "None"
+msgstr "Ninguno"
+
+#: inc/customizer/handlers.php:785
+msgid "Applied to post titles listed in archive pages."
+msgstr "Se aplica a los títulos de las entradas que aparecen en las páginas de archivo."
+
+#: inc/customizer/handlers.php:784
+msgid "Post title hover effects"
+msgstr "Efectos al pasar sobre el título de la entrada"
+
+#: inc/customizer/handlers.php:771
+msgid "Animation / Hover Effects"
+msgstr "Efectos de animación / al pasar"
+
+#: inc/customizer/handlers.php:762 inc/customizer/handlers.php:3493
+msgid "Full Width"
+msgstr "Ancho completo"
+
+#: inc/customizer/handlers.php:758
+msgid "Boxed"
+msgstr "Ancho fijo"
+
+#: inc/customizer/handlers.php:727 inc/customizer/handlers.php:738
+msgid "Website Layout"
+msgstr "Disposición del sitio"
+
+#: inc/customizer/handlers.php:703
+msgid "Border Color"
+msgstr "Color del borde"
+
+#: inc/customizer/handlers.php:689
+msgid "Website block top border"
+msgstr "Borde del bloque superior de la web"
+
+#: inc/customizer/handlers.php:675
+msgid "Block Top Border Style"
+msgstr "Estilo de borde del bloque superior"
+
+#: inc/customizer/handlers.php:665
+msgid "Website Styles"
+msgstr "Estilos web"
+
+#: inc/customizer/handlers.php:657
+msgid "Enable site preloader"
+msgstr "Activar el precargador del sitio"
+
+#: inc/customizer/handlers.php:646
+msgid "Preloader"
+msgstr "Precargador"
+
+#: inc/customizer/handlers.php:621
+msgid "Category Colors"
+msgstr "Colores de las categorías"
+
+#: inc/customizer/handlers.php:612
+msgid "Gradient 12"
+msgstr "Degradado 12"
+
+#: inc/customizer/handlers.php:597
+msgid "Gradient 11"
+msgstr "Degradado 11"
+
+#: inc/customizer/handlers.php:582
+msgid "Gradient 10"
+msgstr "Degradado 10"
+
+#: inc/customizer/handlers.php:567
+msgid "Gradient 9"
+msgstr "Degradado 9"
+
+#: inc/customizer/handlers.php:552
+msgid "Gradient 8"
+msgstr "Degradado 8"
+
+#: inc/customizer/handlers.php:537
+msgid "Gradient 7"
+msgstr "Degradado 7"
+
+#: inc/customizer/handlers.php:522
+msgid "Gradient 6"
+msgstr "Degradado 6"
+
+#: inc/customizer/handlers.php:507
+msgid "Gradient 5"
+msgstr "Degradado 5"
+
+#: inc/customizer/handlers.php:492
+msgid "Gradient 4"
+msgstr "Degradado 4"
+
+#: inc/customizer/handlers.php:477
+msgid "Gradient 3"
+msgstr "Degradado 3"
+
+#: inc/customizer/handlers.php:462
+msgid "Gradient 2"
+msgstr "Degradado 2"
+
+#: inc/customizer/handlers.php:447
+msgid "Gradient 1"
+msgstr "Degradado 1"
+
+#: inc/customizer/handlers.php:433
+msgid "Gradient Presets"
+msgstr "Preajustes de degradado"
+
+#: inc/customizer/handlers.php:420
+msgid "Color 12"
+msgstr "Color 12"
+
+#: inc/customizer/handlers.php:405
+msgid "Color 11"
+msgstr "Color 11"
+
+#: inc/customizer/handlers.php:390
+msgid "Color 10"
+msgstr "Color 10"
+
+#: inc/customizer/handlers.php:375
+msgid "Color 9"
+msgstr "Color 9"
+
+#: inc/customizer/handlers.php:360
+msgid "Color 8"
+msgstr "Color 8"
+
+#: inc/customizer/handlers.php:345
+msgid "Color 7"
+msgstr "Color 7"
+
+#: inc/customizer/handlers.php:330
+msgid "Color 6"
+msgstr "Color 6"
+
+#: inc/customizer/handlers.php:315
+msgid "Color 5"
+msgstr "Color 5"
+
+#: inc/customizer/handlers.php:300
+msgid "Color 4"
+msgstr "Color 4"
+
+#: inc/customizer/handlers.php:285
+msgid "Color 3"
+msgstr "Color 3"
+
+#: inc/customizer/handlers.php:270
+msgid "Color 2"
+msgstr "Color 2"
+
+#: inc/customizer/handlers.php:255
+msgid "Color 1"
+msgstr "Color 1"
+
+#: inc/customizer/handlers.php:241
+msgid "Theme Presets"
+msgstr "Preajustes del tema"
+
+#: inc/customizer/handlers.php:204
+msgid "Wordpress default date"
+msgstr "Fecha por defecto de WordPress"
+
+#: inc/customizer/handlers.php:203
+msgid "Default by theme"
+msgstr "Por defecto por tema"
+
+#: inc/customizer/handlers.php:201
+msgid "Date format applied to single and archive pages."
+msgstr "Formato de fecha aplicado a las páginas individuales y de archivo."
+
+#: inc/customizer/handlers.php:200
+msgid "Date format"
+msgstr "Formato de fecha"
+
+#: inc/customizer/handlers.php:188
+msgid "Modified date"
+msgstr "Fecha de modificación"
+
+#: inc/customizer/handlers.php:187
+msgid "Published date"
+msgstr "Fecha de Publicación"
+
+#: inc/customizer/handlers.php:185
+msgid "Whether to show date published or modified date."
+msgstr "Si mostrar la fecha de publicación o la fecha de modificación."
+
+#: inc/customizer/handlers.php:184
+msgid "Date to display"
+msgstr "Fecha a mostrar"
+
+#: inc/customizer/handlers.php:170
+msgid "Make website schema ready"
+msgstr "Preparar el sitio web para schema"
+
+#: inc/customizer/handlers.php:158
+msgid "SEO / Misc"
+msgstr "SEO / Varios"
+
+#: inc/customizer/handlers.php:152
+msgid "Global"
+msgstr "Global"
+
+#: inc/customizer/handlers.php:129
+msgid "Support Form"
+msgstr "Formulario de soporte"
+
+#: inc/customizer/handlers.php:124
+msgid "We provide 24/7 support regarding any theme issue. Our support team will help you to solve any kind of issue. Feel free to contact us."
+msgstr "Proporcionamos asistencia 24 horas al día, 7 días a la semana, para cualquier problema relacionado con el tema. No dudes en ponerte en contacto con nosotros."
+
+#: inc/customizer/handlers.php:123
+msgid "Theme Support"
+msgstr "Soporte del tema"
+
+#: inc/customizer/handlers.php:110
+msgid "View Documentation"
+msgstr "Ver la documentación"
+
+#: inc/customizer/handlers.php:105
+msgid "We have well prepared documentation which includes overall instructions and recommendations that are required in this theme."
+msgstr "Tenemos una documentación bien preparada que incluye las instrucciones y recomendaciones generales que se requieren en este tema."
+
+#: inc/customizer/handlers.php:104
+msgid "Theme Documentation"
+msgstr "Documentación del tema"
+
+#: inc/customizer/handlers.php:75
+msgid "About Theme"
+msgstr "Sobre el tema"
+
+#: inc/customizer/customizer-up.php:124 inc/customizer/customizer.php:508
+msgid "Background Color"
+msgstr "Color de fondo"
+
+#: inc/customizer/customizer.php:480 inc/customizer/customizer.php:494
+msgid "Theme Color"
+msgstr "Color del tema"
+
+#: inc/customizer/customizer.php:17 inc/customizer/handlers.php:1163
+#: inc/customizer/handlers.php:1291 inc/customizer/handlers.php:1714
+#: inc/customizer/handlers.php:2100 inc/customizer/handlers.php:2330
+#: inc/customizer/handlers.php:2431
+msgid "Background"
+msgstr "Fondo"
+
+#: inc/customizer/custom-controls/repeater/repeater.php:175
+msgid "Type to search"
+msgstr "Escribe para buscar"
+
+#: inc/customizer/custom-controls/repeater/repeater.php:157
+msgid "Upload Image"
+msgstr "Subir imagen"
+
+#: inc/customizer/custom-controls/repeater/repeater.php:123
+msgid "Item Label"
+msgstr "Etiqueta del elemento"
+
+#: inc/breadcrumb-trail/breadcrumbs.php:840
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "W"
+
+#: inc/breadcrumb-trail/breadcrumbs.php:812
+#: inc/breadcrumb-trail/breadcrumbs.php:1247
+#: inc/breadcrumb-trail/breadcrumbs.php:1249
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "j"
+
+#: inc/breadcrumb-trail/breadcrumbs.php:811
+#: inc/breadcrumb-trail/breadcrumbs.php:867
+#: inc/breadcrumb-trail/breadcrumbs.php:1240
+#: inc/breadcrumb-trail/breadcrumbs.php:1242
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "F"
+
+#: inc/breadcrumb-trail/breadcrumbs.php:810
+#: inc/breadcrumb-trail/breadcrumbs.php:839
+#: inc/breadcrumb-trail/breadcrumbs.php:866
+#: inc/breadcrumb-trail/breadcrumbs.php:893
+#: inc/breadcrumb-trail/breadcrumbs.php:1232
+#: inc/breadcrumb-trail/breadcrumbs.php:1234
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/breadcrumb-trail/breadcrumbs.php:794
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "g a"
+
+#: inc/breadcrumb-trail/breadcrumbs.php:777
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "i"
+
+#: inc/breadcrumb-trail/breadcrumbs.php:760
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "g:i a"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: inc/breadcrumb-trail/breadcrumbs.php:300
+msgid "Week %s"
+msgstr "Semana %s"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: inc/breadcrumb-trail/breadcrumbs.php:298
+msgid "Minute %s"
+msgstr "Minuto %s"
+
+#. Translators: %s is the page number.
+#: inc/breadcrumb-trail/breadcrumbs.php:296
+msgid "Comment Page %s"
+msgstr "Página %s de comentarios"
+
+#. Translators: %s is the page number.
+#: inc/breadcrumb-trail/breadcrumbs.php:294
+msgid "Page %s"
+msgstr "Página %s"
+
+#. Translators: %s is the search query.
+#: inc/breadcrumb-trail/breadcrumbs.php:292
+msgid "Search results for: %s"
+msgstr "Resultados de buscar: %s"
+
+#: inc/breadcrumb-trail/breadcrumbs.php:290
+msgid "Archives"
+msgstr "Archivo"
+
+#: inc/breadcrumb-trail/breadcrumbs.php:288
+msgid "Home"
+msgstr "Inicio"
+
+#: inc/breadcrumb-trail/breadcrumbs.php:287
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "Migas de pan"
+
+#: inc/breadcrumb-trail/breadcrumbs.php:286
+msgid "Browse:"
+msgstr "Examinar:"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: functions.php:68 inc/customizer/handlers.php:3429
+msgid "Bottom Footer"
+msgstr "Pie de página inferior"
+
+#: functions.php:67 inc/customizer/handlers.php:1829
+msgid "Main Header"
+msgstr "Cabecera principal"
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s comentario en &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s comentarios en &ldquo;%2$s&rdquo;"
+
+#. translators: 1: title.
+#: comments.php:35
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Un comentario sobre &ldquo;%1$s&rdquo;"
+
+#: 404.php:67
+msgid "Go back to home"
+msgstr "Volver al inicio"
+
+#: 404.php:63
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Parece que no hay nada en esa ubicación ¿quieres probar a buscar?"
+
+#: 404.php:53 inc/breadcrumb-trail/breadcrumbs.php:289
+#: inc/template-functions.php:754
+msgid "404 Not Found"
+msgstr "404 No encontrado"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://blazethemes.com/"
+msgstr "https://blazethemes.com/"
+
+#. Author of the theme
+#: style.css inc/hooks/bottom-footer-hooks.php:55
+#, gp-priority: low
+msgid "BlazeThemes"
+msgstr "BlazeThemes"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://blazethemes.com/theme/newsmatic-free/"
+msgstr "https://blazethemes.com/theme/newsmatic-free/"

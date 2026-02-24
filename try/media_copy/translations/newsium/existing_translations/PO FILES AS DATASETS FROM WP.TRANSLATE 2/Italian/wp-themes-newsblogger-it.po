@@ -1,0 +1,679 @@
+# Translation of Themes - NewsBlogger in Italian
+# This file is distributed under the same license as the Themes - NewsBlogger package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-07-08 13:43:56+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: it\n"
+"Project-Id-Version: Themes - NewsBlogger\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "NewsBlogger is a dynamic and versatile child theme for the popular NewCrunch WordPress theme. Perfect for bloggers, journalists, and online magazines, it offers enhanced customization options, improved performance, and seamless integration with both the Gutenberg and Classic editors. Compatible to various popular plugins such as Elementor, Contact Form 7, Polylang and WPML. Theme is RTL ready and prioritizes user privacy and complies with the General Data Protection Regulation (GDPR) guidelines by refraining from collecting any personal data restricted under GDPR. The theme is also schema-ready, enhancing search engine visibility and optimization. To explore the theme further, feel free to check out our demo at: https://demo-news.spicethemes.com/startersite-1/. For video tutorial visit here https://www.youtube.com/playlist?list=PLTfjrb24Pq_DeJOZdKEaP3rZPbHuOCLtZ"
+msgstr "NewsBlogger è un tema child dinamico e versatile per il popolare tema WordPress NewCrunch. Perfetto per blogger, testate giornalistiche e riviste online, offre opzioni di personalizzazione avanzate, prestazioni migliorate e una perfetta integrazione con gli editor Gutenberg e Classic. Compatibile con plugin popolari come Elementor, Contact Form 7, Polylang e WPML. Il tema è pronto per la scrittura RTL e dà priorità alla privacy degli utenti, rispettando le linee guida del Regolamento generale sulla protezione dei dati (GDPR), astenendosi dalla raccolta di dati personali regolati ai sensi del GDPR. Il tema è anche pronto per Schema, cosa che migliora la visibilità e l'ottimizzazione sui motori di ricerca. Per esplorare meglio le funzionalità del tema, visita la nostra demo a questo indirizzo: https://demo-news.spicethemes.com/startersite-1/. Per il video tutorial, fai clic su questo link: https://www.youtube.com/playlist?list=PLTfjrb24Pq_DeJOZdKEaP3rZPbHuOCLtZ"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "NewsBlogger"
+msgstr "NewsBlogger"
+
+#: functions.php:508
+msgid "No plugin URL provided."
+msgstr ""
+
+#: functions.php:503
+msgid "You do not have permission to install plugins."
+msgstr ""
+
+#: functions.php:476
+msgid "No plugin slug provided."
+msgstr ""
+
+#: functions.php:471
+msgid "You do not have permission to manage plugins."
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:569
+msgid "It is recommended that you install & activate the Spice Blocks plugin to import the gutenberg starter sites"
+msgstr ""
+
+#: functions.php:173 functions.php:257
+msgid "Dismiss this notice"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:564
+msgid "We highly recommend installing and activating the WooCommerce plugin, which allows you to create a shop and enhance your business."
+msgstr ""
+
+#. translators: %s: theme name
+#: admin/inc/class-spicethemes-about-page.php:344
+msgid "now"
+msgstr ""
+
+#. translators: %s: theme name
+#: admin/inc/class-spicethemes-about-page.php:344
+msgid "Install"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:26 functions.php:164
+msgid "Install Plugin"
+msgstr ""
+
+#: partials/header/header-nav.php:115
+msgid "Light/Dark Mode"
+msgstr "Modalità chiara/scura"
+
+#: partials/header/header-nav.php:103
+msgid "Close Search"
+msgstr "Chiudi la ricerca"
+
+#: partials/header/header-nav.php:79 partials/header/header-nav.php:87
+#: partials/header/header-nav.php:88 partials/header/header-nav.php:99
+#: partials/header/header-nav.php:106 partials/header/header-nav.php:108
+msgid "Search"
+msgstr "Cerca"
+
+#: partials/header/header-nav.php:40
+msgid "Close Off-Canvas"
+msgstr "Chiusura fuori campo"
+
+#: partials/header/header-nav.php:28
+msgid "Close Icon"
+msgstr "Icona chiudi"
+
+#: partials/header/header-nav.php:21
+msgid "Toggle Icon"
+msgstr "Icona attiva/disattiva"
+
+#: partials/header/header-nav.php:15
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Vai al contenuto"
+
+#: functions.php:408
+msgid "Alignment"
+msgstr "Allineamento"
+
+#: functions.php:312
+msgid "Header Layout"
+msgstr "Layout dell'header"
+
+#: functions.php:249 functions.php:251
+msgid "Upgrade To Pro"
+msgstr "Passa a Pro"
+
+#: functions.php:244 functions.php:246
+msgid "Watch Videos"
+msgstr "Guarda i video"
+
+#: functions.php:241
+msgid "See Changelog"
+msgstr "Visualizza il changelog"
+
+#: functions.php:236
+msgid "Try It Now"
+msgstr "Provalo ora"
+
+#: functions.php:234
+msgid "Try Now"
+msgstr "Provalo ora"
+
+#: functions.php:226
+msgid "complete with exciting new features. Take a look now!"
+msgstr "completo di nuove ed entusiasmanti funzioni. Dia un‘occhiata ora!"
+
+#: functions.php:226
+msgid "We've consistently aimed to meet our users' needs and demands. In order to address specific requirements and rectify issues from our previous version, we've rolled out version"
+msgstr "Abbiamo sempre cercato di soddisfare le esigenze e le richieste dei nostri utenti. Per rispondere a requisiti specifici e correggere i problemi della nostra versione precedente, abbiamo lanciato la versione"
+
+#: functions.php:223
+msgid "%1$s Current %2$s"
+msgstr "%1$s attuale %2$s"
+
+#: functions.php:170
+msgid "Welcome Banner"
+msgstr "Banner di benvenuto"
+
+#: functions.php:160
+msgid "Theme Documentation"
+msgstr "Documentazione del tema"
+
+#: functions.php:156
+msgid "View Live Demos"
+msgstr "Visualizza le demo dal vivo"
+
+#: functions.php:154
+msgid "Live Demo"
+msgstr "Demo live"
+
+#: functions.php:150 functions.php:152
+msgid "Theme Dashboard"
+msgstr "Bacheca del tema"
+
+#. translators: %s: theme name
+#: functions.php:147
+msgid "%s is now installed and ready to use. We've provide some links to get you started."
+msgstr "%s è ora installato e pronto all'uso. Ti abbiamo elencato alcuni link per iniziare."
+
+#. translators: %s: theme name
+#: functions.php:142
+msgid "Welcome to"
+msgstr "Ti diamo il benvenuto su"
+
+#: functions.php:133
+msgid "Hello"
+msgstr "Ciao"
+
+#: admin/tab-pages/video-tutorials.php:158
+msgid "Core Background Color & Image Customize"
+msgstr "Personalizzazione del colore e dell'immagine di sfondo del core"
+
+#: admin/tab-pages/video-tutorials.php:157
+msgid "Core Background Color & Image Video"
+msgstr "Colore di sfondo e immagine video del core"
+
+#: admin/tab-pages/video-tutorials.php:155
+msgid "Background Color & Image"
+msgstr "Colore e immagine di sfondo"
+
+#: admin/tab-pages/video-tutorials.php:146
+msgid "Theme Color Customize"
+msgstr "Personalizzazione del colore del tema"
+
+#: admin/tab-pages/video-tutorials.php:145
+msgid "Theme Color Video"
+msgstr "Video del colore del tema"
+
+#: admin/tab-pages/video-tutorials.php:143
+msgid "Theme & Category Color"
+msgstr "Colore del tema e della categoria"
+
+#: admin/tab-pages/video-tutorials.php:134
+msgid "Footer Section Customize"
+msgstr "Personalizzazione della sezione footer"
+
+#: admin/tab-pages/video-tutorials.php:133
+msgid "Footer Section Video"
+msgstr "Video della sezione del footer"
+
+#: admin/tab-pages/video-tutorials.php:131
+msgid "Footer Widgets & Copyright Text"
+msgstr "Widget del footer e testo del copyright"
+
+#: admin/tab-pages/video-tutorials.php:122
+msgid "Custom Widgets Customize"
+msgstr "Personalizzazione dei widget"
+
+#: admin/tab-pages/video-tutorials.php:121
+msgid "Custom Widgets Video"
+msgstr "Video dei widget personalizzati"
+
+#: admin/tab-pages/video-tutorials.php:119
+msgid "Setup Custom Widgets"
+msgstr "Configura widget personalizzati"
+
+#: admin/tab-pages/video-tutorials.php:110
+msgid "Sections Rearrange Customize"
+msgstr "Personalizza la riorganizzazione delle sezioni"
+
+#: admin/tab-pages/video-tutorials.php:109
+msgid "Sections Rearrange Video"
+msgstr "Video di riorganizzazione delle sezioni"
+
+#: admin/tab-pages/video-tutorials.php:107
+msgid "Reorder/Rearrange Sections"
+msgstr "Riordina/riorganizza le sezioni"
+
+#: admin/tab-pages/video-tutorials.php:98
+msgid "Highlight Customize"
+msgstr "Evidenzia la personalizzazione"
+
+#: admin/tab-pages/video-tutorials.php:97
+msgid "Highlight Video"
+msgstr "Evidenzia il video"
+
+#: admin/tab-pages/video-tutorials.php:95
+msgid "Setup Highlight Section"
+msgstr "Configura la sezione di messa in evidenza"
+
+#: admin/tab-pages/video-tutorials.php:86
+msgid "Banner Customize"
+msgstr "Personalizza il banner"
+
+#: admin/tab-pages/video-tutorials.php:85
+msgid "Banner Video"
+msgstr "Video del banner"
+
+#: admin/tab-pages/video-tutorials.php:83
+msgid "Setup Banner Section"
+msgstr "Configura la sezione banner"
+
+#: admin/tab-pages/video-tutorials.php:74
+msgid "Toggle Sidebar Customize"
+msgstr "Personalizza la barra laterale"
+
+#: admin/tab-pages/video-tutorials.php:73
+msgid "Toggle Sidebar Video"
+msgstr "Alterna i video della barra laterale"
+
+#: admin/tab-pages/video-tutorials.php:71
+msgid "Setup Toggle Sidebar"
+msgstr "Configura la barra laterale"
+
+#: admin/tab-pages/video-tutorials.php:62
+msgid "Global Options Customize"
+msgstr "Opzioni globali personalizzate"
+
+#: admin/tab-pages/video-tutorials.php:61
+msgid "Global Options Video"
+msgstr "Video delle opzioni globali"
+
+#: admin/tab-pages/video-tutorials.php:59
+msgid "Manage Global Options"
+msgstr "Gestisci le opzioni globali"
+
+#: admin/tab-pages/video-tutorials.php:50
+msgid "Header Customize"
+msgstr "Personalizza l'header"
+
+#: admin/tab-pages/video-tutorials.php:49
+msgid "Header Video"
+msgstr "Video dell'header"
+
+#: admin/tab-pages/video-tutorials.php:47
+msgid "Setup Header"
+msgstr "Configura l'header"
+
+#: admin/tab-pages/video-tutorials.php:38
+msgid "Site Identity Customize"
+msgstr "Personalizzazione dell'identità del sito"
+
+#: admin/tab-pages/video-tutorials.php:37
+msgid "Site Identity Video"
+msgstr "Video dell'identità del sito"
+
+#: admin/tab-pages/video-tutorials.php:35
+msgid "Setup Site Identity"
+msgstr "Configura l'identità del sito"
+
+#: admin/tab-pages/video-tutorials.php:26
+#: admin/tab-pages/video-tutorials.php:38
+#: admin/tab-pages/video-tutorials.php:50
+#: admin/tab-pages/video-tutorials.php:62
+#: admin/tab-pages/video-tutorials.php:74
+#: admin/tab-pages/video-tutorials.php:86
+#: admin/tab-pages/video-tutorials.php:98
+#: admin/tab-pages/video-tutorials.php:110
+#: admin/tab-pages/video-tutorials.php:122
+#: admin/tab-pages/video-tutorials.php:134
+#: admin/tab-pages/video-tutorials.php:146
+#: admin/tab-pages/video-tutorials.php:158
+msgid "Customize"
+msgstr "Personalizza"
+
+#: admin/tab-pages/video-tutorials.php:26
+msgid "Menu Customize"
+msgstr "Menu Personalizza"
+
+#: admin/tab-pages/video-tutorials.php:25
+msgid "Menu Video"
+msgstr "Menu Video"
+
+#: admin/tab-pages/video-tutorials.php:23
+msgid "Setup Main Menu"
+msgstr "Configura menu principale"
+
+#: admin/tab-pages/video-tutorials.php:13
+#: admin/tab-pages/video-tutorials.php:25
+#: admin/tab-pages/video-tutorials.php:37
+#: admin/tab-pages/video-tutorials.php:49
+#: admin/tab-pages/video-tutorials.php:61
+#: admin/tab-pages/video-tutorials.php:73
+#: admin/tab-pages/video-tutorials.php:85
+#: admin/tab-pages/video-tutorials.php:97
+#: admin/tab-pages/video-tutorials.php:109
+#: admin/tab-pages/video-tutorials.php:121
+#: admin/tab-pages/video-tutorials.php:133
+#: admin/tab-pages/video-tutorials.php:145
+#: admin/tab-pages/video-tutorials.php:157
+msgid "Watch Video"
+msgstr "Guarda il video"
+
+#: admin/tab-pages/video-tutorials.php:13
+msgid "Demo Import Video"
+msgstr "Video di importazione demo"
+
+#: admin/tab-pages/video-tutorials.php:11
+msgid "Demo Import"
+msgstr "Import demo"
+
+#: admin/tab-pages/unlock-premium-feature.php:99
+msgid "Explore Premium Features"
+msgstr "Scopri le funzionalità premium"
+
+#: admin/tab-pages/unlock-premium-feature.php:97
+msgid "Upgrade today and transform your website with NewsBlogger Premium!"
+msgstr "Fai l'upgrade oggi stesso e trasforma il tuo sito web con NewsBlogger Premium!"
+
+#: admin/tab-pages/unlock-premium-feature.php:96
+msgid "All premium features are managed through the Newscrunch Plus plugin, providing a seamless and integrated experience for both NewsBlogger and Newscrunch users."
+msgstr "Tutte le funzionalità premium sono gestite attraverso il plugin Newscrunch Plus. Questo offre un'esperienza perfetta e integrata sia agli utenti di NewsBlogger sia a quelli di Newscrunch."
+
+#: admin/tab-pages/unlock-premium-feature.php:96
+msgid "Note"
+msgstr "Nota"
+
+#: admin/tab-pages/unlock-premium-feature.php:89
+msgid "Explore and import the premium starter sites available under both NewsBlogger and Newscrunch."
+msgstr "Esplora e importa i siti premium starter disponibili sia su NewsBlogger che su Newscrunch."
+
+#: admin/tab-pages/unlock-premium-feature.php:86
+msgid "To access premium starter sites offered by Newscrunch, deactivate the NewsBlogger theme and activate the Newscrunch theme."
+msgstr "Per accedere ai siti starter premium offerti da Newscrunch, disattiva il tema NewsBlogger e attiva il tema Newscrunch."
+
+#: admin/tab-pages/unlock-premium-feature.php:83
+msgid "Navigate to the starter sites section in your WordPress dashboard."
+msgstr "Vai alla sezione Siti starter nella tua bacheca di WordPress."
+
+#: admin/tab-pages/unlock-premium-feature.php:80
+msgid "Access Premium Starter Sites"
+msgstr "Accesso ai siti Premium Starter"
+
+#: admin/tab-pages/unlock-premium-feature.php:75
+msgid "Enter your premium license key to activate all the premium features."
+msgstr "Inserisci la tua chiave di licenza premium per attivare tutte le funzionalità premium."
+
+#: admin/tab-pages/unlock-premium-feature.php:72
+msgid "Download and install the Newscrunch Plus plugin if you haven’t already."
+msgstr "Scarica e installa il plugin Newscrunch Plus, se non l'hai ancora fatto."
+
+#: admin/tab-pages/unlock-premium-feature.php:69
+msgid "Install and Activate Newscrunch Plus"
+msgstr "Installa e attiva il plugin Newscrunch Plus"
+
+#: admin/tab-pages/unlock-premium-feature.php:64
+msgid "Visit our pricing page to choose the plan that suits you best."
+msgstr "Visita la nostra pagina dei prezzi per scegliere il piano più adatto a te."
+
+#: admin/tab-pages/unlock-premium-feature.php:61
+msgid "Purchase NewsBlogger Premium functionality coded in Newscrunch Plus plugin"
+msgstr "Acquista le funzionalità di NewsBlogger Premium codificate nel plugin Newscrunch Plus"
+
+#: admin/tab-pages/unlock-premium-feature.php:58
+#: admin/tab-pages/video-tutorials.php:14
+msgid "Get Started"
+msgstr "Come iniziare"
+
+#: admin/tab-pages/unlock-premium-feature.php:53
+msgid "Stay up-to-date with the latest features and improvements with regular updates to Newscrunch Plus."
+msgstr "Ricevi le notizie sulle ultime funzionalità e sui miglioramenti grazie agli aggiornamenti regolari di Newscrunch Plus."
+
+#: admin/tab-pages/unlock-premium-feature.php:50
+msgid "Regular Updates"
+msgstr "Aggiornamenti regolari"
+
+#: admin/tab-pages/unlock-premium-feature.php:45
+msgid "Receive dedicated support from our team to help you with any questions or issues."
+msgstr "Ottieni un supporto dedicato dal nostro team che ti aiuta a risolvere qualsiasi domanda o problema."
+
+#: admin/tab-pages/unlock-premium-feature.php:42
+msgid "Priority Support"
+msgstr "Supporto prioritario"
+
+#: admin/tab-pages/unlock-premium-feature.php:37
+msgid "Benefit from performance optimizations to ensure your site runs smoothly and efficiently."
+msgstr "Approfitta delle ottimizzazioni delle prestazioni per garantire che il tuo sito funzioni in modo fluido ed efficiente."
+
+#: admin/tab-pages/unlock-premium-feature.php:34
+msgid "Enhanced Performance Features"
+msgstr "Funzionalità di prestazione migliorate"
+
+#: admin/tab-pages/unlock-premium-feature.php:29
+msgid "Unlock advanced customization settings to fine-tune the appearance and functionality of your site."
+msgstr "Sblocca le impostazioni di personalizzazione avanzate per mettere a punto l'aspetto e la funzionalità del tuo sito."
+
+#: admin/tab-pages/unlock-premium-feature.php:26
+msgid "Advanced Customization Options"
+msgstr "Opzioni di personalizzazione avanzata"
+
+#: admin/tab-pages/unlock-premium-feature.php:21
+msgid "To access premium starter sites offered by Newscrunch, you need to deactivate the NewsBlogger theme and activate the Newscrunch theme."
+msgstr "Per accedere agli starter premium offerti da Newscrunch, devi disattivare il tema NewsBlogger e attivare il tema Newscrunch."
+
+#: admin/tab-pages/unlock-premium-feature.php:21
+msgid "Premium starter sites for Newscrunch are also available, offering you a broader selection of templates to choose from. Note"
+msgstr "Sono disponibili anche siti premium per Newscrunch, che offrono una più ampia selezione di modelli tra cui scegliere. Nota"
+
+#: admin/tab-pages/unlock-premium-feature.php:18
+msgid "Access exclusive NewsBlogger starter sites that are crafted for various niches and styles."
+msgstr "Accesso a siti starter esclusivi di NewsBlogger, creati per varie nicchie e stili."
+
+#: admin/tab-pages/unlock-premium-feature.php:15
+msgid "Premium Starter Sites"
+msgstr "Siti Premium Starter"
+
+#: admin/tab-pages/unlock-premium-feature.php:11
+msgid "Here’s what you get with NewsBlogger Premium"
+msgstr "Ecco cosa ti aspetta con NewsBlogger Premium"
+
+#: admin/tab-pages/getting-started.php:125
+msgid "Pre-sales enquiry"
+msgstr "Informazioni pre-vendita"
+
+#: admin/tab-pages/getting-started.php:125
+msgid "Pre-sales Enquiry"
+msgstr "Richiesta di info pre-vendita"
+
+#: admin/tab-pages/getting-started.php:121
+msgid "Premium Version"
+msgstr "Versione premium"
+
+#: admin/tab-pages/getting-started.php:121
+msgid "Premium Demo"
+msgstr "Demo della versione Premium"
+
+#: admin/tab-pages/getting-started.php:117 functions.php:239
+msgid "Changelog"
+msgstr "Changelog"
+
+#: admin/tab-pages/getting-started.php:113
+msgid "Free vs Pro"
+msgstr "Confronta la versione Free con la Pro"
+
+#: admin/tab-pages/getting-started.php:113
+msgid "Free or Pro Comparison"
+msgstr "Confronto tra Free e Pro"
+
+#: admin/tab-pages/getting-started.php:109
+msgid "Your feedback is valuable to us"
+msgstr "Il tuo feedback è importante per noi"
+
+#: admin/tab-pages/getting-started.php:109
+msgid "Valuable Feedback"
+msgstr "Feedback prezioso"
+
+#: admin/tab-pages/getting-started.php:105
+msgid "Support"
+msgstr "Supporto"
+
+#: admin/tab-pages/getting-started.php:101
+msgid "Documentation"
+msgstr "Documentazione"
+
+#: admin/tab-pages/getting-started.php:101 functions.php:158
+msgid "Help Docs"
+msgstr "Documenti di supporto"
+
+#: admin/tab-pages/getting-started.php:97
+msgid "Theme Demos"
+msgstr "Demo del tema"
+
+#: admin/tab-pages/getting-started.php:93
+msgid "Theme Detail"
+msgstr "Dettagli del tema"
+
+#: admin/tab-pages/getting-started.php:88
+msgid "Useful Links"
+msgstr "Link utili"
+
+#: admin/tab-pages/getting-started.php:80
+msgid "Widgets"
+msgstr "Widget"
+
+#: admin/tab-pages/getting-started.php:76
+msgid "Menus"
+msgstr "Menu"
+
+#: admin/tab-pages/getting-started.php:72
+msgid "Footer Widgets"
+msgstr "Widget del footer"
+
+#: admin/tab-pages/getting-started.php:68
+msgid "Social Icons"
+msgstr "Icone social"
+
+#: admin/tab-pages/getting-started.php:64
+msgid "Sidebar Layout"
+msgstr "Layout della barra laterale"
+
+#: admin/tab-pages/getting-started.php:60
+msgid "Header Section"
+msgstr "Sezione dell'header"
+
+#: admin/tab-pages/getting-started.php:56
+msgid "Site Layout"
+msgstr "Layout del sito"
+
+#: admin/tab-pages/getting-started.php:52
+msgid "Site Logo"
+msgstr "Logo del sito"
+
+#: admin/tab-pages/getting-started.php:47
+msgid "Theme Features"
+msgstr "Caratteristiche del tema"
+
+#: admin/tab-pages/getting-started.php:38
+msgid "Customize Image"
+msgstr "Personalizza l'immagine"
+
+#: admin/tab-pages/getting-started.php:29
+msgid "Need to install & activate the \"Spice Starter Sites\" plugin to import the demo."
+msgstr "Devi installare e attivare il plugin \"Spice Starter Sites\" per importare la demo."
+
+#: admin/tab-pages/getting-started.php:22
+#: admin/tab-pages/getting-started.php:28
+msgid "Import Image"
+msgstr "Importa immagine"
+
+#. translators: %s: theme name
+#: admin/tab-pages/getting-started.php:13
+msgid "%s Theme Configuration"
+msgstr "Configurazione del tema %s"
+
+#: admin/inc/class-spicethemes-about-page.php:559
+msgid "We highly recommend installing and activating the Seo Optimized Images plugin, which will dynamically insert SEO-friendly alt attributes and title attributes to enhance your image optimization."
+msgstr "Ti consigliamo di installare e attivare il plugin Seo Optimized Images, che inserisce dinamicamente attributi alt e title SEO-friendly per migliorare l'ottimizzazione delle immagini."
+
+#: admin/inc/class-spicethemes-about-page.php:554
+msgid "To add the social share buttons to your posts, install & activate this plugin."
+msgstr "Per aggiungere i pulsanti di condivisione social agi articoli, installa e attiva questo plugin."
+
+#: admin/inc/class-spicethemes-about-page.php:549
+msgid "To display the posts in a beautiful slider with multiple options, install & activate this plugin."
+msgstr "Per visualizzare gli articoli in uno slider con più opzioni, installa e attiva questo plugin."
+
+#: admin/inc/class-spicethemes-about-page.php:544
+msgid "To add a different banner image for a different page or post, install & activate this plugin."
+msgstr "Per aggiungere un'immagine banner diversa per una pagina o un articolo, installa e attiva questo plugin."
+
+#: admin/inc/class-spicethemes-about-page.php:539
+msgid "To enable the display of breadcrumbs, please install and activate this plugin."
+msgstr "Per abilitare la visualizzazione dei breadcrumb, installa e attiva questo plugin."
+
+#: admin/inc/class-spicethemes-about-page.php:534
+msgid "To display the contact form, install & activate this plugin."
+msgstr "Per visualizzare il modulo di contatto, installa e attiva questo plugin."
+
+#: admin/inc/class-spicethemes-about-page.php:384
+msgid "Active"
+msgstr "Attivo"
+
+#. translators: %s: theme name
+#: admin/inc/class-spicethemes-about-page.php:375
+msgid "Activate %s now"
+msgstr "Attiva %s ora"
+
+#: admin/inc/class-spicethemes-about-page.php:368
+msgid "Activate Import Plugin"
+msgstr "Attiva il plugin di importazione"
+
+#: admin/inc/class-spicethemes-about-page.php:364
+msgid "Activate"
+msgstr "Attiva"
+
+#: admin/inc/class-spicethemes-about-page.php:346
+msgid "Install and activate"
+msgstr "Installa e attiva"
+
+#. translators: %s: theme name
+#: admin/inc/class-spicethemes-about-page.php:137
+msgid "Get started with %s theme"
+msgstr "Inizia a usare il tema %s"
+
+#. translators: %1$s: theme name and %2$ %3$s: url of the options page
+#: admin/inc/class-spicethemes-about-page.php:134
+msgid "%1$s theme is installed. To take full advantage of the features this theme has to offer visit our %2$swelcome page%3$s"
+msgstr "Il tema %1$s è installato. Per approfittare al massimo delle sue caratteristiche visita la nostra %2$spagina di benvenuto%3$s"
+
+#. translators: %1$s: theme name and %2$s: version of the theme
+#: admin/inc/class-spicethemes-about-page.php:117
+msgid "Welcome to %1$s %2$s"
+msgstr "Benvenuto su %1$s %2$s"
+
+#. translators: %1$s: theme name and %2$s: count of recommended plugins
+#: admin/inc/class-spicethemes-about-page.php:115
+msgid "About %1$s %2$s"
+msgstr "Riguardo a %1$s %2$s"
+
+#: admin/inc/class-spicethemes-about-page.php:106
+msgid "View Theme Info"
+msgstr "Visualizza le info sul tema"
+
+#: admin/inc/class-spicethemes-about-page.php:71
+msgid "Error"
+msgstr "Errore"
+
+#: admin/inc/class-spicethemes-about-page.php:70
+msgid "Activating"
+msgstr "Attivazione in corso"
+
+#: admin/inc/class-spicethemes-about-page.php:69
+msgid "Installing"
+msgstr "Installazione in corso"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://spicethemes.com"
+msgstr "https://spicethemes.com"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "spicethemes"
+msgstr "spicethemes"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://spicethemes.com/newsblogger-wordpress-theme/"
+msgstr "https://spicethemes.com/newsblogger-wordpress-theme/"

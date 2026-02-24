@@ -1,0 +1,2048 @@
+# Translation of Themes - OnePress in Portuguese (Portugal)
+# This file is distributed under the same license as the Themes - OnePress package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-11-23 16:43:59+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: pt\n"
+"Project-Id-Version: Themes - OnePress\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "OnePress is an outstanding creative and flexible WordPress one page theme well suited for business website, portfolio, digital agency, product showcase, freelancers and everyone else who appreciate good design. The theme overall is an elegant and classic one, a fine example of Bootstrap 4 WordPress theme which compatibility with latest version of WooCommerce. (Live preview : https://demos.famethemes.com/onepress)"
+msgstr "O OnePress é um tema criativo e flexível de uma página para WordPress. É apropriado para sites de empresas, portefólios, agências digitais, apresentação de produtos, freelancers e para qualquer pessoa que aprecie um bom design. É um tema elegante e clássico, um bom exemplo de um tema para WordPress em Bootstrap 4, compatível com a última versão do WooCommerce. (Pré-visualização: https://demos.famethemes.com/onepress)"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "OnePress"
+msgstr "OnePress"
+
+#: inc/admin/class-editor.php:107 inc/admin/dashboard.php:804
+#: inc/admin/dashboard.php:829 inc/class-config.php:33
+msgid "You are not authorized to access this page."
+msgstr ""
+
+#: inc/admin/class-editor.php:113 inc/admin/dashboard.php:36
+#: inc/admin/dashboard.php:835
+msgid "Security check!"
+msgstr ""
+
+#: functions.php:151
+msgid "Bulk Edit for WooCommerce"
+msgstr ""
+
+#: functions.php:144
+msgid "Currency Switcher for WooCommerce"
+msgstr ""
+
+#: inc/customizer-controls.php:56
+msgid "Please setup your main Latitude & Longitude first"
+msgstr "Por favor, configure primeiro a sua latitude e longitude principal"
+
+#: inc/customize-configs/section-about.php:50
+#: inc/customize-configs/section-contact.php:50
+#: inc/customize-configs/section-counter.php:49
+#: inc/customize-configs/section-features.php:50
+#: inc/customize-configs/section-gallery.php:59
+#: inc/customize-configs/section-hero.php:51
+#: inc/customize-configs/section-news.php:50
+#: inc/customize-configs/section-videolightbox.php:50
+msgid "The section ID should be English character, lowercase and no space."
+msgstr "O ID da seção deve ser em inglês, em letras minúsculas e sem espaço."
+
+#: inc/class-sections-navigation.php:92
+msgid "Disable the section navigation on mobile"
+msgstr "Desactivar a secção de navegação em dispositivos móveis"
+
+#: inc/customize-configs/options-page.php:148
+msgid "Apply when the page display featured image as header cover."
+msgstr ""
+
+#: inc/customize-configs/options-page.php:147
+msgid "Page Title Cover Alignment"
+msgstr ""
+
+#: inc/customize-configs/options-page.php:124
+msgid "Page Title Alignment"
+msgstr "Alinhamento do título da página"
+
+#: inc/customize-configs/options-blog-posts.php:51
+msgid "Hide placeholder if the post thumbnail not exists."
+msgstr "Ocultar o marcador de posição se a miniatura do artigo não existir."
+
+#: inc/customize-configs/options-blog-posts.php:49
+msgid "Hide thumbnail placeholder"
+msgstr "Ocultar marcador de posição da miniatura"
+
+#: inc/customize-configs/section-gallery.php:331
+msgid "Enable Image Link"
+msgstr "Ativar a ligação da imagem"
+
+#: inc/customize-configs/section-gallery.php:171
+msgid "Select a page which have content contain [gallery] shortcode or gallery blocks."
+msgstr ""
+
+#: inc/customize-configs/options-colors.php:54
+msgid "Secondary Color"
+msgstr "Cor secundária"
+
+#: inc/customize-configs/options-single.php:46
+msgid "Enter content max width number, e.g : 800"
+msgstr "Insira a largura máxima do conteúdo, por exemplo: 800"
+
+#: inc/customize-configs/options-single.php:45
+msgid "Single Content Max Width"
+msgstr "Largura máxima do conteúdo individual"
+
+#: inc/customize-configs/options-single.php:30
+msgid "Right Sidebar"
+msgstr "Barra lateral direita"
+
+#: inc/customize-configs/options-single.php:28
+msgid "No Sidebar"
+msgstr "Sem barra"
+
+#: inc/customize-configs/options-single.php:24
+msgid "Single Layout Sidebar"
+msgstr "Barra lateral do layout Individual"
+
+#: inc/customize-configs/options-blog-posts.php:32
+msgid "Disable archive prefix"
+msgstr "Desactivar o prefixo de arquivo"
+
+#: inc/class-sections-navigation.php:191
+msgid "Label Color"
+msgstr "Cor da etiqueta"
+
+#: inc/class-sections-navigation.php:171
+msgid "Label Background"
+msgstr "Fundo da etiqueta"
+
+#: inc/class-config.php:97
+msgid "Testimonials"
+msgstr "Testemunhos"
+
+#: inc/class-config.php:96
+msgid "Section: Testimonials"
+msgstr "Secção: Testemunhos"
+
+#: inc/class-config.php:91
+msgid "Highlight Projects"
+msgstr "Projectos em destaque"
+
+#: inc/class-config.php:90
+msgid "Section: Projects"
+msgstr "Secção: Projectos"
+
+#: inc/class-config.php:85
+msgid "Pricing Table"
+msgstr "Tabela de preços"
+
+#: inc/class-config.php:84
+msgid "Section: Pricing"
+msgstr "Secção: Preços"
+
+#: inc/class-config.php:79
+msgid "Map"
+msgstr "Mapa"
+
+#: inc/class-config.php:78
+msgid "Section: Map"
+msgstr "Secção: Mapa"
+
+#: inc/class-config.php:72
+msgid "Section: Call to Action"
+msgstr "Secção: Chamada para a Acção"
+
+#: inc/class-config.php:67
+msgid "Our Clients"
+msgstr "Os nossos clientes"
+
+#: inc/class-config.php:66
+msgid "Section: Clients"
+msgstr "Secção: Clientes"
+
+#: inc/class-config.php:59
+msgid "Section: Slider"
+msgstr "Secção: Slider"
+
+#: inc/admin/dashboard.php:282
+msgid "Demo Import"
+msgstr "Importação de demonstração"
+
+#: inc/admin/dashboard.php:276
+msgid "Overview"
+msgstr "Resumo"
+
+#: inc/admin/dashboard.php:212
+msgid "Disable (or enable) unused sections to improve Customizer loading speed. Your section settings is still saved."
+msgstr ""
+
+#: inc/admin/dashboard.php:211
+msgid "Customizer Section Manager"
+msgstr "Gestor de secções do Personalizador"
+
+#: inc/admin/dashboard.php:202
+msgid "Settings saved"
+msgstr "Configurações guardadas"
+
+#: inc/admin/dashboard.php:182
+msgid "Plus Feature"
+msgstr "Funcionalidade Plus"
+
+#: functions.php:129
+msgid "Contact Form by WPForms"
+msgstr "Formulário de contacto por WPForms"
+
+#: inc/extras.php:409
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "j \\d\\e F, Y"
+
+#: inc/extras.php:407
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F \\d\\e Y"
+
+#: inc/extras.php:405
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/customizer.php:31
+msgid "<h4 class=\"customizer-group-heading-message\">Advanced Section Styling</h4><p class=\"customizer-group-heading-message\">Check out the <a target=\"_blank\" href=\"https://www.famethemes.com/plugins/onepress-plus/?utm_source=theme_customizer&utm_medium=text_link&utm_campaign=onepress_customizer#get-started\">OnePress Plus</a> version for full control over the section styling which includes background color, image, video, parallax effect, custom style and more ...</p>"
+msgstr ""
+
+#: inc/customize-configs/section-news.php:283
+msgid "Custom More News link"
+msgstr ""
+
+#: inc/customize-configs/section-news.php:265
+msgid "More News Page"
+msgstr ""
+
+#: inc/customize-configs/section-news.php:150
+msgid "Full content"
+msgstr "Conteúdo completo"
+
+#: inc/customize-configs/section-news.php:149
+msgid "Strip excerpt by more tag"
+msgstr ""
+
+#: inc/customize-configs/section-news.php:148
+msgid "Use excerpt metabox"
+msgstr ""
+
+#: inc/customize-configs/section-news.php:147
+msgid "Custom"
+msgstr "Personalizado"
+
+#: inc/customize-configs/section-news.php:143
+#: inc/customize-configs/section-news.php:167
+msgid "Custom excerpt length"
+msgstr ""
+
+#: inc/customize-configs/section-news.php:125
+msgid "Hide post categories"
+msgstr "Ocultar categorias"
+
+#: inc/customize-configs/options-sections-navigation.php:9
+msgid "Sections Navigation"
+msgstr ""
+
+#: inc/customize-configs/options-blog-posts.php:34
+msgid "Check this to disable archive prefix on category, date, tag page."
+msgstr ""
+
+#: inc/customize-configs/options-blog-posts.php:15
+msgid "Blog Posts"
+msgstr "Artigos"
+
+#: inc/class-sections-navigation.php:271
+msgid "Custom navigation label"
+msgstr ""
+
+#: inc/class-sections-navigation.php:254
+msgid "Inverse dots color"
+msgstr ""
+
+#: inc/class-sections-navigation.php:151
+msgid "Dots inverse color"
+msgstr ""
+
+#: inc/class-sections-navigation.php:130
+msgid "Dots color"
+msgstr "Cor dos pontos"
+
+#: inc/class-sections-navigation.php:110
+msgid "By default navigation label is section title."
+msgstr "Por omissão, o rótulo de navegação é o título da secção."
+
+#: inc/class-sections-navigation.php:109
+msgid "Enable navigation labels"
+msgstr ""
+
+#: inc/class-sections-navigation.php:75 inc/class-sections-navigation.php:237
+msgid "Enable in section navigation"
+msgstr ""
+
+#: inc/class-config.php:129
+msgid "Home"
+msgstr "Página inicial"
+
+#: inc/admin/dashboard.php:315
+msgid "Create a support ticket"
+msgstr "Criar ticket de suporte"
+
+#: inc/customize-configs/options-header.php:345
+msgid "Transparent Logo Height in Pixel"
+msgstr ""
+
+#: inc/customize-configs/section-hero.php:542
+msgid "Open Button #2 In New Window"
+msgstr "Abrir botão #2 numa nova janela"
+
+#: inc/customize-configs/section-hero.php:476
+msgid "Open Button #1 In New Window"
+msgstr "Abrir botão #1 numa nova janela"
+
+#: inc/metabox.php:175
+msgid "Apply header cover settings for single product."
+msgstr "Aplicar definições de capa do cabeçalho às páginas dos produtos."
+
+#: inc/admin/dashboard.php:436
+msgid "Keep %s updated"
+msgstr "Mantenha o %s actualizado"
+
+#: inc/admin/dashboard.php:356
+msgid "Your settings were copied."
+msgstr "As suas definições foram copiadas."
+
+#: inc/metabox.php:166
+msgid "Hide footer."
+msgstr "Esconder rodapé."
+
+#: inc/metabox.php:155
+msgid "Display page excerpt as header cover description."
+msgstr "Mostrar excerto da página como descrição da capa do cabeçalho."
+
+#: inc/metabox.php:149
+msgid "Display featured image as header cover."
+msgstr "Mostrar imagem de destaque como capa do cabeçalho."
+
+#: inc/metabox.php:143
+msgid "Hide page title area."
+msgstr "Esconder área do título da página."
+
+#: inc/metabox.php:138
+msgid "Hide header."
+msgstr "Esconder cabeçalho."
+
+#: inc/metabox.php:161
+msgid "Hide breadcrumb."
+msgstr "Esconder breadcrumb."
+
+#: inc/customize-configs/options-header.php:179
+msgid "Only set if display site tagline."
+msgstr "Seleccione apenas se mostrar a descrição do site."
+
+#: inc/customize-configs/options-header.php:177
+msgid "Site Tagline Color"
+msgstr "Cor da descrição do site"
+
+#. Template Name of the theme
+msgid "Full Width - Contained Content"
+msgstr "Largura total - Conteúdo contido"
+
+#. Template Name of the theme
+msgid "Full Width - Stretched Content"
+msgstr "Largura total - Conteúdo a toda a largura"
+
+#. translators: 1: feature name
+#: inc/sanitize.php:287
+msgid "Upgrade to %1s to unlock this feature."
+msgstr "Actualize para %1s para desbloquear esta funcionalidade."
+
+#: inc/metabox.php:38
+msgid "Page Settings"
+msgstr "Definições da página"
+
+#: inc/admin/dashboard.php:645
+msgid "Get OnePress Plus now!"
+msgstr "Obter o OnePress Plus agora!"
+
+#: inc/admin/dashboard.php:280
+msgid "Free vs PLUS"
+msgstr "Gratuito vs Plus"
+
+#: inc/admin/dashboard.php:277
+msgid "Recommended Actions"
+msgstr "Acções recomendadas"
+
+#: inc/customize-configs/section-upsell.php:38
+msgid "OnePress Plus Available! Take a look"
+msgstr "OnePress Plus disponível! Saiba mais"
+
+#: inc/customize-configs/section-upsell.php:28
+msgid "<h4 class=\"customizer-group-heading-message\">Drag &amp; Drop Section Orders</h4><p class=\"customizer-group-heading-message\">Check out the <a target=\"_blank\" href=\"https://www.famethemes.com/plugins/onepress-plus/?utm_source=theme_customizer&utm_medium=text_link&utm_campaign=onepress_customizer#get-started\">OnePress Plus</a> version for full control over the frontpage SECTIONS ORDER!</p><h4 class=\"customizer-group-heading-message\">Advanced Section Styling</h4><p class=\"customizer-group-heading-message\">Check out the <a target=\"_blank\" href=\"https://www.famethemes.com/plugins/onepress-plus/?utm_source=theme_customizer&utm_medium=text_link&utm_campaign=onepress_customizer#get-started\">OnePress Plus</a> version for full control over the section styling which includes background color, image, video, parallax effect, custom style and more ...</p>"
+msgstr ""
+
+#: inc/customize-configs/section-news.php:247
+msgid "Ascending"
+msgstr "Ascendente"
+
+#: inc/customize-configs/section-news.php:246
+msgid "Descending"
+msgstr "Descendente"
+
+#: inc/customize-configs/section-news.php:242
+msgid "Order"
+msgstr "Ordem"
+
+#: inc/customize-configs/section-news.php:227
+msgid "Random order"
+msgstr "Ordem aleatória"
+
+#: inc/customize-configs/section-news.php:226
+msgid "Order by Page Order"
+msgstr "Ordem da página"
+
+#: inc/customize-configs/section-news.php:225
+msgid "Comment Count"
+msgstr "Contagem de comentários"
+
+#: inc/customize-configs/section-news.php:224
+msgid "Date"
+msgstr "Data"
+
+#: inc/customize-configs/section-news.php:222
+msgid "Author"
+msgstr "Autor"
+
+#: inc/customize-configs/section-news.php:221
+msgid "ID"
+msgstr "ID"
+
+#: inc/customize-configs/options-single.php:27
+#: inc/customize-configs/section-news.php:220
+msgid "Default"
+msgstr "Por omissão"
+
+#: inc/customize-configs/section-news.php:216
+msgid "Order By"
+msgstr "Ordenar por"
+
+#: inc/customize-configs/section-news.php:200
+msgid "Category to show"
+msgstr "Categoria a mostrar"
+
+#: inc/customize-configs/section-services.php:214
+msgid "1x"
+msgstr "1x"
+
+#: inc/customize-configs/section-services.php:213
+msgid "2x"
+msgstr "2x"
+
+#: inc/customize-configs/section-services.php:212
+msgid "3x"
+msgstr "3x"
+
+#: inc/customize-configs/section-services.php:211
+msgid "4x"
+msgstr "4x"
+
+#: inc/customize-configs/section-services.php:210
+msgid "5x"
+msgstr "5x"
+
+#: inc/customize-configs/section-services.php:205
+msgid "Icon Size"
+msgstr "Tamanho do ícone"
+
+#: inc/customize-configs/section-about.php:112
+msgid "Layout Settings"
+msgstr "Definições do layout"
+
+#: inc/customize-configs/section-hero.php:393
+msgid "Rotating Text Background"
+msgstr "Fundo do texto rotativo"
+
+#: inc/customize-configs/section-hero.php:378
+msgid "Rotating Text Color"
+msgstr "Cor do texto rotativo"
+
+#: inc/customize-configs/section-hero.php:354
+msgid "We are <span class=\"js-rotating\">OnePress | One Page | Responsive | Perfection</span>"
+msgstr "Somos <span class=\"js-rotating\">OnePress | Uma Página | Responsivos | Perfeição</span>"
+
+#: inc/customize-configs/section-hero.php:311
+msgid "Want to add <strong>background video</strong> for hero section? Upgrade to <a target=\"_blank\" href=\"https://www.famethemes.com/plugins/onepress-plus/?utm_source=theme_customizer&utm_medium=text_link&utm_campaign=onepress_customizer#get-started\">OnePress Plus</a> version."
+msgstr "Gostaria de adicionar <strong>fundo de vídeo</strong> na secção hero? Actualize para a versão <a target=\"_blank\" href=\"https://www.famethemes.com/plugins/onepress-plus/?utm_source=theme_customizer&utm_medium=text_link&utm_campaign=onepress_customizer#get-started\">OnePress Plus</a>."
+
+#: inc/customize-configs/section-hero.php:81
+msgid "Disable Preload Icon"
+msgstr "Desactivar ícone de carregar a página"
+
+#: inc/customize-configs/options-footer.php:334
+msgid "Footer Copyright"
+msgstr "Copyright do rodapé"
+
+#: inc/customize-configs/options-footer.php:322
+#: inc/customize-configs/options-footer.php:388
+msgid "Link Hover Color"
+msgstr "Cor da ligação ao passar com o rato"
+
+#: inc/customize-configs/options-footer.php:306
+#: inc/customize-configs/options-footer.php:375
+msgid "Link Color"
+msgstr "Cor da ligação"
+
+#: inc/customize-configs/options-footer.php:289
+msgid "Widget Title Color"
+msgstr "Cor do título dos widgets"
+
+#: inc/customize-configs/options-footer.php:240
+msgid "Enter int numbers and sum of them must smaller or equal 12, separated by \"+\""
+msgstr "Insira números inteiros cuja soma deverá ser menor ou igual a 12, separados por \"+\""
+
+#. translators: 1: col name
+#: inc/customize-configs/options-footer.php:238
+msgid "Custom footer %s columns width"
+msgstr "Largura personalizada das %s colunas do rodapé"
+
+#: inc/customize-configs/options-footer.php:236
+msgid "Custom footer 1 column width"
+msgstr "Largura personalizada da coluna do rodapé"
+
+#: inc/customize-configs/options-footer.php:212
+msgid "Disable footer widgets"
+msgstr "Desactivar widgets do rodapé"
+
+#: inc/customize-configs/options-footer.php:206
+msgid "Number footer columns to display."
+msgstr "Número de colunas a mostrar no rodapé."
+
+#: inc/customize-configs/options-footer.php:186
+msgid "Footer Widgets"
+msgstr "Widgets do rodapé"
+
+#: inc/customize-configs/options-footer.php:174
+#: inc/customize-configs/options-footer.php:256
+#: inc/customize-configs/options-footer.php:362
+msgid "Text Color"
+msgstr "Cor do texto"
+
+#: inc/customize-configs/options-footer.php:78
+#: inc/customize-configs/section-about.php:159
+#: inc/customize-configs/section-counter.php:131
+#: inc/customize-configs/section-features.php:156
+#: inc/customize-configs/section-services.php:158
+#: inc/customize-configs/section-team.php:153
+msgid "Upgrade to <a target=\"_blank\" href=\"https://www.famethemes.com/plugins/onepress-plus/?utm_source=theme_customizer&utm_medium=text_link&utm_campaign=onepress_customizer#get-started\">OnePress Plus</a> to be able to add more items and unlock other premium features!"
+msgstr "Actualize para o <a target=\"_blank\" href=\"https://www.famethemes.com/plugins/onepress-plus/?utm_source=theme_customizer&utm_medium=text_link&utm_campaign=onepress_customizer#get-started\">OnePress Plus</a> para poder adicionar mais itens e desbloquear outras funcionalidades premium!"
+
+#: inc/customize-configs/options-footer.php:6
+msgid "Footer Socials"
+msgstr "Redes sociais do rodapé"
+
+#: inc/customize-configs/options-page.php:129
+#: inc/customize-configs/options-page.php:154
+msgid "Right"
+msgstr "Direita"
+
+#: inc/customize-configs/options-page.php:128
+#: inc/customize-configs/options-page.php:153
+msgid "Left"
+msgstr "Esquerda"
+
+#: inc/customize-configs/options-page.php:130
+#: inc/customize-configs/options-page.php:152
+msgid "Center"
+msgstr "Centro"
+
+#: inc/customize-configs/options-page.php:83
+msgid "Color"
+msgstr "Cor"
+
+#: inc/customize-configs/options-page.php:65
+msgid "The page cover padding bottom in percent (%)."
+msgstr "O espaçamento inferior da capa da página, em percentagem (%)."
+
+#: inc/customize-configs/options-page.php:64
+msgid "Padding Bottom"
+msgstr "Espaçamento inferior"
+
+#: inc/customize-configs/options-page.php:48
+msgid "The page cover padding top in percent (%)."
+msgstr "O espaçamento superior da capa da página, em percentagem (%)."
+
+#: inc/customize-configs/options-page.php:47
+msgid "Padding Top"
+msgstr "Espaçamento superior"
+
+#: inc/customize-configs/options-page.php:32
+msgid "Check this box to disable the page title bar on all pages."
+msgstr "Seleccione esta opção para desactivar a barra de título em todas as páginas."
+
+#: inc/customize-configs/options-page.php:30
+msgid "Disable Page Title bar?"
+msgstr "Desactivar barra do título de página?"
+
+#: inc/customize-configs/options-page.php:12
+msgid "Page Title Area"
+msgstr "Área do título da página"
+
+#: inc/customize-configs/options-navigation.php:22
+msgid "Padding left and right for Navigation items (pixels)."
+msgstr "Espaçamento à esquerda e direita dos itens da navegação (píxeis)."
+
+#: inc/customize-configs/options-navigation.php:21
+msgid "Menu Item Padding"
+msgstr "Espaçamento dos itens de menu"
+
+#: inc/customize-configs/options-navigation.php:7
+msgid "Navigation"
+msgstr "Navegação"
+
+#: inc/customize-configs/options-header.php:382
+msgid "Transparent Site Tagline Color"
+msgstr "Cor da descrição do site no cabeçalho transparente"
+
+#: inc/customize-configs/options-header.php:363
+msgid "Transparent Site Title Color"
+msgstr "Cor do título do site no cabeçalho transparente"
+
+#: inc/customize-configs/options-header.php:325
+msgid "Transparent Retina Logo"
+msgstr "Logótipo retina transparente"
+
+#: inc/customize-configs/options-header.php:306
+#: inc/customize-configs/options-header.php:326
+msgid "Only apply when transparent header option is checked."
+msgstr "Apenas se aplica se activar o cabeçalho transparente."
+
+#: inc/customize-configs/options-header.php:304
+msgid "Transparent Logo"
+msgstr "Logótipo transparente"
+
+#: inc/customize-configs/options-header.php:60
+msgid "Below Hero Slider"
+msgstr "Abaixo do slider do hero"
+
+#: inc/customize-configs/options-header.php:59
+msgid "Top"
+msgstr "Topo"
+
+#: inc/customize-configs/options-header.php:56
+msgid "Header Position"
+msgstr "Posição do cabeçalho"
+
+#: inc/customize-configs/options-header.php:36
+msgid "Contained"
+msgstr "Contido"
+
+#: inc/customize-configs/options-header.php:32
+msgid "Header Width"
+msgstr "Largura do cabeçalho"
+
+#: inc/customize-configs/options-global.php:83
+msgid "Check this if you want to disable default google fonts in theme."
+msgstr "Seleccione esta opção para desactivar as Google Fonts do tema."
+
+#: inc/customize-configs/options-global.php:81
+msgid "Disable Google Fonts"
+msgstr "Desactivar Google Fonts"
+
+#: inc/customize-configs/site-identity.php:70
+msgid "Logo Height In Pixel"
+msgstr "Altura do logótipo em píxeis"
+
+#: inc/customize-configs/site-identity.php:52
+msgid "Retina Logo"
+msgstr "Logótipo retina"
+
+#: inc/customize-controls/control-category.php:28
+msgid "All"
+msgstr "Tudo"
+
+#. translators: 1: widget number
+#: functions.php:256
+msgid "Footer %s"
+msgstr "Rodapé %s"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:34
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgstr "Um comentário em &ldquo;%2$s&rdquo;"
+
+#: inc/customize-configs/options-single.php:79
+msgid "Check this box to show single post meta such as post date, author, category,..."
+msgstr "Seleccione esta opção para mostrar metadados de artigo, como a data, autor, categoria, etc."
+
+#: inc/customize-configs/options-single.php:77
+msgid "Show single post meta"
+msgstr "Mostrar metadados do artigo"
+
+#: inc/customize-configs/options-single.php:64
+msgid "Check this box to show post thumbnail on single post."
+msgstr "Seleccione esta opção para mostrar a imagem de destaque no artigo."
+
+#: inc/customize-configs/options-single.php:62
+msgid "Show single post thumbnail"
+msgstr "Mostrar imagem de destaque do artigo"
+
+#: inc/customize-configs/options-single.php:8
+msgid "Single Post"
+msgstr "Artigo"
+
+#: inc/customize-configs/section-hero.php:203
+msgid "The amount of time in between slides, expressed as the number of milliseconds."
+msgstr "A duração de cada slide, em milisegundos."
+
+#: inc/customize-configs/section-hero.php:202
+msgid "Slider duration speed"
+msgstr "Duração dos slides"
+
+#: inc/customize-configs/section-hero.php:186
+msgid "This is the speed at which the image will fade in. Integers in milliseconds are accepted."
+msgstr "Esta é a velocidade com que a imagem aparece, em milisegundos."
+
+#: inc/customize-configs/section-hero.php:185
+msgid "Slider animation speed"
+msgstr "Velocidade da animação do slider"
+
+#: inc/customize-configs/section-hero.php:167
+msgid "Text animation speed"
+msgstr "Velocidade da animação do texto"
+
+#: inc/admin/dashboard.php:335
+msgid "Child theme uses it's own theme setting name, would you like to copy setting data from parent theme to this child theme?"
+msgstr "Os temas dependentes usam o seu próprio nome de definições de tema, gostaria de copiar os dados das definições do tema superior para este tema dependente?"
+
+#: inc/customizer.php:209
+msgid "Font Awesome"
+msgstr "Font Awesome"
+
+#: inc/customizer.php:205
+msgid "Search"
+msgstr "Pesquisar"
+
+#: inc/admin/dashboard.php:725
+msgid "Are you sure you want to copy?"
+msgstr ""
+
+#: inc/admin/dashboard.php:374
+msgid "Recommend Plugins"
+msgstr "Plugins recomendados"
+
+#: inc/admin/dashboard.php:353
+msgid "Copy now"
+msgstr "Copiar agora"
+
+#: inc/admin/dashboard.php:345
+msgid "To Theme"
+msgstr "Para o tema"
+
+#: inc/admin/dashboard.php:339
+msgid "From Theme"
+msgstr "Do tema"
+
+#: inc/admin/dashboard.php:333
+msgid "You're using %1$s theme, It's a child theme of OnePress"
+msgstr "Está a usar o tema %1$s, que é um tema dependente do OnePress"
+
+#: inc/admin/dashboard.php:793
+msgid "Details"
+msgstr "Detalhes"
+
+#: inc/admin/dashboard.php:150
+msgid "Import Demo Data"
+msgstr "Importar dados de demonstração"
+
+#: inc/admin/dashboard.php:150
+msgid "Save time by import our demo data, your website will be set up and ready to customize in minutes. %s"
+msgstr "Poupe tempo ao importar dados de demonstração, o seu site ficará configurado e pronto a personalizar em minutos. %s"
+
+#: inc/customize-configs/section-gallery.php:366
+msgid "Read More Text"
+msgstr "Texto \"Ver mais\""
+
+#: inc/customize-configs/section-gallery.php:360
+#: section-parts/section-gallery.php:37
+msgid "View More"
+msgstr "Ver mais"
+
+#: inc/customize-configs/section-gallery.php:349
+msgid "Read More Link"
+msgstr "Ligação \"Ver mais\""
+
+#: inc/customize-configs/options-global.php:31
+msgid "No sidebar"
+msgstr "Sem barra lateral"
+
+#: inc/customize-configs/options-global.php:30
+msgid "Left sidebar"
+msgstr "Barra lateral esquerda"
+
+#: inc/customize-configs/options-global.php:29
+msgid "Right sidebar"
+msgstr "Barra lateral direita"
+
+#: inc/customize-configs/options-global.php:26
+msgid "Site Layout, apply for all pages, exclude home page and custom page templates."
+msgstr "Layout do site, aplicável a todas as páginas, com excepção da página inicial e de modelos personalizados de página."
+
+#: inc/customize-configs/options-global.php:25
+msgid "Site Layout"
+msgstr "Layout do site"
+
+#: functions.php:133
+msgid "Famethemes Demo Importer"
+msgstr "Importador da demonstração de FameThemes"
+
+#: functions.php:241
+msgid "WooCommerce Sidebar"
+msgstr "Barra lateral do WooCommerce"
+
+#: inc/customize-configs/section-about.php:120
+#: inc/customize-configs/section-services.php:120
+msgid "1 Column"
+msgstr "1 coluna"
+
+#: inc/customize-configs/section-gallery.php:313
+msgid "Enable Lightbox"
+msgstr "Activar lightbox"
+
+#: inc/customize-configs/section-gallery.php:297
+msgid "Number items"
+msgstr "Número de itens"
+
+#: inc/customize-configs/section-gallery.php:270
+msgid "Layout columns"
+msgstr "Colunas do layout"
+
+#: inc/customize-configs/section-gallery.php:252
+msgid "Row Height"
+msgstr "Altura da linha"
+
+#: inc/customize-configs/section-gallery.php:234
+msgid "Item Spacing"
+msgstr "Espaçamento entre itens"
+
+#: inc/customize-configs/section-gallery.php:218
+msgid "Masonry"
+msgstr "Masonry"
+
+#: inc/customize-configs/section-gallery.php:217
+msgid "Justified"
+msgstr "Justificado"
+
+#: inc/class-config.php:60 inc/customize-configs/section-gallery.php:216
+msgid "Slider"
+msgstr "Slider"
+
+#: inc/customize-configs/section-gallery.php:215
+msgid "Carousel"
+msgstr "Carrossel"
+
+#: inc/customize-configs/section-gallery.php:214
+msgid "Grid"
+msgstr "Grelha"
+
+#: inc/customize-configs/section-gallery.php:209
+msgid "Display"
+msgstr "Disposição"
+
+#: inc/customize-configs/section-gallery.php:192
+msgid "Default, inside container"
+msgstr "Por omissão, dentro do contentor"
+
+#: inc/customize-configs/options-footer.php:203
+#: inc/customize-configs/section-gallery.php:187
+msgid "Layout"
+msgstr "Layout"
+
+#: inc/customize-configs/section-gallery.php:166
+msgid "Select Gallery Page"
+msgstr "Seleccione página de galeria"
+
+#: inc/customize-configs/section-gallery.php:147
+msgid "Page"
+msgstr "Página"
+
+#: inc/customize-configs/section-gallery.php:142
+msgid "Select Gallery Source"
+msgstr "Seleccione origem da galeria"
+
+#: inc/class-config.php:160 inc/customize-configs/section-gallery.php:68
+#: section-parts/section-gallery.php:4
+msgid "Gallery"
+msgstr "Galeria"
+
+#: inc/customize-configs/section-gallery.php:51
+msgid "gallery"
+msgstr "galeria"
+
+#: inc/class-config.php:159 inc/customize-configs/section-gallery.php:12
+msgid "Section: Gallery"
+msgstr "Secção: Galeria"
+
+#: inc/customize-configs/options-header.php:116
+msgid "Scroll to top when click to the site logo or site title, only apply on front page."
+msgstr "Voltar ao topo ao clicar no logótipo ou título do site, só é aplicável na página inicial."
+
+#: inc/admin/dashboard.php:706
+msgid "FameThemes Demo Importer"
+msgstr "Importador da demonstração do FameThemes"
+
+#: inc/admin/dashboard.php:705
+msgid "Hey."
+msgstr "Olá,"
+
+#: inc/admin/dashboard.php:701
+msgid "%1$s you will need to install and activate the %2$s plugin first."
+msgstr "%1$s primeiro tem de instalar e activar o plugin %2$s."
+
+#: inc/admin/dashboard.php:684 inc/admin/dashboard.php:773
+msgid "Active Now"
+msgstr "Activar agora"
+
+#: inc/admin/dashboard.php:663 inc/admin/dashboard.php:752
+msgid "Install Now"
+msgstr "Instalar agora"
+
+#: inc/customize-configs/section-hero.php:519
+msgid "Button #2 style"
+msgstr "Estilo do botão #2"
+
+#: inc/customize-configs/section-news.php:297
+msgid "More News Button Text"
+msgstr "Texto do botão \"Mais notícias\""
+
+#: inc/customize-configs/section-news.php:268
+msgid "It should be your blog page link."
+msgstr "Deverá ser a ligação da sua página de blog."
+
+#: inc/customize-configs/section-hero.php:464
+#: inc/customize-configs/section-hero.php:530
+msgid "Danger"
+msgstr "Perigo"
+
+#: inc/customize-configs/section-hero.php:463
+#: inc/customize-configs/section-hero.php:529
+msgid "Warning"
+msgstr "Aviso"
+
+#: inc/customize-configs/section-hero.php:462
+#: inc/customize-configs/section-hero.php:528
+msgid "Info"
+msgstr "Informação"
+
+#: inc/customize-configs/section-hero.php:461
+#: inc/customize-configs/section-hero.php:527
+msgid "Success"
+msgstr "Sucesso"
+
+#: inc/customize-configs/section-hero.php:460
+#: inc/customize-configs/section-hero.php:526
+msgid "Primary"
+msgstr "Principal"
+
+#: inc/customize-configs/section-hero.php:459
+#: inc/customize-configs/section-hero.php:525
+msgid "Button"
+msgstr "Botão"
+
+#: inc/customize-configs/section-hero.php:458
+#: inc/customize-configs/section-hero.php:524
+msgid "Button Secondary"
+msgstr "Botão secundário"
+
+#: inc/customize-configs/section-hero.php:457
+#: inc/customize-configs/section-hero.php:523
+msgid "Button Primary"
+msgstr "Botão principal"
+
+#: inc/customize-configs/section-hero.php:453
+msgid "Button #1 style"
+msgstr "Estilo do botão #1"
+
+#: inc/customize-configs/section-hero.php:113
+msgid "The hero content padding bottom in percent (%)."
+msgstr "O espaçamento inferior do conteúdo do hero, em percentagem (%)."
+
+#: inc/customize-configs/section-hero.php:97
+msgid "The hero content padding top in percent (%)."
+msgstr "O espaçamento superior do conteúdo do hero, em percentagem (%)."
+
+#: inc/customize-configs/section-hero.php:168
+msgid "The delay between the changing of each phrase in milliseconds."
+msgstr "O intervalo entre as alterações de cada frase, em milisegundos."
+
+#: inc/customize-configs/options-footer.php:147
+msgid "The newsletter form use MailChimp, please follow <a target=\"_blank\" href=\"https://mailchimp.com/help/host-your-own-signup-forms/\">this guide</a> to know how to get MailChimp Action URL. Example <i>//famethemes.us8.list-manage.com/subscribe/post?u=521c400d049a59a4b9c0550c2&amp;id=83187e0006</i>"
+msgstr "O formulário de newsletter utiliza o MailChimp. Por favor siga <a target=\"_blank\" href=\"https://mailchimp.com/help/host-your-own-signup-forms/\">este guia</a> para saber como obter o URL da acção do MailChimp. Exemplo <i>//famethemes.us8.list-manage.com/subscribe/post?u=521c400d049a59a4b9c0550c2&amp;id=83187e0006</i>"
+
+#: inc/customize-configs/site-identity.php:32
+msgid "Hide site tagline"
+msgstr "Esconder descrição do site"
+
+#: inc/customize-configs/site-identity.php:17
+msgid "Hide site title"
+msgstr "Esconder título do site"
+
+#: inc/customize-configs/section-features.php:167
+#: inc/customize-configs/section-services.php:165
+msgid "image"
+msgstr "Imagem"
+
+#: inc/customize-configs/section-hero.php:148
+msgid "Text animation"
+msgstr "Animação do texto"
+
+#: inc/admin/dashboard.php:109
+msgid "OnePress Theme %s"
+msgstr "Tema OnePress %s"
+
+#: inc/admin/dashboard.php:107
+msgid "%1$s action required"
+msgid_plural "%1$s actions required"
+msgstr[0] "%1$s acção necessária"
+msgstr[1] "%1$s acções necessárias"
+
+#: inc/customize-configs/options.php:26 inc/customize-configs/options.php:44
+msgid "Custom CSS"
+msgstr "CSS personalizado"
+
+#: section-parts/section-features.php:5
+msgid "Why choose Us"
+msgstr "As nossas vantagens"
+
+#: inc/customize-configs/section-services.php:112
+msgid "Services Layout Settings"
+msgstr "Definições do layout de serviços"
+
+#: inc/customize-configs/section-features.php:185
+#: inc/customize-configs/section-news.php:267
+#: inc/customize-configs/section-team.php:161
+msgid "Custom Link"
+msgstr "Ligação personalizada"
+
+#: inc/customize-configs/section-features.php:181
+msgid "Description"
+msgstr "Descrição"
+
+#: inc/customize-configs/section-features.php:150
+msgid "Features content"
+msgstr "Conteúdo das funcionalidades"
+
+#: inc/customize-configs/section-features.php:111
+msgid "Features Layout Setting"
+msgstr "Definições do layout das funcionalidades"
+
+#: inc/class-config.php:154 inc/customize-configs/section-features.php:58
+#: section-parts/section-features.php:4
+msgid "Features"
+msgstr "Funcionalidades"
+
+#: inc/customize-configs/section-features.php:43
+msgid "features"
+msgstr "funcionalidades"
+
+#: inc/class-config.php:153 inc/customize-configs/section-features.php:8
+msgid "Section: Features"
+msgstr "Secção: Funcionalidades"
+
+#: inc/customize-configs/section-about.php:95
+#: inc/customize-configs/section-contact.php:95
+#: inc/customize-configs/section-counter.php:94
+#: inc/customize-configs/section-features.php:95
+#: inc/customize-configs/section-gallery.php:110
+#: inc/customize-configs/section-news.php:95
+#: inc/customize-configs/section-services.php:95
+#: inc/customize-configs/section-team.php:94
+msgid "Section Description"
+msgstr "Descrição da secção"
+
+#: inc/customize-configs/section-features.php:176
+#: inc/customize-configs/section-hero.php:581
+#: inc/customize-configs/section-services.php:174
+msgid "Image"
+msgstr "Imagem"
+
+#: inc/customize-configs/section-hero.php:563
+msgid "Content Text"
+msgstr "Texto do conteúdo"
+
+#: inc/customize-configs/section-hero.php:343
+msgid "Layout 2"
+msgstr "Layout 2"
+
+#: inc/customize-configs/section-hero.php:342
+msgid "Layout 1"
+msgstr "Layout 1"
+
+#: inc/customize-configs/section-hero.php:337
+msgid "Display Layout"
+msgstr "Layout a apresentar"
+
+#: inc/customize-configs/options-footer.php:89
+msgid "URL"
+msgstr "URL"
+
+#: inc/customize-configs/options-footer.php:85
+#: inc/customize-configs/section-features.php:166
+#: inc/customize-configs/section-features.php:171
+#: inc/customize-configs/section-services.php:164
+#: inc/customize-configs/section-services.php:169
+msgid "Icon"
+msgstr "Ícone"
+
+#: inc/customize-configs/options-footer.php:81
+msgid "Social network"
+msgstr "Rede social"
+
+#: inc/customize-configs/options-footer.php:72
+msgid "Socials"
+msgstr "Redes sociais"
+
+#: inc/customize-configs/options-header.php:286
+msgid "Apply for front page template only."
+msgstr "Aplica-se apenas ao modelo de página inicial."
+
+#: inc/customize-configs/options-header.php:284
+msgid "Header Transparent"
+msgstr "Cabeçalho transparente"
+
+#: inc/template-tags.php:1946
+msgid "Subscribe"
+msgstr "Subscrever"
+
+#: inc/template-tags.php:1945
+msgid "Enter your e-mail address"
+msgstr "Insira o seu endereço de email"
+
+#: inc/admin/dashboard.php:313
+msgid "Support for %s WordPress theme is conducted through FameThemes support ticket system."
+msgstr "O suporte do tema %s para WordPress é garantido pela plataforma de suporte da FameThemes."
+
+#: inc/admin/dashboard.php:307
+msgid "OnePress Documentation"
+msgstr "Documentação do OnePress"
+
+#: inc/customize-configs/section-about.php:119
+#: inc/customize-configs/section-features.php:118
+#: inc/customize-configs/section-services.php:119
+#: inc/customize-configs/section-team.php:117
+msgid "2 Columns"
+msgstr "2 colunas"
+
+#: inc/customize-configs/section-about.php:118
+#: inc/customize-configs/section-features.php:117
+#: inc/customize-configs/section-services.php:118
+#: inc/customize-configs/section-team.php:116
+msgid "3 Columns"
+msgstr "3 colunas"
+
+#: inc/customize-configs/section-about.php:117
+#: inc/customize-configs/section-features.php:116
+#: inc/customize-configs/section-services.php:117
+#: inc/customize-configs/section-team.php:115
+msgid "4 Columns"
+msgstr "4 colunas"
+
+#: inc/customize-configs/section-team.php:110
+msgid "Team Layout Settings"
+msgstr "Definições do layout da equipa"
+
+#: inc/customize-configs/section-about.php:196
+#: inc/customize-configs/section-features.php:210
+#: inc/customize-configs/section-services.php:235
+msgid "Page Excerpt"
+msgstr "Excerto da página"
+
+#: inc/customize-configs/section-about.php:195
+#: inc/customize-configs/section-features.php:209
+#: inc/customize-configs/section-services.php:234
+msgid "Full Page Content"
+msgstr "Todo o conteúdo da página"
+
+#: inc/customize-configs/section-about.php:190
+#: inc/customize-configs/section-features.php:204
+#: inc/customize-configs/section-services.php:229
+msgid "Item content source"
+msgstr "Origem do conteúdo dos itens"
+
+#: inc/customize-configs/section-about.php:153
+msgid "About content page"
+msgstr "Conteúdo da secção Sobre"
+
+#: inc/customize-configs/section-hero.php:293
+msgid "Enable parallax effect (apply for first BG image only)"
+msgstr "Activar efeito parallax (aplica-se apenas na primeira imagem de fundo)"
+
+#: inc/customize-configs/options-header.php:99
+msgid "If you use logo and your logo is too tall, check this box to auto vertical align menu."
+msgstr "Se utilizar um logótipo demasiado grande, seleccione esta opção para centrar automaticamente o menu na vertical."
+
+#: inc/customize-configs/options-header.php:97
+msgid "Center vertical align for menu"
+msgstr "Centrar menu na vertical"
+
+#: inc/customize-configs/options-header.php:262
+msgid "Responsive Menu Button Color"
+msgstr "Cor do botão do menu responsivo"
+
+#: inc/customize-configs/options-header.php:241
+msgid "Menu Link Hover/Active BG Color"
+msgstr "Cor de fundo das ligações do menu ao passar com o rato ou activas"
+
+#: inc/customize-configs/options-header.php:219
+msgid "Menu Link Hover/Active Color"
+msgstr "Cor das ligações do menu ao passar com o rato ou activas"
+
+#: inc/customize-configs/options-header.php:198
+msgid "Menu Link Color"
+msgstr "Cor das ligações do menu"
+
+#: inc/customize-configs/options-header.php:159
+msgid "Only set if you don't use an image logo."
+msgstr "Seleccione apenas se não utilizar uma imagem de logótipo."
+
+#: inc/customize-configs/options-header.php:157
+msgid "Site Title Color"
+msgstr "Cor do título do site"
+
+#: inc/customize-configs/options-footer.php:272
+#: inc/customize-configs/options-header.php:135
+msgid "Background Color"
+msgstr "Cor de fundo"
+
+#: inc/customize-configs/options-header.php:12
+msgid "Header"
+msgstr "Cabeçalho"
+
+#: inc/customize-configs/options-colors.php:28
+msgid "Primary Color"
+msgstr "Cor principal"
+
+#: inc/customize-configs/options-colors.php:9
+msgid "Site Colors"
+msgstr "Cores do site"
+
+#: inc/customize-configs/section-team.php:156
+msgid "User media"
+msgstr "Multimédia do utilizador"
+
+#: inc/customize-configs/section-videolightbox.php:98
+msgid "Background image"
+msgstr "Imagem de fundo"
+
+#: inc/customize-configs/section-videolightbox.php:83
+msgid "Paste Youtube or Vimeo url here"
+msgstr "Cole aqui o URL do YouTube ou Vimeo"
+
+#: inc/customize-configs/section-videolightbox.php:81
+msgid "Video url"
+msgstr "URL do vídeo"
+
+#: inc/customize-configs/section-videolightbox.php:66
+msgid "Section heading"
+msgstr "Título da secção"
+
+#: inc/class-config.php:183 inc/customize-configs/section-videolightbox.php:8
+msgid "Section: Video Lightbox"
+msgstr "Secção: Lightbox de vídeo"
+
+#: inc/admin/dashboard.php:437
+msgid "Hooray! There are no required actions for you right now."
+msgstr "Muito bem! Não tem acções necessárias neste momento."
+
+#: inc/admin/dashboard.php:427
+msgid "Change homepage page template"
+msgstr "Alterar modelo da página inicial"
+
+#: inc/admin/dashboard.php:413
+msgid "In order to change homepage section contents, you will need to set template \"Frontpage\" for your homepage."
+msgstr "Para poder alterar os conteúdos das secções da página inicial, tem de utilizar o modelo \"Página inicial\" para a sua página inicial."
+
+#: inc/admin/dashboard.php:410
+msgid "Set your homepage page template to \"Frontpage\"."
+msgstr "Defina \"Página inicial\" como modelo da sua página"
+
+#: inc/admin/dashboard.php:396 inc/admin/dashboard.php:420
+msgid "Setup front page displays"
+msgstr "Configurar página inicial"
+
+#: inc/admin/dashboard.php:393
+msgid "In order to have the one page look for your website, please go to Customize -&gt; Static Front Page and switch \"Front page displays\" to \"A static page\"."
+msgstr "Para o site funcionar como página única, vá a Personalizar -&gt; Opções da página inicial e mude \"A sua página inicial mostra\" para \"Uma página estática\"."
+
+#: inc/admin/dashboard.php:391
+msgid "Switch \"Front page displays\" to \"A static page\""
+msgstr "Configure a página inicial como página estática"
+
+#: inc/admin/dashboard.php:384 inc/admin/dashboard.php:403
+msgid "Dismiss"
+msgstr "Ignorar"
+
+#: inc/admin/dashboard.php:269
+msgid "Welcome to OnePress - Version %1s"
+msgstr "Bem-vindo ao OnePress - Versão %1s"
+
+#. translators: 1: name, 2: link
+#: inc/admin/dashboard.php:135
+msgid "Welcome! Thank you for choosing %1$s! To fully take advantage of the best our theme can offer please make sure you visit our <a href=\"%2$s\">Welcome page</a>"
+msgstr "Bem-vindo! Obrigado por escolher o %1$s! Para tirar todo o proveito do melhor que o tema tem para oferecer, por favor visite a nossa <a href=\"%2$s\">página de boas-vindas</a>."
+
+#: inc/admin/dashboard.php:111
+msgid "OnePress Theme"
+msgstr "Tema OnePress"
+
+#: inc/admin/dashboard.php:114
+msgid "OnePress Dashboard"
+msgstr "Painel do OnePress"
+
+#: inc/customize-configs/options-page.php:102
+#: inc/customize-configs/section-hero.php:274
+msgid "Background Overlay Color"
+msgstr "Cor da sobreposição do fundo"
+
+#: inc/customize-configs/section-upsell.php:13
+msgid "Section Order & Styling"
+msgstr "Ordem e estilo das secções"
+
+#: inc/customize-configs/options-header.php:80
+msgid "Check this box to disable sticky header when scroll."
+msgstr "Seleccione esta opção para desactivar o cabeçalho fixo ao deslocar a página."
+
+#: inc/customize-configs/options-header.php:78
+msgid "Disable Sticky Header?"
+msgstr "Desactivar cabeçalho fixo?"
+
+#. Template Name of the theme
+#: inc/customize-configs/options-single.php:29
+msgid "Left Sidebar"
+msgstr "Barra lateral esquerda"
+
+#: inc/customize-configs/options-header.php:35
+#: inc/customize-configs/section-gallery.php:193
+msgid "Full Width"
+msgstr "Largura total"
+
+#. Template Name of the theme
+msgid "Frontpage"
+msgstr "Página inicial"
+
+#: template-parts/content-none.php:27
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que não foi possível encontrar o que procura. Talvez uma pesquisa possa ajudar."
+
+#: template-parts/content-none.php:22
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Desculpe, mas nada correspondeu aos seus critérios de pesquisa. Por favor tente com palavras-chave diferentes."
+
+#: template-parts/content-none.php:18
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Pronto para publicar o seu primeiro artigo? <a href=\"%1$s\">Comece aqui</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Nada encontrado"
+
+#: template-parts/content-list.php:78 template-parts/content-page.php:21
+#: template-parts/content-single.php:35 template-parts/content.php:57
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: section-parts/section-hero.php:94
+msgid "#services"
+msgstr "#servicos"
+
+#: section-parts/section-contact.php:53
+msgid "You can install %1$s plugin and go to Customizer &rarr; Section: Contact &rarr; Section Content to show a working contact form here."
+msgstr "Pode instalar o plugin %1$s e ir a Personalizar &rarr; Secção: Contacto &rarr; Conteúdo da secção, para mostrar aqui um formulário de contacto pronto a funcionar."
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Resultados da pesquisa por: %s"
+
+#: inc/template-tags.php:517
+msgid "Your comment is awaiting moderation."
+msgstr "O seu comentário aguarda moderação."
+
+#: inc/template-tags.php:512
+msgid "Edit"
+msgstr "Editar"
+
+#: inc/template-tags.php:505
+msgid "Reply"
+msgstr "Responder"
+
+#: inc/template-tags.php:492
+msgid "Post author"
+msgstr "Autor do artigo"
+
+#: inc/template-tags.php:472
+msgid "(Edit)"
+msgstr "(Editar)"
+
+#: inc/template-tags.php:472
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/template-tags.php:388
+msgid "% Comments"
+msgstr "% comentários"
+
+#: inc/template-tags.php:388
+msgid "1 Comment"
+msgstr "1 comentário"
+
+#: inc/template-tags.php:388
+msgid "Leave a comment"
+msgstr "Deixe um comentário"
+
+#. translators: 1 : tag list
+#: inc/template-tags.php:379
+msgid "Tagged %1$s"
+msgstr "Etiquetas %1$s"
+
+#: inc/template-tags.php:370
+msgid "Posted in %1$s"
+msgstr "Publicado em %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:368 inc/template-tags.php:374
+msgid ", "
+msgstr ", "
+
+#. translators: 1: author
+#: inc/template-tags.php:347
+msgctxt "post author"
+msgid "by %s"
+msgstr "Por %s"
+
+#. translators: 1: time
+#: inc/template-tags.php:341
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Publicado em %s"
+
+#: inc/admin/dashboard.php:312
+msgid "Having Trouble, Need Support?"
+msgstr "Está com problemas e precisa de suporte?"
+
+#: inc/admin/dashboard.php:305
+msgid "Need any help to setup and configure %s? Please have a look at our documentations instructions."
+msgstr "Precisa de ajuda para configurar o %s? Consulte as nossas instruções na documentação."
+
+#: inc/admin/dashboard.php:304
+msgid "Theme Documentation"
+msgstr "Documentação do tema"
+
+#: inc/admin/dashboard.php:300
+msgid "Start Customize"
+msgstr "Personalizar"
+
+#: inc/admin/dashboard.php:298
+msgid "%s supports the Theme Customizer for all theme settings. Click \"Customize\" to start customize your site."
+msgstr "O %s suporta o Personalizador para todas as definições do tema. Clique em \"Personalizar\" para começar a personalizar o seu site."
+
+#: inc/admin/dashboard.php:297
+msgid "Theme Customizer"
+msgstr "Personalizador do tema"
+
+#: inc/admin/dashboard.php:270
+msgid "OnePress is a creative and flexible WordPress ONE PAGE theme well suited for business, portfolio, digital agency, product showcase, freelancers websites."
+msgstr "O OnePress é um tema criativo e flexível de uma página para WordPress, é apropriado para sites de empresas, portfólios, agências digitais, apresentação de produtos e freelancers."
+
+#: inc/customize-configs/section-contact.php:253
+msgid "Fax"
+msgstr "Fax"
+
+#: inc/customize-configs/section-contact.php:238
+msgid "Email"
+msgstr "Email"
+
+#: inc/customize-configs/section-contact.php:223
+msgid "Phone"
+msgstr "Telefone"
+
+#: inc/customize-configs/section-contact.php:208
+msgid "Address"
+msgstr "Morada"
+
+#: inc/customize-configs/section-contact.php:193
+msgid "Contact Box Title"
+msgstr "Título da caixa de contacto"
+
+#: inc/customize-configs/section-contact.php:169
+msgid "Contact Text"
+msgstr "Texto do contacto"
+
+#: inc/customize-configs/section-contact.php:154
+msgid "Check this box to hide contact form."
+msgstr "Seleccione esta opção para esconder o formulário de contacto."
+
+#: inc/customize-configs/section-contact.php:152
+msgid "Hide contact form completely."
+msgstr "Esconder por completo o formulário de contacto."
+
+#: inc/customize-configs/section-contact.php:136
+msgid "Contact Form Shortcode."
+msgstr "Shortcode do formulário de contacto."
+
+#: inc/class-config.php:141 inc/customize-configs/section-contact.php:58
+#: section-parts/section-contact.php:4
+msgid "Get in touch"
+msgstr "Entre em contacto"
+
+#: inc/customize-configs/section-contact.php:43
+msgid "contact"
+msgstr "contacto"
+
+#: inc/class-config.php:140 inc/customize-configs/section-contact.php:8
+msgid "Section: Contact"
+msgstr "Secção: Contacto"
+
+#: inc/customize-configs/section-news.php:292 section-parts/section-news.php:16
+msgid "Read Our Blog"
+msgstr "Leia o nosso blog"
+
+#: inc/customize-configs/section-news.php:183
+msgid "Number of post to show"
+msgstr "Número de artigos a mostrar"
+
+#: inc/class-config.php:166 inc/customize-configs/section-news.php:58
+#: section-parts/section-news.php:11
+msgid "Latest News"
+msgstr "Últimas notícias"
+
+#: inc/customize-configs/section-news.php:43
+msgid "news"
+msgstr "noticias"
+
+#: inc/class-config.php:165 inc/customize-configs/section-news.php:8
+msgid "Section: News"
+msgstr "Secção: Notícias"
+
+#: inc/customize-configs/section-team.php:147
+msgid "Team members"
+msgstr "Membros da equipa"
+
+#: inc/class-config.php:178 inc/customize-configs/section-team.php:57
+#: section-parts/section-team.php:4
+msgid "Our Team"
+msgstr "A nossa equipa"
+
+#: inc/customize-configs/section-team.php:42
+msgid "team"
+msgstr "equipa"
+
+#: inc/class-config.php:177 inc/customize-configs/section-team.php:8
+msgid "Section: Team"
+msgstr "Secção: Equipa"
+
+#: inc/customize-configs/section-counter.php:150
+msgid "After number"
+msgstr "Depois do número"
+
+#: inc/customize-configs/section-counter.php:145
+msgid "Before number"
+msgstr "Antes do número"
+
+#: inc/customize-configs/section-counter.php:140
+msgid "Number"
+msgstr "Número"
+
+#: inc/customize-configs/section-counter.php:137
+msgid "Your counter label"
+msgstr "A legenda do seu contador"
+
+#: inc/customize-configs/section-counter.php:134
+#: inc/customize-configs/section-features.php:159
+#: inc/customize-configs/section-news.php:223
+msgid "Title"
+msgstr "Título"
+
+#: inc/customize-configs/section-counter.php:125
+msgid "Counter content"
+msgstr "Conteúdo do contador"
+
+#: inc/class-config.php:148 inc/customize-configs/section-counter.php:57
+#: section-parts/section-counter.php:4
+msgid "Our Numbers"
+msgstr "Os nossos números"
+
+#: inc/customize-configs/section-counter.php:42
+msgid "counter"
+msgstr "contador"
+
+#: inc/class-config.php:147 inc/customize-configs/section-counter.php:8
+msgid "Section: Counter"
+msgstr "Secção: Contador"
+
+#: inc/customize-configs/section-features.php:163
+#: inc/customize-configs/section-services.php:161
+msgid "Custom icon"
+msgstr "Ícone personalizado"
+
+#: inc/customize-configs/section-services.php:152
+msgid "Service content"
+msgstr "Conteúdo dos serviços"
+
+#: inc/class-config.php:172 inc/customize-configs/section-services.php:58
+#: section-parts/section-hero.php:93 section-parts/section-services.php:4
+msgid "Our Services"
+msgstr "Os nossos serviços"
+
+#: inc/customize-configs/section-services.php:43
+msgid "services"
+msgstr "servicos"
+
+#: inc/class-config.php:171 inc/customize-configs/section-services.php:8
+msgid "Section: Services"
+msgstr "Secção: Serviços"
+
+#: inc/customize-configs/section-about.php:171
+#: inc/customize-configs/section-services.php:185
+msgid "Link to single page"
+msgstr "Ligação para página do artigo"
+
+#: inc/customize-configs/section-about.php:167
+msgid "Hide item title"
+msgstr "Esconder título do item"
+
+#: inc/customize-configs/section-about.php:162
+#: inc/customize-configs/section-services.php:180
+msgid "Select a page"
+msgstr "Seleccione uma página"
+
+#: inc/customize-configs/options-footer.php:76
+#: inc/customize-configs/section-about.php:157
+#: inc/customize-configs/section-counter.php:129
+#: inc/customize-configs/section-features.php:154
+#: inc/customize-configs/section-services.php:156
+#: inc/customize-configs/section-team.php:151
+msgid "[live_title]"
+msgstr "[live_title]"
+
+#: inc/customize-configs/section-about.php:132
+#: inc/customize-configs/section-contact.php:108
+#: inc/customize-configs/section-counter.php:105
+#: inc/customize-configs/section-features.php:130
+#: inc/customize-configs/section-gallery.php:125
+#: inc/customize-configs/section-services.php:132
+#: inc/customize-configs/section-team.php:127
+msgid "Section Content"
+msgstr "Conteúdo da secção"
+
+#: inc/customize-configs/section-about.php:78
+#: inc/customize-configs/section-contact.php:78
+#: inc/customize-configs/section-counter.php:77
+#: inc/customize-configs/section-features.php:78
+#: inc/customize-configs/section-gallery.php:91
+#: inc/customize-configs/section-news.php:78
+#: inc/customize-configs/section-services.php:78
+#: inc/customize-configs/section-team.php:77
+msgid "Section Subtitle"
+msgstr "Subtítulo da secção"
+
+#: inc/customize-configs/section-about.php:73
+#: inc/customize-configs/section-contact.php:73
+#: inc/customize-configs/section-counter.php:72
+#: inc/customize-configs/section-features.php:73
+#: inc/customize-configs/section-gallery.php:85
+#: inc/customize-configs/section-news.php:73
+#: inc/customize-configs/section-services.php:73
+#: inc/customize-configs/section-team.php:72 section-parts/section-about.php:5
+#: section-parts/section-contact.php:5 section-parts/section-counter.php:5
+#: section-parts/section-gallery.php:5 section-parts/section-news.php:12
+#: section-parts/section-services.php:5 section-parts/section-team.php:5
+msgid "Section subtitle"
+msgstr "Subtítulo da secção"
+
+#: inc/customize-configs/section-about.php:63
+#: inc/customize-configs/section-contact.php:63
+#: inc/customize-configs/section-counter.php:62
+#: inc/customize-configs/section-features.php:63
+#: inc/customize-configs/section-gallery.php:74
+#: inc/customize-configs/section-news.php:63
+#: inc/customize-configs/section-services.php:63
+#: inc/customize-configs/section-team.php:62
+msgid "Section Title"
+msgstr "Título da secção"
+
+#: inc/customize-configs/section-about.php:43
+msgid "about"
+msgstr "sobre"
+
+#: inc/customize-configs/section-about.php:17
+#: inc/customize-configs/section-contact.php:17
+#: inc/customize-configs/section-counter.php:17
+#: inc/customize-configs/section-features.php:17
+#: inc/customize-configs/section-gallery.php:22
+#: inc/customize-configs/section-news.php:17
+#: inc/customize-configs/section-services.php:17
+#: inc/customize-configs/section-team.php:17
+#: inc/customize-configs/section-videolightbox.php:17
+msgid "Section Settings"
+msgstr "Definições da secção"
+
+#: inc/class-config.php:134 inc/customize-configs/section-about.php:8
+msgid "Section: About"
+msgstr "Secção: Sobre"
+
+#: inc/customize-configs/section-hero.php:505
+msgid "Button #2 Link"
+msgstr "Ligação do botão #2"
+
+#: inc/customize-configs/section-hero.php:500 section-parts/section-hero.php:96
+msgid "#contact"
+msgstr "#contacto"
+
+#: inc/customize-configs/section-hero.php:491
+msgid "Button #2 Text"
+msgstr "Texto do botão #2"
+
+#: inc/customize-configs/section-hero.php:486 section-parts/section-hero.php:95
+msgid "Get Started"
+msgstr "Começar"
+
+#: inc/customize-configs/section-hero.php:440
+msgid "Button #1 Link"
+msgstr "Ligação do botão #1"
+
+#: inc/customize-configs/section-hero.php:435
+msgid "#about"
+msgstr "#sobre"
+
+#: inc/customize-configs/section-hero.php:426
+msgid "Button #1 Text"
+msgstr "Texto do botão #1"
+
+#: inc/class-config.php:135 inc/customize-configs/section-about.php:58
+#: inc/customize-configs/section-hero.php:421 section-parts/section-about.php:4
+msgid "About Us"
+msgstr "Sobre"
+
+#: inc/customize-configs/section-hero.php:413
+msgid "You can use text rotate slider in this textarea too."
+msgstr "Também pode usar slider com rotação de texto nesta área."
+
+#: inc/customize-configs/section-hero.php:410
+msgid "Small Text"
+msgstr "Texto pequeno"
+
+#: inc/customize-configs/section-hero.php:363
+msgid "Text Rotating Guide: Put your rotate texts separate by \"|\" into <span class=\"js-rotating\">...</span>, go to Customizer -> Theme Options -> Section: Hero -> Hero Settings to control rotate animation."
+msgstr "Instruções sobre texto rotativo: Insira os seus textos separados por \"|\" em <span class=\"js-rotating\">...</span>, vá ao Personalizador > Opções do site > Secção: Hero > Definições do hero, para controlar a animação da rotação."
+
+#: inc/customize-configs/section-hero.php:361
+msgid "Large Text"
+msgstr "Texto grande"
+
+#: inc/customize-configs/section-hero.php:321
+msgid "Hero Content Layout"
+msgstr "Layout do conteúdo do hero"
+
+#: inc/customize-configs/section-hero.php:248
+msgid "Background Image"
+msgstr "Imagem de fundo"
+
+#: inc/customize-configs/options-footer.php:160
+#: inc/customize-configs/options-footer.php:348
+#: inc/customize-configs/section-hero.php:243
+msgid "Background"
+msgstr "Fundo"
+
+#: inc/customize-configs/section-hero.php:239
+msgid "Background Images"
+msgstr "Imagens de fundo"
+
+#: inc/customize-configs/section-hero.php:213
+msgid "Hero Background Media"
+msgstr "Multimédia de fundo do hero"
+
+#: inc/customize-configs/section-hero.php:111
+msgid "Padding Bottom:"
+msgstr "Espaçamento inferior:"
+
+#: inc/customize-configs/section-hero.php:95
+msgid "Padding Top:"
+msgstr "Espaçamento superior:"
+
+#: inc/customize-configs/section-hero.php:90
+#: inc/customize-configs/section-hero.php:106
+msgid "10"
+msgstr "10"
+
+#: inc/customize-configs/section-hero.php:67
+msgid "Check this box to make hero section full screen."
+msgstr "Seleccione esta opção para a secção hero ocupar o ecrã inteiro."
+
+#: inc/customize-configs/section-hero.php:65
+msgid "Make hero section full screen"
+msgstr "Secção hero em ecrã inteiro"
+
+#: inc/customize-configs/section-about.php:48
+#: inc/customize-configs/section-contact.php:48
+#: inc/customize-configs/section-counter.php:47
+#: inc/customize-configs/section-features.php:48
+#: inc/customize-configs/section-gallery.php:57
+#: inc/customize-configs/section-hero.php:49
+#: inc/customize-configs/section-news.php:48
+#: inc/customize-configs/section-services.php:48
+#: inc/customize-configs/section-team.php:47
+#: inc/customize-configs/section-videolightbox.php:48
+msgid "Section ID:"
+msgstr "ID de secção:"
+
+#: inc/customize-configs/section-hero.php:44
+msgid "hero"
+msgstr "hero"
+
+#: inc/customize-configs/section-about.php:35
+#: inc/customize-configs/section-contact.php:35
+#: inc/customize-configs/section-counter.php:34
+#: inc/customize-configs/section-features.php:35
+#: inc/customize-configs/section-gallery.php:42
+#: inc/customize-configs/section-hero.php:37
+#: inc/customize-configs/section-news.php:35
+#: inc/customize-configs/section-services.php:35
+#: inc/customize-configs/section-team.php:35
+#: inc/customize-configs/section-videolightbox.php:35
+msgid "Check this box to hide this section."
+msgstr "Seleccione esta opção para esconder esta secção."
+
+#: inc/customize-configs/section-about.php:33
+#: inc/customize-configs/section-contact.php:33
+#: inc/customize-configs/section-counter.php:32
+#: inc/customize-configs/section-features.php:33
+#: inc/customize-configs/section-gallery.php:40
+#: inc/customize-configs/section-hero.php:35
+#: inc/customize-configs/section-news.php:33
+#: inc/customize-configs/section-services.php:33
+#: inc/customize-configs/section-team.php:33
+#: inc/customize-configs/section-videolightbox.php:33
+msgid "Hide this section?"
+msgstr "Esconder esta secção?"
+
+#: inc/customize-configs/section-hero.php:19
+msgid "Hero Settings"
+msgstr "Definições do hero"
+
+#: inc/class-config.php:128 inc/customize-configs/section-hero.php:9
+msgid "Section: Hero"
+msgstr "Secção: Hero"
+
+#: inc/customize-configs/options-footer.php:145
+msgid "MailChimp Action URL"
+msgstr "URL da acção do MailChimp"
+
+#: inc/customize-configs/options-footer.php:129
+msgid "Newsletter Form Title"
+msgstr "Título do formulário da newsletter"
+
+#: inc/customize-configs/options-footer.php:115
+msgid "Check this box to hide footer newsletter form."
+msgstr "Seleccione esta opção para esconder o formulário da newsletter."
+
+#: inc/customize-configs/options-footer.php:113
+msgid "Hide Footer Newsletter?"
+msgstr "Esconder newsletter do rodapé?"
+
+#: inc/customize-configs/options-footer.php:52
+msgid "Social Footer Title"
+msgstr "Título das redes sociais do rodapé"
+
+#: inc/customize-configs/options-footer.php:38
+msgid "The social profiles specified below will be displayed in the footer of your site."
+msgstr "Os perfis de redes sociais especificados abaixo serão mostrados no rodapé do seu site."
+
+#: inc/customize-configs/options-footer.php:25
+msgid "Check this box to hide footer social section."
+msgstr "Seleccione esta opção para esconder a secção de redes sociais do rodapé."
+
+#: inc/customize-configs/options-footer.php:23
+msgid "Hide Footer Social?"
+msgstr "Esconder redes sociais do rodapé?"
+
+#: inc/customize-configs/options-global.php:66
+msgid "Check this box to hide footer back to top button."
+msgstr "Seleccione esta opção para esconder o botão do rodapé para voltar ao topo."
+
+#: inc/customize-configs/options-global.php:64
+msgid "Hide footer back to top?"
+msgstr "Esconder botão para voltar ao topo?"
+
+#: inc/customize-configs/options-global.php:49
+msgid "Check this box to disable all element animation when scroll."
+msgstr "Seleccione esta opção para desactivar a animação de todos os elementos ao deslocar a página."
+
+#: inc/customize-configs/options-global.php:47
+msgid "Disable animation effect?"
+msgstr "Desactivar efeito de animação?"
+
+#: inc/customize-configs/options-global.php:7
+msgid "Global"
+msgstr "Geral"
+
+#: inc/customize-configs/options.php:14
+msgid "Theme Options"
+msgstr "Opções do tema"
+
+#: inc/customizer.php:77
+msgid "Select member"
+msgstr "Seleccionar membro"
+
+#: inc/customizer.php:66
+msgid "Select page"
+msgstr "Seleccionar página"
+
+#: inc/customize-controls/control-repeater.php:372
+msgid "Close"
+msgstr "Fechar"
+
+#: inc/customize-controls/control-repeater.php:337
+msgid "Change"
+msgstr "Alterar"
+
+#: inc/customize-controls/control-repeater.php:337
+msgid "Add"
+msgstr "Adicionar"
+
+#: inc/customize-controls/control-repeater.php:336
+#: inc/customize-controls/control-repeater.php:358
+#: inc/customize-controls/control-repeater.php:370
+msgid "Remove"
+msgstr "Eliminar"
+
+#: inc/customize-controls/control-repeater.php:76
+#: inc/customize-controls/control-repeater.php:220
+msgid "Item"
+msgstr "Item"
+
+#: inc/customize-controls/control-repeater.php:205
+msgid "Add an item"
+msgstr "Adicionar um item"
+
+#: inc/template-tags.php:235
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:29
+msgid "Skip to content"
+msgstr "Saltar para conteúdo"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Raleway, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:437
+msgctxt "Raleway font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:430
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:228
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: functions.php:85
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#. translators: 1: themename, 2: author
+#: inc/template-tags.php:1654
+msgid "%1$s theme by %2$s"
+msgstr "Tema %1$s por %2$s"
+
+#: inc/template-tags.php:1646
+msgid "Copyright %1$s %2$s %3$s"
+msgstr "Copyright %1$s %2$s %3$s"
+
+#: footer.php:44
+msgid "Back To Top"
+msgstr "Voltar ao topo"
+
+#: inc/customize-configs/options-footer.php:123 inc/template-tags.php:1934
+msgid "Join our Newsletter"
+msgstr "Subscreva a nossa newsletter"
+
+#: inc/customize-configs/options-footer.php:46 inc/template-tags.php:1955
+msgid "Keep Updated"
+msgstr "Mantenha-se actualizado"
+
+#: comments.php:94
+msgid "Comments are closed."
+msgstr "Os comentários estão fechados."
+
+#: comments.php:60 comments.php:82
+msgid "Newer Comments"
+msgstr "Comentários mais recentes"
+
+#: comments.php:59 comments.php:81
+msgid "Older Comments"
+msgstr "Comentários mais antigos"
+
+#: comments.php:56 comments.php:78
+msgid "Comment navigation"
+msgstr "Navegação de comentários"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:39
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s comentário em &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s comentários em &ldquo;%2$s&rdquo;"
+
+#. translators: %1$s: smiley
+#: 404.php:51
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Tente pesquisar no arquivo mensal. %1$s"
+
+#: 404.php:34
+msgid "Most Used Categories"
+msgstr "Categorias mais usadas"
+
+#: 404.php:26
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Parece que não foi encontrado nada aqui. Tente visitar uma das ligações abaixo ou fazer uma pesquisa."
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups! Página não encontrada."
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "http://www.famethemes.com"
+msgstr "http://www.famethemes.com"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "FameThemes"
+msgstr "FameThemes"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://www.famethemes.com/themes/onepress/"
+msgstr "https://www.famethemes.com/themes/onepress/"

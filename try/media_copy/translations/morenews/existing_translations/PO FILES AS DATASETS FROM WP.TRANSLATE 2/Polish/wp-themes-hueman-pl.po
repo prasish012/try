@@ -1,0 +1,3480 @@
+# Translation of Themes - Hueman in Polish
+# This file is distributed under the same license as the Themes - Hueman package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-06-12 16:50:16+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: pl\n"
+"Project-Id-Version: Themes - Hueman\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "The Hueman theme loads fast and is 100% mobile-friendly according to Google. One of the best rated theme for blogs and magazines on WordPress.org. Powering 70K+ websites around the world."
+msgstr "Motyw Hueman wczytuje się szybko i jest w 100% przyjazny dla urządzeń mobilnych według Google. Jeden z najlepiej ocenianych motywów dla blogów i magazynów na WordPress.org. Obsługuje ponad 70 tys. witryn na całym świecie."
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Hueman"
+msgstr "Hueman"
+
+#: functions/class-utils-settings-map.php:254
+msgid "Disable Loading Google Fonts?"
+msgstr "Wyłączyć wczytywanie krojów pisma Google?"
+
+#: functions/admin/class-admin-update-notification.php:106
+msgid "Make sure to read the changelog"
+msgstr "Pamiętaj o przeczytaniu dziennika zmian"
+
+#: functions/admin/class-admin-page.php:290
+msgid "And of course your support allows us to keep the theme at the highest level for your website. Thank you!"
+msgstr "I oczywiście Twoje wsparcie pozwala nam utrzymać motyw na najwyższym poziomie dla Twojej witrynie internetowej. Dziękujemy!"
+
+#: functions/admin/class-admin-page.php:289
+msgid "With Hueman Pro, you get premium features like infinite scrolling, footer and header customization, font customizer and many more. In addition, our premium support will be there to help you resolve any issue you may have with the theme. When installing Hueman Pro, all your previous options used in Hueman free are kept."
+msgstr "Dzięki Hueman Pro otrzymujesz funkcje Premium, takie jak nieskończone przewijanie, dostosowywanie stopki i nagłówka, dostosowywanie kroju pisma i wiele innych. Ponadto nasze wsparcie Premium pomoże Ci rozwiązać każdy problem, jaki możesz mieć z motywem. Podczas instalacji Hueman Pro wszystkie poprzednie opcje używane w Hueman bezpłatnym zostają zachowane."
+
+#: functions/admin/class-admin-page.php:286
+msgid "If you enjoy using the Hueman theme for your website, you will love %s"
+msgstr "Jeśli podoba Ci się używanie motywu Hueman na swojej witrynie internetowej, pokochasz %s"
+
+#: functions/admin/class-admin-update-notification.php:101
+msgid "You have recently updated to"
+msgstr "Ostatnio dokonano aktualizacji do"
+
+#: functions/admin/class-admin-page.php:310
+msgid "Share a review"
+msgstr "Podziel się opinią"
+
+#: functions/admin/class-admin-page.php:308
+msgid "Share your feedback"
+msgstr "Podziel się uwagami"
+
+#: functions/admin/class-admin-page.php:303
+msgid "Hueman Documentation"
+msgstr "Dokumentacja Hueman"
+
+#: functions/admin/class-admin-page.php:302
+msgid "We have prepared a complete online documentation of the theme."
+msgstr "Przygotowaliśmy kompletną dokumentację online tego motywu."
+
+#: functions/class-utils-settings-map.php:235
+msgid "On home page wrap the site title or logo in an H1 tag"
+msgstr "Na stronie głównej umieść tytuł witryny lub logo w znaczniku H1"
+
+#: functions/class-utils-settings-map.php:375
+msgid "Links underlined within content"
+msgstr "Odnośniki podkreślone w treści"
+
+#: functions/class-utils-settings-map.php:726
+msgid "Link the banner image to your home page"
+msgstr "Połącz obrazek banera ze swoją stroną główną"
+
+#: functions/czr-base-fmk/czr-base-fmk.php:214
+msgid "Color value"
+msgstr "Wartość koloru"
+
+#: functions/czr-base-fmk/czr-base-fmk.php:213
+msgid "Select Color"
+msgstr "Wybierz kolor"
+
+#: functions/czr-base-fmk/czr-base-fmk.php:212
+msgid "Select default color"
+msgstr "Wybierz domyślny kolor"
+
+#: functions/czr-base-fmk/czr-base-fmk.php:210
+msgid "Clear color"
+msgstr "Wyczyść kolor"
+
+#: functions/czr-base-fmk/czr-base-fmk.php:209
+msgid "Clear"
+msgstr "Wyczyść"
+
+#: functions/class-utils-settings-map.php:1343
+msgid "Display author"
+msgstr "Wyświetl autora"
+
+#: functions/admin/class-plugin-rec.php:100
+msgid "like this"
+msgstr "lubią to"
+
+#: functions/admin/class-plugin-rec.php:94
+msgid "Hueman theme recommends the simple and smart %1$s companion ( free 😍 ) to help you build pages %2$s."
+msgstr "Motyw Hueman poleca prosty i inteligentny dodatek %1$s (bezpłatny 😍), który pomoże Ci w tworzeniu stron %2$s."
+
+#: functions/class-utils-settings-map.php:1718
+msgid "Display social links in the footer"
+msgstr "Wyświetlaj odnośniki społecznościowe w stopce"
+
+#: functions/class-utils-settings-map.php:1606
+msgid "Display social links in the primary sidebar"
+msgstr "Wyświetlaj odnośniki społecznościowe na panelu bocznym"
+
+#: functions/class-utils-settings-map.php:1474
+msgid "Used cropped image (max 1320x500 on desktops)"
+msgstr "Użyto przyciętego obrazka (maksymalnie 1320x500 na komputerach stacjonarnych)"
+
+#: functions/class-utils-settings-map.php:1381
+msgid "Used cropped image ( max 1320x500 on desktops)"
+msgstr "Użyto przyciętego obrazka (maksymalnie 1320x500 na komputerach stacjonarnych)"
+
+#: functions/class-utils-settings-map.php:718
+msgid "Use the original image height"
+msgstr "Użyj oryginalnej wysokości obrazka"
+
+#: functions/class-utils-settings-map.php:711
+msgid "Image fills 100% of the width"
+msgstr "Obrazek wypełnia 100% szerokości"
+
+#: functions/class-utils-settings-map.php:1159
+msgid "Display the post thumbnail"
+msgstr "Wyświetl miniaturkę wpisu"
+
+#: functions/class-utils-settings-map.php:1146
+msgid "Display your blog posts in full content"
+msgstr "Wyświetl wpisy na blogu w pełnej treści"
+
+#: functions/class-utils-settings-map.php:573
+msgid "Defer loading Font Awesome icons"
+msgstr "Odłóż wczytywanie ikonek Font Awesome"
+
+#: functions/class-utils-settings-map.php:558
+msgid "Defer loading javascript files to avoid render blocking issues"
+msgstr "Odłóż wczytywanie plików JavaScript, aby uniknąć problemów z blokowaniem renderowania"
+
+#: functions/class-utils-settings-map.php:1335
+msgid "Display post date"
+msgstr "Wyświetl datę wpisu"
+
+#: functions/class-utils-settings-map.php:1327
+msgid "Display categories"
+msgstr "Wyświetl kategorie"
+
+#: functions/class-utils-settings-map.php:1375
+msgid "Display the post's featured image when it is set. Note that audio and image post formats automatically display the featured image."
+msgstr "Wyświetl obrazek wyróżniający wpisu, gdy jest ustawiony. Należy pamiętać, że formaty wpisów audio i graficznych automatycznie wyświetlają obrazek wyróżniający."
+
+#: functions/class-utils-settings-map.php:1546
+msgid "Secondary sidebar title"
+msgstr "Tytuł panelu bocznego drugorzędnego"
+
+#: functions/class-utils-settings-map.php:1541
+#: functions/class-utils-settings-map.php:1551
+msgid "Html is allowed."
+msgstr "Kod HTML jest dozwolony."
+
+#: functions/class-utils-settings-map.php:1536
+msgid "Primary sidebar title"
+msgstr "Główny tytuł panelu bocznego"
+
+#: functions/class-utils-settings-map.php:238
+msgid "For best SEO results, make sure your pages always include at least one H1 tag."
+msgstr "Aby uzyskać najlepsze wyniki SEO, upewnij się, że Twoje strony zawsze zawierają co najmniej jeden znacznik H1."
+
+#: functions/admin/class-plugin-rec.php:61
+msgid "The plugin is lightweight and has been designed to integrate seamlessly with Hueman and any WordPress theme."
+msgstr "Wtyczka jest lekka i została zaprojektowana tak, aby bezproblemowo integrować się z Hueman i dowolnym motywem WordPress."
+
+#: functions/admin/class-plugin-rec.php:59
+msgid "parallax effect"
+msgstr "efekt paralaksy"
+
+#: functions/admin/class-plugin-rec.php:58
+msgid "video backgrounds"
+msgstr "tła filmu"
+
+#: functions/admin/class-plugin-rec.php:57
+msgid "You can insert simple text zones, but also create %1$s, insert post grids, column structures, buttons, widget zones, maps, icons, and much more, or use pre-designed sections with professional %2$s."
+msgstr "Możesz wstawiać proste strefy tekstowe, ale także tworzyć %1$s, wstawiać siatki wpisów, struktury kolumn, przyciski, strefy widżetów, mapy, ikonki i wiele więcej lub używać wstępnie zaprojektowanych sekcji z profesjonalnymi %2$s."
+
+#: functions/admin/class-plugin-rec.php:55
+msgid "It allows you to drag and drop mobile-ready sections on <i>really</i> any page of your site, including home, posts, pages, products, archives, 404, search pages, ..."
+msgstr "Umożliwia przeciąganie i upuszczanie sekcji dostosowanych do urządzeń mobilnych na <i>naprawdę</i> dowolnej stronie witryny, w tym na stronie głównej, wpisach, stronach, produktach, archiwach, stronach 404, stronach wyszukiwania itd. ..."
+
+#: functions/admin/class-plugin-rec.php:54
+msgid "Developers of the Hueman theme have created Nimble Builder, a free, powerful yet easy-to-use page builder already active on 50K+ WordPress websites."
+msgstr "Twórcy motywu Hueman stworzyli Kreator Nimble, darmowy, wydajny i łatwy w obsłudze kreator stron, który jest już włączony na ponad 50 tys. witryn WordPress."
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "Przeskocz do treści"
+
+#. translators: %s: Title emphasized
+#: option-tree/includes/ot-functions-admin.php:3028
+msgid "%s: Displayed as a contextual help menu item on the Theme Options page."
+msgstr "%s: Wyświetlane jako element menu pomocy kontekstowej na stronie Opcje motywu."
+
+#: option-tree/includes/ot-functions-admin.php:2870
+msgid "OptionTree->Documentation"
+msgstr "Drzewo opcji->Dokumentacja"
+
+#. translators: %s: Operator emphasized
+#: option-tree/includes/ot-functions-admin.php:2798
+msgid "%s: Choose the logical operator to compute the result of the conditions."
+msgstr "%s: Wybierz operator logiczny, który obliczy wynik warunków."
+
+#. translators: %1$s: Min, Max, & Step emphasized, %2$s: format, %3$s: range,
+#. %4$s: minimum interval
+#: option-tree/includes/ot-functions-admin.php:2789
+msgid "%1$s: Add a comma separated list of options in the following format %2$s (slide from %3$s in intervals of %4$s). The three values represent the minimum, maximum, and step options and will only affect the Numeric Slider option type."
+msgstr "%1$s: Dodaj rozdzieloną przecinkami listę opcji w następującym formacie %2$s (slajd od %3$s w odstępach %4$s). Te trzy wartości reprezentują opcje minimalną, maksymalną i krokową i będą miały wpływ tylko na typ opcji Pokaz slajdów liczbowy."
+
+#. translators: %1$s: Standard emphasized, %2$s: visual path to documentation
+#: option-tree/includes/ot-functions-admin.php:2777
+msgid "%1$s: Setting the standard value for your option only works for some option types. Read the %2$s for more information on which ones."
+msgstr "%1$s: Ustawienie wartości standardowej dla Twojej opcji działa tylko dla niektórych typów opcji. Przeczytaj %2$s, aby uzyskać więcej informacji o nich."
+
+#. translators: %s: Settings emphasized
+#: option-tree/includes/ot-functions-admin.php:2774
+msgid "%s: This will only affect the List Item option type."
+msgstr "%s: Ta opcja będzie miała wpływ tylko na typ opcji Element listy."
+
+#. translators: %s: Choices emphasized
+#: option-tree/includes/ot-functions-admin.php:2771
+msgid "%s: This will only affect the following option types: Checkbox, Radio, Select & Select Image."
+msgstr "%s: Ta opcja będzie miała wpływ tylko na następujące typy opcji: Pole wyboru, Przycisk radiowy, Wybierz i Wybierz obrazek."
+
+#. translators: %s: Type emphasized
+#: option-tree/includes/ot-functions-admin.php:2765
+msgid "%s: Choose one of the available option types from the dropdown."
+msgstr "%s: Wybierz jeden z dostępnych typów opcji z listy rozwijanej."
+
+#. translators: %s: Label emphasized
+#: option-tree/includes/ot-functions-admin.php:2759
+msgid "%s: Displayed as the label of a form element on the Theme Options page."
+msgstr "%s: Wyświetlane jako etykieta elementu formularza na stronie Opcje motywu."
+
+#: option-tree/includes/ot-functions-admin.php:2712
+msgid "Section ID"
+msgstr "Identyfikator sekcji"
+
+#: option-tree/includes/ot-functions-admin.php:2704
+msgid "Section Title"
+msgstr "Tytuł sekcji"
+
+#. translators: %s: Section ID emphasized
+#. translators: %s: ID emphasized
+#: option-tree/includes/ot-functions-admin.php:2688
+#: option-tree/includes/ot-functions-admin.php:2762
+#: option-tree/includes/ot-functions-admin.php:3031
+msgid "%s: A unique lower case alphanumeric string, underscores allowed."
+msgstr "%s: Unikatowy ciąg alfanumeryczny złożony z małych liter, dozwolone są podkreślenia."
+
+#. translators: %s: Section Title emphasized
+#: option-tree/includes/ot-functions-admin.php:2685
+msgid "%s: Displayed as a menu item on the Theme Options page."
+msgstr "%s: Wyświetlane jako element menu na stronie Opcje motywu."
+
+#: option-tree/includes/ot-functions-admin.php:962
+msgid "Featured Image"
+msgstr "Obrazek wyróżniający"
+
+#. translators: %1$s: the calling function, %2$s the filter name, %3$s the
+#. option type, %4$s the version number
+#: option-tree/includes/ot-functions-admin.php:746
+msgid "Notice: %1$s was called incorrectly. All stored data must be filtered through %2$s, the %3$s option type is not using this filter. This is required since version %4$s."
+msgstr "Uwaga: %1$s został wywołany nieprawidłowo. Wszystkie przechowywane dane muszą być filtrowane przez %2$s, typ opcji %3$s nie używa tego filtra. Jest to wymagane od wersji %4$s."
+
+#: option-tree/includes/ot-functions-admin.php:686
+msgid "slider"
+msgstr "pokaz slajdów"
+
+#. translators: %s: the field id
+#: option-tree/includes/ot-functions-admin.php:538
+msgid "The %s Colorpicker only allows valid hexadecimal or rgba values depending on the setting type."
+msgstr "Selektor kolorów %s obsługuje wyłącznie prawidłowe wartości szesnastkowe lub RGBA, w zależności od typu ustawienia."
+
+#: functions/class-utils-settings-map.php:1450
+msgid "Display the date below the post title."
+msgstr "Wyświetl datę pod tytułem wpisu."
+
+#: functions/class-utils-settings-map.php:1447
+msgid "Post date"
+msgstr "Data wpisu"
+
+#: functions/class-utils-settings-map.php:1441
+msgid "Display the author name below the post title."
+msgstr "Wyświetl autora pod tytułem wpisu."
+
+#: functions/class-utils-settings-map.php:1438
+msgid "Post author name"
+msgstr "Nazwa autora wpisu"
+
+#: functions/class-utils-settings-map.php:1326
+#: functions/class-utils-settings-map.php:1437
+msgid "Post Metas"
+msgstr "Meta znaczniki wpisu"
+
+#: functions/class-utils-settings-map.php:1431
+msgid "Display the post tags after the post content."
+msgstr "Wyświetl słowa kluczowe po treści wpisu"
+
+#: functions/class-utils-settings-map.php:1428
+msgid "Post tags"
+msgstr "Znaczniki wpisu"
+
+#: functions/class-utils-settings-map.php:1427
+msgid "Post Tags"
+msgstr "Znaczniki wpisu"
+
+#: functions/admin/class-plugin-rec.php:34
+msgid "Install Nimble Builder Now"
+msgstr "Zainstaluj Kreator Nimble teraz"
+
+#: functions/admin/class-plugin-rec.php:49
+msgid "Nimble Page Builder"
+msgstr "Kreator strony Nimble"
+
+#: functions/admin/class-plugin-rec.php:46
+msgid "Hueman theme recommends %1$s."
+msgstr "Motyw Hueman poleca %1$s."
+
+#: functions/class-utils-settings-map.php:1938
+msgid "Single Pages Settings"
+msgstr "Ustawienia stron"
+
+#: functions/class-utils-settings-map.php:1469
+msgid "Display the page's featured image when it is set"
+msgstr "Wyświetl obraz wpisu, jeśli jest ustawiony."
+
+#: functions/class-utils-settings-map.php:1601
+msgid "Display the primary sidebar above the content column on smartphone mobile devices (480px)."
+msgstr "Wyświetl główny panel boczny nad kolumną treści na urządzeniach przenośnych(480px)."
+
+#: functions/class-utils-settings-map.php:1592
+msgid "Control how the sidebar content is displayed on smartphone mobile devices (480px)."
+msgstr "Kontroluj w jaki sposób wyświetlana jest zawartości paska bocznego na urządzeniach przenośnych(tablety, smartfony,etc...) (480 pikseli)."
+
+#: functions/class-utils-settings-map.php:1704
+msgid "Note : Html is allowed. The following template tags can be used : {{year}}, {{site_title}}, {{home_url}}."
+msgstr ""
+"Uwaga: HTML jest dozwolony. \n"
+"Można użyć następujących kodów: {{year}}, {{site_title}}, {{home_url}}."
+
+#: functions/admin/class-admin-page.php:287
+#: functions/class-utils-settings-map.php:639
+msgid "Hueman Pro"
+msgstr "Hueman Pro"
+
+#: functions/class-utils-settings-map.php:637
+msgid "This can be used to ensure your background colors are applied when designing a header with a background image in %1$s"
+msgstr "Może to być użyte w celu zagwarantowania, że kolory tła zostaną zastosowane podczas projektowania nagłówka z obrazem w tle %1$s"
+
+#: functions/class-utils-settings-map.php:633
+msgid "Apply your custom background colors in priority for the topbar and the mobile menu"
+msgstr "Zastosuj swoje niestandardowe kolory tła dla górnego menu i menu mobilnego."
+
+#: functions/class-utils-settings-map.php:1119
+msgid "The category filter will not be applied when using the <strong>Classic grid</strong> post list design if the <strong>infinite scroll</strong> option is active."
+msgstr "Filtr kategorii nie zostanie zastosowany w przypadku korzystania z projektu listy wpisów <strong>Klasyczna siatka</strong>, jeśli aktywna jest opcja <strong>nieskończonego przewijania</strong>."
+
+#: functions/class-utils-settings-map.php:1118
+msgid "Note for Pro users:"
+msgstr "Informacja dla użytkowników Pro."
+
+#: functions/class-utils-settings-map.php:1116
+msgid "Learn more about post categories in WordPress"
+msgstr "Dowiedz się więcej o kategoriach wpisów w WordPressie."
+
+#: functions/class-utils-settings-map.php:1114
+msgid "Click inside the above field and pick post categories you want to display. No filter will be applied when empty."
+msgstr "Kliknij w powyższe pole i wybierz kategorie wpisów, które chcesz wyświetlić. Żaden filtr nie zostanie zastosowany, gdy pole będzie puste."
+
+#: functions/class-utils-settings-map.php:1109
+msgid "Apply a category filter to your home / blog posts"
+msgstr "Zastosuj filtr kategorii do wpisów na stronie głównej/blogu"
+
+#: functions/class-utils-settings-map.php:1556
+msgid "Sidebars background color"
+msgstr "Kolor tła paneli bocznych"
+
+#: functions/init-front.php:1254
+msgid "Collapse"
+msgstr "Zwiń"
+
+#: functions/init-front.php:1253
+msgid "Expand"
+msgstr "Rozwiń"
+
+#: functions/class-utils-settings-map.php:913
+msgid "Expand submenus on click"
+msgstr "Rozwiń podmenu po kliknięciu"
+
+#: functions/admin/class-plugin-rec.php:28
+msgid "Activate Nimble Builder Now"
+msgstr "Włącz Kreator Nimble teraz"
+
+#: functions/admin/class-plugin-rec.php:97
+msgid "Nimble Builder"
+msgstr "Nimble Builder"
+
+#: functions/class-utils-settings-map.php:1211
+msgid "In WordPress, archives are the pages listing posts by category, tag, author and date."
+msgstr "W WordPress archiwa są stronami z listami wpisów według kategorii, tagów, autorów i dat."
+
+#: functions/class-utils-settings-map.php:1208
+msgid "Display the archive type and an icon next to the archive headings"
+msgstr "Wyświetl rodzaj archiwum i ikonę następnego obok nagłówków archiwum"
+
+#: functions/class-utils-settings-map.php:1176
+msgid "When checked, the post featured image are displayed in their original size, instead of the optimized image sizes of the theme. Make sure your original images are not too large, it could slow down your website."
+msgstr "Po zaznaczeniu obrazek wyróżniający wpis jest wyświetlany w oryginalnym rozmiarze zamiast zoptymalizowanych rozmiarów obrazków w motywie. Upewnij się, że oryginalne obrazki nie są zbyt duże, może to spowolnić działanie witryny."
+
+#: functions/class-utils-settings-map.php:1173
+msgid "Display featured images in their original dimensions in post lists"
+msgstr "Wyświetlaj obrazki wyróżniające na listach wpisu w oryginalnych wymiarach"
+
+#: functions/class-utils-settings-map.php:980
+msgid "The global layout will be applied on every pages, even when a specific layout is set."
+msgstr "Układ ogólny zostanie zastosowany na każdej stronie, nawet jeśli ustawiony jest określony układ."
+
+#: functions/class-utils-settings-map.php:977
+msgid "Force the global layout"
+msgstr "Wymuś układ ogólny"
+
+#: functions.php:27
+msgid "The <strong>%1$s</strong> theme requires at least %2$s version %3$s"
+msgstr "<strong>%1$s</strong> motyw wymaga co najmniej %2$s wersji %3$s"
+
+#: functions.php:20
+msgid "WordPress"
+msgstr "WordPress"
+
+#: functions.php:16
+msgid "PHP"
+msgstr "PHP"
+
+#: functions/init-after-setup-theme.php:212
+msgid "Site Wide Body Background"
+msgstr "Szerokie tło witryny"
+
+#: functions/czr-modules/social-links/social_links_module.php:217
+msgid "Please fill the social link inputs with a valid URLs"
+msgstr "Proszę wypełnić pole odnośnika społecznościowego prawidłowym adresem URL"
+
+#: functions/czr-modules/social-links/social_links_module.php:173
+msgid "An error occurred: malformed social links"
+msgstr "Wystąpił błąd: nieprawidłowe odnośniki społecznościowe"
+
+#: functions/czr-modules/social-links/social_links_module.php:98
+#: functions/czr-modules/social-links/social_links_module.php:119
+msgid "http://...,mailto:...,..."
+msgstr "http://...,mailto:...,..."
+
+#: functions/czr-base-fmk/czr-base-fmk.php:1989
+msgid "No results found."
+msgstr "Brak wyników."
+
+#. translators: %d: ID of a post
+#: functions/czr-base-fmk/czr-base-fmk.php:1846
+#: functions/czr-base-fmk/czr-base-fmk.php:2055
+msgid "#%d (no title)"
+msgstr "#%d (bez tytułu)"
+
+#: functions/czr-base-fmk/czr-base-fmk.php:1725
+#: functions/czr-base-fmk/czr-base-fmk.php:1925
+msgid "ajax_load_available_items => Security check failed."
+msgstr "ajax_load_available_items => Kontrola bezpieczeństwa nie powiodła się."
+
+#: functions/czr-base-fmk/czr-base-fmk.php:1691
+msgid "Set a custom url"
+msgstr "Ustaw własny adres url"
+
+#: functions/czr-base-fmk/czr-base-fmk.php:477
+msgid "ac_set_ajax_czr_tmpl => Security check failed."
+msgstr "ac_set_ajax_czr_tmpl => Kontrola bezpieczeństwa nie powiodła się."
+
+#: functions/czr-base-fmk/czr-base-fmk.php:286
+msgid "Customizing"
+msgstr "Personalizowanie"
+
+#: functions/czr/czr-resources.php:233
+msgid "is always customized sitewide."
+msgstr "jest zawsze dostosowany do szerokości witryny."
+
+#: functions/class-utils-settings-map.php:551
+msgid "When checked, this option loads a small javascript file ( 30 kb ) to detect if your site is being displayed by a mobile device like a phone or a tablet. It is recommended to check this option if you are using a cache plugin."
+msgstr "Po zaznaczeniu ta opcja ładuje mały plik javascript (30 kb), aby wykryć, czy witryna jest wyświetlana na urządzeniu mobilnym takim jak telefon czy tablet. Zaleca się zaznaczenie tej opcji, jeśli używasz wtyczki pamięci podręcznej."
+
+#: functions/class-utils-settings-map.php:548
+msgid "Mobile device detection"
+msgstr "Wykrywanie urządzeń mobilnych"
+
+#: functions/admin/class-admin-page.php:309
+msgid "If you are happy with the theme, say it on wordpress.org and give Hueman a nice review!"
+msgstr "Jeśli jesteś zadowolony z tego motywu, powiedz to na wordpress.org i zamieść miłą recenzję dla Hueman!"
+
+#: functions/admin/class-admin-page.php:276
+msgid "Thank you for using"
+msgstr "Dziękujemy za korzystanie"
+
+#: footer.php:121
+msgid "Hueman theme"
+msgstr "Motyw Hueman"
+
+#: footer.php:121
+msgid "Designed with the"
+msgstr "Zaprojektowany z"
+
+#: footer.php:121
+msgid "https://wordpress.org/"
+msgstr "https://pl.wordpress.org/"
+
+#: footer.php:121
+msgid "Powered by WordPress"
+msgstr "Oparte na WordPressie"
+
+#: functions/class-utils-settings-map.php:179
+msgid "The site title is displayed when there is no logo uploaded"
+msgstr "Tytuł strony jest wyświetlany, gdy logo nie jest załadowane."
+
+#: functions/class-utils-settings-map.php:496
+msgid "This option is good if you want to display a perfect font-size for your headings on any mobile devices. Note : it might override the css rules previously set in your custom stylesheet."
+msgstr "Wybierz tę opcję, jeżeli chcesz uzyskać perfekcyjnie dopasowaną wielkość czcionki nagłówków na urządzeniach mobilnych. Uwaga: włączenie opcji może zastąpić reguły css podane wcześniej we własnym arkuszu stylów."
+
+#: functions/class-utils-settings-map.php:493
+msgid "Make font sizes flexible. Enable this option to achieve scalable headlines that fill the width of a parent element."
+msgstr "Ustaw zmienną wielkość czcionki. Włącz tę opcję aby uzyskać skalowalny nagłówek, który wypełni element rodzica."
+
+#: functions/init-plugins-compat.php:433
+msgid "Post/Page excerpt"
+msgstr "Fragment wpisu/strony"
+
+#: functions/init-plugins-compat.php:432
+msgid "Post/Page content"
+msgstr "Treść wpisu/strony"
+
+#: parts/header-nav-mobile.php:72
+msgid "No menu has been assigned for mobile devices yet. You can set it from the live customizer"
+msgstr "Żadne menu nie zostało dotychczas przypisane do urządzeń mobilnych. Możesz je ustawić przy personalizacji"
+
+#: functions/init-front.php:2129
+msgid "a short guide here."
+msgstr "krótki przewodnik tutaj."
+
+#: functions/init-front.php:2127
+msgid "To help you getting started with Hueman, we have published"
+msgstr "Aby ci pomóc rozpocząć pracę z Hueman, opublikowaliśmy"
+
+#: functions/init-front.php:2124
+msgid "Hueman Demo 2"
+msgstr "Hueman Demo 2"
+
+#: functions/init-front.php:2122
+msgid "Hueman Demo 1"
+msgstr "Hueman Demo 1"
+
+#: functions/init-front.php:2120
+msgid "If you need inspiration, you can visit our online demos"
+msgstr "Jeżeli potrzebujesz inspiracji, zobacz nasze strony demonstracyjne"
+
+#: functions/init-front.php:2117
+msgid "to let you create the best possible websites."
+msgstr "abyś mógł tworzyć najlepsze możliwe strony."
+
+#: functions/init-front.php:2116
+msgid "of customization options"
+msgstr "opcji personalizacji"
+
+#: functions/init-front.php:2114
+msgid "The theme offers a wide range"
+msgstr "Motyw proponuje szeroki zakres"
+
+#: functions/init-front.php:2111
+msgid "Welcome in the Hueman theme"
+msgstr "Witaj w motywie Hueman"
+
+#: functions/init-after-setup-theme.php:108
+msgid "Mobile. You can set a specific menu for mobile devices. If not set, the theme will use the menu assigned to the Topbar, or the Header."
+msgstr "Mobilne. Możesz ustawić konkretne menu dla urządzeń mobilnych. Jeżeli nie jest ustawione, motyw użyje menu przypisanego do górnego paska lub do nagłówka"
+
+#: functions/init-after-setup-theme.php:107
+msgid "Topbar"
+msgstr "Górny pasek"
+
+#: functions/class-utils-settings-map.php:1981
+msgid "Mobile Devices"
+msgstr "Urządzenia mobilne"
+
+#: functions/class-utils-settings-map.php:1577
+msgid "Decide if your sidebars should be sticky on tablets and smartphones devices."
+msgstr "Zdecyduj, czy Twoje panele boczne powinny być przypięte na tabletach i smartfonach."
+
+#: functions/class-utils-settings-map.php:1406
+msgid "Post navigation"
+msgstr "Nawigacja wpisu"
+
+#: functions/class-utils-settings-map.php:1390
+msgid "Related posts"
+msgstr "Podobne wpisy"
+
+#: functions/class-utils-settings-map.php:871
+msgid "If the selected menu location has no menu assigned, the theme will try to assign another menu in this order : topbar, mobile, header."
+msgstr "Jeśli wybrana pozycja menu nie ma przypisanego menu, motyw spróbuje przypisać inne menu w następującej kolejności: górny pasek, dla urządzeń mobilnych, nagłówek."
+
+#: functions/class-utils-settings-map.php:866
+msgid "Specific Mobile Menu"
+msgstr "Właściwe menu dla urządzeń mobilnych"
+
+#: functions/class-utils-settings-map.php:749
+msgid "Set your logo, title and tagline"
+msgstr "Ustaw swoje logo, tytuł i tagi"
+
+#: functions/class-utils-settings-map.php:743
+msgid "Display your logo or site title, and tagline on top of the header image"
+msgstr "Wyświetlaj swoje logo lub tytuł strony i tagi na górze z obrazkiem nagłówka"
+
+#: functions/class-utils-settings-map.php:686
+msgid "Apply a semi-transparent filter to the topbar and mobile menu on scroll"
+msgstr "Zastosuj półprzezroczysty filtr do górnego paska i menu mobilnego podczas przewijania"
+
+#: functions/class-utils-settings-map.php:509
+msgid "Include images in search results"
+msgstr "Dołącz obrazki w wynikach wyszukiwania"
+
+#: functions/class-utils-settings-map.php:224
+msgid "(in pixels)"
+msgstr "(w pikselach)"
+
+#: functions/class-utils-settings-map.php:205
+msgid "Logo for mobiles"
+msgstr "Logo dla urządzeń mobilnych"
+
+#: functions/class-utils-settings-map.php:204
+msgid "Use a specific logo for mobile devices"
+msgstr "Użyj odpowiedniego logo dla urządzeń mobilnych"
+
+#: functions/class-utils-settings-map.php:176
+msgid "Display the site title in the header"
+msgstr "Wyświetl tytuł witryny w nagłówku"
+
+#: functions/init-plugins-compat.php:428
+msgid "Slider button"
+msgstr "Przycisk suwaka"
+
+#: functions/czr/czr-resources.php:255
+msgid "can be customized with a specific set of options."
+msgstr "może być spersonalizowany po ustawieniu odpowiednich opcji."
+
+#: functions/czr/czr-resources.php:253 functions/czr/czr-resources.php:256
+msgid "The options not customized at this level will inherit their value from"
+msgstr "Opcje, które nie zostaną dostosowane na tym poziomie, odziedziczą swoją wartość z"
+
+#: functions/czr/czr-resources.php:252
+msgid "The current customizations will be applied to"
+msgstr "Obecna personalizacja zostanie zastosowana do"
+
+#: functions/czr/czr-resources.php:251 functions/czr/czr-resources.php:254
+msgid "can be customized more specifically at the following level"
+msgstr "można dostosować bardziej szczegółowo na następującym poziomie"
+
+#: functions/czr/czr-resources.php:250
+msgid "The current context"
+msgstr "Obecny kontekst"
+
+#: functions/czr/czr-resources.php:249
+msgid "The customizations made site wide are inherited by all other levels of customization."
+msgstr "Dostosowania wprowadzone w całej witrynie są dziedziczone na wszystkich innych poziomach dostosowywania."
+
+#: functions/czr/czr-resources.php:246
+msgid "to understand how to fix the problem."
+msgstr "aby zrozumieć, jak rozwiązać problem."
+
+#: functions/czr/czr-resources.php:245
+msgid "this documentation page"
+msgstr "ta strona dokumentacji"
+
+#: functions/czr/czr-resources.php:244
+msgid "Please refer to"
+msgstr "Proszę zapoznać się z"
+
+#: functions/czr/czr-resources.php:223
+msgid "Default sitewide value."
+msgstr "Wartość domyślna dla całej witryny."
+
+#: functions/class-utils-settings-map.php:2009
+msgid "Go Pro"
+msgstr "Przejdź na wersję pro"
+
+#: functions/class-utils-settings-map.php:1913
+msgid "Header Menus : mobile settings, scroll behaviour, search button"
+msgstr "Menu nagłówka: ustawienia dla mobilnych, zachowanie przy przewijaniu, przycisk szukania"
+
+#: functions/class-utils-settings-map.php:1407
+msgid "Post navigation in single posts"
+msgstr "Nawigacja po wpisach w pojedynczych wpisach"
+
+#: functions/class-utils-settings-map.php:849
+msgid "Display a search field in the header menu"
+msgstr "Wyświetl pole szukania w nagłówku menu"
+
+#: functions/class-utils-settings-map.php:848
+msgid "Display a search field in the top menu"
+msgstr "Wyświetl pole szukania na górze menu"
+
+#: functions/class-utils-settings-map.php:847
+msgid "No search field"
+msgstr "Bez pola szukania"
+
+#: functions/class-utils-settings-map.php:843
+#: functions/class-utils-settings-map.php:924
+msgid "display a search field"
+msgstr "wyświetl pole szukania"
+
+#: functions/class-utils-settings-map.php:832
+#: functions/class-utils-settings-map.php:888
+msgid "Always visible"
+msgstr "Zawsze widoczne"
+
+#: functions/class-utils-settings-map.php:831
+#: functions/class-utils-settings-map.php:887
+msgid "Reveal on scroll up"
+msgstr "Odsłoń przy przewijaniu"
+
+#: functions/class-utils-settings-map.php:830
+#: functions/class-utils-settings-map.php:886
+msgid "Not visible when scrolling the page"
+msgstr "Nie widoczne podczas przewijania strony"
+
+#: functions/class-utils-settings-map.php:826
+#: functions/class-utils-settings-map.php:882
+msgid "top menu visibility on scroll"
+msgstr "górne menu widoczne przy przewijaniu"
+
+#: functions/class-utils-settings-map.php:825
+#: functions/class-utils-settings-map.php:859
+msgid "Menus settings for"
+msgstr "Ustawienia menu dla"
+
+#: functions/class-utils-settings-map.php:2008
+msgid "Upgrade to Hueman Pro"
+msgstr "Zaktualizuj do Hueman Pro"
+
+#: functions/admin/class-admin-page.php:301
+msgid "Knowledge base"
+msgstr "Baza wiedzy"
+
+#: functions/class-utils-settings-map.php:1898
+msgid "Header Design : colors and others"
+msgstr "Wygląd nagłówka: kolory i inne"
+
+#: functions/class-utils-settings-map.php:870
+msgid "When your visitors are using a smartphone or a tablet, the header becomes a thin bar on top, where the menu is revealed when clicking on the hamburger button. This option let you choose which menu will be displayed."
+msgstr "Kiedy odwiedzający stronę używa smartfona lub tabletu, nagłówek staje się cienkim paskiem na górze, gdzie menu wyświetla się po kliknięciu przycisku hamburgera. Ta opcja pozwala ci wybrać, które menu zostanie wyświetlone."
+
+#: functions/class-utils-settings-map.php:782
+msgid "This will display your widget zone on devices with a width smaller than 720 pixels : tablets, smartphones."
+msgstr "Spowoduje to wyświetlenie strefy widżetu na urządzeniach o szerokości mniejszej niż 720 pikseli: tabletach, smartfonach."
+
+#: functions/class-utils-settings-map.php:779
+msgid "Display the header widget zone on mobile devices"
+msgstr "Wyświetl strefę widżetu nagłówka na urządzeniach mobilnych"
+
+#: functions/class-utils-settings-map.php:774
+msgid "This will display your widget zone on devices with a width greater than 720 pixels : laptops and desktops."
+msgstr "Spowoduje to wyświetlenie strefy widżetu na urządzeniach o szerokości większej niż 720 pikseli: laptopach, komputerach stacjonarnych."
+
+#: functions/class-utils-settings-map.php:771
+msgid "Display the header widget zone on desktop devices"
+msgstr "Wyświetl strefę widżetu nagłówka na komputerach stacjonarnych"
+
+#: parts/header-nav-topbar.php:23
+msgid "Collapse menu"
+msgstr "Zwiń menu"
+
+#: parts/header-nav-topbar.php:22
+msgid "Expand menu"
+msgstr "Rozwiń menu"
+
+#: functions/init-front.php:495 functions/init-front.php:501
+msgid "Home page"
+msgstr "Strona główna"
+
+#: functions/class-utils-settings-map.php:1922
+msgid "Column layout for the main content"
+msgstr "Układ kolumn dla głównej treści"
+
+#: functions/class-utils-settings-map.php:1569
+msgid "Glues your website's sidebars on top of the page, making them permanently visible when scrolling up and down. Useful when a sidebar is too tall or too short compared to the rest of the content."
+msgstr "Przykleja panele boczne Twojej witryny na górze strony, dzięki czemu są one stale widoczne podczas przewijania w górę i w dół. Przydatne, gdy panel boczny jest za wysoki lub za krótki w porównaniu do reszty treści."
+
+#: functions/class-utils-settings-map.php:1566
+#: functions/class-utils-settings-map.php:1574
+msgid "make sidebars sticky on scroll"
+msgstr "przypnij panele boczny podczas przewijania"
+
+#: functions/class-utils-settings-map.php:224
+#: functions/class-utils-settings-map.php:825
+#: functions/class-utils-settings-map.php:826
+#: functions/class-utils-settings-map.php:843
+#: functions/class-utils-settings-map.php:1566
+msgid "Desktop devices"
+msgstr "Urządzenia stacjonarne"
+
+#: functions/class-utils-settings-map.php:963
+msgid "Columns layout for"
+msgstr "Układ kolumn dla"
+
+#: functions/class-utils-settings-map.php:903
+msgid "Simple"
+msgstr "Prosty"
+
+#: functions/class-utils-settings-map.php:902
+msgid "Animated"
+msgstr "Animowany"
+
+#: functions/class-utils-settings-map.php:898
+msgid "Style of the mobile menu button"
+msgstr "Styl przycisku menu w urządzeniach mobilnych"
+
+#: functions/class-utils-settings-map.php:867
+msgid "Topbar and header menus, logo centered"
+msgstr "Menu górnego paska i nagłówka, logo wyśrodkowane"
+
+#: functions/class-utils-settings-map.php:865
+msgid "Topbar Menu"
+msgstr "Menu górnego paska"
+
+#: functions/class-utils-settings-map.php:860
+msgid "Select the menu(s) to use for mobile devices"
+msgstr "Wybierz menu dla urządzeń mobilnych"
+
+#: functions/class-utils-settings-map.php:676
+msgid "Mobile Menu Background"
+msgstr "Tło menu urządzeń mobilnych"
+
+#: functions/class-utils-settings-map.php:813
+msgid "Topbar menu"
+msgstr "Menu paska górnego"
+
+#: functions/class-utils-settings-map.php:808
+msgid "The Hueman theme supports up to two menu locations in your header."
+msgstr "Motyw Hueman wspiera dwa miejsca dla menu w twoim nagłówku."
+
+#: functions/czr-modules/social-links/social_links_module.php:104
+msgid "Size in px"
+msgstr "Rozmiar w pikselach"
+
+#: functions/czr/czr-resources.php:243
+msgid "There was a problem when trying to load the customizer."
+msgstr "Problem podczas ładowania konfiguratora"
+
+#: functions/czr/czr-resources.php:240
+msgid "overridden by"
+msgstr "nadpisany przez"
+
+#: functions/czr/czr-resources.php:239
+msgid "inherits from"
+msgstr "dziedziczy z"
+
+#: functions/czr/czr-resources.php:238
+msgid "In this context :"
+msgstr "W tym kontekście:"
+
+#: functions/czr/czr-resources.php:237
+msgid "Switch to scope"
+msgstr "Zmień zakres"
+
+#: functions/czr/czr-resources.php:235
+msgid "Widgets are created sitewide."
+msgstr "Widżety są utworzone dla całej szerokości strony"
+
+#: functions/czr/czr-resources.php:234
+msgid "Menus are created sitewide."
+msgstr "Menu są utworzone dla całej szerokości strony"
+
+#: functions/czr/czr-resources.php:230
+msgid "is customized in"
+msgstr "jest personalizowany w"
+
+#: functions/czr/czr-resources.php:229
+msgid "is set in"
+msgstr "jest ustawione w"
+
+#: functions/czr/czr-resources.php:228
+msgid "The value that will be applied to"
+msgstr "Wartość, która będzie zastosowana w"
+
+#: functions/czr/czr-resources.php:227
+msgid "The value currently applied to"
+msgstr "Wartość zastosowana w"
+
+#: functions/czr/czr-resources.php:225
+msgid "Currently inherited from"
+msgstr "Obecnie dziedziczona z"
+
+#: functions/czr/czr-resources.php:224 functions/czr/czr-resources.php:226
+msgid "You can customize this specifically for"
+msgstr "Mozesz to personalizować dla"
+
+#: functions/czr/czr-resources.php:222
+msgid "Default website value applied sitewide."
+msgstr "Domyślna wartość strony zastosowana w całej jej szerokości"
+
+#: functions/czr/czr-resources.php:221
+msgid "Customized and applied to"
+msgstr "Personalizowane i zastosowane w"
+
+#: functions/czr/czr-resources.php:220
+msgid "Customized and applied sitewide."
+msgstr "Personalizowane i zastosowane w całej szerokości strony."
+
+#: functions/czr/czr-resources.php:219
+msgid "once published."
+msgstr "kiedy opublikowane"
+
+#: functions/czr/czr-resources.php:218
+msgid "Customized. Will be applied to"
+msgstr "Personalizowane. Będzie zastosowane w"
+
+#: functions/czr/czr-resources.php:217
+msgid "Customized. Will be applied sitewide once published."
+msgstr "Personalizowane. Będzie zastosowane w całej szerokości strony po publikacji."
+
+#: functions/czr/czr-resources.php:216
+msgid "This option is always customized sitewide and cannot be reset."
+msgstr "Ta opcja  jest zawsze personalizowana i nie mozna jej zresetować."
+
+#: functions/czr/czr-resources.php:215
+msgid "Display informations about the scope of this option."
+msgstr "Wyświetl informacje o zakresie tej opcji."
+
+#: functions/czr/czr-resources.php:212
+msgid "The option has been reset"
+msgstr "Opcja została zresetowana"
+
+#: functions/czr/czr-resources.php:211
+msgid "Please confirm that you want to reset this option in"
+msgstr "Proszę potwierdź, że chcesz zresetować tę opcję w"
+
+#: functions/czr/czr-resources.php:210
+msgid "Please confirm that you want to reset this option"
+msgstr "Proszę potwierdź, że chcesz zresetować tę opcję"
+
+#: functions/czr/czr-resources.php:209
+msgid "This WordPress setting can not be reset sitewide"
+msgstr "To ustawienie w WordPress nie może być zresetowane do całej szerokości strony"
+
+#: functions/czr/czr-resources.php:208
+msgid "Your customizations have been reset"
+msgstr "Twoje personalizacje zostały zresetowane"
+
+#: functions/czr/czr-resources.php:207
+msgid "sitewide"
+msgstr "Cała szerokość strony"
+
+#: functions/czr/czr-resources.php:206
+msgid "Please confirm that you want to reset your current customizations for this option in"
+msgstr "Proszę potwierdź, że chcesz zresetować używaną personalizację dla tej opcji w"
+
+#: functions/czr/czr-resources.php:205
+msgid "Please confirm that you want to reset your current customizations for this option"
+msgstr "Proszę potwierdź, że chcesz zresetować aktualne personalizację dla tej opcji"
+
+#: functions/czr/czr-resources.php:203
+msgid "Not customized yet, nothing to reset"
+msgstr "Brak personalizacji, nie można zresetować"
+
+#: functions/czr/czr-resources.php:202 functions/czr/czr-resources.php:204
+msgid "Reset your customized ( but not yet published ) value"
+msgstr "Zresetuj twoja spersonalizowana (ale jeszcze nie opublikowaną) wartość"
+
+#: functions/czr/czr-resources.php:201
+msgid "Reset your customized ( and published ) value"
+msgstr "Zresetuj twoją spersonalizowaną (i opublikowaną) wartość."
+
+#: functions/czr/czr-resources.php:198
+msgid "Your published customizations have been reset for"
+msgstr "Twoje opublikowane personalizacje zostały zresetowane dla "
+
+#: functions/czr/czr-resources.php:197
+msgid "Please confirm that you want to reset your published customizations for"
+msgstr "Proszę potwierdź, że chcesz zresetować twoje opublikowane personalizacje dla"
+
+#: functions/czr/czr-resources.php:196
+msgid "Please confirm that you want to reset your sitewide published customizations. Note : this will not reset the customizations made in other option scopes"
+msgstr ""
+"Proszę potwierdź, że chcesz zresetować twoje opublikowane personalizacje.\n"
+"Uwaga: To nie zresetuje twoich personalizacji dla innych zakresów"
+
+#: functions/czr/czr-resources.php:195
+msgid "Your customizations have been reset for"
+msgstr "Twoje personalizacje zostały zrestowane dla"
+
+#: functions/czr/czr-resources.php:194
+msgid "Please confirm that you want to reset your current ( not published ) customizations for"
+msgstr "Proszę potwierdź, że chcesz zresetować twoją używaną (nie opublikowaną) personalizacje dla"
+
+#: functions/czr/czr-resources.php:193
+msgid "Reset your website published options for"
+msgstr "Zresetuj opcje strony opublikowanej dla"
+
+#: functions/czr/czr-resources.php:192
+msgid "Reset the theme options published sitewide"
+msgstr "Zresetuj opcje motywu opublikowanego w całej szerokości strony"
+
+#: functions/czr/czr-resources.php:191
+msgid "Reset the current customizations for"
+msgstr "Zresetuj używane personalizacje dla"
+
+#: functions/czr-base-fmk/czr-base-fmk.php:275
+#: functions/czr/czr-resources.php:187
+msgid "Options for"
+msgstr "Opcje dla"
+
+#: functions/class-utils-settings-map.php:284
+msgid "This option sets the default font size applied to any text element of your website, when no font size is already applied."
+msgstr "Opcja ustawia domyślny rozmiar tekstu dla każdego elementu strony jeżeli nie został już wcześniej zastosowany."
+
+#: functions/class-utils-settings-map.php:277
+msgid "Set your website default font size in pixels."
+msgstr "Ustaw domyślny rozmiar liter witryny w pikselach."
+
+#: functions/class-utils-settings-map.php:195
+msgid "Set your logo below or"
+msgstr "Ustaw poniższe logo albo"
+
+#: footer.php:141 parts/header-nav-mobile.php:74 sidebar.php:29
+msgid "Customize now"
+msgstr "Personalizuj teraz"
+
+#: footer.php:139 functions/init-front.php:277 sidebar.php:27
+msgid "You can set your social links here from the live customizer"
+msgstr "Możesz tutaj ustawić twoje linki społecznościowe z konfiguratora"
+
+#: functions/czr/panels/class-panels.php:65
+msgid "Press return or enter to open this panel"
+msgstr "Wciśnij return lub enter, aby otworzyć panel"
+
+#: functions/class-utils-settings-map.php:1788
+msgid "Performances, SEO, CSS, Scroll"
+msgstr "Wydajności, SEO, CSS, Suwak"
+
+#: functions/class-utils-settings-map.php:1780
+msgid "Logo, Layout, Menu"
+msgstr "Logo, Układ, Menu"
+
+#: functions/class-utils-settings-map.php:1779
+msgid "Footer Design"
+msgstr "Projektowanie stopki"
+
+#: functions/class-utils-settings-map.php:1766
+msgid "Layout, Sidebars, Blog Posts, Thumbnails"
+msgstr "Układ, Pasek boczny, Posty w blogu, Miniaturki"
+
+#: functions/class-utils-settings-map.php:1765
+msgid "Main Body Design"
+msgstr "Projektowanie Treści Głównej"
+
+#: functions/class-utils-settings-map.php:1758
+msgid "Header Image, Menu, Widget"
+msgstr "Obrazek nagłówka, Menu, Widżet"
+
+#: functions/class-utils-settings-map.php:1757
+msgid "Header Design"
+msgstr "Projektowanie nagłówka"
+
+#: functions/class-utils-settings-map.php:1750
+msgid "Title, Logo, Fonts, Colors, Background, Socials, Links"
+msgstr "Tytuł, Logo, Czcionki, Kolory, Tło, Społeczność, Linki"
+
+#: functions/class-utils-settings-map.php:1749
+msgid "Web Page Design"
+msgstr "Projektowanie Stron Internetowych"
+
+#: functions/czr/czr-resources.php:73
+msgid "Header Panel"
+msgstr "Panel nagłówka"
+
+#: functions/czr/czr-resources.php:70
+msgid "The menu currently displayed in your header is a default page menu, you can disable it in the %s."
+msgstr "Menu jest obecnie wyświetlane w twoim nagłówku to główne menu strony, możesz to wyłączyć w %s."
+
+#: functions/class-utils-settings-map.php:1932
+msgid "Post Lists Design and Content : Blog, Archives, Search Results"
+msgstr "Projektowanie listy postów i zawartości : Blog, Archiwum, Wyniki wyszukiwania"
+
+#: functions/admin/class-admin-page.php:63
+msgid "Changelog"
+msgstr "Rejestr zmian"
+
+#: functions/czr/czr-resources.php:67
+msgid "blog design panel"
+msgstr "panel proketowania blogu"
+
+#: functions/czr/czr-resources.php:64
+msgid "Jump to the %s."
+msgstr "Skocz do %s."
+
+#: functions/czr/class-czr-init.php:293
+msgid "A static page"
+msgstr "Strona statyczna"
+
+#: functions/czr/class-czr-init.php:292
+msgid "Your latest posts"
+msgstr "Twoje najnowsze wpisy"
+
+#: functions/czr/class-czr-init.php:291
+msgid "Don't show any posts or page"
+msgstr "Nie pokazuj żadnych stron ani wpisów"
+
+#: functions/czr/class-czr-init.php:282
+msgid "Front Page Content"
+msgstr "Treść Strony Głównej"
+
+#: functions/class-utils-settings-map.php:864
+msgid "Header Menu"
+msgstr "Menu nagłówka"
+
+#: functions/class-utils-settings-map.php:793
+#: functions/class-utils-settings-map.php:1627
+msgid "You can create menus and set their locations %s."
+msgstr "Możesz utworzyć menu i ustawić ich lokalizację %s."
+
+#: functions/class-utils-settings-map.php:1196
+msgid "custom excerpt"
+msgstr "własna zajawka"
+
+#: functions/class-utils-settings-map.php:1195
+msgid "The WordPress Excerpt is the summary or description of a post. By default, it will be the first words of a post, but you can write a %s if you want. You can set the number of words you want to display with this option."
+msgstr "Zajawka Wordpress to podsumowanie lub opis postu. Domyślnie to są pierwsze słowa postu ale możesz napisać swoje %s jeśli chcesz. Możesz ustawic ilość słów, które chcesz wyświetlić włączając tę opcję."
+
+#: functions/class-utils-settings-map.php:1187
+msgid "Post Summary"
+msgstr "Podsumowanie Postu"
+
+#: functions/class-utils-settings-map.php:1130
+msgid "Post List Design"
+msgstr "Projektowanie listy postów"
+
+#: functions/class-utils-settings-map.php:813
+#: functions/class-utils-settings-map.php:1653
+msgid "Use a default page menu if no menu has been assigned."
+msgstr "Użyj domyślnego menu strony jeśli żadne menu nie zostało ustawione."
+
+#: functions/class-utils-settings-map.php:701
+msgid "Use a header banner image"
+msgstr "Użyj obrazek baneru w nagłówku"
+
+#: functions/class-utils-settings-map.php:189
+msgid "Display a logo in the header"
+msgstr "Wyświetl logo w nagłówku"
+
+#: functions/class-utils-settings-map.php:1371
+#: functions/class-utils-settings-map.php:1466
+msgid "Featured image"
+msgstr "Obrazek wyróżniający"
+
+#: functions/init-plugins-compat.php:443
+msgid "Footer Social Links"
+msgstr "Linki społecznościowe stopki"
+
+#: functions/init-plugins-compat.php:441
+msgid "Comments metas"
+msgstr "Meta dane komentarzy"
+
+#: functions/init-plugins-compat.php:440
+msgid "Single post tags"
+msgstr "Tagi pojedynczego postu"
+
+#: functions/init-plugins-compat.php:439
+msgid "Post list category meta"
+msgstr "Meta dane listy kategorii"
+
+#: functions/init-plugins-compat.php:438
+msgid "Post list post metas"
+msgstr "Meta dane listy postu"
+
+#: functions/init-plugins-compat.php:437
+msgid "Archive Type Title"
+msgstr "Tytuł typu archiwum"
+
+#: functions/init-plugins-compat.php:436
+msgid "Single Post tags"
+msgstr "Tagi pojedynczego postu"
+
+#: functions/init-plugins-compat.php:435
+msgid "Single Post Categories meta"
+msgstr "Meta kategorie pojedynczego postu"
+
+#: functions/init-plugins-compat.php:434
+msgid "Lists in post/pages"
+msgstr "Listy w postach/stronach"
+
+#: functions/init-plugins-compat.php:431
+msgid "Single Page titles"
+msgstr "Tytuły pojedynczej strony"
+
+#: functions/init-plugins-compat.php:430
+msgid "Single Post titles"
+msgstr "Tytuły pojedynczego postu"
+
+#: functions/init-plugins-compat.php:425
+msgid "Top-Menu items"
+msgstr "Pozycje górnego menu"
+
+#: functions/init-plugins-compat.php:427
+msgid "Slider subtitle"
+msgstr "Podtytuł suwaka"
+
+#: functions/init-plugins-compat.php:426
+msgid "Slider title"
+msgstr "Tytuł suwaka"
+
+#: functions/class-utils.php:215
+msgid "Page %s"
+msgstr "Strona %s"
+
+#: functions/class-utils-settings-map.php:543
+msgid "Check this option to delay the loading of non visible images. Images below the viewport will be loaded dynamically on scroll. This can really boost speed performances by reducing the weight of long pages that include many images."
+msgstr "Zaznacz tę opcję, aby opóźnić ładowanie niewidocznych obrazów. Obrazy poniżej zostaną załadowane dynamicznie podczas przewijania. To może znacznie zwiększyć wydajność poprzez zmniejszenie wagi długich stron zawierających wiele obrazów."
+
+#: functions/class-utils-settings-map.php:540
+msgid "Load images on scroll"
+msgstr "Załaduj obrazki podczas przewijania"
+
+#: functions/class-utils-settings-map.php:392
+msgid "Open external links in a new tab"
+msgstr "Otwórz zewnętrzne linki w nowej zakładce"
+
+#: functions/class-utils-settings-map.php:385
+#: functions/class-utils-settings-map.php:395
+msgid "This will be applied to the links included in post or page content only."
+msgstr "Będzie dotyczyć tylko odnośników umieszczonych na  stronach i wpisach."
+
+#: functions/class-utils-settings-map.php:382
+msgid "Display an icon next to external links"
+msgstr "Wyświetl ikonkę obok odnośników zewnętrznych"
+
+#: functions/class-utils-settings-map.php:194
+#: functions/class-utils-settings-map.php:748
+#: functions/czr-modules/body-background/body_bg_module.php:136
+msgid "here"
+msgstr "tutaj"
+
+#: functions/czr-modules/body-background/body_bg_module.php:135
+msgid "Learn more"
+msgstr "Dowiedz się więcej"
+
+#: functions/czr-modules/body-background/body_bg_module.php:133
+msgid "The background-size CSS property specifies the size of the background images. The size of the image can be fully constrained or only partially in order to preserve its intrinsic ratio."
+msgstr "Właściwość rozmoar-tła CSS określa wielkość obrazów tła. Wielkość obrazu może być w pełni lub tylko częściowo ograniczona w celu zachowania jej wewnętrznej proporcji."
+
+#: functions/czr-modules/body-background/body_bg_module.php:99
+msgid "Right Bottom"
+msgstr "Na dole po prawej"
+
+#: functions/czr-modules/body-background/body_bg_module.php:98
+msgid "Right Center"
+msgstr "Na środku po prawej"
+
+#: functions/czr-modules/body-background/body_bg_module.php:97
+msgid "Right Top"
+msgstr "Na górze po prawej"
+
+#: functions/czr-modules/body-background/body_bg_module.php:96
+msgid "Center Bottom"
+msgstr "Na dole na środku"
+
+#: functions/czr-modules/body-background/body_bg_module.php:95
+msgid "Center Center"
+msgstr "Na środku pośrodku"
+
+#: functions/czr-modules/body-background/body_bg_module.php:94
+msgid "Center Top"
+msgstr "Na górze na środku"
+
+#: functions/czr-modules/body-background/body_bg_module.php:93
+msgid "Left Bottom"
+msgstr "Na dole po lewej"
+
+#: functions/czr-modules/body-background/body_bg_module.php:92
+msgid "Left Center"
+msgstr "Na środku po lewej"
+
+#: functions/czr-modules/body-background/body_bg_module.php:91
+msgid "Left Top"
+msgstr "Na górze po lewej"
+
+#: functions/czr-modules/body-background/body_bg_module.php:85
+msgid "Scroll"
+msgstr "Przewijaj"
+
+#: functions/czr-modules/body-background/body_bg_module.php:84
+msgid "Fixed"
+msgstr "Określone"
+
+#: functions/czr-modules/body-background/body_bg_module.php:79
+#: functions/czr-modules/body-background/body_bg_module.php:86
+msgid "Inherit"
+msgstr "Dziedziczone"
+
+#: functions/czr-modules/body-background/body_bg_module.php:78
+msgid "Repeat Vertically"
+msgstr "Powtarzaj w pionie"
+
+#: functions/czr-modules/body-background/body_bg_module.php:77
+msgid "Repeat Horizontally"
+msgstr "Powtarzaj w poziomie"
+
+#: functions/czr-modules/body-background/body_bg_module.php:76
+msgid "Repeat All"
+msgstr "Powtarzaj wszystko"
+
+#: functions/czr-modules/body-background/body_bg_module.php:75
+msgid "No Repeat"
+msgstr "Bez powtarzania"
+
+#: functions/czr-base-fmk/czr-base-fmk.php:284
+msgid "Choose Image"
+msgstr "Wybierz obrazek"
+
+#: functions/czr-base-fmk/czr-base-fmk.php:282
+msgid "No image selected"
+msgstr "Nie wybrano obrazka"
+
+#: functions/czr-base-fmk/czr-base-fmk.php:279
+msgid "Change Image"
+msgstr "Zmień obrazek"
+
+#: functions/czr-base-fmk/czr-base-fmk.php:278
+#: functions/czr-base-fmk/czr-base-fmk.php:283
+msgid "Select Image"
+msgstr "Wybierz obrazek"
+
+#: functions/czr-modules/widget-zones/widget_zones_module.php:81
+msgid "Widget Zone"
+msgstr "Obszar widżetów"
+
+#: functions/czr/czr-resources.php:177
+msgid "Select position property"
+msgstr "Ustaw właściwość lokalizacji"
+
+#: functions/czr/czr-resources.php:176
+msgid "Select attachment property"
+msgstr "Ustaw właściwość załącznika"
+
+#: functions/czr/czr-resources.php:175
+msgid "Select repeat property"
+msgstr "Ustaw opcję powtarzania"
+
+#: functions/init-sidebars-widgets.php:81
+msgid "The Footer Widget Zone is located before the other footer widgets and takes 100% of the width. Very appropriate to display a Google Map or an advertisement banner."
+msgstr "Obszar widżetu stopki znajduje się przed innymi widgetami stopki i ma 100% szerokości. Bardzo odpowiednia do wyświetlania mapy Google lub baner reklamowy."
+
+#: functions/init-sidebars-widgets.php:79
+#: functions/init-sidebars-widgets.php:155
+msgid "Footer Full Width"
+msgstr "Pełna szerokość stopki"
+
+#: functions/init-sidebars-widgets.php:72
+msgid "The Header Widget Zone is located next to your logo or site title."
+msgstr "Strefa Nagłówka Widżetu znajduje się obok logo lub tytuł witryny."
+
+#: functions/init-sidebars-widgets.php:70
+#: functions/init-sidebars-widgets.php:154
+msgid "Header (next to logo / title)"
+msgstr "Opis, który pojawia się obok logo"
+
+#: functions/czr-modules/widget-zones/widget_zones_module.php:206
+msgid "Give it a name"
+msgstr "Ustal nazwę"
+
+#: functions/czr-modules/social-links/social_links_module.php:97
+#: functions/czr-modules/social-links/social_links_module.php:118
+msgid "Enter the full url of your social profile (must be valid url)."
+msgstr "Wpisz pełny adres URL swojego profilu społecznego (musi być poprawny adres URL)."
+
+#: functions/czr-modules/social-links/social_links_module.php:96
+msgid "Social link url"
+msgstr "Link społecznościowy"
+
+#: functions/czr-modules/social-links/social_links_module.php:92
+msgid "Select an icon"
+msgstr "Wybierz ikonę"
+
+#: functions/czr-base-fmk/czr-base-fmk.php:554
+msgid "Add it"
+msgstr "Dodaj to"
+
+#: functions/czr-base-fmk/czr-base-fmk.php:554
+msgid "Cancel"
+msgstr "Anuluj"
+
+#: functions/czr-base-fmk/czr-base-fmk.php:273
+#: functions/czr/czr-resources.php:185
+msgid "Learn more about this in the documentation"
+msgstr "Dowiedz się więcej na ten temat w dokumentacji"
+
+#: functions/czr-modules/widget-zones/widget_zones_module.php:85
+msgid "A selected location is not available with the current settings."
+msgstr "Wybrana lokalizacja nie jest dostępna przy używanych ustawieniach."
+
+#: functions/czr-modules/widget-zones/widget_zones_module.php:84
+msgid "Unavailable location. Some settings must be changed."
+msgstr "Niedostępna lokalizacja. Niektóre ustawienia muszą być zmienione."
+
+#: functions/czr-modules/widget-zones/widget_zones_module.php:83
+msgid "Inactive in current context/location"
+msgstr "Nieaktywne w używanej lokalizacji/w kontekście"
+
+#: functions/czr-modules/widget-zones/widget_zones_module.php:82
+msgid "New Widget Zone created ! Scroll down to edit it."
+msgstr "Nowy obszar widżetów utworzony ! Przesuń w dół w celach edycji."
+
+#: functions/czr-modules/social-links/social_links_module.php:81
+#: functions/czr/czr-resources.php:173
+msgid "New Social Link created ! Scroll down to edit it."
+msgstr "Nowy link społecznościowy utworzony ! Przesuń w dół żeby edytować"
+
+#: functions/czr-base-fmk/czr-base-fmk.php:271
+#: functions/czr-modules/social-links/social_links_module.php:80
+#: functions/czr/czr-resources.php:172
+msgid "Done !"
+msgstr "Zrobione !"
+
+#: functions/czr-modules/social-links/social_links_module.php:79
+#: functions/czr/czr-resources.php:171
+msgid "Follow us on"
+msgstr "Obserwuj na:"
+
+#: functions/czr-modules/social-links/social_links_module.php:78
+#: functions/czr/czr-resources.php:170
+msgid "Select a social icon"
+msgstr "Wybierz ikonę"
+
+#: functions/class-utils-settings-map.php:1648
+msgid "This zone is located before the other footer widgets and takes 100% of the width. Very appropriate to display a Google Map or an advertisement banner."
+msgstr "Strefa ta znajduje się przed innymi widżetami stopki i ma 100% szerokości. Miejsce odpowiednie do wyświetlania mapy Google lub baner reklamowy."
+
+#: functions/class-utils-settings-map.php:1645
+msgid "Display a full width widget area in your footer"
+msgstr "Wyświetla pełną szerokość obszaru widgetu w stopce"
+
+#: functions/class-utils-settings-map.php:1269
+msgid "By default, your featured posts display the first words of their content ( the \"excerpt\"). Check this box to display the full content."
+msgstr "Domyślnie twoje wyróżnione posty będą wyświetlać pierwsze słowa ich treści (\"fragment\"). Zaznacz to pole, aby wyświetlić pełną treść."
+
+#: functions/class-utils-settings-map.php:1266
+msgid "Display the full post content"
+msgstr "Wyświetl treść wpisu"
+
+#: parts/single-author-date.php:29
+msgid "Published"
+msgstr "Opublikowano"
+
+#: functions/init-admin.php:105
+msgid "Notes : 1)This will override any default settings of the customizer options panel. 2) The secondary sidebar is placed on the right in a 3 columns layout."
+msgstr "Uwagi: 1) To zastąpi ustawienia domyślne panelu opcji panelu Kongigurator. 2) Podstawowy pasek boczny jest umieszczony po lewej stronie w układzie 3 kolumny. "
+
+#: functions/init-admin.php:105
+msgid "Select a widget zone for the secondary sidebar."
+msgstr "Wybierz strefę widżet dla dodatkowego panelu."
+
+#: functions/init-admin.php:99
+msgid "Notes : 1)This will override any default settings of the customizer options panel. 2) The primary sidebar is placed on the left in a 3 columns layout. It can be on the right in a 2 columns layout, when the content is on the left."
+msgstr "Uwagi: 1) To zastąpi ustawienia domyślne panelu opcji panelu Konfigurator. 2) Podstawowy pasek boczny jest umieszczony po lewej stronie w układzie 3 kolumn. Może to być na prawo w układzie 2 kolumn, gdy treść ta jest z lewej strony."
+
+#: functions/init-admin.php:99
+msgid "Select a widget zone for the primary sidebar."
+msgstr "Wybierz strefę widżet dla głównego panelu."
+
+#: functions/init-sidebars-widgets.php:28
+msgid "Full width widget zone. Located in the right sidebar in a 3 columns layout."
+msgstr "Pełna szerokość strefy widżet. Znajduje się w prawym bocznym w układzie 3 kolumn."
+
+#: functions/init-sidebars-widgets.php:19
+msgid "Full width widget zone. Located in the left sidebar in a 3 columns layout. Can be on the right of a 2 columns sidebar when content is on the left."
+msgstr "Pełna szerokość strefy widżet. Znajduje się w lewym pasku bocznym w układzie 3 kolumn. Może być na prawo od 2 kolumn paska bocznego, gdy treść jest po lewej stronie."
+
+#: functions/class-utils-settings-map.php:1996
+msgid "Hueman Admin Settings"
+msgstr "Ustawienia zaawansowane dla motywu Hueman"
+
+#: functions/class-utils-settings-map.php:1991
+msgid "Performances and SEO"
+msgstr "Wydajność i SEO"
+
+#: functions/class-utils-settings-map.php:601
+msgid "This button links to the \"About Hueman\" page."
+msgstr "Przycisk umożliwia powrót do ekranu głównego."
+
+#: functions/class-utils-settings-map.php:598
+msgid "Display a Help button in the admin bar"
+msgstr "Wyświetlać przycisk Pomoc na pasku admin"
+
+#: functions/class-utils-settings-map.php:593
+msgid "This page is intended to provide information about the Hueman theme : changelog, release note, documentation link. It also display information about your current install that can be useful if you need to report an issue."
+msgstr "Ta strona ma na celu dostarczenie informacji o motywie Hueman: dziennik zmian, notatka o wydaniu, odnośnik do dokumentacji. Wyświetla również informacje o bieżącej instalacji, które mogą być przydatne, jeśli chcesz zgłosić problem."
+
+#: functions/class-utils-settings-map.php:590
+msgid "Display the \"About Hueman\" page in the \"Appearance\" admin menu"
+msgstr "Wyświetlić stronę \"O Hueman\" w menu admina \"Wygląd\""
+
+#: functions/class-utils-settings-map.php:535
+msgid "\"Structured data markup\" is a standard way to annotate your content so machines can understand it. Implementing it will help your website rank higher in search engines."
+msgstr "\"Zorganizowane znaczniki danych\" są standardowym sposobem opisywania "
+
+#: functions/class-utils-settings-map.php:532
+msgid "Use Structured Data Markup for your posts"
+msgstr "Użyj znaczników strukturalnych danych dla Twoich postów"
+
+#: functions/class-utils-settings-map.php:527
+msgid "Unchecking this option is not recommended. Minifying css stylesheets improves performance for your website overall by decreasing the load time."
+msgstr "Usunięcie zaznaczenia tej opcji nie jest zalecane. Kompresja arkuszy css stylów poprawia wydajność witryny ogólnej zmniejszając czas ładowania."
+
+#: functions/class-utils-settings-map.php:524
+msgid "Use a minified stylesheet"
+msgstr "Użyj arkusza stylów"
+
+#: functions/class-utils-settings-map.php:1688
+msgid "Footer Background"
+msgstr "Tło stopki"
+
+#: functions/class-utils-settings-map.php:1097
+msgid "Your blog sub-heading. Html is allowed. Note : write a blank space to hide the default content."
+msgstr "Twój podnagłówek bloga. HTML jest dozwolone. Uwaga: Napisz spację aby ukryć domyślną treść.."
+
+#: functions/class-utils-settings-map.php:1082
+msgid "Your blog heading. Html is allowed. Note : write a blank space to hide the default content."
+msgstr "Twój nagłówek bloga. HTML jest dozwolone. Uwaga: Napisz spację aby ukryć domyślną treść."
+
+#: functions/czr-modules/social-links/social_links_module.php:77
+#: functions/czr/czr-resources.php:169
+msgid "Rss"
+msgstr "RSS"
+
+#: functions/czr-base-fmk/czr-base-fmk.php:270
+#: functions/czr-modules/widget-zones/widget_zones_module.php:88
+#: functions/czr/czr-resources.php:168
+msgid "Not set"
+msgstr "Nie ustawiono"
+
+#: functions/init-sidebars-widgets.php:149
+msgid "Secondary Sidebar (on the right in a 3 columns layout)"
+msgstr "Dodatkowy pasek boczny (po lewej w układzie 3 kolumn)"
+
+#: functions/init-sidebars-widgets.php:148
+msgid "Primary Sidebar (on the left in a 3 columns layout)"
+msgstr "Podstawowy pasek boczny (po lewej w układzie 3 kolumny)"
+
+#: functions/init-sidebars-widgets.php:133
+msgid "Blog Page"
+msgstr "Strona z wpisami"
+
+#: functions/class-utils-settings-map.php:1237
+msgid "If no specific category is selected, the featured posts block will display your latest post(s) from all categories."
+msgstr "Jeśli określona kategoria nie jest zaznaczona, blok wyróżnionych postów wyświetli twój ostatni post/posty ze wszystkich kategorii."
+
+#: functions/class-utils-settings-map.php:1233
+msgid "Select a category to feature"
+msgstr "Wybierz kategorię do wyróżnienia"
+
+#: functions/widgets/alx-video.php:23
+msgid "Display a responsive video with a YouTube or Vimeo link."
+msgstr "Wyświetla czułe wideo z linkiem YouTube lub Vimeo."
+
+#: functions/widgets/alx-video.php:21
+msgid "Hueman Videos"
+msgstr "Video motywu Hueman"
+
+#: functions/widgets/alx-tabs.php:23
+msgid "List posts, comments, and/or tags with or without tabs."
+msgstr "Lista postów, komentarze i / lub etykiety z zakładkami lub bez."
+
+#: functions/widgets/alx-tabs.php:21
+msgid "Hueman Dynamic Tabs"
+msgstr "Zakładki dynamicznych stylów"
+
+#: functions/widgets/alx-posts.php:23
+msgid "Display posts from a category"
+msgstr "Wyświetl posty z kategorii"
+
+#: functions/widgets/alx-posts.php:21
+msgid "Hueman Posts"
+msgstr "Najnowsze posty"
+
+#: functions/init-admin.php:184
+msgid "Select a layout for this page."
+msgstr "Wybierz układ dla Twojej strony internetowej"
+
+#: functions/init-admin.php:128
+msgid "Select a widget zone for the right sidebar."
+msgstr "Wybierz strefę widżet dla prawego paska bocznego"
+
+#: functions/init-admin.php:122 functions/init-admin.php:128
+#: functions/init-admin.php:184
+msgid "This will override any default settings of the customizer options panel."
+msgstr "To zastąpi ustawienia domyślne panelu opcji panelu Kongigurator. "
+
+#: functions/init-admin.php:122
+msgid "Select a widget zone for the left sidebar."
+msgstr "Wybierz strefę widżet dla lewego paska bocznego"
+
+#: functions/init-front.php:237
+msgid "Add widgets to the zone :"
+msgstr "Dodaj widżet do strefy :"
+
+#: functions/init-front.php:231
+msgid "You can change or disable this setting by editing the options of the current post / page."
+msgstr "Możesz zmienić lub wyłączyć to ustawienie edytując opcje bieżącego post / strony."
+
+#: functions/init-front.php:230
+msgid "in this post or page options."
+msgstr "w tym poście albo opcje strony."
+
+#: functions/init-front.php:228
+msgid "You have already assigned the following widget zone here : "
+msgstr "Następujący obszar widżetu został przypisany tutaj:"
+
+#: functions/init-front.php:200
+msgid "You can add Widget Areas here from the customizer, in the <strong>Dynamic Sidebars and Widgets</strong> panel, or you can change the layout to remove this sidebar in <strong>Content &raquo; Layout Options for the main content</strong>."
+msgstr "Możesz dodać Obszar Widżetu z konfiguratora, w panelu <strong> Dynamiczne Paski i widgett </ strong> , lub możesz zmienić układ aby usunąć ten pasek boczny <strong> Treść & raquo; Opcje układu do głównej treści </ strong>."
+
+#: functions/init-front.php:199
+msgid "No widget zones available in this sidebar."
+msgstr "Brak widżetów dostępnych w tym pasku bocznym."
+
+#: functions/init-sidebars-widgets.php:139
+msgid "404 Error Pages"
+msgstr "Błąd 404"
+
+#: functions/class-utils-settings-map.php:1986
+#: functions/init-sidebars-widgets.php:138
+msgid "Search Results"
+msgstr "Wyniki wyszukiwania"
+
+#: functions/init-sidebars-widgets.php:137
+msgid "Categories"
+msgstr "Kategorie"
+
+#: functions/init-sidebars-widgets.php:136
+msgid "Archives"
+msgstr "Archiwa"
+
+#: functions/init-sidebars-widgets.php:135
+msgid "Single Posts"
+msgstr "Pojedyncze wpisy"
+
+#: functions/init-front.php:1835 functions/init-sidebars-widgets.php:134
+msgid "Pages"
+msgstr "Strony"
+
+#: functions/init-sidebars-widgets.php:131
+msgid "All contexts"
+msgstr "Pełna treść"
+
+#: functions/init-sidebars-widgets.php:64
+msgid "Widgetized footer 4"
+msgstr "Stopka widżetu 4"
+
+#: functions/init-sidebars-widgets.php:62
+#: functions/init-sidebars-widgets.php:153
+msgid "Footer 4"
+msgstr "Stopka 4"
+
+#: functions/init-sidebars-widgets.php:55
+msgid "Widgetized footer 3"
+msgstr "Stopka widżetu 3"
+
+#: functions/init-sidebars-widgets.php:53
+#: functions/init-sidebars-widgets.php:152
+msgid "Footer 3"
+msgstr "Stopka 3"
+
+#: functions/init-sidebars-widgets.php:46
+msgid "Widgetized footer 2"
+msgstr "Stopka widżetu 2"
+
+#: functions/init-sidebars-widgets.php:44
+#: functions/init-sidebars-widgets.php:151
+msgid "Footer 2"
+msgstr "Stopka 2"
+
+#: functions/init-sidebars-widgets.php:37
+msgid "Widgetized footer 1"
+msgstr "Stopka widżetu 1"
+
+#: functions/init-sidebars-widgets.php:35
+#: functions/init-sidebars-widgets.php:150
+msgid "Footer 1"
+msgstr "Stopka 1"
+
+#: functions/init-sidebars-widgets.php:26
+msgid "Secondary"
+msgstr "Drugorzędne"
+
+#: functions/init-sidebars-widgets.php:17
+msgid "Primary"
+msgstr "Podstawowy"
+
+#: functions/init-core.php:81
+msgid "Theme Options [OLD]"
+msgstr "Opcje motywu [OLD]"
+
+#: functions/class-utils-settings-map.php:2117
+msgid "4 Columns"
+msgstr "4 kolumny"
+
+#: functions/class-utils-settings-map.php:2113
+msgid "3 Columns"
+msgstr "3 kolumny"
+
+#: functions/class-utils-settings-map.php:2109
+msgid "2 Columns"
+msgstr "2 kolumny"
+
+#: functions/class-utils-settings-map.php:2083
+msgid "Inherit Global Layout"
+msgstr "Dziedziczenie głównego układu"
+
+#: functions/class-utils-settings-map.php:2075
+msgid "3 Columns - Content Right"
+msgstr "3 Kolumny - Treść po prawej"
+
+#: functions/class-utils-settings-map.php:2071
+msgid "3 Columns - Content Left"
+msgstr "3 Kolumny - Treść po lewej"
+
+#: functions/class-utils-settings-map.php:2067
+msgid "3 Columns - Content Middle"
+msgstr "2 Kolumny - Treść po środku"
+
+#: functions/class-utils-settings-map.php:2063
+msgid "2 Columns - Content Right"
+msgstr "2 Kolumny - Treść po prawej"
+
+#: functions/class-utils-settings-map.php:2059
+msgid "2 Columns - Content Left"
+msgstr "2 Kolumny - Treść po lewej"
+
+#: functions/class-utils-settings-map.php:2055
+#: functions/class-utils-settings-map.php:2105
+msgid "1 Column"
+msgstr "1 kolumna"
+
+#: functions/class-utils-settings-map.php:2036
+msgid "Choose one "
+msgstr "Wybierz "
+
+#: functions/class-utils-settings-map.php:1964
+msgid "Footer Design : Logo, layout, ..."
+msgstr "Projektowanie stopki :  Logo, układ, ..."
+
+#: functions/class-utils-settings-map.php:1949
+msgid "Thumbnails Settings"
+msgstr "Ustawienia miniaturek"
+
+#: functions/class-utils-settings-map.php:1943
+msgid "Single Posts Settings"
+msgstr "Ustawienia pojedynczych postów"
+
+#: functions/class-utils-settings-map.php:1927
+msgid "Sidebars : Design and Mobile Settings"
+msgstr "Paski boczne : Projektowanie i ustawienia urządzeń mobilnych"
+
+#: functions/class-utils-settings-map.php:1908
+msgid "Header Advertisement Widget"
+msgstr "Widżet reklam w nagłówku"
+
+#: functions/class-utils-settings-map.php:859
+#: functions/class-utils-settings-map.php:882
+#: functions/class-utils-settings-map.php:913
+#: functions/class-utils-settings-map.php:924
+#: functions/class-utils-settings-map.php:1574
+msgid "Mobile devices"
+msgstr "Urządzenia mobilne"
+
+#: functions/init-after-setup-theme.php:166
+msgid "Social links"
+msgstr "Odnośniki społecznościowe"
+
+#: functions/class-utils-settings-map.php:1881
+msgid "General Design Options : Font, Colors, ..."
+msgstr "Ogólne opcje projektowania: czcionki, kolory, ..."
+
+#: functions/class-utils-settings-map.php:1871
+msgid "Site Identity : Logo, Title, Tagline and Site Icon"
+msgstr "ID strony : Tytuł, Tagline i ikona witryny"
+
+#: functions/class-utils-settings-map.php:803
+#: functions/class-utils-settings-map.php:1637
+msgid "in the menu panel"
+msgstr "w panelu menu"
+
+#: functions/class-utils-settings-map.php:804
+#: functions/class-utils-settings-map.php:1638
+msgid "create/edit menus"
+msgstr "utwórz/edytuj menu"
+
+#: functions/class-utils-settings-map.php:1789
+msgid "Advanced settings for the Hueman theme."
+msgstr "Ustawienia zaawansowane dla motywu Hueman"
+
+#: functions/class-utils-settings-map.php:1787
+msgid "Advanced options"
+msgstr "Opcje zaawansowane"
+
+#: functions/class-utils-settings-map.php:1781
+msgid "Footer settings for the Hueman theme."
+msgstr "Ustawienia stopki dla motywu Hueman"
+
+#: functions/init-after-setup-theme.php:110
+msgid "Footer"
+msgstr "Stopka"
+
+#: functions/class-utils-settings-map.php:1767
+msgid "Content settings for the Hueman theme."
+msgstr "Ustawienia zawartości dla motywu Hueman"
+
+#: functions/class-utils-settings-map.php:1759
+msgid "Header settings for the Hueman theme."
+msgstr "Ustawienia nagłówka dla motywu Hueman"
+
+#: functions/init-after-setup-theme.php:109
+msgid "Header"
+msgstr "Nagłówek"
+
+#: functions/class-utils-settings-map.php:1751
+msgid "General settings for the Hueman theme : design, comments, mobile, ..."
+msgstr "Głównie ustawienia dla motywu Hueman: projektowanie, komentarze, mobilne, ..."
+
+#: functions/class-utils-settings-map.php:1709
+msgid "Footer credit text"
+msgstr "Ustawienia podziękowań na stopce dla autorów motywu Hueman"
+
+#: functions/class-utils-settings-map.php:1699
+msgid "Replace the footer copyright text"
+msgstr "Zastąp napis w stopce o prawach autorskich"
+
+#: functions/class-utils-settings-map.php:1671
+msgid "Upload your custom logo image"
+msgstr "Dodaj obrazek z logo. "
+
+#: functions/class-utils-settings-map.php:1667
+msgid "Recommended number of columns : 3"
+msgstr "Rekomendowana ilość kolumn: 3"
+
+#: functions/class-utils-settings-map.php:1662
+msgid "Select columns to enable footer widgets"
+msgstr "Wybierz kolumny, aby włączyć widżety stopki"
+
+#: functions/class-utils-settings-map.php:1590
+msgid "Hide both sidebars"
+msgstr "Schowaj paski boczne, główny i dodatkowy"
+
+#: functions/class-utils-settings-map.php:1589
+msgid "Hide secondary sidebar"
+msgstr "Schowaj dodatkowy pasek boczny"
+
+#: functions/class-utils-settings-map.php:1588
+msgid "Hide primary sidebar"
+msgstr "Schowaj główny pasek boczny"
+
+#: functions/class-utils-settings-map.php:1587
+msgid "Display both sidebars"
+msgstr "Jeden lewy pasek boczny, jeden prawy pasek boczny"
+
+#: functions/class-utils-settings-map.php:1582
+msgid "Mobile Sidebar Content"
+msgstr "Szerokość paska bocznego - mobilne"
+
+#: functions/class-utils-settings-map.php:1530
+msgid "Display boxes at the top of the sidebars"
+msgstr "Wyświetl ramkę na górze paska bocznego"
+
+#: functions/class-utils-settings-map.php:1527
+#: functions/init-plugins-compat.php:442
+msgid "Sidebar Top Boxes"
+msgstr "Szerokość paska bocznego"
+
+#: functions/class-utils-settings-map.php:1502
+msgid "Display comment count on thumbnails"
+msgstr "Wyświetl licznik komentarzy na miniaturkach"
+
+#: functions/class-utils-settings-map.php:1499
+msgid "Thumbnail Comment Count"
+msgstr "Licznik komentarzy minaturek"
+
+#: functions/class-utils-settings-map.php:1494
+msgid "Display featured image placeholders if no featured image is set"
+msgstr "Wyświetl zastępczy obraz miniaturek w przypadku braku wyróżnionego obrazu."
+
+#: functions/class-utils-settings-map.php:1491
+msgid "Thumbnail Placeholder"
+msgstr "Obraz zastępczy miniaturek"
+
+#: functions/class-utils-settings-map.php:1417
+msgid "Display links to the next and previous article"
+msgstr "Wyświetl linki do następnego i poprzedniego artykułu"
+
+#: functions/class-utils-settings-map.php:1415
+msgid "Below content"
+msgstr "Treść poniżej"
+
+#: functions/class-utils-settings-map.php:1400
+msgid "Display randomized related articles below the post"
+msgstr "Wyświetl losowe powiązane artykuły poniżej postu"
+
+#: functions/class-utils-settings-map.php:1398
+msgid "Related by tags"
+msgstr "Tagi:"
+
+#: functions/class-utils-settings-map.php:1397
+msgid "Related by categories"
+msgstr "Relacja po kategoriach"
+
+#: functions/class-utils-settings-map.php:1396
+#: functions/class-utils-settings-map.php:1412
+#: functions/class-utils-settings-map.php:2101
+msgid "Disable"
+msgstr "Wyłącz"
+
+#: functions/class-utils-settings-map.php:1391
+msgid "Single - Related Posts"
+msgstr "Komentarze w postach"
+
+#: functions/class-utils-settings-map.php:1365
+msgid "Display post author description, if it exists"
+msgstr "Wyświetlanie postu opis autora, jeśli istnieje"
+
+#: functions/class-utils-settings-map.php:1361
+msgid "Single - Author Bio"
+msgstr "Autor  biografia"
+
+#: functions/class-utils-settings-map.php:1315
+msgid "If this box is checked, your featured posts will be displayed both in the featured slider and in the post list below. Usually not recommended because a given post might appear two times on the same page."
+msgstr "Jeśli ta opcja jest zaznaczona, twoje wyróżniające się posty będą wyświetlane zarówno na suwaku i na liście postu poniżej. Zwykle nie jest to zalecane, ponieważ dany wpis może pojawić się dwa razy na tej samej stronie."
+
+#: functions/class-utils-settings-map.php:1312
+msgid "Display the featured posts also in the list of posts"
+msgstr "Wyświetlanie polecanych postów również w liście postów"
+
+#: functions/class-utils-settings-map.php:1301
+msgid "Speed of the automatic slideshow animation"
+msgstr "Prędkość wyświetlania wyróżnionych postów"
+
+#: functions/class-utils-settings-map.php:1295
+msgid "Featured Slideshow Speed"
+msgstr "Prędkość wyświetlania wyróżnionych postów"
+
+#: functions/class-utils-settings-map.php:1283
+msgid "Enables the automatic animation of the featured posts carousel."
+msgstr "Rekomendowane kategorie karuzeli"
+
+#: functions/class-utils-settings-map.php:1280
+msgid "Animate your featured posts with a slideshow"
+msgstr "Animuj wyróżnione posty z pokazem slide"
+
+#: functions/class-utils-settings-map.php:1255
+msgid "Max number of featured posts to display. <br /><i>Set to 1 and it will show it without any slider script</i><br /><i>Set it to 0 to disable</i>"
+msgstr "Maksymalna liczba rekomendowanych postów do wyświetlenia.<br><i>Ustaw na 1 i wyświetli posty bez suwaka</i><br><i>Ustaw na 0, aby wyłączyć</i>"
+
+#: functions/class-utils-settings-map.php:1249
+msgid "Featured Post Count"
+msgstr "Wyróżnione posty"
+
+#: functions/class-utils-settings-map.php:1222
+msgid "Check this box to display a selection of posts with a slideshow, on top of your blog."
+msgstr "Zaznacz to pole, aby wyświetlić wybór posty z pokazem slajdów, na górze bloga."
+
+#: functions/class-utils-settings-map.php:1219
+msgid "Feature posts on top of your blog"
+msgstr "Wyróżnione posty na górze blogu"
+
+#: functions/class-utils-settings-map.php:1217
+msgid "Featured posts"
+msgstr "Wyróżnione wpisy"
+
+#: functions/class-utils-settings-map.php:1134
+msgid "While the default blog design is a grid of posts, you can check this option and display one post per row, whith the thumbnail beside the text."
+msgstr "Podczas gdy domyślny blog projektu jest siatką postów, można zaznaczyć tę opcję i wyświetlić jeden post na wiersz, razem z miniaturką obok tekstu."
+
+#: functions/class-utils-settings-map.php:1131
+msgid "Display your blog posts as a standard list."
+msgstr "Wyświetl posty bloga jako listę standardową."
+
+#: functions/class-utils-settings-map.php:1189
+msgid "Excerpt Length"
+msgstr "Długość zajawki"
+
+#: functions/class-utils-settings-map.php:1094
+msgid "Blog Sub-Heading"
+msgstr "Podnagłówek bloga"
+
+#: functions/class-utils-settings-map.php:1092 functions/init-front.php:666
+msgid "Blog"
+msgstr "Blog"
+
+#: functions/class-utils-settings-map.php:1065
+#: functions/class-utils-settings-map.php:1079
+msgid "Blog Heading"
+msgstr "Nagłówek bloga"
+
+#: functions/class-utils-settings-map.php:1066
+msgid "Display a custom heading for your blog."
+msgstr "Wyświetl własny nagłówek dla twojego bloga."
+
+#: functions/class-utils-settings-map.php:1051
+msgid "[ <strong>is_page</strong> ] Default page layout - If a page has a set layout, it will override this."
+msgstr "[ <strong>is_page</strong> ] Domyślny układ strony - Strona zawiera ustawienie układ, zastąpi on to."
+
+#: functions/class-utils-settings-map.php:1047
+msgid "Default Page"
+msgstr "Strona domyślna"
+
+#: functions/class-utils-settings-map.php:1042
+msgid "[ <strong>is_404</strong> ] Error 404 page layout"
+msgstr "[ <strong>is_404</strong> ] Układ strony błędu 404"
+
+#: functions/class-utils-settings-map.php:1038
+msgid "Error 404"
+msgstr "Błąd 404"
+
+#: functions/class-utils-settings-map.php:1033
+msgid "[ <strong>is_search</strong> ] Search page layout"
+msgstr "<strong>[Is_search]</strong> Układ strony Szukaj"
+
+#: functions/class-utils-settings-map.php:1029
+msgid "Search"
+msgstr "Szukaj"
+
+#: functions/class-utils-settings-map.php:1024
+msgid "[ <strong>is_category</strong> ] Category archive layout"
+msgstr "<strong>[Is_category]</strong> Układ archiwum Kategoria"
+
+#: functions/class-utils-settings-map.php:1020
+msgid "Archive - Category"
+msgstr "Archiwum - Kategoria"
+
+#: functions/class-utils-settings-map.php:1015
+msgid "[ <strong>is_archive</strong> ] Category, date, tag and author archive layout"
+msgstr "Archiwum Bloga (kategoria, tag, autor, data archiwizacji)"
+
+#: functions/class-utils-settings-map.php:1011
+msgid "Archive"
+msgstr "Archiwum"
+
+#: functions/class-utils-settings-map.php:1002
+msgid "[ <strong>is_single</strong> ] Single post layout - If a post has a set layout, it will override this."
+msgstr "Wybierz Panel boczny na pojedynczych stronach. Jeśli strona zawiera niestandardowy pasek boczny spowoduje zastąpienie tego."
+
+#: functions/class-utils-settings-map.php:998
+msgid "Single"
+msgstr "Pojedyncze"
+
+#: functions/class-utils-settings-map.php:989
+msgid "[ <strong>is_home</strong> ] Posts homepage layout"
+msgstr "[ <strong>is_home</strong> ] Układ strony głównej postów"
+
+#: functions/class-utils-settings-map.php:985 functions/init-front.php:1787
+#: functions/init-sidebars-widgets.php:132
+msgid "Home"
+msgstr "Strona główna"
+
+#: functions/class-utils-settings-map.php:972
+msgid "Other layouts will override this option if they are set"
+msgstr "Inne układy będą zastępować tę opcję, jeśli są ustawione"
+
+#: functions/class-utils-settings-map.php:968
+msgid "Global Layout"
+msgstr "Układ ogólny"
+
+#: functions/class-utils-settings-map.php:766
+msgid "Header widget area, perfect to insert advertisements. Note : this feature is not available when a header image is being displayed."
+msgstr "Obszar nagłówka widżet, idealne do wstawienia reklam. Uwaga: Ta funkcja nie jest dostępna, gdy wyświetlany jest obraz nagłówka."
+
+#: functions/class-utils-settings-map.php:763
+msgid "Display a widget in your header"
+msgstr "Wyświetlić widżet w nagłówku"
+
+#: functions/class-utils-settings-map.php:704
+msgid "Upload a header image (supported formats : .jpg, .png, .gif, svg, svgz). This will disable header title/logo, site description, header ads widget"
+msgstr "Prześlij obraz nagłówka (obsługiwane formaty: jpg, PNG, GIF, svg, svgz). Spowoduje to wyłączenie  Tytułu nagłówka/logo, opis witryny, reklamę nagłówka widżet"
+
+#: functions/class-utils-settings-map.php:1903
+msgid "Header Image"
+msgstr "Obrazek nagłówka"
+
+#: functions/class-utils-settings-map.php:624
+msgid "The description that appears next to your logo"
+msgstr "Opis, który pojawia się obok logo"
+
+#: functions/class-utils-settings-map.php:621
+msgid "Display your site's description (tagline)"
+msgstr "Wyświetlacz opis strony jako tagline poniżej logo."
+
+#: functions/class-utils-settings-map.php:224
+msgid "Header Logo Image Max-height"
+msgstr "Wysokość loga nagłówka"
+
+#: functions/class-utils-settings-map.php:217
+#: functions/class-utils-settings-map.php:1683
+#: functions/czr/class-czr-init.php:111
+msgid "Upload your custom logo image. Supported formats : .jpg, .png, .gif, svg, svgz"
+msgstr "Dodaj obrazek z logo. Obsługiwane formaty: PNG, GIF, JPEG, JPG."
+
+#: functions/czr/class-czr-init.php:100
+msgid "Custom Header Logo"
+msgstr "Nagłówek użytkownika"
+
+#: functions/class-utils-settings-map.php:421
+#: functions/init-after-setup-theme.php:173
+msgid "Create and organize your social links"
+msgstr "Utwórz i organizuj twoje społecznościowe linki"
+
+#: functions/class-utils-settings-map.php:488
+msgid "Hueman is a mobile friendly WordPress theme out of the box. This means that it will adapt and render nicely on any devices : desktops, laptops, tablets, smartphones. <br/>If you uncheck this box, this adaptive (or reponsive) behaviour will not be working anymore. In most of the cases, you won't need to disable this option, and it is not recommended."
+msgstr "Hueman to motyw WordPress przyjazny urządzeniom mobilnym od razu po instalacji. Oznacza to, że będzie się dostosowywać i ładnie renderować na urządzeniach różnych: komputerach stacjonarnych, laptopach, tabletach, smartfonach.<br>Jeśli odznaczysz to pole, w tym adaptacyjne zachowania nie będą działać. W większości przypadków nie należy wyłączać tej opcji i nie jest to zalecane."
+
+#: functions/class-utils-settings-map.php:485
+msgid "Enable the Mobile Friendly (or Responsive) layout"
+msgstr "Włącz układ dla urządzeń mobilnych"
+
+#: functions/class-utils-settings-map.php:452
+msgid "Comments on pages"
+msgstr "Komentarze na stronach"
+
+#: functions/class-utils-settings-map.php:449
+msgid "Pages Comments"
+msgstr "Komentarze Stron"
+
+#: functions/class-utils-settings-map.php:443
+msgid "Comments on posts"
+msgstr "Komentarze w postach"
+
+#: functions/class-utils-settings-map.php:440
+msgid "Posts Comments"
+msgstr "Komentarze postów"
+
+#: functions/class-utils-settings-map.php:350
+#: functions/init-after-setup-theme.php:213
+msgid "Set the website background color"
+msgstr "Ustaw kolor tła dla swojej strony"
+
+#: functions/class-utils-settings-map.php:349
+msgid "Body Background"
+msgstr "Kolor tła"
+
+#: functions/class-utils-settings-map.php:370
+msgid "Give your thumbnails and layout images rounded corners"
+msgstr "Ustaw zaokrąglenia dla swoich miniaturek zdjęć"
+
+#: functions/class-utils-settings-map.php:364
+msgid "Image Border Radius"
+msgstr "Promień ramki zdjęcia"
+
+#: functions/class-utils-settings-map.php:666
+msgid "Header Menu Background"
+msgstr "Tło menu nagłówka"
+
+#: functions/class-utils-settings-map.php:656
+msgid "Header Background"
+msgstr "Tło nagłówka"
+
+#: functions/class-utils-settings-map.php:646
+msgid "Topbar Background"
+msgstr "Kolor tła górnego paska"
+
+#: functions/class-utils-settings-map.php:335
+msgid "Secondary Color"
+msgstr "Kolor drugorzędny"
+
+#: functions/class-utils-settings-map.php:325
+msgid "Primary Color"
+msgstr "Kolor wiodący"
+
+#: functions/class-utils-settings-map.php:316
+msgid "Change left and right sidebars padding"
+msgstr "Jeden lewy pasek boczny, jeden prawy pasek boczny"
+
+#: functions/class-utils-settings-map.php:314
+msgid "20px padding for widgets"
+msgstr "20px dopełnienie dla widżetów"
+
+#: functions/class-utils-settings-map.php:313
+msgid "30px padding for widgets"
+msgstr "30px dopełnienie dla widżetów"
+
+#: functions/class-utils-settings-map.php:309
+msgid "Sidebar Width"
+msgstr "Szerokość panelu bocznego"
+
+#: functions/class-utils-settings-map.php:296
+msgid "Max-width of the container. If you use 2 sidebars, your container should be at least 1200px.<br /><i>Note: For 720px content (default) use <strong>1380px</strong> for 2 sidebars and <strong>1120px</strong> for 1 sidebar. If you use a combination of both, try something inbetween.</i>"
+msgstr "Maksymalna szerokość strony. Jeśli używasz 2 paski boczne, szerokość powinna być co najmniej 1200px.<br><i>Uwaga: Dla zawartości 720px (domyślnie) Użyj <strong>1380px</strong> 2 paski boczne i <strong>1120px</strong> 1 pasek boczny. Jeśli używasz kombinacji obu, spróbuj coś pomiędzy nimi.</i>"
+
+#: functions/class-utils-settings-map.php:290
+msgid "Website Max-width"
+msgstr "Szerokość max (%):"
+
+#: functions/class-utils-settings-map.php:272
+msgid "Select a font for your website"
+msgstr "Wybierz czcionkę dla Twojej strony internetowej"
+
+#: functions/class-utils-settings-map.php:267
+msgid "Font"
+msgstr "Czcionka"
+
+#: functions/class-utils-settings-map.php:304
+msgid "Use a boxed layout"
+msgstr "Użyj układu opakowanego"
+
+#: functions/class-utils-settings-map.php:301
+msgid "Boxed Layout"
+msgstr "Układ pudełkowy"
+
+#: functions/class-utils-settings-map.php:166
+msgid "FAVICON"
+msgstr "Ikonka witryny"
+
+#: functions/class-utils-settings-map.php:165
+msgid "Favicon Upload (supported formats : .ico, .png, .gif)"
+msgstr "Prześlij ikonkę witryny (wspierane formaty : .ico, .png, .gif)"
+
+#: functions/czr-modules/social-links/social_links_module.php:135
+msgid "Check this option to open the link in a another tab of the browser."
+msgstr "Zaznacz tę opcję, aby otworzyć link w innej karcie przeglądarki."
+
+#: functions/czr-modules/social-links/social_links_module.php:134
+msgid "Link target"
+msgstr "Miejsce otwarcia odnośnika"
+
+#: functions/czr-modules/social-links/social_links_module.php:129
+msgid "Set a unique color for your icon."
+msgstr "Ustaw unikalny kolor ikony"
+
+#: functions/czr-modules/social-links/social_links_module.php:128
+msgid "Icon color"
+msgstr "Kolor ikony"
+
+#: functions/czr-modules/social-links/social_links_module.php:124
+msgid "This is the text displayed on mouse over."
+msgstr "To jest tekst wyświetlany po najechaniu myszką."
+
+#: functions/czr-modules/social-links/social_links_module.php:117
+msgid "Social link"
+msgstr "Link społecznościowy"
+
+#: functions/czr-modules/social-links/social_links_module.php:113
+msgid "Social icon"
+msgstr "Ikona społecznościowa"
+
+#: functions/czr-modules/widget-zones/widget_zones_module.php:260
+msgid "Pick the context(s) where this widget area will be displayed."
+msgstr "Wybierz konteksty jeden lub więcej, gdzie będą wyświetlane obszary tego widżetu."
+
+#: functions/czr-modules/widget-zones/widget_zones_module.php:208
+#: functions/czr-modules/widget-zones/widget_zones_module.php:249
+msgid "Personalizing the name of the widget zone will help you identify it."
+msgstr "Nadanie nazwy strefy widżet pomoże Ci ją zidentyfikować."
+
+#: functions/czr-modules/widget-zones/widget_zones_module.php:247
+msgid "Enter a name"
+msgstr "Wpisz imię"
+
+#: functions/czr-modules/widget-zones/widget_zones_module.php:87
+#: functions/czr-modules/widget-zones/widget_zones_module.php:259
+#: functions/czr/czr-resources.php:167
+msgid "Context(s)"
+msgstr "treść"
+
+#: functions/czr-modules/widget-zones/widget_zones_module.php:212
+#: functions/czr-modules/widget-zones/widget_zones_module.php:253
+msgid "Select the pre-defined location(s) in which you will embed this widget zone."
+msgstr "Wybierz wstępnie określoną lokalizację jedną lub więcej, w których można umieścić tę strefę widżet."
+
+#: functions/czr-modules/widget-zones/widget_zones_module.php:86
+#: functions/czr-modules/widget-zones/widget_zones_module.php:211
+#: functions/czr-modules/widget-zones/widget_zones_module.php:252
+#: functions/czr/czr-resources.php:166
+msgid "Location(s)"
+msgstr "Lokalizacja"
+
+#: functions/czr-modules/widget-zones/widget_zones_module.php:242
+msgid "unique id"
+msgstr "unikalny identyfikator"
+
+#: functions/czr-modules/widget-zones/widget_zones_module.php:240
+msgid "id"
+msgstr "identyfikator"
+
+#: functions/czr-base-fmk/czr-base-fmk.php:575
+msgid "Are you sure you want to remove : <strong>{{ data.title }} ?</strong>"
+msgstr "Jesteś pewny, że chcesz usunąć : <strong>{{ data.title }} ?</strong>"
+
+#: functions/czr-base-fmk/czr-base-fmk.php:280
+#: functions/czr-base-fmk/czr-base-fmk.php:567
+#: functions/czr/controls/class-upload-control.php:68
+msgid "Remove"
+msgstr "Usuń"
+
+#: functions/czr-modules/body-background/body_bg_module.php:115
+msgid "Background Image"
+msgstr "Obrazek tła"
+
+#: functions/czr-modules/body-background/body_bg_module.php:131
+msgid "Background size"
+msgstr "Rozmiar tła"
+
+#: functions/czr-modules/body-background/body_bg_module.php:127
+msgid "Background position"
+msgstr "Pozycja tła"
+
+#: functions/czr-modules/body-background/body_bg_module.php:123
+msgid "Background attachment"
+msgstr "Położenie tła"
+
+#: functions/czr-modules/body-background/body_bg_module.php:119
+msgid "Repeat"
+msgstr "Powtarzaj"
+
+#: functions/czr-modules/body-background/body_bg_module.php:109
+msgid "Color"
+msgstr "Kolor"
+
+#: functions/czr/sections/class-widgets-section.php:36
+msgid "Press return or enter to open this section"
+msgstr "Wciśnij klawisz enter i otwórz sekcję"
+
+#: functions/admin/class-admin-update-notification.php:113
+msgid "close"
+msgstr "zamknij"
+
+#: functions/admin/class-admin-page.php:67
+msgid "Read the latest release notes"
+msgstr "Przeczytaj najnowsze informacje o wydaniu"
+
+#: functions/admin/class-admin-page.php:95
+msgid "To copy the system infos, click below then press Ctrl + C (PC) or Cmd + C (Mac)."
+msgstr "Aby skopiować dane systemowe, kliknij poniżej i naciśnij Ctrl + C (PC) lub Cmd + C (Mac)."
+
+#: functions/admin/class-admin-page.php:94
+msgid "Please include the following information when posting support requests"
+msgstr "Prosimy o uwzględnienie poniższych informacji przy zamieszczaniu próśb o pomoc techniczną"
+
+#: functions/admin/class-admin-page.php:93
+msgid "System Information"
+msgstr "Informacje systemowe"
+
+#: functions/admin/class-admin-page.php:229
+msgid "About Hueman"
+msgstr "O Hueman"
+
+#: functions/czr/czr-resources.php:165
+msgid "Your favicon is currently handled with an old method and will not be properly displayed on all devices. You might consider to re-upload your favicon with the new control below."
+msgstr "Twoja ikona witryny jest obecnie obsługiwana starą metodą i nie będzie wyświetlana poprawnie na wszystkich urządzeniach. Lepiej rozważyć ponownie przesłanie swojej ikony z nowym sterowaniem poniżej."
+
+#: functions/czr/class-czr-init.php:528
+msgid "Dynamic Sidebars and Widgets"
+msgstr "Dynamiczne paski boczne i widżety"
+
+#: functions/czr/class-czr-init.php:507
+msgid "Create and manage widget zones"
+msgstr "Utwórz i ogarnij obszar widżetów"
+
+#: functions/czr/class-czr-init.php:496
+msgid "Create And Manage Widget Areas"
+msgstr "Utwórz i ogarnij obszar widżetów"
+
+#: functions/czr/class-czr-init.php:469 functions/czr/class-czr-init.php:500
+#: functions/init-after-setup-theme.php:254
+msgid "You must save changes for the new areas to appear below. <br /><i>Warning: Make sure each area has a unique ID.</i>"
+msgstr "Musisz zapisać zmiany w nowych miejscach poniżej. <br /><i>Uwaga: Upewnij się że każdy obszar ma unikalny identyfikator.</i>"
+
+#: functions/czr/class-czr-init.php:465
+#: functions/init-after-setup-theme.php:252
+msgid "Create And Order Widget Areas"
+msgstr "Utwórz i uporządkuj obszar widżetów"
+
+#: functions/czr/class-czr-init.php:408
+msgid "SITE ICON"
+msgstr "Ikona witryny"
+
+#: parts/single-author-date.php:30
+msgid "Updated"
+msgstr "Zaktualizowano"
+
+#: functions/admin/class-admin-update-notification.php:103
+msgid "version"
+msgstr "wersja"
+
+#. Template Name of the theme
+msgid "Child Menu"
+msgstr "Menu nadrzędne"
+
+#: tmpl/single-tmpl.php:61
+msgid "Tags:"
+msgstr "Tagi:"
+
+#: page-templates/child-menu.php:28 tmpl/page-tmpl.php:15
+#: tmpl/single-tmpl.php:43
+msgid "Pages:"
+msgstr "Strony:"
+
+#: parts/post-list-author-date.php:12 parts/post-list-author-date.php:14
+#: parts/post-list-author-date.php:20 parts/single-author-date.php:14
+msgid "by"
+msgstr "przez"
+
+#: functions/class-utils-settings-map.php:1535
+msgid "Follow:"
+msgstr "Obserwuj:"
+
+#: functions/class-utils-settings-map.php:1545
+msgid "More"
+msgstr "Więcej"
+
+#: sidebar-2.php:3 sidebar.php:6
+msgid "Expand Sidebar"
+msgstr "Rozwiń panel boczny"
+
+#: tmpl/search-tmpl.php:4
+msgid "Please try another search:"
+msgstr "Wyszukaj ponownie"
+
+#: tmpl/search-tmpl.php:2
+msgid "For the term"
+msgstr "Do określenia"
+
+#: option-tree/includes/ot-functions-option-types.php:2348
+#: option-tree/includes/ot-functions-option-types.php:2411
+msgid "No Taxonomies Found"
+msgstr "Nie znaleziono taksonomii"
+
+#: option-tree/includes/ot-functions-option-types.php:2233
+#: option-tree/includes/ot-functions-option-types.php:2284
+msgid "No Tags Found"
+msgstr "Nie znaleziono znaczników"
+
+#: option-tree/includes/ot-functions-option-types.php:2150
+msgid "left"
+msgstr "do lewej"
+
+#: option-tree/includes/ot-functions-option-types.php:2142
+msgid "bottom"
+msgstr "na dole"
+
+#: option-tree/includes/ot-functions-option-types.php:2134
+msgid "right"
+msgstr "do prawej"
+
+#: option-tree/includes/ot-functions-option-types.php:2126
+msgid "top"
+msgstr "na górze"
+
+#: functions/class-utils-settings-map.php:2142
+#: option-tree/includes/ot-functions-option-types.php:2067
+msgid "No Sidebars"
+msgstr "Brak paneli bocznych"
+
+#: functions/class-utils-settings-map.php:2147
+#: option-tree/includes/ot-functions-option-types.php:2062
+msgid "Choose Sidebar"
+msgstr "Wybierz panel boczny"
+
+#: option-tree/includes/ot-functions-option-types.php:1647
+#: option-tree/includes/ot-functions-option-types.php:1711
+msgid "No Pages Found"
+msgstr "Nie znaleziono strony"
+
+#: option-tree/includes/ot-functions-option-types.php:1559
+msgid "Off"
+msgstr "Wyłączono"
+
+#: option-tree/includes/ot-functions-option-types.php:1537
+msgid "On"
+msgstr "o"
+
+#: functions/czr-base-fmk/czr-base-fmk.php:549
+msgid "Add New"
+msgstr "Dodaj"
+
+#: option-tree/includes/ot-functions-option-types.php:1346
+msgctxt "color picker"
+msgid "Focus"
+msgstr "Skupienie"
+
+#: option-tree/includes/ot-functions-option-types.php:1345
+msgctxt "color picker"
+msgid "Visited"
+msgstr "Przejdź na"
+
+#: option-tree/includes/ot-functions-option-types.php:1344
+msgctxt "color picker"
+msgid "Active"
+msgstr "Aktywny"
+
+#: option-tree/includes/ot-functions-option-types.php:1343
+msgctxt "color picker"
+msgid "Hover"
+msgstr "Najechanie"
+
+#: option-tree/includes/ot-functions-option-types.php:1342
+msgctxt "color picker"
+msgid "Standard"
+msgstr "Standardowy"
+
+#: option-tree/includes/ot-functions-option-types.php:1260
+msgid "Add Google Font"
+msgstr "Dodaj krój pisma Google"
+
+#: option-tree/includes/ot-functions-option-types.php:1193
+#: option-tree/includes/ot-functions-option-types.php:1235
+msgid "Remove Google Font"
+msgstr "Usuń krój pisma Google"
+
+#: option-tree/includes/ot-functions-option-types.php:1022
+msgid "height"
+msgstr "wysokość"
+
+#: option-tree/includes/ot-functions-option-types.php:785
+#: option-tree/includes/ot-functions-option-types.php:852
+#: option-tree/includes/ot-functions-option-types.php:1776
+#: option-tree/includes/ot-functions-option-types.php:1840
+msgid "No Posts Found"
+msgstr "Nie znaleziono wpisów"
+
+#: option-tree/includes/ot-functions-option-types.php:560
+#: option-tree/includes/ot-functions-option-types.php:846
+#: option-tree/includes/ot-functions-option-types.php:1705
+#: option-tree/includes/ot-functions-option-types.php:1834
+#: option-tree/includes/ot-functions-option-types.php:2279
+#: option-tree/includes/ot-functions-option-types.php:2406
+msgid "Choose One"
+msgstr "Wybierz jeden"
+
+#: option-tree/includes/ot-functions-option-types.php:514
+#: option-tree/includes/ot-functions-option-types.php:565
+msgid "No Categories Found"
+msgstr "Nie znaleziono kategorii"
+
+#: option-tree/includes/ot-functions-option-types.php:450
+msgid "spread-radius"
+msgstr "promień-rozszerzenia"
+
+#: option-tree/includes/ot-functions-option-types.php:442
+msgid "blur-radius"
+msgstr "promień-rozmycia"
+
+#: option-tree/includes/ot-functions-option-types.php:434
+msgid "offset-y"
+msgstr "przesunięcie-y"
+
+#: option-tree/includes/ot-functions-option-types.php:426
+msgid "offset-x"
+msgstr "przesunięcie-x"
+
+#: option-tree/includes/ot-functions-option-types.php:338
+msgid "style"
+msgstr "styl"
+
+#: option-tree/includes/ot-functions-option-types.php:320
+#: option-tree/includes/ot-functions-option-types.php:1032
+#: option-tree/includes/ot-functions-option-types.php:1422
+#: option-tree/includes/ot-functions-option-types.php:2160
+msgid "unit"
+msgstr "jednostka"
+
+#: option-tree/includes/ot-functions-option-types.php:310
+#: option-tree/includes/ot-functions-option-types.php:1015
+msgid "width"
+msgstr "szerokość"
+
+#: option-tree/includes/ot-functions-option-types.php:234
+#: option-tree/includes/ot-functions-option-types.php:2828
+msgid "Add Media"
+msgstr "Dodaj medium"
+
+#: option-tree/includes/ot-functions-option-types.php:231
+msgid "background-image"
+msgstr "obrazek-tła"
+
+#: option-tree/includes/ot-functions-option-types.php:219
+msgid "background-size"
+msgstr "rozmiar-tła"
+
+#: option-tree/includes/ot-functions-option-types.php:170
+msgid "background-position"
+msgstr "pozycja-tła"
+
+#: option-tree/includes/ot-functions-option-types.php:153
+msgid "background-attachment"
+msgstr "załącznik-tła"
+
+#: option-tree/includes/ot-functions-option-types.php:137
+msgid "background-repeat"
+msgstr "powtarzanie-tła"
+
+#: option-tree/includes/ot-functions-option-types.php:52
+msgid "Sorry, this function does not exist"
+msgstr "Przepraszamy, ta funkcja nie istnieje"
+
+#: functions/czr-base-fmk/czr-base-fmk.php:211
+#: functions/czr-base-fmk/czr-base-fmk.php:281
+#: functions/czr/controls/class-color-alpha-control.php:26
+msgid "Default"
+msgstr "Domyślne"
+
+#: functions/czr-modules/social-links/social_links_module.php:128
+msgid "default:"
+msgstr "domyślnie:"
+
+#: option-tree/includes/ot-functions-admin.php:2926
+msgid "Operator"
+msgstr "Operator"
+
+#. translators: %1$s: Condition emphasized, %2$s: example value, %3$s: list of
+#. valid conditions
+#: option-tree/includes/ot-functions-admin.php:2795
+msgid "%1$s: Add a comma separated list (no spaces) of conditions in which the field will be visible, leave this setting empty to always show the field. In these examples, %2$s is a placeholder for your condition, which can be in the form of %3$s."
+msgstr "%1$s: Dodaj rozdzieloną przecinkami listę (bez spacji) warunków, w których pole będzie widoczne, pozostaw to ustawienie puste, aby zawsze wyświetlać pole. W tych przykładach %2$s jest symbolem zastępczym dla Twojego warunku, który może mieć formę %3$s."
+
+#: option-tree/includes/ot-functions-admin.php:2918
+msgid "Condition"
+msgstr "Stan"
+
+#. translators: %s: CSS Class emphasized
+#: option-tree/includes/ot-functions-admin.php:2792
+msgid "%s: Add and optional class to this option type."
+msgstr "%s: Dodaj opcjonalną klasę do tego typu opcji."
+
+#: option-tree/includes/ot-functions-admin.php:2910
+msgid "CSS Class"
+msgstr "Klasa CSS"
+
+#: option-tree/includes/ot-functions-admin.php:2902
+msgid "Min, Max, & Step"
+msgstr "Min, Max i Krok"
+
+#. translators: %s: Taxonomy emphasized
+#: option-tree/includes/ot-functions-admin.php:2786
+msgid "%s: Add a comma separated list of any registered taxonomy like 'category,post_tag'. This will only affect the following option types: Taxonomy Checkbox, & Taxonomy Select."
+msgstr "%s: Dodaj rozdzieloną przecinkami listę dowolnej zarejestrowanej taksonomii, takiej jak 'category,post_tag'. Będzie to miało wpływ tylko na następujące typy opcji: Pole wyboru taksonomii i Wybierz taksonomię."
+
+#: option-tree/includes/ot-functions-admin.php:2894
+msgid "Taxonomy"
+msgstr "Taksonomia"
+
+#: option-tree/includes/ot-functions-admin.php:2886
+msgid "Post Type"
+msgstr "Typ treści"
+
+#. translators: %s: Rows emphasized
+#: option-tree/includes/ot-functions-admin.php:2780
+msgid "%s: Enter a numeric value for the number of rows in your textarea. This will only affect the following option types: CSS, Textarea, & Textarea Simple."
+msgstr "%s: Wprowadź wartość liczbową dla liczby wierszy w swoim polu tekstowym. Będzie to miało wpływ tylko na następujące typy opcji: CSS, Obszar tekstowy i Obszar tekstowy prosty."
+
+#: option-tree/includes/ot-functions-admin.php:2878
+msgid "Rows"
+msgstr "Wiersze"
+
+#: option-tree/includes/ot-functions-admin.php:2870
+msgid "Standard"
+msgstr "Standard"
+
+#: option-tree/includes/ot-functions-admin.php:2848
+msgid "Choices"
+msgstr "Wybory"
+
+#. translators: %s: Description emphasized
+#: option-tree/includes/ot-functions-admin.php:2768
+msgid "%s: Enter a detailed description for the users to read on the Theme Options page, HTML is allowed. This is also where you enter content for both the Textblock & Textblock Titled option types."
+msgstr "%s: Wprowadź szczegółowy opis, który użytkownicy będą mogli przeczytać na stronie Opcje motywu, HTML jest dozwolony. Tutaj również wprowadzasz treść dla obu typów opcji Blok tekstowy i Blok tekstowy zatytułowany."
+
+#: option-tree/includes/ot-functions-admin.php:2822
+#: option-tree/includes/ot-functions-admin.php:3058
+msgid "ID"
+msgstr "Identyfikator"
+
+#. translators: %1$s: link to WorPress Codex, %2$s: audio shortcode
+#: option-tree/includes/ot-functions-admin.php:4035
+msgid "Embed audio from services like SoundCloud and Radio. You can find a list of supported oEmbed sites in the %1$s. Alternatively, you could use the built-in %2$s shortcode."
+msgstr "Osadź dźwięk z serwisów takich jak SoundCloud i Radio. Listę obsługiwanych witryn oEmbed znajdziesz w %1$s. Alternatywnie możesz użyć wbudowanego krótkiego kodu %2$s."
+
+#: option-tree/includes/ot-functions-admin.php:4041
+msgid "Audio"
+msgstr "Plik dźwiękowy"
+
+#: option-tree/includes/ot-functions-admin.php:4000
+#: option-tree/includes/ot-functions-admin.php:4050
+msgid "WordPress Codex"
+msgstr "Kodeks WordPressa"
+
+#. translators: %1$s: link to WorPress Codex, %2$s: video shortcode
+#: option-tree/includes/ot-functions-admin.php:3985
+msgid "Embed video from services like Youtube, Vimeo, or Hulu. You can find a list of supported oEmbed sites in the %1$s. Alternatively, you could use the built-in %2$s shortcode."
+msgstr "Osadź wideo z serwisów takich jak Youtube, Vimeo lub Hulu. Listę obsługiwanych witryn oEmbed znajdziesz w %1$s. Alternatywnie możesz użyć wbudowanego krótkiego kodu %2$s."
+
+#: option-tree/includes/ot-functions-admin.php:3991
+msgid "Video"
+msgstr "Film"
+
+#: option-tree/includes/ot-functions-admin.php:3949
+msgid "Source Date"
+msgstr "Data źródłowa"
+
+#: option-tree/includes/ot-functions-admin.php:3942
+msgid "Source Title (ex. book, song, movie)"
+msgstr "Tytuł źródłowy (np. książka, piosenka, film)"
+
+#: option-tree/includes/ot-functions-admin.php:3935
+msgid "Source URL"
+msgstr "Adres URL źródła"
+
+#: option-tree/includes/ot-functions-admin.php:3928
+msgid "Source Name (ex. author, singer, actor)"
+msgstr "Nazwa źródła (np. autor, piosenkarz, aktor)"
+
+#: option-tree/includes/ot-functions-admin.php:3919
+msgid "Quote"
+msgstr "Cytat"
+
+#: option-tree/includes/ot-functions-admin.php:3881
+msgid "Link Title"
+msgstr "Tytuł odnośnika"
+
+#: option-tree/includes/ot-functions-admin.php:3874
+msgid "Link URL"
+msgstr "Adres URL odnośnika"
+
+#: option-tree/includes/ot-functions-admin.php:3168
+msgid "New Layout"
+msgstr "Nowy układ"
+
+#: functions/czr-modules/social-links/social_links_module.php:123
+#: option-tree/includes/ot-functions-admin.php:3050
+msgid "Title"
+msgstr "Tytuł"
+
+#: option-tree/includes/ot-functions-admin.php:3096
+msgid "Layout"
+msgstr "Układ"
+
+#. translators: %s: Content emphasized
+#: option-tree/includes/ot-functions-admin.php:3034
+msgid "%s: Enter the HTML content about this contextual help item displayed on the Theme Option page for end users to read."
+msgstr "%s: Wprowadź treść HTML dotyczącą tego elementu pomocy kontekstowej wyświetlanego na stronie Opcje motywu, którą będą mogli przeczytać użytkownicy końcowi."
+
+#: option-tree/includes/ot-functions-admin.php:2994
+msgid "Image Source (Radio Image only)"
+msgstr "Źródło obrazka (tylko obrazek radiowy)"
+
+#: option-tree/includes/ot-functions-admin.php:2984
+msgid "Value"
+msgstr "Wartość"
+
+#: option-tree/includes/ot-functions-admin.php:2814
+#: option-tree/includes/ot-functions-admin.php:2974
+msgid "Label"
+msgstr "Etykieta"
+
+#: option-tree/includes/ot-functions-admin.php:2930
+msgid "or"
+msgstr "lub"
+
+#. translators: %s: Post Type emphasized
+#: option-tree/includes/ot-functions-admin.php:2783
+msgid "%s: Add a comma separated list of post type like 'post,page'. This will only affect the following option types: Custom Post Type Checkbox, & Custom Post Type Select."
+msgstr "%s: Dodaj rozdzieloną przecinkami listę rodzajów wpisu, np. 'post,page'. Będzie to miało wpływ tylko na następujące typy opcji: pole wyboru Własny rodzaj wpisu i Wybierz własny rodzaj wpisu."
+
+#: option-tree/includes/ot-functions-admin.php:2864
+msgid "Add Setting"
+msgstr "Dodaj ustawienie"
+
+#: option-tree/includes/ot-functions-admin.php:2853
+msgid "Add Choice"
+msgstr "Dodaj wybór"
+
+#: option-tree/includes/ot-functions-admin.php:2697
+#: option-tree/includes/ot-functions-admin.php:2698
+#: option-tree/includes/ot-functions-admin.php:2807
+#: option-tree/includes/ot-functions-admin.php:2808
+#: option-tree/includes/ot-functions-admin.php:2967
+#: option-tree/includes/ot-functions-admin.php:2968
+#: option-tree/includes/ot-functions-admin.php:3043
+#: option-tree/includes/ot-functions-admin.php:3044
+#: option-tree/includes/ot-functions-admin.php:3101
+#: option-tree/includes/ot-functions-admin.php:3102
+msgid "Delete"
+msgstr "Usuń"
+
+#: functions/czr-base-fmk/czr-base-fmk.php:268
+#: functions/czr-base-fmk/czr-base-fmk.php:567
+#: functions/czr-modules/widget-zones/widget_zones_module.php:227
+#: functions/czr/czr-resources.php:163
+#: option-tree/includes/ot-functions-admin.php:2695
+#: option-tree/includes/ot-functions-admin.php:2804
+#: option-tree/includes/ot-functions-admin.php:2805
+#: option-tree/includes/ot-functions-admin.php:2964
+#: option-tree/includes/ot-functions-admin.php:2965
+#: option-tree/includes/ot-functions-admin.php:3040
+#: option-tree/includes/ot-functions-admin.php:3041
+msgid "Edit"
+msgstr "Edytuj"
+
+#: option-tree/includes/ot-functions-admin.php:2694
+msgid "edit"
+msgstr "edytuj"
+
+#. translators: %s: the http protocol
+#: option-tree/includes/ot-functions-admin.php:2483
+msgid "Enter a link to the profile or page on the social website. Remember to add the %s part to the front of the link."
+msgstr "Wpisz odnośnik do profilu lub strony w serwisie społecznościowym. Pamiętaj, aby dodać część %s na początku odnośnika."
+
+#: option-tree/includes/ot-functions-admin.php:2498
+msgid "Enter the text shown in the title attribute of the link."
+msgstr "Wpisz tekst wyświetlany w atrybucie tytuł odnośnika."
+
+#: option-tree/includes/ot-functions-admin.php:2490
+msgid "Enter the name of the social website."
+msgstr "Wpisz nazwę serwisu społecznościowego."
+
+#: functions/czr-modules/widget-zones/widget_zones_module.php:204
+#: functions/czr-modules/widget-zones/widget_zones_module.php:245
+#: option-tree/includes/ot-functions-admin.php:2489
+msgid "Name"
+msgstr "Nazwa"
+
+#: option-tree/includes/ot-functions-admin.php:2371
+#: option-tree/includes/ot-functions-admin.php:2426
+#: option-tree/includes/ot-functions-admin.php:2840
+msgid "Description"
+msgstr "Opis"
+
+#: option-tree/includes/ot-functions-admin.php:2360
+#: option-tree/includes/ot-functions-admin.php:2420
+#: option-tree/includes/ot-functions-admin.php:3865
+msgid "Link"
+msgstr "Odnośnik"
+
+#: option-tree/includes/ot-functions-admin.php:2314
+msgid "Right Dual Sidebar"
+msgstr "Podwójny panel boczny prawy"
+
+#: option-tree/includes/ot-functions-admin.php:2309
+msgid "Left Dual Sidebar"
+msgstr "Podwójny panel boczny lewy"
+
+#: option-tree/includes/ot-functions-admin.php:2304
+msgid "Dual Sidebar"
+msgstr "Podwójny panel boczny"
+
+#: option-tree/includes/ot-functions-admin.php:2299
+msgid "Full Width (no sidebar)"
+msgstr "Stała szerokość (bez panelu bocznego)"
+
+#: functions/class-utils-settings-map.php:1414
+#: option-tree/includes/ot-functions-admin.php:2294
+msgid "Right Sidebar"
+msgstr "Panel boczny po prawej"
+
+#: functions/class-utils-settings-map.php:1413
+#: option-tree/includes/ot-functions-admin.php:2289
+msgid "Left Sidebar"
+msgstr "Panel boczny po lewej"
+
+#: option-tree/includes/ot-functions-admin.php:1486
+msgid "Tab"
+msgstr "Karta"
+
+#: option-tree/includes/ot-functions-admin.php:1483
+msgid "Slider"
+msgstr "Pokaz slajdów"
+
+#: option-tree/includes/ot-functions-admin.php:1416
+msgid "Layout activated."
+msgstr "Układ włączony."
+
+#: option-tree/includes/ot-functions-admin.php:1411
+msgid "Layouts have been deleted."
+msgstr "Układy zostały usunięte."
+
+#: option-tree/includes/ot-functions-admin.php:1407
+msgid "Layouts could not be updated."
+msgstr "Nie udało się zaktualizować układów."
+
+#: option-tree/includes/ot-functions-admin.php:1403
+msgid "Layouts Updated."
+msgstr "Zaktualizowano układy."
+
+#: option-tree/includes/ot-functions-admin.php:1396
+msgid "Layouts could not be imported."
+msgstr "Nie udało się zaimportować układów."
+
+#: option-tree/includes/ot-functions-admin.php:1392
+msgid "Layouts Imported."
+msgstr "Zaimportowano układy."
+
+#: option-tree/includes/ot-functions-admin.php:1385
+msgid "Data could not be imported."
+msgstr "Nie udało się zaimportować danych."
+
+#: option-tree/includes/ot-functions-admin.php:1381
+msgid "Data Imported."
+msgstr "Dane zaimportowane."
+
+#: option-tree/includes/ot-functions-admin.php:1374
+msgid "Settings could not be imported."
+msgstr "Nie udało się zaimportować ustawień."
+
+#: option-tree/includes/ot-functions-admin.php:1370
+msgid "Settings Imported."
+msgstr "Ustawienia zaimportowane."
+
+#: option-tree/includes/ot-functions-admin.php:1363
+msgid "Settings could not be saved."
+msgstr "Nie udało się zapisać ustawień."
+
+#: option-tree/includes/ot-functions-admin.php:1359
+msgid "Settings updated."
+msgstr "Ustawienia zaktualizowane."
+
+#: option-tree/includes/ot-functions-admin.php:963
+#: option-tree/includes/ot-functions-admin.php:2349
+#: option-tree/includes/ot-functions-admin.php:2414
+msgid "Image"
+msgstr "Obrazek"
+
+#: functions/init-plugins-compat.php:456
+msgid "Featured pages"
+msgstr "Wyróżnione strony"
+
+#: functions/czr-base-fmk/czr-base-fmk.php:269
+#: functions/czr/czr-resources.php:164
+#: option-tree/includes/ot-functions-admin.php:961
+msgid "Close"
+msgstr "Zamknij"
+
+#: option-tree/includes/ot-functions-admin.php:960
+msgid "Now"
+msgstr "Teraz"
+
+#: option-tree/includes/ot-functions-admin.php:959
+msgid "Today"
+msgstr "Dzisiaj"
+
+#: option-tree/includes/ot-functions-admin.php:958
+msgid "Are you sure you want to delete this Gallery?"
+msgstr "Czy na pewno chcesz usunąć tę galerię?"
+
+#: option-tree/includes/ot-functions-admin.php:957
+#: option-tree/includes/ot-functions-option-types.php:1125
+msgid "Create Gallery"
+msgstr "Utwórz galerię"
+
+#: option-tree/includes/ot-functions-admin.php:956
+#: option-tree/includes/ot-functions-option-types.php:1118
+msgid "Edit Gallery"
+msgstr "Edytuj galerię"
+
+#: option-tree/includes/ot-functions-admin.php:955
+#: option-tree/includes/ot-functions-option-types.php:1117
+msgid "Delete Gallery"
+msgstr "Usuń galerię"
+
+#: option-tree/includes/ot-functions-admin.php:954
+msgid "Sorry, you can't have settings three levels deep."
+msgstr "Przepraszamy, nie można mieć ustawień na trzech poziomach głębiej."
+
+#: option-tree/includes/ot-functions-admin.php:953
+msgid "Are you sure you want to activate this layout?"
+msgstr "Czy na pewno chcesz włączyć ten układ?"
+
+#: option-tree/includes/ot-functions-admin.php:952
+msgid "Are you sure you want to remove this?"
+msgstr "Czy na pewno chcesz to usunąć?"
+
+#: option-tree/includes/ot-functions-admin.php:951
+msgid "You can't remove this! But you can edit the values."
+msgstr "Nie możesz tego usunąć! Ale możesz edytować wartości."
+
+#: option-tree/includes/ot-functions-admin.php:950
+msgid "Are you sure you want to reset back to the defaults?"
+msgstr "Czy na pewno chcesz przywrócić ustawienia domyślne?"
+
+#: option-tree/includes/ot-functions-admin.php:949
+#: option-tree/includes/ot-functions-option-types.php:252
+#: option-tree/includes/ot-functions-option-types.php:2846
+msgid "Remove Media"
+msgstr "Usuń media"
+
+#. translators: %1$s: the input id, %2$s: the field id
+#: option-tree/includes/ot-functions-admin.php:466
+msgid "The %1$s input field for %2$s only allows numeric values."
+msgstr "Pole wejściowe %1$s dla %2$s pozwala wyłącznie na wprowadzanie wartości liczbowych."
+
+#: option-tree/includes/ot-functions-admin.php:298
+msgid "What's a layout anyhow?"
+msgstr "Czym w ogóle jest układ?"
+
+#: option-tree/includes/ot-functions-admin.php:292
+msgid "Code examples for front-end development."
+msgstr "Przykłady kodu dla front-end rozwój."
+
+#: option-tree/includes/ot-functions-admin.php:274
+msgid "Function Reference:get_option_tree()"
+msgstr "Odwołanie do funkcji: get_option_tree()"
+
+#: option-tree/includes/ot-functions-admin.php:268
+msgid "Function Reference:ot_get_option()"
+msgstr "Odwołanie do funkcji: ot_get_option()"
+
+#: option-tree/includes/ot-functions-admin.php:262
+msgid "Option types in alphabetical order & hooks to filter them."
+msgstr "Typy opcji w kolejności alfabetycznej i haki do ich filtrowania."
+
+#: option-tree/includes/ot-functions-admin.php:256
+msgid "Overview of available Theme Option fields."
+msgstr "Przegląd dostępnych pól opcji motywu."
+
+#: option-tree/includes/ot-functions-admin.php:250
+msgid "Layouts Overview"
+msgstr "Przegląd układów"
+
+#: option-tree/includes/ot-functions-admin.php:246
+msgid "Code Examples"
+msgstr "Przykłady kodu"
+
+#: option-tree/includes/ot-functions-admin.php:242
+#: option-tree/includes/ot-functions-admin.php:286
+msgid "Meta Boxes"
+msgstr "Meta pola"
+
+#: option-tree/includes/ot-functions-admin.php:238
+#: option-tree/includes/ot-functions-admin.php:280
+msgid "Theme Mode"
+msgstr "Tryb motywu"
+
+#: option-tree/includes/ot-functions-admin.php:234
+msgid "Function References"
+msgstr "Odwołania do funkcji"
+
+#: option-tree/includes/ot-functions-admin.php:226
+msgid "Creating Options"
+msgstr "Tworzenie opcji"
+
+#: option-tree/includes/ot-functions-admin.php:213
+#: option-tree/includes/ot-functions-admin.php:214
+msgid "Documentation"
+msgstr "Dokumentacja"
+
+#: option-tree/includes/ot-functions-admin.php:204
+msgid "Layout Management"
+msgstr "Zarządzanie układem"
+
+#: option-tree/includes/ot-functions-admin.php:180
+msgid "Settings PHP File"
+msgstr "Ustawienia pliku PHP"
+
+#: option-tree/includes/ot-functions-admin.php:156
+msgid "Theme Options UI Builder"
+msgstr "Opcje motywu UI Builder"
+
+#: option-tree/includes/ot-functions-admin.php:150
+#: option-tree/includes/ot-functions-admin.php:174
+#: option-tree/includes/ot-functions-admin.php:198
+msgid "Layouts"
+msgstr "Układy"
+
+#: option-tree/includes/ot-functions-admin.php:146
+msgid "Export"
+msgstr "Eksport"
+
+#: option-tree/includes/ot-functions-admin.php:142
+msgid "Import"
+msgstr "Import"
+
+#: option-tree/includes/ot-functions-admin.php:138
+msgid "Theme Options UI"
+msgstr "Opcje motywu UI"
+
+#: option-tree/includes/ot-functions-admin.php:133
+#: option-tree/includes/ot-functions-admin.php:221
+msgid "Save Settings"
+msgstr "Zapisz ustawienia"
+
+#: functions/czr-base-fmk/czr-base-fmk.php:274
+#: functions/czr/czr-resources.php:186
+#: option-tree/includes/ot-functions-admin.php:125
+#: option-tree/includes/ot-functions-admin.php:126
+#: option-tree/includes/ot-functions-admin.php:162
+#: option-tree/includes/ot-functions-admin.php:186
+#: option-tree/includes/ot-functions-admin.php:2859
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: option-tree/includes/ot-functions-admin.php:114
+#: option-tree/includes/ot-functions-admin.php:115
+msgid "OptionTree"
+msgstr "Drzewo opcji"
+
+#: option-tree/includes/ot-functions-admin.php:104
+msgid "The Theme Options UI Builder is being overridden by a custom file in your theme. Any changes you make via the UI Builder will not be saved."
+msgstr "Opcje motywu UI Builder są zastępowane przez niestandardowy plik w Twoim motywie. Wszelkie zmiany wprowadzone za pomocą UI Builder nie zostaną zapisane."
+
+#: option-tree/includes/ot-functions-admin.php:60
+msgid "Save Changes"
+msgstr "Zapisz zmiany"
+
+#: option-tree/includes/ot-functions-admin.php:59
+#: option-tree/includes/ot-functions-admin.php:132
+#: option-tree/includes/ot-functions-admin.php:220
+msgid "Theme Options reset."
+msgstr "Opcje motywu zostały zresetowane."
+
+#: option-tree/includes/ot-functions-admin.php:58
+#: option-tree/includes/ot-functions-admin.php:131
+#: option-tree/includes/ot-functions-admin.php:219
+msgid "Theme Options updated."
+msgstr "Zaktualizowano opcje motywu."
+
+#: option-tree/includes/ot-functions-admin.php:52
+#: option-tree/includes/ot-functions-admin.php:53
+#: option-tree/includes/ot-functions-admin.php:168
+#: option-tree/includes/ot-functions-admin.php:192
+#: option-tree/includes/ot-functions.php:363
+msgid "Theme Options"
+msgstr "Opcje motywu"
+
+#: option-tree/includes/ot-functions-admin.php:948
+#: option-tree/ot-loader.php:705
+msgid "Send to OptionTree"
+msgstr "Wyślij do drzewa opcji"
+
+#: functions/czr/controls/class-upload-control.php:67
+#: option-tree/includes/ot-functions-admin.php:1497
+msgid "Upload"
+msgstr "Prześlij"
+
+#: option-tree/includes/ot-functions-admin.php:1496
+msgid "Typography"
+msgstr "Typografia"
+
+#: option-tree/includes/ot-functions-admin.php:1495
+msgid "Textblock Titled"
+msgstr "Blok tekstowy zatytułowany"
+
+#: option-tree/includes/ot-functions-admin.php:1494
+msgid "Textblock"
+msgstr "Blok tekstowy"
+
+#: option-tree/includes/ot-functions-admin.php:1493
+msgid "Textarea Simple"
+msgstr "Obszar tekstowy prosty"
+
+#: option-tree/includes/ot-functions-admin.php:1490
+msgid "Taxonomy Select"
+msgstr "Wybierz taksonomię"
+
+#: option-tree/includes/ot-functions-admin.php:1489
+msgid "Taxonomy Checkbox"
+msgstr "Pole wyboru taksonomii"
+
+#: option-tree/includes/ot-functions-admin.php:1488
+msgid "Tag Select"
+msgstr "Wybierz znacznik"
+
+#: option-tree/includes/ot-functions-admin.php:1487
+msgid "Tag Checkbox"
+msgstr "Pole wyboru znacznika"
+
+#: option-tree/includes/ot-functions-admin.php:1485
+msgid "Spacing"
+msgstr "Odstęp"
+
+#: option-tree/includes/ot-functions-admin.php:1484
+msgid "Social Links"
+msgstr "Linki społecznościowe"
+
+#: option-tree/includes/ot-functions-admin.php:1482
+msgid "Sidebar Select"
+msgstr "Wybierz panel boczny"
+
+#: option-tree/includes/ot-functions-option-types.php:1195
+#: option-tree/includes/ot-functions-option-types.php:1237
+msgid "-- Choose One --"
+msgstr "-- Wybierz jedną --"
+
+#: option-tree/includes/ot-functions-admin.php:1481
+msgid "Select"
+msgstr "Wybierz"
+
+#: option-tree/includes/ot-functions-admin.php:1480
+msgid "Radio Image"
+msgstr "Obrazek radiowy"
+
+#: option-tree/includes/ot-functions-admin.php:1479
+msgid "Radio"
+msgstr "Radio"
+
+#: option-tree/includes/ot-functions-admin.php:1478
+msgid "Post Select"
+msgstr "Wybierz wpis"
+
+#: option-tree/includes/ot-functions-admin.php:1477
+msgid "Post Checkbox"
+msgstr "Pole wyboru wpisu"
+
+#: option-tree/includes/ot-functions-admin.php:1476
+msgid "Page Select"
+msgstr "Wybierz stronę"
+
+#: option-tree/includes/ot-functions-admin.php:1475
+msgid "Page Checkbox"
+msgstr "Pole wyboru strony"
+
+#: option-tree/includes/ot-functions-admin.php:1474
+msgid "On/Off"
+msgstr "Włącz/Wyłącz"
+
+#: option-tree/includes/ot-functions-admin.php:1473
+msgid "Numeric Slider"
+msgstr "Pokaz slajdów liczbowy"
+
+#: option-tree/includes/ot-functions-admin.php:1472
+msgid "Measurement"
+msgstr "Pomiar"
+
+#: option-tree/includes/ot-functions-admin.php:3066
+msgid "Content"
+msgstr "Treść"
+
+#: option-tree/includes/ot-functions-admin.php:1471
+msgid "List Item"
+msgstr "Element listy"
+
+#: option-tree/includes/ot-functions-admin.php:1470
+msgid "Link Color"
+msgstr "Kolor odnośnika"
+
+#: option-tree/includes/ot-functions-admin.php:1469
+msgid "JavaScript"
+msgstr "JavaScript"
+
+#: option-tree/includes/ot-functions-admin.php:1468
+msgid "Google Fonts"
+msgstr "Kroje pisma Google"
+
+#: option-tree/includes/ot-functions-admin.php:1466
+msgid "Dimension"
+msgstr "Wymiar"
+
+#: option-tree/includes/ot-functions-admin.php:1465
+msgid "Date Time Picker"
+msgstr "Selektor daty i czasu"
+
+#: option-tree/includes/ot-functions-admin.php:1464
+msgid "Date Picker"
+msgstr "Selektor daty"
+
+#: option-tree/includes/ot-functions-admin.php:1463
+msgid "Custom Post Type Select"
+msgstr "Wybierz własny rodzaj wpisu"
+
+#: option-tree/includes/ot-functions-admin.php:1462
+msgid "Custom Post Type Checkbox"
+msgstr "Pole wyboru własnego rodzaju wpisu"
+
+#: option-tree/includes/ot-functions-admin.php:1461
+msgid "CSS"
+msgstr "CSS"
+
+#: option-tree/includes/ot-functions-admin.php:1460
+msgid "Colorpicker Opacity"
+msgstr "Krycie selektora kolorów"
+
+#: option-tree/includes/ot-functions-admin.php:1459
+msgid "Colorpicker"
+msgstr "Selektora kolorów"
+
+#: functions/czr-base-fmk/czr-base-fmk.php:576
+msgid "Yes"
+msgstr "Tak"
+
+#: functions/czr-base-fmk/czr-base-fmk.php:576
+msgid "No"
+msgstr "Nie"
+
+#: option-tree/includes/ot-functions-admin.php:1458
+msgid "Checkbox"
+msgstr "Pole wyboru"
+
+#: option-tree/includes/ot-functions-admin.php:1457
+msgid "Category Select"
+msgstr "Wybierz kategorię"
+
+#: option-tree/includes/ot-functions-admin.php:1456
+msgid "Category Checkbox"
+msgstr "Pole wyboru kategorii"
+
+#: option-tree/includes/ot-functions-admin.php:1455
+msgid "Box Shadow"
+msgstr "Cień pola"
+
+#: option-tree/includes/ot-functions-admin.php:1454
+msgid "Border"
+msgstr "Obramowanie"
+
+#: functions/czr/czr-resources.php:236
+#: option-tree/includes/ot-functions-admin.php:2929
+msgid "and"
+msgstr "i"
+
+#: option-tree/includes/ot-functions-admin.php:1453
+msgid "Background"
+msgstr "Tło"
+
+#: option-tree/includes/ot-functions-admin.php:230
+msgid "Option Types"
+msgstr "Rodzaje opcji"
+
+#: option-tree/includes/ot-functions-admin.php:1492
+msgid "Textarea"
+msgstr "Obszar tekstowy"
+
+#: option-tree/includes/ot-functions-admin.php:1491
+msgid "Text"
+msgstr "Tekst"
+
+#: option-tree/includes/ot-functions-admin.php:1467
+#: option-tree/includes/ot-functions-admin.php:3817
+msgid "Gallery"
+msgstr "Galeria"
+
+#: parts/related-posts.php:20
+msgid "You may also like..."
+msgstr "Możesz również polubić…"
+
+#: parts/post-nav.php:16
+msgid "Previous story"
+msgstr "Poprzedni post"
+
+#: parts/post-nav.php:12
+msgid "Next story"
+msgstr "Następny post"
+
+#: functions/init-front.php:648
+msgid "Yearly Archive:"
+msgstr "Roczne Archiwum:"
+
+#: functions/init-front.php:638
+msgid "Monthly Archive:"
+msgstr "Miesięczne Archiwum:"
+
+#: functions/init-front.php:628
+msgid "Daily Archive:"
+msgstr "Dzienne archiwum:"
+
+#: functions/init-front.php:609
+msgid "Tagged:"
+msgstr "Otagowano:"
+
+#: functions/init-front.php:600
+msgid "Category:"
+msgstr "Kategoria:"
+
+#: functions/init-front.php:582
+msgid "Author:"
+msgstr "Autor:"
+
+#: functions/init-front.php:567
+msgid "Page not found!"
+msgstr "Nie odnaleziono strony!"
+
+#: functions/init-front.php:566
+msgid "Error 404."
+msgstr "Błąd 404"
+
+#: functions/init-front.php:555
+msgid "Search results"
+msgstr "Wyniki wyszukiwania"
+
+#: functions/init-front.php:553
+msgid "Search result"
+msgstr "Strona wyników wyszukiwania"
+
+#: functions/widgets/alx-tabs.php:252
+msgid "says:"
+msgstr "komentarz:"
+
+#: functions/widgets/alx-tabs.php:69
+msgid "Tags"
+msgstr "Tagi"
+
+#: functions/widgets/alx-tabs.php:68
+msgid "Recent Comments"
+msgstr "Najnowsze komentarze"
+
+#: functions/widgets/alx-tabs.php:67
+msgid "Popular Posts"
+msgstr "Popularne wpisy"
+
+#: functions/widgets/alx-tabs.php:66
+msgid "Recent Posts"
+msgstr "Ostatnie wpisy"
+
+#: option-tree/includes/ot-functions-admin.php:2830
+msgid "Type"
+msgstr "Typ"
+
+#: option-tree/includes/ot-functions-admin.php:3098
+#: option-tree/includes/ot-functions-admin.php:3099
+msgid "Activate"
+msgstr "Włącz"
+
+#: footer.php:121
+msgid "Powered by"
+msgstr "Oparte na"
+
+#: functions/class-utils-settings-map.php:1698
+#: functions/czr/czr-resources.php:38
+msgid "All Rights Reserved."
+msgstr "Wszelkie prawa zastrzeżone"
+
+#: comments.php:11
+msgid "Pingbacks"
+msgstr "Pingbacki"
+
+#: comments.php:10 functions/class-utils-settings-map.php:1954
+msgid "Comments"
+msgstr "Komentarze"
+
+#: comments.php:7
+msgid "% Responses"
+msgstr "% odpowiedzi"
+
+#: comments.php:7
+msgid "1 Response"
+msgstr "1 Odpowiedź"
+
+#: comments.php:7
+msgid "No Responses"
+msgstr "Brak odpowiedzi"
+
+#: tmpl/404-tmpl.php:6
+msgid "The page you are trying to reach does not exist, or has been moved. Please use the menus or the search box to find what you are looking for."
+msgstr "Strona, którą próbujesz wyświetlić, nie istnieje lub została przeniesiona. Proszę skorzystać z menu lub wyszukiwarki, aby znaleźć to, czego szukasz."
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://presscustomizr.com"
+msgstr "http://presscustomizr.com"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "nikeo"
+msgstr "nikeo"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://presscustomizr.com/hueman/"
+msgstr "https://presscustomizr.com/hueman/"

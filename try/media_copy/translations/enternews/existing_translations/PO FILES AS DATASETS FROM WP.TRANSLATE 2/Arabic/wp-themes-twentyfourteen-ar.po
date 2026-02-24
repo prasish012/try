@@ -1,0 +1,636 @@
+# Translation of Themes - Twenty Fourteen in Arabic
+# This file is distributed under the same license as the Themes - Twenty Fourteen package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-09-23 02:38:44+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n == 0) ? 0 : ((n == 1) ? 1 : ((n == 2) ? 2 : ((n % 100 >= 3 && n % 100 <= 10) ? 3 : ((n % 100 >= 11 && n % 100 <= 99) ? 4 : 5))));\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: ar\n"
+"Project-Id-Version: Themes - Twenty Fourteen\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "In 2014, our default theme lets you create a responsive magazine website with a sleek, modern design. Feature your favorite homepage content in either a grid or a slider. Use the three widget areas to customize your website, and change your content's layout with a full-width page template and a contributor page to show off your authors. Creating a magazine website with WordPress has never been easier."
+msgstr "في 2014، قالبنا الافتراضي يمكّنك من إنشاء موقع مجلة بتصميم متجاوب، انسيابي وعصري. اعرض المحتوى المفضل لديك على صفحتك الرئيسية إما بشكل شبكة أو عارض شرائح. استخدم أماكن الودجات الثلاثة لتخصيص موقعك، وغير تخطيط المحتوى بنموذج صفحة العرض الكامل و نموذج صفحة المساهمين لعرض قائمة الكُتاب. إنشاء موقع مجلة باستخدام ووردبريس أصبح أسهل من ذي قبل."
+
+#. Theme Name of the theme
+#: style.css inc/block-patterns.php:20 inc/customizer.php:162
+#, gp-priority: high
+msgid "Twenty Fourteen"
+msgstr "Twenty Fourteen"
+
+#: inc/block-patterns.php:69
+msgid "GET IN TOUCH"
+msgstr ""
+
+#: inc/block-patterns.php:69
+msgid "Don’t hesitate to reach out."
+msgstr ""
+
+#: inc/block-patterns.php:69
+msgid "GOT A QUESTION?"
+msgstr ""
+
+#: inc/block-patterns.php:69
+msgid "Write title…"
+msgstr ""
+
+#: inc/block-patterns.php:66
+msgid "Contact"
+msgstr ""
+
+#: inc/block-patterns.php:58
+msgid "Read More"
+msgstr ""
+
+#: inc/block-patterns.php:58
+msgid "Clouds"
+msgstr ""
+
+#: inc/block-patterns.php:58
+msgid "Photo of a cloudy mountain"
+msgstr ""
+
+#: inc/block-patterns.php:58
+msgid "Streetscape"
+msgstr ""
+
+#: inc/block-patterns.php:58
+msgid "Photo of a streetscape"
+msgstr ""
+
+#: inc/block-patterns.php:58
+msgid "Bridge"
+msgstr ""
+
+#: inc/block-patterns.php:58
+msgid "Photo of a bridge"
+msgstr ""
+
+#: inc/block-patterns.php:58
+msgid "Sunset"
+msgstr ""
+
+#: inc/block-patterns.php:58
+msgid "Photo of a sunset"
+msgstr ""
+
+#: inc/block-patterns.php:58
+msgid "Here are some photos from my all-time favorite destinations."
+msgstr ""
+
+#: inc/block-patterns.php:58
+msgid "Traveling Nostalgia"
+msgstr ""
+
+#: inc/block-patterns.php:55
+msgid "Summary"
+msgstr ""
+
+#: inc/block-patterns.php:47
+msgid "This year was devoted entirely to the western hemisphere. I went on a month-long road trip through the U.S.A. and Canada, and also visited Mexico, Brazil, and Colombia."
+msgstr ""
+
+#: inc/block-patterns.php:47
+msgid "2016"
+msgstr ""
+
+#: inc/block-patterns.php:47
+msgid "In 2012, I expanded my travels to Europe. I spent time in Poland, Germany, Italy, France, and Spain."
+msgstr ""
+
+#: inc/block-patterns.php:47
+msgid "2012"
+msgstr ""
+
+#: inc/block-patterns.php:47
+msgid "My first year of traveling. I visited China, Thailand, Japan, and India."
+msgstr ""
+
+#: inc/block-patterns.php:47
+msgid "2001"
+msgstr ""
+
+#: inc/block-patterns.php:44
+msgid "List"
+msgstr ""
+
+#: inc/block-patterns.php:36
+msgid "I’ve traveled to over 60 countries, and have made many friends along the way. I created this website to keep track of the memories I’ve made in my years of traveling."
+msgstr ""
+
+#: inc/block-patterns.php:36
+msgid "Hello, my name is Joan. I am passionate about writing, travel, and photography."
+msgstr ""
+
+#: inc/block-patterns.php:36
+msgid "A person standing in front of a lake"
+msgstr ""
+
+#: inc/block-patterns.php:33
+msgid "About"
+msgstr ""
+
+#: functions.php:127
+msgid "White"
+msgstr "أبيض"
+
+#: functions.php:122
+msgid "Light Gray"
+msgstr "رمادي فاتح"
+
+#: functions.php:117
+msgid "Medium Gray"
+msgstr "رمادي متوسط"
+
+#: functions.php:112
+msgid "Dark Gray"
+msgstr "رمادي داكن"
+
+#: functions.php:107
+msgid "Black"
+msgstr "أسود"
+
+#: functions.php:102
+msgid "Green"
+msgstr "أخضر"
+
+#. translators: 1: Number of comments, 2: Post title.
+#: comments.php:34
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s تعليق على &ldquo;%2$s&rdquo;"
+msgstr[1] "تعليق واحد (%1$s) على &ldquo;%2$s&rdquo;"
+msgstr[2] "تعليقان (%1$s) على &ldquo;%2$s&rdquo;"
+msgstr[3] "%1$s تعليقات على &ldquo;%2$s&rdquo;"
+msgstr[4] "%1$s تعليقا على &ldquo;%2$s&rdquo;"
+msgstr[5] "%1$s تعليق على &ldquo;%2$s&rdquo;"
+
+#. translators: %s: Post title.
+#: comments.php:30
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "تعليق واحد على  &ldquo;%s&rdquo;"
+
+#. Template Name of the theme
+msgid "Full Width Page"
+msgstr "صفحة بعرض كامل"
+
+#. Template Name of the theme
+msgid "Contributor Page"
+msgstr "صفحة المساهمين"
+
+#. translators: %s: Tag title.
+#: tag.php:25
+msgid "Tag Archives: %s"
+msgstr "أرشيف الوسم: %s"
+
+#. translators: %s: Search query.
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr "نتائج البحث عن: %s"
+
+#: inc/widgets.php:304
+msgid "Post format to show:"
+msgstr "بنية المقالة للعرض:"
+
+#: inc/widgets.php:301
+msgid "Number of posts to show:"
+msgstr "عدد المقالات:"
+
+#: inc/widgets.php:298
+msgid "Title:"
+msgstr "العنوان:"
+
+#. translators: Used with More archives link.
+#: inc/widgets.php:242
+msgid "%s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%s <span class=\"meta-nav\">&larr;</span>"
+
+#. translators: 1: Post permalink, 2: Number of images in the gallery.
+#: inc/widgets.php:197
+msgid "This gallery contains <a href=\"%1$s\" rel=\"bookmark\">%2$s photo</a>."
+msgid_plural "This gallery contains <a href=\"%1$s\" rel=\"bookmark\">%2$s photos</a>."
+msgstr[0] "هذا المعرض يحتوي على <a href=\"%1$s\" rel=\"bookmark\">%2$s صورة</a>"
+msgstr[1] "هذا المعرض يحتوي على <a href=\"%1$s\" rel=\"bookmark\">صورة واحدة</a>"
+msgstr[2] "هذا المعرض يحتوي على <a href=\"%1$s\" rel=\"bookmark\">صورتين</a>"
+msgstr[3] "هذا المعرض يحتوي على <a href=\"%1$s\" rel=\"bookmark\">%2$s صور</a>"
+msgstr[4] "هذا المعرض يحتوي على <a href=\"%1$s\" rel=\"bookmark\">%2$s صورة</a>"
+msgstr[5] "هذا المعرض يحتوي على <a href=\"%1$s\" rel=\"bookmark\">%2$s صورة</a>"
+
+#: inc/widgets.php:157 inc/widgets.php:207
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "أكمل قراءة المقالة <span class=\"meta-nav\">&larr;</span>"
+
+#: inc/widgets.php:107
+msgid "More asides"
+msgstr "ملاحظات أكثر"
+
+#: inc/widgets.php:106 taxonomy-post_format.php:30
+msgid "Asides"
+msgstr "الملاحظات"
+
+#: inc/widgets.php:102
+msgid "More galleries"
+msgstr "المزيد من المعارض"
+
+#: inc/widgets.php:101 taxonomy-post_format.php:48
+msgid "Galleries"
+msgstr "المعارض"
+
+#: inc/widgets.php:98
+msgid "More links"
+msgstr "روابط أكثر"
+
+#: inc/widgets.php:97 taxonomy-post_format.php:45
+msgid "Links"
+msgstr "روابط"
+
+#: inc/widgets.php:94
+msgid "More quotes"
+msgstr "إقتباسات أكثر"
+
+#: inc/widgets.php:93 taxonomy-post_format.php:42
+msgid "Quotes"
+msgstr "الإقتباسات"
+
+#: inc/widgets.php:90
+msgid "More audio"
+msgstr "صوتيات أكثر"
+
+#: inc/widgets.php:89 taxonomy-post_format.php:39
+msgid "Audio"
+msgstr "صوت"
+
+#: inc/widgets.php:86
+msgid "More videos"
+msgstr "مشاهد فيديو أكثر"
+
+#: inc/widgets.php:85 taxonomy-post_format.php:36
+msgid "Videos"
+msgstr "فيديو"
+
+#: inc/widgets.php:82
+msgid "More images"
+msgstr "صور أكثر"
+
+#: inc/widgets.php:81 taxonomy-post_format.php:33
+msgid "Images"
+msgstr "صور"
+
+#: inc/widgets.php:37
+msgid "Use this widget to list your recent Aside, Quote, Video, Audio, Image, Gallery, and Link posts."
+msgstr "استخدم هذا الودجت لعرض قائمة أحدث المقالات من نوع ملاحظة، اقتباس، فيديو، صوت، صورة، معرض و رابط."
+
+#: inc/widgets.php:34
+msgid "Twenty Fourteen Ephemera"
+msgstr "المحفوظات المؤقتة (Ephemera)"
+
+#: inc/template-tags.php:121
+msgid "Sticky"
+msgstr "مثبت"
+
+#: inc/template-tags.php:104
+msgid "<span class=\"meta-nav\">Next Post</span>%title"
+msgstr "<span class=\"meta-nav\">المقالة التالية</span>%title"
+
+#: inc/template-tags.php:103
+msgid "<span class=\"meta-nav\">Previous Post</span>%title"
+msgstr "<span class=\"meta-nav\">التدوينة السابقة</span>%title"
+
+#: inc/template-tags.php:101
+msgid "<span class=\"meta-nav\">Published In</span>%title"
+msgstr "<span class=\"meta-nav\">منشور في</span>%title"
+
+#. translators: Hidden accessibility text.
+#: inc/template-tags.php:95
+msgid "Post navigation"
+msgstr "تصفّح المقالات"
+
+#. translators: Hidden accessibility text.
+#: inc/template-tags.php:63
+msgid "Posts navigation"
+msgstr "تصفّح المقالات"
+
+#: inc/template-tags.php:52
+msgid "Next &rarr;"
+msgstr "التالي &larr;"
+
+#: inc/template-tags.php:51
+msgid "&larr; Previous"
+msgstr "&rarr; السابق"
+
+#: inc/featured-content.php:424
+msgid "Don&rsquo;t display tag on front end."
+msgstr "لا تظهر الوسم في الواجهة."
+
+#: inc/featured-content.php:416
+msgid "Tag Name"
+msgstr "اسم الوسم"
+
+#. translators: %s: Twenty Fourteen documentation URL.
+#: inc/customizer.php:170
+msgid "For an in-depth tutorial, and more tips and tricks, visit the <a href=\"%s\">Twenty Fourteen documentation</a>."
+msgstr "لشرح مفصل وللمزيد من التلميحات والحيل، قم بالاطلاع على <a href=\"%s\">توثيق قالب Twenty Fourteen</a>."
+
+#. translators: %s: Featured images documentation URL.
+#: inc/customizer.php:168
+msgid "Enhance your site design by using <a href=\"%s\">Featured Images</a> for posts you&rsquo;d like to stand out (also known as post thumbnails). This allows you to associate an image with your post without inserting it. Twenty Fourteen uses featured images for posts and pages&mdash;above the title&mdash;and in the Featured Content area on the home page."
+msgstr "عزّز تصميم موقعك باستخدام <a href=\"%s\">الصور البارزة</a> للمقالات التي تريد أن تبرزها (تُعرف أيضاً بالصور المصغرة). يتيح لك هذا أن تربط صورة بمقالتك بدون إدراجها في المحتوى. قالب Twenty Fourteen يستخدم الصور البارزة للمقالات والصفحات &mdash;فوق العنوان&mdash; وفي منطقة المحتوى المميز في الصفحة الرئيسية."
+
+#. translators: 1: Featured tag editor URL, 2: Post editor URL, 3: Customizer
+#. URL, 4: Post editor URL.
+#: inc/customizer.php:166
+msgid "The home page features your choice of up to 6 posts prominently displayed in a grid or slider, controlled by a <a href=\"%1$s\">tag</a>; you can change the tag and layout in <a href=\"%2$s\">Appearance &rarr; Customize</a>. If no posts match the tag, <a href=\"%3$s\">sticky posts</a> will be displayed instead."
+msgstr "تتيح لك الصفحة الرئيسية أن تختار حتى 6 مقالات مميزة ليتم عرضهم بوضوح على شكل شبكة أو عارض شرائح، متحكماً بهم عن طريق <a href=\"%1$s\">هذا الوسم</a>؛ يمكنك تغيير الوسم والتخطيط في نافذة <a href=\"%2$s\">المظهر &larr; تخصيص</a>. في حالة عدم وجود مقالات متعلقة بهذا الوسم، سيتم عرض <a href=\"%3$s\">المقالات المثبتة</a> كبديل."
+
+#: inc/customizer.php:90
+msgid "Slider"
+msgstr "عارض الشرائح"
+
+#: inc/customizer.php:89
+msgid "Grid"
+msgstr "شبكة"
+
+#: inc/customizer.php:85
+msgid "Layout"
+msgstr "الشكل العام"
+
+#. translators: 1: Featured tag editor URL, 2: Post editor URL, 3: Customizer
+#. URL, 4: Post editor URL.
+#: inc/customizer.php:65 inc/customizer.php:166 inc/featured-content.php:386
+#: inc/featured-content.php:398 inc/featured-content.php:464
+msgctxt "featured content default tag slug"
+msgid "featured"
+msgstr "مميز"
+
+#. translators: 1: Featured tag editor URL, 2: Post editor URL.
+#: inc/customizer.php:64 inc/featured-content.php:385
+msgid "Use a <a href=\"%1$s\">tag</a> to feature your posts. If no posts match the tag, <a href=\"%2$s\">sticky posts</a> will be displayed instead."
+msgstr "استخدم <a href=\"%1$s\">هذا الوسم</a> لتمييز مقالاتك. في حالة عدم وجود مقالات متعلقة بالوسم، سيتم عرض <a href=\"%2$s\">المقالات المثبتة</a> كبديل."
+
+#: inc/customizer.php:61 inc/featured-content.php:382
+msgid "Featured Content"
+msgstr "المحتوى المميز"
+
+#: inc/customizer.php:53 inc/customizer.php:54
+msgid "Background may only be visible on wide screens."
+msgstr "ربما تظهر الخلفية فقط على الشاشات العريضة."
+
+#: inc/customizer.php:50 inc/customizer.php:51
+msgid "May only be visible on wide screens."
+msgstr "قد تكون فقط مرئية على الشاشات الواسعة."
+
+#: inc/customizer.php:46
+msgid "Display Site Title &amp; Tagline"
+msgstr "أظهر عنوان و شعار الموقع"
+
+#: inc/customizer.php:43
+msgid "Site Title Color"
+msgstr "لون عنوان الموقع"
+
+#. translators: %s: WordPress version.
+#: inc/back-compat.php:41 inc/back-compat.php:56 inc/back-compat.php:77
+msgid "Twenty Fourteen requires at least WordPress version 3.6. You are running version %s. Please upgrade and try again."
+msgstr "قالب Twenty Fourteen يتطلب نسخة ووردبريس 3.6 على الأقل. أنت تستخدم النسخة %s. من فضلك قم بالترقية وحاول مرة أخرى."
+
+#: image.php:69
+msgid "Next Image"
+msgstr "الصورة التالية"
+
+#: image.php:68
+msgid "Previous Image"
+msgstr "الصورة السابقة"
+
+#. translators: Hidden accessibility text.
+#: header.php:27
+msgid "Skip to content"
+msgstr "انتقل إلى المحتوى"
+
+#: header.php:59
+msgid "Primary Menu"
+msgstr "القائمة الأساسية"
+
+#. translators: Hidden accessibility text.
+#: header.php:53
+msgid "Search"
+msgstr "بحث"
+
+#. translators: %s: Page number.
+#: functions.php:693
+msgid "Page %s"
+msgstr "صفحة %s"
+
+#. translators: %d: Post count.
+#: functions.php:572
+msgid "%d Article"
+msgid_plural "%d Articles"
+msgstr[0] "%d مقالة"
+msgstr[1] "مقالة واحدة"
+msgstr[2] "مقالتان"
+msgstr[3] "%d مقالات"
+msgstr[4] "%d مقالة"
+msgstr[5] "%d مقالة"
+
+#: functions.php:384
+msgid "Next"
+msgstr "التالي"
+
+#: functions.php:383
+msgid "Previous"
+msgstr "السابق"
+
+#. translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own language.
+#: functions.php:326
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "مفعل"
+
+#: functions.php:301
+msgid "Appears in the footer section of the site."
+msgstr "يظهر في تذييل الصفحة (فوتر) في الموقع."
+
+#: functions.php:299
+msgid "Footer Widget Area"
+msgstr "الودجات في الفوتر"
+
+#: functions.php:290
+msgid "Additional sidebar that appears on the right."
+msgstr "شريط جانبي إضافي يظهر على اليسار."
+
+#: functions.php:288
+msgid "Content Sidebar"
+msgstr "الشريط الجانبي - المحتوى"
+
+#: functions.php:279
+msgid "Main sidebar that appears on the left."
+msgstr "الشريط الجانبي الأساسي يظهر على اليمين."
+
+#: functions.php:277
+msgid "Primary Sidebar"
+msgstr "الشريط الجانبي - الأساسي"
+
+#: functions.php:146
+msgid "Secondary menu in left sidebar"
+msgstr "القائمة الثانوية في الشريط الجانبي على اليمين"
+
+#: functions.php:145
+msgid "Top primary menu"
+msgstr "القائمة الأساسية العلوية"
+
+#. translators: %s: WordPress
+#: footer.php:37
+msgid "Proudly powered by %s"
+msgstr "الموقع يستخدم %s بكل فخر"
+
+#: content-none.php:33
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "يبدو أنه لا يمكن إيجاد ما تبحث عنه. قد تفيدك خاصية البحث."
+
+#: content-none.php:28
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "عذرا، لا يوجد شيء يتطابق مع كلمات البحث التي استعملتها، المرجو المحاولة من جديد باستعمال كلمات مفتاحية أخرى."
+
+#. translators: %s: Post editor URL.
+#: content-none.php:22
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "هل أنت على استعداد لنشر مقالتك الأولى؟ <a href=\"%s\">ابدأ من هنا</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "لم يتم العثور على شيء"
+
+#: content-aside.php:57 content-audio.php:57 content-gallery.php:57
+#: content-image.php:57 content-link.php:57 content-page.php:24
+#: content-quote.php:57 content-video.php:57 content.php:66 image.php:56
+msgid "Pages:"
+msgstr "الصفحات:"
+
+#. translators: %s: Post title. Only visible to screen readers.
+#: content-aside.php:50 content-audio.php:50 content-gallery.php:50
+#: content-image.php:50 content-link.php:50 content-quote.php:50
+#: content-video.php:50 content.php:59 inc/template-tags.php:240
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "متابعة قراءة %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-aside.php:41 content-audio.php:41 content-gallery.php:41
+#: content-image.php:41 content-link.php:41 content-page.php:31
+#: content-quote.php:41 content-video.php:41 content.php:44 image.php:35
+#: page-templates/contributors.php:36
+msgid "Edit"
+msgstr "تحرير"
+
+#: content-aside.php:38 content-audio.php:38 content-gallery.php:38
+#: content-image.php:38 content-link.php:38 content-quote.php:38
+#: content-video.php:38 content.php:40 inc/widgets.php:230
+msgid "% Comments"
+msgstr "% تعليقات"
+
+#: content-aside.php:38 content-audio.php:38 content-gallery.php:38
+#: content-image.php:38 content-link.php:38 content-quote.php:38
+#: content-video.php:38 content.php:40 inc/widgets.php:230
+msgid "1 Comment"
+msgstr "تعليق واحد"
+
+#: content-aside.php:38 content-audio.php:38 content-gallery.php:38
+#: content-image.php:38 content-link.php:38 content-quote.php:38
+#: content-video.php:38 content.php:40 inc/widgets.php:230
+msgid "Leave a comment"
+msgstr "أضف تعليق"
+
+#: content-aside.php:18 content-audio.php:18 content-featured-post.php:29
+#: content-gallery.php:18 content-image.php:18 content-link.php:18
+#: content-quote.php:18 content-video.php:18 content.php:20
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: comments.php:87
+msgid "Comments are closed."
+msgstr "التعليقات مغلقة."
+
+#: comments.php:57 comments.php:82
+msgid "Newer Comments &rarr;"
+msgstr "تعليقات أحدث &larr;"
+
+#: comments.php:56 comments.php:81
+msgid "&larr; Older Comments"
+msgstr "&rarr; تعليقات أقدم"
+
+#. translators: Hidden accessibility text.
+#: comments.php:53 comments.php:78
+msgid "Comment navigation"
+msgstr "تصفّح التعليقات"
+
+#. translators: %s: Category title.
+#: category.php:23
+msgid "Category Archives: %s"
+msgstr "أرشيف التصنيف: %s"
+
+#. translators: %s: Author display name.
+#: author.php:32
+msgid "All posts by %s"
+msgstr "كل مقالات %s"
+
+#: archive.php:40 taxonomy-post_format.php:51
+msgid "Archives"
+msgstr "الأرشيف"
+
+#. translators: %s: Date.
+#: archive.php:38
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#. translators: %s: Date.
+#: archive.php:38
+msgid "Yearly Archives: %s"
+msgstr "الأرشيف السنوي: %s"
+
+#. translators: %s: Date.
+#: archive.php:35
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#. translators: %s: Date.
+#: archive.php:35
+msgid "Monthly Archives: %s"
+msgstr "الأرشيف الشهري: %s"
+
+#. translators: %s: Date.
+#: archive.php:32
+msgid "Daily Archives: %s"
+msgstr "الأرشيف اليومي: %s"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "يبدو أنه لا يوجد شيء هنا. ربما حاول استعمال البحث؟"
+
+#: 404.php:17
+msgid "Not Found"
+msgstr "غير موجود"
+
+#. Author URI of the theme
+#: style.css footer.php:34
+#, gp-priority: low
+msgid "https://wordpress.org/"
+msgstr "https://ar.wordpress.org/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "the WordPress team"
+msgstr "فريق ووردبريس"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://wordpress.org/themes/twentyfourteen/"
+msgstr "https://wordpress.org/themes/twentyfourteen/"

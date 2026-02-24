@@ -1,0 +1,432 @@
+# Translation of Themes - Non Profit FSE in Arabic
+# This file is distributed under the same license as the Themes - Non Profit FSE package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-04-09 08:06:21+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n == 0) ? 0 : ((n == 1) ? 1 : ((n == 2) ? 2 : ((n % 100 >= 3 && n % 100 <= 10) ? 3 : ((n % 100 >= 11 && n % 100 <= 99) ? 4 : 5))));\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: ar\n"
+"Project-Id-Version: Themes - Non Profit FSE\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Non Profit FSE is a purpose-built Full Site Editing WordPress theme for charities and non-profit organizations making a difference. Create a powerful charity website with ready-to-use patterns for campaigns, donations, impact stories, and team members. The theme includes mobile-optimized layouts, call-to-action sections, and integrated donation features."
+msgstr "Non Profit FSE هو قالب ووردبريس لتحرير الموقع بالكامل مُصمّم خصيصًا للجمعيات الخيرية والمنظمات غير الربحية التي تُحدث فرقًا. أنشئ موقعًا إلكترونيًا قويًا للجمعيات الخيرية بأنماط جاهزة للاستخدام للحملات والتبرعات وقصص التأثير وأعضاء الفريق. يتضمن القالب تخطيطات مُحسّنة للأجهزة المحمولة، وأقسامًا للحث على اتخاذ إجراء، وميزات تبرعات مُدمجة."
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Non Profit FSE"
+msgstr "Non Profit FSE"
+
+#. translators: %1$s - plugin name, %2$s - HTML tag, %3$s - discount.
+#: inc/Admin.php:295
+msgid "Need to accept payments or donations? Try %1$s, built by the same team as your theme — now up to %2$s OFF, for a limited time only."
+msgstr ""
+
+#: styles/s3-impact.json
+msgctxt "Style variation name"
+msgid "Impact"
+msgstr "التأثير"
+
+#: styles/s2-funk-cloud.json
+msgctxt "Style variation name"
+msgid "Funk Cloud"
+msgstr "Funk Cloud"
+
+#: styles/s1-dark-paw.json
+msgctxt "Style variation name"
+msgid "Dark Paw"
+msgstr "Dark Paw"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer Variation - 5 Columns"
+msgstr "تباين التذييل - 5 أعمدة"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer Variation - 4 Columns"
+msgstr "تباين التذييل - 4 أعمدة"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer Variation - 3 Columns"
+msgstr "تباين التذييل - 3 أعمدة"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer Variation - Site Logo"
+msgstr "تباين التذييل - شعار الموقع"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "التذييل"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header Variation - Hamburger Menu"
+msgstr "تباين الترويسة - قائمة همبرغر"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header Variation - Button"
+msgstr "تباين الترويسة - الزر"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header Variation - Centered"
+msgstr "تباين الترويسة - توسيط"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "الترويسة"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge"
+msgstr "ضخم"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "كبير جداً"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "كبير"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "متوسط"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Normal"
+msgstr "عادي"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "صغير"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Figtree"
+msgstr "شجرة التين"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Open Sans"
+msgstr "Open Sans"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Montserrat"
+msgstr "Montserrat"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Source Sans Pro"
+msgstr "Source Sans Pro"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Playfair Display"
+msgstr "Playfair Display"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Spline Sans"
+msgstr "Spline Sans"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Outfit"
+msgstr "ملابس"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Hanken Grotesk"
+msgstr "Hanken Grotesk"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Fraunces"
+msgstr "Fraunces"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Albert Sans"
+msgstr "Albert Sans"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Inter"
+msgstr "Inter"
+
+#: theme.json styles/s1-dark-paw.json styles/s2-funk-cloud.json
+#: styles/s3-impact.json
+msgctxt "Color name"
+msgid "Foreground Alt"
+msgstr "مقدمة البديل"
+
+#: theme.json styles/s1-dark-paw.json styles/s2-funk-cloud.json
+#: styles/s3-impact.json
+msgctxt "Color name"
+msgid "Background Alt"
+msgstr "خلفية البديل"
+
+#: theme.json styles/s1-dark-paw.json styles/s2-funk-cloud.json
+#: styles/s3-impact.json
+msgctxt "Color name"
+msgid "Background Dark"
+msgstr "خلفية داكنة"
+
+#: theme.json styles/s1-dark-paw.json styles/s2-funk-cloud.json
+#: styles/s3-impact.json
+msgctxt "Color name"
+msgid "Accent Secondary"
+msgstr "اللهجة الثانوية"
+
+#: theme.json styles/s1-dark-paw.json styles/s2-funk-cloud.json
+#: styles/s3-impact.json
+msgctxt "Color name"
+msgid "Accent"
+msgstr "تمييز"
+
+#: theme.json styles/s1-dark-paw.json styles/s2-funk-cloud.json
+#: styles/s3-impact.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "‏‏المقدمة"
+
+#: theme.json styles/s1-dark-paw.json styles/s2-funk-cloud.json
+#: styles/s3-impact.json
+msgctxt "Color name"
+msgid "Background"
+msgstr "الخلفية"
+
+#: inc/patterns/templates/single-post-cover.php:16
+msgid "Single Post 3 (Cover)"
+msgstr "مقالة مفردة 3 (غلاف)"
+
+#: inc/patterns/templates/single-post-cover-boxed.php:16
+msgid "Single Post 2 (Cover Boxed)"
+msgstr "مقالة مفردة 2 (غلاف داخل صندوق)"
+
+#: inc/patterns/templates/archive-list.php:16
+msgid "Archive List"
+msgstr "قائمة الأرشيف"
+
+#: inc/patterns/templates/archive-cover.php:16
+msgid "Archive Cover"
+msgstr "الأرشيف غلاف"
+
+#: inc/patterns/page_titles/page-title-4.php:20
+msgid "Page Title - Cover"
+msgstr "عنوان الصفحة - غلاف"
+
+#: inc/patterns/page_titles/page-title-3.php:16
+msgid "Page Title - Light"
+msgstr "عنوان الصفحة - فاتح"
+
+#: inc/patterns/page_titles/page-title-2.php:16
+msgid "Page Title - Dark"
+msgstr "عنوان الصفحة - غامق"
+
+#: inc/patterns/page_titles/page-title-1.php:16
+msgid "Page Title - Simple"
+msgstr "عنوان الصفحة - بسيط"
+
+#: inc/patterns/loops/post-loop-2.php:16
+msgid "Posts loop 2"
+msgstr "مقالات الحلقة 2"
+
+#: inc/patterns/loops/post-loop-1.php:16
+msgid "Posts loop 1"
+msgstr "مقالات الحلقة 1"
+
+#: inc/patterns/layout/testimonials.php:18
+msgid "Testimonials"
+msgstr "الشهادات"
+
+#: inc/patterns/layout/testimonials-2.php:18
+msgid "Testimonials 2"
+msgstr "الشهادات 2"
+
+#: inc/patterns/layout/stats.php:18
+msgid "stats"
+msgstr "الإحصائيات"
+
+#: inc/patterns/layout/hero.php:20
+msgid "Hero Cover"
+msgstr "الغلاف المحوري"
+
+#: inc/patterns/layout/features.php:22
+msgid "Features"
+msgstr "المميزات"
+
+#: inc/patterns/layout/features-2.php:18
+msgid "Features 2"
+msgstr "المميزات 2"
+
+#: inc/patterns/layout/faq.php:16
+msgid "FAQ"
+msgstr "الأسئلة المتكررّة"
+
+#: inc/patterns/layout/events.php:22
+msgid "Events"
+msgstr "الأحداث"
+
+#: inc/patterns/layout/events-2.php:21
+msgid "Events 2"
+msgstr "الأحداث 2"
+
+#: inc/patterns/layout/CTA.php:20
+msgid "Call to Action"
+msgstr "دعوة لاتخاذ إجراء"
+
+#: inc/patterns/layout/content.php:20
+msgid "Content"
+msgstr "المحتوى"
+
+#: inc/patterns/layout/content-4.php:21
+msgid "Content 4"
+msgstr "المحتوى 4"
+
+#: inc/patterns/layout/content-3.php:16
+msgid "Content 3"
+msgstr "المحتوى 3"
+
+#: inc/patterns/layout/content-2.php:20
+msgid "Content 2"
+msgstr "المحتوى 2"
+
+#: inc/patterns/layout/campaign.php:20
+msgid "Campaigns"
+msgstr "الحملات"
+
+#: inc/patterns/layout/404.php:20
+msgid "404"
+msgstr "404"
+
+#: inc/Core.php:88
+msgid "Primary Menu"
+msgstr "القائمة الرئيسية"
+
+#: inc/Block_Patterns.php:68
+msgid "Full-page layouts that can be used as templates"
+msgstr "تخطيطات صفحة كاملة يمكن استخدامها كقوالب"
+
+#: inc/Block_Patterns.php:67
+msgid "Non Profit FSE Layouts"
+msgstr "تخطيطات تحرير الموقع بالكامل الغير الربحية"
+
+#: inc/Block_Patterns.php:64
+msgid "Patterns for several sections and components"
+msgstr "أنماط لعدة أقسام ومكونات"
+
+#: inc/Block_Patterns.php:63
+msgid "Non Profit FSE Patterns"
+msgstr "أنماط تحرير الموقع بالكامل الغير الربحية"
+
+#: inc/Admin.php:150
+msgid "WP Full Pay preview"
+msgstr "معاينة WP Full Pay"
+
+#: inc/Admin.php:142
+msgid "Learn More"
+msgstr "تعلم المزيد"
+
+#. translators: %s: WP Full Pay
+#: inc/Admin.php:137
+msgid "Install & Activate %s"
+msgstr "التنصيب والتفعيل %s"
+
+#. translators: %s: WP Full Pay
+#: inc/Admin.php:135
+msgid "Activate %s"
+msgstr "تفعيل %s"
+
+#: inc/Admin.php:125
+msgid "One-time and recurring donations with customizable amounts"
+msgstr "تبرعات لمرة واحدة ومتكررة بمبالغ قابلة للتخصيص"
+
+#: inc/Admin.php:125
+msgid "Multiple payment options"
+msgstr "خيارات دفع متعددة"
+
+#: inc/Admin.php:124
+msgid "Connect to Stripe and create your first donation form in minutes"
+msgstr "اتصل بـ Stripe وقم بإنشاء نموذج التبرع الأول الخاص بك في دقائق"
+
+#: inc/Admin.php:124
+msgid "Quick setup"
+msgstr "الإعداد السريع"
+
+#: inc/Admin.php:123
+msgid "The simplest way to accept donations and payments on your WordPress site. Set up in minutes with no technical knowledge required."
+msgstr "أسهل طريقة لقبول التبرعات والمدفوعات على موقع ووردبريس الخاص بك. يمكنك إعداده في دقائق دون الحاجة إلى أي معرفة تقنية."
+
+#. translators: %s: WP Full Pay
+#: inc/Admin.php:119
+msgid "Start Collecting Funds with %s!"
+msgstr "ابدأ بجمع الأموال مع %s!"
+
+#. translators: %s: 🎉 emoji
+#: inc/Admin.php:114
+msgid "Accept Donations on Your Non-Profit Site %s"
+msgstr "قبول التبرعات على موقعك الغير الربحي %s"
+
+#: inc/Admin.php:101
+msgid "Done"
+msgstr "تم"
+
+#: inc/Admin.php:100
+msgid "Installing"
+msgstr "جاري التنصيب"
+
+#: inc/Admin.php:99
+msgid "Activating"
+msgstr "جارٍ التفعيل"
+
+#. translators: %s: commands to run the theme
+#: functions.php:106
+msgid "You appear to be running the Non Profit FSE theme from source code. Please finish installation by running %s."
+msgstr "يبدو أنك تُشغّل قالب تحرير الموقع بالكامل غير ربحي من الكود المصدري. يُرجى إكمال التنصيب بتشغيل %s."
+
+#: functions.php:57
+msgid "upgrading PHP to the latest version"
+msgstr "ترقية PHP إلى أحدث نسخة"
+
+#. translators: %s message to upgrade PHP to the latest version
+#: functions.php:53
+msgid "Hey, we've noticed that you're running an outdated version of PHP which is no longer supported. Make sure your site is fast and secure, by %1$s. Non Profit FSE's minimal requirement is PHP%2$s."
+msgstr "مرحبًا، لاحظنا أنك تستخدم نسخة قديمة من PHP لم يعد مدعومًا. تأكد من سرعة موقعك وأمانه، قبل %1$s. الحد الأدنى لمتطلبات مؤسسة تحرير الموقع بالكامل غير الربحية هو PHP%2$s."
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themeisle.com"
+msgstr "https://themeisle.com"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "ThemeIsle"
+msgstr "ThemeIsle"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://github.com/Codeinwp/non-profit-fse/"
+msgstr "https://github.com/Codeinwp/non-profit-fse/"

@@ -1,0 +1,463 @@
+# Translation of Themes - Twenty Seventeen in Arabic
+# This file is distributed under the same license as the Themes - Twenty Seventeen package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-09-20 14:08:41+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n == 0) ? 0 : ((n == 1) ? 1 : ((n == 2) ? 2 : ((n % 100 >= 3 && n % 100 <= 10) ? 3 : ((n % 100 >= 11 && n % 100 <= 99) ? 4 : 5))));\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: ar\n"
+"Project-Id-Version: Themes - Twenty Seventeen\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Twenty Seventeen brings your site to life with header video and immersive featured images. With a focus on business sites, it features multiple sections on the front page as well as widgets, navigation and social menus, a logo, and more. Personalize its asymmetrical grid with a custom color scheme and showcase your multimedia content with post formats. Our default theme for 2017 works great in many languages, for any abilities, and on any device."
+msgstr "قالب Twenty Seventeen يضفي الحيوية على موقعك من خلال فيديوهات رأسية وصور مميزة غامرة. من خلال التركيز على مواقع الأعمال، فهي تتميز بأقسام متعددة في الصفحة الأولى بالإضافة إلى عناصر ودجات، والتصفح والقوائم الاجتماعية وشعار والمزيد. قم بإضفاء الطابع الشخصي وأعرض أعمالك باستخدام نظام ألوان مخصص وعرض محتوى الوسائط المتعددة الخاص بك بتنسيقات المقال. يعمل القالب لعام 2017 بشكل رائع مع العديد من اللغات، ولأي قدرات ، وعلى أي جهاز."
+
+#. Theme Name of the theme
+#: style.css inc/block-patterns.php:17
+#, gp-priority: high
+msgid "Twenty Seventeen"
+msgstr "Twenty Seventeen"
+
+#: inc/block-patterns.php:193
+msgid "Contact us"
+msgstr ""
+
+#: inc/block-patterns.php:188
+msgid "We are proud to serve outstanding clients."
+msgstr ""
+
+#: inc/block-patterns.php:184
+msgid "Contact Us"
+msgstr ""
+
+#: inc/block-patterns.php:170
+msgid "Video Production"
+msgstr ""
+
+#: inc/block-patterns.php:170
+msgid "Marketing &amp; SEO"
+msgstr ""
+
+#: inc/block-patterns.php:170
+msgid "Content Strategy"
+msgstr ""
+
+#: inc/block-patterns.php:162
+msgid "Web Development"
+msgstr ""
+
+#: inc/block-patterns.php:148
+msgid "Services"
+msgstr ""
+
+#: inc/block-patterns.php:131
+msgid "Strategy"
+msgstr ""
+
+#: inc/block-patterns.php:128
+msgid "Direct Light"
+msgstr ""
+
+#: inc/block-patterns.php:117
+msgid "Design"
+msgstr ""
+
+#: inc/block-patterns.php:90
+msgid "Images with Link"
+msgstr ""
+
+#: inc/block-patterns.php:77
+msgid "Need a website? We&#39;ve got you covered. Our design team will create a stunning design to transform your brand."
+msgstr ""
+
+#: inc/block-patterns.php:74 inc/block-patterns.php:162
+msgid "Web Design"
+msgstr ""
+
+#: inc/block-patterns.php:71 inc/block-patterns.php:114
+msgid "White border"
+msgstr ""
+
+#: inc/block-patterns.php:63 inc/block-patterns.php:80
+#: inc/block-patterns.php:106 inc/block-patterns.php:120
+#: inc/block-patterns.php:134
+msgid "See Case Study"
+msgstr ""
+
+#: inc/block-patterns.php:60
+msgid "Communicate your purpose and goals with a beautiful logo that encapsulates your business."
+msgstr ""
+
+#: inc/block-patterns.php:57 inc/block-patterns.php:103
+#: inc/block-patterns.php:162
+msgid "Branding"
+msgstr ""
+
+#: inc/block-patterns.php:54 inc/block-patterns.php:100
+msgid "Black Stripes"
+msgstr ""
+
+#: inc/block-patterns.php:45
+msgid "Images with Text and Link"
+msgstr ""
+
+#: inc/block-patterns.php:36 inc/block-patterns.php:155
+msgid "Our Services"
+msgstr ""
+
+#: inc/block-patterns.php:31
+msgid "Attract Leads with Marketing Campaigns that Work"
+msgstr ""
+
+#: inc/block-patterns.php:28
+msgid "Large Heading with Button"
+msgstr ""
+
+#: template-parts/footer/footer-widgets.php:18
+msgid "Footer"
+msgstr "تذييل"
+
+#: functions.php:343
+msgid "Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr "إضافة ودجات هنا لتظهر في الشريط الجانبي في مقالات المدونة وصفحات الأرشيف."
+
+#: functions.php:341 sidebar.php:18
+msgid "Blog Sidebar"
+msgstr "الشريط الجانبي للمدونة"
+
+#. translators: Hidden accessibility text.
+#: template-parts/header/site-branding.php:38
+#: template-parts/navigation/navigation-top.php:34
+msgid "Scroll down to content"
+msgstr "الانتقال للأسفل إلى المحتوى"
+
+#: functions.php:186
+msgctxt "Theme starter content"
+msgid "Coffee"
+msgstr "القهوة"
+
+#: functions.php:182
+msgctxt "Theme starter content"
+msgid "Sandwich"
+msgstr "شطيرة"
+
+#: functions.php:178
+msgctxt "Theme starter content"
+msgid "Espresso"
+msgstr "اسبريسو"
+
+#. translators: Hidden accessibility text.
+#: inc/custom-header.php:130
+msgid "Pause background video"
+msgstr "إيقاف مؤقت لفيديو الخلفية"
+
+#. translators: Hidden accessibility text.
+#: inc/custom-header.php:128
+msgid "Play background video"
+msgstr "تشغيل فيديو الخلفية"
+
+#. translators: %s: The section ID.
+#: inc/template-tags.php:179
+msgid "Front Page Section %s Placeholder"
+msgstr "قسم الواجهة الأمامية %s تسمية نائبة"
+
+#: inc/customizer.php:109
+msgid "When the two-column layout is assigned, the page title is in one column and content is in the other."
+msgstr "عند تعيين التصميم ذي العمودين، يكون عنوان الصفحة في عمود واحد ويكون المحتوى في العمود الآخر."
+
+#. translators: Hidden accessibility text.
+#: single.php:36
+msgid "Next Post"
+msgstr "المقالة التالية"
+
+#: index.php:27
+msgid "Posts"
+msgstr "المقالات"
+
+#. translators: Hidden accessibility text.
+#: inc/template-tags.php:94
+msgid "Tags"
+msgstr "الوسوم"
+
+#. translators: Hidden accessibility text.
+#: inc/template-tags.php:86
+msgid "Categories"
+msgstr "التصنيفات"
+
+#. translators: Used between list items, there is a space after the comma.
+#: functions.php:688
+msgid ", "
+msgstr "،"
+
+#. translators: %s: Post date.
+#: inc/template-tags.php:52
+msgid "<span class=\"screen-reader-text\">Posted on</span> %s"
+msgstr "<span class=\"screen-reader-text\">نُشر في</span> %s"
+
+#. translators: %s: Post author.
+#: inc/template-tags.php:21
+msgid "by %s"
+msgstr "بواسطة %s"
+
+#: inc/icon-functions.php:44
+msgid "Please define an SVG icon filename."
+msgstr "يُرجى تحديد اسم ملف أيقونة SVG."
+
+#: inc/icon-functions.php:39
+msgid "Please define default parameters in the form of an array."
+msgstr "يُرجى تحديد المعلمات الافتراضية في شكل مصفوفة."
+
+#: inc/customizer.php:143
+msgid "Select pages to feature in each area from the dropdowns. Add an image to a section by setting a featured image in the page editor. Empty sections will not be displayed."
+msgstr "حدد الصفحات المراد عرضها في كل منطقة من القائمة المنسدلة. أضف صورة إلى قسم عن طريق تعيين صورة مميزة في محرر الصفحة. لن يتم عرض الأقسام الفارغة."
+
+#. translators: %d: The front page section number.
+#: inc/customizer.php:142
+msgid "Front Page Section %d Content"
+msgstr "قسم الواجهة الأمامية %d محتوى"
+
+#: inc/customizer.php:112 inc/customizer.php:171
+msgid "Two Column"
+msgstr "عمودين"
+
+#: inc/customizer.php:111 inc/customizer.php:170
+msgid "One Column"
+msgstr "عمود واحد"
+
+#: inc/customizer.php:106
+msgid "Page Layout"
+msgstr "تخطيط الصفحة"
+
+#: inc/customizer.php:89
+msgid "Theme Options"
+msgstr "خيارات القالب"
+
+#: inc/customizer.php:64
+msgid "Custom"
+msgstr "مُخصص"
+
+#: inc/customizer.php:62
+msgid "Light"
+msgstr "فاتخ"
+
+#: inc/customizer.php:60
+msgid "Color Scheme"
+msgstr "نظام الألوان"
+
+#: inc/custom-header.php:56
+msgid "Default Header Image"
+msgstr "صورة الترويسة الإفتراضية"
+
+#: functions.php:365
+msgid "Footer 2"
+msgstr "تذييل 2"
+
+#: functions.php:355 functions.php:367
+msgid "Add widgets here to appear in your footer."
+msgstr "أضف بعض الودجات هنا لتظهر في تذييل موقعك."
+
+#: functions.php:353
+msgid "Footer 1"
+msgstr "تذييل 1"
+
+#. translators: If there are characters in your language that are not supported
+#. by Libre Franklin, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:301
+msgctxt "Libre Franklin font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:62 functions.php:210
+#: template-parts/navigation/navigation-top.php:12
+msgid "Top Menu"
+msgstr "القائمة العلوية"
+
+#: comments.php:62
+msgid "Reply"
+msgstr "رد"
+
+#: template-parts/post/content-none.php:33
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "يبدو أننا لم نعثر على ما تطلب. لعل استعمال البحث قد يساعد."
+
+#: search.php:62
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "عذرا، لا يوجد شيء يتطابق مع كلمات البحث التي استعملتها، المرجو المحاولة من جديد باستعمال كلمات مفتاحية أخرى."
+
+#. translators: %s: Post editor URL.
+#: template-parts/post/content-none.php:27
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "هل أنت على استعداد لنشر مقالتك الأولى؟ <a href=\"%s\">ابدأ من هنا</a>."
+
+#: search.php:26 template-parts/post/content-none.php:17
+msgid "Nothing Found"
+msgstr "لم يتم العثور على نتائج"
+
+#. translators: Hidden accessibility text.
+#: single.php:34
+msgid "Previous Post"
+msgstr "المقالة السابقة"
+
+#. translators: Hidden accessibility text.
+#: comments.php:72 single.php:34
+msgid "Previous"
+msgstr "السابق"
+
+#. translators: Hidden accessibility text.
+#: comments.php:74 single.php:36
+msgid "Next"
+msgstr "التالي"
+
+#. translators: Hidden accessibility text.
+#: searchform.php:28
+msgctxt "submit button"
+msgid "Search"
+msgstr "بحث"
+
+#: searchform.php:24
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "بحث &hellip;"
+
+#. translators: Hidden accessibility text.
+#: searchform.php:20
+msgctxt "label"
+msgid "Search for:"
+msgstr "البحث عن:"
+
+#. translators: Search query.
+#: search.php:22
+msgid "Search Results for: %s"
+msgstr "نتائج البحث عن: %s"
+
+#. translators: %s: Post title. Only visible to screen readers.
+#: functions.php:395 template-parts/page/content-front-page-panels.php:45
+#: template-parts/page/content-front-page.php:42
+#: template-parts/post/content-audio.php:83
+#: template-parts/post/content-gallery.php:70
+#: template-parts/post/content-image.php:61
+#: template-parts/post/content-video.php:82 template-parts/post/content.php:57
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "متابعة قراءة<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: inc/customizer.php:63
+msgid "Dark"
+msgstr "داكن"
+
+#. translators: %s: The current WordPress version.
+#: inc/back-compat.php:43 inc/back-compat.php:60 inc/back-compat.php:83
+msgid "Twenty Seventeen requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again."
+msgstr "Twenty Seventeen يتطلب نسخة الووردبريس 4.7 على الأقل. أنت تستخدم النسخة %s. يرجى الترقية والمحاولة مرة أخرى."
+
+#. translators: %s: Post title. Only visible to screen readers.
+#: inc/template-tags.php:124
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "تحرير<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: template-parts/page/content-front-page.php:48
+#: template-parts/page/content-page.php:26
+#: template-parts/post/content-audio.php:90
+#: template-parts/post/content-gallery.php:77
+#: template-parts/post/content-image.php:68
+#: template-parts/post/content-video.php:89 template-parts/post/content.php:64
+msgid "Pages:"
+msgstr "الصفحات:"
+
+#: template-parts/navigation/navigation-top.php:17
+msgid "Menu"
+msgstr "القائمة"
+
+#. translators: Hidden accessibility text.
+#: header.php:31
+msgid "Skip to content"
+msgstr "التجاوز إلى المحتوى"
+
+#: functions.php:509
+msgid "Collapse child menu"
+msgstr "طي القائمة الفرعية"
+
+#: functions.php:508
+msgid "Expand child menu"
+msgstr "توسيع القائمة الفرعية"
+
+#: functions.php:63 functions.php:221
+msgid "Social Links Menu"
+msgstr "قائمة الروابط الإجتماعية"
+
+#. translators: %s: WordPress
+#: template-parts/footer/site-info.php:21
+msgid "Proudly powered by %s"
+msgstr "مدعوم بواسطة %s"
+
+#: footer.php:26
+msgid "Footer Social Links Menu"
+msgstr "قائمة الروابط الإجتماعية في التذييل"
+
+#: comments.php:84
+msgid "Comments are closed."
+msgstr "التعليقات مغلقة."
+
+#. translators: 1: Number of comments, 2: Post title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] "لا توجد ردود على &ldquo;%2$s&rdquo;"
+msgstr[1] "ردّ واحد على &ldquo;%2$s&rdquo;"
+msgstr[2] "ردّين على &ldquo;%2$s&rdquo;"
+msgstr[3] "%1$s ردود على &ldquo;%2$s&rdquo;"
+msgstr[4] "%1$s ردّ على &ldquo;%2$s&rdquo;"
+msgstr[5] "%1$s ردّ على &ldquo;%2$s&rdquo;"
+
+#. translators: %s: Post title.
+#: comments.php:37
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr "ردّ واحد على &ldquo;%s&rdquo;"
+
+#. translators: Hidden accessibility text.
+#: archive.php:54 index.php:58 search.php:55
+msgid "Page"
+msgstr "الصفحة"
+
+#. translators: Hidden accessibility text.
+#: archive.php:52 index.php:56 search.php:53
+msgid "Next page"
+msgstr "الصفحة التالية"
+
+#. translators: Hidden accessibility text.
+#: archive.php:50 index.php:54 search.php:51
+msgid "Previous page"
+msgstr "الصفحة السابقة"
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "يبدو أنه لم يتم إيجاد شيء في هذا المكان. ربما تريد البحث؟"
+
+#: 404.php:21
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "عذراً! لايمكن العثور على تلك الصفحة."
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "the WordPress team"
+msgstr "فريق ووردبريس"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://wordpress.org/themes/twentyseventeen/"
+msgstr "https://wordpress.org/themes/twentyseventeen/"
+
+#. Author URI of the theme
+#: style.css template-parts/footer/site-info.php:18
+#, gp-priority: low
+msgid "https://wordpress.org/"
+msgstr "https://ar.wordpress.org/"

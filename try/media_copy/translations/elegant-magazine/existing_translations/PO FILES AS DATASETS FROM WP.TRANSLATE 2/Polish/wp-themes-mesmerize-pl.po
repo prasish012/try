@@ -1,0 +1,2632 @@
+# Translation of Themes - Mesmerize in Polish
+# This file is distributed under the same license as the Themes - Mesmerize package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-06-03 14:16:48+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: pl\n"
+"Project-Id-Version: Themes - Mesmerize\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Mesmerize is an incredibly flexible, multipurpose WordPress theme that can help you create an amazing website easier than ever, by drag and drop. It comes with a predesigned home page, 5 header designs and over 30 ready to use content sections that you can easily customize. It also has lots of customization options (video background, slideshow background, header content types, gradient overlays, etc) that will help you create a beautiful, unique website in no time. Mesmerize is responsive so it works on mobile devices out of the box and it is also WooCommerce ready. DEMO: https://extendthemes.com/go/mesmerize-demos/"
+msgstr "Mesmerize to niezwykle elastyczny, wielozadaniowy motyw WordPress, który pomoże szybciej niż kiedykolwiek stworzyć niesamowitą stronę internetową, dzięki funkcji przeciągania i upuszczania. Zawiera wstępnie zaprojektowaną stronę startową, projekty pięciu nagłówków oraz ponad 30 gotowych do użycia sekcji treści, które można łatwo spersonalizować. Posiada również wiele opcji dostosowywania (tło z filmem, tło z pokazem slajdów, typy treści nagłówków, nakładki z gradientem itp.), które szybko pomogą stworzyć piękną, unikatową witrynę internetową. Mesmerize odpowiada potrzebom użytkowników i działa na najnowszych urządzeniach mobilnych oraz jest kompatybilny z WooCommerce. DEMO: http://extendthemes.com/mesmerize/#demos"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Mesmerize"
+msgstr "Mesmerize"
+
+#: inc/functions.php:1226
+msgid "Current Color"
+msgstr "Bieżący kolor"
+
+#: inc/functions.php:1225
+msgid "Select Color"
+msgstr "Wybierz kolor"
+
+#: inc/functions.php:1223
+msgid "Clear"
+msgstr "Wyczyść"
+
+#: inc/companion.php:58
+msgid "Sorry, you are not allowed to manage options for this site."
+msgstr "Przepraszamy, nie posiadasz uprawnień do zarządzania opcjami tej witryny."
+
+#: customizer/start-with-frontpage.php:64
+msgid "This action will install the %s plugin"
+msgstr "Ta czynność spowoduje zainstalowanie wtyczki %s"
+
+#: customizer/start-with-frontpage.php:36
+msgid "Install %s homepage"
+msgstr "Zainstaluj stronę główną %s"
+
+#: customizer/start-with-frontpage.php:20
+msgid "Would you like to install the predesigned %s homepage?"
+msgstr "Czy chcesz zainstalować wstępnie zaprojektowaną stronę główną %s?"
+
+#: inc/templates-functions.php:161
+msgid "Skip to content"
+msgstr "Przejdź do treści"
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:370
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Następująca zalecana wtyczka jest obecnie nie włączona: %1$s."
+msgstr[1] "Następujące zalecane wtyczki są obecnie nie włączone: %1$s."
+msgstr[2] "Następujące zalecane wtyczki są obecnie nie włączone: %1$s."
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:364
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Następująca wymagana wtyczka jest obecnie nie włączona: %1$s."
+msgstr[1] "Następujące wymagane wtyczki są obecnie nie włączone: %1$s."
+msgstr[2] "Następujące wymagane wtyczki są obecnie nie włączone: %1$s."
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:358
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Dostępna jest aktualizacja dla: %1$s."
+msgstr[1] "Dostępne są aktualizacje dla następujących wtyczek: %1$s."
+msgstr[2] "Dostępne są aktualizacje dla następujących wtyczek: %1$s."
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:352
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Następująca wtyczka musi zostać zaktualizowana do najnowszej wersji, aby zapewnić maksymalną zgodność z tym motywem: %1$s."
+msgstr[1] "Następujące wtyczki muszą zostać zaktualizowane do najnowszej wersji, aby zapewnić maksymalną zgodność z tym motywem: %1$s."
+msgstr[2] "Następujące wtyczki muszą zostać zaktualizowane do najnowszej wersji, aby zapewnić maksymalną zgodność z tym motywem: %1$s."
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:346
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Ten motyw zaleca następującą wtyczkę: %1$s."
+msgstr[1] "Ten motyw zaleca następujące wtyczki: %1$s."
+msgstr[2] "Ten motyw zaleca następujące wtyczki: %1$s."
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:340
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Ten motyw wymaga następującej wtyczki: %1$s."
+msgstr[1] "Ten motyw wymaga następujących wtyczek: %1$s."
+msgstr[2] "Ten motyw wymaga następujących wtyczek: %1$s."
+
+#: inc/wp-forms/mesmerize-template.php:19
+msgid "This is a simple contact form template designed to best fit the Mesmerize theme design. You can add and remove fields as needed."
+msgstr "Jest to prosty szablon formularza kontaktowego, który najlepiej pasuje do projektu motywu Mesmerize. W razie potrzeby możesz dodawać i usuwać pola."
+
+#: inc/wp-forms/mesmerize-template.php:17
+msgid "Mesmerize Contact Form Template"
+msgstr "Szablon formularza kontaktowego Mesmerize"
+
+#: inc/functions.php:380
+msgid "Contact Form by WPForms"
+msgstr "Contact Form od WPForms"
+
+#: inc/blog-options.php:53
+msgid "%s item"
+msgid_plural "%s items"
+msgstr[0] "%s pozycja"
+msgstr[1] "%s pozycje"
+msgstr[2] "%s pozycji"
+
+#: inc/theme-cache-cleaner.php:21
+msgid "Clear theme cache"
+msgstr "Wyczyść pamięć podręczną motywu"
+
+#: inc/theme-options.php:220
+msgid "Update companion now"
+msgstr "Aktualizuj towarzysza teraz"
+
+#: inc/theme-options.php:217
+msgid "There is a newer version of the Mesmerize Companion plugin available. This feature requires an update to the latest version"
+msgstr "Dostępna jest nowsza wersja wtyczki Mesmerize Companion. Ta funkcja wymaga aktualizacji do najnowszej wersji"
+
+#: inc/theme-options.php:128
+msgid "Optimization"
+msgstr "Optymalizacja"
+
+#: inc/theme-options.php:36
+msgid "Import Predesigned Sites"
+msgstr "Importuj wstępnie zaprojektowane witryny"
+
+#: inc/optimizations.php:90
+msgid "Install and activate the \"Autoptimize\" plugin to improve your site speed."
+msgstr "Zainstaluj i włącz wtyczkę \"Autoptimize\", aby poprawić szybkość witryny."
+
+#: inc/optimizations.php:76
+msgid "Autoptimize"
+msgstr "Autoptimize"
+
+#: inc/optimizations.php:44
+msgid "Settings applied"
+msgstr "Ustawienia zastosowane"
+
+#: inc/optimizations.php:43
+msgid "Apply Settings"
+msgstr "Zastosuj ustawienia"
+
+#: inc/optimizations.php:42
+msgid "Please apply the Mesmerize recommended settings for Autoptimize. This will set the Autoptimize parameters to the best configuration for Mesmerize."
+msgstr "Zastosuj zalecane ustawienia Mesmerize dla wtyczki Autoptimize. Spowoduje to ustawienie parametrów Autoptimize do najlepszej konfiguracji dla Mesmerize."
+
+#: inc/infopage-parts/demo-import.php:2
+msgid "Import Demo sites with one click"
+msgstr "Importuj witryny demo jednym kliknięciem"
+
+#: inc/functions.php:1106
+msgid "Demo Import"
+msgstr "Importuj demo"
+
+#: customizer/customizer-controls.php:314
+msgid "%s is active"
+msgstr "%s jest włączona"
+
+#: customizer/customizer-controls.php:309
+msgid "Activate %s"
+msgstr "Włącz %s"
+
+#: customizer/customizer-controls.php:304
+msgid "Install %s"
+msgstr "Instaluj %s"
+
+#: customizer/add-sections-preview.php:28
+msgid "Add Section"
+msgstr "Dodaj sekcję"
+
+#: inc/theme-info.php:4
+msgid "Getting started"
+msgstr "Zaczynamy"
+
+#: inc/functions.php:351
+msgid "Full HD"
+msgstr "Full HD"
+
+#: inc/blog-options.php:70
+msgid "The inner pages hero background should be set to image"
+msgstr "Baner w tle na podstronach powinien być obrazkiem"
+
+#: inc/blog-options.php:69
+msgid "Use post featured image as hero background when available"
+msgstr "Użyj obrazka wyróżniającego z wpisu jako baneru w tle, jeśli to dostępne"
+
+#: inc/blog-options.php:27
+msgid "Show post title in post page"
+msgstr "Pokaż tytuł wpisu na stronie wpisu"
+
+#: inc/header-options/presets.php:90
+msgid "18 more beautiful header designs are available in the PRO version. @BTN@"
+msgstr "18 jeszcze piękniejszych projektów nagłówków jest dostępnych w wersji PRO. @BTN@"
+
+#: inc/header-options/content-options/content-type.php:741
+msgid "More content layouts and media types available in PRO. @BTN@"
+msgstr "Więcej układów treści i typów mediów dostępnych w wersji PRO. @BTN@"
+
+#: inc/general-options/page-settings.php:10
+msgid "Enable smooth scrolling"
+msgstr "Włącz płynne przewijanie"
+
+#: inc/general-options/colors.php:96
+msgid "Customize all theme colors in PRO. @BTN@"
+msgstr "Spersonalizuj wszystkie kolory motywu w wersji PRO. @BTN@"
+
+#: inc/footer-options.php:74 inc/header-options/content-options/buttons.php:145
+#: inc/header-options/navigation-options/nav-bar.php:167
+#: inc/header-options/navigation-options/offscreen.php:41
+#: inc/header-options/navigation-options/top-bar.php:35
+msgid "More colors and typography options available in PRO. @BTN@"
+msgstr "Więcej opcji kolorów i czcionek dostępnych w PRO. @BTN@"
+
+#. Template Name of the theme
+msgid "Page With Right Sidebar"
+msgstr "Strona z panelem bocznym po prawej stronie"
+
+#. Template Name of the theme
+msgid "Page With Left Sidebar"
+msgstr "Strona z panelem bocznym po lewej stronie"
+
+#: inc/header-options/background-options/background-types/image.php:355
+msgid "Mobile Bg. Vertical Offset"
+msgstr "Przesunięcie w pionie tła dla urządzeń mobilnych"
+
+#: inc/header-options/background-options/background-types/image.php:332
+msgid "Mobile Bg. Horizontal Position"
+msgstr "Poziome tło dla urządzeń mobilnych"
+
+#: customizer/customizer-controls.php:517
+msgid "Upgrade to PRO"
+msgstr "Ulepsz do wersji pro"
+
+#: woocommerce/order/order-details.php:51
+msgid "Total"
+msgstr "Łącznie"
+
+#: woocommerce/order/order-details.php:50
+msgid "Product"
+msgstr "Produkt"
+
+#: woocommerce/order/order-details.php:44
+msgid "Order details"
+msgstr "Szczegóły zamówienia"
+
+#: woocommerce/order/order-details-customer.php:69
+msgid "Shipping address"
+msgstr "Adres do wysyłki"
+
+#: woocommerce/order/order-details-customer.php:65
+#: woocommerce/order/order-details-customer.php:71
+msgid "N/A"
+msgstr "Brak danych"
+
+#: woocommerce/order/order-details-customer.php:63
+msgid "Billing address"
+msgstr "Adres rozliczeniowy"
+
+#: woocommerce/order/order-details-customer.php:49
+msgid "Phone:"
+msgstr "Telefon:"
+
+#: woocommerce/order/order-details-customer.php:35
+#: woocommerce/order/order-details.php:89
+msgid "Note:"
+msgstr "Adnotacja:"
+
+#: woocommerce/order/order-details-customer.php:29
+msgid "Customer details"
+msgstr "Dane klienta"
+
+#: woocommerce/checkout/thankyou.php:71
+msgid "Payment method:"
+msgstr "Metody płatności:"
+
+#: woocommerce/checkout/thankyou.php:64
+msgid "Total:"
+msgstr "Razem:"
+
+#: woocommerce/checkout/thankyou.php:58
+#: woocommerce/order/order-details-customer.php:42
+msgid "Email:"
+msgstr "Adres e-mail:"
+
+#: woocommerce/checkout/thankyou.php:52
+msgid "Date:"
+msgstr "Data:"
+
+#: woocommerce/checkout/thankyou.php:47
+msgid "Order number:"
+msgstr "Numer zamówienia:"
+
+#: woocommerce/checkout/thankyou.php:42 woocommerce/checkout/thankyou.php:92
+msgid "Thank you. Your order has been received."
+msgstr "Dziękujemy. Otrzymaliśmy Twoje zamówienie."
+
+#: woocommerce/checkout/thankyou.php:36
+msgid "My account"
+msgstr "Moje konto"
+
+#: woocommerce/checkout/thankyou.php:34
+msgid "Pay"
+msgstr "Zapłać"
+
+#: woocommerce/checkout/thankyou.php:31
+msgid "Unfortunately your order cannot be processed as the originating bank/merchant has declined your transaction. Please attempt your purchase again."
+msgstr "Niestety nie możemy zrealizować twojego zamówienia, ponieważ bank/partner handlowy nie zaakceptował transakcji. Prosimy spróbować ponownie."
+
+#: woocommerce/checkout/form-checkout.php:56
+msgid "Your order"
+msgstr "Twoje zamówienie"
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr "Musisz się zalogować, aby zrealizować zamówienie."
+
+#: inc/woocommerce/woocommerce.php:459
+msgid "<strong>Mesmerize theme</strong> requires the WooCommerce plugin version to be at least: "
+msgstr "<strong>Motyw Mesmerize</strong> wymaga wtyczki WooCommerce przynajmniej w wersji:"
+
+#: inc/woocommerce/woocommerce.php:458
+msgid "You need to update your <strong>WooCommerce plugin</strong> to use it with the <strong>Mesmerize theme</strong>."
+msgstr "Należy zaktualizować <strong>wtyczkę WooCommerce</strong>, aby móc jej używać z <strong>motywem Mesmerize</strong>."
+
+#: inc/woocommerce/woocommerce.php:456
+msgid "WooCommerce version outdated!"
+msgstr "Nieaktualna wersja WooCommerce!"
+
+#. translators: %d is number of items
+#: inc/woocommerce/woocommerce.php:237
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d element"
+msgstr[1] "%d elementy"
+msgstr[2] "%d elementów"
+
+#: inc/woocommerce/woocommerce.php:232
+msgid "View your shopping cart"
+msgstr "Zobacz zawartość koszyka"
+
+#: inc/woocommerce/woocommerce.php:217
+msgid "Cart Content: "
+msgstr "Zawartość koszyka:"
+
+#: inc/woocommerce/options.php:209
+msgid "On product page set product image as header background"
+msgstr "Ustaw obrazek produktu jako tło nagłówka na stronie produktu"
+
+#: inc/woocommerce/options.php:196
+msgid "Product detail header"
+msgstr "Nagłówek danych o produkcie"
+
+#: inc/woocommerce/options.php:188 inc/woocommerce/options.php:201
+msgid "Navigation only"
+msgstr "Tylko nawigacja"
+
+#: inc/woocommerce/options.php:187 inc/woocommerce/options.php:200
+msgid "Large header with title"
+msgstr "Duży nagłówek z tytułem"
+
+#: inc/woocommerce/options.php:183
+msgid "Shop header"
+msgstr "Nagłówek sklepu"
+
+#: inc/woocommerce/options.php:174
+msgid "Show cart button in menu"
+msgstr "Pokaż przycisk koszyka w menu"
+
+#: inc/woocommerce/options.php:165
+msgid "Shop Header Settings"
+msgstr "Ustawienia nagłówka sklepu"
+
+#: inc/woocommerce/options.php:154
+msgid "Cross-sell products per row on tablet"
+msgstr "Liczba produktów powiązanych w rzędzie na tablecie"
+
+#: inc/woocommerce/options.php:144
+msgid "Cross-sell products per row on desktop"
+msgstr "Liczba produktów powiązanych w rzędzie na komputerze stacjonarnym"
+
+#: inc/woocommerce/options.php:135
+msgid "Number of cross-sell products to display"
+msgstr "Liczba powiązanych produktów do wyświetlenia"
+
+#: inc/woocommerce/options.php:125
+msgid "The cross-sell product list appears in the shopping cart page"
+msgstr "Lista powiązanych produktów na stronie koszyka"
+
+#: inc/woocommerce/options.php:115
+msgid "Cross-sell products Settings"
+msgstr "Ustawienia produktów powiązanych"
+
+#: inc/woocommerce/options.php:107
+msgid "Upsell products per row on tablet"
+msgstr "Sprzedaż produktów droższych w rzędzie na tablecie"
+
+#: inc/woocommerce/options.php:98
+msgid "Upsell products per row on desktop"
+msgstr "Sprzedaż produktów droższych w rzędzie na komputerze stacjonarnym"
+
+#: inc/woocommerce/options.php:89
+msgid "The upsell product list appears in the product page, before the related products list"
+msgstr "Lista droższych produktów do sprzedania pojawia się na stronie produktu przed listą produktów komplementarnych"
+
+#: inc/woocommerce/options.php:80
+msgid "Upsell products Settings"
+msgstr "Ustawienia sprzedaży droższych produktów"
+
+#: inc/woocommerce/options.php:72
+msgid "Related products per row on tablet"
+msgstr "Liczba produktów powiązanych w rzędzie na tablecie"
+
+#: inc/woocommerce/options.php:62
+msgid "Related products per row on desktop"
+msgstr "Liczba produktów powiązanych w rzędzie na komputerze stacjonarnym"
+
+#: inc/woocommerce/options.php:52
+msgid "Related products Settings"
+msgstr "Ustawienia produktów powiązanych"
+
+#: inc/woocommerce/options.php:43
+msgid "Products per row on tablet"
+msgstr "Produktów w rzędzie na tablecie"
+
+#: inc/woocommerce/options.php:33
+msgid "Products per row on desktop"
+msgstr "Produktów na rząd na komputerze stacjonarnym"
+
+#: inc/woocommerce/options.php:24
+msgid "Products per page"
+msgstr "Produktów na stronę"
+
+#: inc/woocommerce/options.php:15
+msgid "Shop Page Settings"
+msgstr "Ustawienia strony sklepu"
+
+#: inc/woocommerce/index.php:27
+msgid "General Options"
+msgstr "Ustawienia ogólne"
+
+#: inc/woocommerce/index.php:21
+msgid "Product List Options"
+msgstr "Opcje listy produktów"
+
+#: inc/woocommerce/index.php:14 inc/woocommerce/woocommerce-ready.php:12
+msgid "WooCommerce Options"
+msgstr "Opcje WooCommerce"
+
+#: inc/templates-functions.php:340
+msgid "Built using WordPress and the <a rel=\"nofollow\" target=\"_blank\" href=\"%1$s\" class=\"mesmerize-theme-link\">Mesmerize Theme</a>"
+msgstr "Zbudowano przy użyciu WordPressa i <a rel=\"nofollow\" target=\"_blank\" href=\"%1$s\" class=\"mesmerize-theme-link\">motywu Mesmerize</a>"
+
+#: inc/header-options/background-options/background-types/image.php:255
+msgid "Show page featured image when available"
+msgstr "Jeżeli to możliwe to pokazuj obrazek wyróżniający ze strony."
+
+#: inc/header-options/content-options/content-type.php:337
+msgid "Width"
+msgstr "Szerokość"
+
+#: inc/theme-options.php:154
+msgid "Page Settings"
+msgstr "Ustawienia strony"
+
+#: inc/theme-options.php:42
+msgid "Front Page Header Designs"
+msgstr "Projekty nagłówków strony startowej"
+
+#: inc/infopage-parts/getting-started.php:57
+msgid "3. Enjoy! :)"
+msgstr "3. Dobrej zabawy! :)"
+
+#: inc/infopage-parts/getting-started.php:56
+msgid "Customize"
+msgstr "Dostosuj"
+
+#: inc/infopage-parts/getting-started.php:39
+msgid "Plugin is installed and active."
+msgstr "Wtyczka została zainstalowana i jest włączona."
+
+#: inc/infopage-parts/getting-started.php:5
+msgid "1. Install the recommended plugins"
+msgstr "1. Zainstaluj zalecane wtyczki"
+
+#: inc/infopage-parts/getting-started.php:4
+msgid "Get Started in 3 Easy Steps"
+msgstr "Rozpocznij od 3 łatwych kroków"
+
+#: inc/theme-info.php:20
+msgid "We're glad you chose our theme and we hope it will help you create a beautiful site in no time!<br> If you have any suggestions, don't hesitate to leave us some feedback."
+msgstr "Cieszymy się, że wybrałeś nasz motyw i mamy nadzieję, że pomoże to szybko stworzyć piękną witrynę!<br>Jeśli masz sugestie, nie wahaj się nimi z nami podzielić."
+
+#: inc/theme-info.php:19
+msgid "Thanks for choosing Mesmerize!"
+msgstr "Dziękujemy za wybór Mesmerize!"
+
+#: inc/header-options/presets.php:69
+msgid "Apply Preset"
+msgstr "Zastosuj wstępne ustawienie"
+
+#: inc/header-options/navigation.php:13
+msgid "Mobile (Offscreen) Navigation"
+msgstr "Nawigacja mobilna (poza ekranem)"
+
+#: inc/header-options/navigation-options/top-bar/content-types/information.php:38
+msgid "Information fields"
+msgstr "Pola z informacjami"
+
+#: inc/header-options/navigation-options/offscreen.php:32
+msgid "Show offscreen navigation on desktop"
+msgstr "Pokaż nawigację poza ekranem na komputerze stacjonarnym"
+
+#: inc/header-options/navigation-options/offscreen.php:22
+msgid "Show offscreen navigation on tablet"
+msgstr "Pokaż nawigację poza ekranem na tablecie"
+
+#: inc/header-options/navigation-options/offscreen.php:13
+msgid "Offscreen Menu Settings"
+msgstr "Ustawienia menu poza ekranem"
+
+#: inc/header-options/navigation-options/nav-bar.php:214
+msgid "Underlined active item"
+msgstr "Podkreślony element aktywny"
+
+#: inc/header-options/navigation-options/nav-bar.php:213
+msgid "Simple text menu"
+msgstr "Proste menu tekstowe"
+
+#: inc/header-options/navigation-options/nav-bar.php:209
+msgid "Navigation style"
+msgstr "Styl nawigacji"
+
+#: inc/header-options/navigation-options/nav-bar.php:183
+msgid "Logo above menu"
+msgstr "Logo nad menu"
+
+#: inc/header-options/navigation-options/nav-bar.php:182
+msgid "Logo on left, Navigation on right"
+msgstr "Logo po lewej, nawigacja po prawej"
+
+#: inc/header-options/navigation-options/nav-bar.php:178
+msgid "Navigation bar type"
+msgstr "Typ paska nawigacji"
+
+#: inc/header-options/navigation-options/nav-bar.php:143
+msgid "Border Options"
+msgstr "Opcje ramki"
+
+#: inc/header-options/navigation-options/nav-bar.php:106
+msgid "Bottom Border Thickness"
+msgstr "Grubość ramki na dole"
+
+#: inc/header-options/navigation-options/nav-bar.php:79
+msgid "Bottom Border Color"
+msgstr "Kolor ramki na dole"
+
+#: inc/header-options/navigation-options/nav-bar.php:63
+msgid "Bottom Border Options"
+msgstr "Opcje ramki na dole"
+
+#: inc/header-options/content-options/content-type.php:778
+msgid "Mobile Content Spacing"
+msgstr "Odstęp pomiędzy treścią mobilną"
+
+#: inc/header-options/content-options/content-type.php:532
+msgid "Text Box Settings"
+msgstr "Ustawienia boksu tekstowego"
+
+#: inc/header-options/content-options/content-type.php:498
+msgid "Hide frame on mobile"
+msgstr "Ukryj ramkę na telefonie komórkowym"
+
+#: inc/header-options/content-options/content-type.php:485
+msgid "Show frame shadow"
+msgstr "Pokaż cień ramki"
+
+#: inc/header-options/content-options/content-type.php:471
+msgid "Show frame over image"
+msgstr "Pokaż ramkę na obrazku"
+
+#: inc/header-options/content-options/content-type.php:457
+msgid "Frame Color"
+msgstr "Kolor ramki"
+
+#: inc/header-options/content-options/content-type.php:417
+msgid "Frame thickness"
+msgstr "Grubość ramki"
+
+#: inc/header-options/content-options/content-type.php:397
+msgid "Offset top"
+msgstr "Przesunięcie na górze"
+
+#: inc/header-options/content-options/content-type.php:377
+msgid "Offset left"
+msgstr "Przesunięcie lewej strony"
+
+#: inc/header-options/content-options/content-type.php:320
+msgid "Border"
+msgstr "Obramowanie"
+
+#: inc/header-options/content-options/content-type.php:315
+msgid "Frame Type"
+msgstr "Typ ramki"
+
+#: inc/header-options/content-options/content-type.php:298
+msgid "Frame Options"
+msgstr "Opcje ramki"
+
+#: inc/header-options/content-options/content-type.php:79
+msgid "Media Box Settings"
+msgstr "Ustawienia ramki z plikiem medialnym"
+
+#: inc/header-options/content-options/content-type.php:89
+msgid "Media width"
+msgstr "Szerokość pliku medialnego"
+
+#: inc/header-options/background-options/overlay-type.php:40
+msgid "Shape Only"
+msgstr "Tylko kształt"
+
+#: inc/header-options/background-options/header-separator.php:16
+msgid "Bottom Separator"
+msgstr "Separator na dole"
+
+#: inc/header-options/background-options/bottom-arrow.php:187
+msgid "Icon Background Color"
+msgstr "Kolor tła ikony"
+
+#: inc/header-options/background-options/bottom-arrow.php:160
+msgid "Icon Color"
+msgstr "Kolor ikony"
+
+#: inc/header-options/background-options/bottom-arrow.php:130
+msgid "Icon Bottom Offset"
+msgstr "Przesunięcie ikony na dole"
+
+#: inc/header-options/background-options/bottom-arrow.php:89
+msgid "Icon Size"
+msgstr "Rozmiar ikony"
+
+#: inc/header-options/background-options/bottom-arrow.php:53
+msgid "Bounce arrow"
+msgstr "Odbicie strzałki"
+
+#: inc/header-options/background-options/bottom-arrow.php:23
+msgid "Use Bottom Arrow"
+msgstr "Użyj strzałki w dół"
+
+#: inc/header-options/background-options/background-types/video.php:82
+msgid "Video Background Options"
+msgstr "Opcje tła z filmem"
+
+#: inc/header-options/background-options/background-types/slideshow.php:38
+msgid "Slideshow Background Options"
+msgstr "Opcje tła z pokazem slajdów"
+
+#: inc/header-options/background-options/background-types/image.php:313
+msgid "Leave this field empty if you want to use the main image header image"
+msgstr "Pozostaw to pole wolne, jeśli chcesz użyć obrazka nagłówka jako głównego obrazka"
+
+#: inc/header-options/background-options/background-types/image.php:312
+msgid "Mobile Only Image"
+msgstr "Obrazek tylko na telefon komórkowy"
+
+#: inc/header-options/background-options/background-types/image.php:295
+msgid "Mobile Image Background Options"
+msgstr "Opcje obrazków tła na telefonie komórkowym"
+
+#: inc/header-options/background-options/background-types/image.php:142
+msgid "Image Background Options"
+msgstr "Opcje obrazków tła"
+
+#: inc/header-options/background-options/background-types/gradient.php:31
+msgid "Gradient Background Options"
+msgstr "Opcje gradientu tła"
+
+#: inc/header-options/background-options/background-types/color.php:42
+msgid "Color Background Options"
+msgstr "Opcje koloru tła"
+
+#: inc/general-options/colors.php:11
+msgid "color6"
+msgstr "kolor6"
+
+#: inc/functions.php:1131
+msgid "Mesmerize Info"
+msgstr "O Mesmerize"
+
+#: inc/functions.php:907
+msgid "Footer Third Box Widgets"
+msgstr "Widżety trzeciego pola stopki"
+
+#: inc/functions.php:897
+msgid "Footer Second Box Widgets"
+msgstr "Widżety drugiego pola stopki"
+
+#: inc/functions.php:889 inc/functions.php:899 inc/functions.php:909
+msgid "Widget Area"
+msgstr "Panel boczny"
+
+#: inc/functions.php:887
+msgid "Footer First Box Widgets"
+msgstr "Widżety pierwszego pola stopki"
+
+#: inc/functions.php:398 inc/infopage-parts/demo-import.php:7
+msgid "This feature requires the Mesmerize Companion plugin to be installed."
+msgstr "Ta funkcja wymaga zainstalowania wtyczki Mesmerize Companion."
+
+#: inc/functions.php:397
+msgid "Install Mesmerize Companion"
+msgstr "Zainstaluj Mesmerize Companion"
+
+#: inc/functions.php:395
+msgid "This feature requires the Mesmerize Companion plugin to be activated."
+msgstr "Ta funkcja wymaga aktywowania wtyczki Mesmerize Companion."
+
+#: inc/functions.php:394
+msgid "Activate Mesmerize Companion"
+msgstr "Włącz Mesmerize Companion"
+
+#: inc/functions.php:381
+msgid "The Contact Form by WPForms plugin is recommended for the Mesmerize contact section."
+msgstr "Wtyczka Contact Form by WPForms jest zalecana do sekcji kontaktów Mesmerize."
+
+#: inc/functions.php:365
+msgid "Mesmerize Companion plugin adds drag and drop functionality and many other features to the Mesmerize theme."
+msgstr "Wtyczka Mesmerize Companion dodaje funkcję przeciągania i upuszczania oraz wiele innych funkcji do motywu Mesmerize."
+
+#: inc/functions.php:370 inc/infopage-parts/demo-import.php:6
+msgid "Mesmerize Companion"
+msgstr "Mesmerize Companion"
+
+#: inc/footer-options.php:421
+msgid "Go to widgets section to add a widget here."
+msgstr "Przejdź do sekcji widżetów, aby dodać widżet tutaj."
+
+#: inc/footer-options.php:315
+msgid "Icon %s icon"
+msgstr "Ikona %s ikona"
+
+#: inc/footer-options.php:314
+msgid "Icon %s url"
+msgstr "Adres url ikony %s"
+
+#: inc/footer-options.php:313
+msgid "Show Icon %s"
+msgstr "Pokaż ikonę %s"
+
+#: inc/footer-options.php:311
+msgid "Social Icon %s Options"
+msgstr "Opcje ikony społecznościowej %s"
+
+#: inc/footer-options.php:285
+msgid "Contact Boxes Options"
+msgstr "Opcje pola kontaktowego"
+
+#: inc/footer-options.php:224
+msgid "Box 3 Content"
+msgstr "Treść pola 3"
+
+#: inc/footer-options.php:164
+msgid "Box 2 Content"
+msgstr "Treść pola 2"
+
+#: inc/footer-options.php:140 inc/footer-options.php:199
+#: inc/footer-options.php:259
+msgid "Text"
+msgstr "Tekst"
+
+#: inc/footer-options.php:122 inc/footer-options.php:181
+#: inc/footer-options.php:241
+#: inc/header-options/background-options/bottom-arrow.php:71
+msgid "Icon"
+msgstr "Ikonka"
+
+#: inc/footer-options.php:105
+msgid "Box 1 Content"
+msgstr "Treść pola 1"
+
+#: inc/footer-options.php:92
+msgid "Widgets Boxes"
+msgstr "Pola widżetów"
+
+#: inc/footer-options.php:91
+msgid "Contact Boxes"
+msgstr "Obszar danych kontaktowych"
+
+#: inc/footer-options.php:90
+msgid "Simple"
+msgstr "Proste"
+
+#: inc/footer-options.php:85
+msgid "Footer Template"
+msgstr "Szablon stopki"
+
+#: inc/footer-options.php:64
+msgid "Use footer parallax"
+msgstr "Użyj paralaksy stopki"
+
+#: inc/footer-options.php:55
+msgid "Footer Content"
+msgstr "Zawartość stopki"
+
+#: inc/footer-options.php:24
+msgid "+1 (555) 345 234343"
+msgstr "+48 (10) 345 234343"
+
+#: inc/footer-options.php:18
+msgid "hello@mycoolsite.com"
+msgstr "hello@mycoolsite.com"
+
+#: inc/footer-options.php:12
+msgid "San Francisco - Adress - 18 California Street 1100."
+msgstr "Warszawa - Adres - Al. Jerozolimskie 1 00-500"
+
+#: inc/blog-options.php:87
+msgid "Placeholder Background Color"
+msgstr "Kolor tła symbolu zastępczego"
+
+#: inc/blog-options.php:80
+msgid "Show thumbnail placeholder"
+msgstr "Pokaż symbol zastępczy ikony"
+
+#: inc/blog-options.php:60
+msgid "Post per row"
+msgstr "Umieść w rzędach"
+
+#: inc/blog-options.php:44
+msgid "Highlight first post"
+msgstr "Zaznacz pierwszy wpis"
+
+#: inc/blog-options.php:35
+msgid "Show post meta"
+msgstr "Pokaż meta wpisu"
+
+#: inc/blog-options.php:18
+msgid "Show blog sidebar"
+msgstr "Pokaż panel boczny blogu"
+
+#: inc/blog-options.php:9 inc/theme-options.php:117
+msgid "Blog Settings"
+msgstr "Ustawienia bloga"
+
+#: customizer/companion-popup.php:65 customizer/customizer-controls.php:656
+#: inc/companion.php:109
+msgid "Install now"
+msgstr "Zainstaluj"
+
+#: customizer/companion-popup.php:62 customizer/customizer-controls.php:653
+#: inc/companion.php:106
+msgid "Activate now"
+msgstr "Włącz teraz"
+
+#: customizer/start-with-frontpage.php:53
+msgid "Maybe later"
+msgstr "Może później"
+
+#: customizer/companion-popup.php:45
+msgid "Don't show this popup in the future"
+msgstr "Nie pokazuj więcej tego okna wyskakującego"
+
+#: customizer/companion-popup.php:29
+msgid "and many other features"
+msgstr "oraz wiele innych funkcji"
+
+#: customizer/companion-popup.php:28
+msgid "3 footer types"
+msgstr "3 typy stopki"
+
+#: customizer/companion-popup.php:27
+msgid "5 header types"
+msgstr "5 typów nagłówka"
+
+#: customizer/companion-popup.php:26
+msgid "Live content editing"
+msgstr "Edycja treści na żywo"
+
+#: customizer/companion-popup.php:25
+msgid "25+ predefined content sections"
+msgstr "25+ wstępnie zaprojektowanych sekcji treści"
+
+#: customizer/companion-popup.php:24
+msgid "Drag and drop page customization"
+msgstr "Personalizacja za pomocą przeciągania i upuszczania"
+
+#: customizer/companion-popup.php:23
+msgid "Beautiful ready-made homepage"
+msgstr "Piękna gotowa strona główna"
+
+#: customizer/companion-popup.php:21
+msgid "Here's what you'll get:"
+msgstr "Oto, co otrzymasz:"
+
+#: customizer/companion-popup.php:19 customizer/customizer-controls.php:647
+#: inc/companion.php:99
+msgid "Please Install the Mesmerize Companion Plugin to Enable All the Theme Features"
+msgstr "Prosimy zainstalować wtyczkę Mesmerize Companion, aby włączyć wszystkie funkcje motywu"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3664
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalowanie wtyczki %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3662
+msgid "All installations have been completed."
+msgstr "Wszystkie instalacje zostały zakończone."
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3661
+msgid "%1$s installed successfully."
+msgstr "Zainstalowano %1$s."
+
+#: class-tgm-plugin-activation.php:3659
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Instalowanie zostało rozpoczęte. Na niektórych hostingach może to trochę potrwać, więc prosimy o cierpliwość."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3656
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalowanie i włączanie wtyczki %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3654
+msgid "All installations and activations have been completed."
+msgstr "Wszystko co trzeba zostało zainstalowane i włączone."
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3653 class-tgm-plugin-activation.php:3661
+msgid "Hide Details"
+msgstr "Ukryj szczegóły"
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3653 class-tgm-plugin-activation.php:3661
+msgid "Show Details"
+msgstr "Pokaż szczegóły"
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3653
+msgid "%1$s installed and activated successfully."
+msgstr "Zainstalowano i włączono %1$s."
+
+#: class-tgm-plugin-activation.php:3651
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Rozpoczął się proces instalacji i włączania wtyczek. Trochę to potrwa, więc proszę czekać cierpliwie."
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3647
+msgid "The installation of %1$s failed."
+msgstr "Nie udało się zainstalować %1$s."
+
+#. translators: 1: plugin name, 2: error message.
+#: class-tgm-plugin-activation.php:3645
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Wystąpił błąd podczas instalowania wtyczki %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3642
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Aktualizowanie wtyczki %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3290
+msgid "Plugin activation failed."
+msgstr "Nie udało się włączyć wtyczki."
+
+#: class-tgm-plugin-activation.php:3057
+msgid "No plugins are available to be activated at this time."
+msgstr "Aktualnie brak wtyczek do włączenia."
+
+#: class-tgm-plugin-activation.php:3031
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Nie wybrano żadnej wtyczki do włączenia. Nie podjęto działania."
+
+#: class-tgm-plugin-activation.php:2925
+msgid "No plugins are available to be updated at this time."
+msgstr "Aktualnie nie ma wtyczek do aktualizacji."
+
+#: class-tgm-plugin-activation.php:2923
+msgid "No plugins are available to be installed at this time."
+msgstr "Aktualnie nie ma wtyczek do zainstalowania."
+
+#: class-tgm-plugin-activation.php:2882
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Nie wybrano żadnej wtyczki do aktualizacji. Nie podjęto działania."
+
+#: class-tgm-plugin-activation.php:2880
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Nie wybrano żadnej wtyczki do zainstalowania. Nie podjęto działania."
+
+#: class-tgm-plugin-activation.php:2848 inc/functions.php:373
+#: inc/functions.php:384 inc/infopage-parts/demo-import.php:16
+msgid "Activate"
+msgstr "Włącz"
+
+#: class-tgm-plugin-activation.php:2845
+msgid "Update"
+msgstr "Aktualizuj"
+
+#: class-tgm-plugin-activation.php:2839 inc/functions.php:376
+#: inc/functions.php:387 inc/infopage-parts/demo-import.php:20
+msgid "Install"
+msgstr "Zainstaluj"
+
+#: class-tgm-plugin-activation.php:2804
+msgid "Upgrade message from the plugin author:"
+msgstr "Wiadomość dotycząca aktualizacji od autora wtyczki:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2730
+msgid "Activate %2$s"
+msgstr "Włącz %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2724
+msgid "Update %2$s"
+msgstr "Aktualizuj %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2719
+msgid "Install %2$s"
+msgstr "Zainstaluj %2$s"
+
+#: class-tgm-plugin-activation.php:2666
+msgid "Status"
+msgstr "Status"
+
+#: class-tgm-plugin-activation.php:2665
+msgid "Version"
+msgstr "Wersja"
+
+#: class-tgm-plugin-activation.php:2660
+msgid "Source"
+msgstr "Źródło"
+
+#: class-tgm-plugin-activation.php:2659
+msgid "Plugin"
+msgstr "Wtyczka"
+
+#: class-tgm-plugin-activation.php:2644
+msgid "No plugins to install, update or activate."
+msgstr "Brak wtyczek do zainstalowania, aktualizacji lub włączenia."
+
+#: class-tgm-plugin-activation.php:2620
+msgid "Available version:"
+msgstr "Dostępna wersja:"
+
+#: class-tgm-plugin-activation.php:2608
+msgid "Minimum required version:"
+msgstr "Minimalna wymagana wersja:"
+
+#: class-tgm-plugin-activation.php:2600
+msgid "Installed version:"
+msgstr "Zainstalowana wersja:"
+
+#: class-tgm-plugin-activation.php:2592
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "nieznana"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2502
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Do włączenia <span class=\"count\">(%s)</span>"
+msgstr[1] "Do włączenia <span class=\"count\">(%s)</span>"
+msgstr[2] "Do włączenia <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2498
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Dostępna aktualizacja <span class=\"count\">(%s)</span>"
+msgstr[1] "Dostępne aktualizacje <span class=\"count\">(%s)</span>"
+msgstr[2] "Dostępnych aktualizacji <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2494
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Do zainstalowania <span class=\"count\">(%s)</span>"
+msgstr[1] "Do zainstalowania <span class=\"count\">(%s)</span>"
+msgstr[2] "Do zainstalowania <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2490
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Wszystkie <span class=\"count\">(%s)</span>"
+msgstr[1] "Wszystkie <span class=\"count\">(%s)</span>"
+msgstr[2] "Wszystkie <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: class-tgm-plugin-activation.php:2441
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: class-tgm-plugin-activation.php:2432
+msgid "Update recommended"
+msgstr "Zalecana aktualizacja"
+
+#: class-tgm-plugin-activation.php:2429
+msgid "Requires Update"
+msgstr "Wymaga aktualizacji"
+
+#: class-tgm-plugin-activation.php:2426
+msgid "Required Update not Available"
+msgstr "Wymagana aktualizacja nie jest dostępna"
+
+#: class-tgm-plugin-activation.php:2420
+msgid "Active"
+msgstr "Włączono"
+
+#: class-tgm-plugin-activation.php:2418
+msgid "Installed But Not Activated"
+msgstr "Zainstalowano, ale nie włączono"
+
+#: class-tgm-plugin-activation.php:2414
+msgid "Not Installed"
+msgstr "Nie zainstalowano"
+
+#: class-tgm-plugin-activation.php:2395
+msgid "Pre-Packaged"
+msgstr "W pakiecie"
+
+#: class-tgm-plugin-activation.php:2392
+msgid "External Source"
+msgstr "Źródło zewnętrzne"
+
+#: class-tgm-plugin-activation.php:2389
+msgid "WordPress Repository"
+msgstr "Repozytorium WordPressa"
+
+#: class-tgm-plugin-activation.php:2371
+msgid "Recommended"
+msgstr "Polecane"
+
+#: class-tgm-plugin-activation.php:2368
+msgid "Required"
+msgstr "Wymagane"
+
+#. translators: %s: version number
+#: class-tgm-plugin-activation.php:2066
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: class-tgm-plugin-activation.php:1146 class-tgm-plugin-activation.php:3071
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "i"
+
+#: class-tgm-plugin-activation.php:955
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Zdalny pakiet wtyczki składa się z więcej niż jednego pliku, ale pliki nie są spakowane w katalogu."
+
+#: class-tgm-plugin-activation.php:952 class-tgm-plugin-activation.php:955
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Skontaktuj się z dostawcą wtyczki i poproś o przygotowanie nowej wersji zgodnej z wytycznymi WordPressa."
+
+#: class-tgm-plugin-activation.php:952
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Wtyczka z pakietu nie zawiera katalogu z prawidłową nazwą, a próba zmiany nazwy nie zadziałała."
+
+#: class-tgm-plugin-activation.php:531
+msgid "Update Required"
+msgstr "Wymagana aktualizacja"
+
+#: class-tgm-plugin-activation.php:530
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Wtyczka wymaga aktualizacji, aby być kompatybilną z używanym motywem."
+
+#: class-tgm-plugin-activation.php:403
+msgid "Please contact the administrator of this site for help."
+msgstr "Proszę skontaktować się z administratorem witryny, aby uzyskać pomoc."
+
+#: class-tgm-plugin-activation.php:402
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Co najmniej jedna z wymaganych lub zalecanych wtyczek wymaga zainstalowania, aktualizacji lub włączenia."
+
+#: class-tgm-plugin-activation.php:401
+msgid "Dismiss this notice"
+msgstr "Odrzuć powiadomienie"
+
+#. translators: 1: dashboard link.
+#: class-tgm-plugin-activation.php:400
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Wszystkie wtyczki zostały zainstalowane i włączone. %1$s"
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:398
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Wtyczka nie została włączona. Motyw wymaga użycia nowszej wersji wtyczki niż %s. Proszę ją zaktualizować."
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:396
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Nic nie zrobiono. Wtyczka %1$s jest już włączona."
+
+#: class-tgm-plugin-activation.php:394 class-tgm-plugin-activation.php:3075
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Włączono wtyczkę:"
+msgstr[1] "Włączono wtyczki:"
+msgstr[2] "Włączono wtyczki:"
+
+#: class-tgm-plugin-activation.php:393 class-tgm-plugin-activation.php:3291
+msgid "Plugin activated successfully."
+msgstr "Wtyczka została włączona."
+
+#: class-tgm-plugin-activation.php:392 class-tgm-plugin-activation.php:842
+#: class-tgm-plugin-activation.php:2644 class-tgm-plugin-activation.php:3727
+msgid "Return to the Dashboard"
+msgstr "Powrót do kokpitu"
+
+#: class-tgm-plugin-activation.php:391
+msgid "Return to Required Plugins Installer"
+msgstr "Wróć do instalatora wymaganych wtyczek"
+
+#: class-tgm-plugin-activation.php:386
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Rozpocznij włączanie wtyczki"
+msgstr[1] "Rozpocznij włączanie wtyczek"
+msgstr[2] "Rozpocznij włączanie wtyczek"
+
+#: class-tgm-plugin-activation.php:381
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Rozpocznij aktualizację wtyczki"
+msgstr[1] "Rozpocznij aktualizację wtyczek"
+msgstr[2] "Rozpocznij aktualizację wtyczek"
+
+#: class-tgm-plugin-activation.php:376
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Rozpocznij instalację wtyczki"
+msgstr[1] "Rozpocznij instalację wtyczek"
+msgstr[2] "Rozpocznij instalację wtyczek"
+
+#: class-tgm-plugin-activation.php:339
+msgid "Something went wrong with the plugin API."
+msgstr "Wystąpił problem z API wtyczki."
+
+#. translators: %s: plugin name.
+#: class-tgm-plugin-activation.php:338
+msgid "Updating Plugin: %s"
+msgstr "Aktualizowanie wtyczki: %s"
+
+#. translators: %s: plugin name.
+#: class-tgm-plugin-activation.php:336
+msgid "Installing Plugin: %s"
+msgstr "Instalowanie wtyczki: %s"
+
+#: class-tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr "Zainstaluj wtyczki"
+
+#: class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr "Zainstaluj wymagane wtyczki"
+
+#. Template Name of the theme
+msgid "Front Page Template"
+msgstr "Szablon strony głównej"
+
+#: template-parts/content-single.php:48
+msgid "Previous post:"
+msgstr "Poprzedni wpis:"
+
+#: template-parts/content-single.php:46
+msgid "Previous:"
+msgstr "Poprzedni:"
+
+#: template-parts/content-single.php:43
+msgid "Next post:"
+msgstr "Następny wpis:"
+
+#: template-parts/content-single.php:42
+msgid "Next:"
+msgstr "Następny:"
+
+#: template-parts/content-post-meta.php:10
+msgid "on"
+msgstr "włącz"
+
+#: template-parts/content-post-meta.php:8
+msgid "by"
+msgstr "przez"
+
+#: template-parts/content-page.php:6 template-parts/content-single.php:20
+msgid "Pages:"
+msgstr "Strony:"
+
+#: template-parts/content-none.php:12
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Nie udało się znaleźć tego, czego szukasz. Być może wyszukiwanie przyniesie lepsze rezultaty."
+
+#: template-parts/content-none.php:9
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Brak wyników wyszukiwania. Proszę spróbować ponownie z innymi słowami."
+
+#: template-parts/content-none.php:7
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Wszystko gotowe? <a href=\"%1$s\">Zacznij tutaj</a> i opublikuj swój pierwszy wpis."
+
+#: template-parts/content-none.php:4
+msgid "Nothing Found"
+msgstr "Niczego nie znaleziono"
+
+#: searchform.php:4
+msgid "Search &hellip;"
+msgstr "Szukaj &hellip;"
+
+#: searchform.php:3
+msgctxt "label"
+msgid "Search for:"
+msgstr "Szukaj:"
+
+#: inc/templates-functions.php:367 template-parts/content-page.php:10
+#: template-parts/content-single.php:25
+msgid "Page"
+msgstr "Strona"
+
+#: inc/templates-functions.php:369 inc/templates-functions.php:376
+msgid "<i class=\"fa fa-angle-right\" aria-hidden=\"true\"></i>"
+msgstr "<i class=\"fa fa-angle-right\" aria-hidden=\"true\"></i>"
+
+#: inc/templates-functions.php:368 inc/templates-functions.php:375
+msgid "<i class=\"fa fa-angle-left\" aria-hidden=\"true\"></i>"
+msgstr "<i class=\"fa fa-angle-left\" aria-hidden=\"true\"></i>"
+
+#: inc/theme-options.php:353
+msgid "Change image"
+msgstr "Zmień obrazek"
+
+#: inc/theme-options.php:352
+msgid "Deselect"
+msgstr "Odznacz"
+
+#: customizer/GradientControl.php:15 inc/theme-options.php:351
+msgid "Select Gradient"
+msgstr "Wybierz gradient"
+
+#: inc/theme-options.php:350
+msgid "Font Awesome Icons"
+msgstr "Ikony czcionki Awesome"
+
+#: inc/theme-options.php:349
+msgid "Web Gradients"
+msgstr "Gradienty internetowe"
+
+#: inc/theme-options.php:348
+msgid "Choose Images"
+msgstr "Wybierz obrazki"
+
+#: inc/theme-options.php:284
+msgid "Choose logo"
+msgstr "Wybierz logo"
+
+#: inc/theme-options.php:282
+msgid "No logo selected"
+msgstr "Nie wybrano logo"
+
+#: inc/theme-options.php:279
+msgid "Change logo"
+msgstr "Zmień logo"
+
+#: inc/theme-options.php:278 inc/theme-options.php:283
+msgid "Select logo"
+msgstr "Wybierz logo"
+
+#: inc/theme-options.php:270
+msgid "Dark Logo"
+msgstr "Ciemne logo"
+
+#: inc/theme-options.php:257
+msgid "Alternate text logo words"
+msgstr "Alternatywny tekst logo"
+
+#: inc/theme-options.php:244
+msgid "Logo Max Height (px)"
+msgstr "Maksymalna wysokość logo (px)"
+
+#: inc/theme-options.php:149
+msgid "Inner Pages Hero"
+msgstr "Baner na podstronach"
+
+#: inc/theme-options.php:144
+msgid "Front Page Hero Content"
+msgstr "Treść banera na stronie głównej"
+
+#: inc/theme-options.php:139
+msgid "Front Page Hero"
+msgstr "Baner na stronie głównej"
+
+#: inc/theme-options.php:122
+msgid "General Settings"
+msgstr "Ustawienia ogólne"
+
+#: inc/theme-options.php:112
+msgid "Footer Settings"
+msgstr "Ustawienia stopki"
+
+#: inc/theme-options.php:63 inc/theme-options.php:87 inc/theme-options.php:96
+#: inc/theme-options.php:105
+msgid "Front Page content"
+msgstr "Treść strony głównej"
+
+#: inc/theme-options.php:76
+msgid "Hero"
+msgstr "Bohater"
+
+#: inc/theme-options.php:51
+msgid "Navigation"
+msgstr "Nawigacja"
+
+#: inc/templates-functions.php:370
+msgid "Posts navigation"
+msgstr "Nawigacja po wpisach"
+
+#: inc/templates-functions.php:352
+msgid "Y"
+msgstr "Y"
+
+#: inc/header-options/navigation.php:12
+msgid "Inner Page Navigation"
+msgstr "Nawigacja na podstronach"
+
+#: inc/header-options/navigation.php:11
+msgid "Front Page Navigation"
+msgstr "Nawigacja na stronie głównej"
+
+#: inc/header-options/navigation.php:10
+msgid "Top Bar"
+msgstr "Pasek górny"
+
+#: inc/header-options/navigation-options/top-bar.php:26
+msgid "Show Top Bar"
+msgstr "Pokaż pasek górny"
+
+#: inc/header-options/navigation-options/top-bar.php:18
+msgid "Top Bar Display"
+msgstr "Wyświetlanie górnego paska"
+
+#: inc/footer-options.php:402
+#: inc/header-options/navigation-options/top-bar/content-types/social-icons.php:96
+msgid "Social Icons Options"
+msgstr "Opcje ikon społecznościowych"
+
+#: inc/header-options/navigation-options/top-bar/content-types/social-icons.php:82
+msgid "Field %d link"
+msgstr "Odnośnik do pola %d"
+
+#: inc/header-options/navigation-options/top-bar/content-types/social-icons.php:68
+msgid "Icon %d icon"
+msgstr "Ikona %d ikona"
+
+#: inc/header-options/navigation-options/top-bar/content-types/social-icons.php:47
+msgid "Show Icon %d"
+msgstr "Pokaż ikonę %d"
+
+#: inc/header-options/navigation-options/top-bar/content-types/social-icons.php:4
+#: inc/header-options/navigation-options/top-bar/content-types/social-icons.php:27
+msgid "Social Icons"
+msgstr "Ikony mediów społecznościowych"
+
+#: inc/header-options/navigation-options/top-bar/content-types/information.php:111
+msgid "Info Options"
+msgstr "Opcje informacji"
+
+#: inc/header-options/navigation-options/top-bar/content-types/information.php:89
+msgid "Field %d text"
+msgstr "Text pola %d"
+
+#: inc/header-options/navigation-options/top-bar/content-types/information.php:70
+msgid "Field %d icon"
+msgstr "Pole ikony %d"
+
+#: inc/header-options/navigation-options/top-bar/content-types/information.php:57
+msgid "Show Field %d"
+msgstr "Pokaż pole %d"
+
+#: inc/header-options/navigation-options/top-bar/content-types/information.php:28
+msgid "info@yourmail.com"
+msgstr "info@yourmail.com"
+
+#: inc/header-options/navigation-options/top-bar/content-types/information.php:23
+msgid "+1234567890"
+msgstr "+1234567890"
+
+#: inc/header-options/navigation-options/top-bar/content-types/information.php:18
+msgid "Location,TX 75035,USA"
+msgstr "Lokalizacja,00-500, Warszawa, Polska"
+
+#: inc/header-options/navigation-options/top-bar/content-types/information.php:5
+msgid "Information Fields"
+msgstr "Pola z informacjami"
+
+#: inc/header-options/navigation-options/top-bar/content-areas.php:35
+msgid "Top bar right area"
+msgstr "Prawa część paska górnego"
+
+#: inc/header-options/navigation-options/top-bar/content-areas.php:30
+msgid "Top bar left area"
+msgstr "Lewa część paska górnego"
+
+#: inc/header-options/navigation-options/nav-bar.php:157
+msgid "Transparent Nav Bar"
+msgstr "Transparentny pasek nawigacji"
+
+#: inc/header-options/navigation-options/nav-bar.php:50
+msgid "Show Navigation Bottom Border"
+msgstr "Pokaż dolne obramowanie nawigacji"
+
+#: inc/header-options/navigation-options/nav-bar.php:39
+msgid "Boxed Navigation"
+msgstr "Nawigacja w ramce"
+
+#: inc/header-options/navigation-options/nav-bar.php:29
+msgid "Stick to top"
+msgstr "Przypnij na górze"
+
+#: inc/header-options/navigation-options/nav-bar.php:18
+msgid "Front Page Navigation options"
+msgstr "Opcje nawigacji na stronie głównej"
+
+#: inc/header-options/navigation-options/nav-bar.php:18
+msgid "Inner Pages Navigation options"
+msgstr "Opcje nawigacji na podstronach"
+
+#: inc/header-options/content.php:67
+msgid "Text with media on right"
+msgstr "Tekst z plikiem medialnym po prawej stronie"
+
+#: inc/header-options/content.php:66
+msgid "Text with media on left"
+msgstr "Tekst z plikiem medialnym po lewej stronie"
+
+#: inc/header-options/content.php:65
+msgid "Text on left"
+msgstr "Tekst po lewej stronie"
+
+#: inc/header-options/content.php:64
+msgid "Text on right"
+msgstr "Wyrównanie do prawej"
+
+#: inc/header-options/content.php:63
+msgid "Text on center"
+msgstr "Wyśrodkowanie"
+
+#: inc/header-options/content-options/title.php:73
+msgid "You can set this title from the customizer."
+msgstr "Można ustawić ten tytuł z poziomu personalizacji."
+
+#: inc/header-options/content-options/title.php:43
+msgid "Title"
+msgstr "Tytuł"
+
+#: inc/header-options/content-options/title.php:12
+msgid "Show title"
+msgstr "Pokaż tytuł"
+
+#: inc/header-options/content-options/subtitle.php:76
+msgid "You can set this subtitle from the customizer."
+msgstr "Można ustawić ten podtytuł z poziomu personalizacji."
+
+#: inc/header-options/content-options/subtitle.php:46
+msgid "Subtitle"
+msgstr "Podtytuł"
+
+#: inc/header-options/content-options/subtitle.php:11
+msgid "Show subtitle"
+msgstr "Pokaż podtytuł"
+
+#: inc/header-options/content-options/inner-pages.php:79
+msgid "Show subtitle (blog description)"
+msgstr "Pokaż podtytuł (opis blogu)"
+
+#: inc/header-options/content-options/inner-pages.php:8
+msgid "Content"
+msgstr "Treść"
+
+#: inc/header-options/content-options/content-type.php:753
+#: inc/header-options/content-options/inner-pages.php:52
+msgid "Content Spacing"
+msgstr "Odstępy w treści"
+
+#: inc/header-options/content-options/content-type.php:724
+msgid "Media Type"
+msgstr "Typ medium"
+
+#: inc/header-options/content-options/content-type.php:638
+msgid "Content layout"
+msgstr "Układ treści"
+
+#: inc/header-options/content-options/content-type.php:628
+msgid "Content Options"
+msgstr "Opcje treści"
+
+#: inc/header-options/content-options/content-type.php:601
+msgid "Text Vertical Align"
+msgstr "Wyrównanie tekstu pionowo"
+
+#: inc/header-options/content-options/content-type.php:562
+msgid "Text Width"
+msgstr "Szerokość tekstu"
+
+#: inc/header-options/content-options/content-type.php:523
+msgid "Text box settings"
+msgstr "Ustawienia ramki tekstowej"
+
+#: inc/header-options/content-options/content-type.php:229
+msgid "Media Box Spacing"
+msgstr "Rozmieszczenie ramki z plikiem medialnym"
+
+#: inc/header-options/content-options/content-type.php:186
+msgid "Image width"
+msgstr "Szerokość obrazka"
+
+#: inc/header-options/content-options/content-type.php:136
+msgid "Media Vertical Align"
+msgstr "Wyrównanie pliku tekstowego pionowo"
+
+#: inc/header-options/content-options/content-type.php:64
+msgid "Media box settings"
+msgstr "Ustawienia ramki z plikiem medialnym"
+
+#: inc/header-options/content-options/content-type.php:51
+#: inc/header-options/content-options/content-type.php:608
+msgid "Middle"
+msgstr "Pośrodku"
+
+#: inc/header-options/content-options/buttons.php:225
+msgid "Action button"
+msgstr "Przycisk akcji"
+
+#: inc/header-options/content-options/buttons.php:134
+msgid "Class"
+msgstr "Klasa"
+
+#: inc/header-options/content-options/buttons.php:128
+msgid "Target"
+msgstr "Cel"
+
+#: inc/header-options/content-options/buttons.php:122
+msgid "Link"
+msgstr "Odnośnik"
+
+#: inc/header-options/content-options/buttons.php:118
+msgid "Action Button"
+msgstr "Przycisk akcji"
+
+#: inc/header-options/content-options/buttons.php:117
+msgid "Label"
+msgstr "Etykieta"
+
+#: inc/header-options/content-options/buttons.php:112
+msgid "Button"
+msgstr "Przycisk"
+
+#: inc/header-options/content-options/buttons.php:81
+#: inc/header-options/content-options/buttons.php:103
+msgid "Buttons"
+msgstr "Przyciski"
+
+#: inc/header-options/content-options/buttons.php:49
+msgid "Show buttons"
+msgstr "Pokaż przyciski"
+
+#: inc/header-options/content-options/buttons.php:13
+msgid "Action Button 2"
+msgstr "Przycisk czynności 2"
+
+#: inc/header-options/content-options/buttons.php:7
+msgid "Action Button 1"
+msgstr "Przycisk czynności 1"
+
+#: inc/header-options/background.php:21
+#: inc/header-options/content-options/content-type.php:319
+msgid "Background"
+msgstr "Tło"
+
+#: inc/header-options/background-options/overlay-types/shapes-overlay.php:137
+msgid "Circles"
+msgstr "Kręgi"
+
+#: inc/header-options/background-options/overlay-types/shapes-overlay.php:28
+msgid "Shape Light"
+msgstr "Światło kształtu"
+
+#: inc/header-options/background-options/overlay-types/shapes-overlay.php:9
+msgid "Overlay Shapes"
+msgstr "Kształty nakładki"
+
+#: inc/header-options/background-options/overlay-types/color-overlay.php:57
+msgid "Overlay Opacity"
+msgstr "Przezroczystość nakładki"
+
+#: inc/header-options/background-options/overlay-types/color-overlay.php:13
+msgid "Overlay Color"
+msgstr "Kolor nakładki"
+
+#: inc/header-options/background-options/overlay-type.php:37
+msgid "Overlay Type"
+msgstr "Typ nakładki"
+
+#: inc/header-options/background-options/overlay-type.php:28
+msgid "Overlay Options"
+msgstr "Opcje nakładki"
+
+#: inc/header-options/background-options/overlay-type.php:18
+msgid "Show overlay"
+msgstr "Pokaż nakładkę"
+
+#: inc/header-options/background-options/header-separator.php:278
+msgid "Zigzag"
+msgstr "Zygzak"
+
+#: inc/header-options/background-options/header-separator.php:277
+msgid "Split Negative"
+msgstr "Podział odwrotnie"
+
+#: inc/header-options/background-options/header-separator.php:276
+msgid "Split"
+msgstr "Podziel"
+
+#: inc/header-options/background-options/header-separator.php:275
+msgid "Book Negative"
+msgstr "Książka odwrotnie"
+
+#: inc/header-options/background-options/header-separator.php:274
+msgid "Book"
+msgstr "Książka"
+
+#: inc/header-options/background-options/header-separator.php:273
+msgid "Arrow Negative"
+msgstr "Strzałka odwrotnie"
+
+#: inc/header-options/background-options/header-separator.php:272
+msgid "Arrow"
+msgstr "Strzałka"
+
+#: inc/header-options/background-options/header-separator.php:271
+msgid "Drops Negative"
+msgstr "Krople odwrotnie"
+
+#: inc/header-options/background-options/header-separator.php:270
+msgid "Drops"
+msgstr "Krople"
+
+#: inc/header-options/background-options/header-separator.php:269
+msgid "Curve Asymmetrical Negative"
+msgstr "Asymetryczny łuk odwrotnie"
+
+#: inc/header-options/background-options/header-separator.php:268
+msgid "Curve Asymmetrical"
+msgstr "Krzywa asymetryczna"
+
+#: inc/header-options/background-options/header-separator.php:267
+msgid "Curve Negative"
+msgstr "Łuk odwrotnie"
+
+#: inc/header-options/background-options/header-separator.php:266
+msgid "Curve"
+msgstr "Krzywa"
+
+#: inc/header-options/background-options/header-separator.php:265
+msgid "Clouds Negative"
+msgstr "Chmury odwrotnie"
+
+#: inc/header-options/background-options/header-separator.php:264
+msgid "Clouds"
+msgstr "Chmury"
+
+#: inc/header-options/background-options/header-separator.php:263
+msgid "Waves Pattern"
+msgstr "Wzór fal"
+
+#: inc/header-options/background-options/header-separator.php:262
+msgid "Waves Brush"
+msgstr "Fale z pędzla"
+
+#: inc/header-options/background-options/header-separator.php:261
+msgid "Waves Negative"
+msgstr "Fale odwrotnie"
+
+#: inc/header-options/background-options/header-separator.php:260
+msgid "Waves"
+msgstr "Fale"
+
+#: inc/header-options/background-options/header-separator.php:259
+msgid "Pyramids Negative"
+msgstr "Piramidy odwrotnie"
+
+#: inc/header-options/background-options/header-separator.php:258
+msgid "Pyramids"
+msgstr "Ostrosłupy"
+
+#: inc/header-options/background-options/header-separator.php:257
+msgid "Mountains"
+msgstr "Góry"
+
+#: inc/header-options/background-options/header-separator.php:256
+msgid "Fan Opacity"
+msgstr "Przeźroczystość"
+
+#: inc/header-options/background-options/header-separator.php:255
+msgid "Triangle Asymmetrical Negative"
+msgstr "Asymetryczny trójkąt odwrotnie"
+
+#: inc/header-options/background-options/header-separator.php:254
+msgid "Triangle Asymmetrical"
+msgstr "Trójkąt asymetryczny"
+
+#: inc/header-options/background-options/header-separator.php:253
+msgid "Triangle Negative"
+msgstr "Trójkąt odwrotnie"
+
+#: inc/header-options/background-options/header-separator.php:252
+msgid "Triangle"
+msgstr "Trójkąt"
+
+#: inc/header-options/background-options/header-separator.php:251
+msgid "Tilt Opacity"
+msgstr "Krycie pochylenia"
+
+#: inc/header-options/background-options/header-separator.php:250
+msgid "Tilt Flipped"
+msgstr "Nachylenie odwrócone"
+
+#: inc/header-options/background-options/header-separator.php:249
+msgid "Tilt"
+msgstr "Nachylenie"
+
+#: inc/header-options/background-options/header-separator.php:242
+msgid "Stright Angles 1 Negative"
+msgstr "Proste kąty 1 odwrotnie"
+
+#: inc/header-options/background-options/header-separator.php:241
+msgid "Stright Angles 1"
+msgstr "Proste kąty 1"
+
+#: inc/header-options/background-options/header-separator.php:240
+#: inc/header-options/background-options/header-separator.php:244
+msgid "Triple Waves 2 Negative"
+msgstr "Potrójne fale 2 odwrotnie"
+
+#: inc/header-options/background-options/header-separator.php:239
+#: inc/header-options/background-options/header-separator.php:243
+msgid "Triple Waves 2"
+msgstr "Potrójne fale 2"
+
+#: inc/header-options/background-options/header-separator.php:238
+msgid "Triple Waves 1 Negative"
+msgstr "Potrójne fale 1 odwrotnie"
+
+#: inc/header-options/background-options/header-separator.php:237
+msgid "Triple Waves 1"
+msgstr "Potrójne fale 1"
+
+#: inc/header-options/background-options/header-separator.php:236
+msgid "Clouds 2"
+msgstr "Chmury 2"
+
+#: inc/header-options/background-options/header-separator.php:235
+msgid "Wave no centric Negative"
+msgstr "Fale niecentryczne odwrotnie"
+
+#: inc/header-options/background-options/header-separator.php:234
+msgid "Wave no centric"
+msgstr "Fale niecentryczne"
+
+#: inc/functions.php:1224 inc/theme-options.php:281
+msgid "Default"
+msgstr "Domyślne"
+
+#: inc/header-options/background-options/header-separator.php:206
+msgid "Wave and line Negative"
+msgstr "Fale i linie odwrotnie"
+
+#: inc/header-options/background-options/header-separator.php:205
+msgid "Wave and line"
+msgstr "Fale i linie"
+
+#: inc/header-options/background-options/header-separator.php:116
+msgid "Accent Color"
+msgstr "Akcent kolorystyczny"
+
+#: class-tgm-plugin-activation.php:2661
+#: inc/header-options/background-options/header-separator.php:56
+#: inc/header-options/navigation-options/top-bar/content-areas.php:67
+msgid "Type"
+msgstr "Typ"
+
+#: inc/header-options/background-options/header-separator.php:46
+msgid "Bottom Separator Options"
+msgstr "Opcje separatora dolnego"
+
+#: inc/header-options/background-options/general.php:17
+msgid "Full Height Background"
+msgstr "Tło na całej wysokości"
+
+#: inc/header-options/background-options/background-types/video.php:136
+msgid "Video Poster"
+msgstr "Plakat filmu"
+
+#: inc/header-options/background-options/background-types/video.php:118
+msgid "External Video"
+msgstr "Film zewnętrzny"
+
+#: inc/header-options/background-options/background-types/video.php:99
+msgid "Self hosted video (MP4)"
+msgstr "Film z własnego serwera (MP4)"
+
+#: inc/header-options/background-options/background-types/video.php:46
+msgid "Video is playing."
+msgstr "Film jest odtwarzany."
+
+#: inc/header-options/background-options/background-types/video.php:45
+msgid "Video is paused."
+msgstr "Film został wstrzymany."
+
+#: inc/header-options/background-options/background-types/video.php:44
+msgid "Play"
+msgstr "Odtwórz"
+
+#: inc/header-options/background-options/background-types/video.php:43
+msgid "Pause"
+msgstr "Zatrzymaj"
+
+#: inc/header-options/background-options/background-types/video.php:7
+msgid "Video"
+msgstr "Film"
+
+#: inc/header-options/background-options/background-types/slideshow.php:102
+msgid "Effect Speed"
+msgstr "Szybkość efektu"
+
+#: inc/header-options/background-options/background-types/slideshow.php:83
+msgid "Slide Duration"
+msgstr "Czas trwania slajdu"
+
+#: inc/header-options/background-options/background-types/slideshow.php:59
+msgid "slideshow image"
+msgstr "obrazek pokazu slajdów"
+
+#: inc/header-options/background-options/background-types/slideshow.php:54
+msgid "Header Slideshow Images"
+msgstr "Obrazki pokazu slajdów na nagłówku"
+
+#: inc/header-options/background-options/background-types/slideshow.php:9
+msgid "Slideshow"
+msgstr "Pokaz slajdów"
+
+#: inc/header-options/background-options/background-types/image.php:160
+msgid "Header Image"
+msgstr "Obrazek nagłówka"
+
+#: inc/header-options/background-options/background-types/image.php:274
+msgid "Enable parallax effect"
+msgstr "Włącz efekt paralaksy"
+
+#: inc/header-options/background-options/background-types/image.php:8
+#: inc/header-options/background-options/background-types/slideshow.php:66
+#: inc/header-options/content-options/content-type.php:166
+#: inc/header-options/content.php:56
+msgid "Image"
+msgstr "Obrazek"
+
+#: inc/header-options/background-options/background-types/gradient.php:48
+msgid "Header Gradient"
+msgstr "Gradient nagłówka"
+
+#: inc/header-options/background-options/background-types/gradient.php:8
+#: inc/header-options/background-options/overlay-types/gradient-overlay.php:4
+#: inc/header-options/background-options/overlay-types/gradient-overlay.php:11
+msgid "Gradient"
+msgstr "Gradient"
+
+#: inc/header-options/background-options/background-type.php:40
+#: inc/header-options/background-options/background-type.php:43
+#: inc/header-options/background-options/bottom-arrow.php:34
+#: inc/header-options/background-options/header-separator.php:27
+#: inc/header-options/background-options/overlay-type.php:50
+#: inc/header-options/content-options/buttons.php:59
+#: inc/header-options/content-options/subtitle.php:21
+#: inc/header-options/content-options/title.php:22
+msgid "Options"
+msgstr "Ustawienia"
+
+#: inc/header-options/background-options/background-type.php:25
+#: inc/header-options/presets.php:67
+msgid "Background Type"
+msgstr "Typ tła"
+
+#: inc/general-options/colors.php:45
+msgid "color %s not found"
+msgstr "kolor %s nie został znaleziony"
+
+#: inc/general-options/colors.php:10
+msgid "color5"
+msgstr "kolor5"
+
+#: inc/general-options/colors.php:9
+msgid "color4"
+msgstr "kolor4"
+
+#: inc/general-options/colors.php:8
+msgid "color3"
+msgstr "kolor3"
+
+#: inc/general-options/colors.php:7
+msgid "Secondary"
+msgstr "Drugorzędne"
+
+#: inc/general-options/colors.php:6
+msgid "Primary"
+msgstr "Podstawowy"
+
+#: inc/functions.php:977
+msgid "Search Results for &#8220;%s&#8221;"
+msgstr "Wyniki wyszukiwania dla &#8222;%s&#8221;"
+
+#: inc/functions.php:975
+msgid "Page not found"
+msgstr "Strona nie została znaleziona"
+
+#: inc/functions.php:930
+msgid "Read more"
+msgstr "Dowiedz się więcej"
+
+#: inc/functions.php:868
+msgid "Sidebar widget area"
+msgstr "Obszar widżetu panelu bocznego"
+
+#: inc/functions.php:331
+msgid "Primary Menu"
+msgstr "Menu główne"
+
+#: inc/functions.php:306
+msgid "Homepage Header Image"
+msgstr "Obrazek nagłówka na stronie głównej"
+
+#: functions.php:37
+msgid "and the minimum required version is "
+msgstr "a minimalna wymagana wersja to"
+
+#: functions.php:36
+msgid "Current php version is:"
+msgstr "Aktualnie używana wersja PHP:"
+
+#: functions.php:35
+msgid "You need to update your PHP version to use the <strong>Mesmerize</strong>."
+msgstr "Musisz zaktualizować swoją wersję PHP, aby korzystać z <strong>Mesmerize</strong>."
+
+#: functions.php:33
+msgid "Mesmerize theme activation failed!"
+msgstr "Aktywacja motywu Mesmerize nie powiodła się!"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:221
+msgid "Add Web Font"
+msgstr "Dodaj czcionkę internetową"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:220
+msgid "Hex Value"
+msgstr "Wartość w kodzie szesnastkowym"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:219
+msgid "Switch Editor"
+msgstr "Zmień edytor"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:218
+msgid "Close Editor"
+msgstr "Zamknij edytor"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:217
+msgid "Open Editor"
+msgstr "Otwórz edytor"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:216
+msgid "Select a Page"
+msgstr "Wybierz stronę"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:215
+msgid "Initial"
+msgstr "Początkowo"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:214
+msgid "Lowercase"
+msgstr "Minuskuły"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:213
+msgid "Uppercase"
+msgstr "Majuskuły"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:212
+msgid "Capitalize"
+msgstr "Kapitaliki"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:211
+#: inc/header-options/background-options/overlay-types/shapes-overlay.php:133
+#: inc/header-options/content-options/content-type.php:318
+#: inc/header-options/navigation-options/top-bar/content-areas.php:7
+msgid "None"
+msgstr "Brak"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:210
+msgid "Text Transform"
+msgstr "Przekształcenia tekstu"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:209
+#: inc/header-options/content-options/content-type.php:541
+#: inc/header-options/content-options/inner-pages.php:16
+msgid "Text Align"
+msgstr "Wyrównanie tekstu"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:207
+msgid "%s Reset"
+msgstr "%s Resetowanie"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:206
+#: customizer/kirki/includes/sections/class-kirki-sections-hover-section.php:46
+msgid "Back"
+msgstr "Powrót"
+
+#: customizer/customizer-controls.php:638
+#: customizer/kirki/includes/class-kirki-l10n.php:205
+#: customizer/kirki/includes/sections/class-kirki-sections-hover-section.php:40
+msgid "Press return or enter to open this section"
+msgstr "Wciśnij klawisz enter i otwórz sekcję"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:204
+msgid "Limit: %s rows"
+msgstr "Limit: %s rzędów"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:203
+msgid "row"
+msgstr "wiersz"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:202
+msgid "Add new"
+msgstr "Dodaj"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:201
+msgid "Invalid Value"
+msgstr "Nieprawidłowa wartość"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:200
+msgid "Black (900) Italic"
+msgstr "Bardzo gruby (900) kursywa"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:199
+msgid "Black (900)"
+msgstr "Bardzo gruby (900)"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:198
+msgid "Extra Bold (800) Italic"
+msgstr "Extra pogrubiony (800) kursywa"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:197
+msgid "Extra Bold (800)"
+msgstr "Extra pogrubiony (800)"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:196
+msgid "Bold (700) Italic"
+msgstr "Pogrubiony (700) kursywa"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:195
+msgid "Bold (700)"
+msgstr "Pogrubiony (700)"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:194
+msgid "Semi Bold (600) Italic"
+msgstr "Pół-pogrubiony (600) kursywa"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:193
+msgid "Semi Bold (600)"
+msgstr "Pół-pogrubiony (600)"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:192
+msgid "Medium (500) Italic"
+msgstr "Medium (500) kursywa"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:191
+msgid "Medium (500)"
+msgstr "Medium (500)"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:190
+msgid "Normal (400) Italic"
+msgstr "Normalny (400) kursywa"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:189
+msgid "Normal (400)"
+msgstr "Normalny (400)"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:188
+msgid "Light (300) Italic"
+msgstr "Light (300) kursywa"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:187
+msgid "Light (300)"
+msgstr "Light (300)"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:186
+msgid "Extra light (200) Italic"
+msgstr "Extra light (200) kursywa"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:185
+msgid "Extra light (200)"
+msgstr "Extra light (200)"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:184
+msgid "Thin (100) Italic"
+msgstr "Cienki (100) kursywa"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:183
+msgid "Thin (100)"
+msgstr "Cienki (100)"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:182
+msgid "Spacing"
+msgstr "Odstęp"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:181
+#: inc/header-options/background-options/header-separator.php:160
+#: inc/header-options/content-options/content-type.php:357
+msgid "Height"
+msgstr "Wysokość"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:180
+msgid "Size"
+msgstr "Rozmiar"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:179
+msgid "Subset"
+msgstr "Podzbiór"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:178
+msgid "Variant"
+msgstr "Wariant"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:177
+msgid "Select a font-family"
+msgstr "Wybierz rodzinę czcionki"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:176 inc/theme-options.php:280
+msgid "Remove"
+msgstr "Usuń"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:175
+msgid "No File Selected"
+msgstr "Nie wybrano żadnego pliku"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:174
+msgid "Change File"
+msgstr "Zmień plik"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:173
+msgid "Add File"
+msgstr "Dodaj plik"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:172
+msgid "No Image Selected"
+msgstr "Nie wybrano obrazka"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:171
+msgid "Change Image"
+msgstr "Zmień obrazek"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:170
+msgid "Add Image"
+msgstr "Dodaj obrazek"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:169
+#: inc/header-options/background-options/background-types/color.php:7
+#: inc/header-options/background-options/header-separator.php:75
+#: inc/header-options/background-options/overlay-types/color-overlay.php:4
+msgid "Color"
+msgstr "Kolor"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:168
+msgid "Justify"
+msgstr "Wyjustuj"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:167
+#: inc/header-options/content-options/content-type.php:548
+#: inc/header-options/content-options/inner-pages.php:23
+msgid "Center"
+msgstr "Wyśrodkowanie"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:166
+#: inc/header-options/content-options/content-type.php:549
+#: inc/header-options/content-options/inner-pages.php:24
+msgid "Right"
+msgstr "Do prawej"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:165
+#: inc/header-options/content-options/content-type.php:547
+#: inc/header-options/content-options/inner-pages.php:22
+msgid "Left"
+msgstr "Do lewej"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:164
+#: inc/header-options/content-options/content-type.php:52
+#: inc/header-options/content-options/content-type.php:609
+msgid "Bottom"
+msgstr "Na dole"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:163
+#: inc/header-options/content-options/content-type.php:50
+#: inc/header-options/content-options/content-type.php:607
+msgid "Top"
+msgstr "Na górze"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:162
+msgid "Letter Spacing"
+msgstr "Kerning"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:161
+msgid "Font Style"
+msgstr "Styl kroju pisma"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:160
+msgid "Line Height"
+msgstr "Interlinia"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:159
+msgid "Font Weight"
+msgstr "Grubości kroju pisma"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:158
+msgid "Mobile Font Size"
+msgstr "Rozmiar czcionki mobilnej"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:157
+msgid "Font Size"
+msgstr "Wielkość liter"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:156
+msgid "Font Family"
+msgstr "Krój pisma"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:155
+msgctxt "font style"
+msgid "Monospace"
+msgstr "Monospace"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:154
+msgctxt "font style"
+msgid "Sans Serif"
+msgstr "Bezszeryfowy krój pisma"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:153
+msgctxt "font style"
+msgid "Serif"
+msgstr "Szeryfowy krój pisma"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:152
+msgid "Thai"
+msgstr "tajski"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:151
+msgid "Telugu"
+msgstr "Telugu"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:150
+msgid "Tamil"
+msgstr "tamilski"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:149
+msgid "Gujarati"
+msgstr "gudżarati"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:148
+msgid "Bengali"
+msgstr "bengalski"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:147
+msgid "Arabic"
+msgstr "arabski"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:146
+msgid "Hebrew"
+msgstr "Hebrajski"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:145
+msgid "Vietnamese"
+msgstr "wietnamski"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:144
+msgid "Latin Extended"
+msgstr "Łaciński rozszerzony"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:143
+msgid "Latin"
+msgstr "łacina"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:142
+msgid "Khmer"
+msgstr "khmerski"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:141
+msgid "Greek Extended"
+msgstr "Grecki rozszerzony"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:140
+msgid "Greek"
+msgstr "grecki"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:139
+msgid "Devanagari"
+msgstr "Devanagari"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:138
+msgid "Cyrillic Extended"
+msgstr "Cyrylica rozszerzona"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:137
+msgid "Cyrillic"
+msgstr "Cyrylica"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:136
+msgid "All"
+msgstr "Wszystko"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:135
+msgid "OFF"
+msgstr "Wyłącz"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:134
+msgid "ON"
+msgstr "WŁĄCZ"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:133
+msgid "Background Opacity"
+msgstr "Krycie tła"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:132
+#: inc/header-options/background-options/background-types/image.php:181
+msgid "Background Position"
+msgstr "Pozycja tła"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:131
+msgid "Center Bottom"
+msgstr "Na dole na środku"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:130
+msgid "Center Center"
+msgstr "Na środku pośrodku"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:129
+msgid "Center Top"
+msgstr "Na górze na środku"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:128
+msgid "Right Bottom"
+msgstr "Na dole po prawej"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:127
+msgid "Right Center"
+msgstr "Na środku po prawej"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:126
+msgid "Right Top"
+msgstr "Na górze po prawej"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:125
+msgid "Left Bottom"
+msgstr "Na dole po lewej"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:124
+msgid "Left Center"
+msgstr "Na środku po lewej"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:123
+msgid "Left Top"
+msgstr "Na górze po lewej"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:122
+msgid "Background Attachment"
+msgstr "Położenie tła"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:121
+msgid "Scroll"
+msgstr "Przewijaj"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:120
+msgid "Fixed"
+msgstr "Określone"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:119
+msgid "Background Size"
+msgstr "Rozmiar tła"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:118
+msgid "Contain"
+msgstr "Zawiera"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:117
+msgid "Cover"
+msgstr "Okładka"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:116
+msgid "Background Repeat"
+msgstr "Powtarzanie tła"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:115
+msgid "Inherit"
+msgstr "Dziedziczone"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:114
+msgid "Repeat Vertically"
+msgstr "Powtarzaj w pionie"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:113
+msgid "Repeat Horizontally"
+msgstr "Powtarzaj w poziomie"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:112
+msgid "Repeat All"
+msgstr "Powtarzaj wszystko"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:111
+msgid "No Repeat"
+msgstr "Bez powtarzania"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:110
+msgid "Background Image"
+msgstr "Obrazek tła"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:109
+#: inc/header-options/background-options/background-types/color.php:58
+#: inc/header-options/background-options/background-types/image.php:228
+msgid "Background Color"
+msgstr "Kolor tła"
+
+#: customizer/customizer-controls.php:568
+#: customizer/customizer-controls.php:573
+msgid "Choose Icon"
+msgstr "Wybierz ikonę"
+
+#: customizer/customizer-controls.php:567
+#: customizer/customizer-controls.php:572
+msgid "Select FontAwesome Icon"
+msgstr "Wybierz ikonę FontAwesome"
+
+#: customizer/customizer-controls.php:539
+msgid "Change Icon"
+msgstr "Zmień ikonę"
+
+#: customizer/customizer-controls.php:471
+msgid "Check all PRO features"
+msgstr "Sprawdź wszystkie funkcje wersji PRO"
+
+#: customizer/customizer-controls.php:92 customizer/customizer-controls.php:207
+msgid "Pro Only"
+msgstr "Tylko wersja Pro"
+
+#: customizer/customizer-controls.php:91 customizer/customizer-controls.php:205
+msgid "Section is already in page"
+msgstr "Sekcja już jest na stronie"
+
+#: customizer/customizer-controls.php:89 customizer/customizer-controls.php:196
+msgid "Available in PRO"
+msgstr "Dostępne w wersji PRO"
+
+#: customizer/WebGradientsControl.php:10
+msgid "Change Gradient"
+msgstr "Zmień gradient"
+
+#: customizer/SidebarGroupButtonControl.php:71 inc/theme-options.php:347
+msgid "Close Panel"
+msgstr "Zamknij panel"
+
+#: comments.php:43
+msgid "Comments are closed."
+msgstr "Możliwość komentowania została wyłączona."
+
+#: comments.php:32
+msgid "Newer Comments <i class=\"font-icon-post fa fa-angle-double-right\"></i>"
+msgstr "Nowsze komentarze <i class=\"font-icon-post fa fa-angle-double-right\"></i>"
+
+#: comments.php:29
+msgid "<i class=\"font-icon-post fa fa-angle-double-left\"></i> Older Comments"
+msgstr "<i class=\"font-icon-post fa fa-angle-double-left\"></i> Starsze komentarze"
+
+#: comments.php:12
+msgid "% Responses"
+msgstr "% odpowiedzi"
+
+#: comments.php:12
+msgid "One Response"
+msgstr "Jedna odpowiedź"
+
+#: comments.php:12
+msgid "No Responses"
+msgstr "Brak odpowiedzi"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://extendthemes.com/go/mesmerize-home/"
+msgstr "https://extendthemes.com/go/mesmerize-home/"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://extendthemes.com/"
+msgstr "http://extendthemes.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Horea Radu"
+msgstr "Horea Radu"

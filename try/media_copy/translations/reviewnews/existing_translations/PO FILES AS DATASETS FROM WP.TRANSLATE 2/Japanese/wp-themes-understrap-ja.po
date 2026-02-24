@@ -1,0 +1,803 @@
+# Translation of Themes - Understrap in Japanese
+# This file is distributed under the same license as the Themes - Understrap package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-03-22 13:26:26+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - Understrap\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "The renowned WordPress starter theme framework that combined Underscores and Bootstrap. Trusted by more than 100,000 developers for building handcrafted, custom WordPress sites."
+msgstr ""
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Understrap"
+msgstr "Understrap"
+
+#: woocommerce/order/order-again.php:22
+msgid "Order again"
+msgstr ""
+
+#: woocommerce/checkout/form-verify-email.php:56
+msgid "Verify"
+msgstr ""
+
+#. translators: 1: opening login link 2: closing login link
+#: woocommerce/checkout/form-verify-email.php:40
+msgid "To view this page, you must either %1$slogin%2$s or verify the email address associated with the order."
+msgstr ""
+
+#: woocommerce/checkout/form-verify-email.php:33
+msgid "We were unable to verify the email address you provided. Please try again."
+msgstr ""
+
+#. translators: %s is the product name
+#: woocommerce/cart/cart.php:66
+msgid "Remove %s from cart"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:63
+msgid "Add"
+msgstr "追加"
+
+#: woocommerce/myaccount/form-login.php:98
+msgid "A link to set a new password will be sent to your email address."
+msgstr "新しいパスワードを設定するリンクが登録メールアドレ ス宛に送信されます。"
+
+#: woocommerce/cart/cart.php:29
+msgid "Thumbnail image"
+msgstr "サムネイル画像"
+
+#: woocommerce/cart/cart.php:28
+msgid "Remove item"
+msgstr "項目を削除"
+
+#. Template Name of the theme
+msgid "No Title, Full Width Page"
+msgstr ""
+
+#. translators: %s post title
+#: inc/template-tags.php:136
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "コメントをどうぞ<span class=\"screen-reader-text\"> (%s)</span>"
+
+#: inc/pagination.php:54
+msgctxt "next set of posts"
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: inc/pagination.php:53
+msgctxt "previous set of posts"
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: global-templates/navbar-offcanvas-bootstrap5.php:46
+msgid "Close menu"
+msgstr "メニューを閉じる"
+
+#: global-templates/navbar-offcanvas-bootstrap5.php:34
+msgid "Open menu"
+msgstr "メニューを開く"
+
+#: inc/customizer.php:154
+msgid "Offcanvas"
+msgstr "キャンバスの外"
+
+#: inc/customizer.php:153
+msgid "Collapse"
+msgstr "折りたたむ"
+
+#: inc/customizer.php:146
+msgid "Choose between an expanding and collapsing navbar or an offcanvas drawer."
+msgstr ""
+
+#: inc/customizer.php:145
+msgid "Responsive Navigation Type"
+msgstr ""
+
+#: inc/customizer.php:95
+msgid "Bootstrap 5"
+msgstr "Bootstrap 5"
+
+#: inc/customizer.php:94
+msgid "Bootstrap 4"
+msgstr "Bootstrap 4"
+
+#: inc/customizer.php:90
+msgid "Choose between Bootstrap 4 and Bootstrap 5"
+msgstr ""
+
+#: inc/customizer.php:89
+msgid "Bootstrap Version"
+msgstr "Bootstrap バージョン"
+
+#: woocommerce/myaccount/downloads.php:34 woocommerce/myaccount/orders.php:100
+msgid "Browse products"
+msgstr "商品を見る"
+
+#: sidebar-templates/sidebar-hero.php:38
+msgctxt "carousel control"
+msgid "Next"
+msgstr ""
+
+#: sidebar-templates/sidebar-hero.php:30
+msgctxt "carousel control"
+msgid "Previous"
+msgstr ""
+
+#: searchform.php:23
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "検索&hellip;"
+
+#: searchform.php:21
+msgctxt "label"
+msgid "Search for:"
+msgstr "検索:"
+
+#: inc/editor.php:72
+msgid "Cite"
+msgstr ""
+
+#: inc/editor.php:66
+msgid "Blockquote Footer"
+msgstr ""
+
+#: inc/editor.php:60
+msgid "Blockquote"
+msgstr "引用"
+
+#: inc/editor.php:56
+msgctxt "Font size name"
+msgid "Small"
+msgstr "小"
+
+#: inc/editor.php:50
+msgid "Lead Paragraph"
+msgstr ""
+
+#: inc/customizer.php:210
+msgid "Override Understrap's site info located at the footer of the page."
+msgstr ""
+
+#: inc/customizer.php:209
+msgid "Footer Site Info"
+msgstr ""
+
+#. translators: %s: author name
+#: author.php:79
+msgid "Posts by %s"
+msgstr "%s の投稿"
+
+#. translators: %s: author name
+#: author.php:65
+msgid "About %s"
+msgstr "%s について"
+
+#. translators: %s: author name
+#: author.php:44
+msgctxt "Avatar alt"
+msgid "Profile picture of %s"
+msgstr "%s さんのプロフィール写真"
+
+#: 404.php:36
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "こちらには何もありません。検索をお試しください。"
+
+#: global-templates/navbar-collapse-bootstrap4.php:18
+#: global-templates/navbar-collapse-bootstrap5.php:18
+#: global-templates/navbar-offcanvas-bootstrap5.php:18
+msgid "Main Navigation"
+msgstr "メインナビゲーション"
+
+#: woocommerce/loop/orderby.php:24
+msgid "Shop order"
+msgstr "ストアでの注文"
+
+#. translators: %s: Tags of current post
+#: inc/template-tags.php:117
+msgid "Tagged %s"
+msgstr "タグ: %s"
+
+#: inc/template-tags.php:55
+msgctxt "post author"
+msgid "Posted by"
+msgstr "投稿者:"
+
+#: inc/widgets.php:346
+msgid "Full sized footer widget with dynamic grid"
+msgstr ""
+
+#: inc/widgets.php:333
+msgid "Full top widget with dynamic grid"
+msgstr ""
+
+#: inc/widgets.php:320
+msgid "Full size canvas hero area for Bootstrap and other custom HTML markup"
+msgstr ""
+
+#: inc/widgets.php:307
+msgid "Hero slider area. Place two or more widgets here and they will slide!"
+msgstr ""
+
+#: inc/widgets.php:294
+msgid "Left sidebar widget area"
+msgstr "左サイドバーウィジェットエリア"
+
+#: inc/widgets.php:281
+msgid "Right sidebar widget area"
+msgstr "右サイドバーウィジェットエリア"
+
+#: global-templates/navbar-collapse-bootstrap4.php:35
+#: global-templates/navbar-collapse-bootstrap5.php:34
+msgid "Toggle navigation"
+msgstr "ナビゲーション切り替え"
+
+#: woocommerce/myaccount/form-login.php:53
+msgid "Log in"
+msgstr "ログイン"
+
+#: woocommerce/myaccount/form-edit-account.php:38
+msgid "This will be how your name will be displayed in the account section and in reviews"
+msgstr "アカウントセクションとレビューではこの名前が表示されます"
+
+#: woocommerce/myaccount/form-edit-account.php:37
+msgid "Display name"
+msgstr "表示名"
+
+#: woocommerce/checkout/form-coupon.php:31
+msgid "If you have a coupon code, please apply it below."
+msgstr "クーポンコードをお持ちの場合は、以下に適用してください。"
+
+#. translators: Widget area title
+#: inc/widgets.php:331
+msgid "Top Full"
+msgstr ""
+
+#. translators: Widget area title
+#: inc/widgets.php:318
+msgid "Hero Canvas"
+msgstr "ヒーローキャンバス"
+
+#: inc/class-wp-bootstrap-navwalker.php:377
+msgid "Add a menu"
+msgstr "メニューを追加"
+
+#: woocommerce/product-searchform.php:26
+msgid "Search for:"
+msgstr "検索対象:"
+
+#: inc/pagination.php:56
+msgid "Posts navigation"
+msgstr "投稿ナビゲーション"
+
+#: searchform.php:25 searchform.php:28 woocommerce/product-searchform.php:29
+msgctxt "submit button"
+msgid "Search"
+msgstr "検索"
+
+#: woocommerce/product-searchform.php:25
+msgid "Search products&hellip;"
+msgstr "商品検索 &hellip;"
+
+#. translators: 1: formatted order total 2: total order items
+#: woocommerce/myaccount/my-orders.php:75 woocommerce/myaccount/orders.php:61
+msgid "%1$s for %2$s item"
+msgid_plural "%1$s for %2$s items"
+msgstr[0] "%2$s点 %1$s"
+
+#: woocommerce/myaccount/my-address.php:67
+msgid "You have not set up this type of address yet."
+msgstr "まだこのタイプの住所を設定していません。"
+
+#: woocommerce/myaccount/my-address.php:46
+msgid "The following addresses will be used on the checkout page by default."
+msgstr "以下の住所を購入手続きページでの初期値として使用します。"
+
+#: woocommerce/cart/cart.php:162 woocommerce/checkout/form-coupon.php:39
+msgid "Apply coupon"
+msgstr "クーポンを適用"
+
+#. translators: %s: post title
+#: comments.php:36
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "「%s」への1件のフィードバック"
+
+#: woocommerce/checkout/form-checkout.php:54
+msgid "Your order"
+msgstr "ご注文"
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr "購入手続きを行うには、ログインしている必要があります。"
+
+#. Template Name of the theme
+msgid "Right Sidebar Layout"
+msgstr "右サイドバーレイアウト"
+
+#: inc/customizer.php:177
+msgid "Set sidebar's default position. Can either be: right, left, both or none. Note: this can be overridden on individual pages."
+msgstr ""
+
+#: inc/custom-header.php:54
+msgid "Default Header Image"
+msgstr "デフォルトのヘッダー画像"
+
+#: inc/template-tags.php:308
+msgctxt "Next post link"
+msgid "%title&nbsp;<i class=\"fa fa-angle-right\"></i>"
+msgstr "%title&nbsp;<i class=\"fa fa-angle-right\"></i>"
+
+#: inc/template-tags.php:305
+msgctxt "Previous post link"
+msgid "<i class=\"fa fa-angle-left\"></i>&nbsp;%title"
+msgstr "<i class=\"fa fa-angle-left\"></i>&nbsp;%title"
+
+#. Template Name of the theme
+msgid "Left Sidebar Layout"
+msgstr "左サイドバーレイアウト"
+
+#. Template Name of the theme
+msgid "Left and Right Sidebar Layout"
+msgstr "左右サイドバーレイアウト"
+
+#: woocommerce/myaccount/orders.php:100
+msgid "No order has been made yet."
+msgstr "まだ、ご注文はありません。"
+
+#: woocommerce/myaccount/orders.php:93
+msgid "Next"
+msgstr "次"
+
+#: woocommerce/myaccount/orders.php:89
+msgid "Previous"
+msgstr "前"
+
+#: woocommerce/myaccount/my-orders.php:63 woocommerce/myaccount/orders.php:49
+msgctxt "hash before order number"
+msgid "#"
+msgstr "#"
+
+#: woocommerce/myaccount/my-orders.php:37
+msgid "Recent orders"
+msgstr "最近の注文"
+
+#: woocommerce/myaccount/my-orders.php:16
+msgid "Status"
+msgstr "ステータス"
+
+#: woocommerce/myaccount/my-orders.php:15
+msgid "Date"
+msgstr "日付"
+
+#: woocommerce/myaccount/my-orders.php:14
+msgid "Order"
+msgstr "順序"
+
+#: woocommerce/myaccount/form-reset-password.php:45
+msgid "Save"
+msgstr "保存"
+
+#: woocommerce/myaccount/form-reset-password.php:32
+msgid "Re-enter new password"
+msgstr "新しいパスワードを再入力"
+
+#: woocommerce/myaccount/form-reset-password.php:28
+msgid "New password"
+msgstr "新規パスワード"
+
+#: woocommerce/myaccount/form-reset-password.php:25
+msgid "Enter a new password below."
+msgstr "以下に新しいパスワードを入力します。"
+
+#: woocommerce/myaccount/form-lost-password.php:38
+msgid "Reset password"
+msgstr "パスワードをリセット"
+
+#: woocommerce/myaccount/form-lost-password.php:25
+msgid "Lost your password? Please enter your username or email address. You will receive a link to create a new password via email."
+msgstr "パスワードをお忘れですか ? ユーザー名またはメールアドレスを入力してください。新しいパスワードを発行するリンクを送信します。"
+
+#: woocommerce/myaccount/form-login.php:78
+msgid "Username"
+msgstr "ユーザー名"
+
+#: woocommerce/myaccount/form-login.php:69
+#: woocommerce/myaccount/form-login.php:106
+msgid "Register"
+msgstr "登録"
+
+#: woocommerce/myaccount/form-login.php:38
+msgid "Username or email address"
+msgstr "ユーザー名またはメールアドレス"
+
+#: woocommerce/myaccount/form-edit-address.php:46
+msgid "Save address"
+msgstr "住所を保存"
+
+#: woocommerce/myaccount/form-edit-address.php:20
+#: woocommerce/myaccount/my-address.php:27
+msgid "Shipping address"
+msgstr "お届け先住所"
+
+#: woocommerce/myaccount/form-edit-address.php:20
+#: woocommerce/myaccount/my-address.php:26
+#: woocommerce/myaccount/my-address.php:35
+msgid "Billing address"
+msgstr "請求先住所"
+
+#: woocommerce/myaccount/form-edit-account.php:85
+msgid "Save changes"
+msgstr "変更を保存"
+
+#: woocommerce/myaccount/form-edit-account.php:68
+msgid "Confirm new password"
+msgstr "新しいパスワードを確認"
+
+#: woocommerce/myaccount/form-edit-account.php:64
+msgid "New password (leave blank to leave unchanged)"
+msgstr "新しいパスワード (変更しない場合は空欄)"
+
+#: woocommerce/myaccount/form-edit-account.php:60
+msgid "Current password (leave blank to leave unchanged)"
+msgstr "現在のパスワード (変更しない場合は空欄)"
+
+#: woocommerce/myaccount/form-edit-account.php:57
+msgid "Password change"
+msgstr "パスワードの変更"
+
+#: woocommerce/checkout/form-verify-email.php:49
+#: woocommerce/myaccount/form-edit-account.php:43
+#: woocommerce/myaccount/form-login.php:85
+msgid "Email address"
+msgstr "メールアドレス"
+
+#: woocommerce/myaccount/form-edit-account.php:31
+msgid "Last name"
+msgstr "姓"
+
+#: woocommerce/myaccount/form-edit-account.php:27
+msgid "First name"
+msgstr "名"
+
+#: woocommerce/myaccount/downloads.php:34
+msgid "No downloads available yet."
+msgstr "まだ利用できるダウンロードファイルはありません。"
+
+#: woocommerce/global/form-login.php:53 woocommerce/myaccount/form-login.php:56
+msgid "Lost your password?"
+msgstr "パスワードをお忘れですか ?"
+
+#: woocommerce/global/form-login.php:46 woocommerce/myaccount/form-login.php:50
+msgid "Remember me"
+msgstr "ログイン状態を保存"
+
+#: woocommerce/global/form-login.php:50 woocommerce/myaccount/form-login.php:31
+msgid "Login"
+msgstr "ログイン"
+
+#: woocommerce/global/form-login.php:37 woocommerce/myaccount/form-login.php:42
+#: woocommerce/myaccount/form-login.php:92
+msgid "Password"
+msgstr "パスワード"
+
+#: woocommerce/global/form-login.php:33
+#: woocommerce/myaccount/form-lost-password.php:28
+msgid "Username or email"
+msgstr "ユーザー名またはメールアドレス"
+
+#: woocommerce/checkout/payment.php:45
+msgid "Update totals"
+msgstr "金額を更新"
+
+#. translators: $1 and $2 opening and closing emphasis tags respectively
+#: woocommerce/checkout/payment.php:43
+msgid "Since your browser does not support JavaScript, or it is disabled, please ensure you click the %1$sUpdate Totals%2$s button before placing your order. You may be charged more than the amount stated above if you fail to do so."
+msgstr "お使いのブラウザは JavaScript をサポートしていないか、無効になっています。注文の前に%1$s金額を更新%2$sボタンで合計できることを確認してください。もし更新に失敗するようであれば、上記表示金額とは異なった金額が請求される可能性があります。"
+
+#: woocommerce/checkout/payment.php:33
+msgid "Please fill in your details above to see available payment methods."
+msgstr "利用可能な支払い方法を確認し、上記に詳細を記入してください。"
+
+#: woocommerce/checkout/payment.php:33
+msgid "Sorry, it seems that there are no available payment methods. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr "お客様には利用可能な支払い方法がないようです。 サポートが必要な場合や、別の手配を行いたい場合は、お問い合わせください。"
+
+#: woocommerce/checkout/form-pay.php:89
+msgid "Sorry, it seems that there are no available payment methods for your location. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr "あなたの所在地での利用可能な支払方法はございません。詳細についてはお問い合わせください"
+
+#: woocommerce/checkout/form-pay.php:29
+msgid "Totals"
+msgstr "合計"
+
+#: woocommerce/checkout/form-pay.php:28
+msgid "Qty"
+msgstr "数量"
+
+#: woocommerce/checkout/form-coupon.php:26
+msgid "Click here to enter your code"
+msgstr "ここをクリックしてコードを入力"
+
+#: woocommerce/checkout/form-coupon.php:26
+msgid "Have a coupon?"
+msgstr "クーポンをお持ちですか ?"
+
+#: woocommerce/cart/proceed-to-checkout-button.php:25
+msgid "Proceed to checkout"
+msgstr "購入手続きに進む"
+
+#: woocommerce/cart/cart.php:33 woocommerce/cart/cart.php:144
+msgid "Subtotal"
+msgstr "小計"
+
+#: woocommerce/cart/cart.php:167
+msgid "Update cart"
+msgstr "お買い物カゴを更新"
+
+#: woocommerce/cart/cart.php:162 woocommerce/checkout/form-coupon.php:35
+msgid "Coupon code"
+msgstr "クーポンコード"
+
+#: woocommerce/cart/cart.php:162 woocommerce/checkout/form-coupon.php:34
+msgid "Coupon:"
+msgstr "クーポン:"
+
+#: woocommerce/cart/cart.php:107
+msgid "Available on backorder"
+msgstr "お取り寄せができます"
+
+#: woocommerce/myaccount/my-orders.php:17
+msgid "Total"
+msgstr "合計"
+
+#: woocommerce/cart/cart.php:32 woocommerce/cart/cart.php:118
+msgid "Quantity"
+msgstr "数量"
+
+#: woocommerce/cart/cart.php:31 woocommerce/cart/cart.php:112
+msgid "Price"
+msgstr "金額"
+
+#: woocommerce/cart/cart.php:30 woocommerce/cart/cart.php:87
+#: woocommerce/checkout/form-pay.php:27
+msgid "Product"
+msgstr "商品"
+
+#: woocommerce/cart/cart-empty.php:36
+msgid "Return to shop"
+msgstr "ショップに戻る"
+
+#. translators: Widget area title
+#: inc/widgets.php:292
+msgid "Left Sidebar"
+msgstr "左サイドバー"
+
+#. translators: Widget area title
+#: inc/widgets.php:279
+msgid "Right Sidebar"
+msgstr "右サイドバー"
+
+#: inc/template-tags.php:301
+msgid "Post navigation"
+msgstr "投稿ナビゲーション"
+
+#: inc/customizer.php:187
+msgid "No sidebar"
+msgstr "サイドバーなし"
+
+#: inc/customizer.php:186
+msgid "Left & Right sidebars"
+msgstr "左右サイドバー"
+
+#: inc/customizer.php:185
+msgid "Left sidebar"
+msgstr "左サイドバー"
+
+#: inc/customizer.php:184
+msgid "Right sidebar"
+msgstr "右サイドバー"
+
+#: inc/customizer.php:176
+msgid "Sidebar Positioning"
+msgstr "サイドバーの位置"
+
+#: inc/customizer.php:123
+msgid "Full width container"
+msgstr "全幅コンテナー"
+
+#: inc/customizer.php:122
+msgid "Fixed width container"
+msgstr "固定幅コンテナ"
+
+#: inc/customizer.php:118
+msgid "Choose between Bootstrap's container and container-fluid"
+msgstr ""
+
+#: inc/customizer.php:117
+msgid "Container Width"
+msgstr "コンテナの幅"
+
+#: inc/customizer.php:69
+msgid "Container width and sidebar defaults"
+msgstr ""
+
+#: inc/customizer.php:67
+msgid "Theme Layout Settings"
+msgstr "テーマレイアウト設定"
+
+#. Template Name of the theme
+msgid "Blank Page Template"
+msgstr "空のページテンプレート"
+
+#. translators: Theme version
+#: inc/hooks.php:44
+msgid "Version: %s"
+msgstr "バージョン: %s"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:272
+msgid "Edit %s"
+msgstr "%sを編集"
+
+#. Template Name of the theme
+msgid "Empty Page Template"
+msgstr "空のページテンプレート"
+
+#. Template Name of the theme
+msgid "Full Width Page"
+msgstr "全幅ページ"
+
+#. translators: %s: query term
+#: search.php:38
+msgid "Search Results for: %s"
+msgstr "「%s」の検索結果"
+
+#: inc/template-tags.php:331
+msgid "Pages:"
+msgstr "固定ページ:"
+
+#: loop-templates/content-none.php:46
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "お探しのコンテンツを見つけられませんでした。検索をお試しください。"
+
+#: loop-templates/content-none.php:38
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "検索キーワードに一致するものが見つかりませんでした。 別のキーワードで試してみてください。"
+
+#. translators: 1: Link to WP admin new post page.
+#: loop-templates/content-none.php:30
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "最初の投稿を公開する準備はできましたか ? <a href=\"%1$s\">ここから始めましょう</a>。"
+
+#: loop-templates/content-none.php:18
+msgid "Nothing Found"
+msgstr "何も見つかりませんでした"
+
+#. translators: Widget area title
+#: inc/widgets.php:344
+msgid "Footer Full"
+msgstr "フッター・フル"
+
+#. translators: Widget area title
+#: inc/widgets.php:305
+msgid "Hero Slider"
+msgstr "ヒーロースライダー"
+
+#: woocommerce/myaccount/my-address.php:63
+msgid "Edit"
+msgstr "編集"
+
+#. translators: %s: Categories of current post
+#: inc/template-tags.php:102
+msgid "Posted in %s"
+msgstr "カテゴリー: %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:385
+msgid ", "
+msgstr "、"
+
+#: inc/template-tags.php:55
+msgctxt "post author"
+msgid "by"
+msgstr "投稿者: %s"
+
+#: inc/template-tags.php:41
+msgctxt "post date"
+msgid "Posted on"
+msgstr "投稿日:"
+
+#: inc/extras.php:247
+msgid "Read More..."
+msgstr "続きを読む..."
+
+#: inc/setup.php:49
+msgid "Primary Menu"
+msgstr "メインメニュー"
+
+#: author.php:54
+msgid "Website"
+msgstr "サイト"
+
+#: header.php:33
+msgid "Skip to content"
+msgstr "コンテンツへスキップ"
+
+#. translators: 1: Theme name, 2: Theme author
+#: inc/hooks.php:38
+msgid "Theme: %1$s by %2$s."
+msgstr "テーマ: %1$s by %2$s。"
+
+#. translators: WordPress
+#: inc/hooks.php:33
+msgid "Proudly powered by %s"
+msgstr "Proudly powered by %s"
+
+#: inc/hooks.php:30
+msgid "https://wordpress.org/"
+msgstr "https://ja.wordpress.org/"
+
+#: inc/custom-comments.php:106
+msgid "Comments are closed."
+msgstr "コメントは受け付けていません。"
+
+#: inc/template-tags.php:253
+msgid "Newer Comments &rarr;"
+msgstr "新しいコメント &rarr;"
+
+#: inc/template-tags.php:247
+msgid "&larr; Older Comments"
+msgstr "&larr; 過去のコメント"
+
+#: inc/template-tags.php:243
+msgid "Comments navigation"
+msgstr "コメントナビゲーション"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:43
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "「%2$s」への%1$s件のフィードバック"
+
+#. translators: %1$s: smiley
+#: 404.php:69
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "月別アーカイブを探してみてください: %1$s"
+
+#: 404.php:46
+msgid "Most Used Categories"
+msgstr "よく使われているカテゴリー"
+
+#: 404.php:30
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "お探しのページが見つかりません。"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://howarddc.com"
+msgstr "https://howarddc.com"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Howard Development &amp; Consulting"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css inc/hooks.php:40
+#, gp-priority: low
+msgid "https://understrap.com"
+msgstr "https://understrap.com"

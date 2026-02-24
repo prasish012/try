@@ -1,0 +1,1690 @@
+# Translation of Themes - Silverstorm in Polish
+# This file is distributed under the same license as the Themes - Silverstorm package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-03-03 15:30:42+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: pl\n"
+"Project-Id-Version: Themes - Silverstorm\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "A beautiful, very customizable, multipurpose theme that you can use to create amazing websites through drag and drop. It comes with a pre-designed home page, 5 header designs and over 35 ready-to-use content blocks that you can easily customize. You can also design your own custom blocks by combining more than 25 drag and drop components. It offers lots of customization options (video background, slideshow background, header content types, etc) to help you create a website that stands out in no time. It is also designed with responsiveness, to work on mobile devices right out of the box. It is the only theme you will ever need! CHECK OUT THE DEMOS: https://colibriwp.com/go/demos"
+msgstr "Piękny, bardzo konfigurowalny, uniwersalny motyw, którego można używać do tworzenia niesamowitych stron internetowych metodą \"przeciągnij i upuść\". Zawiera wstępnie zaprojektowaną stronę główną, 5 wzorów nagłówków i ponad 35 gotowych do użycia bloków treści, które można łatwo dostosować. Możesz także zaprojektować własne bloki, łącząc ponad 25 komponentów typu \"przeciągnij i upuść\". Oferuje wiele opcji dostosowywania (tło wideo, tło pokazu slajdów, typy treści nagłówka itp.), które pomogą stworzyć wyróżniającą się witrynę w mgnieniu oka. Został również zaprojektowany z myślą o responsywności, aby działać na urządzeniach mobilnych od razu po wyjęciu z pudełka. To jedyny motyw, jakiego kiedykolwiek będziesz potrzebować! SPRAWDŹ DEMA: https://colibriwp.com/go/demos"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Silverstorm"
+msgstr "Silverstorm"
+
+#: template-parts/main/search_item_template.php:41
+msgid "read more"
+msgstr "dowiedz się więcej"
+
+#: template-parts/main/post.php:33
+msgid "{COMMENTS-COUNT} Responses"
+msgstr "Odpowiedzi: {COMMENTS-COUNT}"
+
+#: template-parts/main/archive_item_template.php:56
+msgid "Read Article"
+msgstr "Przeczytaj artykuł"
+
+#: template-parts/main/archive_item_template.php:34
+#: template-parts/main/item_template.php:11
+#: template-parts/main/search_item_template.php:19
+msgid "-"
+msgstr "-"
+
+#: template-parts/main/404.php:30
+msgid "Go to Homepage!"
+msgstr "Przejdź do strony głównej!"
+
+#: template-parts/main/404.php:15
+msgid "Sorry, page not found!"
+msgstr "Przepraszamy, nie znaleziono strony!"
+
+#: template-parts/layout-wrapper-content/navigation-container-2.php:11
+msgid "Previous"
+msgstr "Poprzedni"
+
+#: template-parts/layout-wrapper-content/navigation-container-2.php:10
+#: template-parts/layout-wrapper-content/navigation-container-2.php:36
+#: template-parts/layout-wrapper-content/navigation-container-3.php:10
+#: template-parts/layout-wrapper-content/navigation-container-3.php:36
+msgid "Next"
+msgstr "Następny"
+
+#: template-parts/layout-wrapper-content/navigation-container-1.php:28
+msgid "Next Post"
+msgstr "Następny wpis"
+
+#: template-parts/layout-wrapper-content/navigation-container-1.php:10
+msgid "Previous Post"
+msgstr "Poprzedni wpis"
+
+#: template-parts/content/content-single.php:51
+#: template-parts/layout-wrapper-content/navigation-container-1.php:27
+msgid "Previous post:"
+msgstr "Poprzedni wpis:"
+
+#: template-parts/content/content-single.php:49
+msgid "Previous:"
+msgstr "Poprzedni:"
+
+#: template-parts/content/content-single.php:46
+#: template-parts/layout-wrapper-content/navigation-container-1.php:11
+msgid "Next post:"
+msgstr "Następny wpis:"
+
+#: template-parts/content/content-single.php:44
+msgid "Next:"
+msgstr "Następny:"
+
+#: template-parts/content/content-page.php:8
+#: template-parts/content/content-single.php:21
+msgid "Pages:"
+msgstr "Strony:"
+
+#: template-parts/content/content-none.php:14
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Wygląda na to, że nie możesz znaleźć tego czego szukasz. Może wyszukiwanie pomoże?"
+
+#: template-parts/content/content-none.php:10
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Przepraszamy, ale nie znaleziono tego, czego szukasz. Proszę spróbować ponownie z innymi słowami kluczowymi."
+
+#: template-parts/content/content-none.php:7
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Chcesz opublikować swój pierwszy wpis? <a href=\"%1$s\"> Zacznij tutaj</a>."
+
+#: template-parts/content/content-none.php:4
+msgid "Nothing Found"
+msgstr "Nic nie znaleziono"
+
+#: template-parts/blog/searchform.php:14
+msgctxt "submit button"
+msgid "Search"
+msgstr "Szukaj"
+
+#: template-parts/blog/searchform.php:8
+msgid "Search &hellip;"
+msgstr "Szukaj &hellip;"
+
+#: template-parts/blog/searchform.php:5
+msgctxt "label"
+msgid "Search for:"
+msgstr "Szukaj:"
+
+#: template-parts/blog/comments.php:29
+msgid "Newer Comments"
+msgstr "Nowsze komentarze"
+
+#: template-parts/blog/comments.php:26
+msgid "Older Comments"
+msgstr "Starsze komentarze"
+
+#. Template Name of the theme
+msgid "Landing Page Template"
+msgstr "Szablon strony docelowej"
+
+#. Template Name of the theme
+msgid "Front Page Template"
+msgstr "Szablon strony głównej"
+
+#. Template Name of the theme
+msgid "Full Width Template"
+msgstr "Szablon wykorzystujący całą szerokość ekranu"
+
+#: inc/translations.php:309
+msgid "Undefined sanitize function for control \"%s\""
+msgstr "Niezdefiniowana funkcja sanityzacji dla kontrolki \"%s\""
+
+#: inc/translations.php:306
+msgid "These actions will also install Colibri Page Builder plugin."
+msgstr "Działania te spowodują również zainstalowanie wtyczki Colibri Page Builder."
+
+#: inc/translations.php:305
+msgid "Add Predefined Section"
+msgstr "Dodaj predefiniowaną sekcję"
+
+#: inc/translations.php:304
+msgid "Choose footer design"
+msgstr "Wybierz projekt stopki"
+
+#: inc/translations.php:303
+msgid "Choose header design"
+msgstr "Wybierz projekt nagłówka"
+
+#: inc/translations.php:302
+msgid "Skip to content"
+msgstr "Przejdź do treści"
+
+#: inc/translations.php:300
+msgid "Activating %s"
+msgstr "Włączanie %s"
+
+#: inc/translations.php:299
+msgid "Installing %s"
+msgstr "Instalowanie %s"
+
+#: inc/translations.php:293
+msgid "%1$s plugin adds drag and drop functionality and many other features to the %2$s theme."
+msgstr "Wtyczka %1$s dodaje funkcję przeciągnij i upuść oraz wiele innych funkcji do motywu %2$s."
+
+#: inc/translations.php:288
+msgid "%1$s plugin is recommended for the %2$s contact section."
+msgstr "Wtyczka %1$s jest zalecana dla sekcji kontaktu %2$s."
+
+#: inc/translations.php:286
+msgid "Leave a review"
+msgstr "Zostaw opinię"
+
+#: inc/translations.php:284
+msgid "We strive to provide our customers with the best service in our industry, so your feedback is very important to us. We would greatly appreciate it if you would take a few minutes to share your experience with us via this survey."
+msgstr "Dokładamy wszelkich starań, aby zapewnić naszym klientom najlepszą obsługę w naszej branży, dlatego twoja opinia jest dla nas bardzo ważna. Będziemy bardzo wdzięczni za poświęcenie kilku minut na podzielenie się z nami swoimi doświadczeniami za pośrednictwem tej ankiety."
+
+#: inc/translations.php:283
+msgid "Leave a Review"
+msgstr "Leave a Review"
+
+#: inc/translations.php:282
+msgid "Open a support ticket"
+msgstr "Zgłoszenie do pomocy technicznej"
+
+#: inc/translations.php:280
+msgid "Our technical team is here to help you build an awesome website. We usually answer support issues in less than 1 business day."
+msgstr "Nasz zespół techniczny jest tutaj, aby pomóc zbudować niesamowitą stronę internetową. Zwykle odpowiadamy na pytania dotyczące pomocy technicznej w czasie krótszym niż 1 dzień roboczy."
+
+#: inc/translations.php:279
+msgid "Support"
+msgstr "Wsparcie"
+
+#: inc/translations.php:278
+msgid "Check documentation"
+msgstr "Sprawdź dokumentację"
+
+#: inc/translations.php:276
+msgid "Silverstorm is easy to learn and master, but you can always check out our documentation to check out features you might have missed."
+msgstr "Silverstorm jest łatwa do opanowania i opanowania, ale zawsze możesz sprawdzić naszą dokumentację, aby sprawdzić funkcje, które mogłeś przegapić."
+
+#: inc/translations.php:275
+msgid "Documentation"
+msgstr "Dokumentacja"
+
+#: inc/translations.php:274
+msgid "Check all demo sites page"
+msgstr "Sprawdź wszystkie strony demonstracyjne"
+
+#: inc/translations.php:273
+msgid "Start with selected design"
+msgstr "Zacznij od wybranego projektu"
+
+#: inc/translations.php:272
+msgid "Choose one of the Silverstorm predefined designs"
+msgstr "Wybierz jeden z predefiniowanych wzorów Silverstorm"
+
+#: inc/translations.php:271
+msgid "Welcome to %s"
+msgstr "Witamy w %s"
+
+#: inc/translations.php:270
+msgid "Customize"
+msgstr "Dostosuj"
+
+#: inc/translations.php:269
+msgid "Customize menu"
+msgstr "Dostosuj menu"
+
+#: inc/translations.php:268
+msgid "Customize fonts"
+msgstr "Dostosuj czcionki"
+
+#: inc/translations.php:267
+msgid "Change color settings"
+msgstr "Zmień ustawienia kolorów"
+
+#: inc/translations.php:266
+msgid "Customize footer"
+msgstr "Dostosuj stopkę"
+
+#: inc/translations.php:265
+msgid "Customize frontpage hero"
+msgstr "Dostosuj wyróżnioną sekcję strony głównej"
+
+#: inc/translations.php:264
+msgid "Customize navigation"
+msgstr "Dostosuj nawigację"
+
+#: inc/translations.php:263
+msgid "Change the hero image"
+msgstr "Zmiana obrazek wyróżnionej sekcji"
+
+#: inc/translations.php:262
+msgid "Set your logo"
+msgstr "Ustaw swoje logo"
+
+#: inc/translations.php:261
+msgid "Links to Customizer Settings"
+msgstr "Łącza do ustawień Presonalizacji"
+
+#: inc/translations.php:260
+msgid "Recommended plugins"
+msgstr "Zalecane wtyczki"
+
+#: inc/translations.php:259
+msgid "Get Started"
+msgstr "Rozpocznij"
+
+#: inc/translations.php:258
+msgid "or"
+msgstr "lub"
+
+#: inc/translations.php:257
+msgid "Silverstorm Settings"
+msgstr "Ustawienia Silverstorm"
+
+#: inc/translations.php:254
+msgid "Thumbnail placeholder color"
+msgstr "Kolor symbolu zastępczego miniatury"
+
+#: inc/translations.php:253
+msgid "Show thumbnail placeholder"
+msgstr "Pokaż symbol zastępczy miniatury"
+
+#: inc/translations.php:252
+msgid "Enable masonry"
+msgstr "Włącz masonry"
+
+#: inc/translations.php:251
+msgid "Show blog sidebar "
+msgstr "Pokaż panel boczny bloga "
+
+#: inc/translations.php:250
+msgid "Posts per row"
+msgstr "Wpisy na wiersz"
+
+#: inc/translations.php:246
+msgid "Activate %s"
+msgstr "Włącz %s"
+
+#: inc/translations.php:245
+msgid "Install %s"
+msgstr "Zainstaluj %s"
+
+#: inc/translations.php:243
+msgid "To enable all the theme features, please install %s plugin"
+msgstr "To enable all the theme features, please install %s plugin"
+
+#: inc/translations.php:239
+msgid "Use footer parallax"
+msgstr "Paralaksa w stopce"
+
+#: inc/translations.php:235
+msgid "Read More"
+msgstr "Dowiedz się więcej"
+
+#: inc/translations.php:231
+msgid "Logo above"
+msgstr "Logo above"
+
+#: inc/translations.php:230
+msgid "Logo / Nav"
+msgstr "Logo / Nav"
+
+#: inc/translations.php:227
+msgid "Shutter out vertical"
+msgstr "Migawka z pionu"
+
+#: inc/translations.php:226
+msgid "Shutter in vertical"
+msgstr "Migawka w pionie"
+
+#: inc/translations.php:225
+msgid "Shutter out horizontal"
+msgstr "Migawka z poziomu"
+
+#: inc/translations.php:224
+msgid "Shutter in horizontal"
+msgstr "Migawka w poziomie"
+
+#: inc/translations.php:223
+msgid "Grow right"
+msgstr "Wzrost w prawo"
+
+#: inc/translations.php:222
+msgid "Grow left"
+msgstr "Wzrost w lewo"
+
+#: inc/translations.php:221
+msgid "Grow down"
+msgstr "Wzrost w dół"
+
+#: inc/translations.php:220
+msgid "Grow up"
+msgstr "Wzrost w górę"
+
+#: inc/translations.php:218
+msgid "Grow from center"
+msgstr "Wzrost od środka"
+
+#: inc/translations.php:217
+msgid "Grow from right"
+msgstr "Wzrost od prawej"
+
+#: inc/translations.php:216
+msgid "Grow from left"
+msgstr "Wzrost od lewej"
+
+#: inc/translations.php:215
+msgid "Drop out"
+msgstr "Wypadanie"
+
+#: inc/translations.php:214
+msgid "Drop in"
+msgstr "Wpadanie"
+
+#: inc/translations.php:212
+msgid "Background"
+msgstr "Tło"
+
+#: inc/translations.php:211
+msgid "Double line"
+msgstr "Podwójna linia"
+
+#: inc/translations.php:210
+msgid "Top line"
+msgstr "Linia górna"
+
+#: inc/translations.php:209
+msgid "Bottom line"
+msgstr "Dolna linia"
+
+#: inc/translations.php:206
+msgid "Button hover effect"
+msgstr "Efekt najechania na przycisk"
+
+#: inc/translations.php:205
+msgid "Button highlight type"
+msgstr "Typ podświetlenia przycisku"
+
+#: inc/translations.php:204
+msgid "Mobile, tablet and desktop"
+msgstr "Urządzenia mobilne, tablety i komputery stacjonarne"
+
+#: inc/translations.php:203
+msgid "Mobile and tablet"
+msgstr "Urządzenia mobilne i tablety"
+
+#: inc/translations.php:202
+msgid "Mobile"
+msgstr "Mobilne"
+
+#: inc/translations.php:201
+msgid "Show offscreen menu on"
+msgstr "Pokaż menu poza ekranem na"
+
+#: inc/translations.php:200
+msgid "Edit Menu Structure"
+msgstr "Edytuj strukturę menu"
+
+#: inc/translations.php:199
+msgid "- No menu -"
+msgstr "- Brak menu -"
+
+#: inc/translations.php:198
+msgid "Menu"
+msgstr "Menu"
+
+#: inc/translations.php:195
+msgid "Image with text on the left"
+msgstr "Obrazek z tekstem po lewej stronie"
+
+#: inc/translations.php:194
+msgid "Image with text above"
+msgstr "Obrazek z tekstem powyżej"
+
+#: inc/translations.php:193
+msgid "Image with text on the right"
+msgstr "Obrazek z tekstem po prawej stronie"
+
+#: inc/translations.php:192
+msgid "Image with text below"
+msgstr "Obrazek z tekstem poniżej"
+
+#: inc/translations.php:191
+msgid "Site title text only"
+msgstr "Tylko tytuł strony"
+
+#: inc/translations.php:190
+msgid "Logo image only"
+msgstr "Tylko obrazek logo"
+
+#: inc/translations.php:188
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/translations.php:187
+msgid "Navigation padding"
+msgstr "Odstęp nawigacji"
+
+#: inc/translations.php:186
+msgid "Alternate logo image"
+msgstr "Alternatywny obrazek logo"
+
+#: inc/translations.php:185
+msgid "Layout type"
+msgstr "Rodzaj układu"
+
+#: inc/translations.php:182
+msgid "Button align"
+msgstr "Wyrównanie przycisku"
+
+#: inc/translations.php:181
+msgid "Transparent nav"
+msgstr "Przezroczysta nawigacja"
+
+#: inc/translations.php:180
+msgid "Full width"
+msgstr "Pełna szerokość"
+
+#: inc/translations.php:179
+msgid "Container width"
+msgstr "Szerokość strony"
+
+#: inc/translations.php:178
+msgid "Boxed"
+msgstr "Pudełkowy"
+
+#: inc/translations.php:177
+msgid "Show top bar"
+msgstr "Pokaż górny pasek"
+
+#: inc/translations.php:176
+msgid "Stick on scroll"
+msgstr "Przyklejony przy przewijaniu"
+
+#: inc/translations.php:173
+msgid "Text"
+msgstr "Tekst"
+
+#: inc/translations.php:172
+msgid "Icon"
+msgstr "Ikona"
+
+#: inc/translations.php:171
+msgid "Add Icon"
+msgstr "Dodaj ikonę"
+
+#: inc/translations.php:170
+msgid "Add Item"
+msgstr "Dodaj element"
+
+#: inc/translations.php:169
+msgid "Icon %s"
+msgstr "Ikona %s"
+
+#: inc/translations.php:168
+msgid "Add Field"
+msgstr "Dodaj pole"
+
+#: inc/translations.php:167
+msgid "Field %s"
+msgstr "Pole %s"
+
+#: inc/translations.php:166
+msgid "Content Type"
+msgstr "Typ treści"
+
+#: inc/translations.php:165
+msgid "Social Icons"
+msgstr "Ikony społecznościowe"
+
+#: inc/translations.php:164
+msgid "Information Fields"
+msgstr "Pola informacyjne"
+
+#: inc/translations.php:161
+msgid "Show frame shadow"
+msgstr "Pokaż cień ramki"
+
+#: inc/translations.php:160
+msgid "Show frame over image"
+msgstr "Pokaż ramkę nad obrazkiem"
+
+#: inc/translations.php:159
+msgid "Frame thickness"
+msgstr "Grubość ramki"
+
+#: inc/translations.php:158
+msgid "Offset top"
+msgstr "Przesunięcie w górę"
+
+#: inc/translations.php:157
+msgid "Offset left"
+msgstr "Przesunięcie w lewo"
+
+#: inc/translations.php:156
+msgid "Offset"
+msgstr "Przesunięcie (Offset)"
+
+#: inc/translations.php:155
+msgid "Height"
+msgstr "Wysokość"
+
+#: inc/translations.php:154
+msgid "Width"
+msgstr "Szerokość"
+
+#: inc/translations.php:153
+msgid "Border"
+msgstr "Obramowanie"
+
+#: inc/translations.php:151
+msgid "Frame options"
+msgstr "Opcje ramki"
+
+#: inc/translations.php:150
+msgid "Blur"
+msgstr "Rozmycie"
+
+#: inc/translations.php:149
+msgid "Spread"
+msgstr "Rozłożenie"
+
+#: inc/translations.php:148
+msgid "Vertical"
+msgstr "Pionowo"
+
+#: inc/translations.php:147
+msgid "Horizontal"
+msgstr "Poziomo"
+
+#: inc/translations.php:146
+msgid "Box shadow"
+msgstr "Box shadow"
+
+#: inc/translations.php:143
+msgid "Text column width"
+msgstr "Szerokość kolumny tekstu"
+
+#: inc/translations.php:142
+msgid "Full Height"
+msgstr "Pełna wysokość"
+
+#: inc/translations.php:141
+msgid "Spacing bottom"
+msgstr "Odstęp dolny"
+
+#: inc/translations.php:140
+msgid "Spacing top"
+msgstr "Odstęp górny"
+
+#: inc/translations.php:139
+msgid "Align"
+msgstr "Wyrównanie"
+
+#: inc/translations.php:138
+msgid "Icons"
+msgstr "Ikony"
+
+#: inc/translations.php:137
+msgid "Link"
+msgstr "Odnośnik"
+
+#: inc/translations.php:136
+msgid "Label"
+msgstr "Etykieta"
+
+#: inc/translations.php:135
+msgid "Secondary Button"
+msgstr "Przycisk dodatkowy"
+
+#: inc/translations.php:134
+msgid "Primary Button"
+msgstr "Przycisk podstawowy"
+
+#: inc/translations.php:133
+msgid "Button Type"
+msgstr "Typ przycisku"
+
+#: inc/translations.php:132
+msgid "Buttons"
+msgstr "Przyciski"
+
+#: inc/translations.php:131
+msgid "Add Button"
+msgstr "Dodaj przycisk"
+
+#: inc/translations.php:130
+msgid "Button"
+msgstr "Przycisk"
+
+#: inc/translations.php:129
+msgid "Text width"
+msgstr "Szerokość tekstu"
+
+#: inc/translations.php:128
+msgid "Subtitle"
+msgstr "Podtytuł"
+
+#: inc/translations.php:127
+msgid "Title"
+msgstr "Tytuł"
+
+#: inc/translations.php:126
+msgid "Show Subtitle"
+msgstr "Pokaż podtytuł"
+
+#: inc/translations.php:125
+msgid "Show Title"
+msgstr "Pokaż tytuł"
+
+#: inc/translations.php:124
+msgid "Text with media on left"
+msgstr "Tekst z multimediami po lewej stronie"
+
+#: inc/translations.php:123
+msgid "Text with media on right"
+msgstr "Tekst z multimediami po prawej stronie"
+
+#: inc/translations.php:122
+msgid "Text only"
+msgstr "Tylko tekst"
+
+#: inc/translations.php:121
+msgid "Hero layout"
+msgstr "Układ wyróżnionej sekcji"
+
+#: inc/translations.php:118
+msgid "Overlay Shape"
+msgstr "Kształt nakładki"
+
+#: inc/translations.php:117
+msgid "Shape Light"
+msgstr "Lekki wzór"
+
+#: inc/translations.php:116
+msgid "Right Tilted Strips"
+msgstr "Paski pochylone w prawo"
+
+#: inc/translations.php:115
+msgid "Right Tilted Lines"
+msgstr "Linie pochylone w prawo"
+
+#: inc/translations.php:114
+msgid "Left Tilted Lines"
+msgstr "Linie pochylone w lewo"
+
+#: inc/translations.php:113
+msgid "Dots"
+msgstr "Kropki"
+
+#: inc/translations.php:112
+msgid "Waves Inverted"
+msgstr "Fale odwrócone"
+
+#: inc/translations.php:111
+msgid "Circles White Gradient"
+msgstr "Gradient białych kręgów"
+
+#: inc/translations.php:110
+msgid "Circles Gradient"
+msgstr "Gradient kręgów"
+
+#: inc/translations.php:109
+msgid "Circles 3"
+msgstr "Kręgi 3"
+
+#: inc/translations.php:108
+msgid "Circles 2"
+msgstr "Kręgi 2"
+
+#: inc/translations.php:107
+msgid "Two Circles"
+msgstr "Dwa kręgi"
+
+#: inc/translations.php:106
+msgid "Many Rounded Squares Blue"
+msgstr "Wiele zaokrąglonych niebieskich kwadratów"
+
+#: inc/translations.php:105
+msgid "Rounded Square Blue"
+msgstr "Zaokrąglony niebieski kwadrat"
+
+#: inc/translations.php:104
+msgid "10deg Stripes"
+msgstr "Paski 10 stopni"
+
+#: inc/translations.php:103
+msgid "Circles"
+msgstr "Koła"
+
+#: inc/translations.php:102
+msgid "Opacity"
+msgstr "Przezroczystość"
+
+#: inc/translations.php:101
+msgid "Shape Only"
+msgstr "Tylko kształt"
+
+#: inc/translations.php:100
+msgid "Overlay Type"
+msgstr "Typ nakładki"
+
+#: inc/translations.php:99
+msgid "Show Background Overlay"
+msgstr "Pokaż nakładkę tła"
+
+#: inc/translations.php:98
+msgid "Youtube link"
+msgstr "Link do YouTube"
+
+#: inc/translations.php:97
+msgid "Video Poster"
+msgstr "Video-wizytówka"
+
+#: inc/translations.php:96
+msgid "External"
+msgstr "Zewnętrzny"
+
+#: inc/translations.php:95
+msgid "Self Hosted Video"
+msgstr "Własny film"
+
+#: inc/translations.php:94
+msgid "Self Hosted"
+msgstr "Własny hosting"
+
+#: inc/translations.php:93
+msgid "Video type"
+msgstr "Typ wideo"
+
+#: inc/translations.php:92
+msgid "Effect Speed"
+msgstr "Szybkość efektu"
+
+#: inc/translations.php:91
+msgid "Slide Duration"
+msgstr "Czas trwania slajdu"
+
+#: inc/translations.php:90
+msgid "Contain"
+msgstr "Zawarty"
+
+#: inc/translations.php:89
+msgid "Cover"
+msgstr "Okładka"
+
+#: inc/translations.php:88
+msgid "Auto"
+msgstr "Automatycznie"
+
+#: inc/translations.php:87
+msgid "Repeat %s"
+msgstr "Powtarzany %s"
+
+#: inc/translations.php:86
+msgid "Do not repeat"
+msgstr "Niepowtarzany"
+
+#: inc/translations.php:85
+msgid "Size"
+msgstr "Rozmiar"
+
+#: inc/translations.php:84
+msgid "Fixed"
+msgstr "Stały"
+
+#: inc/translations.php:83
+msgid "Scroll"
+msgstr "Przewijaj"
+
+#: inc/translations.php:82
+msgid "Attachment"
+msgstr "Załącznik"
+
+#: inc/translations.php:81
+msgid "Bottom Right"
+msgstr "W prawym dolnym rogu"
+
+#: inc/translations.php:80
+msgid "Bottom Center"
+msgstr "Środek dolnej krawędzi"
+
+#: inc/translations.php:79
+msgid "Bottom Left"
+msgstr "W lewym dolnym rogu"
+
+#: inc/translations.php:78
+msgid "Center Right"
+msgstr "Na środku po prawej"
+
+#: inc/translations.php:77
+msgid "Center Center"
+msgstr "Na środku pośrodku"
+
+#: inc/translations.php:76
+msgid "Center Left"
+msgstr "Na środku po lewej"
+
+#: inc/translations.php:75
+msgid "Top Right"
+msgstr "Górny prawy"
+
+#: inc/translations.php:74
+msgid "Top Center"
+msgstr "Środek górnej krawędzi"
+
+#: inc/translations.php:73
+msgid "Top Left"
+msgstr "Górny lewy"
+
+#: inc/translations.php:70
+msgid "Position"
+msgstr "Położenie"
+
+#: inc/translations.php:69
+msgid "Add Slide"
+msgstr "Dodaj slajd"
+
+#: inc/translations.php:68
+msgid "Slide %s"
+msgstr "Slajd nr %s"
+
+#: inc/translations.php:67
+msgid "Remove"
+msgstr "Usuń"
+
+#: inc/translations.php:66
+msgid "Add"
+msgstr "Dodaj"
+
+#: inc/translations.php:65
+msgid "None"
+msgstr "Brak"
+
+#: inc/translations.php:64
+msgid "Clear"
+msgstr "Wyczyść"
+
+#: inc/translations.php:63
+msgid "OK"
+msgstr "OK"
+
+#: inc/translations.php:62
+msgid "Select image"
+msgstr "Wybierz obrazek"
+
+#: inc/translations.php:61
+msgid "Select item"
+msgstr "Wybierz element"
+
+#: inc/translations.php:60
+msgid "Select"
+msgstr "Wybierz"
+
+#: inc/translations.php:57
+msgid "Zigzag"
+msgstr "Zigzak"
+
+#: inc/translations.php:56
+msgid "Split"
+msgstr "Podział"
+
+#: inc/translations.php:55
+msgid "Book"
+msgstr "Książka"
+
+#: inc/translations.php:54
+msgid "Arrow"
+msgstr "Strzałka"
+
+#: inc/translations.php:53
+msgid "Drops"
+msgstr "Krople"
+
+#: inc/translations.php:52
+msgid "Curve Asymmetrical"
+msgstr "Krzywa asymetryczna"
+
+#: inc/translations.php:51
+msgid "Curve"
+msgstr "Krzywa"
+
+#: inc/translations.php:50
+msgid "Clouds"
+msgstr "Chmury"
+
+#: inc/translations.php:49
+msgid "Waves Pattern"
+msgstr "Wzór fal"
+
+#: inc/translations.php:48
+msgid "Wave Brush"
+msgstr "Pędzel falisty"
+
+#: inc/translations.php:47
+msgid "Waves"
+msgstr "Fale"
+
+#: inc/translations.php:46
+msgid "Pyramids"
+msgstr "Piramidy"
+
+#: inc/translations.php:45
+msgid "Mountains"
+msgstr "Góry"
+
+#: inc/translations.php:44
+msgid "Opacity Tilt "
+msgstr "Nachylenie krycia "
+
+#: inc/translations.php:43
+msgid "Opacity Fan"
+msgstr "Prześwit krycia"
+
+#: inc/translations.php:42
+msgid "Triangle Asymmetrical"
+msgstr "Trójkąt asymetryczny"
+
+#: inc/translations.php:41
+msgid "Triangle"
+msgstr "Trójkąt"
+
+#: inc/translations.php:40
+msgid "Tilt Flipped"
+msgstr "Pochylenie odwrócone"
+
+#: inc/translations.php:39
+msgid "Tilt"
+msgstr "Pochylenie"
+
+#: inc/translations.php:36
+msgid "Divider negative"
+msgstr "Odwrócony separator"
+
+#: inc/translations.php:35
+msgid "Divider height"
+msgstr "Wysokość separatora"
+
+#: inc/translations.php:34
+msgid "Divider style"
+msgstr "Styl separatora"
+
+#: inc/translations.php:33
+msgid "Show bottom divider"
+msgstr "Pokaż separator dolny"
+
+#: inc/translations.php:30
+msgid "Video"
+msgstr "Film"
+
+#: inc/translations.php:29
+msgid "Slideshow"
+msgstr "Pokaz slajdów"
+
+#: inc/translations.php:28
+msgid "Gradient"
+msgstr "Gradient"
+
+#: inc/translations.php:27
+msgid "Image"
+msgstr "Obrazek"
+
+#: inc/translations.php:26
+msgid "Color"
+msgstr "Kolor"
+
+#: inc/translations.php:25
+msgid "Background Image"
+msgstr "Obrazek tła"
+
+#: inc/translations.php:24
+msgid "Background Color"
+msgstr "Kolor tła"
+
+#: inc/translations.php:23
+msgid "Background Type"
+msgstr "Typ tła"
+
+#: inc/translations.php:20
+msgid "Advanced"
+msgstr "Zaawansowane"
+
+#: inc/translations.php:19
+msgid "Style"
+msgstr "Styl"
+
+#: inc/translations.php:17
+msgid "Blog Settings"
+msgstr "Ustawienia bloga"
+
+#: inc/translations.php:16
+msgid "Footer Settings"
+msgstr "Ustawienia stopki"
+
+#: inc/translations.php:15
+msgid "Hero Settings"
+msgstr "Ustawienia wyróżnionej sekcji"
+
+#: inc/translations.php:14
+msgid "Navigation Settings"
+msgstr "Ustawienia nawigacji"
+
+#: inc/translations.php:13
+msgid "Top Bar Settings"
+msgstr "Ustawienia górnego paska"
+
+#: inc/translations.php:12
+msgid "Content Settings"
+msgstr "Ustawienia treści"
+
+#: inc/translations.php:11 inc/translations.php:18
+msgid "Content"
+msgstr "Treść"
+
+#: inc/translations.php:10
+msgid "Footer"
+msgstr "Stopka"
+
+#: inc/translations.php:9
+msgid "Header"
+msgstr "Nagłówek"
+
+#: inc/translations.php:8
+msgid "Help"
+msgstr "Pomoc"
+
+#: inc/translations.php:7
+#: template-parts/layout-wrapper-content/navigation-container-2.php:37
+#: template-parts/layout-wrapper-content/navigation-container-3.php:11
+#: template-parts/layout-wrapper-content/navigation-container-3.php:37
+msgid "Back"
+msgstr "Wstecz"
+
+#: inc/translations.php:6
+msgid "Press return or enter to open this section"
+msgstr "Wciśnij klawisz enter, by otworzyć tą sekcję"
+
+#: inc/template-functions.php:413
+msgid "Built using WordPress and %s"
+msgstr "Zbudowany przy użyciu WordPress i %s"
+
+#: inc/template-functions.php:327
+msgid "Responses"
+msgstr "Odpowiedzi"
+
+#: inc/template-functions.php:326 template-parts/blog/comments.php:13
+#: template-parts/main/post.php:32
+msgid "One response"
+msgstr "Jedna odpowiedź"
+
+#: inc/template-functions.php:325 template-parts/blog/comments.php:12
+#: template-parts/main/post.php:31
+msgid "No responses yet"
+msgstr "Brak odpowiedzi"
+
+#: inc/template-functions.php:270
+msgid "Posts navigation"
+msgstr "Nawigacja po wpisach"
+
+#: inc/template-functions.php:265 template-parts/content/content-page.php:12
+#: template-parts/content/content-single.php:26
+msgid "Page"
+msgstr "Strona"
+
+#: inc/template-functions.php:198
+msgid "Post navigation"
+msgstr "Zobacz wpisy"
+
+#: inc/template-functions.php:179
+msgid "No Tag"
+msgstr "Brak tagu"
+
+#: inc/template-functions.php:171
+msgid "Tag: %s"
+msgstr "Tag: %s"
+
+#: inc/template-functions.php:146
+msgid "No Category"
+msgstr "Brak kategorii"
+
+#: inc/template-functions.php:13
+msgid "Search Results for &#8220;%s&#8221;"
+msgstr "Wyniki wyszukiwania dla &#8222;%s&#8221;"
+
+#: inc/template-functions.php:11
+msgid "Page not found"
+msgstr "Strona nie została znaleziona"
+
+#: inc/functions.php:176
+msgid "Woo Commerce left sidebar widget area"
+msgstr "Obszar widżetów lewego panelu bocznego WooCommerce"
+
+#: inc/functions.php:166
+msgid "Blog sidebar widget area"
+msgstr "Obszar widgetu panelu bocznego bloga"
+
+#: inc/functions.php:155
+msgid "Footer Menu"
+msgstr "Menu Stopki"
+
+#: inc/functions.php:154
+msgid "Header Menu"
+msgstr "Menu nagłówka"
+
+#: inc/defaults.php:22
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco."
+
+#: inc/defaults.php:13
+msgid "Just click and start typing to change the site headline."
+msgstr "Wystarczy kliknąć i zacząć pisać, aby zmienić nagłówek strony."
+
+#: inc/defaults.php:9
+msgid "stunning  Creation"
+msgstr "oszałamiająca kreacja"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3665
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalowanie wtyczki %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:3662
+msgid "All installations have been completed."
+msgstr "Wszystkie instalacje zostały zakończone."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3658
+msgid "%1$s installed successfully."
+msgstr "Zainstalowano %1$s."
+
+#: inc/class-tgm-plugin-activation.php:3655
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Rozpoczyna się proces instalacji. Proces ten może chwilę potrwać na niektórych hostach, więc prosimy o cierpliwość."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3651
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalacja i włączenie wtyczki %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:3648
+msgid "All installations and activations have been completed."
+msgstr "Wszystkie instalacje i uruchamianie zostały zakończone."
+
+#: inc/class-tgm-plugin-activation.php:3646
+#: inc/class-tgm-plugin-activation.php:3660
+msgid "Hide Details"
+msgstr "Ukryj szczegóły"
+
+#: inc/class-tgm-plugin-activation.php:3645
+#: inc/class-tgm-plugin-activation.php:3659
+msgid "Show Details"
+msgstr "Pokaż szczegóły"
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3644
+msgid "%1$s installed and activated successfully."
+msgstr "Zainstalowano i włączono %1$s."
+
+#: inc/class-tgm-plugin-activation.php:3641
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Rozpoczyna się proces instalacji i włączanie. Proces ten może chwilę potrwać na niektórych serwera, więc prosimy o cierpliwość."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3636
+msgid "The installation of %1$s failed."
+msgstr "Nie udała się instalacja wtyczki: %1$s."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/class-tgm-plugin-activation.php:3633
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Podczas instalacji %1$s: wystąpił błąd: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3629
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Aktualizacja wtyczki &#8222;%1$s&#8221; (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:3274
+msgid "Plugin activation failed."
+msgstr "Nie powiodło się włączenie wtyczki."
+
+#: inc/class-tgm-plugin-activation.php:3039
+msgid "No plugins are available to be activated at this time."
+msgstr "W tej chwili nie są dostępne żadne wtyczki do włączenia."
+
+#: inc/class-tgm-plugin-activation.php:3012
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Nie wybrano wtyczek do włączenia. Nie wykonano żadnej czynności."
+
+#: inc/class-tgm-plugin-activation.php:2905
+msgid "No plugins are available to be updated at this time."
+msgstr "W tej chwili nie są dostępne żadne wtyczki do zaktualizowania."
+
+#: inc/class-tgm-plugin-activation.php:2903
+msgid "No plugins are available to be installed at this time."
+msgstr "W tej chwili nie są dostępne żadne wtyczki do zainstalowania."
+
+#: inc/class-tgm-plugin-activation.php:2862
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Nie wybrano wtyczek do zaktualizowania. Nie wykonano żadnej czynności."
+
+#: inc/class-tgm-plugin-activation.php:2860
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Nie wybrano wtyczek do zainstalowania. Nie wykonano żadnej czynności."
+
+#: inc/class-tgm-plugin-activation.php:2829 inc/translations.php:297
+msgid "Activate"
+msgstr "Włącz"
+
+#: inc/class-tgm-plugin-activation.php:2826
+msgid "Update"
+msgstr "Zaaktualizuj"
+
+#: inc/class-tgm-plugin-activation.php:2820 inc/translations.php:298
+msgid "Install"
+msgstr "Zainstaluj"
+
+#: inc/class-tgm-plugin-activation.php:2786
+msgid "Upgrade message from the plugin author:"
+msgstr "Wiadomość o aktualizacji od autora wtyczki:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2712
+msgid "Activate %2$s"
+msgstr "Włącz %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2706
+msgid "Update %2$s"
+msgstr "Aktualizuj %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2701
+msgid "Install %2$s"
+msgstr "Zainstaluj %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2651
+msgid "Status"
+msgstr "Informacja o stanie"
+
+#: inc/class-tgm-plugin-activation.php:2650
+msgid "Version"
+msgstr "Wersja"
+
+#: inc/class-tgm-plugin-activation.php:2646 inc/translations.php:152
+msgid "Type"
+msgstr "Typ"
+
+#: inc/class-tgm-plugin-activation.php:2645
+msgid "Source"
+msgstr "Źródło"
+
+#: inc/class-tgm-plugin-activation.php:2644
+msgid "Plugin"
+msgstr "Wtyczka"
+
+#: inc/class-tgm-plugin-activation.php:2628
+msgid "No plugins to install, update or activate."
+msgstr "Nie ma żadnych wtyczek do zainstalowania, aktualizacji lub włączenia."
+
+#: inc/class-tgm-plugin-activation.php:2604
+msgid "Available version:"
+msgstr "Dostępna wersja:"
+
+#: inc/class-tgm-plugin-activation.php:2590
+msgid "Minimum required version:"
+msgstr "Wymagana wersja to przynajmniej:"
+
+#: inc/class-tgm-plugin-activation.php:2581
+msgid "Installed version:"
+msgstr "Zainstalowana wersja:"
+
+#: inc/class-tgm-plugin-activation.php:2572
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "unknown"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2485
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Aby włączyć <span class=\"count\">(%s)</span>"
+msgstr[1] "Aby włączyć <span class=\"count\">(%s)</span>"
+msgstr[2] "Aby włączyć <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2480
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Dostępna aktualizacja <span class=\"count\">(%s)</span>"
+msgstr[1] "Dostępne aktualizacje <span class=\"count\">(%s)</span>"
+msgstr[2] "Dostępne aktualizacje <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2475
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Aby zainstalować <span class=\"count\">(%s)</span>"
+msgstr[1] "Aby zainstalować <span class=\"count\">(%s)</span>"
+msgstr[2] "Aby zainstalować <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2470
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Wszystkie <span class=\"count\">(%s)</span>"
+msgstr[1] "Wszystkie <span class=\"count\">(%s)</span>"
+msgstr[2] "Wszystkie <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/class-tgm-plugin-activation.php:2423
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2414
+msgid "Update recommended"
+msgstr "Zalecana aktualizacja"
+
+#: inc/class-tgm-plugin-activation.php:2411
+msgid "Requires Update"
+msgstr "Wymaga aktualizacji"
+
+#: inc/class-tgm-plugin-activation.php:2408
+msgid "Required Update not Available"
+msgstr "Wymagana aktualizacja nie jest dostępna"
+
+#: inc/class-tgm-plugin-activation.php:2402 inc/translations.php:301
+msgid "Active"
+msgstr "Aktywne"
+
+#: inc/class-tgm-plugin-activation.php:2400
+msgid "Installed But Not Activated"
+msgstr "Zainstalowana, ale nie włączona"
+
+#: inc/class-tgm-plugin-activation.php:2396
+msgid "Not Installed"
+msgstr "Niezainstalowana"
+
+#: inc/class-tgm-plugin-activation.php:2378
+msgid "Pre-Packaged"
+msgstr "Instalacyjna"
+
+#: inc/class-tgm-plugin-activation.php:2375
+msgid "External Source"
+msgstr "Źródło zewnętrzne"
+
+#: inc/class-tgm-plugin-activation.php:2372
+msgid "WordPress Repository"
+msgstr "Repozytorium WordPress"
+
+#: inc/class-tgm-plugin-activation.php:2355
+msgid "Recommended"
+msgstr "Polecane"
+
+#: inc/class-tgm-plugin-activation.php:2352
+msgid "Required"
+msgstr "Wymagane"
+
+#. translators: %s: version number
+#: inc/class-tgm-plugin-activation.php:2054
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/class-tgm-plugin-activation.php:1152
+#: inc/class-tgm-plugin-activation.php:3055
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "i"
+
+#: inc/class-tgm-plugin-activation.php:960
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Zdalny pakiet wtyczek zawiera więcej niż jeden plik, ale pliki te nie są spakowane w folderze."
+
+#: inc/class-tgm-plugin-activation.php:955
+#: inc/class-tgm-plugin-activation.php:961
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Prosimy skontaktować się z dostawcą wtyczki i poprosić o spakowanie wtyczki zgodnie z zaleceniami WordPressa."
+
+#: inc/class-tgm-plugin-activation.php:954
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Zdalny pakiet wtyczek nie zawiera folderu z wymaganą nazwą uproszczoną, a zmiana nazwy się nie powiodła."
+
+#: inc/class-tgm-plugin-activation.php:532
+msgid "Update Required"
+msgstr "Wymagana aktualizacja"
+
+#: inc/class-tgm-plugin-activation.php:531
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Wtyczka powinna zostać zaktualizowana, aby była zgodna z używanym motywem."
+
+#: inc/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "Prosimy skontaktować się z administratorem tej witryny, aby otrzymać pomoc."
+
+#: inc/class-tgm-plugin-activation.php:402
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Wymagana i zalecana jest instalacja, aktualizacja lub włączenie przynajmniej jednej wtyczki."
+
+#: inc/class-tgm-plugin-activation.php:401
+msgid "Dismiss this notice"
+msgstr "Odrzuć powiadomienie"
+
+#. translators: 1: dashboard link.
+#: inc/class-tgm-plugin-activation.php:399
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Wszystkie wtyczki zostały zainstalowane i włączone. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:396
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Wtyczka nie została włączona. Do tego motywu potrzebna jest nowsza wersja %s . Prosimy o aktualizację wtyczki."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:393
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Nie wykonano żadnej czynności. Wtyczka %1$s została już zaktualizowana."
+
+#: inc/class-tgm-plugin-activation.php:390
+#: inc/class-tgm-plugin-activation.php:3060
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Następująca wtyczka została włączona pomyślnie:"
+msgstr[1] "Następujące wtyczki zostały włączone pomyślnie:"
+msgstr[2] "Następujące wtyczki zostały włączone pomyślnie:"
+
+#: inc/class-tgm-plugin-activation.php:389
+#: inc/class-tgm-plugin-activation.php:3275
+msgid "Plugin activated successfully."
+msgstr "Wtyczka została włączona prawidłowo."
+
+#: inc/class-tgm-plugin-activation.php:388
+#: inc/class-tgm-plugin-activation.php:843
+#: inc/class-tgm-plugin-activation.php:2629
+#: inc/class-tgm-plugin-activation.php:3728
+msgid "Return to the Dashboard"
+msgstr "Powrót do kokpitu"
+
+#: inc/class-tgm-plugin-activation.php:387
+msgid "Return to Required Plugins Installer"
+msgstr "Wróć do instalatora wymaganych wtyczek"
+
+#: inc/class-tgm-plugin-activation.php:382
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Rozpocznij włączanie wtyczki"
+msgstr[1] "Rozpocznij włączanie wtyczek"
+msgstr[2] "Rozpocznij włączanie wtyczek"
+
+#: inc/class-tgm-plugin-activation.php:377
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Rozpocznij aktualizowanie wtyczki"
+msgstr[1] "Rozpocznij aktualizowanie wtyczek"
+msgstr[2] "Rozpocznij aktualizowanie wtyczek"
+
+#: inc/class-tgm-plugin-activation.php:372
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Rozpocznij instalowanie wtyczki"
+msgstr[1] "Rozpocznij instalowanie wtyczek"
+msgstr[2] "Rozpocznij instalowanie wtyczek"
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:366
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Zalecana wtyczka jest aktualnie wyłączona: %1$s."
+msgstr[1] "Zalecane wtyczki jest aktualnie wyłączone: %1$s."
+msgstr[2] "Zalecane wtyczki jest aktualnie wyłączone: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:360
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Wymagana wtyczka jest aktualnie wyłączona: %1$s."
+msgstr[1] "Wymagane wtyczki jest aktualnie wyłączone: %1$s."
+msgstr[2] "Wymagane wtyczki jest aktualnie wyłączone: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:354
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Jest dostępna aktualizacja: %1$s."
+msgstr[1] "Są dostępne aktualizacje: %1$s."
+msgstr[2] "Są dostępne aktualizacje: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:348
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Następująca wtyczka musi być zaktualizowana do najnowszej wersji, aby zapewnić maksymalną kompatybilność z motywem: %1$s."
+msgstr[1] "Następujące wtyczki muszą być zaktualizowane do najnowszej wersji, aby zapewnić maksymalną kompatybilność z motywem: %1$s."
+msgstr[2] "Następujące wtyczki muszą być zaktualizowane do najnowszej wersji, aby zapewnić maksymalną kompatybilność z motywem: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:342
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Ten motyw rekomenduje zainstalowanie wtyczki: %1$s."
+msgstr[1] "Ten motyw rekomenduje zainstalowanie wtyczek: %1$s."
+msgstr[2] "Ten motyw rekomenduje zainstalowanie wtyczek: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:336
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Ten motyw wymaga zainstalowania wtyczki: %1$s."
+msgstr[1] "Ten motyw wymaga zainstalowania wtyczek: %1$s."
+msgstr[2] "Ten motyw wymaga zainstalowania wtyczek: %1$s."
+
+#: inc/class-tgm-plugin-activation.php:335
+msgid "Something went wrong with the plugin API."
+msgstr "Coś poszło nie tak z API wtyczki."
+
+#. translators: %s: plugin name.
+#: inc/class-tgm-plugin-activation.php:334
+msgid "Updating Plugin: %s"
+msgstr "Aktualizowanie wtyczki: %s"
+
+#. translators: %s: plugin name.
+#: inc/class-tgm-plugin-activation.php:332
+msgid "Installing Plugin: %s"
+msgstr "Instalacja wtyczki: %s"
+
+#: inc/class-tgm-plugin-activation.php:330
+msgid "Install Plugins"
+msgstr "Zainstaluj wtyczki"
+
+#: inc/class-tgm-plugin-activation.php:329
+msgid "Install Required Plugins"
+msgstr "Zainstaluj wymagane wtyczki"
+
+#: functions.php:36
+msgid "Current php version is: %1$s and the mininum required version is %2$s"
+msgstr "Aktualna wersja php to: %1$s, a minimalna wymagana wersja to %2$s"
+
+#: functions.php:33
+msgid "You need to update your PHP version to use the %s."
+msgstr "Musisz zaktualizować wersję PHP, aby używać %s."
+
+#: functions.php:31
+msgid "Silverstorm theme activation failed!"
+msgstr "Aktywacja motywu Silverstorm nie powiodła się!"
+
+#: comments.php:42 template-parts/blog/comments.php:37
+msgid "Comments are closed."
+msgstr "Możliwość komentowania jest wyłączona."
+
+#: comments.php:33
+msgid "Newer Comments <i class=\"font-icon-post fa fa-angle-double-right\"></i>"
+msgstr "Nowsze komentarze <i class=\"font-icon-post fa fa-angle-double-right\"></i>"
+
+#: comments.php:29
+msgid "<i class=\"font-icon-post fa fa-angle-double-left\"></i> Older Comments"
+msgstr "<i class=\"font-icon-post fa fa-angle-double-left\"></i> Starsze komentarze"
+
+#: comments.php:12 template-parts/blog/comments.php:14
+msgid "% Responses"
+msgstr "% odpowiedzi"
+
+#: comments.php:11
+msgid "One Response"
+msgstr "Jedna odpowiedź"
+
+#: comments.php:11
+msgid "No Responses"
+msgstr "Brak odpowiedzi"
+
+#: admin/admin-notice.php:121
+msgid "This action will also install the Colibri Page Builder plugin."
+msgstr "Ta czynność spowoduje również zainstalowanie wtyczki Colibri Page Builder."
+
+#: admin/admin-notice.php:109
+msgid "Maybe Later"
+msgstr "Może później"
+
+#: admin/admin-notice.php:105
+msgid "Install the Silverstorm homepage"
+msgstr "Zainstaluj stronę główną Silverstorm"
+
+#: admin/admin-notice.php:100
+msgid "Would you like to install the pre-designed Silverstorm homepage?"
+msgstr "Czy chcesz zainstalować wstępnie zaprojektowaną stronę główną Silverstorm?"
+
+#: admin/admin-notice.php:63 admin/page.php:18
+msgid "Activating"
+msgstr "Aktywacja"
+
+#: admin/admin-notice.php:41
+msgid "Fullscreen"
+msgstr "Tryb pełnoekranowy"
+
+#: admin/admin-notice.php:32
+msgid "Classic"
+msgstr "Klasyczny"
+
+#: admin/admin-notice.php:13 admin/admin-notice.php:22
+msgid "Modern"
+msgstr "Nowoczesny"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://extendthemes.com/"
+msgstr "https://extendthemes.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Extend Themes"
+msgstr "Extend Themes"

@@ -1,0 +1,4147 @@
+# Translation of Themes - SaasLauncher in Spanish (Spain)
+# This file is distributed under the same license as the Themes - SaasLauncher package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-11-19 16:14:25+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: es\n"
+"Project-Id-Version: Themes - SaasLauncher\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "SaasLauncher is a modern, block-based WordPress theme crafted specifically for SaaS products, startups, agencies, and businesses. Built with Full Site Editing (FSE), it gives you complete control to fully customize every corner of your site—from headers and footers to every page template. With 70+ ready-to-use pre-built sections and 50+ professionally designed starter templates, you can launch your site effortlessly and tailor it to your brand in minutes. Whether you're building a product landing page, SaaS landing page, agency portfolio, or corporate website, SaasLauncher offers a seamless, flexible, and fast design experience. It's WooCommerce-ready, responsive, and compatible with popular plugins like Contact Form 7, Rankmath, WPForms, Yoast SEO and more. Plus, it comes with Cozy Blocks’ 50+ advanced Gutenberg blocks, giving you all the tools you need to build stunning websites—your way. Explore features and demos at https://cozythemes.com/saaslauncher-wordpress-theme/."
+msgstr "SaasLauncher es un moderno tema de WordPress basado en bloques, creado específicamente para productos SaaS, startups, agencias y empresas. Construido con edición completa del sitio (FSE), te ofrece un control total para personalizar por completo cada rincón de tu sitio, desde las cabeceras y pies de página hasta cada plantilla de página. Con más de 70 secciones preconstruidas listas para usar y más de 50 plantillas de inicio diseñadas profesionalmente, puedes lanzar tu sitio sin esfuerzo y adaptarlo a tu marca en cuestión de minutos. Tanto si estás creando una página de destino de producto, una página de destino de SaaS, un porfolio de agencia o un sitio web corporativo, SaasLauncher ofrece una experiencia de diseño fluida, flexible y rápida. Está preparado para WooCommerce, es adaptable y compatible con plugins populares como Contact Form 7, Rankmath, WPForms, Yoast SEO y muchos más. Además, incluye más de 50 bloques Gutenberg avanzados de Cozy Blocks, que te proporcionan todas las herramientas que necesitas para crear sitios web asombrosos, a tu manera. Explora las características y demos en https://cozythemes.com/saaslauncher-wordpress-theme/."
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "SaasLauncher"
+msgstr "SaasLauncher"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Mona Sans"
+msgstr "Mona Sans"
+
+#: inc/admin/pages/changelog.php:5
+msgid "Released: October 16, 2025"
+msgstr "Publicado: 16 de octubre de 2025"
+
+#: inc/admin/pages/changelog.php:4
+msgid "Version 1.3.2"
+msgstr "Versión 1.3.2"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Archivo"
+msgstr "Archivo"
+
+#: patterns/team-section-2.php
+msgctxt "Pattern title"
+msgid "Team Section 2"
+msgstr "Sección de equipo 2"
+
+#: inc/admin/pages/changelog.php:7 inc/admin/pages/changelog.php:14
+msgid "Fixed admin dashboard redirection links"
+msgstr "Corregidos los enlaces de redirección del escritorio de administración"
+
+#: inc/admin/pages/changelog.php:12
+msgid "Released: August 27, 2025"
+msgstr "Fecha de publicación: 27 de agosto de 2025"
+
+#: inc/admin/pages/changelog.php:11
+msgid "Version 1.3.1"
+msgstr "Versión 1.3.1"
+
+#: styles/typography/tenor-sans.json
+msgctxt "Style variation name"
+msgid "Tenor Sans"
+msgstr "Tenor Sans"
+
+#: styles/typography/syne.json
+msgctxt "Style variation name"
+msgid "Syne"
+msgstr "Syne"
+
+#: styles/typography/space-mono.json
+msgctxt "Style variation name"
+msgid "Space Mono"
+msgstr "Space Mono"
+
+#: styles/typography/rubik.json
+msgctxt "Style variation name"
+msgid "Rubik"
+msgstr "Rubik"
+
+#: styles/typography/rethink-sans.json
+msgctxt "Style variation name"
+msgid "Rethink Sans"
+msgstr "Rethink sans"
+
+#: styles/typography/playfair-display.json
+msgctxt "Style variation name"
+msgid "Playfair Display"
+msgstr "Muestra Playfair"
+
+#: styles/typography/outfit.json
+msgctxt "Style variation name"
+msgid "Outfit"
+msgstr "Outfit"
+
+#: styles/typography/oswald.json
+msgctxt "Style variation name"
+msgid "Oswald"
+msgstr "Oswald"
+
+#: styles/typography/montagu-slab.json
+msgctxt "Style variation name"
+msgid "Montagu Slab"
+msgstr "Montagu Slab"
+
+#: styles/typography/mona-sans.json
+msgctxt "Style variation name"
+msgid "Mona Sans"
+msgstr "Mona Sans"
+
+#: styles/typography/michroma.json
+msgctxt "Style variation name"
+msgid "Michroma"
+msgstr "Michroma"
+
+#: styles/typography/manrope.json
+msgctxt "Style variation name"
+msgid "Manrope"
+msgstr "Manrope"
+
+#: styles/typography/inter.json
+msgctxt "Style variation name"
+msgid "Inter"
+msgstr "Inter"
+
+#: styles/typography/hubot-sans.json
+msgctxt "Style variation name"
+msgid "Hubot Sans"
+msgstr "Hubot Sans"
+
+#: styles/typography/host-grotesk.json
+msgctxt "Style variation name"
+msgid "Host Grotesk"
+msgstr "Host Grotesk"
+
+#: styles/typography/geist.json
+msgctxt "Style variation name"
+msgid "Geist"
+msgstr "Geist"
+
+#: styles/typography/dm-serif-display.json
+msgctxt "Style variation name"
+msgid "DM Serif Display"
+msgstr "DM Serif Display"
+
+#: styles/typography/bricolage-grotesque.json
+msgctxt "Style variation name"
+msgid "Bricolage Grotesque"
+msgstr "Bricolage Grotesque"
+
+#: styles/typography/big-shoulders.json
+msgctxt "Style variation name"
+msgid "Big Shoulders"
+msgstr "Big Shoulders"
+
+#: styles/typography/barlow.json
+msgctxt "Style variation name"
+msgid "Barlow"
+msgstr "Barlow"
+
+#: styles/typography/archivo.json
+msgctxt "Style variation name"
+msgid "Archivo"
+msgstr "Archivo"
+
+#: styles/colors/yellow.json styles/yellow.json
+msgctxt "Style variation name"
+msgid "YELLOW"
+msgstr "AMARILLO"
+
+#: styles/colors/teal.json styles/teal.json
+msgctxt "Style variation name"
+msgid "TEAL"
+msgstr "TEAL"
+
+#: styles/colors/red.json styles/red.json
+msgctxt "Style variation name"
+msgid "RED"
+msgstr "ROJO"
+
+#: styles/colors/dark-pink.json styles/dark-pink.json
+msgctxt "Style variation name"
+msgid "DARK PINK"
+msgstr "ROSA OSCURO"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Space Mono"
+msgstr "Space Mono"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Rethink Sans"
+msgstr "Rethink Sans"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Montagu Slab"
+msgstr "Montagu Slab"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Michroma"
+msgstr "Michroma"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Libre Franklin"
+msgstr "Libre Franklin"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "IBM Plex Serif"
+msgstr "IBM Plex Serif"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Host Grotesk"
+msgstr "Host Grotesk"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Funnel Display"
+msgstr "Funnel Display"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Bricolage Grotesque"
+msgstr "Bricolage Grotesque"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Big Shoulders"
+msgstr "Big Shoulders"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Tiny"
+msgstr "Tiny"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Center top Large Gradient"
+msgstr "Centro superior grande gradiente"
+
+#: patterns/testimonials-grid.php:308
+msgid "User-friendly, beautifully designed, and packed with functionality. I’ve never experienced such responsive support. Worth every penny."
+msgstr "Fácil de usar, bellamente diseñado y repleto de funciones. Nunca he tenido un servicio de asistencia tan eficiente. Merece la pena cada céntimo."
+
+#: patterns/testimonials-grid.php:279
+msgid "Smooth, fast, and reliable. Our team instantly became more productive. The personalized help during onboarding made a huge difference."
+msgstr "Sin problemas, rápido y fiable. Nuestro equipo se volvió más productivo al instante. La ayuda personalizada durante la puesta en marcha marcó una gran diferencia."
+
+#: patterns/testimonials-grid.php:267
+msgid "IT Director"
+msgstr "Director de TI"
+
+#: patterns/testimonials-grid.php:263
+msgid "David V"
+msgstr "David V"
+
+#: patterns/testimonials-grid.php:250
+msgid "This platform completely transformed how we manage our workflow. The intuitive UI, along with a support team that truly cares, makes it one of the best SaaS experiences I’ve had."
+msgstr "Esta plataforma transformó por completo la forma en que gestionamos nuestro flujo de trabajo. La intuitiva interfaz de usuario, junto con un equipo de soporte que se preocupa de verdad, hace que sea una de las mejores experiencias SaaS que he tenido."
+
+#: patterns/testimonials-grid.php:234
+msgid "Sara D"
+msgstr "Sara D"
+
+#: patterns/testimonials-grid.php:218
+msgid "As someone who's tried countless tools, this one stands out. Performance is solid, updates are regular, and customer service? Simply outstanding."
+msgstr "Como alguien que ha probado innumerables herramientas, ésta destaca. El rendimiento es sólido, las actualizaciones son regulares, ¿y el servicio de atención al cliente? Sencillamente excepcional."
+
+#: patterns/testimonials-grid.php:189
+msgid "This SaaS solution is a gem. It adapts perfectly to our needs, scales effortlessly, and the team behind it feels more like a partner than a provider."
+msgstr "Esta solución SaaS es una joya. Se adapta perfectamente a nuestras necesidades, escala sin esfuerzo, y el equipo que hay detrás se siente más como un socio que como un proveedor."
+
+#: patterns/testimonials-grid.php:177
+msgid "UX Consultant"
+msgstr "Consultor de UX"
+
+#: patterns/testimonials-grid.php:173
+msgid "Lena K"
+msgstr "Lena K"
+
+#: patterns/testimonials-grid.php:144
+msgid "Jason M"
+msgstr "Jason M"
+
+#: patterns/testimonials-grid.php:128
+msgid "Beyond the robust features, what really impressed me was the onboarding support. They walked me through everything step-by-step and made us feel valued."
+msgstr "Más allá de las sólidas características, lo que realmente me impresionó fue el soporte durante la puesta en marcha. Me explicaron todo paso a paso y nos hicieron sentir valorados."
+
+#: patterns/testimonials-grid.php:99
+msgid "I love how everything just works. No steep learning curve, no messy configurations—just a clean, powerful product that delivers what it promises."
+msgstr "Me encanta cómo todo simplemente funciona. No hay una curva de aprendizaje pronunciada, ni configuraciones complicadas, sólo un producto limpio y potente que cumple lo que promete."
+
+#: patterns/testimonials-grid.php:87
+msgid "Startup Founder"
+msgstr "Fundador de una startup"
+
+#: patterns/testimonials-grid.php:83
+msgid "Mark T"
+msgstr "Mark T"
+
+#: patterns/testimonials-grid.php:70
+msgid "We switched from a legacy tool, and I can’t believe the difference. Setup was a breeze, and every question I had was answered within minutes. That level of care is rare."
+msgstr "Cambiamos de una herramienta heredada, y no puedo creer la diferencia. La configuración fue pan comido y respondieron a todas mis preguntas en cuestión de minutos. Ese nivel de atención es poco frecuente."
+
+#: patterns/testimonials-grid.php:58
+msgid "Marketing Lead"
+msgstr "Cliente potencial de marketing"
+
+#: patterns/testimonials-grid.php:54
+msgid "Emily R."
+msgstr "Emily R."
+
+#: patterns/team-section-3.php:102
+msgid "Founder - Robert Tech"
+msgstr "Fundador - Robert Tech"
+
+#: patterns/team-section-3.php:67
+msgid "Emily R"
+msgstr "Emily R"
+
+#: patterns/team-section-2.php:141 patterns/team-section-3.php:133
+msgid "Founder - Lexy Industries"
+msgstr "Fundador - Lexy Industries"
+
+#: patterns/team-section-2.php:137 patterns/team-section-3.php:129
+msgid "Lexy P"
+msgstr "Lexy P"
+
+#: patterns/team-section-2.php:109
+msgid "Founder - Rober Tech"
+msgstr "Fundador - Rober Tech"
+
+#: patterns/team-section-2.php:77 patterns/team-section-3.php:71
+msgid "Founder - EmTech"
+msgstr "Fundador - EmTech"
+
+#: patterns/team-section-2.php:73
+msgid "Emily r"
+msgstr "Emily r"
+
+#: patterns/service-grid-4.php
+msgctxt "Pattern title"
+msgid "Services Grid 4"
+msgstr "Cuadrícula de servicios 4"
+
+#: patterns/service-grid-3.php
+msgctxt "Pattern title"
+msgid "Services Grid 3"
+msgstr "Cuadrícula de servicios 3"
+
+#: patterns/portfolio-gallery-3.php
+msgctxt "Pattern title"
+msgid "Portfolio Gallery 3"
+msgstr "Galería de portafolios 3"
+
+#: patterns/portfolio-gallery-2.php
+msgctxt "Pattern title"
+msgid "Portfolio Gallery 2"
+msgstr "Galería de porfolios 2"
+
+#: patterns/logo-showcase.php:21
+msgid "Seamless Integration with Your Favorite Tools"
+msgstr "Integración perfecta con tus herramientas favoritas"
+
+#: patterns/footer-layout.php
+msgctxt "Pattern title"
+msgid "Footer Lauout with Contact Info"
+msgstr "Diseño de página con información de contacto"
+
+#: patterns/footer-default.php:122
+msgid "YouTube"
+msgstr "YouTube"
+
+#: patterns/footer-default.php:118
+msgid "Linkedin"
+msgstr "LinkedIn"
+
+#: patterns/footer-default.php:114
+msgid "X (Twitter)"
+msgstr "X (Twitter)"
+
+#: patterns/footer-default.php:110
+msgid "Facebook"
+msgstr "Facebook"
+
+#: patterns/footer-default.php:104
+msgid "Social Links"
+msgstr "Enlaces sociales"
+
+#: patterns/footer-default.php:95
+msgid "Pricing"
+msgstr "Precios"
+
+#: patterns/footer-default.php:83
+msgid "Terms &amp; Conditions"
+msgstr "Términos y condiciones"
+
+#: patterns/footer-default.php:79
+msgid "Privacy Policy"
+msgstr "Política de privacidad"
+
+#: patterns/footer-default.php:48
+msgid "Company"
+msgstr "Empresa"
+
+#: patterns/footer-default.php:37
+msgid "sample@example.com"
+msgstr "prueba@ejemplo.com"
+
+#: patterns/footer-default.php:32
+msgid "Need Help Getting Started? We’re Here to Help."
+msgstr "¿Necesitas ayuda para empezar? Estamos aquí para ayudarte."
+
+#: patterns/features-grid-2.php:89
+msgid "Performance Optimization"
+msgstr "Optimización de rendimiento"
+
+#: patterns/features-grid-2.php:14
+msgid "Services &amp; Features"
+msgstr "Servicios y características"
+
+#: patterns/cta-block.php:15
+msgid "Let's Work Together"
+msgstr "Trabajemos juntos"
+
+#: patterns/banner-with-dashboard.php:38
+msgid "Build Quickly. Grow Rapidly. No Coding Required"
+msgstr "Construye rápido. Crece rápidamente. No necesitas programar"
+
+#: patterns/banner-with-dashboard.php:27
+msgid "4.9 Ratings based on 1,000+ reviews"
+msgstr "Puntuación de 4.9 basada en más de 1000 valoraciones"
+
+#: inc/core/block-style.php:489
+msgid "Gradient Effect"
+msgstr "Efecto degradado"
+
+#: inc/core/block-style.php:296
+msgid "Shadow Style 2"
+msgstr "Estilos de sombra 2"
+
+#: inc/core/block-style.php:289
+msgid "Shadow Style 1"
+msgstr "Estilos de sombra 1"
+
+#: inc/core/block-style.php:167
+msgid "Grayscale"
+msgstr "Escala de grises"
+
+#: inc/core/block-style.php:104
+msgid "Fade Style"
+msgstr "Estilo de fundido"
+
+#: inc/core/block-style.php:90
+msgid "Animated Border"
+msgstr "Borde animado"
+
+#: inc/admin/pages/changelog.php:25
+msgid "Added New Button Styles and Group Styles"
+msgstr "Añadidos nuevos estilos de botón y de grupo"
+
+#: inc/admin/pages/changelog.php:24
+msgid "Added Global Typography Option"
+msgstr "Añadida la opción de tipografía global"
+
+#: inc/admin/pages/changelog.php:23
+msgid "Color Palette Improved"
+msgstr "Paleta de colores mejorada"
+
+#: inc/admin/pages/changelog.php:22
+msgid "Global Styles Variations Added"
+msgstr "Añadidas variaciones de los estilos globales"
+
+#: inc/admin/pages/changelog.php:21
+msgid "Theme patterns improved"
+msgstr "Patrones del tema mejorados"
+
+#: inc/admin/pages/changelog.php:19
+msgid "Released: July 18, 2025"
+msgstr "Lanzada: 18 de julio de 2025"
+
+#: inc/admin/pages/changelog.php:18
+msgid "Version 1.3.0"
+msgstr "Versión 1.3.0"
+
+#: theme.json styles/blue-scheme.json styles/colors/blue-scheme.json
+#: styles/colors/cyan-blue.json styles/colors/dark-pink.json
+#: styles/colors/electric-pink.json styles/colors/golden-scheme.json
+#: styles/colors/green-scheme.json styles/colors/lemonlime-scheme.json
+#: styles/colors/magenta.json styles/colors/pink-scheme.json
+#: styles/colors/red.json styles/colors/sky-blue.json styles/colors/teal.json
+#: styles/colors/vibrant-purple.json styles/colors/yellow.json
+#: styles/cyan-blue.json styles/dark-pink.json styles/electric-pink.json
+#: styles/golden-scheme.json styles/green-scheme.json
+#: styles/lemonlime-scheme.json styles/magenta.json styles/pink-scheme.json
+#: styles/red.json styles/sky-blue.json styles/teal.json
+#: styles/vibrant-purple.json styles/yellow.json
+msgctxt "Color name"
+msgid "Sticky Background Color"
+msgstr "Color del fondo fijo"
+
+#: inc/admin/pages/changelog.php:32
+msgid "Sticky Header Background Color Option Added"
+msgstr "Añadida opción de color de fondo de la cabecera fija"
+
+#: inc/admin/pages/changelog.php:30
+msgid "Released: Jun 17, 2025"
+msgstr "Lanzada: 17 de junio de 2025"
+
+#: inc/admin/pages/changelog.php:29
+msgid "Version 1.2.3"
+msgstr "Versión 1.2.3"
+
+#: patterns/service-grid-3.php:31 patterns/service-grid-4.php:28
+#: patterns/services-section.php:33
+msgid "The Complete Toolkit to Build, Launch &amp; Scale"
+msgstr "El kit completo de herramientas para construir, lanzar y escalar"
+
+#: patterns/latest-post-grid.php
+msgctxt "Pattern title"
+msgid "Latest Post Grid"
+msgstr "Cuadrícula de entradas recientes"
+
+#: patterns/features-grid-2.php:167
+msgid "Training &amp; Support Services"
+msgstr "Servicios de formación y soporte"
+
+#: patterns/features-grid-2.php:142
+msgid "Automation &amp; Integration Services"
+msgstr "Servicios de automatización e integración"
+
+#: patterns/features-grid-2.php:117
+msgid "Consulting &amp; Strategy Services"
+msgstr "Servicios de consultoría y estrategia"
+
+#: patterns/features-grid-2.php:64
+msgid "Data Migration &amp; Management"
+msgstr "Migración y gestión de datos"
+
+#: patterns/features-grid-2.php:39
+msgid "Security &amp; Compliance Services"
+msgstr "Servicios de seguridad y cumplimiento"
+
+#: patterns/features-grid-2.php:26
+msgid "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores"
+msgstr "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores"
+
+#: patterns/featured-content.php:162
+msgid "Transform Your Workflow with AI Automation"
+msgstr "Transforma tu flujo de trabajo con la automatización de IA"
+
+#: patterns/featured-content.php:101
+msgid "Unmatched Flexibility and Scalability"
+msgstr "Flexibilidad y escalabilidad inigualables"
+
+#: patterns/featured-content.php:93
+msgid "Growth &amp; Scaling"
+msgstr "Crecimiento y escalado"
+
+#: patterns/featured-content.php:64
+msgid "Intelligent Insights at Your Fingertips"
+msgstr "Información inteligente al alcance de tu mano"
+
+#: patterns/featured-content.php:56
+msgid "Analytics &amp; Reporting"
+msgstr "Análisis e informes"
+
+#: patterns/featured-content.php:29
+msgid "We Don’t Just Offer Software — We Offer Solutions"
+msgstr "No sólo ofrecemos software: ofrecemos soluciones"
+
+#: inc/core/block-patterns.php:35
+msgid "Posts & Blogs"
+msgstr "Entradas y blogs"
+
+#: inc/admin/pages/getting-started.php:9
+msgid "17 pre-built (with 13 Pro), essential pre-built page tempates like About, Services, Features, team, pricing, affiliate page, team and more"
+msgstr "17 pre-construidas (con 13 Pro), tempates de páginas esenciales pre-construidas como acerca de, servicios, características, equipo, precios, página de afiliado, equipo y más"
+
+#: inc/admin/pages/changelog.php:39
+msgid "Minor layout improvements for Patterns and homepage"
+msgstr "Mejoras menores en el diseño de los patrones y la página de inicio"
+
+#: inc/admin/pages/changelog.php:37
+msgid "Released: May 31, 2025"
+msgstr "Lanzada: 31 de mayo de 2025"
+
+#: inc/admin/pages/changelog.php:36
+msgid "Version 1.2.2"
+msgstr "Versión 1.2.2"
+
+#: inc/admin/pages/changelog.php:47
+msgid "Minor layout improvements for Patterns"
+msgstr "Mejoras menores en el diseño de los patrones"
+
+#: inc/admin/pages/changelog.php:46
+msgid "Headers navigation sticky z-index overlay fixed"
+msgstr "Corregido la superposición del índice z fijo de navegación de las cabeceras"
+
+#: inc/admin/pages/changelog.php:44
+msgid "Released: May 16, 2025"
+msgstr "Lanzada: 16 de mayo de 2025"
+
+#: inc/admin/pages/changelog.php:43
+msgid "Version 1.2.1"
+msgstr "Versión 1.2.1"
+
+#: patterns/portfolio-gallery.php:72
+msgid "Marketing App"
+msgstr "App de marketing"
+
+#: patterns/portfolio-gallery.php:45
+msgid "Color Concepts"
+msgstr "Conceptos de color"
+
+#: patterns/portfolio-gallery.php:33
+msgid "Branding Strategy"
+msgstr "Estrategia de marca"
+
+#: patterns/portfolio-gallery-2.php:20 patterns/portfolio-gallery-3.php:21
+#: patterns/portfolio-gallery.php:19
+msgid "Portfolio Gallery"
+msgstr "Galería de porfolios"
+
+#: patterns/portfolio-gallery.php
+msgctxt "Pattern title"
+msgid "Portfolio Gallery"
+msgstr "Galería de porfolios"
+
+#: patterns/service-grid.php:64
+msgid "Smart Alerts & Notifications"
+msgstr "Alertas y avisos inteligentes"
+
+#: patterns/service-grid.php:46
+msgid "Scalability & Flexibility"
+msgstr "Escalabilidad y flexibilidad"
+
+#: inc/admin/pages/changelog.php:56
+msgid "Inner page layout and patterns layout improved"
+msgstr "Mejora del diseño de las páginas interiores y de los patrones"
+
+#: inc/admin/pages/changelog.php:55
+msgid "Scroll to top button minor fixed"
+msgstr "Corregido menor del botón de desplazamiento al principio"
+
+#: inc/admin/pages/changelog.php:54
+msgid "Header navigation sticky layout fixed"
+msgstr "Corregido el diseño fijo de la navegación de cabecera"
+
+#: inc/admin/pages/changelog.php:52
+msgid "Released: May 09, 2025"
+msgstr "Lanzada: 9 de enero de 2025"
+
+#: inc/admin/pages/changelog.php:51
+msgid "Version 1.2.0"
+msgstr "Versión 1.2.0"
+
+#: patterns/testimonials-grid-3.php:152 patterns/testimonials-grid.php:206
+msgid "Founder - Lorel Technology"
+msgstr "Fundador - Lorel Technology"
+
+#: patterns/testimonials-grid-3.php:148 patterns/testimonials-grid.php:202
+msgid "Aliana Lorel"
+msgstr "Aliana Lorel"
+
+#: patterns/testimonials-grid-3.php:120 patterns/testimonials-grid.php:296
+msgid "Owner - Brandson Industry"
+msgstr "Propietario - Brandson Industry"
+
+#: patterns/testimonials-grid-3.php:116 patterns/testimonials-grid.php:292
+msgid "Peter Brandson"
+msgstr "Peter Brandson"
+
+#: patterns/testimonials-grid-3.php:85
+msgid "CEO - RM Growth"
+msgstr "CEO - crecimiento RM"
+
+#: patterns/testimonials-grid-3.php:53
+msgid "Founder - Potmen Technology"
+msgstr "Fundador - Potmen Technology"
+
+#: inc/core/block-style.php:261
+msgid "Hover: Light color fill"
+msgstr "Al pasar el cursor: relleno de color claro"
+
+#: inc/admin/pages/changelog.php:64
+msgid "Minor script (jQuery) enqueue fixed as review feedback"
+msgstr "Corregido un script menor (jQuery) como comentario de valoración"
+
+#: inc/admin/pages/changelog.php:63
+msgid "Minor Patterns Improved: Header and Banner section"
+msgstr "Patrones menores mejorados: cabecera y sección banner"
+
+#: inc/admin/pages/changelog.php:61
+msgid "Released: May 06, 2025"
+msgstr "Lanzada: 6 de mayo de 2025"
+
+#: inc/admin/pages/changelog.php:60
+msgid "Version 1.1.9"
+msgstr "Versión 1.1.9"
+
+#: patterns/testimonials-grid-3.php:164
+msgid "We needed something reliable, fast, and able to grow with us—this SaaS checked every box. It’s intuitive, powerful, and fits teams of any size. We streamlined our operations and finally feel confident scaling without worrying about our systems."
+msgstr "Necesitábamos algo fiable, rápido y capaz de crecer con nosotros: este SaaS cumplía todos los requisitos. Es intuitivo, potente y se adapta a equipos de cualquier tamaño. Agilizamos nuestras operaciones y, por fin, nos sentimos seguros escalando sin preocuparnos por nuestros sistemas."
+
+#: patterns/testimonials-grid-3.php:132
+msgid "The interface is clean and easy to use, even for non-tech team members. Automations work flawlessly, and we’ve eliminated hours of repetitive tasks. Our projects now move forward without bottlenecks, and our entire workflow feels lighter and faster."
+msgstr "La interfaz es limpia y fácil de usar, incluso para los miembros del equipo que no son técnicos. Las automatizaciones funcionan a la perfección, y hemos eliminado horas de tareas repetitivas. Ahora nuestros proyectos avanzan sin cuellos de botella, y todo nuestro flujo de trabajo parece más ligero y rápido."
+
+#: patterns/testimonials-grid-3.php:97 patterns/testimonials-grid.php:160
+msgid "The features are great, but the support team truly sets this SaaS apart. From onboarding to daily use, their quick responses and helpful guidance made the whole experience smooth and stress-free. It feels like we have a real partner, not just a service."
+msgstr "Las características son estupendas, pero el equipo de soporte es lo que realmente distingue a este SaaS. Desde la puesta en marcha hasta el uso diario, sus rápidas respuestas y útiles consejos hicieron que toda la experiencia fuera fluida y sin estrés. Parece como si tuviéramos un socio real, no solo un servicio."
+
+#: patterns/testimonials-grid-3.php:49
+msgid "Liana Potmen"
+msgstr "Liana Potmen"
+
+#: patterns/testimonials-grid-3.php:65
+msgid "We switched to this SaaS a few months ago, and the difference has been huge. Our team works faster, collaboration is smoother, and having everything in one place has saved us time, reduced confusion, and helped us hit deadlines more consistently."
+msgstr "Cambiamos a este SaaS hace unos meses, y la diferencia ha sido enorme. Nuestro equipo trabaja más rápido, la colaboración es más fluida, y tenerlo todo en un mismo sitio nos ha ahorrado tiempo, ha reducido la confusión y nos ha ayudado a cumplir los plazos con mayor regularidad."
+
+#: patterns/service-grid-3.php:123 patterns/services-section.php:156
+msgid "Advanced Analytics"
+msgstr "Análisis avanzados"
+
+#: patterns/features-section.php:79 patterns/service-grid-3.php:141
+#: patterns/service-grid.php:103 patterns/services-section.php:117
+msgid "Workflow Automation"
+msgstr "Automatización del flujo de trabajo"
+
+#: patterns/services-section.php:42
+msgid "See All Features"
+msgstr "Ver todas las características"
+
+#: patterns/homepage-default.php
+msgctxt "Pattern title"
+msgid "Homepage Default"
+msgstr "Página de inicio por defecto"
+
+#: patterns/header-default.php:27
+msgid "Signup Today"
+msgstr "Inscríbete hoy"
+
+#: patterns/footer-layout.php:221
+msgid "Proudly powered by WordPress | Theme: SaasLauncher by CozyThemes."
+msgstr "Funciona gracias a WordPress | Tema: SaasLauncher de CozyThemes."
+
+#: patterns/featured-content.php:21
+msgid "Featured Sections"
+msgstr "Secciones destacadas"
+
+#: patterns/faq-accordion-2.php:14 patterns/faq-accordion-3.php:36
+#: patterns/faq-accordion.php:16
+msgid "Frequently Asked Questions"
+msgstr "Preguntas frecuentes"
+
+#: patterns/cta-block-3.php:27
+msgid "Try Free Today"
+msgstr "Prueba gratis hoy"
+
+#: patterns/cta-block-3.php:22
+msgid "Get started without limits. Explore all features at your own pace — upgrade only when your business grows."
+msgstr "Empieza sin límites. Explora todas las características a tu ritmo y actualízalas sólo cuando tu negocio crezca."
+
+#: patterns/cta-block-3.php:18
+msgid "Try It Free. Scale When You’re Ready."
+msgstr "Pruébalo gratis. Amplía cuando estés preparado."
+
+#: patterns/banner-with-dashboard.php
+msgctxt "Pattern title"
+msgid "Banner With Dashboard"
+msgstr "Banner con escritorio"
+
+#: inc/admin/pages/changelog.php:71
+msgid "Demo and homepage Improved for v1 layout"
+msgstr "Demo y página de inicio mejoradas para el diseño v1"
+
+#: inc/admin/pages/changelog.php:69
+msgid "Released: May 02, 2025"
+msgstr "Lanzada: 02 de mayo de 2025"
+
+#: inc/admin/pages/changelog.php:68
+msgid "Version 1.1.7"
+msgstr "Versión 1.1.7"
+
+#: patterns/header-with-topbar.php:18
+msgid "178 West 27th Street, Suite 527, NY 10012"
+msgstr "178 West 27th Street, Suite 527, NY 10012"
+
+#: patterns/header-with-topbar.php
+msgctxt "Pattern title"
+msgid "Header with Topbar"
+msgstr "Cabecera con barra superior"
+
+#: patterns/header-with-info.php:74
+msgid "Request a Quote"
+msgstr "Solicitar un presupuesto"
+
+#: patterns/header-with-info.php:63
+msgid "Phone"
+msgstr "Teléfono"
+
+#: patterns/header-with-info.php:56
+msgid "2345 Beach,Rd Metrocity USA, HWY 1235"
+msgstr "2345 Beach,Rd Metrocity USA, HWY 1235"
+
+#: patterns/header-with-info.php:52
+msgid "Location"
+msgstr "Ubicación"
+
+#: patterns/header-with-info.php:18
+msgid "Get a 30% discount on all services when you refer someone."
+msgstr "Obtén un 30% de descuento en todos los servicios cuando recomiendes a alguien."
+
+#: patterns/header-with-info.php
+msgctxt "Pattern title"
+msgid "Header with contact informations"
+msgstr "Cabecera con información de contacto"
+
+#: inc/admin/pages/changelog.php:78
+msgid "New patterns layout added for Header"
+msgstr "Se ha añadido un nuevo diseño de patrones para la cabecera"
+
+#: inc/admin/pages/changelog.php:76
+msgid "Released: Apr 23, 2025"
+msgstr "Lanzada: 23 de abril de 2025"
+
+#: inc/admin/pages/changelog.php:75
+msgid "Version 1.1.4"
+msgstr "Versión 1.1.4"
+
+#: inc/admin/pages/changelog.php:86
+msgid "Header and Footer Patterns registered for header/footer location"
+msgstr "Patrones de cabecera y pie de página registrados para la ubicación de la cabecera/pie de página"
+
+#: inc/admin/pages/changelog.php:84
+msgid "Released: Apr 18, 2025"
+msgstr "Lanzada: 18 de abril de 2025"
+
+#: inc/admin/pages/changelog.php:83
+msgid "Version 1.1.3"
+msgstr "Versión 1.1.3"
+
+#: inc/core/block-patterns.php:34
+msgid "Logo Showcase"
+msgstr "Escaparate de logotipos"
+
+#: inc/core/block-patterns.php:33
+msgid "Portfolio/Gallery"
+msgstr "Porfolio/Galería"
+
+#: inc/core/block-patterns.php:31
+msgid "Call To Action"
+msgstr "Llamada a la acción"
+
+#: inc/core/block-patterns.php:30
+msgid "Contacts"
+msgstr "Contactos"
+
+#: inc/core/block-patterns.php:29
+msgid "Numbers/Counter"
+msgstr "Números/contador"
+
+#: inc/core/block-patterns.php:28
+msgid "FAQs"
+msgstr "FAQs"
+
+#: inc/core/block-patterns.php:26
+msgid "Teams"
+msgstr "Equipos"
+
+#: inc/core/block-patterns.php:25
+msgid "Features/Services"
+msgstr "Características/Servicios"
+
+#: inc/core/block-patterns.php:24
+msgid "About / Content Blocks"
+msgstr "Acerca de / bloques de contenido"
+
+#: inc/core/block-patterns.php:23
+msgid "Hero"
+msgstr "Sección destacada"
+
+#: inc/core/block-patterns.php:19
+msgid "SaasLauncher Extra"
+msgstr "SaasLauncher Extra"
+
+#: inc/admin/pages/changelog.php:94
+msgid "Tested up to 6.8"
+msgstr "Probado hasta 6.8"
+
+#: inc/admin/pages/changelog.php:93
+msgid "Patterns are organized categorically."
+msgstr "Los patrones se organizan categóricamente."
+
+#: inc/admin/pages/changelog.php:91
+msgid "Released: Apr 16, 2025"
+msgstr "Lanzada: 16 de abril de 2025"
+
+#: inc/admin/pages/changelog.php:90
+msgid "Version 1.1.2"
+msgstr "Versión 1.1.2"
+
+#: patterns/testimonials-card-layout.php:94
+msgid "Founder - Potmen Industries"
+msgstr "Fundador - Potmen Industries"
+
+#: patterns/testimonials-card-layout.php:90
+msgid "Melina Potmen"
+msgstr "Melina Potmen"
+
+#: patterns/testimonials-card-layout.php:69
+msgid "Founder - Mat Industries"
+msgstr "Fundador - Mat Industries"
+
+#: patterns/testimonials-card-layout.php:65
+msgid "Mat Robert"
+msgstr "Mat Robert"
+
+#: patterns/testimonials-card-layout.php:55
+#: patterns/testimonials-card-layout.php:80
+msgid "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam"
+msgstr "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam"
+
+#: patterns/testimonials-card-layout.php:45
+msgid "Lorem ipsum dolor sit amet, vet elit at consectetur adipiscing elit. liqua vel cur magna at enisus"
+msgstr "Lorem ipsum dolor sit amet, vet elit at consectetur adipiscing elit. liqua vel cur magna at enisus"
+
+#: patterns/testimonials-card-layout.php:41
+msgid "Easy Customizable"
+msgstr "Fácil de personalizar"
+
+#: patterns/testimonials-card-layout.php:30
+msgid "Effortlessly craft a blazing-fast website with the new WordPress Site Editor—coding-free!"
+msgstr "Crea sin esfuerzo un sitio web rapidísimo con el nuevo editor de sitios de WordPress, ¡sin programar!"
+
+#: inc/core/block-patterns.php:27 patterns/testimonials-card-layout.php:22
+msgid "Testimonials"
+msgstr "Recomendaciones"
+
+#: patterns/testimonials-card-layout.php
+msgctxt "Pattern title"
+msgid "Testimonials Card Layout"
+msgstr "Diseño de la tarjeta de testimonios"
+
+#: patterns/services-list.php:66
+msgid "04 Investment"
+msgstr "04 Inversión"
+
+#: patterns/services-list.php:55
+msgid "03 Startup Ideas"
+msgstr "03 Ideas para startups"
+
+#: patterns/services-list.php:44
+msgid "02 Digital Marketing"
+msgstr "02 Marketing digital"
+
+#: patterns/services-list.php:33
+msgid "01 Branding"
+msgstr "01 Imagen de marca"
+
+#: patterns/services-list.php:14
+msgid "What We Do"
+msgstr "Lo que hacemos"
+
+#: patterns/services-list.php
+msgctxt "Pattern title"
+msgid "Services List"
+msgstr "Lista de servicios"
+
+#: patterns/service-list-2.php:134
+msgid "UI/UX"
+msgstr "UI/UX"
+
+#: patterns/service-list-2.php:103
+msgid "Motion Graphics"
+msgstr "Gráficos en movimiento"
+
+#: patterns/service-list-2.php:48 patterns/service-list-2.php:79
+#: patterns/service-list-2.php:110 patterns/service-list-2.php:141
+msgid "Lorem ipsum dolor sit amet consectetur. Vel aliquam feugiat proin tincidunt feugiat viverra. Commodo etiam"
+msgstr "Lorem ipsum dolor sit amet consectetur. Vel aliquam feugiat proin tincidunt feugiat viverra. Commodo etiam"
+
+#: patterns/service-list-2.php:26
+msgid "What Services We Provide."
+msgstr "Qué servicios prestamos."
+
+#: patterns/service-list-2.php:18
+msgid "What we Offer"
+msgstr "Lo que ofrecemos"
+
+#: patterns/service-list-2.php
+msgctxt "Pattern title"
+msgid "Services List 2"
+msgstr "Lista de servicios 2"
+
+#: patterns/features-section-2.php:35 patterns/features-section-2.php:56
+#: patterns/features-section-2.php:77
+msgid "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore."
+msgstr "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore."
+
+#: patterns/features-section-2.php:20
+msgid "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+msgstr "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+
+#: patterns/features-section-2.php:13
+msgid "with Creativity &amp; Technology"
+msgstr "con creatividad y tecnología"
+
+#: patterns/features-section-2.php:13
+msgid "Future-Ready Brands"
+msgstr "Marcas preparadas para el futuro"
+
+#: patterns/features-section-2.php:13
+msgid "Building"
+msgstr "Edificio"
+
+#: patterns/features-grid-2.php:163
+msgid "06"
+msgstr "06"
+
+#: patterns/features-grid-2.php:138
+msgid "05"
+msgstr "05"
+
+#: patterns/features-grid-2.php:113 patterns/service-list-2.php:127
+msgid "04"
+msgstr "04"
+
+#: patterns/features-grid-2.php:85 patterns/service-list-2.php:96
+msgid "03"
+msgstr "03"
+
+#: patterns/features-grid-2.php:60 patterns/service-list-2.php:65
+msgid "02"
+msgstr "02"
+
+#: patterns/features-grid-2.php:43 patterns/features-grid-2.php:68
+#: patterns/features-grid-2.php:93 patterns/features-grid-2.php:121
+#: patterns/features-grid-2.php:146 patterns/features-grid-2.php:171
+msgid "A visual, block-based editor that allows users to design the entire site, including headers, footers, and templates."
+msgstr "Un editor visual basado en bloques que permite a los usuarios diseñar todo el sitio, incluidas las cabeceras, los pies de página y las plantillas."
+
+#: patterns/features-grid-2.php
+msgctxt "Pattern title"
+msgid "Features Grid 2"
+msgstr "Cuadrícula de características 2"
+
+#: patterns/about-section-2.php
+msgctxt "Pattern title"
+msgid "About Us Section 2"
+msgstr "Sección «Quiénes somos» 2"
+
+#: inc/admin/pages/getting-started.php:10
+msgid "100+ pre-built (with 50+ Pro), customizable sections"
+msgstr "Más de 100 (con más de 50 Pro), secciones personalizables"
+
+#: inc/admin/pages/changelog.php:101
+msgid "New pre-built sections added"
+msgstr "Añadidas nuevas secciones preconstruidas"
+
+#: inc/admin/pages/changelog.php:99
+msgid "Released: Apr 03, 2025"
+msgstr "Lanzada: 3 de abril de 2025"
+
+#: inc/admin/pages/changelog.php:98
+msgid "Version 1.1.1"
+msgstr "Versión 1.1.1"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "WooCommerce Shop Page"
+msgstr "Página de la tienda WooCommerce"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "WooCommerce Product Page"
+msgstr "Página de producto de WooCommerce"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Center top Gradient"
+msgstr "Centro superior gradiente"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Center Bottom Gradient"
+msgstr "Centro fondo gradiente"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Center Gradient"
+msgstr "Gradiente central"
+
+#: patterns/featured-content.php:154
+msgid "AI Automation"
+msgstr "Automatización por IA"
+
+#: patterns/services-list.php:28
+msgid "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium"
+msgstr "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium"
+
+#: patterns/team-section-2.php:105 patterns/team-section-3.php:98
+msgid "Robert M"
+msgstr "Robert M"
+
+#: patterns/about-section-2.php:39
+msgid "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam."
+msgstr "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam."
+
+#: patterns/team-section.php:89
+msgid "Matt Brandson"
+msgstr "Matt Brandson"
+
+#: patterns/team-section.php:61
+msgid "Liya Potmen"
+msgstr "Liya Potmen"
+
+#: patterns/team-section-2.php:45 patterns/team-section-3.php:40
+#: patterns/team-section.php:37 patterns/team-section.php:65
+#: patterns/team-section.php:93
+msgid "Founder - Doe Industries"
+msgstr "Fundador - Doe Industries"
+
+#: patterns/sidebar-default.php:60
+msgid "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium illo inventore."
+msgstr "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium illo inventore."
+
+#: patterns/sidebar-default.php:56
+msgid "Signup Newsletter"
+msgstr "Suscribirse al boletín"
+
+#: patterns/sidebar-default.php:36
+msgid "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae."
+msgstr "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae."
+
+#: patterns/services-section.php
+msgctxt "Pattern title"
+msgid "Features/Service Section"
+msgstr "Sección de Características/Servicio"
+
+#: patterns/services-grid-2.php:176
+msgid "Content Writing"
+msgstr "Redacción de contenido"
+
+#: patterns/services-grid-2.php:146
+msgid "Social Media Marketing"
+msgstr "Marketing en medios sociales"
+
+#: patterns/services-grid-2.php:113
+msgid "Startup Ideas"
+msgstr "Ideas para startups"
+
+#: patterns/footer-default.php:91 patterns/service-grid.php:21
+msgid "Features"
+msgstr "Características"
+
+#: patterns/section-header-slant.php:13
+msgid "Section Header"
+msgstr "Cabecera de la sección"
+
+#: patterns/pricing-tables-2.php:22
+msgid "Simple Plans, Powerful Value"
+msgstr "Planes sencillos, gran valor"
+
+#: patterns/latest-work.php:22
+msgid "Lorem ipsum dolor sit amet consectetur. Vel aliquam feugiat proin tincidunt feugiat viverra. Commodo etiam vestibulum quam tristique non venenatis sed."
+msgstr "Lorem ipsum dolor sit amet consectetur. Vel aliquam feugiat proin tincidunt feugiat viverra. Commodo etiam vestibulum quam tristique non venenatis sed."
+
+#: patterns/latest-work.php:18
+msgid "Portfolio and Gallery"
+msgstr "Porfolio y galería"
+
+#: patterns/job-board.php:227
+msgid "Open Position – 3"
+msgstr "Posición abierta - 3"
+
+#: patterns/job-board.php:144
+msgid "WordPress Developer"
+msgstr "Desarrollador de WordPress"
+
+#: patterns/job-board.php:118 patterns/job-board.php:174
+msgid "Open Position – 5"
+msgstr "Posición abierta - 5"
+
+#: patterns/job-board.php:101 patterns/job-board.php:210
+msgid "Full Time - Senior"
+msgstr "Tiempo completo - senior"
+
+#: patterns/job-board.php:94 patterns/job-board.php:203
+msgid "Singapore"
+msgstr "Singapur"
+
+#: patterns/job-board.php:88
+msgid "Full-Stack Web Developer"
+msgstr "Desarrollador web full-stack"
+
+#: patterns/job-board.php:76 patterns/job-board.php:129
+#: patterns/job-board.php:185 patterns/job-board.php:238
+msgid "View Details"
+msgstr "Ver los detalles"
+
+#: patterns/job-board.php:72 patterns/job-board.php:125
+#: patterns/job-board.php:181 patterns/job-board.php:234
+msgid "Apply Now"
+msgstr "Solicitar ahora"
+
+#: patterns/job-board.php:65
+msgid "Open Position – 1"
+msgstr "Posición abierta - 1"
+
+#: patterns/job-board.php:61 patterns/job-board.php:114
+#: patterns/job-board.php:170 patterns/job-board.php:223
+msgid "1."
+msgstr "1."
+
+#: patterns/job-board.php:56 patterns/job-board.php:109
+#: patterns/job-board.php:165 patterns/job-board.php:218
+msgid "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto."
+msgstr "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto."
+
+#: patterns/job-board.php:48 patterns/job-board.php:157
+msgid "Full Time - Internship"
+msgstr "Tiempo completo - prácticas"
+
+#: patterns/job-board.php:41 patterns/job-board.php:150
+msgid "Nepal"
+msgstr "Nepal"
+
+#: patterns/job-board.php:35
+msgid "UI/UX Designer"
+msgstr "Diseñador UI/UX"
+
+#: patterns/job-board.php:22
+msgid "We Are Hiring"
+msgstr "Buscamos personal"
+
+#: patterns/job-board.php:14
+msgid "Job Opening"
+msgstr "Oferta de empleo"
+
+#: patterns/job-board.php
+msgctxt "Pattern title"
+msgid "Job Board / Vacancy Opening"
+msgstr "Bolsa de trabajo / Oferta de empleo"
+
+#: patterns/highlight-features.php:61
+msgid "Intuitive and easy-to-use interface, designed for non-technical users while providing advanced features for power users."
+msgstr "Interfaz intuitiva y fácil de usar, diseñada para usuarios sin conocimientos técnicos, pero con características avanzadas para usuarios avanzados."
+
+#: patterns/highlight-features.php:33
+msgid "Ability to scale your SaaS solutions based on business growth. Whether you're a startup or an enterprise seamlessly."
+msgstr "Capacidad para escalar tus soluciones SaaS en función del crecimiento del negocio. Tanto si eres una startup como una empresa, sin problemas."
+
+#: patterns/banner-with-dashboard.php:42
+msgid "Get your website up and running quickly with powerful, scalable SaaS solutions designed to boost performance and drive business growth effortlessly."
+msgstr "Pon en marcha tu sitio web rápidamente con soluciones SaaS potentes y escalables, diseñadas para aumentar el rendimiento e impulsar el crecimiento empresarial sin esfuerzo."
+
+#: patterns/header-light-with-sticky.php
+msgctxt "Pattern title"
+msgid "Header Light with Sticky"
+msgstr "Luz de cabecera fija"
+
+#: patterns/header-light-with-sticky.php:34
+msgid "Plans &amp; Pricing"
+msgstr "Planes y precios"
+
+#: patterns/header-light-with-sticky.php:30 patterns/header-with-topbar.php:57
+msgid "Get Started Now"
+msgstr "Comenzar ahora"
+
+#: patterns/footer-layout.php:202
+msgid "Monday - Friday : 8:00 AM - 5:00 PM"
+msgstr "De lunes a viernes: 8:00 - 17:00"
+
+#: patterns/footer-layout.php:182
+msgid "support@example.com"
+msgstr "soporte@ejemplo.com"
+
+#: patterns/footer-layout.php:162 patterns/header-with-info.php:67
+#: patterns/header-with-topbar.php:22
+msgid "+1 (000) 012-3456"
+msgstr "+1 (000) 012-3456"
+
+#: patterns/footer-layout.php:59
+msgid "Compnay"
+msgstr "Compañía"
+
+#: patterns/service-grid-3.php:84 patterns/service-grid-4.php:81
+#: patterns/services-section.php:138
+msgid "AI-Powered Insights"
+msgstr "Perspectivas basadas en IA"
+
+#: patterns/features-section.php:61 patterns/service-grid-3.php:105
+#: patterns/service-grid.php:85 patterns/services-section.php:99
+msgid "Seamless Integration"
+msgstr "Integración perfecta"
+
+#: patterns/features-section.php:43 patterns/service-grid-3.php:66
+#: patterns/service-grid-4.php:63 patterns/services-section.php:78
+msgid "Smart Alerts &amp; Notifications"
+msgstr "Alertas y avisos inteligentes"
+
+#: patterns/faq-accordion-2.php:22 patterns/faq-accordion-3.php:44
+#: patterns/faq-accordion.php:24
+msgid "Got Questions? We’ve Got Answers."
+msgstr "¿Tienes preguntas? Tenemos respuestas."
+
+#: patterns/faq-accordion-2.php
+msgctxt "Pattern title"
+msgid "FAQ Accordion 2"
+msgstr "Acordeón FAQ 2"
+
+#: patterns/events-list.php:127
+msgid "8:30PM to 2:00AM"
+msgstr "De 20:30 a 2:00"
+
+#: patterns/events-list.php:127
+msgid "The Loft at City Square, 99 High Street, City Center -"
+msgstr "The Loft at City Square, 99 High Street, City Center -"
+
+#: patterns/events-list.php:123
+msgid "New Year Celebrations"
+msgstr "Fiesta de Año Nuevo"
+
+#: patterns/events-list.php:116
+msgid "Jan 2026"
+msgstr "Ene 2026"
+
+#: patterns/events-list.php:112 patterns/features-grid-2.php:35
+#: patterns/service-list-2.php:34
+msgid "01"
+msgstr "01"
+
+#: patterns/events-list.php:89
+msgid "Skyline Event Center, 45 Sunset Boulevard -"
+msgstr "Skyline Event Center, 45 Sunset Boulevard -"
+
+#: patterns/events-list.php:85
+msgid "World Tour Rock Concert"
+msgstr "Gira mundial concierto de rock"
+
+#: patterns/events-list.php:78
+msgid "May 2025"
+msgstr "Mayo de 2025"
+
+#: patterns/events-list.php:74
+msgid "25"
+msgstr "25"
+
+#: patterns/events-list.php:60 patterns/events-list.php:98
+#: patterns/events-list.php:136
+msgid "Buy Ticket"
+msgstr "Comprar entrada"
+
+#: patterns/events-list.php:51 patterns/events-list.php:89
+msgid "10:30AM to 2:00PM"
+msgstr "De 10:30 a 14:00"
+
+#: patterns/events-list.php:51
+msgid "Grand Crystal Hall, Downtown City -"
+msgstr "Grand Crystal Hall, Downtown City -"
+
+#: patterns/events-list.php:47
+msgid "The Rock Music Concerts"
+msgstr "Los conciertos de música rock"
+
+#: patterns/events-list.php:40
+msgid "April 2025"
+msgstr "Abril de 2025"
+
+#: patterns/events-list.php:36
+msgid "30"
+msgstr "30"
+
+#: patterns/events-list.php:26 patterns/job-board.php:26
+msgid "See why thousands of businesses trust us! Discover how our SaaS solutions have helped clients streamline operations and achieve success."
+msgstr "Descubre por qué miles de empresas confían en nosotros. Descubre cómo nuestras soluciones SaaS han ayudado a los clientes a agilizar sus operaciones y alcanzar el éxito."
+
+#: patterns/events-list.php:22
+msgid "Mark Your Calendar"
+msgstr "Marca tu calendario"
+
+#: patterns/events-list.php:14
+msgid "Upcoming Events"
+msgstr "Próximos eventos"
+
+#: patterns/events-list.php
+msgctxt "Pattern title"
+msgid "Upcoming Events List"
+msgstr "Lista de próximos eventos"
+
+#: patterns/download-info.php:138
+msgid "Templates"
+msgstr "Plantillas"
+
+#: patterns/download-info.php:127
+msgid "Patterns"
+msgstr "Patrones"
+
+#: patterns/download-info.php:116
+msgid "Average Rating"
+msgstr "Valoración media"
+
+#: patterns/download-info.php:109
+msgid "1.1.20"
+msgstr "1.1.20"
+
+#: patterns/download-info.php:105
+msgid "Version"
+msgstr "Versión"
+
+#: patterns/download-info.php:98
+msgid "4,000+"
+msgstr "Más de 4000"
+
+#: patterns/download-info.php:94
+msgid "Active Installation"
+msgstr "Instalaciones activas"
+
+#: patterns/download-info.php:87
+msgid "28,000+"
+msgstr "Más de 28.000"
+
+#: patterns/download-info.php:83
+msgid "Downloads"
+msgstr "Descargas"
+
+#: patterns/download-info.php:73
+msgid "WordPress"
+msgstr "WordPress"
+
+#: patterns/download-info.php:64
+msgid "Theme Details"
+msgstr "Detalles del tema"
+
+#: patterns/download-info.php:53
+msgid "Start Building Today!"
+msgstr "¡Empieza a construir hoy!"
+
+#: patterns/download-info.php:53
+msgid "Join 20,000+ Happy Users – "
+msgstr "Únete a más de 20.000 usuarios satisfechos – "
+
+#: patterns/download-info.php:42
+msgid "Checkout Demos"
+msgstr "Consulta las demostraciones"
+
+#: patterns/download-info.php:38
+msgid "Download Now"
+msgstr "Descargar ahora"
+
+#: patterns/download-info.php:29
+msgid "Get SaasLauncher for free today and start building!"
+msgstr "¡Obtén SaasLauncher gratis hoy y empieza a construir!"
+
+#: patterns/download-info.php
+msgctxt "Pattern title"
+msgid "Download Info Section"
+msgstr "Sección de descarga de información"
+
+#: patterns/banner-with-dashboard.php:53 patterns/cta-block.php:36
+msgid "Schedule Demo"
+msgstr "Programar demostración"
+
+#: patterns/cta-block.php:32
+msgid "Start Your Free Trial"
+msgstr "Inicia tu periodo de prueba gratuito"
+
+#: patterns/cta-block.php:23
+msgid "Elevate Your Business with Smart, Scalable Solutions!"
+msgstr "¡Eleva tu negocio con soluciones inteligentes y escalables!"
+
+#: patterns/services-list.php:37 patterns/services-list.php:48
+#: patterns/services-list.php:59 patterns/services-list.php:70
+msgid "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+msgstr "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+
+#: patterns/about-2.php:40 patterns/about-section-2.php:44
+msgid "Discover More"
+msgstr "Descubrir más"
+
+#: inc/core/block-style.php:475 inc/core/block-style.php:482
+msgid "Enable dark scheme"
+msgstr "Activar combinación oscura"
+
+#: inc/core/block-style.php:468
+msgid "Background with square corner"
+msgstr "Fondo con esquina cuadrada"
+
+#: inc/core/block-style.php:461
+msgid "Background with round Corner"
+msgstr "Fondo con esquina redondeada"
+
+#: inc/core/block-style.php:454
+msgid "Round Corner"
+msgstr "Esquina redondeada"
+
+#: inc/core/block-style.php:419
+msgid "Hover Effect with Shadow"
+msgstr "Efecto al pasar el cursor con sombra"
+
+#: inc/core/block-style.php:412
+msgid "Hover Effect"
+msgstr "Efecto al pasar el cursor"
+
+#: inc/core/block-style.php:97
+msgid "Sticky Navigation"
+msgstr "Negación fija"
+
+#: inc/admin/pages/getting-started.php:11
+msgid "Advanced typography options"
+msgstr "Opciones avanzadas de tipografía"
+
+#: inc/admin/pages/changelog.php:110
+msgid "FSE Templates and inner page layout improved"
+msgstr "Plantillas FSE y diseño de la página interior mejorados"
+
+#: inc/admin/pages/changelog.php:109
+msgid "2 New Homepage Templates Added"
+msgstr "Añadidas 2 nuevas plantillas de página de inicio"
+
+#: inc/admin/pages/changelog.php:108
+msgid "20+ New pre-built sections added"
+msgstr "Añadidas más de 20 secciones preconstruidas nuevas"
+
+#: inc/admin/pages/changelog.php:106
+msgid "Released: Mar 28, 2025"
+msgstr "Lanzada: 28 de marzo de 2025"
+
+#: inc/admin/pages/changelog.php:105
+msgid "Version 1.1.0"
+msgstr "Versión 1.1.0"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Mega"
+msgstr "Mega"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "2X Large"
+msgstr "2X grande"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Grande"
+
+#: inc/admin/pages/changelog.php:117
+msgid "Minor issue fixed for service grid pattern"
+msgstr "Se ha corregido un problema menor en el patrón de cuadrícula de servicio"
+
+#: inc/admin/pages/changelog.php:115
+msgid "Released: Mar 17, 2025"
+msgstr "Lanzada: 17 de marzo de 2025"
+
+#: inc/admin/pages/changelog.php:114
+msgid "Version 1.0.20"
+msgstr "Versión 1.0.20"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Jumbo"
+msgstr "Jumbo"
+
+#: inc/core/block-style.php:361
+msgid "Check Circle Fade"
+msgstr "Comprobar desvanecimiento del círculo"
+
+#: inc/admin/pages/pre-built-demos.php:24
+msgid "Browse 50+ Demos & Import Instantly"
+msgstr "Explora más de 50 demos e importa al instante"
+
+#: inc/admin/pages/pre-built-demos.php:22
+msgid "Launch your website faster with 50+ (Including 10 Free) pre-built starter templates for various niches, ready for effortless one-click import."
+msgstr "Lanza tu sitio web más rápido con más de 50 plantillas de inicio (incluidas 10 gratuitas) preconstruidas para varios nichos, listas para importarlas sin esfuerzo con un solo clic."
+
+#: inc/admin/pages/changelog.php:122
+msgid "Released: Feb 16, 2025"
+msgstr "Lanzada: 16 de febrero de 2025"
+
+#: inc/admin/pages/changelog.php:121
+msgid "Version 1.0.19"
+msgstr "Versión 1.0.19"
+
+#: inc/admin/pages/changelog.php:129
+msgid "Released: Jan 18, 2025"
+msgstr "Lanzada: 18 de enero de 2025"
+
+#: inc/admin/pages/changelog.php:128
+msgid "Version 1.0.18"
+msgstr "Versión 1.0.18"
+
+#: inc/admin/pages/getting-started.php:8
+msgid "50+ pre-built starter sites with one click demo importer"
+msgstr "Más de 50 sitios de inicio preconstruidos con importador de demos en un clic"
+
+#: inc/admin/pages/changelog.php:124 inc/admin/pages/changelog.php:131
+#: inc/admin/pages/changelog.php:138
+msgid "Added new starter sites demos"
+msgstr "Añadidas nuevas demostraciones de sitios de inicio"
+
+#: inc/admin/pages/changelog.php:136
+msgid "Released: Jan 15, 2025"
+msgstr "Lanzada: 15 de enero de 2025"
+
+#: inc/admin/pages/changelog.php:135
+msgid "Version 1.0.17"
+msgstr "Versión 1.0.17"
+
+#: inc/admin/pages/changelog.php:145
+msgid "Fixed single click plugin installer in welcome notice"
+msgstr "Corregido el instalador del plugin en un solo clic en el aviso de bienvenida"
+
+#: inc/admin/pages/changelog.php:142
+msgid "Version 1.0.16"
+msgstr "Versión 1.0.16"
+
+#: inc/admin/pages/support.php:26
+msgid "Your review helps us improve the theme and serves as valuable feedback for future updates."
+msgstr "Tu valoración nos ayuda a mejorar el tema y sirve como opinión valiosa para futuras actualizaciones."
+
+#: inc/admin/pages/support.php:22
+msgid "Leave a Review"
+msgstr "Deja una valoración"
+
+#: inc/admin/pages/support.php:19
+msgid "To leave your review, simply click the button below:"
+msgstr "Para dejar tu valoración, simplemente haz clic en el botón de abajo:"
+
+#: inc/admin/pages/support.php:18
+msgid "If you’ve had a positive experience with SaasLauncher, consider leaving a review. Your feedback helps us improve and assists others in making informed decisions."
+msgstr "Si has tenido una experiencia positiva con SaasLauncher, considera la posibilidad de dejar una reseña. Tu opinión nos ayuda a mejorar y ayuda a otros a tomar decisiones informadas."
+
+#: inc/admin/pages/support.php:17
+msgid "Enjoying SaasLauncher? We'd Love to Hear Your Feedback!"
+msgstr "¿Disfrutas de SaasLauncher? ¡Nos encantaría conocer tu opinión!"
+
+#: inc/admin/pages/support.php:12
+msgid "The support ticket has usually been replied to within 24 hours."
+msgstr "Nota: El tique de soporte ha sido respondido, por lo general, dentro de las 24 horas."
+
+#: inc/admin/pages/support.php:12 inc/admin/pages/support.php:26
+msgid "Note"
+msgstr "Nota"
+
+#: inc/admin/pages/support.php:8
+msgid "Create a Support Ticket"
+msgstr "Crear un tique de soporte"
+
+#: inc/admin/pages/support.php:5
+msgid "To get started, create a support ticket by clicking the button below:"
+msgstr "Para empezar, crea un tique de soporte haciendo clic en el botón de abajo:"
+
+#: inc/admin/pages/support.php:4
+msgid "If you're experiencing any issues or have questions about our theme, please feel free to reach out. Our support team is ready to assist you."
+msgstr "Si tienes algún problema o alguna pregunta sobre nuestro tema, no dudes en ponerte en contacto con nosotros. Nuestro equipo de soporte está preparado para ayudarte."
+
+#: inc/admin/pages/support.php:3
+msgid "Need Help? We're Here to Assist You!"
+msgstr "¿Necesitas ayuda? ¡Estamos aquí para ayudarte!"
+
+#: inc/admin/pages/setup-instructions.php:55
+msgid "icon on the right side of the respective template parts."
+msgstr "icono al lado derecho de las respectivas partes de plantilla."
+
+#: inc/admin/pages/setup-instructions.php:54
+msgid "All Template Parts"
+msgstr "Todas las partes de plantilla"
+
+#: inc/admin/pages/setup-instructions.php:53
+msgid "Appearance → Editor → Patterns"
+msgstr "Apariencia → Editor → Patrones"
+
+#: inc/admin/pages/setup-instructions.php:46
+#: inc/admin/pages/setup-instructions.php:56
+msgid "Note: The Reset option appears only if there are any edits to the template."
+msgstr "Nota: La opción «Restablecer» solo aparece si hay alguna edición de la plantilla."
+
+#: inc/admin/pages/setup-instructions.php:46
+#: inc/admin/pages/setup-instructions.php:56
+msgid "Reset"
+msgstr "Restablecer"
+
+#: inc/admin/pages/setup-instructions.php:45
+msgid "icon on the right side of the respective template."
+msgstr "icono al lado derecho de la plantilla correspondiente."
+
+#: inc/admin/pages/setup-instructions.php:45
+#: inc/admin/pages/setup-instructions.php:55
+msgid "3 Dots"
+msgstr "3 puntos"
+
+#: inc/admin/pages/setup-instructions.php:45
+#: inc/admin/pages/setup-instructions.php:55
+msgid "Click on the"
+msgstr "Haz clic en los"
+
+#: inc/admin/pages/setup-instructions.php:36
+msgid "Template (You need to edit/update) →"
+msgstr "Plantilla (tienes que editarla/actualizarla) →"
+
+#: inc/admin/pages/setup-instructions.php:35
+#: inc/admin/pages/setup-instructions.php:44
+msgid "Appearance → Editor → Templates"
+msgstr "Apariencia → Editor → Plantillas"
+
+#: inc/admin/pages/setup-instructions.php:33
+msgid "Setup Templates (Homepage/404/Search/Page/Single and more)"
+msgstr "Configura las plantillas (Página de inicio/404/Búsqueda/Página/Individual y más)"
+
+#: inc/admin/pages/setup-instructions.php:27
+msgid "Footer (You need to edit/update) →"
+msgstr "Pie de página (tienes que editar/actualizar) →"
+
+#: inc/admin/pages/setup-instructions.php:26
+msgid "Appearance → Editor → Patterns → Footer"
+msgstr "Apariencia → Editor → Patrones → Pie de página"
+
+#: inc/admin/pages/setup-instructions.php:19
+msgid "Once the logo is set, you can also use it as the favicon. Simply enable the \"Use as Site Icon\" option available in the block’s settings sidebar panel."
+msgstr "Una vez establecido el logotipo, también puedes utilizarlo como favicon. Solo tienes que activar la opción «Usar como icono del sitio» disponible en el panel de la barra lateral de ajustes del bloque."
+
+#: inc/admin/pages/setup-instructions.php:18
+msgid "Click on the empty placeholder to upload or replace the site logo."
+msgstr "Haz clic en el marcador de posición vacío para subir o sustituir el logotipo del sitio."
+
+#: inc/admin/pages/setup-instructions.php:17
+msgid "You will see the site logo if it has already been set, or an empty placeholder in the top-left corner of the homepage design."
+msgstr "Verás el logotipo del sitio si ya se ha establecido, o un marcador de posición vacío en la esquina superior izquierda del diseño de la página de inicio."
+
+#: inc/admin/pages/setup-instructions.php:16
+msgid "Appearance → Editor"
+msgstr "Apariencia → Editor"
+
+#: inc/admin/pages/setup-instructions.php:14
+msgid "Set Up Site Logo"
+msgstr "Configurar el logotipo del sitio"
+
+#: inc/admin/pages/setup-instructions.php:9
+#: inc/admin/pages/setup-instructions.php:28
+#: inc/admin/pages/setup-instructions.php:37
+msgid "to update your layout."
+msgstr "para actualizar tu diseño."
+
+#: inc/admin/pages/setup-instructions.php:9
+#: inc/admin/pages/setup-instructions.php:28
+#: inc/admin/pages/setup-instructions.php:37
+msgid "Save"
+msgstr "Guardar"
+
+#: inc/admin/pages/setup-instructions.php:8
+#: inc/admin/pages/setup-instructions.php:27
+#: inc/admin/pages/setup-instructions.php:36
+msgid "Add or Remove Required block/content as your requirement."
+msgstr "Añade o elimina el bloque/contenido necesario según tus necesidades."
+
+#: inc/admin/pages/setup-instructions.php:8
+msgid "Header (You need to edit/update) →"
+msgstr "Cabecera (tienes que editar/actualizar) →"
+
+#: inc/admin/pages/setup-instructions.php:8
+#: inc/admin/pages/setup-instructions.php:9
+#: inc/admin/pages/setup-instructions.php:27
+#: inc/admin/pages/setup-instructions.php:28
+#: inc/admin/pages/setup-instructions.php:36
+#: inc/admin/pages/setup-instructions.php:37
+#: inc/admin/pages/setup-instructions.php:46
+#: inc/admin/pages/setup-instructions.php:54
+#: inc/admin/pages/setup-instructions.php:56
+msgid "Click on"
+msgstr "Haz clic en"
+
+#: inc/admin/pages/setup-instructions.php:7
+msgid "Appearance → Editor → Patterns → Header"
+msgstr "Apariencia → Editor → Patrones → Cabecera"
+
+#: inc/admin/pages/setup-instructions.php:7
+#: inc/admin/pages/setup-instructions.php:16
+#: inc/admin/pages/setup-instructions.php:26
+#: inc/admin/pages/setup-instructions.php:35
+#: inc/admin/pages/setup-instructions.php:44
+#: inc/admin/pages/setup-instructions.php:53
+msgid "Go to"
+msgstr "Ir a"
+
+#: inc/admin/pages/recommended-plugins.php:87
+msgid "Activate"
+msgstr "Activar"
+
+#: inc/admin/pages/recommended-plugins.php:83
+msgid "Activated"
+msgstr "Activados"
+
+#: inc/admin/pages/recommended-plugins.php:6
+msgid "Always ensure you are using the latest versions of the plugins for optimal performance and security. If you need assistance with any of the recommended plugins, our support team is here to help."
+msgstr "Asegúrate siempre de que utilizas las últimas versiones de los plugins para obtener un rendimiento y una seguridad óptimos. Si necesitas ayuda con alguno de los plugins recomendados, nuestro equipo de soporte está aquí para ayudarte."
+
+#: inc/admin/pages/recommended-plugins.php:6
+msgid "Note:"
+msgstr "Nota:"
+
+#: inc/admin/pages/recommended-plugins.php:5
+msgid "Each plugin is tested for compatibility, so you can be sure they will work smoothly with your setup."
+msgstr "Se ha comprobado la compatibilidad de cada plugin, por lo que puedes estar seguro de que funcionarán sin problemas con tu configuración."
+
+#: inc/admin/pages/recommended-plugins.php:4
+msgid "To get the most out of your experience with SaasLauncher, we highly recommend the following plugins. These plugins are carefully selected to complement and extend the features of SaasLauncher, offering you a seamless and powerful integration."
+msgstr "Para sacar el máximo partido a tu experiencia con SaasLauncher, te recomendamos encarecidamente los siguientes plugins. Estos plugins han sido cuidadosamente seleccionados para complementar y ampliar las características de SaasLauncher, ofreciéndote una integración perfecta y potente."
+
+#: inc/admin/pages/recommended-plugins.php:3
+msgid "Recommended Plugins for Smooth Functionality"
+msgstr "Plugins recomendados para un funcionamiento fluido"
+
+#: inc/admin/pages/getting-started.php:886
+msgid "Build a stunning portfolio with customizable layouts, filters, and animations to showcase your work and projects professionally."
+msgstr "Crea un porfolio impresionante con diseños personalizables, filtros y animaciones para mostrar tu trabajo y tus proyectos de forma profesional."
+
+#: inc/admin/pages/getting-started.php:882
+msgid "Portfolio Builder"
+msgstr "Maquetador de porfolios"
+
+#: inc/admin/pages/getting-started.php:859
+msgid "Create a beautiful photo gallery with customizable layouts, hover effects, and easy navigation for a visually appealing display."
+msgstr "Crea una bonita galería de fotos con diseños personalizables, efectos al pasar el cursor y navegación sencilla para una presentación visualmente atractiva."
+
+#: inc/admin/pages/getting-started.php:830
+msgid "Enhance your online store with customizable WooCommerce blocks, perfect for showcasing products, categories, and offers."
+msgstr "Mejora tu tienda en línea con bloques WooCommerce personalizables, perfectos para mostrar productos, categorías y ofertas."
+
+#: inc/admin/pages/getting-started.php:782
+msgid "Add stylish post and magazine blocks to your site with customizable layouts, perfect for displaying articles and news content."
+msgstr "Añade elegantes bloques de entradas y revistas a tu sitio con diseños personalizables, perfectos para mostrar artículos y contenido de noticias."
+
+#: inc/admin/pages/getting-started.php:778
+msgid "Post & Magazine Blocks"
+msgstr "Bloques de entradas y revistas"
+
+#: inc/admin/pages/getting-started.php:737
+msgid "Easily create customizable popups with various trigger options, animations, and styles to enhance user engagement on your site."
+msgstr "Crea fácilmente ventanas emergentes personalizables con varias opciones de activación, animaciones y estilos para mejorar la participación del usuario en tu sitio."
+
+#: inc/admin/pages/getting-started.php:733
+msgid "Popup Builder"
+msgstr "Maquetador de mensajes emergentes"
+
+#: inc/admin/pages/getting-started.php:699
+msgid "Create a responsive teams carousel to showcase team members with customizable slides, controls, and smooth transitions."
+msgstr "Crea un carrusel de equipos adaptable para mostrar a los miembros del equipo con diapositivas personalizables, controles y transiciones suaves."
+
+#: inc/admin/pages/getting-started.php:695
+msgid "Teams Carousel Builder"
+msgstr "Maquetador de carruseles de equipos"
+
+#: inc/admin/pages/getting-started.php:614
+msgid "Build a responsive testimonials carousel with customizable slides, controls, and smooth transitions to showcase customer feedback."
+msgstr "Crea un carrusel adaptable de recomendaciones con diapositivas personalizables, controles y transiciones suaves para mostrar las opiniones de los clientes."
+
+#: inc/admin/pages/getting-started.php:610
+msgid "Testimonials Carousel Builder"
+msgstr "Maquetador de carruseles de recomendaciones"
+
+#: inc/admin/pages/getting-started.php:557
+msgid "Create stunning, responsive carousels for posts, products, or custom content with customizable slides, controls, and smooth transitions."
+msgstr "Crea impresionantes carruseles adaptables para las entradas, productos o contenido personalizado con diapositivas personalizables, controles y transiciones suaves."
+
+#: inc/admin/pages/getting-started.php:553
+msgid "Carousel Builder"
+msgstr "Maquetador de carruseles"
+
+#: inc/admin/pages/getting-started.php:504
+msgid "Create custom, responsive sliders effortlessly with flexible options for content, style, and animation, enhancing your site's visual appeal and user experience."
+msgstr "Crea carruseles personalizados y adaptables sin esfuerzo con opciones flexibles de contenido, estilo y animación, mejorando el atractivo visual de tu sitio y la experiencia del usuario."
+
+#: inc/admin/pages/getting-started.php:501
+msgid "Slider Builder"
+msgstr "Maquetador de carruseles"
+
+#: inc/admin/pages/getting-started.php:456
+msgid "Glance into the Premium Features"
+msgstr "Echa un vistazo a las características premium"
+
+#: inc/admin/pages/getting-started.php:451
+msgid "Cozy Blocks integration in SaasLauncher offers 40+ advanced page builder blocks, making site creation faster, easier, and fully compatible with the WordPress Site Editor."
+msgstr "La integración de Cozy Blocks en SaasLauncher ofrece más de 40 bloques maquetadores avanzados de páginas, que hacen que la creación de sitios sea más rápida, sencilla y totalmente compatible con el editor de sitios de WordPress."
+
+#: inc/admin/pages/getting-started.php:448
+msgid "Advanced Blocks"
+msgstr "Bloques avanzados"
+
+#: inc/admin/pages/getting-started.php:405
+msgid "Our 30-Day Money Back Guarantee ensures a full refund within 30 days if you're not satisfied with your purchase."
+msgstr "Nuestra garantía de devolución del dinero de 30 días te asegura un reembolso completo en un plazo de 30 días si no estás satisfecho con tu compra."
+
+#: inc/admin/pages/getting-started.php:402
+msgid "Money Back Guarantee"
+msgstr "Devolución garantizada"
+
+#: inc/admin/pages/getting-started.php:358
+msgid "We ensures expert assistance is always available, providing quick solutions and guidance to help you make the most of your theme."
+msgstr "Te garantizamos que siempre dispondrás de la asistencia de expertos, que te proporcionarán soluciones rápidas y orientación para ayudarte a sacar el máximo partido a tu tema."
+
+#: inc/admin/pages/getting-started.php:355
+msgid "World Class Support"
+msgstr "Soporte de alto nivel"
+
+#: inc/admin/pages/getting-started.php:328
+msgid "Gain full control over font styles, sizes, line heights, and spacing to create a unique and visually appealing text design."
+msgstr "Obtén un control total sobre los estilos de fuente, tamaños, alturas de línea y espaciado para crear un diseño de texto único y visualmente atractivo."
+
+#: inc/admin/pages/getting-started.php:324
+msgid "Advanced Typography"
+msgstr "Tipografía avanzada"
+
+#: inc/admin/pages/getting-started.php:272
+msgid "Customize every element of your website's color scheme for a unique and cohesive design with full control over the color options."
+msgstr "Personaliza cada elemento de la combinación de colores de tu sitio web para conseguir un diseño único y cohesionado, con control total sobre las opciones de color."
+
+#: inc/admin/pages/getting-started.php:268
+msgid "Advanced Color Options"
+msgstr "Opciones avanzadas de color"
+
+#: inc/admin/pages/getting-started.php:243
+msgid "Easily switch your site’s look with pre-defined global styles in SaasLauncher. Choose your color scheme with one click to match your brand instantly!"
+msgstr "Cambia fácilmente la apariencia de tu sitio con los estilos globales predefinidos de SaasLauncher. ¡Elige tu combinación de colores en un clic para adaptarla a tu marca al instante!"
+
+#: inc/admin/pages/getting-started.php:240
+msgid "Global Styles"
+msgstr "Estilos globales"
+
+#: inc/admin/pages/getting-started.php:206
+msgid "Instantly import a complete demo site with one click, making the setup process quick and easy."
+msgstr "Importa al instante una demo completa del sitio en un clic, haciendo el proceso de configuración rápido y fácil."
+
+#: inc/admin/pages/getting-started.php:202
+msgid "Single Click Demo Import"
+msgstr "Importación de la demostración en un clic"
+
+#: inc/admin/pages/getting-started.php:186
+msgid "Ready-to-use design blocks for various page elements make it easy to add and customize content without starting from scratch."
+msgstr "Los bloques de diseño listos para usar para varios elementos de página facilitan la añadir y personalizar el contenido sin empezar desde cero."
+
+#: inc/admin/pages/getting-started.php:182
+msgid "Pre-Built Sections"
+msgstr "Secciones preconstruidas"
+
+#: inc/admin/pages/getting-started.php:160
+msgid "Design your website's footer with flexible options for layout, content, and style, enhancing both its look and functionality."
+msgstr "Diseña el pie de página de tu sitio web con opciones flexibles de diseño, contenido y estilo, mejorando tanto su aspecto como su funcionalidad."
+
+#: inc/admin/pages/getting-started.php:156
+msgid "Fully Customizable Footer"
+msgstr "Pie de página totalmente personalizable"
+
+#: inc/admin/pages/getting-started.php:137
+msgid "Design your site’s header with flexible options for layout, style, and content to perfectly match your branding."
+msgstr "Diseña la cabecera de tu sitio con opciones flexibles de diseño, estilo y contenido para que se adapte perfectamente a tu imagen de marca."
+
+#: inc/admin/pages/getting-started.php:133
+msgid "Fully Customizable Header"
+msgstr "Cabecera totalmente personalizable"
+
+#: inc/admin/pages/getting-started.php:112
+msgid "Ready-to-use designs for essential pages allow quick setup and easy customization, helping you build a complete website effortlessly."
+msgstr "Los diseños listos para usar de las páginas esenciales permiten una configuración rápida y una fácil personalización, ayudándote a maquetar un sitio web completo sin esfuerzo."
+
+#: inc/admin/pages/getting-started.php:108
+msgid "Pre-Built Innerpage Layout"
+msgstr "Diseño de página interior preconstruido"
+
+#: inc/admin/pages/getting-started.php:80
+msgid "Ready-made templates allow quick site launch with one-click import, making it easy to customize and fit your needs."
+msgstr "Las plantillas listas para usar permiten lanzar el sitio rápidamente con una importación en un solo clic, lo que facilita su personalización y adaptación a tus necesidades."
+
+#: inc/admin/pages/getting-started.php:76
+msgid "Pre-Built Starter Sites"
+msgstr "Sitios de inicio preconstruidos"
+
+#: inc/admin/pages/getting-started.php:53
+msgid "Customize all parts of your website — headers, footers, and templates — using a visual editor, with no coding required."
+msgstr "Personaliza todas las partes de tu sitio web — cabeceras, pies de página y plantillas — mediante un editor visual, sin necesidad de programar."
+
+#: inc/admin/pages/getting-started.php:49
+msgid "Full Site Editing"
+msgstr "Edición completa del sitio"
+
+#: inc/admin/pages/getting-started.php:24
+msgid "Top Features You'll Love"
+msgstr "Características principales que te encantarán"
+
+#: inc/admin/pages/getting-started.php:22
+msgid "Learn more"
+msgstr "Más información"
+
+#: inc/admin/pages/getting-started.php:22
+msgid "Explore SaasLauncher and start building your next stunning website today!"
+msgstr "¡Explora SaasLauncher y empieza a crear tu próximo sitio web impresionante hoy mismo!"
+
+#: inc/admin/pages/getting-started.php:19
+msgid "Whether you're crafting a landing page for your SaaS product, building a corporate website, or creating a personal portfolio, SaasLauncher gives you the tools you need to bring your vision to life."
+msgstr "Tanto si estás diseñando una página de destino para tu producto SaaS, maquetando un sitio web corporativo o creando un porfolio personal, SaasLauncher te ofrece las herramientas que necesitas para dar vida a tu visión."
+
+#: inc/admin/pages/getting-started.php:16
+msgid "Optimized for global reach, SaasLauncher is fully translatable, supporting popular languages like Spanish, French, and English, and easily adaptable to any language. You can switch color schemes with just one click, providing total creative control while maintaining seamless design flexibility."
+msgstr "Optimizado para un alcance global, SaasLauncher es totalmente traducible, compatible con idiomas populares como el español, el francés y el inglés, y fácilmente adaptable a cualquier idioma. Puedes cambiar las combinaciones de color con un solo clic, lo que te proporciona un control creativo total a la vez que mantienes una flexibilidad de diseño sin fisuras."
+
+#: inc/admin/pages/getting-started.php:13
+msgid "Pre-designed layouts for the Homepage and Blog"
+msgstr "Diseños prediseñados para la página de inicio y el blog"
+
+#: inc/admin/pages/getting-started.php:12
+msgid "15 pre-defined global styles for a cohesive look"
+msgstr "15 estilos globales predefinidos para un aspecto cohesionado"
+
+#: inc/admin/pages/getting-started.php:6
+msgid "Welcome to SaasLauncher, a cutting-edge Full Site Editing (FSE) WordPress theme designed specifically for SaaS companies, corporate businesses, and creative agencies. With SaasLauncher, you can effortlessly build a stunning website with features such as:"
+msgstr "Bienvenido a SaasLauncher, un vanguardista tema de WordPress de edición de sitio completo (FSE) diseñado específicamente para empresas de SaaS, negocios corporativos y agencias creativas. Con SaasLauncher, puedes construir sin esfuerzo un sitio web impresionante con características como:"
+
+#: inc/admin/pages/free-vs-pro.php:432
+msgid "🚀"
+msgstr "🚀"
+
+#: inc/admin/pages/free-vs-pro.php:432
+msgid "Checkout!"
+msgstr "¡Finalizar compra!"
+
+#: inc/admin/pages/free-vs-pro.php:432
+msgid "Ready to take the next step? Let’s get you to"
+msgstr "¿Listo para dar el siguiente paso? Vamos a llevarte a"
+
+#: inc/admin/pages/free-vs-pro.php:426
+msgid "Our Refund Policy secures customer satisfaction and protection. If you find our purchased products unusable, despite our team’s support, you can claim a full refund within 30 days."
+msgstr "Nuestra política de reembolso garantiza la satisfacción y protección del cliente. Si consideras que los productos adquiridos no son utilizables, a pesar de la asistencia de nuestro equipo, puedes solicitar un reembolso completo en un plazo de 30 días."
+
+#: inc/admin/pages/free-vs-pro.php:425
+msgid "No Risk, 100% Money Back Guarantee!"
+msgstr "Sin riesgos, ¡garantía de devolución del 100% del dinero!"
+
+#: inc/admin/pages/free-vs-pro.php:386
+msgid "Pro"
+msgstr "Pro"
+
+#: inc/admin/pages/free-vs-pro.php:385
+msgid "Free"
+msgstr "Gratis"
+
+#: inc/admin/pages/free-vs-pro.php:384
+msgid "Feature"
+msgstr "Característica"
+
+#: inc/admin/pages/free-vs-pro.php:379
+msgid "Already enjoying our product?"
+msgstr "¿Ya disfrutas de nuestro producto?"
+
+#: inc/admin/pages/free-vs-pro.php:376
+msgid "SaasLauncher Free vs. Pro"
+msgstr "SaasLauncher Gratuito vs. Pro"
+
+#: inc/admin/pages/changelog.php:178
+msgid "Released: November 28, 2024"
+msgstr "Lanzada el 28 de noviembre de 2024"
+
+#: inc/admin/pages/changelog.php:177
+msgid "Version 1.0.12"
+msgstr "Versión 1.0.12"
+
+#: inc/admin/pages/changelog.php:169
+msgid "Released: December 01, 2024"
+msgstr "Lanzada el 01 de diciembre de 2024"
+
+#: inc/admin/pages/changelog.php:168
+msgid "Version 1.0.13"
+msgstr "Versión 1.0.13"
+
+#: inc/admin/pages/changelog.php:162 inc/admin/pages/changelog.php:171
+#: inc/admin/pages/changelog.php:180
+msgid "Improved pattern designs"
+msgstr "Diseños de patrones mejorados"
+
+#: inc/admin/pages/changelog.php:160
+msgid "Released: December 04, 2024"
+msgstr "Lanzada el 4 de diciembre de 2024"
+
+#: inc/admin/pages/changelog.php:159
+msgid "Version 1.0.14"
+msgstr "Versión 1.0.14"
+
+#: inc/admin/pages/changelog.php:154 inc/admin/pages/changelog.php:163
+#: inc/admin/pages/changelog.php:172 inc/admin/pages/changelog.php:181
+msgid "Added new demo collection"
+msgstr "Añadida nueva colección de demostraciones"
+
+#: inc/admin/pages/changelog.php:153
+msgid "Improvised dashboard layout"
+msgstr "Diseño improvisado del escritorio"
+
+#: inc/admin/pages/changelog.php:143 inc/admin/pages/changelog.php:151
+msgid "Released: December 19, 2024"
+msgstr "Lanzada el 19 de diciembre de 2024"
+
+#: inc/admin/pages/changelog.php:150
+msgid "Version 1.0.15"
+msgstr "Versión 1.0.15"
+
+#: inc/admin/pages/changelog.php:2
+msgid "Changelog"
+msgstr "Registro de cambios"
+
+#: inc/admin/pages/activate-licence.php:64
+msgid "🎉 Woohoo! PRO version unlocked. You're ready to build! 🚀"
+msgstr "🎉 ¡Yuju! Versión PRO desbloqueada. ¡Estás listo para construir! 🚀"
+
+#: inc/admin/pages/activate-licence.php:54
+msgid "How to Install and Activate Cozy Blocks for WordPress"
+msgstr "Cómo instalar y activar Cozy Blocks para WordPress"
+
+#: inc/admin/pages/activate-licence.php:52
+msgid "Guide to activating the PRO version."
+msgstr "Guía para activar la versión PRO."
+
+#: inc/admin/pages/activate-licence.php:44
+msgid "Activate Licence"
+msgstr "Activar licencia"
+
+#: inc/admin/pages/activate-licence.php:17
+msgid "Activate Cozy Blocks!"
+msgstr "¡Activa Cozy Blocks!"
+
+#: inc/admin/pages/activate-licence.php:13
+msgid "Install & Activate Cozy Blocks!"
+msgstr "¡Instala y activa Cozy Blocks!"
+
+#: inc/admin/pages/activate-licence.php:5
+msgid "Got a licence key?"
+msgstr "¿Tienes una clave de licencia?"
+
+#: inc/admin/dashboard.php:182
+msgid "File does not exist or is not readable."
+msgstr "El archivo no existe o no es legible."
+
+#: inc/admin/dashboard.php:98
+msgid "Version "
+msgstr "Versión "
+
+#. translators: %s: Theme initial
+#. translators: %s: Theme name
+#. translators: %s: Page label.
+#. translators: %s: Status string
+#. translators: %s: Feature label
+#: inc/admin/dashboard.php:80 inc/admin/dashboard.php:90
+#: inc/admin/dashboard.php:144 inc/admin/pages/free-vs-pro.php:368
+#: inc/admin/pages/free-vs-pro.php:398
+#: inc/admin/pages/recommended-plugins.php:55
+#: inc/admin/pages/recommended-plugins.php:66
+#: inc/admin/pages/recommended-plugins.php:75
+#: inc/admin/pages/recommended-plugins.php:125
+msgid "%s"
+msgstr "%s"
+
+#: patterns/blog-list.php
+msgctxt "Pattern title"
+msgid "Blog List Layout"
+msgstr "Blog - Diseño de lista"
+
+#: patterns/blog-list-with-sidebar.php
+msgctxt "Pattern title"
+msgid "Blog List with Sidebar"
+msgstr "Blog - Lista con barra lateral"
+
+#: patterns/blog-list-with-large-image.php
+msgctxt "Pattern title"
+msgid "Blog List with Large Featured Image"
+msgstr "Blog - Lista con imagen destacada grande"
+
+#: patterns/blog-grid.php
+msgctxt "Pattern title"
+msgid "Blog Grid Layout"
+msgstr "Blog - Diseño de cuadrícula"
+
+#: patterns/blog-grid-with-sidebar.php
+msgctxt "Pattern title"
+msgid "Blog Grid with Sidebar"
+msgstr "Cuadrícula de blog con barra lateral"
+
+#: inc/core/block-patterns.php:22
+msgid "Blog Templates"
+msgstr "Plantillas de blog"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Faculty Glyphic"
+msgstr "Faculty Glyphic"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Barlow"
+msgstr "Barlow"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Allura"
+msgstr "Allura"
+
+#: patterns/testimonials-grid-3.php
+msgctxt "Pattern title"
+msgid "Testimonials Grid 3"
+msgstr "Cuadrícula de recomendaciones 3"
+
+#: patterns/features-section-2.php
+msgctxt "Pattern title"
+msgid "Features Section 2"
+msgstr "Sección de características 2"
+
+#: patterns/services-page.php
+msgctxt "Pattern title"
+msgid "Services Page"
+msgstr "Página de servicios"
+
+#: patterns/services-grid-2.php
+msgctxt "Pattern title"
+msgid "Services Grid 2"
+msgstr "Cuadrícula de servicios 2"
+
+#: patterns/pricing-tables-2.php:222
+msgid "Still unsure? Every purchase comes with a 100% money-back guarantee. Experience our product risk-free, and if it’s not for you, we’ll ensure you’re fully refunded—no questions asked."
+msgstr "¿Aún no estás seguro? Todas las compras tienen una garantía de devolución del 100%. Experimenta nuestro producto sin riesgos y, si no es para ti, te reembolsaremos el importe íntegro, sin hacer preguntas."
+
+#: patterns/pricing-tables-2.php
+msgctxt "Pattern title"
+msgid "Pricing Tables 2"
+msgstr "Tablas de precios 2"
+
+#: patterns/pricing-page.php
+msgctxt "Pattern title"
+msgid "Pricing Page"
+msgstr "Página de precios"
+
+#: patterns/number-stats.php:14
+msgid "The Number That Speaks"
+msgstr "Números que hablan por sí solos"
+
+#: patterns/number-stats.php
+msgctxt "Pattern title"
+msgid "Counter Stats with Sticky Section"
+msgstr "Contador de estadísticas con sección fija"
+
+#: patterns/mission-vision.php:69
+msgid "Elevating Businesses through Intelligent SaaS Platforms."
+msgstr "Elevando los negocios mediante plataformas SaaS inteligentes."
+
+#: patterns/featured-content.php:73 patterns/featured-content.php:110
+#: patterns/featured-content.php:171 patterns/features-grid-2.php:48
+#: patterns/features-grid-2.php:73 patterns/features-grid-2.php:98
+#: patterns/features-grid-2.php:126 patterns/features-grid-2.php:151
+#: patterns/features-grid-2.php:176 patterns/features-section-2.php:40
+#: patterns/features-section-2.php:61 patterns/features-section-2.php:82
+#: patterns/mission-vision.php:47 patterns/mission-vision.php:78
+msgid "Learn More"
+msgstr "Más información"
+
+#: patterns/mission-vision.php:38
+msgid "Revolutionizing SaaS with Smarter Approaches."
+msgstr "Revolucionar el SaaS con enfoques más inteligentes."
+
+#: patterns/mission-vision.php:30 patterns/mission-vision.php:61
+msgid "Our Mission &amp; Vision"
+msgstr "Nuestra visión y misión"
+
+#: patterns/mission-vision.php
+msgctxt "Pattern title"
+msgid "Mission & Vision Section"
+msgstr "Sección de misión y visión"
+
+#: patterns/highlight-features.php:55
+msgid "User-Centric Interface"
+msgstr "Interfaz centrada en el usuario"
+
+#: patterns/highlight-features.php:47
+msgid "Access to powerful, real-time data analytics and custom reporting tools that help you make informed business decisions effortlessly."
+msgstr "Acceso a potentes herramientas de análisis de datos en tiempo real e informes personalizados que te ayudan a tomar decisiones empresariales informadas sin esfuerzo."
+
+#: patterns/highlight-features.php:41
+msgid "Real-Time Analytics &amp; Reporting"
+msgstr "Análisis e informes en tiempo real"
+
+#: patterns/features-section.php:25 patterns/highlight-features.php:27
+#: patterns/service-grid-3.php:48 patterns/service-grid-4.php:45
+#: patterns/services-section.php:60
+msgid "Scalability &amp; Flexibility"
+msgstr "Escalabilidad y flexibilidad"
+
+#: patterns/highlight-features.php:21
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam ullamco laboris."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit, eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam ullamco laboris."
+
+#: patterns/highlight-features.php:17
+msgid "Scalable Solutions for Every Stage"
+msgstr "Soluciones escalables para cada etapa"
+
+#: patterns/highlight-features.php
+msgctxt "Pattern title"
+msgid "Highlight Features"
+msgstr "Características destacadas"
+
+#: patterns/contact-page.php
+msgctxt "Pattern title"
+msgid "Contact Us"
+msgstr "Contacta con nosotros"
+
+#: patterns/about-page.php
+msgctxt "Pattern title"
+msgid "About Us"
+msgstr "Quiénes somos"
+
+#: patterns/about-2.php:28
+msgid "Building Smarter Solutions SaaS Experts"
+msgstr "Construir soluciones más inteligentes expertos en SaaS"
+
+#: patterns/about-2.php
+msgctxt "Pattern title"
+msgid "About Section 2"
+msgstr "Sección «Acerca de» 2"
+
+#: inc/core/block-patterns.php:21
+msgid "Page Templates"
+msgstr "Plantillas de página"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Gradient 24"
+msgstr "Degradado 24"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Gradient 23"
+msgstr "Degradado 23"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Gradient 22"
+msgstr "Degradado 22"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Gradient 21"
+msgstr "Degradado 21"
+
+#: inc/core/block-style.php:433 inc/core/block-style.php:447
+msgid "With White Icon"
+msgstr "Con icono blanco"
+
+#: inc/core/block-style.php:426 inc/core/block-style.php:440
+msgid "With Icon"
+msgstr "Con icono"
+
+#: inc/core/block-style.php:204
+msgid "Background Mixed"
+msgstr "Fondo mixto"
+
+#: inc/core/block-style.php:197
+msgid "Background"
+msgstr "Fondo"
+
+#: inc/core/block-style.php:55
+msgid "Overflow Hidden"
+msgstr "Desbordamiento oculto"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Roboto"
+msgstr "Roboto"
+
+#: styles/colors/magenta.json styles/magenta.json
+msgctxt "Style variation name"
+msgid "MAGENTA"
+msgstr "MAGENTA"
+
+#: styles/colors/electric-pink.json styles/electric-pink.json
+msgctxt "Style variation name"
+msgid "ELECTRIC PINK"
+msgstr "ROSA ELÉCTRICO"
+
+#: styles/colors/cyan-blue.json styles/cyan-blue.json
+msgctxt "Style variation name"
+msgid "CYAN BLUE"
+msgstr "AZUL CIAN"
+
+#: patterns/section-header-slant.php
+msgctxt "Pattern title"
+msgid "Section Header Slant Style"
+msgstr "Estilo inclinado de la cabecera de sección"
+
+#: styles/colors/vibrant-purple.json styles/vibrant-purple.json
+msgctxt "Style variation name"
+msgid "VIBRANT PURPLE"
+msgstr "MORADO VIBRANTE"
+
+#: patterns/team-section-3.php
+msgctxt "Pattern title"
+msgid "Team Section 3"
+msgstr "Sección de equipo 3"
+
+#: patterns/faq-accordion-3.php
+msgctxt "Pattern title"
+msgid "FAQ Accordion 3"
+msgstr "Acordeón FAQ 3"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Syne"
+msgstr "Syne"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Geist"
+msgstr "Geist"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Gradient 20"
+msgstr "Degradado 20"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Gradient 19"
+msgstr "Degradado 19"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Gradient 18"
+msgstr "Degradado 18"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Gradient 17"
+msgstr "Degradado 17"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Gradient 16"
+msgstr "Degradado 16"
+
+#: patterns/simple-text.php:23
+msgid "Richard McClintock, a Latin scholar from Hampden-Sydney College, is credited with discovering the source behind the ubiquitous filler text. In seeing a sample of lorem ipsum, his interest was piqued by consectetur—a genuine, albeit rare, Latin word. Consulting a Latin dictionary led McClintock to a passage from De Finibus Bonorum et Malorum (“On the Extremes of Good and Evil”), a first-century B.C. text from the Roman philosopher Cicero."
+msgstr "Se atribuye a Richard McClintock, un estudioso del latín del Hampden-Sydney College, el descubrimiento del origen del omnipresente texto de relleno. Al ver una muestra de «lorem ipsum», despertó su interés por «consectetur», una palabra latina auténtica, aunque poco frecuente. La consulta de un diccionario de latín condujo a McClintock a un pasaje de «De Finibus Bonorum et Malorum» («Sobre los extremos del bien y del mal»), un texto del filósofo romano Cicerón del siglo I a.C."
+
+#: patterns/simple-text.php:19
+msgid "The placeholder text, beginning with the line “Lorem ipsum dolor sit amet, consectetur adipiscing elit”, looks like Latin because in its youth, centuries ago, it was Latin."
+msgstr "El texto del marcador de posición, que comienza con la línea «Lorem ipsum dolor sit amet, consectetur adipiscing elit», parece latín porque en su juventud, hace siglos, era latín."
+
+#: patterns/simple-text.php:15
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Until recently, the prevailing view assumed lorem ipsum was born as a nonsense text. “It’s not Latin, though it looks like it, and it actually says nothing,” Before &amp; After magazine answered a curious reader, “Its ‘words’ loosely approximate the frequency with which letters occur in English, which is why at a glance it looks pretty real."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Hasta hace poco, la opinión predominante suponía que el lorem ipsum había nacido como un texto sin sentido. «No es latín, aunque lo parezca, y en realidad no dice nada», la revista Before &amp; After respondió a un lector curioso: «Sus 'palabras' se aproximan vagamente a la frecuencia con que se producen las letras en inglés, por lo que a simple vista parece bastante real»."
+
+#: patterns/simple-text.php:11
+msgid "Core Values – What Drives Us Forward"
+msgstr "Valores fundamentales - Lo que nos hace avanzar"
+
+#: patterns/simple-text.php
+msgctxt "Pattern title"
+msgid "Simple Text Section"
+msgstr "Sección de texto simple"
+
+#: patterns/header-minimal.php
+msgctxt "Pattern title"
+msgid "Header Minimal"
+msgstr "Cabecera minimalista"
+
+#: patterns/header-minimal-light.php
+msgctxt "Pattern title"
+msgid "Header Minimal Light"
+msgstr "Cabecera minimalista - claro"
+
+#: patterns/footer-with-cta.php
+msgctxt "Pattern title"
+msgid "Footer with CTA"
+msgstr "Pie de página con CTA"
+
+#: patterns/footer-minimal-cta.php
+msgctxt "Pattern title"
+msgid "Footer Minimal with CTA"
+msgstr "Pie de página minimalista con CTA"
+
+#: patterns/footer-minimal-cta.php:22 patterns/footer-with-cta.php:30
+msgid "Download Free"
+msgstr "Descargar gratis"
+
+#: patterns/footer-with-cta.php:26
+msgid "Request Demo"
+msgstr "Solicitar demostración"
+
+#: patterns/footer-with-cta.php:21
+msgid "Lorem ipsum is placeholder text commonly used in the publishing industries."
+msgstr "Lorem ipsum es un texto de marcador de posición que se utiliza habitualmente en la industria editorial."
+
+#: patterns/footer-minimal-cta.php:17 patterns/footer-with-cta.php:17
+msgid "Transform Your Workflow Today – Start Free!"
+msgstr "Transforma hoy tu flujo de trabajo - ¡Empieza gratis!"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "WooCommerce Checkout Page"
+msgstr "Página de finalizar compra de WooCommerce"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "WooCommerce Cart Page"
+msgstr "Página del carrito de WooCommerce"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank Page Template"
+msgstr "Plantilla de página en blanco"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank With Header and Footer"
+msgstr "En blanco con cabecera y pie de página"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page (Sitemap)"
+msgstr "Página (mapa del sitio)"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page (with left sidebar)"
+msgstr "Página (con barra lateral izquierda)"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page (Right Sidebar)"
+msgstr "Página (barra lateral derecha)"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single (with right sidebar)"
+msgstr "Individual (con barra lateral derecha)"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single (With Left Sidebar)"
+msgstr "Individual (con barra lateral izquierda)"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Pie de página"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Cabecera"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Tenor Sans"
+msgstr "Tenor Sans"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Hubot Sans"
+msgstr "Hubot Sans"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Public Sans"
+msgstr "Public Sans"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Manrope"
+msgstr "Manrope"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Rubik"
+msgstr "Rubik"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Oswald"
+msgstr "Oswald"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Quicksand"
+msgstr "Quicksand"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Outfit"
+msgstr "Outfit"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Plus Jakarta Sans"
+msgstr "Plus Jakarta Sans"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Playfair Display"
+msgstr "Playfair Display"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Inter"
+msgstr "Inter"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "DM Serif Display"
+msgstr "DM Serif Display"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Open Sans"
+msgstr "Open Sans"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "3X Large"
+msgstr "3 XL"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "Extra grande"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Giga"
+msgstr "Giga"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Mediana"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Normal"
+msgstr "Normal"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Pequeña"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Small"
+msgstr "Extra pequeña"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Gradient 15"
+msgstr "Degradado 15"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Gradient 14"
+msgstr "Degradado 14"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Gradient 13"
+msgstr "Degradado 13"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Gradient 12"
+msgstr "Degradado 12"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Gradient 11"
+msgstr "Degradado 11"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Gradient 10"
+msgstr "Degradado 10"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Gradient 09"
+msgstr "Degradado 09"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Gradient 08"
+msgstr "Degradado 08"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Gradient 07"
+msgstr "Degradado 07"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Gradient 06"
+msgstr "Degradado 06"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Gradient 05"
+msgstr "Degradado 05"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Gradient 04"
+msgstr "Degradado 04"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Gradient 03"
+msgstr "Degradado 03"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Gradient 02"
+msgstr "Degradado 02"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Gradient 01"
+msgstr "Degradado 01"
+
+#: styles/colors/sky-blue.json styles/sky-blue.json
+msgctxt "Style variation name"
+msgid "SKY BLUE"
+msgstr "AZUL CIELO"
+
+#: styles/colors/pink-scheme.json styles/pink-scheme.json
+msgctxt "Style variation name"
+msgid "PINK SCHEME"
+msgstr "COMBINACIÓN ROSA"
+
+#: styles/colors/lemonlime-scheme.json styles/lemonlime-scheme.json
+msgctxt "Style variation name"
+msgid "LEMON LIME"
+msgstr "LIMA LIMÓN"
+
+#: styles/colors/green-scheme.json styles/green-scheme.json
+msgctxt "Style variation name"
+msgid "GREEN SCHEME"
+msgstr "COMBINACIÓN VERDE"
+
+#: styles/colors/golden-scheme.json styles/golden-scheme.json
+msgctxt "Style variation name"
+msgid "GOLDEN SCHEME"
+msgstr "COMBINACIÓN DORADA"
+
+#: theme.json styles/blue-scheme.json styles/colors/blue-scheme.json
+#: styles/colors/cyan-blue.json styles/colors/dark-pink.json
+#: styles/colors/electric-pink.json styles/colors/golden-scheme.json
+#: styles/colors/green-scheme.json styles/colors/lemonlime-scheme.json
+#: styles/colors/magenta.json styles/colors/pink-scheme.json
+#: styles/colors/red.json styles/colors/sky-blue.json styles/colors/teal.json
+#: styles/colors/vibrant-purple.json styles/colors/yellow.json
+#: styles/cyan-blue.json styles/dark-pink.json styles/electric-pink.json
+#: styles/golden-scheme.json styles/green-scheme.json
+#: styles/lemonlime-scheme.json styles/magenta.json styles/pink-scheme.json
+#: styles/red.json styles/sky-blue.json styles/teal.json
+#: styles/vibrant-purple.json styles/yellow.json
+msgctxt "Duotone name"
+msgid "Duo 10"
+msgstr "Duo 10"
+
+#: theme.json styles/blue-scheme.json styles/colors/blue-scheme.json
+#: styles/colors/cyan-blue.json styles/colors/dark-pink.json
+#: styles/colors/electric-pink.json styles/colors/golden-scheme.json
+#: styles/colors/green-scheme.json styles/colors/lemonlime-scheme.json
+#: styles/colors/magenta.json styles/colors/pink-scheme.json
+#: styles/colors/red.json styles/colors/sky-blue.json styles/colors/teal.json
+#: styles/colors/vibrant-purple.json styles/colors/yellow.json
+#: styles/cyan-blue.json styles/dark-pink.json styles/electric-pink.json
+#: styles/golden-scheme.json styles/green-scheme.json
+#: styles/lemonlime-scheme.json styles/magenta.json styles/pink-scheme.json
+#: styles/red.json styles/sky-blue.json styles/teal.json
+#: styles/vibrant-purple.json styles/yellow.json
+msgctxt "Duotone name"
+msgid "Duo 9"
+msgstr "Duo 9"
+
+#: theme.json styles/blue-scheme.json styles/colors/blue-scheme.json
+#: styles/colors/cyan-blue.json styles/colors/dark-pink.json
+#: styles/colors/electric-pink.json styles/colors/golden-scheme.json
+#: styles/colors/green-scheme.json styles/colors/lemonlime-scheme.json
+#: styles/colors/magenta.json styles/colors/pink-scheme.json
+#: styles/colors/red.json styles/colors/sky-blue.json styles/colors/teal.json
+#: styles/colors/vibrant-purple.json styles/colors/yellow.json
+#: styles/cyan-blue.json styles/dark-pink.json styles/electric-pink.json
+#: styles/golden-scheme.json styles/green-scheme.json
+#: styles/lemonlime-scheme.json styles/magenta.json styles/pink-scheme.json
+#: styles/red.json styles/sky-blue.json styles/teal.json
+#: styles/vibrant-purple.json styles/yellow.json
+msgctxt "Duotone name"
+msgid "Duo 8"
+msgstr "Duo 8"
+
+#: theme.json styles/blue-scheme.json styles/colors/blue-scheme.json
+#: styles/colors/cyan-blue.json styles/colors/dark-pink.json
+#: styles/colors/electric-pink.json styles/colors/golden-scheme.json
+#: styles/colors/green-scheme.json styles/colors/lemonlime-scheme.json
+#: styles/colors/magenta.json styles/colors/pink-scheme.json
+#: styles/colors/red.json styles/colors/sky-blue.json styles/colors/teal.json
+#: styles/colors/vibrant-purple.json styles/colors/yellow.json
+#: styles/cyan-blue.json styles/dark-pink.json styles/electric-pink.json
+#: styles/golden-scheme.json styles/green-scheme.json
+#: styles/lemonlime-scheme.json styles/magenta.json styles/pink-scheme.json
+#: styles/red.json styles/sky-blue.json styles/teal.json
+#: styles/vibrant-purple.json styles/yellow.json
+msgctxt "Duotone name"
+msgid "Duo 7"
+msgstr "Duo 7"
+
+#: theme.json styles/blue-scheme.json styles/colors/blue-scheme.json
+#: styles/colors/cyan-blue.json styles/colors/dark-pink.json
+#: styles/colors/electric-pink.json styles/colors/golden-scheme.json
+#: styles/colors/green-scheme.json styles/colors/lemonlime-scheme.json
+#: styles/colors/magenta.json styles/colors/pink-scheme.json
+#: styles/colors/red.json styles/colors/sky-blue.json styles/colors/teal.json
+#: styles/colors/vibrant-purple.json styles/colors/yellow.json
+#: styles/cyan-blue.json styles/dark-pink.json styles/electric-pink.json
+#: styles/golden-scheme.json styles/green-scheme.json
+#: styles/lemonlime-scheme.json styles/magenta.json styles/pink-scheme.json
+#: styles/red.json styles/sky-blue.json styles/teal.json
+#: styles/vibrant-purple.json styles/yellow.json
+msgctxt "Duotone name"
+msgid "Duo 6"
+msgstr "Duo 6"
+
+#: theme.json styles/blue-scheme.json styles/colors/blue-scheme.json
+#: styles/colors/cyan-blue.json styles/colors/dark-pink.json
+#: styles/colors/electric-pink.json styles/colors/golden-scheme.json
+#: styles/colors/green-scheme.json styles/colors/lemonlime-scheme.json
+#: styles/colors/magenta.json styles/colors/pink-scheme.json
+#: styles/colors/red.json styles/colors/sky-blue.json styles/colors/teal.json
+#: styles/colors/vibrant-purple.json styles/colors/yellow.json
+#: styles/cyan-blue.json styles/dark-pink.json styles/electric-pink.json
+#: styles/golden-scheme.json styles/green-scheme.json
+#: styles/lemonlime-scheme.json styles/magenta.json styles/pink-scheme.json
+#: styles/red.json styles/sky-blue.json styles/teal.json
+#: styles/vibrant-purple.json styles/yellow.json
+msgctxt "Duotone name"
+msgid "Duo 5"
+msgstr "Duo 5"
+
+#: theme.json styles/blue-scheme.json styles/colors/blue-scheme.json
+#: styles/colors/cyan-blue.json styles/colors/dark-pink.json
+#: styles/colors/electric-pink.json styles/colors/golden-scheme.json
+#: styles/colors/green-scheme.json styles/colors/lemonlime-scheme.json
+#: styles/colors/magenta.json styles/colors/pink-scheme.json
+#: styles/colors/red.json styles/colors/sky-blue.json styles/colors/teal.json
+#: styles/colors/vibrant-purple.json styles/colors/yellow.json
+#: styles/cyan-blue.json styles/dark-pink.json styles/electric-pink.json
+#: styles/golden-scheme.json styles/green-scheme.json
+#: styles/lemonlime-scheme.json styles/magenta.json styles/pink-scheme.json
+#: styles/red.json styles/sky-blue.json styles/teal.json
+#: styles/vibrant-purple.json styles/yellow.json
+msgctxt "Duotone name"
+msgid "Duo 4"
+msgstr "Duo 4"
+
+#: theme.json styles/blue-scheme.json styles/colors/blue-scheme.json
+#: styles/colors/cyan-blue.json styles/colors/dark-pink.json
+#: styles/colors/electric-pink.json styles/colors/golden-scheme.json
+#: styles/colors/green-scheme.json styles/colors/lemonlime-scheme.json
+#: styles/colors/magenta.json styles/colors/pink-scheme.json
+#: styles/colors/red.json styles/colors/sky-blue.json styles/colors/teal.json
+#: styles/colors/vibrant-purple.json styles/colors/yellow.json
+#: styles/cyan-blue.json styles/dark-pink.json styles/electric-pink.json
+#: styles/golden-scheme.json styles/green-scheme.json
+#: styles/lemonlime-scheme.json styles/magenta.json styles/pink-scheme.json
+#: styles/red.json styles/sky-blue.json styles/teal.json
+#: styles/vibrant-purple.json styles/yellow.json
+msgctxt "Duotone name"
+msgid "Duo 3"
+msgstr "Duo 3"
+
+#: theme.json styles/blue-scheme.json styles/colors/blue-scheme.json
+#: styles/colors/cyan-blue.json styles/colors/dark-pink.json
+#: styles/colors/electric-pink.json styles/colors/golden-scheme.json
+#: styles/colors/green-scheme.json styles/colors/lemonlime-scheme.json
+#: styles/colors/magenta.json styles/colors/pink-scheme.json
+#: styles/colors/red.json styles/colors/sky-blue.json styles/colors/teal.json
+#: styles/colors/vibrant-purple.json styles/colors/yellow.json
+#: styles/cyan-blue.json styles/dark-pink.json styles/electric-pink.json
+#: styles/golden-scheme.json styles/green-scheme.json
+#: styles/lemonlime-scheme.json styles/magenta.json styles/pink-scheme.json
+#: styles/red.json styles/sky-blue.json styles/teal.json
+#: styles/vibrant-purple.json styles/yellow.json
+msgctxt "Duotone name"
+msgid "Duo 2"
+msgstr "Duo 2"
+
+#: theme.json styles/blue-scheme.json styles/colors/blue-scheme.json
+#: styles/colors/cyan-blue.json styles/colors/dark-pink.json
+#: styles/colors/electric-pink.json styles/colors/golden-scheme.json
+#: styles/colors/green-scheme.json styles/colors/lemonlime-scheme.json
+#: styles/colors/magenta.json styles/colors/pink-scheme.json
+#: styles/colors/red.json styles/colors/sky-blue.json styles/colors/teal.json
+#: styles/colors/vibrant-purple.json styles/colors/yellow.json
+#: styles/cyan-blue.json styles/dark-pink.json styles/electric-pink.json
+#: styles/golden-scheme.json styles/green-scheme.json
+#: styles/lemonlime-scheme.json styles/magenta.json styles/pink-scheme.json
+#: styles/red.json styles/sky-blue.json styles/teal.json
+#: styles/vibrant-purple.json styles/yellow.json
+msgctxt "Duotone name"
+msgid "Duo 1"
+msgstr "Duo 1"
+
+#: theme.json styles/blue-scheme.json styles/colors/blue-scheme.json
+#: styles/colors/cyan-blue.json styles/colors/dark-pink.json
+#: styles/colors/electric-pink.json styles/colors/golden-scheme.json
+#: styles/colors/green-scheme.json styles/colors/lemonlime-scheme.json
+#: styles/colors/magenta.json styles/colors/pink-scheme.json
+#: styles/colors/red.json styles/colors/sky-blue.json styles/colors/teal.json
+#: styles/colors/vibrant-purple.json styles/colors/yellow.json
+#: styles/cyan-blue.json styles/dark-pink.json styles/electric-pink.json
+#: styles/golden-scheme.json styles/green-scheme.json
+#: styles/lemonlime-scheme.json styles/magenta.json styles/pink-scheme.json
+#: styles/red.json styles/sky-blue.json styles/teal.json
+#: styles/vibrant-purple.json styles/yellow.json
+msgctxt "Color name"
+msgid "Transparent"
+msgstr "Transparente"
+
+#: theme.json styles/blue-scheme.json styles/colors/blue-scheme.json
+#: styles/colors/cyan-blue.json styles/colors/dark-pink.json
+#: styles/colors/electric-pink.json styles/colors/golden-scheme.json
+#: styles/colors/green-scheme.json styles/colors/lemonlime-scheme.json
+#: styles/colors/magenta.json styles/colors/pink-scheme.json
+#: styles/colors/red.json styles/colors/sky-blue.json styles/colors/teal.json
+#: styles/colors/vibrant-purple.json styles/colors/yellow.json
+#: styles/cyan-blue.json styles/dark-pink.json styles/electric-pink.json
+#: styles/golden-scheme.json styles/green-scheme.json
+#: styles/lemonlime-scheme.json styles/magenta.json styles/pink-scheme.json
+#: styles/red.json styles/sky-blue.json styles/teal.json
+#: styles/vibrant-purple.json styles/yellow.json
+msgctxt "Color name"
+msgid "Border Color"
+msgstr "Color del borde"
+
+#: theme.json styles/blue-scheme.json styles/colors/blue-scheme.json
+#: styles/colors/cyan-blue.json styles/colors/dark-pink.json
+#: styles/colors/electric-pink.json styles/colors/golden-scheme.json
+#: styles/colors/green-scheme.json styles/colors/lemonlime-scheme.json
+#: styles/colors/magenta.json styles/colors/pink-scheme.json
+#: styles/colors/red.json styles/colors/sky-blue.json styles/colors/teal.json
+#: styles/colors/vibrant-purple.json styles/colors/yellow.json
+#: styles/cyan-blue.json styles/dark-pink.json styles/electric-pink.json
+#: styles/golden-scheme.json styles/green-scheme.json
+#: styles/lemonlime-scheme.json styles/magenta.json styles/pink-scheme.json
+#: styles/red.json styles/sky-blue.json styles/teal.json
+#: styles/vibrant-purple.json styles/yellow.json
+msgctxt "Color name"
+msgid "Meta Color"
+msgstr "Color de los metadatos"
+
+#: theme.json styles/blue-scheme.json styles/colors/blue-scheme.json
+#: styles/colors/cyan-blue.json styles/colors/dark-pink.json
+#: styles/colors/electric-pink.json styles/colors/golden-scheme.json
+#: styles/colors/green-scheme.json styles/colors/lemonlime-scheme.json
+#: styles/colors/magenta.json styles/colors/pink-scheme.json
+#: styles/colors/red.json styles/colors/sky-blue.json styles/colors/teal.json
+#: styles/colors/vibrant-purple.json styles/colors/yellow.json
+#: styles/cyan-blue.json styles/dark-pink.json styles/electric-pink.json
+#: styles/golden-scheme.json styles/green-scheme.json
+#: styles/lemonlime-scheme.json styles/magenta.json styles/pink-scheme.json
+#: styles/red.json styles/sky-blue.json styles/teal.json
+#: styles/vibrant-purple.json styles/yellow.json
+msgctxt "Color name"
+msgid "Foreground Alternative"
+msgstr "Primer plano alternativo"
+
+#: theme.json styles/blue-scheme.json styles/colors/blue-scheme.json
+#: styles/colors/cyan-blue.json styles/colors/dark-pink.json
+#: styles/colors/electric-pink.json styles/colors/golden-scheme.json
+#: styles/colors/green-scheme.json styles/colors/lemonlime-scheme.json
+#: styles/colors/magenta.json styles/colors/pink-scheme.json
+#: styles/colors/red.json styles/colors/sky-blue.json styles/colors/teal.json
+#: styles/colors/vibrant-purple.json styles/colors/yellow.json
+#: styles/cyan-blue.json styles/dark-pink.json styles/electric-pink.json
+#: styles/golden-scheme.json styles/green-scheme.json
+#: styles/lemonlime-scheme.json styles/magenta.json styles/pink-scheme.json
+#: styles/red.json styles/sky-blue.json styles/teal.json
+#: styles/vibrant-purple.json styles/yellow.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "Primer plano"
+
+#: theme.json styles/blue-scheme.json styles/colors/blue-scheme.json
+#: styles/colors/cyan-blue.json styles/colors/dark-pink.json
+#: styles/colors/electric-pink.json styles/colors/golden-scheme.json
+#: styles/colors/green-scheme.json styles/colors/lemonlime-scheme.json
+#: styles/colors/magenta.json styles/colors/pink-scheme.json
+#: styles/colors/red.json styles/colors/sky-blue.json styles/colors/teal.json
+#: styles/colors/vibrant-purple.json styles/colors/yellow.json
+#: styles/cyan-blue.json styles/dark-pink.json styles/electric-pink.json
+#: styles/golden-scheme.json styles/green-scheme.json
+#: styles/lemonlime-scheme.json styles/magenta.json styles/pink-scheme.json
+#: styles/red.json styles/sky-blue.json styles/teal.json
+#: styles/vibrant-purple.json styles/yellow.json
+msgctxt "Color name"
+msgid "Background Alt"
+msgstr "Alt del fondo"
+
+#: theme.json styles/blue-scheme.json styles/colors/blue-scheme.json
+#: styles/colors/cyan-blue.json styles/colors/dark-pink.json
+#: styles/colors/electric-pink.json styles/colors/golden-scheme.json
+#: styles/colors/green-scheme.json styles/colors/lemonlime-scheme.json
+#: styles/colors/magenta.json styles/colors/pink-scheme.json
+#: styles/colors/red.json styles/colors/sky-blue.json styles/colors/teal.json
+#: styles/colors/vibrant-purple.json styles/colors/yellow.json
+#: styles/cyan-blue.json styles/dark-pink.json styles/electric-pink.json
+#: styles/golden-scheme.json styles/green-scheme.json
+#: styles/lemonlime-scheme.json styles/magenta.json styles/pink-scheme.json
+#: styles/red.json styles/sky-blue.json styles/teal.json
+#: styles/vibrant-purple.json styles/yellow.json
+msgctxt "Color name"
+msgid "Background"
+msgstr "Fondo"
+
+#: theme.json styles/blue-scheme.json styles/colors/blue-scheme.json
+#: styles/colors/cyan-blue.json styles/colors/dark-pink.json
+#: styles/colors/electric-pink.json styles/colors/golden-scheme.json
+#: styles/colors/green-scheme.json styles/colors/lemonlime-scheme.json
+#: styles/colors/magenta.json styles/colors/pink-scheme.json
+#: styles/colors/red.json styles/colors/sky-blue.json styles/colors/teal.json
+#: styles/colors/vibrant-purple.json styles/colors/yellow.json
+#: styles/cyan-blue.json styles/dark-pink.json styles/electric-pink.json
+#: styles/golden-scheme.json styles/green-scheme.json
+#: styles/lemonlime-scheme.json styles/magenta.json styles/pink-scheme.json
+#: styles/red.json styles/sky-blue.json styles/teal.json
+#: styles/vibrant-purple.json styles/yellow.json
+msgctxt "Color name"
+msgid "Heading Color"
+msgstr "Color del encabezado"
+
+#: theme.json styles/blue-scheme.json styles/colors/blue-scheme.json
+#: styles/colors/cyan-blue.json styles/colors/dark-pink.json
+#: styles/colors/electric-pink.json styles/colors/golden-scheme.json
+#: styles/colors/green-scheme.json styles/colors/lemonlime-scheme.json
+#: styles/colors/magenta.json styles/colors/pink-scheme.json
+#: styles/colors/red.json styles/colors/sky-blue.json styles/colors/teal.json
+#: styles/colors/vibrant-purple.json styles/colors/yellow.json
+#: styles/cyan-blue.json styles/dark-pink.json styles/electric-pink.json
+#: styles/golden-scheme.json styles/green-scheme.json
+#: styles/lemonlime-scheme.json styles/magenta.json styles/pink-scheme.json
+#: styles/red.json styles/sky-blue.json styles/teal.json
+#: styles/vibrant-purple.json styles/yellow.json
+msgctxt "Color name"
+msgid "Dark Shade"
+msgstr "Sombra oscura"
+
+#: theme.json styles/blue-scheme.json styles/colors/blue-scheme.json
+#: styles/colors/cyan-blue.json styles/colors/dark-pink.json
+#: styles/colors/electric-pink.json styles/colors/golden-scheme.json
+#: styles/colors/green-scheme.json styles/colors/lemonlime-scheme.json
+#: styles/colors/magenta.json styles/colors/pink-scheme.json
+#: styles/colors/red.json styles/colors/sky-blue.json styles/colors/teal.json
+#: styles/colors/vibrant-purple.json styles/colors/yellow.json
+#: styles/cyan-blue.json styles/dark-pink.json styles/electric-pink.json
+#: styles/golden-scheme.json styles/green-scheme.json
+#: styles/lemonlime-scheme.json styles/magenta.json styles/pink-scheme.json
+#: styles/red.json styles/sky-blue.json styles/teal.json
+#: styles/vibrant-purple.json styles/yellow.json
+msgctxt "Color name"
+msgid "Black Color"
+msgstr "Color negro"
+
+#: theme.json styles/blue-scheme.json styles/colors/blue-scheme.json
+#: styles/colors/cyan-blue.json styles/colors/dark-pink.json
+#: styles/colors/electric-pink.json styles/colors/golden-scheme.json
+#: styles/colors/green-scheme.json styles/colors/lemonlime-scheme.json
+#: styles/colors/magenta.json styles/colors/pink-scheme.json
+#: styles/colors/red.json styles/colors/sky-blue.json styles/colors/teal.json
+#: styles/colors/vibrant-purple.json styles/colors/yellow.json
+#: styles/cyan-blue.json styles/dark-pink.json styles/electric-pink.json
+#: styles/golden-scheme.json styles/green-scheme.json
+#: styles/lemonlime-scheme.json styles/magenta.json styles/pink-scheme.json
+#: styles/red.json styles/sky-blue.json styles/teal.json
+#: styles/vibrant-purple.json styles/yellow.json
+msgctxt "Color name"
+msgid "Light Color"
+msgstr "Color claro"
+
+#: theme.json styles/blue-scheme.json styles/colors/blue-scheme.json
+#: styles/colors/cyan-blue.json styles/colors/dark-pink.json
+#: styles/colors/electric-pink.json styles/colors/golden-scheme.json
+#: styles/colors/green-scheme.json styles/colors/lemonlime-scheme.json
+#: styles/colors/magenta.json styles/colors/pink-scheme.json
+#: styles/colors/red.json styles/colors/sky-blue.json styles/colors/teal.json
+#: styles/colors/vibrant-purple.json styles/colors/yellow.json
+#: styles/cyan-blue.json styles/dark-pink.json styles/electric-pink.json
+#: styles/golden-scheme.json styles/green-scheme.json
+#: styles/lemonlime-scheme.json styles/magenta.json styles/pink-scheme.json
+#: styles/red.json styles/sky-blue.json styles/teal.json
+#: styles/vibrant-purple.json styles/yellow.json
+msgctxt "Color name"
+msgid "Secodnary Shade 2"
+msgstr "Sombra secundaria 2"
+
+#: theme.json styles/blue-scheme.json styles/colors/blue-scheme.json
+#: styles/colors/cyan-blue.json styles/colors/dark-pink.json
+#: styles/colors/electric-pink.json styles/colors/golden-scheme.json
+#: styles/colors/green-scheme.json styles/colors/lemonlime-scheme.json
+#: styles/colors/magenta.json styles/colors/pink-scheme.json
+#: styles/colors/red.json styles/colors/sky-blue.json styles/colors/teal.json
+#: styles/colors/vibrant-purple.json styles/colors/yellow.json
+#: styles/cyan-blue.json styles/dark-pink.json styles/electric-pink.json
+#: styles/golden-scheme.json styles/green-scheme.json
+#: styles/lemonlime-scheme.json styles/magenta.json styles/pink-scheme.json
+#: styles/red.json styles/sky-blue.json styles/teal.json
+#: styles/vibrant-purple.json styles/yellow.json
+msgctxt "Color name"
+msgid "Secodnary Shade 1"
+msgstr "Sombra secundaria 1"
+
+#: theme.json styles/blue-scheme.json styles/colors/blue-scheme.json
+#: styles/colors/cyan-blue.json styles/colors/dark-pink.json
+#: styles/colors/electric-pink.json styles/colors/golden-scheme.json
+#: styles/colors/green-scheme.json styles/colors/lemonlime-scheme.json
+#: styles/colors/magenta.json styles/colors/pink-scheme.json
+#: styles/colors/red.json styles/colors/sky-blue.json styles/colors/teal.json
+#: styles/colors/vibrant-purple.json styles/colors/yellow.json
+#: styles/cyan-blue.json styles/dark-pink.json styles/electric-pink.json
+#: styles/golden-scheme.json styles/green-scheme.json
+#: styles/lemonlime-scheme.json styles/magenta.json styles/pink-scheme.json
+#: styles/red.json styles/sky-blue.json styles/teal.json
+#: styles/vibrant-purple.json styles/yellow.json
+msgctxt "Color name"
+msgid "Primary Shade 2"
+msgstr "Sombra principal 2"
+
+#: theme.json styles/blue-scheme.json styles/colors/blue-scheme.json
+#: styles/colors/cyan-blue.json styles/colors/dark-pink.json
+#: styles/colors/electric-pink.json styles/colors/golden-scheme.json
+#: styles/colors/green-scheme.json styles/colors/lemonlime-scheme.json
+#: styles/colors/magenta.json styles/colors/pink-scheme.json
+#: styles/colors/red.json styles/colors/sky-blue.json styles/colors/teal.json
+#: styles/colors/vibrant-purple.json styles/colors/yellow.json
+#: styles/cyan-blue.json styles/dark-pink.json styles/electric-pink.json
+#: styles/golden-scheme.json styles/green-scheme.json
+#: styles/lemonlime-scheme.json styles/magenta.json styles/pink-scheme.json
+#: styles/red.json styles/sky-blue.json styles/teal.json
+#: styles/vibrant-purple.json styles/yellow.json
+msgctxt "Color name"
+msgid "Primary Shade 1"
+msgstr "Sombra principal 1"
+
+#: theme.json styles/blue-scheme.json styles/colors/blue-scheme.json
+#: styles/colors/cyan-blue.json styles/colors/dark-pink.json
+#: styles/colors/electric-pink.json styles/colors/golden-scheme.json
+#: styles/colors/green-scheme.json styles/colors/lemonlime-scheme.json
+#: styles/colors/magenta.json styles/colors/pink-scheme.json
+#: styles/colors/red.json styles/colors/sky-blue.json styles/colors/teal.json
+#: styles/colors/vibrant-purple.json styles/colors/yellow.json
+#: styles/cyan-blue.json styles/dark-pink.json styles/electric-pink.json
+#: styles/golden-scheme.json styles/green-scheme.json
+#: styles/lemonlime-scheme.json styles/magenta.json styles/pink-scheme.json
+#: styles/red.json styles/sky-blue.json styles/teal.json
+#: styles/vibrant-purple.json styles/yellow.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Secundario"
+
+#: theme.json styles/blue-scheme.json styles/colors/blue-scheme.json
+#: styles/colors/cyan-blue.json styles/colors/dark-pink.json
+#: styles/colors/electric-pink.json styles/colors/golden-scheme.json
+#: styles/colors/green-scheme.json styles/colors/lemonlime-scheme.json
+#: styles/colors/magenta.json styles/colors/pink-scheme.json
+#: styles/colors/red.json styles/colors/sky-blue.json styles/colors/teal.json
+#: styles/colors/vibrant-purple.json styles/colors/yellow.json
+#: styles/cyan-blue.json styles/dark-pink.json styles/electric-pink.json
+#: styles/golden-scheme.json styles/green-scheme.json
+#: styles/lemonlime-scheme.json styles/magenta.json styles/pink-scheme.json
+#: styles/red.json styles/sky-blue.json styles/teal.json
+#: styles/vibrant-purple.json styles/yellow.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Principal"
+
+#: styles/blue-scheme.json styles/colors/blue-scheme.json
+msgctxt "Style variation name"
+msgid "BLUE SCHEME"
+msgstr "COMBINACIÓN AZUL"
+
+#: patterns/testimonials-grid.php
+msgctxt "Pattern title"
+msgid "Testimonials Grid"
+msgstr "Cuadrícula de recomendaciones"
+
+#: patterns/testimonial-section.php:139 patterns/testimonials-grid-3.php:175
+#: patterns/testimonials-grid.php:319
+msgid "View All Reviews"
+msgstr "Ver todas las reseñas"
+
+#: patterns/testimonial-section.php:92
+msgid "Content Writer"
+msgstr "Redactor de contenido"
+
+#: patterns/testimonial-section.php:88
+msgid "Lexy Coxtera"
+msgstr "Lexy Coxtera"
+
+#: patterns/testimonial-section.php:60
+msgid "Fitness Coach"
+msgstr "Preparador físico"
+
+#: patterns/testimonial-section.php:56
+msgid "Henry Benzamin Clark"
+msgstr "Henry Benzamin Clark"
+
+#: patterns/testimonial-section.php:46 patterns/testimonial-section.php:78
+#: patterns/testimonial-section.php:110
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco."
+
+#: patterns/testimonial-section.php:29 patterns/testimonials-grid-3.php:30
+#: patterns/testimonials-grid.php:35
+msgid "Hear From Our Happy Clients: Their Stories"
+msgstr "Escucha a nuestros clientes satisfechos: sus historias"
+
+#: patterns/testimonial-section.php:21 patterns/testimonials-grid-3.php:22
+#: patterns/testimonials-grid.php:27
+msgid "Testimonials &amp; Reviews"
+msgstr "Recomendaciones y reseñas"
+
+#: patterns/testimonial-section.php
+msgctxt "Pattern title"
+msgid "Testimonial Section"
+msgstr "Sección de recomendaciones"
+
+#: patterns/testimonial-section.php:124
+msgid "Product Owner"
+msgstr "Propietario del producto"
+
+#: patterns/template-404.php:57
+msgid "Posts"
+msgstr "Entradas"
+
+#: patterns/template-404.php:39
+msgid "Pages"
+msgstr "Páginas"
+
+#: patterns/template-404.php:29
+msgid "Something went wrong! We couldn’t find the page you were looking for. But don’t worry, we’ve got some other Links that might be helpful:"
+msgstr "¡Algo ha ido mal! No hemos podido encontrar la página que estabas buscando. Pero no te preocupes, tenemos otros enlaces que podrían serte útiles:"
+
+#: patterns/template-404.php:25
+msgid "Helpful Link"
+msgstr "Enlaces útiles"
+
+#: patterns/template-404.php:16
+msgid "OOPS! Page Not Found!"
+msgstr "¡Vaya! ¡Página no encontrada!"
+
+#: patterns/template-404.php:12
+msgid "404"
+msgstr "404"
+
+#: patterns/template-404.php
+msgctxt "Pattern title"
+msgid "404 Template"
+msgstr "Plantilla 404"
+
+#: patterns/testimonial-section.php:120 patterns/testimonials-grid-3.php:81
+msgid "Robert Mathew"
+msgstr "Robert Mathew"
+
+#: patterns/testimonials-grid.php:148
+msgid "Product Manager"
+msgstr "Director de producto"
+
+#: patterns/testimonials-grid.php:116
+msgid "Founder"
+msgstr "Fundador"
+
+#: patterns/team-section-2.php:41 patterns/team-section-3.php:36
+#: patterns/team-section.php:33 patterns/testimonials-grid.php:112
+msgid "John Doe"
+msgstr "Juan Pérez"
+
+#: patterns/team-section-2.php:19 patterns/team-section-3.php:19
+#: patterns/team-section.php:18
+msgid "Meet Our Team"
+msgstr "Conoce a nuestro equipo"
+
+#: patterns/team-section.php
+msgctxt "Pattern title"
+msgid "Team Section"
+msgstr "Sección Equipo"
+
+#: patterns/sidebar-default.php:109 patterns/template-404.php:48
+msgid "Categories"
+msgstr "Categorías"
+
+#: patterns/sidebar-default.php:72
+msgid "Latest Posts"
+msgstr "Últimas entradas"
+
+#: patterns/sidebar-default.php:17
+msgid "Search"
+msgstr "Buscar"
+
+#: patterns/sidebar-default.php
+msgctxt "Pattern title"
+msgid "Sidebar Default"
+msgstr "Barra lateral por defecto"
+
+#: patterns/features-grid-2.php:22
+msgid "Ensure You Receive High-Quality Services"
+msgstr "Asegurarnos de que recibes servicios de alta calidad"
+
+#: patterns/mission-goal.php:43 patterns/service-grid.php:50
+#: patterns/service-grid.php:68 patterns/service-grid.php:89
+#: patterns/service-grid.php:107
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+
+#: patterns/service-grid.php
+msgctxt "Pattern title"
+msgid "Service Grid"
+msgstr "Cuadrícula de servicios"
+
+#: patterns/service-content.php:109
+msgid "Startup Consulting"
+msgstr "Consultoría para startups"
+
+#: patterns/service-content.php:82
+msgid "Digital MArketing"
+msgstr "Marketing digital"
+
+#: patterns/service-content.php:29
+msgid "Your Business"
+msgstr "Tu negocio"
+
+#: patterns/service-content.php:29
+msgid "Solutions to Empower"
+msgstr "Soluciones para potenciar"
+
+#: patterns/service-content.php:29
+msgid "End-to-End"
+msgstr "De extremo a extremo"
+
+#: patterns/service-content.php:21 patterns/service-grid-3.php:23
+#: patterns/service-grid-4.php:20 patterns/services-grid-2.php:23
+msgid "Our Services"
+msgstr "Nuestros servicios"
+
+#: patterns/service-content.php
+msgctxt "Pattern title"
+msgid "Service Section with big Image"
+msgstr "Sección de servicios con imagen grande"
+
+#: patterns/profile-links-card.php:44
+msgid "Support and Donation Link"
+msgstr "Enlace de apoyo y donación"
+
+#: patterns/profile-links-card.php:40
+msgid "Visit My Courses"
+msgstr "Visitar mis cursos"
+
+#: patterns/profile-links-card.php:36
+msgid "Explore My Portfolios"
+msgstr "Explorar mis porfolios"
+
+#: patterns/profile-links-card.php:32
+msgid "Download My CV"
+msgstr "Descargar mi CV"
+
+#: patterns/profile-links-card.php:28
+msgid "Visit My Website"
+msgstr "Visita mi sitio web"
+
+#: patterns/profile-links-card.php:19 patterns/sidebar-default.php:32
+msgid "Rozita Brandson"
+msgstr "Rozita Brandson"
+
+#: patterns/profile-links-card.php
+msgctxt "Pattern title"
+msgid "Profile Links Card"
+msgstr "Tarjeta de enlaces de perfil"
+
+#: patterns/pricing-tables-2.php:170 patterns/pricing-tables.php:170
+msgid "Unlimited"
+msgstr "Ilimitado"
+
+#: patterns/pricing-tables-2.php:160 patterns/pricing-tables.php:160
+msgid "$449"
+msgstr "449 $"
+
+#: patterns/pricing-tables-2.php:108 patterns/pricing-tables.php:108
+#: patterns/testimonials-grid.php:238
+msgid "Freelancer"
+msgstr "Autónomo"
+
+#: patterns/pricing-tables-2.php:98 patterns/pricing-tables.php:98
+msgid "$149"
+msgstr "149 $"
+
+#: patterns/pricing-tables-2.php:83 patterns/pricing-tables-2.php:145
+#: patterns/pricing-tables-2.php:207 patterns/pricing-tables.php:83
+#: patterns/pricing-tables.php:145 patterns/pricing-tables.php:207
+msgid "6 Months Priority Support"
+msgstr "6 meses de soporte prioritario"
+
+#: patterns/pricing-tables-2.php:79 patterns/pricing-tables-2.php:141
+#: patterns/pricing-tables-2.php:203 patterns/pricing-tables.php:79
+#: patterns/pricing-tables.php:141 patterns/pricing-tables.php:203
+msgid "Outcome Reporting"
+msgstr "Informes de resultados"
+
+#: patterns/pricing-tables-2.php:75 patterns/pricing-tables-2.php:137
+#: patterns/pricing-tables-2.php:199 patterns/pricing-tables.php:75
+#: patterns/pricing-tables.php:137 patterns/pricing-tables.php:199
+msgid "Role Based Permissions"
+msgstr "Permisos basados en perfiles"
+
+#: patterns/pricing-tables-2.php:71 patterns/pricing-tables-2.php:133
+#: patterns/pricing-tables-2.php:195 patterns/pricing-tables.php:71
+#: patterns/pricing-tables.php:133 patterns/pricing-tables.php:195
+msgid "Services Level Agreement Rules"
+msgstr "Normas del acuerdo de nivel de servicios"
+
+#: patterns/pricing-tables-2.php:67 patterns/pricing-tables-2.php:129
+#: patterns/pricing-tables-2.php:191 patterns/pricing-tables.php:67
+#: patterns/pricing-tables.php:129 patterns/pricing-tables.php:191
+msgid "Ticketing Workflows"
+msgstr "Gestión de asistencia"
+
+#: patterns/pricing-tables-2.php:63 patterns/pricing-tables-2.php:125
+#: patterns/pricing-tables-2.php:187 patterns/pricing-tables.php:63
+#: patterns/pricing-tables.php:125 patterns/pricing-tables.php:187
+msgid "Live Chat for Support"
+msgstr "Chat de soporte en directo"
+
+#: patterns/pricing-tables-2.php:50 patterns/pricing-tables-2.php:112
+#: patterns/pricing-tables-2.php:174 patterns/pricing-tables.php:50
+#: patterns/pricing-tables.php:112 patterns/pricing-tables.php:174
+#: patterns/service-grid.php:33
+msgid "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries."
+msgstr "Lorem ipsum es un texto de marcador de posición que se utiliza habitualmente en la industria editorial."
+
+#: patterns/pricing-tables-2.php:46 patterns/pricing-tables.php:46
+msgid "Basic"
+msgstr "Básico"
+
+#: patterns/pricing-tables-2.php:40 patterns/pricing-tables-2.php:102
+#: patterns/pricing-tables-2.php:164 patterns/pricing-tables.php:40
+#: patterns/pricing-tables.php:102 patterns/pricing-tables.php:164
+msgid "/Year"
+msgstr "/Año"
+
+#: patterns/pricing-tables-2.php:36 patterns/pricing-tables.php:36
+msgid "$49"
+msgstr "49 $"
+
+#: patterns/pricing-tables.php:22
+msgid "Find the Best Fit for You!"
+msgstr "¡Encuentra la mejor opción para ti!"
+
+#: patterns/pricing-tables-2.php:14 patterns/pricing-tables.php:14
+msgid "Pricing &amp; Plans"
+msgstr "Precios y planes"
+
+#: patterns/pricing-tables.php
+msgctxt "Pattern title"
+msgid "Pricing Tables"
+msgstr "Tablas de precios"
+
+#: inc/admin/pages/getting-started.php:855
+msgid "Photo Gallery"
+msgstr "Galería de fotos"
+
+#: patterns/mission-goal.php:31
+msgid "Our Mission &amp; Goal"
+msgstr "Nuestra misión y objetivo"
+
+#: patterns/mission-goal.php
+msgctxt "Pattern title"
+msgid "Mission & Goal Content"
+msgstr "Contenido de la misión y los objetivos"
+
+#: patterns/logo-showcase.php
+msgctxt "Pattern title"
+msgid "Logos Showcase"
+msgstr "Escaparate de logotipos"
+
+#: patterns/latest-work.php:77
+msgid "Read More"
+msgstr "Leer más"
+
+#: patterns/latest-work.php:42 patterns/latest-work.php:68
+msgid "Portfolio Title"
+msgstr "Título del porfolio"
+
+#: patterns/latest-work.php
+msgctxt "Pattern title"
+msgid "Latest Works Section"
+msgstr "Sección de trabajos recientes"
+
+#: patterns/latest-post.php
+msgctxt "Pattern title"
+msgid "Latest News and Articles"
+msgstr "Últimas noticias y artículos"
+
+#: patterns/latest-post-with-sticky-section.php:23
+msgid "Explore More Articles"
+msgstr "Explorar más artículos"
+
+#: patterns/latest-post-with-sticky-section.php:18
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua  Ut enim ad minim veniam."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua  Ut enim ad minim veniam."
+
+#: patterns/latest-post-with-sticky-section.php
+msgctxt "Pattern title"
+msgid "Latest News and Articles with Sticky Section"
+msgstr "Últimas noticias y artículos con sección fija"
+
+#: patterns/latest-post-grid.php:12
+#: patterns/latest-post-with-sticky-section.php:14 patterns/latest-post.php:12
+msgid "Latest News &amp; Articles"
+msgstr "Últimas noticias y artículos"
+
+#: patterns/header-default.php
+msgctxt "Pattern title"
+msgid "Header Default"
+msgstr "Cabecera por defecto"
+
+#: patterns/header-archive.php
+msgctxt "Pattern title"
+msgid "Header for Archive"
+msgstr "Cabecera para el archivo"
+
+#: patterns/footer-default.php:149 patterns/footer-layout.php:230
+#: patterns/footer-minimal-cta.php:60 patterns/footer-with-cta.php:63
+msgid "Scroll to Top"
+msgstr "Desplazarse hacia arriba"
+
+#: patterns/footer-default.php:140 patterns/footer-minimal-cta.php:35
+#: patterns/footer-with-cta.php:40
+msgid "Proudly powered by WordPress | SaasLauncher by CozyThemes."
+msgstr "Funciona gracias a WordPress | SaasLauncher de CozyThemes."
+
+#: patterns/footer-layout.php:142
+msgid "14th Street, Caltech, New Jersey, Alabama"
+msgstr "Calle 14, Caltech, Nueva Jersey, Alabama"
+
+#: patterns/features-section-2.php:31 patterns/footer-layout.php:114
+#: patterns/job-board.php:197 patterns/service-list-2.php:72
+#: patterns/services-grid-2.php:83
+msgid "Digital Marketing"
+msgstr "Marketing digital"
+
+#: patterns/features-section-2.php:73 patterns/footer-layout.php:110
+#: patterns/services-grid-2.php:206
+msgid "Business Strategy"
+msgstr "Estrategia empresarial"
+
+#: patterns/footer-layout.php:106
+msgid "UI/UX Design"
+msgstr "Diseño de UI/UX"
+
+#: patterns/footer-layout.php:102 patterns/portfolio-gallery.php:60
+msgid "CRM Integration"
+msgstr "Integración con CRM"
+
+#: patterns/footer-layout.php:98
+msgid "SaaS Application"
+msgstr "Aplicación SaaS"
+
+#: patterns/footer-default.php:87 patterns/footer-layout.php:93
+msgid "Services"
+msgstr "Servicios"
+
+#: patterns/footer-default.php:65 patterns/footer-layout.php:84
+#: patterns/footer-layout.php:127
+msgid "Contact Us"
+msgstr "Contacta con nosotros"
+
+#: patterns/footer-default.php:61 patterns/footer-layout.php:80
+msgid "Blog"
+msgstr "Blog"
+
+#: patterns/footer-default.php:57 patterns/footer-layout.php:76
+msgid "Career"
+msgstr "Carrera"
+
+#: patterns/footer-layout.php:72
+msgid "Terms and Conditions"
+msgstr "Términos y condiciones"
+
+#: patterns/footer-layout.php:68
+msgid "Policy"
+msgstr "Política"
+
+#: patterns/footer-default.php:53 patterns/footer-layout.php:64
+msgid "About Us"
+msgstr "Quiénes somos"
+
+#: patterns/footer-default.php:74
+msgid "Quick Links"
+msgstr "Enlaces rápidos"
+
+#: patterns/footer-layout.php:35
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+
+#: patterns/footer-default.php
+msgctxt "Pattern title"
+msgid "Footer Default"
+msgstr "Pie de página por defecto"
+
+#: patterns/features-section.php:29 patterns/features-section.php:47
+#: patterns/features-section.php:65 patterns/features-section.php:83
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor."
+
+#: patterns/features-section.php
+msgctxt "Pattern title"
+msgid "Features Section"
+msgstr "Sección de características"
+
+#: patterns/latest-post-grid.php:16 patterns/latest-post.php:16
+#: patterns/pricing-tables.php:26 patterns/service-grid-3.php:52
+#: patterns/service-grid-3.php:70 patterns/service-grid-3.php:88
+#: patterns/service-grid-3.php:109 patterns/service-grid-3.php:127
+#: patterns/service-grid-3.php:145 patterns/service-grid-4.php:49
+#: patterns/service-grid-4.php:67 patterns/service-grid-4.php:85
+#: patterns/services-section.php:64 patterns/services-section.php:82
+#: patterns/services-section.php:103 patterns/services-section.php:121
+#: patterns/services-section.php:142 patterns/services-section.php:160
+#: patterns/team-section-2.php:23 patterns/team-section-3.php:23
+#: patterns/team-section.php:22
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+#: patterns/service-grid.php:29 patterns/services-grid-2.php:31
+msgid "End-to-End Solutions to Empower Your Business"
+msgstr "Soluciones integrales para potenciar tu negocio"
+
+#: patterns/services-section.php:25
+msgid "Features &amp; Benefits"
+msgstr "Características y ventajas"
+
+#: patterns/features-section-2.php:52 patterns/footer-layout.php:118
+#: patterns/service-list-2.php:41 patterns/services-grid-2.php:53
+msgid "Branding"
+msgstr "Imagen de marca"
+
+#: patterns/featured-content.php
+msgctxt "Pattern title"
+msgid "Featured Content"
+msgstr "Contenido destacado"
+
+#: patterns/about-2.php:35 patterns/featured-content-2.php:37
+#: patterns/featured-content-2.php:64
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+
+#: patterns/featured-content-2.php:33 patterns/featured-content-2.php:60
+#: patterns/service-content.php:55
+msgid "Social Media and Brand identity"
+msgstr "Medios sociales e identidad de marca"
+
+#: patterns/featured-content-2.php
+msgctxt "Pattern title"
+msgid "Featured Content 2"
+msgstr "Contenido destacado 2"
+
+#: patterns/faq-section.php:11
+msgid "Frequently Asked Question"
+msgstr "Preguntas frecuentes"
+
+#: patterns/faq-section.php
+msgctxt "Pattern title"
+msgid "FAQ Section"
+msgstr "Sección de FAQ"
+
+#: patterns/faq-accordion-2.php:75 patterns/faq-accordion-3.php:97
+#: patterns/faq-accordion.php:80 patterns/faq-section.php:70
+msgid "Some popular WordPress themes that support Full Site Editing include the FotaWP Theme, ReviveNews Theme, and the Hello Agency Theme. These themes have built-in support for Full Site Editing, allowing users to create custom designs without needing to know how to code."
+msgstr "Algunos temas populares de WordPress compatibles con edición completa del sitio son el tema FotaWP, el tema ReviveNews y el tema Hello Agency. Estos temas son compatibles de forma nativa con edición completa del sitio, lo que permite a los usuarios crear diseños personalizados sin necesidad de saber programar."
+
+#: patterns/faq-accordion-2.php:74 patterns/faq-accordion-3.php:96
+#: patterns/faq-accordion.php:79 patterns/faq-section.php:64
+msgid "What are some popular WordPress themes that support Full Site Editing?"
+msgstr "¿Cuáles son algunos temas populares de WordPress que admiten la edición completa del sitio?"
+
+#: patterns/faq-accordion-2.php:51 patterns/faq-accordion-2.php:67
+#: patterns/faq-accordion-3.php:73 patterns/faq-accordion-3.php:89
+#: patterns/faq-accordion.php:56 patterns/faq-accordion.php:72
+#: patterns/faq-section.php:39
+msgid "To enable Full Site Editing in WordPress, you need to ensure that you are using a compatible WordPress theme that supports Full Site Editing. You will also need to install the latest version of WordPress and enable the Gutenberg editor."
+msgstr "Para activar la edición completa del sitio en WordPress, debes asegurarte de que estás utilizando un tema de WordPress compatible que admita la edición completa del sitio. También necesitarás instalar la última versión de WordPress y activar el editor Gutenberg."
+
+#: patterns/faq-accordion-2.php:50 patterns/faq-accordion-2.php:66
+#: patterns/faq-accordion-3.php:72 patterns/faq-accordion-3.php:88
+#: patterns/faq-accordion.php:55 patterns/faq-accordion.php:71
+#: patterns/faq-section.php:33
+msgid "How do I enable Full Site Editing in WordPress?"
+msgstr "¿Cómo activo la edición completa del sitio en WordPress?"
+
+#: patterns/faq-accordion-2.php:43 patterns/faq-accordion-2.php:59
+#: patterns/faq-accordion-2.php:83 patterns/faq-accordion-3.php:65
+#: patterns/faq-accordion-3.php:81 patterns/faq-accordion-3.php:105
+#: patterns/faq-accordion.php:48 patterns/faq-accordion.php:64
+#: patterns/faq-accordion.php:88 patterns/faq-section.php:25
+msgid "Full Site Editing in WordPress refers to a feature that allows users to create and edit their website’s entire layout, including the header, footer, and other structural elements, using a visual editor."
+msgstr "La edición completa del sitio en WordPress se refiere a una característica que permite a los usuarios crear y editar el diseño completo de sus sitios web, incluyendo la cabecera, el pie de página y otros elementos estructurales, utilizando un editor visual."
+
+#: patterns/faq-accordion-2.php:42 patterns/faq-accordion-2.php:58
+#: patterns/faq-accordion-2.php:82 patterns/faq-accordion-3.php:64
+#: patterns/faq-accordion-3.php:80 patterns/faq-accordion-3.php:104
+#: patterns/faq-accordion.php:47 patterns/faq-accordion.php:63
+#: patterns/faq-accordion.php:87 patterns/faq-section.php:50
+msgid "What are the benefits of Full Site Editing in WordPress?"
+msgstr "¿Cuáles son las ventajas de la edición completa del sitio en WordPress?"
+
+#: patterns/faq-accordion-2.php:35 patterns/faq-accordion-3.php:57
+#: patterns/faq-accordion.php:40 patterns/faq-section.php:56
+msgid "Full Site Editing in WordPress allows users to create and edit their website more efficiently and with more control. It enables users to create unique and custom designs without needing to have advanced coding skills."
+msgstr "La edición completa del sitio en WordPress permite a los usuarios crear y editar su sitio web de manera más eficiente y con más control. Permite a los usuarios crear diseños únicos y personalizados sin necesidad de tener habilidades avanzadas de programación."
+
+#: patterns/faq-accordion-2.php:34 patterns/faq-accordion-3.php:56
+#: patterns/faq-accordion.php:39 patterns/faq-section.php:19
+msgid "What is Full Site Editing in WordPress?"
+msgstr "¿Qué es la edición completa del sitio en WordPress?"
+
+#: patterns/faq-accordion.php
+msgctxt "Pattern title"
+msgid "FAQ Accordion"
+msgstr "FAQ Acordeón"
+
+#: patterns/cta-block.php
+msgctxt "Pattern title"
+msgid "Call to Action"
+msgstr "Llamada a la acción"
+
+#: patterns/cta-block-3.php
+msgctxt "Pattern title"
+msgid "Call to Action 3"
+msgstr "Llamada a la acción 3"
+
+#: patterns/cta-block-2.php:25
+msgid "Schedule Quick Call"
+msgstr "Programar llamada rápida"
+
+#: patterns/cta-block-2.php:13
+msgid "Boost Your Online Presence Today!"
+msgstr "¡Impulsa hoy tu presencia en Internet!"
+
+#: patterns/cta-block-2.php
+msgctxt "Pattern title"
+msgid "Call to Action 2"
+msgstr "Llamada a la acción 2"
+
+#: patterns/counter-with-desc.php:70 patterns/number-stats.php:82
+msgid "100K+"
+msgstr "Más de 100 mil"
+
+#: patterns/counter-with-desc.php:57 patterns/number-stats.php:69
+msgid "Products Download"
+msgstr "Descarga de productos"
+
+#: patterns/counter-with-desc.php:52 patterns/number-stats.php:64
+msgid "10M+"
+msgstr "Más de 10 millones"
+
+#: patterns/counter-with-desc.php:22 patterns/counter-with-desc.php:40
+#: patterns/counter-with-desc.php:61 patterns/counter-with-desc.php:79
+#: patterns/mission-vision.php:42 patterns/mission-vision.php:73
+#: patterns/number-stats.php:18 patterns/number-stats.php:37
+#: patterns/number-stats.php:55 patterns/number-stats.php:73
+#: patterns/number-stats.php:91
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+
+#: patterns/counter-with-desc.php:13 patterns/download-info.php:131
+#: patterns/number-stats.php:28
+msgid "100+"
+msgstr "Más de 100"
+
+#: patterns/counter-with-desc.php
+msgctxt "Pattern title"
+msgid "Counter Block with Description"
+msgstr "Bloque contador con descripción"
+
+#: patterns/counter-block.php:52 patterns/counter-with-desc.php:75
+#: patterns/number-stats.php:87
+msgid "Happy Customers"
+msgstr "Clientes satisfechos"
+
+#: patterns/counter-block.php:48
+msgid "1M+"
+msgstr "Más de 1 millón"
+
+#: patterns/counter-block.php:41
+msgid "Project Completed"
+msgstr "Proyecto completado"
+
+#: patterns/counter-block.php:37
+msgid "1000+"
+msgstr "Más de 1000"
+
+#: patterns/counter-block.php:30 patterns/counter-with-desc.php:18
+#: patterns/number-stats.php:33
+msgid "Experts Team"
+msgstr "Equipo de expertos"
+
+#: patterns/counter-block.php:26 patterns/download-info.php:142
+msgid "50+"
+msgstr "Más de 50"
+
+#: patterns/counter-block.php:19 patterns/counter-with-desc.php:36
+#: patterns/number-stats.php:51
+msgid "Years in Industry"
+msgstr "Años en el sector"
+
+#: patterns/counter-block.php:15 patterns/counter-with-desc.php:31
+#: patterns/number-stats.php:46
+msgid "20+"
+msgstr "Más de 20"
+
+#: patterns/counter-block.php
+msgctxt "Pattern title"
+msgid "Counter Blocks"
+msgstr "Bloques de contador"
+
+#: patterns/contact-page.php:88 patterns/contact-with-form.php:61
+msgid "Please insert the contact form shortcode here to display the form."
+msgstr "Inserta aquí el shortcode del formulario de contacto para mostrar el formulario."
+
+#: patterns/contact-page.php:64 patterns/contact-with-form.php:52
+msgid "email@example.com"
+msgstr "correoelectronico@ejemplo.com"
+
+#: patterns/contact-page.php:60 patterns/contact-with-form.php:48
+msgid "Email:"
+msgstr "Correo electrónico:"
+
+#: patterns/contact-page.php:53 patterns/contact-with-form.php:41
+msgid "+1 (012) 345-6789"
+msgstr "+1 (012) 345-6789"
+
+#: patterns/contact-page.php:49 patterns/contact-with-form.php:37
+msgid "Phone:"
+msgstr "Teléfono:"
+
+#: patterns/contact-page.php:42 patterns/contact-with-form.php:30
+msgid "2824 Fleming Street, Montgomery"
+msgstr "Calle Fleming 2824, Montgomery"
+
+#: patterns/contact-page.php:38 patterns/contact-with-form.php:26
+msgid "Address:"
+msgstr "Dirección:"
+
+#: patterns/contact-page.php:29 patterns/contact-with-form.php:17
+#: patterns/cta-block-2.php:17 patterns/cta-block.php:27
+#: patterns/download-info.php:33 patterns/faq-accordion-2.php:26
+#: patterns/faq-accordion-3.php:48 patterns/faq-accordion.php:28
+#: patterns/featured-content.php:33 patterns/featured-content.php:68
+#: patterns/featured-content.php:105 patterns/featured-content.php:166
+#: patterns/latest-work.php:46 patterns/latest-work.php:72
+#: patterns/portfolio-gallery-2.php:24 patterns/portfolio-gallery-3.php:25
+#: patterns/portfolio-gallery.php:23 patterns/pricing-tables-2.php:26
+#: patterns/profile-links-card.php:23 patterns/service-content.php:33
+#: patterns/service-content.php:59 patterns/service-content.php:86
+#: patterns/service-content.php:113 patterns/service-grid-3.php:35
+#: patterns/service-grid-4.php:32 patterns/services-grid-2.php:35
+#: patterns/services-grid-2.php:57 patterns/services-grid-2.php:87
+#: patterns/services-grid-2.php:117 patterns/services-grid-2.php:150
+#: patterns/services-grid-2.php:180 patterns/services-grid-2.php:210
+#: patterns/services-list.php:18 patterns/services-section.php:37
+#: patterns/team-section-3.php:44 patterns/team-section-3.php:75
+#: patterns/team-section-3.php:106 patterns/team-section-3.php:137
+#: patterns/testimonial-section.php:33 patterns/testimonials-grid-3.php:34
+#: patterns/testimonials-grid.php:39
+msgid "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+msgstr "Lorem ipsum es un texto de marcador de posición que suele utilizarse en las industrias gráfica, editorial y de impresión para previsualizar diseños y maquetas visuales."
+
+#: patterns/contact-page.php:25 patterns/contact-with-form.php:13
+msgid "Keep in Touch"
+msgstr "Mantente en contacto"
+
+#: patterns/contact-with-form.php
+msgctxt "Pattern title"
+msgid "Contact with Form"
+msgstr "Contacto con formulario"
+
+#: patterns/banner-with-dashboard.php:49
+msgid "Start Free Trial"
+msgstr "Empezar periodo de prueba gratuito"
+
+#: patterns/about-us.php:36 patterns/latest-work.php:29
+#: patterns/mission-goal.php:48 patterns/services-grid-2.php:62
+#: patterns/services-grid-2.php:92 patterns/services-grid-2.php:122
+#: patterns/services-grid-2.php:155 patterns/services-grid-2.php:185
+#: patterns/services-grid-2.php:215
+msgid "Explore More"
+msgstr "Explorar más"
+
+#: patterns/about-us.php:31
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore."
+
+#: patterns/about-us.php:27 patterns/mission-goal.php:39
+msgid "Building Smarter Solutions: SaaS Experts"
+msgstr "Crear soluciones más inteligentes: expertos en SaaS"
+
+#: patterns/about-2.php:20 patterns/about-us.php:19
+msgid "Our Story"
+msgstr "Nuestra historia"
+
+#: patterns/about-us.php
+msgctxt "Pattern title"
+msgid "About Us Section"
+msgstr "Sección «Quiénes somos»"
+
+#: inc/core/block-style.php:405
+msgid "Unset Overflow"
+msgstr "Desbordamiento"
+
+#: inc/core/block-style.php:391 inc/core/block-style.php:398
+msgid "Hide Bullet Style"
+msgstr "Ocultar estilo con viñetas"
+
+#: inc/core/block-style.php:384
+msgid "Border Style"
+msgstr "Estilo del borde"
+
+#: inc/core/block-style.php:377
+msgid "Enable Grayscale Mode on Image"
+msgstr "Activar el modo de escala de grises en la imagen"
+
+#: inc/core/block-style.php:368
+msgid "Check Circle white"
+msgstr "Circulo de comprobación blanco"
+
+#: inc/core/block-style.php:354
+msgid "Check Circle Primary"
+msgstr "Círculo de comprobación principal"
+
+#: inc/core/block-style.php:347
+msgid "Hide bullet"
+msgstr "Ocultar la viñeta"
+
+#: inc/core/block-style.php:339
+msgid "Hover: secondary Fill"
+msgstr "Al pasar el cursor: relleno secundario"
+
+#: inc/core/block-style.php:332
+msgid "Hover: Primary Fill"
+msgstr "Al pasar el cursor: relleno principal"
+
+#: inc/core/block-style.php:303
+msgid "Translate On Hover"
+msgstr "Traducir al pasar el cursor"
+
+#: inc/core/block-style.php:83 inc/core/block-style.php:282
+msgid "Gradient Border"
+msgstr "Borde degradado"
+
+#: inc/core/block-style.php:275
+msgid "Upward Arrow Icon"
+msgstr "Icono de flecha hacia arriba"
+
+#: inc/core/block-style.php:268
+msgid "Arrow Icon"
+msgstr "Icono de flecha"
+
+#: inc/core/block-style.php:254
+msgid "Hover: Secondary color fill"
+msgstr "A pasar el cursor: relleno de color secundario"
+
+#: inc/core/block-style.php:247
+msgid "Hover: Primary color fill"
+msgstr "Al pasar el cursor: color de relleno principal"
+
+#: inc/core/block-style.php:240 inc/core/block-style.php:325
+msgid "Hover: Secondary Color"
+msgstr "Al pasar el cursor: color secundario"
+
+#: inc/core/block-style.php:233 inc/core/block-style.php:318
+msgid "Hover: Primary Color"
+msgstr "Al pasar el cursor: color principal"
+
+#: inc/core/block-style.php:226
+msgid "Hover: Secondary color"
+msgstr "Al pasar el cursor: color secundario"
+
+#: inc/core/block-style.php:219
+msgid "Hover: Primary color"
+msgstr "Al pasar el cursor: color principal"
+
+#: inc/core/block-style.php:211
+msgid "Background with round corner style"
+msgstr "Fondo con estilo de esquinas redondeadas"
+
+#: inc/core/block-style.php:160 inc/core/block-style.php:310
+msgid "Zoom On Hover"
+msgstr "Ampliar al pasar el cursor"
+
+#: inc/core/block-style.php:153
+msgid "Rotate On Hover"
+msgstr "Rotar al pasar el cursor"
+
+#: inc/core/block-style.php:146
+msgid "Pulse Effect on Hover"
+msgstr "Efecto de pulso al pasar el cursor"
+
+#: inc/core/block-style.php:139 inc/core/block-style.php:174
+#: inc/core/block-style.php:182 inc/core/block-style.php:190
+msgid "Box Shadow on Hover"
+msgstr "Sombra de caja al pasar el cursor"
+
+#: inc/core/block-style.php:132
+msgid "Image Pulse Effect"
+msgstr "Efecto de pulso para imagen"
+
+#: inc/core/block-style.php:76
+msgid "Box Shadow Larger"
+msgstr "Sombra de caja más grande"
+
+#: inc/core/block-style.php:48 inc/core/block-style.php:125
+msgid "Box Shadow Large"
+msgstr "Sombra de caja grande"
+
+#: inc/core/block-style.php:41 inc/core/block-style.php:69
+#: inc/core/block-style.php:118
+msgid "Box Shadow Medium"
+msgstr "Sombra de caja media"
+
+#: inc/core/block-style.php:26 inc/core/block-style.php:34
+#: inc/core/block-style.php:62 inc/core/block-style.php:111
+msgid "Box Shadow"
+msgstr "Sombra de caja"
+
+#: inc/core/block-patterns.php:20
+msgid "Homepage Templates"
+msgstr "Plantillas de página de inicio"
+
+#: inc/admin/pages/getting-started.php:826
+msgid "WooCommerce Blocks"
+msgstr "Bloques de WooCommerce"
+
+#: inc/core/block-patterns.php:32
+msgid "Pricing Tables"
+msgstr "Tablas de precios"
+
+#: inc/admin/pages/setup-instructions.php:51
+msgid "Restore/Reset Default Content Layout of Template Parts (Header/Footer/Sidebar)"
+msgstr "Restaurar/Restablecer el diseño del contenido por defecto de las partes de plantilla (cabecera/pie de página/barra lateral)"
+
+#: inc/admin/pages/setup-instructions.php:42
+msgid "Restore/Reset Default Content Layout of Template (Frontpage/Blog/Archive etc.)"
+msgstr "Restaurar/Restablecer el diseño del contenido por defecto de la plantilla (portada/blog/archivo, etc.)"
+
+#: inc/admin/pages/setup-instructions.php:24
+msgid "Setup Footer Layout"
+msgstr "Configurar el diseño del pie de página"
+
+#: inc/admin/pages/setup-instructions.php:5
+msgid "Setup Header Layout"
+msgstr "Configurar el diseño de la cabecera"
+
+#: inc/admin/pages/setup-instructions.php:2
+msgid "Basic Theme Setup"
+msgstr "Configuración básica del tema"
+
+#: inc/admin/pages/recommended-plugins.php:91
+msgid "Install & Activate"
+msgstr "Instalar y activar"
+
+#: patterns/download-info.php:21 patterns/header-archive.php:28
+#: patterns/header-minimal-light.php:28 patterns/header-minimal.php:28
+#: patterns/pricing-tables-2.php:55 patterns/pricing-tables-2.php:117
+#: patterns/pricing-tables-2.php:179 patterns/pricing-tables.php:55
+#: patterns/pricing-tables.php:117 patterns/pricing-tables.php:179
+msgid "Get Started"
+msgstr "Primeros pasos"
+
+#: inc/admin/welcome-notice.php:262
+msgid "About SaasLauncher"
+msgstr "Acerca de SaasLauncher"
+
+#: inc/admin/welcome-notice.php:118
+msgid "Cozy Essential Addons"
+msgstr "Cozy Essential Addons"
+
+#: inc/admin/welcome-notice.php:113
+msgid "Advanced Import"
+msgstr "Advanced Import"
+
+#: inc/admin/welcome-notice.php:108
+msgid "Cozy Blocks"
+msgstr "Cozy Blocks"
+
+#: inc/admin/welcome-notice.php:57
+msgid "Explore SaasLauncher"
+msgstr "Explora SaasLauncher"
+
+#: inc/admin/welcome-notice.php:53
+msgid "Please install and activate all recommended plugins to use 50+ advanced blocks, 70+ pre-builts sections, 50+ pre-built starter site demos with one click demo importer. Enhance website building and launch your site within minutes with just a few clicks! - Cozy Blocks, Cozy Essential Addons, Advanced Import."
+msgstr "Instala y activa todos los plugins recomendados para usar más de 40 bloques avanzados, más de 50 secciones preconstruidas, y más de 30 demostraciones de sitios de inicio. Mejora la construcción del sitio web y ¡lanza tu sitio en minutos con solo unos pocos clics! - Cozy Addons, Cozy Essential Addons, Advanced Import."
+
+#: inc/admin/welcome-notice.php:50
+msgid "Start building your website with the most advanced WordPress theme ever! 🚀 "
+msgstr "¡Empieza a crear tu sitio web con el tema de WordPress más avanzado! 🚀 "
+
+#: inc/admin/pages/getting-started.php:5 inc/admin/welcome-notice.php:49
+msgid "Welcome to SaasLauncher"
+msgstr "Te damos la bienvenida a SaasLauncher"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://cozythemes.com/"
+msgstr "https://cozythemes.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "CozyThemes"
+msgstr "CozyThemes"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://cozythemes.com/saaslauncher-wordpress-theme/"
+msgstr "https://cozythemes.com/saaslauncher-wordpress-theme/"

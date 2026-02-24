@@ -1,0 +1,654 @@
+# Translation of Themes - Jadro in Arabic
+# This file is distributed under the same license as the Themes - Jadro package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-09-04 13:48:18+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n == 0) ? 0 : ((n == 1) ? 1 : ((n == 2) ? 2 : ((n % 100 >= 3 && n % 100 <= 10) ? 3 : ((n % 100 >= 11 && n % 100 <= 99) ? 4 : 5))));\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: ar\n"
+"Project-Id-Version: Themes - Jadro\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Jadro is a minimal and lightweight Full Site Editing theme. This speed optimized theme utilizes the WordPress blocks editor to create unique and eye-catching layouts. Jadro is perfect for blogs, small businesses, startups, law firms and other creative agencies who prefer simple and speed optimized websites."
+msgstr "Jadro هو قالب بسيط وخفيف لتحرير الموقع بالكامل. يَستخدم هذا القالب المحسّن للسرعة محرر مكونات ووردبريس لإنشاء تخطيطات فريدة وملفتة للنظر. يعد Jadro مثاليًا للمدونات والمشاريع الصغيرة والشركات الناشئة وشركات المحاماة ووكالات إبداعية أخرى التي تفضل مواقع الويب البسيطة والمُحسّنة للسرعة."
+
+#: styles/faded-blue.json
+msgctxt "Style variation name"
+msgid "Faded Blue"
+msgstr ""
+
+#: styles/earthly-green.json
+msgctxt "Style variation name"
+msgid "Earthly Green"
+msgstr ""
+
+#: styles/deep-turqoise.json
+msgctxt "Style variation name"
+msgid "Deep Turqoise"
+msgstr ""
+
+#. translators: 1: Theme name, 2: Theme author.
+#: patterns/footer.php:110
+msgid "Powered by WordPress"
+msgstr ""
+
+#: styles/kelly-green.json
+msgctxt "Style variation name"
+msgid "Kelly Green"
+msgstr "أخضر كيلي"
+
+#: styles/hot-pink.json
+msgctxt "Style variation name"
+msgid "Hot Pink"
+msgstr "وردي ساخن"
+
+#: styles/dodger-blue.json
+msgctxt "Style variation name"
+msgid "Dodger Blue"
+msgstr "أزرق دودجر"
+
+#: styles/coral.json
+msgctxt "Style variation name"
+msgid "Coral"
+msgstr "مرجان"
+
+#: styles/black.json
+msgctxt "Style variation name"
+msgid "Black"
+msgstr "أسود"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "تذييل"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "الترويسة"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "No Title and Space"
+msgstr "بلا عنوان ولا مساحة"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2X Large"
+msgstr "2X كبير"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "X Large"
+msgstr "X كبير"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Large"
+msgstr "كبير"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Medium"
+msgstr "متوسط"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Small"
+msgstr "صغير"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "X Small"
+msgstr "X صغير"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2X Small"
+msgstr "2X صغير"
+
+#: styles/black.json styles/coral.json styles/deep-turqoise.json
+#: styles/dodger-blue.json styles/earthly-green.json styles/faded-blue.json
+#: styles/hot-pink.json styles/kelly-green.json theme.json
+msgctxt "Color name"
+msgid "Inherit"
+msgstr "توريث"
+
+#: styles/black.json styles/coral.json styles/deep-turqoise.json
+#: styles/dodger-blue.json styles/earthly-green.json styles/faded-blue.json
+#: styles/hot-pink.json styles/kelly-green.json theme.json
+msgctxt "Color name"
+msgid "Current Color"
+msgstr "اللون الحالي"
+
+#: styles/black.json styles/coral.json styles/deep-turqoise.json
+#: styles/dodger-blue.json styles/earthly-green.json styles/faded-blue.json
+#: styles/hot-pink.json styles/kelly-green.json theme.json
+msgctxt "Color name"
+msgid "Transparent"
+msgstr "شفاف"
+
+#: styles/black.json styles/coral.json styles/deep-turqoise.json
+#: styles/dodger-blue.json styles/earthly-green.json styles/faded-blue.json
+#: styles/hot-pink.json styles/kelly-green.json theme.json
+msgctxt "Color name"
+msgid "Senary"
+msgstr "سُداسيّ"
+
+#: styles/black.json styles/coral.json styles/deep-turqoise.json
+#: styles/dodger-blue.json styles/earthly-green.json styles/faded-blue.json
+#: styles/hot-pink.json styles/kelly-green.json theme.json
+msgctxt "Color name"
+msgid "Quinary"
+msgstr "خُماسيّ"
+
+#: styles/black.json styles/coral.json styles/deep-turqoise.json
+#: styles/dodger-blue.json styles/earthly-green.json styles/faded-blue.json
+#: styles/hot-pink.json styles/kelly-green.json theme.json
+msgctxt "Color name"
+msgid "Quaternary"
+msgstr "رُباعيّ"
+
+#: styles/black.json styles/coral.json styles/deep-turqoise.json
+#: styles/dodger-blue.json styles/earthly-green.json styles/faded-blue.json
+#: styles/hot-pink.json styles/kelly-green.json theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "ثُلاثيّ"
+
+#: styles/black.json styles/coral.json styles/deep-turqoise.json
+#: styles/dodger-blue.json styles/earthly-green.json styles/faded-blue.json
+#: styles/hot-pink.json styles/kelly-green.json theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "ثُانويّ"
+
+#: styles/black.json styles/coral.json styles/deep-turqoise.json
+#: styles/dodger-blue.json styles/earthly-green.json styles/faded-blue.json
+#: styles/hot-pink.json styles/kelly-green.json theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "رئيسي"
+
+#: styles/black.json styles/coral.json styles/deep-turqoise.json
+#: styles/dodger-blue.json styles/earthly-green.json styles/faded-blue.json
+#: styles/hot-pink.json styles/kelly-green.json theme.json
+msgctxt "Color name"
+msgid "Base"
+msgstr "أساسي"
+
+#: styles/black.json styles/coral.json styles/deep-turqoise.json
+#: styles/dodger-blue.json styles/earthly-green.json styles/faded-blue.json
+#: styles/hot-pink.json styles/kelly-green.json theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr "الخلفية"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Outfit"
+msgstr "ملابس"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Figtree"
+msgstr "شجرة التين"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Inter"
+msgstr "بين"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "4X Large"
+msgstr "4X كبير"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "3X Large"
+msgstr "3X كبير"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "2X Large"
+msgstr "2X كبير"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "X Large"
+msgstr "X كبير"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "كبير"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "متوسط"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Base"
+msgstr "أساسي"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "صغير"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "X Small"
+msgstr "X صغير"
+
+#: patterns/testimonials.php
+msgctxt "Pattern title"
+msgid "Testimonials"
+msgstr "الشهادات"
+
+#: patterns/team-members.php
+msgctxt "Pattern title"
+msgid "Team Members"
+msgstr "أعضاء الفريق"
+
+#: patterns/pricing-table.php
+msgctxt "Pattern title"
+msgid "Pricing Table"
+msgstr "جدول الأسعار"
+
+#: patterns/latest-articles.php
+msgctxt "Pattern title"
+msgid "Latest Articles"
+msgstr "أحدث المقالات"
+
+#: patterns/hero-banner.php
+msgctxt "Pattern title"
+msgid "Hero Banner"
+msgstr "بطل البانر"
+
+#: patterns/header.php
+msgctxt "Pattern title"
+msgid "Header"
+msgstr "الترويسة"
+
+#: patterns/header-with-button.php
+msgctxt "Pattern title"
+msgid "Header with Button"
+msgstr "ترويسة بالزر"
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Footer"
+msgstr "تذييل"
+
+#: patterns/features.php
+msgctxt "Pattern title"
+msgid "Features"
+msgstr "المميزات"
+
+#: patterns/cta-two-columns.php
+msgctxt "Pattern title"
+msgid "Call to Action 2 Columns"
+msgstr "الدعوة إلى اتخاذ إجراء 2 أعمدة"
+
+#: patterns/cta-default.php
+msgctxt "Pattern title"
+msgid "Call to Action"
+msgstr "دعوة لاتخاذ إجراء"
+
+#: patterns/testimonials.php:116
+msgid "Useful features, pattern library &amp; regular updates."
+msgstr "ميزات مفيدة ومكتبة الأنماط وتحديثات منتظمة."
+
+#: patterns/testimonials.php:110
+msgid "Corporate Lawyer"
+msgstr "محامي شركات"
+
+#: patterns/testimonials.php:80
+msgid "Public Speaker"
+msgstr "متحدث عام"
+
+#: patterns/testimonials.php:50
+msgid "Life Coach"
+msgstr "مدرب الحياة"
+
+#: patterns/testimonials.php:27
+msgid "A range of testimonials from our happy customers across a variety of industries and use cases."
+msgstr "مجموعة من شهادات عملائنا السعداء من خلال صناعات مختلفة وحالات الإستخدام."
+
+#: patterns/testimonials.php:21
+msgid "Testimonials"
+msgstr "الشهادات"
+
+#: patterns/testimonials.php:17
+msgid "Customer Reviews"
+msgstr "مراجعات العميل"
+
+#: patterns/team-members.php:78
+msgid "Consultant"
+msgstr "مستشار"
+
+#: patterns/team-members.php:74 patterns/testimonials.php:106
+msgid "Dina Crossin"
+msgstr "دينا كروسين"
+
+#: patterns/team-members.php:62
+msgid "Manager"
+msgstr "مدير"
+
+#: patterns/team-members.php:58 patterns/testimonials.php:76
+msgid "Danial Chen"
+msgstr "دانيال تشان"
+
+#: patterns/team-members.php:46
+msgid "Director"
+msgstr "مدير"
+
+#: patterns/team-members.php:42 patterns/testimonials.php:46
+msgid "Eliza Weber"
+msgstr "إليزا وابر"
+
+#: patterns/team-members.php:27
+msgid "An experienced team working together, crafting exceptional experiences, and growing stronger."
+msgstr "فريق من ذوي الخبرة يعمل معًا ويصنع تجارب استثنائية ويزداد قوة."
+
+#: patterns/team-members.php:21
+msgid "Team Members"
+msgstr "أعضاء الفريق"
+
+#: patterns/team-members.php:17
+msgid "Creative"
+msgstr "إبداعي"
+
+#: patterns/pricing-table.php:197
+msgid "Onpage SEO Included"
+msgstr "تم تضمين تحسين محركات البحث على الصفحة (Onpage SEO)"
+
+#: patterns/pricing-table.php:189
+msgid "Website Security Hardening"
+msgstr "تقوية أمن الموقع الإلكتروني"
+
+#: patterns/pricing-table.php:181
+msgid "Monthly Maintenance Service"
+msgstr "خدمة الصيانة الشهرية"
+
+#: patterns/pricing-table.php:173
+msgid "Everything in Advanced"
+msgstr "كل شيء في المتقدم"
+
+#: patterns/pricing-table.php:159
+msgid "$499"
+msgstr "$499"
+
+#: patterns/pricing-table.php:154
+msgid "Premium"
+msgstr "الاحترافية"
+
+#: patterns/pricing-table.php:139
+msgid "Support via Dedicated Email"
+msgstr "الدعم عبر البريد الإلكتروني المخصص"
+
+#: patterns/pricing-table.php:131
+msgid "Additional Block Patterns"
+msgstr "أنماط المكونات الإضافية"
+
+#: patterns/pricing-table.php:123
+msgid "One Click Demo Import"
+msgstr "استيراد العرض التجريبي بنقرة واحدة"
+
+#: patterns/pricing-table.php:115
+msgid "Everything in Basic"
+msgstr "كل شيء في الأساسي"
+
+#: patterns/pricing-table.php:101
+msgid "$99"
+msgstr "$99"
+
+#: patterns/pricing-table.php:96
+msgid "Advanced"
+msgstr "الإعدادات المتقدمة"
+
+#: patterns/pricing-table.php:81
+msgid "Support via Public Forum"
+msgstr "الدعم عبر المنتدى العام"
+
+#: patterns/pricing-table.php:73
+msgid "Block Pattern Library"
+msgstr "مكتبة مكون النمط"
+
+#: patterns/pricing-table.php:57
+msgid "Responsive Layouts"
+msgstr "تخطيط متجاوب"
+
+#: patterns/pricing-table.php:47 patterns/pricing-table.php:105
+#: patterns/pricing-table.php:163
+msgid "/year"
+msgstr "/سنة"
+
+#: patterns/pricing-table.php:43
+msgid "$49"
+msgstr "$49"
+
+#: patterns/pricing-table.php:38
+msgid "Basic"
+msgstr "أساسي"
+
+#: patterns/pricing-table.php:27
+msgid "We offer a range of plans to suit businesses of all sizes, from small startups to large corporations."
+msgstr "نقدم مجموعة من الخطط لتناسب جميع أحجام المشاريع، من الشركات الناشئة الصغيرة إلى الشركات الضخمة."
+
+#: patterns/pricing-table.php:21
+msgid "Pricing Plans"
+msgstr "خطط التسعير"
+
+#: patterns/pricing-table.php:17
+msgid "Straightforward"
+msgstr "واضح"
+
+#: patterns/latest-articles.php:27
+msgid "Quickly browse the latest offers, read in-depth articles, and case studies to get the full story."
+msgstr "تصفح بسرعة أحدث العروض، واقرأ المقالات المتعمقة، ودراسات الحالة للحصول على القصة الكاملة."
+
+#: patterns/latest-articles.php:21
+msgid "Latest Articles"
+msgstr "أحدث المقالات"
+
+#: patterns/latest-articles.php:17
+msgid "Stay Updated"
+msgstr "ابق على اطلاع"
+
+#: patterns/hero-banner.php:26
+msgid "Simple, Clean, and Lightning Fast Full Site Editing Theme. Google Core Web Vitals and Search Engines optimized WordPress block theme."
+msgstr "قالب تحرير الموقع بالكامل بسيط ونظيف وفائق السرعة. قام أداء الويب الأساسية ومحركات البحث جوجل بتحسين مكون قالب ووردبريس."
+
+#: patterns/hero-banner.php:22
+msgid "WordPress Block Theme"
+msgstr "قالب مكوّن ووردبريس"
+
+#: patterns/footer.php:67
+msgid "Terms &amp; Conditions"
+msgstr "العناصر والشّروط"
+
+#: patterns/footer.php:63
+msgid "Privacy Policies"
+msgstr "السياسات الخصوصية"
+
+#: patterns/footer.php:59
+msgid "Get Involved"
+msgstr "شارك"
+
+#: patterns/footer.php:55
+msgid "Showcase"
+msgstr "عرض"
+
+#: patterns/footer.php:51
+msgid "Affiliate"
+msgstr "شركة تابعة"
+
+#: patterns/footer.php:46
+msgid "Quick Links"
+msgstr "روابط سريعة"
+
+#: patterns/footer.php:39
+msgid "Customization Request"
+msgstr "طلب التخصيص"
+
+#: patterns/footer.php:35
+msgid "Support Forum"
+msgstr "منتدى الدعم"
+
+#: patterns/footer.php:31
+msgid "Help Center"
+msgstr "مركز المساعدة"
+
+#: patterns/footer.php:27
+msgid "Success Stories"
+msgstr "القصص الناجحة"
+
+#: patterns/footer.php:23 patterns/footer.php:76
+msgid "About"
+msgstr "حول"
+
+#: patterns/footer.php:18
+msgid "Company"
+msgstr "شركة"
+
+#: patterns/features.php:78
+msgid "Select the color of your choice from the variations available."
+msgstr "حدد اللون الذي تختاره من الألوان المختلفة المتاحة."
+
+#: patterns/features.php:74
+msgid "Color Variations"
+msgstr "إختلافات لونية"
+
+#: patterns/features.php:60 patterns/testimonials.php:86
+msgid "Lightning fast theme that loads in fractions of seconds."
+msgstr "قالب فائق السرعة يتم تحميله في أجزاء من الثواني."
+
+#: patterns/features.php:56
+msgid "Speed Optimized"
+msgstr "سرعة محسنة"
+
+#: patterns/features.php:47 patterns/features.php:65 patterns/features.php:83
+msgid "Read More"
+msgstr "إقرأ المزيد"
+
+#: patterns/features.php:42 patterns/testimonials.php:56
+msgid "Simple, clean &amp; minimal Full Site Editing theme."
+msgstr "بسيطة ونظيفة وقالب تحرير الموقع بالكامل ضئيل."
+
+#: patterns/features.php:38 patterns/hero-banner.php:18
+#: patterns/pricing-table.php:65
+msgid "Full Site Editing"
+msgstr "تحرير الموقع بالكامل"
+
+#: patterns/features.php:27
+msgid "Create stunning websites effortlessly with a collection of inbuilt patterns and style variations."
+msgstr "قم بإنشاء مواقع ويب مذهلة دون عناء باستخدام مجموعة من الأنماط المضمنة واختلافات الأساليب."
+
+#: patterns/features.php:21
+msgid "Features"
+msgstr "المميزات"
+
+#: patterns/features.php:17
+msgid "Innovative"
+msgstr "إبداعي"
+
+#: patterns/cta-two-columns.php:36
+msgid "Get In Touch"
+msgstr "نبقى على اتصال"
+
+#: patterns/cta-two-columns.php:31
+msgid "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+msgstr "وقام للصين ثم مدن, ان عرض خلاف ووصف. مسرح الشتاء تم عدد, جعل بل الجنود وتزويده, وصل أن حقول معزّزة والإتحاد."
+
+#: patterns/cta-two-columns.php:27
+msgid "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+msgstr ""
+"[21:02] Fakhri Azzouz\n"
+"\n"
+"ليبين الإنزال مما و, الحكم ارتكبها والنرويج كلا بـ, مع كان قبضتهم الشتاء المجتمع. وقدّموا الجنرال الإكتفاء حيث و, ثم مدن بقعة قُدُماً. لها لعدم يتعلّق إيطاليا و, قام بريطانيا استطاعوا المتساقطة، عن."
+
+#: patterns/cta-two-columns.php:21
+msgid "Add Your Heading Here"
+msgstr "أضف الترويسة الخاصة بك هنا"
+
+#: patterns/cta-two-columns.php:17
+msgid "Call to Action"
+msgstr "دعوة لاتخاذ إجراء"
+
+#: patterns/cta-default.php:34 patterns/hero-banner.php:35
+msgid "Learn More"
+msgstr "تعلم المزيد"
+
+#: patterns/cta-default.php:30 patterns/header-with-button.php:32
+#: patterns/hero-banner.php:31 patterns/pricing-table.php:87
+#: patterns/pricing-table.php:145 patterns/pricing-table.php:203
+msgid "Get Started"
+msgstr "الشروع في ..."
+
+#: patterns/cta-default.php:25 patterns/footer.php:80
+msgid "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+msgstr "ليبين الإنزال مما و, الحكم ارتكبها والنرويج كلا بـ, مع كان قبضتهم الشتاء المجتمع. وقدّموا الجنرال الإكتفاء حيث و, ثم مدن بقعة قُدُماً."
+
+#: patterns/cta-default.php:15
+msgid "Add Call to Action Heading Here"
+msgstr "أضف ترويسة الدعوة إلى اتخاذ إجراء هنا"
+
+#: functions.php:95
+msgid "Right Aligned"
+msgstr "محاذاة لليمين"
+
+#: functions.php:94
+msgid "Left Aligned"
+msgstr "محاذاة لليسار"
+
+#: functions.php:93
+msgid "Wide Thin Line"
+msgstr "خط عريض ورفيع"
+
+#: functions.php:92
+msgid "Dotted"
+msgstr "منقط"
+
+#: functions.php:89
+msgid "None"
+msgstr "لا شيء"
+
+#: functions.php:88
+msgid "Square"
+msgstr "مربع"
+
+#: functions.php:87
+msgid "Checklist Circle"
+msgstr "دائرة قائمة الإختيار"
+
+#: functions.php:86
+msgid "Checklist"
+msgstr "قائمة الإختيار"
+
+#. Theme Name of the theme
+#. translators: %s: CMS name, i.e. WordPress.
+#: style.css functions.php:71 patterns/footer.php:104
+msgid "Jadro"
+msgstr "Jadro"
+
+#. Theme URI of the theme
+#: style.css patterns/footer.php:101
+#, gp-priority: low
+msgid "https://wpshout.com/jadro/"
+msgstr ""
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Jadro WP"
+msgstr "Jadro ووردبريس"

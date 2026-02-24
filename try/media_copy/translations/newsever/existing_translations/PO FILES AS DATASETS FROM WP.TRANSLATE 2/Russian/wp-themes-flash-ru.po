@@ -1,0 +1,1446 @@
+# Translation of Themes - Flash in Russian
+# This file is distributed under the same license as the Themes - Flash package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-05-18 15:36:10+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Flash\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Flash is free responsive multipurpose WordPress theme – truly a versatile theme perfect for any type of website you want. Like never before, it provides multiple pre-built demos which can be imported in seconds using ThemeGrill Demo Importer Plugin. The theme fully integrates with Flash Toolkit and SiteOrigin’s Page Builder Plugin that makes theme more user-friendly and easy. Additionally, theme features multiple blog layouts, WooCommerce support, multiple header styles, multiple color options etc."
+msgstr "Flash - бесплатная многопользовательская тема WordPress - поистине универсальная тема, идеально подходящая для любого типа веб-сайта, который вы хотите. Как и раньше, она предоставляет несколько встроенных демонстраций, которые можно импортировать за считанные секунды, используя плагин ThemeGrill Demo Importer. Тема полностью интегрируется с Flash Toolkit и плагином Site Builder для SiteOrigin, который делает тему более дружественной и удобной. Кроме того, в теме представлены несколько макетов блога, поддержка WooCommerce, несколько стилей заголовков, несколько параметров цвета и т.д."
+
+#. Theme Name of the theme
+#: style.css inc/admin/class-flash-theme-review-notice.php:75
+#: inc/admin/class-flash-welcome-notice.php:51
+#, gp-priority: high
+msgid "Flash"
+msgstr "Flash"
+
+#: inc/admin/class-flash-welcome-notice.php:110
+msgid "You do not have permission to perform this action."
+msgstr ""
+
+#: inc/kirki/kirki-packages/settings/templates/settings-template.php:38
+msgid "Settings"
+msgstr "Настройки"
+
+#: inc/kirki/kirki-packages/settings/templates/settings-template.php:26
+msgid "The #1 Customizer Toolkit for WordPress Theme Developers."
+msgstr "Набор инструментов настройки №1 для разработчиков тем WordPress."
+
+#: inc/kirki/kirki-packages/settings/templates/metaboxes/documentation.php:34
+msgid "The following article provides a detailed explanation of the Clear Font Cache option in Kirki."
+msgstr "В следующей статье приводится подробное объяснение параметра «Очистить кэш шрифтов» в Kirki."
+
+#: inc/kirki/kirki-packages/settings/templates/metaboxes/documentation.php:31
+msgid "For more information, please refer to your theme's documentation."
+msgstr "Для получения дополнительной информации, обратитесь к документации вашей темы."
+
+#: inc/kirki/kirki-packages/settings/templates/metaboxes/documentation.php:20
+msgid "It provides advanced customization options within the WordPress Customizer, allowing you to easily modify the appearance of your site."
+msgstr "Он предоставляет расширенные возможности настройки в Настройки темы WordPress, позволяя вам легко изменить внешний вид вашего сайта."
+
+#: inc/kirki/kirki-packages/settings/templates/metaboxes/documentation.php:17
+msgid "Kirki is a key component of the WordPress theme you have installed."
+msgstr "Kirki - это ключевой компонент установленной вами темы WordPress."
+
+#: inc/kirki/kirki-packages/settings/templates/metaboxes/documentation.php:13
+msgid "Why do I see this?"
+msgstr "Почему я это вижу?"
+
+#: inc/kirki/kirki-packages/settings/templates/metaboxes/clear-font-cache.php:26
+msgid "Clear Cache"
+msgstr "Очистить кэш"
+
+#: inc/kirki/kirki-packages/settings/templates/metaboxes/clear-font-cache.php:19
+msgid "This is safe to do on production sites."
+msgstr "Это безопасно для производственных сайтов."
+
+#: inc/kirki/kirki-packages/settings/templates/metaboxes/clear-font-cache.php:16
+msgid "If Google Fonts selected in the Customizer are not displayed correctly, please try clearing the font cache."
+msgstr "Если шрифты Google, выбранные в настройке темы, отображаются неправильно, попробуйте очистить кэш шрифтов."
+
+#: inc/kirki/kirki-packages/settings/templates/metaboxes/clear-font-cache.php:15
+msgid "In order to achieve GDPR-compliance, Kirki stores Google Fonts locally on your server."
+msgstr "Для достижения соответствия требованиям GDPR компания Kirki хранит шрифты Google Fonts локально на вашем сервере."
+
+#: inc/kirki/kirki-packages/settings/templates/metaboxes/clear-font-cache.php:12
+msgid "Clear Font Cache"
+msgstr "Очистить кэш шрифтов"
+
+#: inc/kirki/kirki-packages/settings/src/SetupSettings.php:55
+msgid "Kirki"
+msgstr "Kirki"
+
+#: inc/kirki/kirki-packages/settings/src/SetupSettings.php:54
+#: inc/kirki/kirki-packages/settings/templates/settings-template.php:23
+msgid "Kirki Customizer Framework"
+msgstr "Kirki Customizer Framework"
+
+#: inc/kirki/kirki-packages/settings/src/Notice.php:144
+msgid "Discount notice has been dismissed"
+msgstr "Уведомление о скидке было отклонено"
+
+#: inc/kirki/kirki-packages/settings/src/Notice.php:136
+msgid "You don't have capability to run this action"
+msgstr "У вас нет возможности запустить это действие"
+
+#: inc/kirki/kirki-packages/settings/src/Notice.php:132
+msgid "Invalid nonce"
+msgstr "Неверный nonce"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:850
+msgid "Defaults"
+msgstr "По умолчанию"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:387
+msgid "Wavy"
+msgstr "Волнистая"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:386
+msgid "Solid"
+msgstr "Сплошная"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:328
+msgid "Font Color"
+msgstr "Цвет шрифта"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:301
+msgid "Font Variant"
+msgstr "Вариант шрифта"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:199
+msgid "900 Italic"
+msgstr "900 курсив"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:195
+msgid "900"
+msgstr "900"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:191
+msgid "800 Italic"
+msgstr "800 курсив"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:187
+msgid "800"
+msgstr "800"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:175
+msgid "600 Italic"
+msgstr "600 курсив"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:171
+msgid "600"
+msgstr "600"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:167
+msgid "500 Italic"
+msgstr "500 курсив"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:163
+msgid "500"
+msgstr "500"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:159
+msgid "300 Italic"
+msgstr "300 курсив"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:155
+msgid "300"
+msgstr "300"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:151
+msgid "200 Italic"
+msgstr "200 курсив"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:147
+msgid "200"
+msgstr "200"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:143
+msgid "100 Italic"
+msgstr "100 курсив"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:139
+msgid "100"
+msgstr "100"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:124
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:183
+msgid "700 Italic"
+msgstr "700 курсив"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:120
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:179
+msgid "700"
+msgstr "700"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:116
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:135
+msgid "Italic"
+msgstr "Курсив"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:112
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:131
+msgid "Regular"
+msgstr "Обычный"
+
+#. translators: %s is the limit of selection number.
+#: inc/kirki/kirki-packages/control-react-select/src/Control/ReactSelect.php:169
+msgid "You can only select %s items"
+msgstr "Вы можете выбрать только %s елементов"
+
+#: inc/kirki/kirki-packages/control-react-select/src/Control/ReactSelect.php:162
+msgid "Select..."
+msgstr "Выбрать..."
+
+#: inc/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:116
+msgid "Miscelaneous"
+msgstr "Разное"
+
+#: inc/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:115
+msgid "Notifications"
+msgstr "Уведомления"
+
+#: inc/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:114
+msgid "Widgets"
+msgstr "Виджеты"
+
+#: inc/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:113
+msgid "Taxonomies"
+msgstr "Таксономии"
+
+#: inc/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:112
+msgid "Products"
+msgstr "Товары"
+
+#: inc/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:109
+msgid "Sorting"
+msgstr "Сортировка"
+
+#: inc/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:108
+msgid "Posts"
+msgstr "Записи"
+
+#: inc/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:106
+msgid "Image Editing"
+msgstr "Редактирование изображения"
+
+#: inc/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:105
+msgid "Media"
+msgstr "Медиафайлы"
+
+#: inc/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:104
+msgid "Post Formats"
+msgstr "Форматы записи"
+
+#: inc/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:103
+msgid "Welcome Screen"
+msgstr "Экран приветствия"
+
+#: inc/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:102
+msgid "Admin Menu"
+msgstr "Меню админа"
+
+#: inc/customizer.php:1196
+msgid "Text Color"
+msgstr "Цвет текста"
+
+#: inc/customizer.php:1175
+msgid "Headings"
+msgstr "Заголовки"
+
+#: inc/customizer.php:1154
+msgid "Primary Color"
+msgstr "Основной цвет"
+
+#: inc/customizer.php:1128
+msgid "Scheme"
+msgstr "Схема"
+
+#: inc/customizer.php:1002
+msgid "Preloader"
+msgstr "Анимация загрузки"
+
+#: inc/customizer.php:988
+msgid "Optimization"
+msgstr "Оптимизация"
+
+#: inc/customizer.php:957
+msgid "Integration"
+msgstr "Интеграция"
+
+#: inc/customizer.php:948
+msgid "Additional"
+msgstr "Дополнительно"
+
+#: inc/customizer.php:912
+msgid "Scroll to Top"
+msgstr "Прокрутка вверх"
+
+#: inc/customizer.php:838
+msgid "Post Navigation"
+msgstr "Навигация по записям"
+
+#: inc/customizer.php:813
+msgid "Author Bio"
+msgstr "Об авторе"
+
+#: inc/customizer.php:788
+msgid "Posts Related To"
+msgstr "Записи, связанные с"
+
+#: inc/customizer.php:764
+msgid "Related Posts"
+msgstr "Похожие записи"
+
+#: inc/customizer.php:739
+msgid "Disable Tag"
+msgstr "Отключить метку"
+
+#: inc/customizer.php:726
+msgid "Disable Category"
+msgstr "Отключить категорию"
+
+#: inc/customizer.php:713
+msgid "Disable Comment"
+msgstr "Отключить комментарий"
+
+#: inc/customizer.php:700
+msgid "Disable Author"
+msgstr "Отключить автора"
+
+#: inc/customizer.php:687
+msgid "Disable Date"
+msgstr "Отключить дату"
+
+#: inc/customizer.php:676
+msgid "Post Meta"
+msgstr "Метаданные записи"
+
+#: inc/customizer.php:621
+msgid "Breadcrumbs"
+msgstr "Хлебные крошки"
+
+#: inc/customizer.php:583
+msgid "General"
+msgstr "Общие"
+
+#: inc/customizer.php:569
+msgid "Page Header"
+msgstr "Заголовок страницы"
+
+#: inc/customizer.php:560
+msgid "Content"
+msgstr "Содержимое"
+
+#: inc/customizer.php:511
+msgid "Cart"
+msgstr "Корзина"
+
+#: inc/customizer.php:486
+msgid "Search"
+msgstr "Поиск"
+
+#: inc/customizer.php:466 inc/customizer.php:656 inc/customizer.php:882
+msgid "Style"
+msgstr "Стиль"
+
+#: inc/customizer.php:454
+msgid "Primary Header"
+msgstr "Основная шапка"
+
+#: inc/customizer.php:403
+msgid "Right Content"
+msgstr "Содержимое справа"
+
+#: inc/customizer.php:384 inc/customizer.php:410
+msgid "Text"
+msgstr "Текст"
+
+#: inc/customizer.php:377
+msgid "Left Content"
+msgstr "Содержимое слева"
+
+#: inc/customizer.php:364 inc/customizer.php:549 inc/customizer.php:775
+msgid "Enable"
+msgstr "Включить"
+
+#: inc/customizer.php:352
+msgid "Header Top Bar"
+msgstr "Верхняя панель шапки"
+
+#: inc/customizer.php:342
+msgid "Header Media"
+msgstr "Заголовок Медиа"
+
+#: inc/customizer.php:333
+msgid "Site Info"
+msgstr "Информация о сайте"
+
+#: inc/customizer.php:275
+msgid "Site Logo"
+msgstr "Логотип сайта"
+
+#: inc/customizer.php:263
+msgid "Visibility"
+msgstr "Видимость"
+
+#: inc/customizer.php:249
+msgid "Site Identity"
+msgstr "Свойства сайта"
+
+#: inc/customizer.php:240
+msgid "Header"
+msgstr "Заголовок"
+
+#: inc/customizer.php:216
+msgid "Body"
+msgstr "Тело"
+
+#: inc/customizer.php:204
+msgid "Base"
+msgstr "Base"
+
+#: inc/customizer.php:175 inc/customizer.php:643
+msgid "Blog/Archive"
+msgstr "Блог/Архив"
+
+#: inc/customizer.php:155 inc/customizer.php:750
+msgid "Single Post"
+msgstr "Одиночная запись"
+
+#: inc/customizer.php:123
+msgid "Sidebar Layout"
+msgstr "Макет Боковой панели"
+
+#: inc/customizer.php:107
+msgid "Container Style"
+msgstr "Стиль контейнера"
+
+#: inc/customizer.php:84
+msgid "Layout"
+msgstr "Макет"
+
+#: inc/customizer.php:64
+msgid "Heading Colors"
+msgstr "Цвета заголовков"
+
+#: inc/customizer.php:54
+msgid "Base Colors"
+msgstr "Основные цвета"
+
+#: inc/customizer.php:44
+msgid "Colors"
+msgstr "Цвета"
+
+#: inc/customizer.php:35
+msgid "Global"
+msgstr "Глобальные"
+
+#: inc/admin/class-flash-theme-review-notice.php:131
+msgid "I have a query"
+msgstr "У меня есть запрос"
+
+#: inc/admin/class-flash-theme-review-notice.php:116
+msgid "Sure, I'd love to!"
+msgstr "Конечно, я бы с удовольствием!"
+
+#. translators: %s: Smiley icon
+#: inc/admin/class-flash-theme-review-notice.php:107
+msgid "Basically, it would encourage us to release updates regularly with new features & bug fixes so that you can keep on using the theme without any issues and also to provide free support like we have been doing. %s"
+msgstr "По сути, это побудило бы нас регулярно выпускать обновления с новыми Особенности и исправления ошибок, чтобы вы могли продолжать использовать тема без каких-либо проблем, а также для предоставления бесплатной поддержки, как и мы. %s"
+
+#: inc/admin/class-flash-theme-review-notice.php:101
+msgid "What benefit would you have?"
+msgstr "Вам понравилось?"
+
+#. translators: %1$s: Opening of strong tag, %2$s: Theme's Name, %3$s: Closing
+#. of strong tag
+#: inc/admin/class-flash-theme-review-notice.php:93
+msgid "Hope you are having a nice experience with %1$s %2$s %3$s theme. Please provide this theme a nice review."
+msgstr "Надеюсь, вам понравится %1$s %2$s %3$s тема. Пожалуйста, оставьте этой теме хороший отзыв"
+
+#. translators: %s: Smile icon
+#: inc/admin/class-flash-theme-review-notice.php:84
+msgid "The above word is just to draw your attention. %s"
+msgstr "Вышеупомянутое слово просто привлекает ваше внимание. %s"
+
+#: inc/extras.php:134
+msgid "Powered by %s"
+msgstr "На платформе %s"
+
+#: inc/extras.php:133
+msgid "All rights reserved."
+msgstr "Все права защищены."
+
+#: inc/kirki/kirki-packages/compatibility/src/Init.php:261
+msgid "Don't show this again"
+msgstr "Больше не показывать это"
+
+#: inc/kirki/kirki-packages/compatibility/src/Init.php:257
+msgid "Your theme uses a Font Awesome field for icons. To avoid issues with missing icons on your frontend we recommend you install the official Font Awesome plugin."
+msgstr "Ваша тема использует поле Font Awesome для значков. Чтобы избежать проблем с отсутствием значков на сайте, мы рекомендуем вам установить официальный плагин Font Awesome."
+
+#: inc/admin/class-flash-upgrade-notice.php:100
+msgid "Got pre sales queries?"
+msgstr "Есть предварительные запросы на продажу?"
+
+#: inc/admin/class-flash-upgrade-notice.php:90
+msgid "Upgrade to pro"
+msgstr "Обновитесь до pro"
+
+#. Translators: %1$s current user display name., %2$s this theme name., %3$s
+#. discount coupon code., %4$s discount percentage.
+#: inc/admin/class-flash-upgrade-notice.php:75
+msgid "Howdy, %1$s! You've been using %2$s theme for a while now, and we hope you're happy with it. To access more premium features you can always upgrade to pro. All contents and settings will remain as it is after upgrading to pro, you basically start from where you left. Also, you can use the coupon code %3$s to get up to %4$s discount (limited time offer) while making the purchase. Enjoy! "
+msgstr "Привет, %1$s! Вы уже давно используете тему %2$s, и мы надеемся, что она вам нравится. Чтобы получить доступ к дополнительным функциям премиум-класса, вы всегда можете перейти на профессиональную версию. Все содержимое и настройки останутся такими же, как и после обновления до Pro, вы в основном начинаете с того места, где остановились. Кроме того, вы можете использовать код купона %3$s, чтобы получить скидку до %4$s (предложение ограничено по времени) при совершении покупки. Наслаждаться! "
+
+#: inc/admin/class-flash-dashboard.php:100
+msgid "Leave a review"
+msgstr "Оставить отзыв"
+
+#: inc/admin/class-flash-dashboard.php:97
+msgid "Further Actions"
+msgstr "Дальнейшие действия"
+
+#: inc/admin/class-flash-dashboard.php:92
+msgid "Premium Version"
+msgstr "Премиум версия"
+
+#: inc/admin/class-flash-dashboard.php:91
+msgid "Starter Demos"
+msgstr "Начальные темы"
+
+#: inc/admin/class-flash-dashboard.php:88
+msgid "Next Steps"
+msgstr "Следующие шаги"
+
+#: inc/admin/class-flash-dashboard.php:83
+msgid "Learn Basics"
+msgstr "Узнать основы"
+
+#: inc/admin/class-flash-dashboard.php:80
+msgid "Get Started"
+msgstr "Начать"
+
+#. translators: %s: Theme Name.
+#: inc/admin/class-flash-dashboard.php:74
+msgid "Important links to get you started with %s"
+msgstr "Важные ссылки для начала работы с %s"
+
+#. translators: %s: Theme Name.
+#: inc/admin/class-flash-dashboard.php:68
+msgid "Welcome to %s!"
+msgstr "Добро пожаловать в %s!"
+
+#. translators: %s: Theme version.
+#: inc/admin/class-flash-dashboard.php:59
+msgid "Flash %s"
+msgstr "Flash %s"
+
+#. translators: %s: Theme Name.
+#: inc/admin/class-flash-dashboard.php:33
+msgid "%s Options"
+msgstr "%s Параметры"
+
+#: inc/admin/class-flash-theme-review-notice.php:121
+msgid "I already did!"
+msgstr "Я уже сделал!"
+
+#: inc/admin/class-flash-theme-review-notice.php:126
+#: inc/admin/class-flash-upgrade-notice.php:95
+msgid "Maybe later"
+msgstr "Может быть позже"
+
+#: inc/customizer.php:312
+msgid "Retina Logo"
+msgstr "Логотип Retina"
+
+#: inc/customizer.php:299
+msgid "Different Logo for Retina Devices?"
+msgstr "Другой логотип для Retina-устройств?"
+
+#: inc/admin/class-flash-welcome-notice.php:68
+msgid "Clicking the button will install and activate the ThemeGrill demo importer plugin."
+msgstr "Нажав на кнопку, вы установите и активируете плагин ThemeGrill demo importer."
+
+#: inc/admin/class-flash-admin.php:38
+msgid "Processing..."
+msgstr "Обработка..."
+
+#: inc/class-flash-site-library.php:111
+msgid "Buy Now"
+msgstr "Купить сейчас"
+
+#: inc/class-flash-site-library.php:106
+msgid "Preview"
+msgstr "Предварительный просмотр"
+
+#: inc/class-flash-site-library.php:102
+msgid "Import"
+msgstr "Импорт"
+
+#: inc/class-flash-site-library.php:87
+msgid "Pro"
+msgstr "Pro"
+
+#: inc/class-flash-site-library.php:73
+msgid "Themes list"
+msgstr "Список тем"
+
+#: inc/kirki/kirki-packages/control-image/src/Field/Image.php:117
+msgid "Choose image"
+msgstr "Выберите изображение"
+
+#: inc/kirki/kirki-packages/control-image/src/Control/Image.php:82
+#: inc/kirki/kirki-packages/control-image/src/Field/Image.php:115
+#: inc/kirki/kirki-packages/control-image/dist/control.js:1
+#: inc/kirki/kirki-packages/control-image/src/control.js:100
+#: inc/kirki/kirki-packages/control-image/dist/control.js:100
+msgid "No image selected"
+msgstr "Изображение не выбрано"
+
+#: inc/kirki/kirki-packages/control-image/src/Field/Image.php:112
+msgid "Change image"
+msgstr "Измените изображение"
+
+#: inc/kirki/kirki-packages/control-image/src/Control/Image.php:89
+#: inc/kirki/kirki-packages/control-image/src/Field/Image.php:111
+#: inc/kirki/kirki-packages/control-image/src/Field/Image.php:116
+msgid "Select image"
+msgstr "Выберите изображение"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:877
+msgid "Standard Fonts"
+msgstr "Стандартные шрифты"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:384
+msgid "Line Through"
+msgstr "Зачеркнутый"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:385
+msgid "Overline"
+msgstr "Надчёркнутый"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:383
+msgid "Underline"
+msgstr "Подчеркивание"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:379
+msgid "Text Decoration"
+msgstr "Оформление текста"
+
+#: inc/customizer.php:1214
+msgid "View Pro version"
+msgstr "Посмотреть версию PRO"
+
+#: inc/related-posts.php:8
+msgid "You May Also Like"
+msgstr "Вам также может понравиться"
+
+#: inc/customizer.php:793
+msgid "Tags"
+msgstr "Метки"
+
+#: inc/customizer.php:792
+msgid "Categories"
+msgstr "Категории"
+
+#: inc/customizer.php:193
+msgid "Typography"
+msgstr "Типография"
+
+#: inc/customizer.php:74
+msgid "Background"
+msgstr "Фон"
+
+#: inc/kirki/kirki-packages/compatibility/src/deprecated/functions.php:20
+msgid "%1$s or %2$s"
+msgstr "%1$s или %2$s"
+
+#: inc/kirki/kirki-packages/compatibility/src/Kirki.php:191
+msgid "Kirki fields should not be added on customize_register. Please add them directly, or on init."
+msgstr "Поля Kirki не должны добавляться в customize_register. Пожалуйста, добавляйте их прямо или к элементу."
+
+#: inc/kirki/kirki-packages/compatibility/src/Init.php:206
+msgid "We detected you're using Kirki\\Compatibility\\Init::get_variables(). Please use \\Kirki\\Util\\Util::get_variables() instead."
+msgstr "Мы обнаружили, что вы используете Kirki\\Compatibility\\Init::get_variables(). Пожалуйста, вместо этого используйте \\Kirki\\Util\\Util::get_variables()."
+
+#. translators: The field ID where the error occurs.
+#: inc/kirki/kirki-packages/compatibility/src/Field.php:520
+#: inc/kirki/kirki-packages/compatibility/src/Field.php:531
+#: inc/kirki/kirki-packages/module-css/src/CSS.php:133
+#: inc/kirki/kirki-packages/module-css/src/CSS.php:144
+#: inc/kirki/kirki-packages/module-postmessage/src/Postmessage.php:69
+msgid "\"output\" invalid format in field %s. The \"output\" argument should be defined as an array of arrays."
+msgstr "\"output\" неправильный формат для поля field %s. Аргумент \"output\" должен быть определен как массив массивов."
+
+#. translators: %1$s represents the field ID where the error occurs.
+#: inc/kirki/kirki-packages/compatibility/src/Field.php:394
+msgid "\"partial_refresh\" invalid entry in field %s"
+msgstr "\"partial_refresh\" неправильная запись поля %s"
+
+#. translators: %1$s represents the field ID where the error occurs. %2$s is
+#. the URL in the documentation site.
+#: inc/kirki/kirki-packages/compatibility/src/Field.php:278
+msgid "Config not defined for field %1$s - See %2$s for details on how to properly add fields."
+msgstr "Конфигурация на определена для поля %1$s - Ознакомьтесь с %2$s для детального понимания, как правильно добавлять поля."
+
+#. translators: %s represents the field ID where the error occurs.
+#: inc/kirki/kirki-packages/compatibility/src/Field.php:267
+msgid "Typo found in field %s - setting instead of settings."
+msgstr "Найдена опечатка в поле %s - настройка вместо настроек."
+
+#: inc/kirki/upgrade-notifications.php:30
+msgid "Important Upgrade Notice:"
+msgstr "Важное уведомление об обновлении:"
+
+#. translators: The title.
+#: inc/kirki/kirki-packages/module-sections/src/Section_Types/Nested.php:65
+msgid "Customizing &#9656; %s"
+msgstr "Настройка &#9656; %s"
+
+#: inc/kirki/kirki-packages/module-sections/src/Section_Types/Nested.php:62
+msgid "Customizing"
+msgstr "Настройка"
+
+#: inc/kirki/kirki-packages/control-checkbox/src/Control/Checkbox_Switch.php:80
+msgid "Off"
+msgstr "Выкл."
+
+#: inc/kirki/kirki-packages/control-checkbox/src/Control/Checkbox_Switch.php:79
+msgid "On"
+msgstr "Вкл."
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:427
+msgid "Margin Bottom"
+msgstr "Внешний отступ снизу"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:422
+msgid "Margin Top"
+msgstr "Внешний отступ сверху"
+
+#. translators: %s represents the label of the row.
+#: inc/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:104
+msgid "Add new %s"
+msgstr "Добавить новый %s"
+
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:72
+msgid "Width"
+msgstr "Ширина"
+
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:64
+msgid "Word Spacing"
+msgstr "Интервал между словами"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:196
+msgid "Auto"
+msgstr "Автоматически"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:882
+msgid "Google Fonts"
+msgstr "Шрифты Google"
+
+#: inc/extras.php:334
+msgid "Page "
+msgstr "Страница"
+
+#. Template Name of the theme
+msgid "Pagebuilder"
+msgstr "Конструктор страниц"
+
+#: template-parts/content-page.php:25 template-parts/content.php:67
+msgid "Pages:"
+msgstr "Страниц:"
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Запрошенную информацию найти не удалось. Возможно, будет полезен поиск по сайту."
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, по вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните здесь</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: searchform.php:15
+msgctxt "submit button"
+msgid "Search"
+msgstr "Поиск"
+
+#: searchform.php:13
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Поиск &hellip;"
+
+#: searchform.php:12
+msgctxt "label"
+msgid "Search for:"
+msgstr "Искать:"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:77 template-parts/content-page.php:37
+msgid "Edit %s"
+msgstr "Редактировать %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:59 inc/template-tags.php:67
+msgid ", "
+msgstr ", "
+
+#. translators: %s: post title
+#: inc/template-tags.php:43
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Оставить коментарий<span class=\"screen-reader-text\"> к %s</span>"
+
+#: inc/meta-boxes.php:63
+msgid "Header Transparency"
+msgstr "Прозрачность заголовка"
+
+#: inc/meta-boxes.php:61 inc/meta-boxes.php:62
+msgid "Select Layout"
+msgstr "Выберите макет"
+
+#: inc/meta-boxes.php:50
+msgid "Non Transparent Header"
+msgstr "Непрозрачный заголовок"
+
+#: inc/meta-boxes.php:45
+msgid "Transparent Header"
+msgstr "Прозрачный заголовок"
+
+#: inc/meta-boxes.php:37
+msgid "Full Width Center"
+msgstr "На всю ширину центр"
+
+#. Template Name of the theme
+#: inc/meta-boxes.php:32
+msgid "Full Width"
+msgstr "На всю ширину"
+
+#: inc/meta-boxes.php:17
+msgid "Default Layout"
+msgstr "Разметка по умолчанию"
+
+#: inc/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:139
+msgid "Select a Page"
+msgstr "Выберите страницу"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:350
+msgid "Initial"
+msgstr "Исходный"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:365
+msgid "Lowercase"
+msgstr "Нижний регистр"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:364
+msgid "Uppercase"
+msgstr "Верхний регистр"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:363
+msgid "Capitalize"
+msgstr "Заглавные"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:362
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:382
+msgid "None"
+msgstr "Ничего"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:359
+msgid "Text Transform"
+msgstr "Преобразование текста"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:347
+msgid "Text Align"
+msgstr "Выравнивание текста"
+
+#. translators: %s represents the number of rows we're limiting the repeater to
+#. allow.
+#: inc/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:275
+msgid "Limit: %s rows"
+msgstr "Ограничение: %s рядков"
+
+#: inc/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:95
+msgid "row"
+msgstr "ряд"
+
+#: inc/kirki/kirki-packages/control-dimension/src/Control/Dimension.php:67
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:74
+msgid "Invalid Value"
+msgstr "Неправильное значение"
+
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:184
+msgid "Ultra-Bold 900 Italic"
+msgstr "Ультра жирный 900 курсив"
+
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:182
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:183
+msgid "Ultra-Bold 900"
+msgstr "Ультра жирный 900"
+
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:181
+msgid "Extra-Bold 800 Italic"
+msgstr "Экстра жирный 800 курсив"
+
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:179
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:180
+msgid "Extra-Bold 800"
+msgstr "Экстра жирный 800"
+
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:178
+msgid "Bold 700 Italic"
+msgstr "Жирный 700 курсив"
+
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:177
+msgid "Bold 700"
+msgstr "Жирный 700"
+
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:176
+msgid "Semi-Bold 600 Italic"
+msgstr "Полужирный 600 курсив"
+
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:174
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:175
+msgid "Semi-Bold 600"
+msgstr "Полужирный 600"
+
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:173
+msgid "Medium 500 Italic"
+msgstr "Средний 500 курсив"
+
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:172
+msgid "Medium 500"
+msgstr "Средний 500"
+
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:171
+msgid "Normal 400 Italic"
+msgstr "Обычный 400 курсив"
+
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:169
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:170
+msgid "Normal 400"
+msgstr "Обычный 400"
+
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:168
+msgid "Book 300 Italic"
+msgstr "Книжный 300 курсив"
+
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:167
+msgid "Book 300"
+msgstr "Книжный 300"
+
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:166
+msgid "Light 200 Italic"
+msgstr "Легкий 200 курсив"
+
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:165
+msgid "Light 200"
+msgstr "Легкий 200"
+
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:164
+msgid "Ultra-Light 100 Italic"
+msgstr "Ультра легкий 100 курсив"
+
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:162
+#: inc/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:163
+msgid "Ultra-Light 100"
+msgstr "Ультра легкий 100"
+
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:71
+msgid "Spacing"
+msgstr "Отступ"
+
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:73
+msgid "Height"
+msgstr "Высота"
+
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:70
+msgid "Size"
+msgstr "Размер"
+
+#: inc/kirki/kirki-packages/control-image/src/Control/Image.php:85
+#: inc/kirki/kirki-packages/control-image/src/Field/Image.php:114
+#: inc/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:453
+#: inc/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:485
+#: inc/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:510
+msgid "Remove"
+msgstr "Удалить"
+
+#: inc/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:475
+#: inc/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:480
+msgid "No File Selected"
+msgstr "Файл не выбран"
+
+#: inc/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:486
+#: inc/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:488
+msgid "Change File"
+msgstr "Изменить файл"
+
+#: inc/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:486
+#: inc/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:490
+msgid "Add File"
+msgstr "Добавить файл"
+
+#: inc/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:443
+#: inc/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:448
+msgid "No Image Selected"
+msgstr "Изображение не выбрано"
+
+#: inc/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:454
+#: inc/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:456
+msgid "Change Image"
+msgstr "Изменить изображение"
+
+#: inc/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:454
+#: inc/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:458
+msgid "Add Image"
+msgstr "Добавить изображение"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:354
+msgid "Justify"
+msgstr "Выравнивание по ширине"
+
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:69
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:352
+msgid "Center"
+msgstr "Центр"
+
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:68
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:353
+msgid "Right"
+msgstr "Справа"
+
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:67
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:351
+msgid "Left"
+msgstr "Слева"
+
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:66
+msgid "Bottom"
+msgstr "Низ"
+
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:65
+msgid "Top"
+msgstr "Сверху"
+
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:63
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:407
+msgid "Letter Spacing"
+msgstr "Межбуквенное расстояние"
+
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:62
+msgid "Font Style"
+msgstr "Стиль шрифта"
+
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:61
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:402
+msgid "Line Height"
+msgstr "Высота строки"
+
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:60
+msgid "Font Weight"
+msgstr "Толщина шрифта"
+
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:59
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:323
+msgid "Font Size"
+msgstr "Размер шрифта"
+
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:274
+msgid "Font Family"
+msgstr "Семейство шрифтов"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:152
+msgid "Background Position"
+msgstr "Позиция фона"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:161
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:58
+msgid "Center Bottom"
+msgstr "По центру внизу"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:160
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:57
+msgid "Center Center"
+msgstr "В самом центре"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:159
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:56
+msgid "Center Top"
+msgstr "По центру вверху"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:164
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:55
+msgid "Right Bottom"
+msgstr "Справа внизу"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:163
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:54
+msgid "Right Center"
+msgstr "Справа по центру"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:162
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:53
+msgid "Right Top"
+msgstr "Справа вверху"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:158
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:52
+msgid "Left Bottom"
+msgstr "Слева внизу"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:157
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:51
+msgid "Left Center"
+msgstr "Слева по центру"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:156
+#: inc/kirki/kirki-packages/field-dimensions/src/Dimensions.php:50
+msgid "Left Top"
+msgstr "Слева вверху"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:222
+msgid "Background Attachment"
+msgstr "Вложение фона"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:227
+msgid "Scroll"
+msgstr "Прокрутка"
+
+#: inc/customizer.php:903 inc/customizer.php:926
+#: inc/kirki/kirki-packages/field-background/src/Background.php:228
+msgid "Fixed"
+msgstr "Зафиксировать"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:190
+msgid "Background Size"
+msgstr "Размер фона"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:195
+msgid "Contain"
+msgstr "Содержать"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:194
+msgid "Cover"
+msgstr "Обложка"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:119
+msgid "Background Repeat"
+msgstr "Повторение фона"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:126
+msgid "Repeat Vertically"
+msgstr "Повторить вертикально"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:125
+msgid "Repeat Horizontally"
+msgstr "Повторить горизонтально"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:124
+msgid "Repeat All"
+msgstr "Повторить все"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:123
+msgid "No Repeat"
+msgstr "Не повторять"
+
+#: inc/customizer.php:592
+#: inc/kirki/kirki-packages/field-background/src/Background.php:103
+msgid "Background Image"
+msgstr "Изображение фона"
+
+#: inc/kirki/kirki-packages/field-background/src/Background.php:84
+msgid "Background Color"
+msgstr "Цвет фона"
+
+#: inc/extras.php:366
+msgid "Search Results for: %s"
+msgstr "Результаты поиска: %s"
+
+#: inc/extras.php:364
+msgid "Page NOT Found"
+msgstr "Страница не найдена"
+
+#: inc/extras.php:344
+msgid "404 Error"
+msgstr "Ошибка 404"
+
+#: inc/extras.php:339
+msgid "Search results for: "
+msgstr "Результаты поиска:"
+
+#: inc/customizer.php:135
+msgid "Page"
+msgstr "Страница"
+
+#: inc/extras.php:303
+msgid "jS"
+msgstr "jS"
+
+#: inc/extras.php:300 inc/extras.php:303 inc/extras.php:313
+msgid "M"
+msgstr "M"
+
+#: inc/extras.php:297 inc/extras.php:300 inc/extras.php:310 inc/extras.php:318
+msgid "Y"
+msgstr "Y"
+
+#: inc/extras.php:155
+msgid "Home"
+msgstr "Главная"
+
+#: inc/extras.php:134
+msgid "WordPress"
+msgstr "WordPress"
+
+#: inc/extras.php:134
+msgid "https://wordpress.org/"
+msgstr "https://ru.wordpress.org/"
+
+#: inc/extras.php:133
+msgid " Theme: %2$s by %1$s."
+msgstr " Тема: %1$s от %2$s."
+
+#: inc/extras.php:131
+msgid "Copyright %1$s %2$s"
+msgstr "Авторское право %1$s %2$s"
+
+#: inc/customizer.php:1396
+msgid "Yellow"
+msgstr "Желтый"
+
+#: inc/customizer.php:1387
+msgid "Red"
+msgstr "Красный"
+
+#: inc/customizer.php:1378
+msgid "Gray"
+msgstr "Серый"
+
+#: inc/customizer.php:1369
+msgid "Dark"
+msgstr "Tемный"
+
+#: inc/customizer.php:1360
+#: inc/kirki/kirki-packages/control-image/src/Control/Image.php:87
+#: inc/kirki/kirki-packages/control-image/src/Field/Image.php:113
+#: inc/kirki/kirki-packages/field-typography/src/Field/Typography.php:852
+msgid "Default"
+msgstr "По умолчанию"
+
+#: inc/customizer.php:971
+msgid "Custom CSS"
+msgstr "Пользовательский CSS"
+
+#: inc/customizer.php:869
+msgid "Footer Widgets Area"
+msgstr "Зона виджетов нижнего колонтитула"
+
+#: inc/customizer.php:538
+msgid "Sticky Header"
+msgstr "Прилепленная шапка"
+
+#: inc/customizer.php:429
+msgid "Top Header Text Content"
+msgstr "Текст содержимого верхней шапки"
+
+#: inc/customizer.php:385 inc/customizer.php:411 inc/customizer.php:497
+#: inc/customizer.php:523 inc/customizer.php:632 inc/customizer.php:824
+#: inc/customizer.php:849 inc/customizer.php:937 inc/customizer.php:1013
+msgid "Disable"
+msgstr "Отключить"
+
+#: inc/customizer.php:383 inc/customizer.php:409
+msgid "Social Menu"
+msgstr "Меню соцсетей"
+
+#: inc/customizer.php:114
+msgid "Boxed Layout"
+msgstr "Узкий шаблон"
+
+#: inc/customizer.php:113
+msgid "Wide Layout"
+msgstr "Широкий шаблон"
+
+#: inc/customizer.php:95
+msgid "Site Layout"
+msgstr "Макет сайта"
+
+#: inc/customizer.php:286
+msgid "Transparent Logo"
+msgstr "Прозрачный логотип"
+
+#: inc/kirki/kirki-packages/compatibility/src/Init.php:260
+msgid "Install Plugin"
+msgstr "Установить плагин"
+
+#: inc/admin/class-flash-dashboard.php:99
+msgid "Got theme support question?"
+msgstr "Возник вопрос по теме?"
+
+#: inc/admin/class-flash-dashboard.php:90
+#: inc/kirki/kirki-packages/settings/templates/metaboxes/documentation.php:27
+#: inc/kirki/kirki-packages/settings/templates/metaboxes/documentation.php:37
+msgid "Documentation"
+msgstr "Документация"
+
+#: inc/admin/class-flash-welcome-notice.php:26
+#: inc/class-flash-site-library.php:102
+msgid "Get started with Flash"
+msgstr "Начните с Flash"
+
+#. translators: 1: welcome page link starting html tag, 2: welcome page link
+#. ending html tag.
+#: inc/admin/class-flash-welcome-notice.php:59
+msgid "Welcome! Thank you for choosing Flash! To fully take advantage of the best our theme can offer please make sure you visit our %1$swelcome page%2$s."
+msgstr "Добро пожаловать! Спасибо, что выбрали Flash! Чтобы получить все плюсы от использования темы, посетите нашу %1$sстраницу приветствия%2$s."
+
+#: inc/admin/class-flash-notice.php:63 inc/admin/class-flash-notice.php:82
+#: inc/admin/class-flash-welcome-notice.php:86
+msgid "Cheatin&#8217; huh?"
+msgstr "Эй! Жульничаем?"
+
+#: inc/admin/class-flash-notice.php:59 inc/admin/class-flash-notice.php:78
+#: inc/admin/class-flash-theme-review-notice.php:153
+#: inc/admin/class-flash-theme-review-notice.php:171
+#: inc/admin/class-flash-welcome-notice.php:82
+msgid "Action failed. Please refresh the page and retry."
+msgstr "Ошибка. Обновите страницу и попробуйте ещё раз."
+
+#: header.php:59
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: functions.php:224
+msgid "Add widgets here for footer sidebar 4."
+msgstr "Добавьте сюда виджеты для боковой панели 4 нижнего колонтитула."
+
+#: functions.php:222
+msgid "Footer Sidebar 4"
+msgstr "Боковая панель 4 нижнего колонтитула"
+
+#: functions.php:212
+msgid "Add widgets here for footer sidebar 3."
+msgstr "Добавьте сюда виджеты для боковой панели 3 нижнего колонтитула."
+
+#: functions.php:210
+msgid "Footer Sidebar 3"
+msgstr "Боковая панель 3 нижнего колонтитула"
+
+#: functions.php:200
+msgid "Add widgets here for footer sidebar 2."
+msgstr "Добавьте сюда виджеты для боковой панели 2 нижнего колонтитула."
+
+#: functions.php:198
+msgid "Footer Sidebar 2"
+msgstr "Боковая панель 2 нижнего колонтитула"
+
+#: functions.php:188
+msgid "Add widgets here for footer sidebar 1."
+msgstr "Добавьте сюда виджеты для боковой панели 1 нижнего колонтитула."
+
+#: functions.php:186
+msgid "Footer Sidebar 1"
+msgstr "Боковая панель 1 нижнего колонтитула"
+
+#: functions.php:176
+msgid "Add widgets here for left sidebar."
+msgstr "Добавить виджеты сюда для левой боковой панели."
+
+#: functions.php:174 inc/meta-boxes.php:27
+msgid "Left Sidebar"
+msgstr "Левая боковая панель"
+
+#: functions.php:164
+msgid "Add widgets here for right sidebar."
+msgstr "Добавить виджеты сюда для правой боковой панели."
+
+#: functions.php:162 inc/meta-boxes.php:22
+msgid "Right Sidebar"
+msgstr "Правая боковая панель"
+
+#: functions.php:62 inc/customizer.php:860
+msgid "Footer"
+msgstr "Нижний колонтитул"
+
+#: functions.php:61
+#: inc/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:110
+msgid "Social"
+msgstr "Соц.сети"
+
+#: functions.php:60
+msgid "Primary"
+msgstr "Основной"
+
+#: comments.php:92
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#: comments.php:57 comments.php:79
+msgid "Newer Comments"
+msgstr "Следующие комментарии"
+
+#: comments.php:56 comments.php:78
+msgid "Older Comments"
+msgstr "Предыдущие комментарии"
+
+#: comments.php:53 comments.php:75
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:37
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s Комментарий к &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s Комментария к &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s Комментариев к &ldquo;%2$s&rdquo;"
+
+#. translators: %s: post title
+#: comments.php:33
+msgctxt "comments title"
+msgid "One Thought on &ldquo;%s&rdquo;"
+msgstr "Один комментарий к &ldquo;%s&rdquo;"
+
+#: 404.php:29
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Похоже ничего не найдено по данной ссылке. Возможно попробуйте одну из ссылок ниже или воспользуйтесь поиском?"
+
+#: 404.php:25
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ой! Страница не найдена."
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themegrill.com"
+msgstr "https://themegrill.com"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "ThemeGrill"
+msgstr "ThemeGrill"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themegrill.com/themes/flash"
+msgstr "https://themegrill.com/themes/flash"

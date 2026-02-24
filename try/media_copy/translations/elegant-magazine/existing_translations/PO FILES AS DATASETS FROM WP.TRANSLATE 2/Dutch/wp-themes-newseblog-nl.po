@@ -1,0 +1,175 @@
+# Translation of Themes - NewseBlog in Dutch
+# This file is distributed under the same license as the Themes - NewseBlog package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-11-10 13:09:58+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: nl\n"
+"Project-Id-Version: Themes - NewseBlog\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "NewseBlog is a fast, modern, highly customizable WordPress theme built for news websites, magazines, bloggers, and content creators, offering clean code, mobile-first design, lightning-fast performance, SEO optimization, beautiful homepage layouts, featured sliders, trending sections, multiple blog styles, complete Elementor and Gutenberg compatibility, seamless integration with the free Blog News For Elementor plugin with 50+ widgets and 20+ templates, and all the speed, power, and flexibility needed to create stunning news portals, personal blogs, magazine sites, or multi-author platforms. All these templates are created with elementor page builder.  Live preview : https://blognews.themeansar.com/default and documentation at https://docs.themeansar.com/docs/blognews-for-elementor/"
+msgstr ""
+
+#. Theme Name of the theme
+#: style.css admin/newseblog-admin-plugin-install.php:78
+#, gp-priority: high
+msgid "NewseBlog"
+msgstr "NewseBlog"
+
+#: admin/newseblog-admin-plugin-install.php:124
+msgid "Failed to fetch plugin information."
+msgstr "Het is niet gelukt om plugin informatie op te halen."
+
+#: template-parts/content.php:49
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Er kwam niets kwam overeen met je zoektermen. Probeer het opnieuw met enkele andere keywords."
+
+#: template-parts/content.php:48
+msgid "Nothing Found!"
+msgstr "Niets gevonden!"
+
+#: template-parts/content.php:42
+msgid "Read More"
+msgstr "Lees verder"
+
+#: single.php:33 template-parts/content.php:37
+msgid "Comments"
+msgstr "Reacties"
+
+#: single.php:33 template-parts/content.php:37
+msgid "1 Comment"
+msgstr "1 reactie"
+
+#: single.php:33 template-parts/content.php:37
+msgid "No Comments"
+msgstr "Geen reacties"
+
+#: page.php:31
+msgid "Pages:"
+msgstr "Pagina's:"
+
+#: header.php:30
+msgid "Skip to content"
+msgstr "Ga naar de inhoud"
+
+#: functions.php:116
+msgid "Primary menu"
+msgstr "Primair menu"
+
+#: footer.php:21
+msgid "<p> <span class=\"copyright-text\">Copyright © All rights reserved</span> | %1$s by  <a href=\"%2$s\">%3$s.</a></p>"
+msgstr "<p> <span class=\"copyright-text\">Copyright © Alle rechten voorbehouden</span> | %1$s door <a href=\"%2$s\">%3$s.</a></p>"
+
+#: comments.php:94
+msgid "Comments are closed."
+msgstr "Reacties zijn gesloten."
+
+#: comments.php:59 comments.php:83
+msgid "Newer Comments"
+msgstr "Nieuwere reacties"
+
+#: comments.php:58 comments.php:82
+msgid "Older Comments"
+msgstr "Oudere reacties"
+
+#: comments.php:55 comments.php:79
+msgid "Comment navigation"
+msgstr "Reactie navigatie"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:36
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s gedachte over &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s gedachten over &ldquo;%2$s&rdquo;"
+
+#. translators: %s: post title
+#: comments.php:31
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Eén gedachte over &ldquo;%s&rdquo;"
+
+#: admin/newseblog-admin-plugin-install.php:155
+msgid "All plugins installed and activated successfully."
+msgstr "Alle plugins succesvol geïnstalleerd en geactiveerd."
+
+#: admin/newseblog-admin-plugin-install.php:132
+msgid "Plugin installation failed."
+msgstr "Plugin installatie mislukt"
+
+#: admin/newseblog-admin-plugin-install.php:96
+msgid "Sorry, you are not allowed to access this page."
+msgstr "Je hebt geen toestemming om deze pagina te bekijken."
+
+#: admin/newseblog-admin-plugin-install.php:68
+msgid "Video Tutorials"
+msgstr "Video handleidingen"
+
+#: admin/newseblog-admin-plugin-install.php:64
+msgid "Support"
+msgstr "Ondersteuning"
+
+#: admin/newseblog-admin-plugin-install.php:60
+msgid "View Documentation"
+msgstr "Bekijk documentatie"
+
+#: admin/newseblog-admin-plugin-install.php:55
+msgid "View Demos"
+msgstr "Demo's bekijken"
+
+#: admin/newseblog-admin-plugin-install.php:54
+msgid "Get Started"
+msgstr "Ga aan de slag"
+
+#: admin/newseblog-admin-plugin-install.php:46
+msgid "Ansar Import"
+msgstr "Ansar import"
+
+#: admin/newseblog-admin-plugin-install.php:41
+msgid "Thank you for choosing %1$s theme. To take full advantage of the complete features of the theme, click Get Started and install and activate the %2$s plugin, then use the demo importer and install the %3$s demo according to your need."
+msgstr "Bedankt voor het kiezen van het %1$s thema. Om ten volle te profiteren van de volledige functies van het thema, klik op Aan de slag en installeer en activeer de %2$s plugin, gebruik dan de demo importer en installeer de %3$s demo volgens Je behoefte."
+
+#: admin/newseblog-admin-plugin-install.php:35
+msgid "Welcome to %1$s"
+msgstr "Welkom bij %1$s"
+
+#: admin/newseblog-admin-plugin-install.php:27
+msgid "Hello, "
+msgstr "Hallo, "
+
+#: 404.php:21
+msgid "Go Back"
+msgstr "Ga terug"
+
+#: 404.php:20
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr "De pagina die je zoekt bestaat niet."
+
+#: 404.php:19
+msgid "Page Not Found"
+msgstr "Pagina niet gevonden"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themeansar.com/free-themes/newseblog/"
+msgstr "https://themeansar.com/free-themes/newseblog/"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themeansar.com"
+msgstr "https://themeansar.com"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Themeansar"
+msgstr "Themeansar"

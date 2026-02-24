@@ -1,0 +1,2574 @@
+# Translation of Themes - ReviewNews in Russian
+# This file is distributed under the same license as the Themes - ReviewNews package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-11-26 07:14:25+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - ReviewNews\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "ReviewNews is a dynamic, ultra-fast, and highly versatile WordPress theme made for News, Magazine, Blog, Business, and eCommerce websites across the world. With its powerful HEADER & FOOTER BUILDER that works seamlessly with the Block Editor, GUTENBERG, ELEMENTOR, BRIZY, DIVI, and other popular page builders, you can design PROFESSIONAL LAYOUTS easily using drag and drop—no coding required. Packed with 50+ STARTER SITES, 30+ CUSTOM WIDGETS, ADVANCED BLOCK PATTERNS, FLEXIBLE LAYOUT OPTIONS, AMP SUPPORT, and FULL WOOCOMMERCE INTEGRATION, it’s perfect for everything from online newspapers, corporate or NGO sites, and educational or cultural portals to personal blogs, portfolios, and lifestyle magazines. ReviewNews is fully optimized for SEO, CORE WEB VITALS, SPEED, and RESPONSIVE DESIGN, ensuring FAST LOADING and excellent performance on all devices. Built with WCAG ACCESSIBILITY, GDPR COMPLIANCE, and LIGHTWEIGHT, CLEAN CODE, it offers long-term stability and high GOOGLE PAGESPEED SCORES. MULTILINGUAL and RTL READY, with demo content in English, Spanish, German, French, Japanese, Chinese, and Arabic, ReviewNews is a truly GLOBAL, FUTURE-PROOF THEME designed for creators, publishers, and businesses who value STYLE, SCALABILITY, and PERFORMANCE across every market. Explore all features at https://afthemes.com/products/reviewnews"
+msgstr ""
+
+#. Theme Name of the theme
+#: style.css inc/hooks/hook-patterns.php:15
+#, gp-priority: high
+msgid "ReviewNews"
+msgstr "ReviewNews"
+
+#: inc/customizer/theme-options.php:213
+msgid "From WordPress Settings"
+msgstr ""
+
+#: inc/customizer/theme-options.php:212
+msgid "24 hours"
+msgstr ""
+
+#: inc/customizer/theme-options.php:211
+msgid "12 hours"
+msgstr ""
+
+#: inc/customizer/theme-options.php:207
+msgid "Time Format"
+msgstr ""
+
+#: inc/customizer/theme-options.php:186
+msgid "Show Time"
+msgstr ""
+
+#: inc/customizer/theme-options.php:160
+msgid "Show Date"
+msgstr ""
+
+#: inc/customizer/customizer.php:149
+msgid "Header Background"
+msgstr ""
+
+#: inc/template-tags.php:410
+msgid "No results found."
+msgstr ""
+
+#: inc/template-tags.php:404
+msgid "View all results for \"%s\""
+msgstr ""
+
+#: inc/template-tags.php:403
+msgid "View all search results"
+msgstr ""
+
+#: inc/template-tags.php:385
+msgid "Live search results"
+msgstr ""
+
+#: inc/template-tags.php:357
+msgid "Invalid security token."
+msgstr ""
+
+#: inc/template-tags.php:343
+msgid "Searching..."
+msgstr ""
+
+#: inc/customizer/theme-options.php:1371
+msgid "Ajax Results Dropdown"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1324
+msgid "Search Options"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:212
+msgid "Slider and Double Trending"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:211
+msgid "Slider, Tiles and Trending"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:210
+msgid "Slider and Double Tiles"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:206
+msgid "Select Main Banner Layout"
+msgstr "Выбрать макет главного баннера"
+
+#: inc/customizer/font-color-options.php:242
+msgid "Site title, post titles, widgets titles, etc"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:241
+msgid "Secondary Font"
+msgstr "Дополнительный шрифт"
+
+#: inc/customizer/font-color-options.php:219
+msgid "Content, menus, normal texts and paragraphs, etc"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:218
+msgid "Primary Font"
+msgstr "Основной шрифт"
+
+#. translators: Hidden heading for the post navigation section.
+#: template-parts/content.php:52
+msgid "Post navigation"
+msgstr "Навигация записи"
+
+#. translators: %s: Title of the next post.
+#: template-parts/content.php:48
+msgid "Next: %s"
+msgstr "Следующий: %s"
+
+#. translators: %s: Title of the previous post.
+#: template-parts/content.php:43
+msgid "Previous: %s"
+msgstr "Предыдущий %s"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:20
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Читать далее<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: template-parts/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Похоже, мы не можем найти то, что вы ищете. Возможно, поиск поможет."
+
+#: template-parts/content-none.php:38
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "По вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:25
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните здесь</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#. translators: %s: search query.
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для: %s"
+
+#. Template Name of the theme
+msgid "Page Builder Full Width"
+msgstr "Конструктор страниц во всю ширину"
+
+#. Template Name of the theme
+msgid "Blank Canvas"
+msgstr "Чистый холст"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: lib/tgm/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка плагина %1$s (%2$d/%3$d)"
+
+#: lib/tgm/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Все установки завершены."
+
+#: lib/tgm/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Начался процесс установки, он может занять некоторое время, особенно на медленных серверах, будьте терпеливы."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: lib/tgm/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка и активация плагина %1$s (%2$d/%3$d)"
+
+#: lib/tgm/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Все процедуры установки и активации завершены."
+
+#. translators: 1: plugin name.
+#: lib/tgm/class-tgm-plugin-activation.php:3509
+#: lib/tgm/class-tgm-plugin-activation.php:3517
+msgid "%1$s done."
+msgstr "%1$s готов."
+
+#: lib/tgm/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Началась установка и активация. Этот процесс может занять некоторое время, особенно на медленных серверах, будьте терпеливы."
+
+#. translators: 1: plugin name.
+#: lib/tgm/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "Установка %1$s не удалась."
+
+#. translators: 1: plugin name, 2: error message.
+#: lib/tgm/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Возникла ошибка при установке %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: lib/tgm/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Обновление плагина %1$s (%2$d/%3$d)"
+
+#: lib/tgm/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Активация плагина не удалась."
+
+#: lib/tgm/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Сейчас нет доступных плагинов для активации."
+
+#: lib/tgm/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Не выбрано плагинов для активации. Действий не требуется."
+
+#: lib/tgm/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Сейчас нет доступных плагинов для обновления."
+
+#: lib/tgm/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Сейчас нет доступных плагинов для установки."
+
+#: lib/tgm/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Не выбрано плагинов для обновления. Действий не требуется."
+
+#: lib/tgm/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Не выбрано плагинов для установки. Действий не требуется."
+
+#: lib/tgm/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Установка"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Сообщение об обновлении от автора плагина:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: lib/tgm/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Активировать %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: lib/tgm/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Обновить %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: lib/tgm/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Установить %2$s"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Статус"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Версия"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Тип"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Источник"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Плагин"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Нет плагинов для установки, обновления или активации."
+
+#: lib/tgm/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Доступная версия:"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Миним. необходимая версия:"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Установленная версия:"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "неизвестна"
+
+#. translators: 1: number of plugins.
+#: lib/tgm/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Для активации <span class=\"count\">(%s)</span>"
+msgstr[1] "Для активации <span class=\"count\">(%s)</span>"
+msgstr[2] "Для активации <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: lib/tgm/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Доступно обновления <span class=\"count\">(%s)</span>"
+msgstr[1] "Доступно обновления <span class=\"count\">(%s)</span>"
+msgstr[2] "Доступно обновлений <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: lib/tgm/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Установить <span class=\"count\">(%s)</span>"
+msgstr[1] "Установить <span class=\"count\">(%s)</span>"
+msgstr[2] "Установить <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: lib/tgm/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Все <span class=\"count\">(%s)</span>"
+msgstr[1] "Все <span class=\"count\">(%s)</span>"
+msgstr[2] "Все <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: lib/tgm/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Рекомендуется обновление"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Требуется обновление"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Требуемое обновление недоступно"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Активный"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Установлен, но не активирован"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Не установлен"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Предварительно упакованный"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Внешний источник"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Репозиторий WordPress"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Рекомендован"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Требуется"
+
+#. translators: %s: version number
+#: lib/tgm/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: lib/tgm/class-tgm-plugin-activation.php:1121
+#: lib/tgm/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "и"
+
+#: lib/tgm/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Пакет удаленного плагина состоит из нескольких файлов, но файлы не упакованы в папку."
+
+#: lib/tgm/class-tgm-plugin-activation.php:934
+#: lib/tgm/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Свяжитесь с поставщиком плагина и попросите его упаковать плагин в соответствии с рекомендациями WordPress."
+
+#: lib/tgm/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "В пакете удаленного плагина нет папки с нужным ярлыком и переименование не помогло."
+
+#: lib/tgm/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Требуется обновление"
+
+#: lib/tgm/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Этот плагин необходимо обновить, чтобы он был совместим с вашей темой."
+
+#: lib/tgm/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Обратитесь за помощью к администратору этого сайта."
+
+#: lib/tgm/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Имеются один или более требуемых, или рекомендуемых плагинов для установки, обновления или активации."
+
+#: lib/tgm/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Отклонить это уведомление"
+
+#. translators: 1: dashboard link.
+#: lib/tgm/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Все плагины были успешно установлены и активированы. %1$s"
+
+#. translators: 1: plugin name.
+#: lib/tgm/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Плагин не активирован. Тема требует более новую версию %s. Обновите плагин."
+
+#. translators: 1: plugin name.
+#: lib/tgm/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Действие не требовалось. Плагин %1$s уже активен."
+
+#: lib/tgm/class-tgm-plugin-activation.php:388
+#: lib/tgm/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Следующий плагин был успешно активирован:"
+msgstr[1] "Следующие плагины были успешно активированы:"
+msgstr[2] "Следующие плагинов был успешно активирован:"
+
+#: lib/tgm/class-tgm-plugin-activation.php:387
+#: lib/tgm/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "Плагин успешно активирован."
+
+#: lib/tgm/class-tgm-plugin-activation.php:386
+#: lib/tgm/class-tgm-plugin-activation.php:827
+#: lib/tgm/class-tgm-plugin-activation.php:2533
+#: lib/tgm/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Вернуться в консоль"
+
+#: lib/tgm/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Вернуться к установке требуемых плагинов"
+
+#: lib/tgm/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Начать активацию плагина"
+msgstr[1] "Начать активацию плагинов"
+msgstr[2] "Начать активацию плагинов"
+
+#: lib/tgm/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Начать обновление плагина"
+msgstr[1] "Начать обновление плагинов"
+msgstr[2] "Начать обновление плагинов"
+
+#: lib/tgm/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Начать установку плагина"
+msgstr[1] "Начать установку плагинов"
+msgstr[2] "Начать установку плагинов"
+
+#. translators: 1: plugin name(s).
+#: lib/tgm/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Следующий рекомендуемый плагин в настоящее время неактивен: %1$s."
+msgstr[1] "Следующие рекомендуемые плагины в настоящее время неактивны: %1$s."
+msgstr[2] "Следующие рекомендуемые плагины в настоящее время неактивны: %1$s."
+
+#. translators: 1: plugin name(s).
+#: lib/tgm/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Следующий требуемый плагин в настоящее время не активен: %1$s."
+msgstr[1] "Следующие требуемые плагины в настоящее время не активны: %1$s."
+msgstr[2] "Следующие требуемые плагины в настоящее время не активны: %1$s."
+
+#. translators: 1: plugin name(s).
+#: lib/tgm/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Доступно обновление плагина: %1$s."
+msgstr[1] "Доступны обновления плагинов: %1$s."
+msgstr[2] "Доступны обновления плагинов: %1$s."
+
+#. translators: 1: plugin name(s).
+#: lib/tgm/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Для обеспечения максимальной совместимости с данной темой необходимо обновить следующий плагин до последней версии: %1$s."
+msgstr[1] "Для обеспечения максимальной совместимости с данной темой необходимо обновить следующие плагины до последней версии: %1$s."
+msgstr[2] "Для обеспечения максимальной совместимости с данной темой необходимо обновить следующие плагины до последней версии: %1$s."
+
+#. translators: 1: plugin name(s).
+#: lib/tgm/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Для этой темы рекомендуется следующий плагин: %1$s."
+msgstr[1] "Для этой темы рекомендуются следующие плагины: %1$s."
+msgstr[2] "Для этой темы рекомендуются следующие плагины: %1$s."
+
+#. translators: 1: plugin name(s).
+#: lib/tgm/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Эта тема требует следующий плагин: %1$s."
+msgstr[1] "Эта тема требует следующие плагины: %1$s."
+msgstr[2] "Эта тема требует следующие плагины: %1$s."
+
+#: lib/tgm/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Что-то пошло не так с API плагина."
+
+#. translators: %s: plugin name.
+#: lib/tgm/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Обновление плагина: %s"
+
+#. translators: %s: plugin name.
+#: lib/tgm/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Установка плагина: %s"
+
+#: lib/tgm/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Установить плагины"
+
+#: lib/tgm/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Установить требуемые плагины"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:875
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "W"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:846
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:1293
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "j"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:845
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:903
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:1289
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "F"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:844
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:874
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:902
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:930
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:1285
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:827
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "h"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:809
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "i"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:791
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "H:i"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:318
+msgid "Week %s"
+msgstr "Неделя %s"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:316
+msgid "Minute %s"
+msgstr "Минута %s"
+
+#. Translators: %s is the page number.
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:314
+msgid "Comment Page %s"
+msgstr "Страница комментария %s"
+
+#. Translators: %s is the page number.
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:312
+msgid "Page %s"
+msgstr "Страница %s"
+
+#. Translators: %s is the search query.
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:310
+msgid "Search results for: %s"
+msgstr "Результаты поиска: %s"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:308
+msgid "Archives"
+msgstr "Архивы"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:307
+msgid "404 Not Found"
+msgstr "404 не найдено"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:306
+msgid "Home"
+msgstr "Главная"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:305
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "Навигационные цепочки"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:304
+msgid "Browse:"
+msgstr "Обзор:"
+
+#. translators: number of items in the mini cart.
+#: inc/woocommerce.php:258
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d элемент"
+msgstr[1] "%d элемента"
+msgstr[2] "%d элементов"
+
+#: inc/woocommerce.php:254
+msgid "View your shopping cart"
+msgstr "Просмотреть свою корзину"
+
+#: inc/widgets/widgets-register-sidebars.php:88
+msgid "Displays items on footer third column."
+msgstr "Отображать элементы в 3-м столбце подвала."
+
+#: inc/widgets/widgets-register-sidebars.php:86
+msgid "Footer Widget 3"
+msgstr "Виджет 3 подвала"
+
+#: inc/widgets/widgets-register-sidebars.php:78
+msgid "Displays items on footer second column."
+msgstr "Отображать элементы во 2-м столбце подвала."
+
+#: inc/widgets/widgets-register-sidebars.php:76
+msgid "Footer Widget 2"
+msgstr "Виджет 2 подвала"
+
+#: inc/widgets/widgets-register-sidebars.php:67
+msgid "Displays items on footer first column."
+msgstr "Отображать элементы в 1-м столбце подвала."
+
+#: inc/widgets/widgets-register-sidebars.php:65
+msgid "Footer Widget 1"
+msgstr "Виджет 1 подвала"
+
+#: inc/widgets/widgets-register-sidebars.php:55
+msgid "Add widgets to front-page sidebar section."
+msgstr "Добавить виджеты в раздел области виджетов на главной странице."
+
+#: inc/widgets/widgets-register-sidebars.php:53
+msgid "Front-page Sidebar Section"
+msgstr "Раздел область виджетов главной страницы"
+
+#: inc/widgets/widgets-register-sidebars.php:45
+msgid "Add widgets to front-page contents section."
+msgstr "Добавить виджеты в раздел содержимого главной страницы."
+
+#: inc/widgets/widgets-register-sidebars.php:43
+msgid "Front-page Content Section"
+msgstr "Раздел Содержимое главной страницы"
+
+#: inc/widgets/widgets-register-sidebars.php:35
+msgid "Add widgets for main sidebar."
+msgstr "Добавить виджеты для главной области виджетов."
+
+#: inc/widgets/widgets-register-sidebars.php:33
+msgid "Main Sidebar"
+msgstr "Главная боковая панель"
+
+#: inc/widgets/widgets-register-sidebars.php:25
+msgid "Add widgets for off-canvas section."
+msgstr "Добавить виджеты для раздела, скрытого за пределами экрана."
+
+#: inc/widgets/widgets-register-sidebars.php:23
+msgid "Off Canvas Drawer Menu Section"
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:13
+msgid "Add widgets for frontpage banner section advertisement."
+msgstr "Добавить виджеты для рекламы раздела баннеров на главной странице."
+
+#: inc/widgets/widgets-register-sidebars.php:11
+msgid "Header Banner Ad Section"
+msgstr ""
+
+#: inc/widgets/widgets-common-functions.php:99
+msgid "Popular"
+msgstr "Популярные"
+
+#: inc/widgets/widgets-common-functions.php:86
+msgid "Recent"
+msgstr "Последние"
+
+#: inc/widgets/widgets-base.php:235
+msgctxt "Remove"
+msgid "X"
+msgstr "X"
+
+#: inc/widgets/widgets-base.php:224
+msgid "Choose Image"
+msgstr "Выбрать изображение"
+
+#: inc/widgets/widgets-base.php:223
+msgid "Select Image"
+msgstr "Выбрать изображение"
+
+#: inc/widgets/widgets-base.php:222
+msgid "Upload"
+msgstr "Отправить"
+
+#: inc/widgets/widget-trending-posts.php:34
+msgid "AFT Trending News"
+msgstr "AFT трендовые новости"
+
+#: inc/widgets/widget-social-contacts.php:67
+msgid "Social menu is not set. You need to create menu and assign it to Social Menu on Menu Settings."
+msgstr "Меню соцсетей не установлено. Вам нужно создать меню и назначить его в разделе меню соцсетей в настройках меню."
+
+#: inc/widgets/widget-social-contacts.php:41
+msgid "Connect with Us"
+msgstr "Свяжитесь с нами"
+
+#: inc/widgets/widget-social-contacts.php:24
+msgid "AFT Social Contacts"
+msgstr "AFT Социальные контакты"
+
+#: inc/widgets/widget-social-contacts.php:20
+msgid "Displays social contacts lists from selected settings."
+msgstr "Отображать списки социальных контактов из выбранных настроек."
+
+#: inc/widgets/widget-posts-slider.php:113
+msgid "Select category"
+msgstr "Выбрать рубрику"
+
+#: inc/widgets/widget-posts-slider.php:24
+msgid "AFT Posts Slider"
+msgstr "AFT слайдер записей"
+
+#: inc/widgets/widget-posts-slider.php:20
+msgid "Displays posts slider from selected category."
+msgstr "Отображать слайдер записи из выбранной рубрики."
+
+#: inc/widgets/widget-posts-single-column.php:32
+msgid "AFT Post Single Column"
+msgstr "AFT отдельный столбец записи"
+
+#: inc/widgets/widget-posts-single-column.php:28
+msgid "Displays posts single column from selected categories."
+msgstr "Отображает записи в отдельном столбце из выбранных рубрики."
+
+#: inc/widgets/widget-posts-list.php:32
+msgid "AFT Post List"
+msgstr "AFT список записи"
+
+#: inc/widgets/widget-posts-grid.php:32
+msgid "AFT Post Grid"
+msgstr "AFT сетка записи"
+
+#: inc/widgets/widget-posts-double-column.php:144
+msgid "Select Category 2"
+msgstr "Выбрать рубрику 2"
+
+#: inc/widgets/widget-posts-double-column.php:143
+msgid "Select Category 1"
+msgstr "Выбрать рубрику 1"
+
+#: inc/widgets/widget-posts-double-column.php:34
+msgid "AFT Post Double Columns"
+msgstr "AFT отдельный столбец записи"
+
+#: inc/widgets/widget-posts-double-column.php:30
+#: inc/widgets/widget-posts-grid.php:28 inc/widgets/widget-posts-list.php:28
+#: inc/widgets/widget-trending-posts.php:30
+msgid "Displays grid from selected categories."
+msgstr "Отображает сетку из выбранных рубрик."
+
+#: inc/widgets/widget-express-posts-list.php:32
+msgid "AFT Express Posts List"
+msgstr "AFT экспресс-сетка записей"
+
+#: inc/widgets/widget-express-posts-list.php:28
+msgid "Displays Express Posts from selected categories."
+msgstr "Отображает экспресс-записи из выбранных рубрик."
+
+#: inc/widgets/widget-author-info.php:146
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/widgets/widget-author-info.php:145
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/widgets/widget-author-info.php:144
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/widgets/widget-author-info.php:143
+msgid "Descriptions"
+msgstr "Описания"
+
+#: inc/widgets/widget-author-info.php:142
+msgid "Name"
+msgstr "Имя"
+
+#: inc/widgets/widget-author-info.php:141
+msgid "Profile image"
+msgstr "Изображение профиля"
+
+#: inc/widgets/widget-author-info.php:24
+msgid "AFT Author Info"
+msgstr "AFT инфо об авторе"
+
+#: inc/widgets/widget-author-info.php:20
+msgid "Displays author info."
+msgstr "Отображать информацию об авторе."
+
+#: inc/upgrade.php:214
+msgid "Have Queries?"
+msgstr "Есть вопросы?"
+
+#: inc/upgrade.php:209
+msgid "Maybe Later"
+msgstr "Может быть позже"
+
+#: inc/upgrade.php:204
+msgid "All Themes Plan"
+msgstr "План по всем темам"
+
+#: inc/upgrade.php:199
+msgid "Power Bundle"
+msgstr ""
+
+#: inc/upgrade.php:194
+msgid "Claim Your Discount"
+msgstr "Запросить скидку"
+
+#: inc/upgrade.php:73 inc/upgrade.php:93
+msgid "Cheatin&#8217; huh?"
+msgstr "Хакер, что ли?"
+
+#: inc/upgrade.php:69 inc/upgrade.php:89
+msgid "Action failed. Please refresh the page and retry."
+msgstr "Действие не удалось. Обновите страницу и попробуйте снова."
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:291 template-parts/content-page.php:41
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Изменить <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/template-tags.php:261
+msgid "%s ago"
+msgstr "%s назад"
+
+#: inc/template-tags.php:148 inc/template-tags.php:233
+msgid "(Last updated: %s)"
+msgstr "(Последнее обновление: %s)"
+
+#: inc/template-functions.php:1280
+msgid "Leave a comment"
+msgstr "Оставить комментарий"
+
+#: inc/template-functions.php:1272
+msgid "Your website"
+msgstr "Ваш сайт"
+
+#: inc/template-functions.php:1264
+msgid "Your email"
+msgstr "Ваш email"
+
+#: inc/template-functions.php:1256
+msgid "Your name"
+msgstr "Ваше имя"
+
+#: inc/template-functions.php:1205
+msgid "View All Posts"
+msgstr "Просмотреть все записи"
+
+#: inc/template-functions.php:1199
+msgid "Visit Website"
+msgstr "Перейти на сайт"
+
+#: inc/template-functions.php:1171
+msgid "About the Author"
+msgstr "Об авторе"
+
+#: inc/template-functions.php:878
+msgid "Link copied to clipboard!"
+msgstr "Ссылка скопирована в буфер обмена"
+
+#: inc/template-functions.php:878
+msgid "Copy link to clipboard"
+msgstr "Скопировать ссылку в буфер обмена"
+
+#: inc/template-functions.php:789 inc/template-functions.php:822
+#: inc/template-functions.php:825
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] "%s комментарий"
+msgstr[1] "%s комментария"
+msgstr[2] "%s комментариев"
+
+#: inc/template-functions.php:652
+msgid "%s min read"
+msgstr "%s мин чтения"
+
+#: inc/template-functions.php:624
+msgid "Next"
+msgstr "Далее"
+
+#: inc/template-functions.php:623
+msgid "Previous"
+msgstr "Назад"
+
+#: inc/template-functions.php:579 inc/template-functions.php:581
+msgid "Read more about %s"
+msgstr "Прочитать больше о %s"
+
+#: inc/review.php:103
+msgid "Got any support queries?"
+msgstr "Есть вопросы в службу поддержки?"
+
+#: inc/review.php:98
+msgid "I've already done."
+msgstr "Я уже сделал."
+
+#: inc/review.php:93
+msgid "Remind me later"
+msgstr "Напомни мне позже"
+
+#: inc/review.php:88
+msgid "Sure thing"
+msgstr "Конечно же"
+
+#. Translators: %1$s current user display name.
+#: inc/review.php:74
+msgid "Howdy, %1$s! We've noticed that you've been using %2$s for some time now, we hope you are loving it! We would appreciate it if you can give us %3$sreview and rating%4$s on WordPress.org! We'll continue to develop exciting new features for free in the future by sharing the love!"
+msgstr "Привет, %1$s! Мы заметили, что вы уже некоторое время используете %2$s, и мы надеемся, что вам это нравится! Мы будем признательны, если вы %3$s поставите нам 5 звезд на WordPress.org%4$s! В будущем мы продолжим бесплатно разрабатывать новые захватывающие функции, делясь любовью!"
+
+#: inc/hooks/patterns/theme-block-10-2.php:9
+msgid "Post List - 2"
+msgstr "Список записей 2"
+
+#: inc/hooks/patterns/theme-block-9-2.php:9
+msgid "Single Column - 2"
+msgstr "Отдельный столбец - 2"
+
+#: inc/hooks/patterns/theme-block-8.php:9
+msgid "Large Posts"
+msgstr "Большие записи"
+
+#: inc/hooks/patterns/theme-block-8-2.php:9
+msgid "Large Posts - 2"
+msgstr ""
+
+#: inc/hooks/patterns/theme-block-7-2.php:9
+msgid "Post Grid - 2"
+msgstr ""
+
+#: inc/hooks/patterns/theme-block-6.php:9
+msgid "3 Columns Post Grid"
+msgstr ""
+
+#: inc/hooks/patterns/theme-block-6-2.php:9
+msgid "3 Columns Post Grid - 2"
+msgstr ""
+
+#: inc/hooks/patterns/section-4.php:9
+msgid "Section 4"
+msgstr "Раздел 4"
+
+#: inc/hooks/patterns/section-3.php:9
+msgid "Section 3"
+msgstr "Раздел 3"
+
+#: inc/hooks/patterns/section-2.php:9
+msgid "Section 2"
+msgstr "Раздел 2"
+
+#: inc/hooks/patterns/section-1.php:9
+msgid "Section 1"
+msgstr "Раздел 1"
+
+#: inc/hooks/patterns/full.php:188 inc/hooks/patterns/section-4.php:54
+msgid "Categories"
+msgstr "Рубрики"
+
+#: inc/hooks/patterns/full.php:160 inc/hooks/patterns/section-4.php:26
+#: inc/hooks/patterns/theme-block-9.php:9
+msgid "Single Column"
+msgstr "Отдельный столбец"
+
+#: inc/hooks/patterns/full.php:152 inc/hooks/patterns/section-4.php:18
+msgid "Express Tile"
+msgstr ""
+
+#: inc/hooks/patterns/full.php:130 inc/hooks/patterns/full.php:170
+#: inc/hooks/patterns/section-3.php:83 inc/hooks/patterns/section-4.php:36
+msgid "Advertisement"
+msgstr "Реклама"
+
+#: inc/hooks/patterns/full.php:92 inc/hooks/patterns/section-3.php:45
+msgid "Connect to Us"
+msgstr "Связь с нами"
+
+#: inc/hooks/patterns/full.php:84 inc/hooks/patterns/section-3.php:37
+#: inc/hooks/patterns/theme-block-10.php:9
+msgid "Post List"
+msgstr "Список записей"
+
+#: inc/hooks/patterns/full.php:74 inc/hooks/patterns/full.php:180
+#: inc/hooks/patterns/section-3.php:27 inc/hooks/patterns/section-4.php:46
+#: inc/hooks/patterns/theme-block-7.php:9
+msgid "Post Grid"
+msgstr "Сетка записи"
+
+#: inc/hooks/patterns/full.php:66 inc/hooks/patterns/section-3.php:19
+msgid "Post Slider"
+msgstr "Слайдер записи"
+
+#: inc/hooks/patterns/full.php:47 inc/hooks/patterns/section-2.php:35
+msgid "We mainly focus on quality code and elegant design with incredible support. Our WordPress themes and plugins empower you to create an elegant, professional, and easy-to-maintain website in no time at all. Even on mobile and tablet screens, your website will look great"
+msgstr "В основном мы уделяем внимание качественному коду и элегантному дизайну с невероятной поддержкой. Наши темы и плагины WordPress позволяют вам создать элегантный, профессиональный и простой в обслуживании веб-сайт в кратчайшие сроки. Даже на экранах мобильных устройств и планшетов ваш сайт будет выглядеть великолепно"
+
+#: inc/hooks/patterns/full.php:41 inc/hooks/patterns/section-2.php:29
+#: inc/widgets/widget-author-info.php:139
+msgid "About Author"
+msgstr "Про автора"
+
+#: inc/hooks/patterns/full.php:31 inc/hooks/patterns/section-2.php:19
+msgid "Express Grid"
+msgstr ""
+
+#: inc/hooks/patterns/dbg-single-post-column.php:9
+msgid "Single Post Column with Dark Background"
+msgstr ""
+
+#: inc/hooks/patterns/dbg-post-list.php:9
+msgid "Post List with Dark Background"
+msgstr ""
+
+#: inc/hooks/patterns/dbg-post-grid.php:9
+msgid "Post Grid with Dark Background"
+msgstr ""
+
+#: inc/hooks/patterns/dbg-post-grid-3-col.php:9
+msgid "3 Columns Post Grid with Dark Background"
+msgstr ""
+
+#: inc/hooks/patterns/dbg-large-post.php:9
+msgid "Large Post with Dark Background"
+msgstr "Большой заголовок с тёмным фоном"
+
+#: inc/hooks/patterns/block-5.php:9 inc/hooks/patterns/block-5.php:16
+#: inc/hooks/patterns/full.php:142
+msgid "Post Carousel"
+msgstr "Карусель записи"
+
+#: inc/hooks/patterns/block-4.php:16 inc/hooks/patterns/full.php:56
+msgid "Three Columns"
+msgstr "Три столбца"
+
+#: inc/hooks/patterns/block-4.php:9
+msgid "Three Columns Posts"
+msgstr "Записи в трех столбцах"
+
+#: inc/hooks/patterns/block-3.php:9 inc/hooks/patterns/block-3.php:16
+#: inc/hooks/patterns/full.php:20
+msgid "Featured News"
+msgstr "Избранные новости"
+
+#: inc/hooks/patterns/block-1.php:9
+msgid "Ticker News"
+msgstr "Бегущая строка новостей"
+
+#: inc/hooks/patterns/bg-single-post-column.php:9
+msgid "Single Post Column with Background"
+msgstr ""
+
+#: inc/hooks/patterns/bg-post-list.php:9
+msgid "Post List with Background"
+msgstr "Заголовок записи с фоном"
+
+#: inc/hooks/patterns/bg-post-grid.php:9
+msgid "Post Grid with Background"
+msgstr "Заголовок записи с фоном"
+
+#: inc/hooks/patterns/bg-post-grid-3-col.php:9
+msgid "3 Columns Post Grid with Background"
+msgstr ""
+
+#: inc/hooks/patterns/bg-large-post.php:9
+msgid "Large Post with Background"
+msgstr ""
+
+#: inc/hooks/hook-tgm.php:39
+msgid "Free Live Chat using 3CX"
+msgstr "Free Live Chat using 3CX"
+
+#: inc/hooks/hook-tgm.php:34
+msgid "WP Post Author"
+msgstr "Автор записи WP"
+
+#: inc/hooks/hook-tgm.php:29
+msgid "Blockspare"
+msgstr "Blockspare"
+
+#: inc/hooks/hook-tgm.php:24
+msgid "Elespare"
+msgstr "Elespare"
+
+#: inc/hooks/hook-tgm.php:19
+msgid "Templatespare"
+msgstr "Templatespare"
+
+#: inc/hooks/hook-meta.php:198 inc/hooks/hook-meta.php:236
+msgid "Select category color class. You can set appropriate categories color on \"Categories\" section of the theme customizer."
+msgstr "Выбрать класс цвета рубрики. Необходимый цвет рубрики можно задать в разделе «Рубрики» модуля настройки темы."
+
+#: inc/hooks/hook-meta.php:192 inc/hooks/hook-meta.php:220
+msgid "Color Class"
+msgstr "Класс цвета"
+
+#: inc/hooks/hook-meta.php:186 inc/hooks/hook-meta.php:226
+msgid "Category Color 3"
+msgstr "Цвет 3 рубрики"
+
+#: inc/hooks/hook-meta.php:185 inc/hooks/hook-meta.php:225
+msgid "Category Color 2"
+msgstr "Цвет 2 рубрики"
+
+#: inc/hooks/hook-meta.php:184 inc/hooks/hook-meta.php:224
+msgid "Category Color 1"
+msgstr "Цвет 1 рубрики"
+
+#: inc/hooks/hook-meta.php:111
+msgid "Please go to Customize>Front-page Options for Homepage."
+msgstr "Перейдите в Настройки>Настройки главной страницы для домашней страницы."
+
+#: inc/hooks/hook-meta.php:107
+msgid "No Sidebar"
+msgstr "Без боковой панели"
+
+#: inc/hooks/hook-meta.php:104
+msgid "Primary Sidebar - Content"
+msgstr "Основная область виджетов - содержимое"
+
+#: inc/hooks/hook-meta.php:101
+msgid "Content - Primary Sidebar"
+msgstr "Содержимое - основная область виджетов"
+
+#: inc/hooks/hook-meta.php:93
+msgid "Sidebar Options"
+msgstr "Параметры боковой панели"
+
+#: inc/hooks/hook-meta.php:88
+msgid "Please go to Customize>Themes Options for Single Post/Page."
+msgstr "Перейдите в Настройки>Настройки темы для отдельной записи/страницы."
+
+#: inc/hooks/hook-meta.php:77 inc/hooks/hook-meta.php:98
+msgid "Set as global layout"
+msgstr "Установить в качестве глобального макета"
+
+#: inc/hooks/hook-meta.php:72
+msgid "Content Options"
+msgstr "Настройки содержимого"
+
+#: inc/hooks/hook-meta.php:23
+msgid "Layout Options"
+msgstr "Параметры макета"
+
+#: inc/hooks/hook-header-section.php:291
+msgid "Light/Dark Button"
+msgstr "Кнопка: светлая/темная"
+
+#: inc/hooks/blocks/block-header-layout-default.php:82
+msgid "Open Off-Canvas Navigation"
+msgstr "Включить Canvas Navigation"
+
+#: inc/hooks/blocks/block-archive-grid.php:43
+#: template-parts/content-page.php:27 template-parts/content.php:57
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: inc/customizer/theme-options.php:1592
+msgid "Hide footer Menu Section"
+msgstr "Скрыть раздел нижнего меню"
+
+#: inc/customizer/theme-options.php:1570
+msgid "Copyright Text"
+msgstr "Текст авторских прав"
+
+#: inc/customizer/theme-options.php:1545
+msgid "Footer Background Image"
+msgstr "Фоновое изображение подвала"
+
+#: inc/customizer/theme-options.php:1509
+msgid "Footer Options"
+msgstr "Параметры подвала"
+
+#: inc/customizer/theme-options.php:1490
+msgid "Posts Section Title"
+msgstr "Название раздела записей"
+
+#: inc/customizer/theme-options.php:1470
+msgid "Show Above Footer"
+msgstr "Показать выше подвала"
+
+#: inc/customizer/theme-options.php:1434
+msgid "Bottom"
+msgstr "Снизу"
+
+#: inc/customizer/theme-options.php:1433
+msgid "Top"
+msgstr "Верх"
+
+#: inc/customizer/theme-options.php:1429
+msgid "Sidebar Sticky Position"
+msgstr "Позиция прикреплённой области виджетов"
+
+#: inc/customizer/theme-options.php:1408
+msgid "Make Sidebar Sticky"
+msgstr "Сделать область виджетов прикрепленной"
+
+#: inc/customizer/theme-options.php:1386
+msgid "Sidebar Settings"
+msgstr "Настройки боковой панели"
+
+#: inc/customizer/theme-options.php:1351
+msgid "Posts"
+msgstr "Записи"
+
+#: inc/customizer/theme-options.php:1350
+msgid "All (Pages, Posts, etc)"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1346
+msgid "Select search results for archive"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1345
+msgid "Search Results"
+msgstr "Результаты поиска"
+
+#: inc/customizer/theme-options.php:1312
+msgid "Full Content"
+msgstr "Всё содержимое"
+
+#: inc/customizer/theme-options.php:1311
+msgid "Post Excerpt"
+msgstr "Отрывок записи"
+
+#: inc/customizer/theme-options.php:1307
+msgid "Select content view for archive"
+msgstr "Выбрать вид содержимого для архива"
+
+#: inc/customizer/theme-options.php:1306
+msgid "Content View"
+msgstr "Просмотр содержимого"
+
+#: inc/customizer/theme-options.php:1278
+msgid "Select image alignment for archive"
+msgstr "Выбрать выравнивание изображения для архива"
+
+#: inc/customizer/theme-options.php:1277
+msgid "Image Alignment"
+msgstr "Выравнивание изображения"
+
+#: inc/customizer/theme-options.php:1256 inc/hooks/patterns/full.php:9
+msgid "Full"
+msgstr "Полное"
+
+#: inc/customizer/theme-options.php:1255
+msgid "grid"
+msgstr "сетка"
+
+#: inc/customizer/theme-options.php:1250
+msgid "Select layout for archive"
+msgstr "Выбрать макет для архива"
+
+#: inc/customizer/theme-options.php:1249
+msgid "Archive layout"
+msgstr "Раскладка архива"
+
+#: inc/customizer/theme-options.php:1228
+msgid "Disable Main Banner on Blog"
+msgstr "Отключить главный баннер на блоге"
+
+#: inc/customizer/theme-options.php:1206
+msgid "Archive Settings"
+msgstr "Настройки архива"
+
+#: inc/customizer/theme-options.php:1165
+msgid "Enable Related Posts"
+msgstr "Включить связанные записи"
+
+#: inc/customizer/theme-options.php:1144
+msgid "Related Posts Settings"
+msgstr "Настройки связанных записей"
+
+#: inc/customizer/theme-options.php:1123
+msgid "After Content"
+msgstr "После содержимого"
+
+#: inc/customizer/theme-options.php:1122
+msgid "Before Content"
+msgstr "Перед содержимым"
+
+#: inc/customizer/theme-options.php:1118
+msgid "Position"
+msgstr "Позиция"
+
+#: inc/customizer/theme-options.php:1100
+msgid "JetPack"
+msgstr "Jetpack"
+
+#: inc/customizer/theme-options.php:1099
+msgid "Theme"
+msgstr "Тема"
+
+#: inc/customizer/theme-options.php:1095
+msgid "Defined Links"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1075
+msgid "Social Share Options"
+msgstr "Параметры социального обмена"
+
+#: inc/customizer/theme-options.php:1052
+msgid "Show Tags under Content"
+msgstr "Показать метки в содержимым"
+
+#: inc/customizer/theme-options.php:1031
+msgid "Show Author Bio under Content"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1007 inc/hooks/hook-meta.php:83
+msgid "Spacious"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1001
+msgid "Single Content Mode"
+msgstr "Режим одиночного содержимого"
+
+#: inc/customizer/theme-options.php:980
+msgid "Original"
+msgstr "Оригинальный"
+
+#: inc/customizer/theme-options.php:979
+msgid "Full - Default"
+msgstr "Полностью (по-умолчанию)"
+
+#: inc/customizer/theme-options.php:975
+msgid "Featured Image Width"
+msgstr "Ширина изображения записи"
+
+#: inc/customizer/theme-options.php:954
+msgid "Show Featured Image"
+msgstr "Показать изображение записи"
+
+#: inc/customizer/theme-options.php:933
+msgid "Single Post"
+msgstr "Отдельная запись"
+
+#: inc/customizer/theme-options.php:917
+msgid "Link"
+msgstr "Ссылка"
+
+#: inc/customizer/theme-options.php:896 inc/customizer/theme-options.php:1185
+#: inc/widgets/widget-author-info.php:139
+#: inc/widgets/widget-express-posts-list.php:135
+#: inc/widgets/widget-posts-double-column.php:141
+#: inc/widgets/widget-posts-double-column.php:142
+#: inc/widgets/widget-posts-grid.php:114 inc/widgets/widget-posts-list.php:117
+#: inc/widgets/widget-posts-single-column.php:117
+#: inc/widgets/widget-posts-slider.php:111
+#: inc/widgets/widget-trending-posts.php:138
+msgid "Title"
+msgstr "Название"
+
+#: inc/customizer/theme-options.php:873
+msgid "Enable Custom Menu Section"
+msgstr "Включить раздел пользовательского банера"
+
+#: inc/customizer/theme-options.php:853
+msgid "Show Primary Menu Description"
+msgstr "Включить описание основного меню"
+
+#: inc/customizer/theme-options.php:833
+msgid "Primary Menu Section"
+msgstr ""
+
+#: inc/customizer/theme-options.php:810
+msgid "Global Excerpt Read More"
+msgstr "Глобальный отрывок Читать далее"
+
+#: inc/customizer/theme-options.php:787
+msgid "Excerpt Settings"
+msgstr "Настройки отрывка"
+
+#: inc/customizer/theme-options.php:747 inc/customizer/theme-options.php:769
+msgid "Minutes Read Count"
+msgstr "Подсчёт минут чтения"
+
+#: inc/customizer/theme-options.php:733
+msgid "Ago Date Format"
+msgstr "Формат даты тому назад"
+
+#: inc/customizer/theme-options.php:732
+msgid "WordPress Default Date Format"
+msgstr "Формат даты WordPress по умолчанию"
+
+#: inc/customizer/theme-options.php:728
+msgid "Date Format"
+msgstr "Формат даты"
+
+#: inc/customizer/theme-options.php:707 inc/customizer/theme-options.php:1101
+#: inc/customizer/theme-options.php:1313
+msgid "None"
+msgstr "Нет"
+
+#: inc/customizer/theme-options.php:706
+msgid "Show Icon"
+msgstr "Показать значок"
+
+#: inc/customizer/theme-options.php:705
+msgid "Show Gravatar"
+msgstr "Показывать Gravatar"
+
+#: inc/customizer/theme-options.php:701
+msgid "Author Icon"
+msgstr "Значок автора"
+
+#: inc/customizer/theme-options.php:679
+msgid "Author and Date Settings"
+msgstr ""
+
+#: inc/customizer/theme-options.php:667
+msgid "Number of Categories"
+msgstr "Кол-во рубрик"
+
+#: inc/customizer/theme-options.php:646
+msgid "Top One Category"
+msgstr "Лучшая рубрика"
+
+#: inc/customizer/theme-options.php:645
+msgid "Show All"
+msgstr "Показать всё"
+
+#: inc/customizer/theme-options.php:641
+msgid "Categories to be displayed"
+msgstr "Рубрики, которые будут отображаться"
+
+#: inc/customizer/theme-options.php:620 inc/customizer/theme-options.php:774
+msgid "Hide"
+msgstr "Скрыть"
+
+#: inc/customizer/theme-options.php:619 inc/customizer/theme-options.php:773
+msgid "Show"
+msgstr "Показать"
+
+#: inc/customizer/theme-options.php:615
+msgid "Post Categories"
+msgstr "Рубрики записи"
+
+#: inc/customizer/theme-options.php:594
+msgid "Categories Settings"
+msgstr "Настройки рубрик"
+
+#: inc/customizer/theme-options.php:582 inc/customizer/theme-options.php:1282
+msgid "Left"
+msgstr "Слева"
+
+#: inc/customizer/theme-options.php:581 inc/customizer/theme-options.php:1283
+msgid "Right"
+msgstr "Справа"
+
+#: inc/customizer/theme-options.php:576
+msgid "Scroll to Top Position"
+msgstr "Позиция прокрутки вверх"
+
+#: inc/customizer/theme-options.php:549
+msgid "Set to enhance rendering speed"
+msgstr ""
+
+#: inc/customizer/theme-options.php:548
+msgid "Image Async Decoding"
+msgstr ""
+
+#: inc/customizer/theme-options.php:522
+msgid "Set for better performance"
+msgstr ""
+
+#: inc/customizer/theme-options.php:521
+msgid "Image Lazy Loading"
+msgstr "Ленивая загрузка изображений"
+
+#: inc/customizer/theme-options.php:499 inc/customizer/theme-options.php:526
+#: inc/customizer/theme-options.php:553
+msgid "Enable "
+msgstr "Включить "
+
+#: inc/customizer/theme-options.php:495
+msgid "If there is no Post Featured image set"
+msgstr ""
+
+#: inc/customizer/theme-options.php:494
+msgid "Also Show Content Image in Archive"
+msgstr ""
+
+#: inc/customizer/theme-options.php:475
+msgid "Full width content"
+msgstr "Содержимое на всю ширину"
+
+#: inc/customizer/theme-options.php:474
+msgid "Primary sidebar - Content"
+msgstr "Основная область виджетов - содержимое"
+
+#: inc/customizer/theme-options.php:473
+msgid "Content - Primary sidebar"
+msgstr "Содержимое - основная область виджетов"
+
+#: inc/customizer/theme-options.php:469
+msgid "Global Content Alignment"
+msgstr "Глобальное выравнивание содержимого"
+
+#: inc/customizer/theme-options.php:449
+msgid "GDPR friendly & better performance"
+msgstr ""
+
+#: inc/customizer/theme-options.php:448
+msgid "Disable Emoji Script"
+msgstr "Отключить скрипт Emoji"
+
+#: inc/customizer/theme-options.php:427
+msgid "Enable Preloader"
+msgstr "Анимация загрузки"
+
+#: inc/customizer/theme-options.php:405
+msgid "Global Settings"
+msgstr "Глобальные настройки"
+
+#: inc/customizer/theme-options.php:386
+msgid "NavXT"
+msgstr "NavXT"
+
+#: inc/customizer/theme-options.php:385
+msgid "Rank Math"
+msgstr "Rank Math"
+
+#: inc/customizer/theme-options.php:384
+msgid "Yoast SEO"
+msgstr "Yoast SEO"
+
+#: inc/customizer/theme-options.php:383 inc/customizer/theme-options.php:1006
+#: inc/hooks/hook-meta.php:80
+msgid "Default"
+msgstr "По умолчанию"
+
+#: inc/customizer/theme-options.php:378
+msgid "Please ensure that you have enabled the plugin's breadcrumbs before choosing other than Default"
+msgstr "Убедитесь, что вы включили навигационные цепочки плагина, прежде чем выбирать другой вариант, кроме По умолчанию"
+
+#: inc/customizer/theme-options.php:377
+msgid "Select Breadcrumbs"
+msgstr "Выбрать навигационной цепочки"
+
+#: inc/customizer/theme-options.php:357
+msgid "Show breadcrumbs"
+msgstr "Показать навигационные цепочки"
+
+#: inc/customizer/theme-options.php:335
+msgid "Breadcrumb Options"
+msgstr "Параметры навигационной цепочки"
+
+#: inc/customizer/theme-options.php:320
+msgid "Theme Options"
+msgstr "Параметры темы"
+
+#: inc/customizer/theme-options.php:308
+msgid "URL Link"
+msgstr "URL ссылка"
+
+#: inc/customizer/theme-options.php:284
+msgid "Header Section Advertisement"
+msgstr "Реклама в разделе заголовка"
+
+#: inc/customizer/theme-options.php:234 inc/customizer/theme-options.php:257
+msgid "Header Advertisement"
+msgstr "Реклама в заголовке"
+
+#: inc/customizer/theme-options.php:138
+msgid "Show Top Header"
+msgstr "Показать верхний заголовок"
+
+#: inc/customizer/theme-options.php:116
+msgid "Top Header Section"
+msgstr "Раздел верхнего заголовка"
+
+#: inc/customizer/theme-options.php:98
+msgid "Sticky header works only with builder at bottom."
+msgstr ""
+
+#: inc/customizer/theme-options.php:94
+msgid "Disable Sticky Header"
+msgstr "Отключить прикрепленный заголовок"
+
+#: inc/customizer/theme-options.php:76 inc/customizer/theme-options.php:500
+#: inc/customizer/theme-options.php:527 inc/customizer/theme-options.php:554
+msgid "Disable"
+msgstr "Отключить"
+
+#: inc/customizer/theme-options.php:75
+msgid "Enable"
+msgstr "Включить"
+
+#: inc/customizer/theme-options.php:70
+msgid "Site Mode Switch"
+msgstr "Переключатель режима сайта"
+
+#: inc/customizer/theme-options.php:48
+msgid "Header Settings"
+msgstr "Настройки заголовка"
+
+#: inc/customizer/theme-options.php:31
+msgid "Header Options"
+msgstr "Параметры заголовка"
+
+#: inc/customizer/frontpage-options.php:999
+msgid "Only Home Content"
+msgstr "Только содержимое главной"
+
+#: inc/customizer/frontpage-options.php:998
+msgid "Home Sidebar - Home Content"
+msgstr "Область виджетов главной - содержимое главной"
+
+#: inc/customizer/frontpage-options.php:997
+msgid "Home Content - Home Sidebar"
+msgstr "Содержимое главной страницы - область виджетов главной"
+
+#: inc/customizer/frontpage-options.php:993
+msgid "Select frontpage content alignment"
+msgstr "Выбрать выравнивание содержимого главной страницы"
+
+#: inc/customizer/frontpage-options.php:992
+msgid "Front-page Content Alignment"
+msgstr "Выравнивание содержимого главной страницы"
+
+#: inc/customizer/frontpage-options.php:973
+msgid "Page Contents & Front-page Widgets"
+msgstr "Содержимое страницы и виджеты главной страницы"
+
+#: inc/customizer/frontpage-options.php:972
+msgid "Front-page Widgets"
+msgstr "Виджеты Титульной страницы"
+
+#: inc/customizer/frontpage-options.php:967
+msgid "Select frontpage content display"
+msgstr "Выбрать отображение содержимого главной страницы"
+
+#: inc/customizer/frontpage-options.php:966
+msgid "Front-page Content Display"
+msgstr "Раздел Содержимое главной страницы"
+
+#: inc/customizer/frontpage-options.php:944
+msgid "Front-page Layout Settings"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:901
+msgid "Section Title"
+msgstr "Название раздела"
+
+#: inc/customizer/frontpage-options.php:880
+msgid "Section %d"
+msgstr "Раздел %d"
+
+#: inc/customizer/frontpage-options.php:855
+msgid "Enable Post List Section"
+msgstr "Включить раздел списка записей"
+
+#: inc/customizer/frontpage-options.php:834
+msgid "Posts List"
+msgstr "Список записей"
+
+#: inc/customizer/frontpage-options.php:813
+#: inc/customizer/frontpage-options.php:927
+msgid "Select category to be shown on featured section "
+msgstr "Выбрать рубрику, которая будет показана в разделе Избранное "
+
+#: inc/customizer/frontpage-options.php:812
+msgid "Select "
+msgstr "Выбрать "
+
+#: inc/customizer/frontpage-options.php:767
+msgid "Enable Featured Post Section"
+msgstr "Включить раздел Рекомендуемые записи"
+
+#: inc/customizer/frontpage-options.php:727
+msgid "Front-page Options"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:631
+msgid "Comment Count"
+msgstr "Кол-во комментариев"
+
+#: inc/customizer/frontpage-options.php:572
+msgid "Trending Section"
+msgstr "Раздел Анализ тенденций"
+
+#: inc/customizer/frontpage-options.php:501
+#: inc/customizer/frontpage-options.php:659
+#: inc/widgets/widgets-common-functions.php:25
+msgid "Select"
+msgstr "Выбрать"
+
+#: inc/customizer/frontpage-options.php:412
+msgid "Editor's Picks Section"
+msgstr "Раздел Editor Picks"
+
+#: inc/customizer/frontpage-options.php:379
+msgid "Select tag to be shown on main slider section"
+msgstr "Выбрать метку, которая будет отображаться в главном разделе слайдера"
+
+#: inc/customizer/frontpage-options.php:378
+#: inc/customizer/frontpage-options.php:534
+#: inc/customizer/frontpage-options.php:692
+msgid "Select Tag"
+msgstr "Выбрать метку"
+
+#: inc/customizer/frontpage-options.php:346
+msgid "Select category to be shown on main slider section"
+msgstr "Выбрать рубрику, которая будет отображаться на главной слайдере"
+
+#: inc/customizer/frontpage-options.php:345
+#: inc/widgets/widget-express-posts-list.php:136
+#: inc/widgets/widget-posts-grid.php:115 inc/widgets/widget-posts-list.php:118
+#: inc/widgets/widget-posts-single-column.php:118
+#: inc/widgets/widget-trending-posts.php:139
+msgid "Select Category"
+msgstr "Выбрать рубрику"
+
+#: inc/customizer/frontpage-options.php:322
+#: inc/customizer/frontpage-options.php:472
+#: inc/customizer/frontpage-options.php:630
+msgid "Tag"
+msgstr "Метка"
+
+#: inc/customizer/frontpage-options.php:321
+#: inc/customizer/frontpage-options.php:471
+#: inc/customizer/frontpage-options.php:926
+msgid "Category"
+msgstr "Рубрика"
+
+#: inc/customizer/frontpage-options.php:317
+#: inc/customizer/frontpage-options.php:467
+#: inc/customizer/frontpage-options.php:626
+msgid "Filter Posts By"
+msgstr "Фильтровать записи по"
+
+#: inc/customizer/frontpage-options.php:273
+msgid "Main News Section "
+msgstr "Раздел главных новостей "
+
+#: inc/customizer/frontpage-options.php:241
+msgid "Order 3"
+msgstr "Порядок 3"
+
+#: inc/customizer/frontpage-options.php:240
+msgid "Order 2"
+msgstr "Порядок 2"
+
+#: inc/customizer/frontpage-options.php:239
+msgid "Order 1"
+msgstr "Порядок 1"
+
+#: inc/customizer/frontpage-options.php:235
+msgid "Select Main Banner Order"
+msgstr "Выбрать порядок главного баннера"
+
+#: inc/customizer/frontpage-options.php:179
+#: inc/customizer/theme-options.php:285 inc/customizer/theme-options.php:1546
+msgid "Recommended Size %1$s px X %2$s px"
+msgstr "Рекомендуемый размер %1$s px X %2$s px"
+
+#: inc/customizer/frontpage-options.php:178
+msgid "Main Banner Background Image"
+msgstr "Фоновое изображение главного баннера"
+
+#: inc/customizer/frontpage-options.php:153
+msgid "Enable Main Banner Section"
+msgstr "Раздел баннера"
+
+#: inc/customizer/frontpage-options.php:131 inc/hooks/patterns/block-2.php:9
+msgid "Main Banner"
+msgstr "Основной баннер"
+
+#: inc/customizer/frontpage-options.php:111
+msgid "Select category to be shown on trending posts "
+msgstr "Выбрать рубрику, которая будет отображаться в трендовых записях "
+
+#: inc/customizer/frontpage-options.php:110
+msgid "Flash Posts Category"
+msgstr "Рубрика флэш-записи"
+
+#: inc/customizer/frontpage-options.php:86
+#: inc/customizer/frontpage-options.php:292
+#: inc/customizer/frontpage-options.php:437
+#: inc/customizer/frontpage-options.php:597
+#: inc/customizer/frontpage-options.php:787
+msgid "Section Title "
+msgstr "Название раздела "
+
+#: inc/customizer/frontpage-options.php:67
+msgid "Enable Flash News"
+msgstr "Включить флэш-новости"
+
+#: inc/customizer/frontpage-options.php:24
+msgid "Main Banner Options"
+msgstr "Настройки основного баннера"
+
+#: inc/customizer/font-color-options.php:202
+msgid "System Fonts"
+msgstr "Системные шрифты"
+
+#: inc/customizer/font-color-options.php:201
+msgid "Theme Fonts"
+msgstr "Шрифты темы"
+
+#: inc/customizer/font-color-options.php:197
+msgid "Fonts Source"
+msgstr "Источник шрифта"
+
+#: inc/customizer/font-color-options.php:174
+msgid "Font Family Section"
+msgstr "Раздел семейства шрифтов"
+
+#: inc/customizer/font-color-options.php:151
+msgid "Fonts & Typography"
+msgstr "Шрифты и типографика"
+
+#: inc/customizer/font-color-options.php:136
+msgid "Secondary Color"
+msgstr "Дополнительный цвет"
+
+#: inc/customizer/font-color-options.php:112
+msgid "Secondary Color Section "
+msgstr "Раздел дополнительного цвета "
+
+#: inc/customizer/font-color-options.php:89
+msgid "Body Background Color (Dark Mode)"
+msgstr "Цвет фона основного текста (темный режим)"
+
+#: inc/customizer/font-color-options.php:66
+msgid "Body Background Color (Dark Mode) will be applied for this mode."
+msgstr "Цвет фона основного текста (темный режим) будет применен для этого режима."
+
+#: inc/customizer/font-color-options.php:45
+msgid "Primary Color Section "
+msgstr "Раздел основного цвета "
+
+#: inc/customizer/font-color-options.php:28
+msgid "Dark"
+msgstr "Тёмная"
+
+#: inc/customizer/font-color-options.php:27
+msgid "Light"
+msgstr "Светлая"
+
+#: inc/customizer/font-color-options.php:23
+msgid "Site Color Mode"
+msgstr "Режим цвета сайта"
+
+#: inc/customizer/customizer.php:218
+msgid "ReviewNews Pro"
+msgstr "ReviewNews Pro"
+
+#: inc/customizer/customizer.php:197
+msgid "Disable Image Tint/Overlay"
+msgstr "Отключить оттенок/наложение изображения"
+
+#: inc/customizer/customizer.php:177
+msgid "Show Full Image (Background)"
+msgstr "Показать полное изображение (фон)"
+
+#: inc/customizer/customizer.php:176
+msgid "Set as Background"
+msgstr "Установить в качестве фона"
+
+#: inc/customizer/customizer.php:175
+msgid "Above Site Title"
+msgstr "Выше названия сайта"
+
+#: inc/customizer/customizer.php:171
+msgid "Image visibility may vary as per the mode"
+msgstr "Видимость изображения может варьироваться в зависимости от режима"
+
+#: inc/customizer/customizer.php:170
+msgid "Header Image Mode"
+msgstr ""
+
+#: inc/customizer/customizer.php:127
+msgid "Site Title/Tagline Color"
+msgstr "Цвет названия/краткого описания сайта"
+
+#: inc/customizer/customizer.php:116
+msgid "Uppercase Site Title and Tagline"
+msgstr "Название сайта и слоган в верхнем регистре"
+
+#: inc/customizer/customizer.php:96
+msgid "Site Title Size"
+msgstr "Размер названия сайта"
+
+#: inc/customizer/customizer.php:68
+msgid "Body Background Color"
+msgstr "Цвет фона основной части"
+
+#: inc/customizer/customizer-default.php:237
+msgid "Copyright &copy; {year} All rights reserved."
+msgstr "Авторское право &copy; {year} Все права зарезервированы."
+
+#: inc/customizer/customizer-default.php:233
+#: inc/customizer/theme-options.php:1450
+msgid "You May Have Missed"
+msgstr "Возможно, вы пропустили"
+
+#: inc/customizer/customizer-default.php:222
+msgid "Related Stories"
+msgstr "Связанные истории"
+
+#: inc/customizer/customizer-default.php:177
+msgid "Read More"
+msgstr "Читайте далее"
+
+#: inc/customizer/customizer-default.php:154
+msgid "View More"
+msgstr "Смотреть больше"
+
+#: inc/customizer/customizer-default.php:148
+msgid "Post list Section Title %d"
+msgstr "Заголовок раздела списка записей %d"
+
+#: inc/customizer/customizer-default.php:145
+msgid "Custom Options"
+msgstr "Пользовательские параметры"
+
+#: inc/customizer/customizer-default.php:144
+msgid "Featured Pages"
+msgstr "Рекомендуемые страницы"
+
+#: inc/customizer/customizer-default.php:143
+msgid "Featured Categories"
+msgstr "Рекомендуемые рубрики"
+
+#: inc/customizer/customizer-default.php:136
+#: inc/customizer/frontpage-options.php:743
+msgid "Featured Posts"
+msgstr "Избранные записи"
+
+#: inc/customizer/customizer-default.php:117
+msgid "Editor's Picks"
+msgstr "Выбор редактора"
+
+#: inc/customizer/customizer-default.php:103
+#: inc/customizer/customizer-default.php:122
+msgid "Trending Now"
+msgstr "Сейчас в тренде"
+
+#: inc/customizer/customizer-default.php:101
+msgid "Main News"
+msgstr "Основные новости"
+
+#: inc/customizer/customizer-default.php:84
+msgid "More"
+msgstr "Больше"
+
+#: inc/customizer/customizer-default.php:82
+#: inc/widgets/widgets-common-functions.php:111
+#: lib/tgm/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Обновление"
+
+#: inc/customizer/customizer-default.php:80
+msgid "General"
+msgstr "Общие"
+
+#: inc/customizer/customizer-default.php:78
+msgid "Posts List Section"
+msgstr "Раздел списка записей"
+
+#: inc/customizer/customizer-default.php:71
+#: inc/customizer/frontpage-options.php:37
+msgid "Breaking News"
+msgstr "Срочные новости"
+
+#: inc/customizer/customizer-default.php:65
+msgid "Popular Tags"
+msgstr "Популярные метки"
+
+#: inc/customizer/customizer-default.php:53
+msgid "Subscribe"
+msgstr "Подписка"
+
+#: inc/customizer/customizer-control.php:186
+msgid "-- Select --"
+msgstr "-- Выбрать --"
+
+#: inc/customizer/builder/options.php:584
+msgid "No menu assigned"
+msgstr "Меню не назначено"
+
+#: inc/customizer/builder/options.php:485
+#: inc/customizer/builder/options.php:500
+#: inc/customizer/builder/options.php:522
+#: inc/customizer/builder/options.php:543
+#: inc/customizer/builder/options.php:564
+msgid "Beta"
+msgstr "Бета"
+
+#: inc/customizer/builder/options.php:422
+#: inc/customizer/builder/options.php:440
+#: inc/customizer/builder/options.php:461
+msgid "Add widget to display . %s"
+msgstr ""
+
+#: inc/customizer/builder/options.php:376
+msgid "Copyright"
+msgstr "Авторское право"
+
+#: inc/customizer/builder/options.php:369
+msgid "Pro"
+msgstr "Pro"
+
+#: inc/customizer/builder/options.php:338
+msgid "Navigation"
+msgstr "Навигация"
+
+#: inc/customizer/builder/options.php:314
+#: inc/customizer/builder/options.php:450
+msgid "Widget 3"
+msgstr "Виджет 3"
+
+#: inc/customizer/builder/options.php:298
+#: inc/customizer/builder/options.php:429
+msgid "Widget 2"
+msgstr "Виджет 2"
+
+#: inc/customizer/builder/options.php:287
+#: inc/customizer/builder/options.php:303
+#: inc/customizer/builder/options.php:319
+#: inc/customizer/builder/options.php:416
+#: inc/customizer/builder/options.php:434
+#: inc/customizer/builder/options.php:455
+msgid "Select Widget"
+msgstr "Выбрать виджет"
+
+#: inc/customizer/builder/options.php:282
+#: inc/customizer/builder/options.php:411
+msgid "Widget 1"
+msgstr "Виджет 1"
+
+#: inc/customizer/builder/options.php:257
+msgid "live"
+msgstr "в реальном времени"
+
+#: inc/customizer/builder/options.php:254
+msgid "Custom link"
+msgstr "Пользовательская ссылка"
+
+#: inc/customizer/builder/options.php:249
+msgid "Custom Link"
+msgstr "Пользовательская ссылка"
+
+#: inc/customizer/builder/options.php:240
+msgid "Searc Form"
+msgstr "Форма поиска"
+
+#: inc/customizer/builder/options.php:235
+msgid "Search"
+msgstr "Поиск"
+
+#: inc/customizer/builder/options.php:224
+#: inc/customizer/builder/options.php:364
+msgid "HTML Content"
+msgstr ""
+
+#: inc/customizer/builder/options.php:219
+#: inc/customizer/builder/options.php:359
+msgid "Custom HTML"
+msgstr "HTML код"
+
+#: inc/customizer/builder/options.php:205
+#: inc/customizer/builder/options.php:210
+msgid "Site Mode"
+msgstr "Режим сайта"
+
+#: inc/customizer/builder/options.php:199
+#: inc/customizer/builder/options.php:229
+#: inc/customizer/builder/options.php:293
+#: inc/customizer/builder/options.php:309
+#: inc/customizer/builder/options.php:325
+msgid "pro"
+msgstr "pro"
+
+#: inc/customizer/builder/options.php:183
+#: inc/customizer/builder/options.php:548
+msgid "Top Navigation"
+msgstr "Верхняя навигация"
+
+#: inc/customizer/builder/options.php:177
+msgid "Manage Date"
+msgstr ""
+
+#. translators: %s is a link to manage menus
+#: inc/customizer/builder/options.php:176
+msgid "You can change date from general settings (Settings > General > Date Format). %s"
+msgstr ""
+
+#: inc/customizer/builder/options.php:169
+msgid "Choose date format"
+msgstr "Выбрать формат даты"
+
+#: inc/customizer/builder/options.php:164
+msgid "Date"
+msgstr "Дата"
+
+#: inc/customizer/builder/options.php:158
+#: inc/customizer/builder/options.php:196
+#: inc/customizer/builder/options.php:276
+#: inc/customizer/builder/options.php:351
+#: inc/customizer/builder/options.php:402
+#: inc/customizer/builder/options.php:540
+#: inc/customizer/builder/options.php:561
+msgid "Manage menu"
+msgstr "Управление меню"
+
+#. translators: %s is a link to manage menus
+#. translators: %s is a link to manage menu
+#. translators: %s is a link to the menu panel
+#: inc/customizer/builder/options.php:157
+#: inc/customizer/builder/options.php:195
+#: inc/customizer/builder/options.php:275
+#: inc/customizer/builder/options.php:350
+#: inc/customizer/builder/options.php:401
+#: inc/customizer/builder/options.php:539
+#: inc/customizer/builder/options.php:560
+msgid "You can change Menu from menu panel. %s"
+msgstr ""
+
+#: inc/customizer/builder/options.php:150
+#: inc/customizer/builder/options.php:188
+#: inc/customizer/builder/options.php:343
+#: inc/customizer/builder/options.php:532
+#: inc/customizer/builder/options.php:553
+#: inc/customizer/builder/options.php:579
+msgid "Select Menu"
+msgstr "Выбрать меню"
+
+#: inc/customizer/builder/options.php:145
+#: inc/customizer/builder/options.php:527
+msgid "Primary menu"
+msgstr "Основное меню"
+
+#: inc/customizer/builder/options.php:137
+#: inc/customizer/builder/options.php:423
+#: inc/customizer/builder/options.php:441
+#: inc/customizer/builder/options.php:462
+#: inc/customizer/builder/options.php:519
+msgid "Manage widgets"
+msgstr "Управление виджетами"
+
+#: inc/customizer/builder/options.php:136
+#: inc/customizer/builder/options.php:518
+msgid "This widget area is used in the mobile off-canvas panel. %s"
+msgstr ""
+
+#: inc/customizer/builder/options.php:131
+#: inc/customizer/builder/options.php:513
+msgid "Off Canvas Widget Area"
+msgstr ""
+
+#: inc/customizer/builder/options.php:126
+#: inc/customizer/builder/options.php:508
+msgid "Off Canvas"
+msgstr "Вне холста"
+
+#: inc/customizer/builder/options.php:109
+#: inc/customizer/builder/options.php:114
+#: inc/customizer/builder/options.php:490
+#: inc/customizer/builder/options.php:495
+msgid "Promotion"
+msgstr "Акции"
+
+#. translators: %s is a link to Site Identity panel
+#: inc/customizer/builder/options.php:100
+#: inc/customizer/builder/options.php:481
+msgid "You can change Site Identity from %s."
+msgstr ""
+
+#: inc/customizer/builder/options.php:95 inc/customizer/builder/options.php:101
+#: inc/customizer/builder/options.php:476
+#: inc/customizer/builder/options.php:482
+msgid "Site Identity"
+msgstr "Свойства сайта"
+
+#: inc/customizer/builder/options.php:89 inc/customizer/builder/options.php:470
+msgid "Site & Logo"
+msgstr "Сайт и логотип"
+
+#: inc/customizer/builder/header-builder-structure.php:188
+msgid "close Off-Canvas Navigation"
+msgstr ""
+
+#: inc/customizer/builder/class-header-footer-builder.php:284
+msgid "Element Settings"
+msgstr "Настройки элемента"
+
+#: inc/customizer/builder/class-header-footer-builder.php:283
+msgid "Desktop"
+msgstr "Настольный ПК"
+
+#: inc/customizer/builder/class-header-footer-builder.php:282
+msgid "Configure Element"
+msgstr ""
+
+#: inc/customizer/builder/class-header-footer-builder.php:281
+msgid "Remove Element"
+msgstr ""
+
+#: inc/customizer/builder/class-header-footer-builder.php:280
+msgid "Add Element"
+msgstr "Добавить элемент"
+
+#: inc/customizer/builder/class-header-footer-builder.php:117
+msgid "Enable %s Builder"
+msgstr ""
+
+#: inc/customizer/builder/class-header-footer-builder.php:101
+#: inc/customizer/theme-options.php:1520
+msgid "Footer"
+msgstr "Подвал"
+
+#: inc/customizer/builder/class-header-footer-builder.php:100
+msgid "Create dynamic footer effortlessly with drag-and-drop builder."
+msgstr ""
+
+#: inc/customizer/builder/class-header-footer-builder.php:98
+msgid "Header"
+msgstr "Заголовок"
+
+#: inc/customizer/builder/class-header-footer-builder.php:97
+msgid "Create dynamic header effortlessly with drag-and-drop builder."
+msgstr ""
+
+#: inc/customizer/builder/class-header-footer-builder.php:84
+msgid "Footer Layout"
+msgstr "Макет подвала"
+
+#: inc/customizer/builder/class-header-footer-builder-control.php:59
+msgid "Close choose element modal"
+msgstr ""
+
+#: inc/customizer/builder/class-header-footer-builder-control.php:57
+msgid "Choose an Element"
+msgstr "Щелкните элемент"
+
+#: inc/customizer/builder/class-header-footer-builder-control.php:37
+msgid "Device view controls"
+msgstr ""
+
+#: inc/customizer/builder/class-header-footer-builder-control.php:33
+msgid "Hide Builder"
+msgstr "Скрыть конструктор"
+
+#: inc/customizer/builder/class-header-footer-builder-control.php:31
+msgid "Hide builder panel"
+msgstr ""
+
+#: inc/customizer/builder/class-block-toggle.php:12
+msgid "Click the setting <span class=\"dashicons dashicons-admin-generic\"></span> on each element to customize its settings."
+msgstr ""
+
+#: inc/class-amp-compatible.php:190 inc/class-amp-compatible.php:194
+#: inc/hooks/hook-header-section.php:100 inc/hooks/hook-header-section.php:101
+msgid "Open search form"
+msgstr "Открыть строку поиска"
+
+#: header.php:52
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: functions.php:85
+msgid "Footer Menu"
+msgstr "Нижнее меню"
+
+#: functions.php:84 inc/customizer/builder/options.php:263
+#: inc/customizer/builder/options.php:268
+#: inc/customizer/builder/options.php:389
+#: inc/customizer/builder/options.php:394
+msgid "Social Menu"
+msgstr "Меню соцсети"
+
+#: functions.php:83 inc/class-amp-compatible.php:152
+#: inc/customizer/builder/builder-structure.php:199
+#: inc/hooks/hook-header-section.php:68
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#. translators: 1: Theme name, 2: Theme author.
+#: footer.php:164 inc/customizer/builder/builder-structure.php:381
+msgid "%1$s by %2$s."
+msgstr "%1$s от %2$s."
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий для &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария для &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s комментариев для &ldquo;%2$s&rdquo;"
+
+#. translators: 1: title.
+#: comments.php:34
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Один комментарий к &ldquo;%1$s&rdquo;"
+
+#: admin-dashboard/rest-api/class-ajaxcall.php:72
+msgid "Sorry, you are not allowed to activate plugins on this site."
+msgstr "Извините, вам не разрешено активировать плагины на этом сайте."
+
+#: admin-dashboard/rest-api/class-ajaxcall.php:18
+#: admin-dashboard/rest-api/class-ajaxcall.php:79
+#: admin-dashboard/rest-api/class-ajaxcall.php:153
+msgid "Error - unable to verify nonce, please try again."
+msgstr "Ошибка - не удалось проверить nonce, попробуйте еще раз."
+
+#: admin-dashboard/rest-api/class-ajaxcall.php:10
+#: admin-dashboard/rest-api/class-ajaxcall.php:146
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr "Вам не разрешено устанавливать плагины на этом сайте."
+
+#: admin-dashboard/rest-api/class-admin-notice.php:234
+msgid "⭐ Rate This Theme"
+msgstr "Оценить эту тему"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:233
+msgid "Support"
+msgstr "Поддержка"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:232
+msgid "Video Tutorials"
+msgstr "Видеоуроки"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:231
+msgid "Documentation"
+msgstr "Документация"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:230
+msgid "Whether you're just starting or customizing your site."
+msgstr ""
+
+#: admin-dashboard/rest-api/class-admin-notice.php:229
+msgid "🤝 We're Here for You"
+msgstr "Мы всегда готовы помочь"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:205
+msgid "Theme dashboard"
+msgstr "Консоль темы"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:203
+msgid "View Demos"
+msgstr "Посмотреть демонстрации"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:198
+msgid ""
+"Choose from 100+ starter sites designed for blogs, magazines, businesses & more.\n"
+"      Setup is simple — no coding required."
+msgstr ""
+
+#: admin-dashboard/rest-api/class-admin-notice.php:197
+msgid "🚀 Start With One Click"
+msgstr ""
+
+#: admin-dashboard/rest-api/class-admin-notice.php:165
+msgid "%s is now active. We're here to help you turn your ideas into a beautiful, professional website — quickly and confidently."
+msgstr ""
+
+#: admin-dashboard/rest-api/class-admin-notice.php:163
+msgid "👋 Welcome, and Thank You!"
+msgstr ""
+
+#: admin-dashboard/rest-api/api-request.php:126
+msgid "More Details"
+msgstr "Подробнее"
+
+#: admin-dashboard/rest-api/api-request.php:99
+msgid "By"
+msgstr "От"
+
+#: admin-dashboard/admin_dashboard.php:569
+#: admin-dashboard/rest-api/class-admin-notice.php:149
+msgid "The \"Get Started\" action will install/activate the Templatespare and Blockspare plugins for Starter Sites and Templates."
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:568
+#: admin-dashboard/rest-api/class-admin-notice.php:148
+msgid "Get Started"
+msgstr "Начать"
+
+#: admin-dashboard/admin_dashboard.php:563
+#: admin-dashboard/rest-api/api-request.php:104
+#: admin-dashboard/rest-api/class-admin-notice.php:144
+msgid "Get Starter Sites"
+msgstr "Получить стартовые сайты"
+
+#: admin-dashboard/admin_dashboard.php:467
+#: admin-dashboard/rest-api/api-request.php:70
+msgid "Activated"
+msgstr "Активировано"
+
+#: admin-dashboard/admin_dashboard.php:466
+#: admin-dashboard/rest-api/api-request.php:74
+#: lib/tgm/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Активировать"
+
+#: admin-dashboard/admin_dashboard.php:465
+#: admin-dashboard/rest-api/api-request.php:29
+msgid "Install Now"
+msgstr "Установить сейчас"
+
+#: admin-dashboard/admin_dashboard.php:464
+msgid "Are you sure you want to install this plugin?"
+msgstr "Вы уверены, что хотите установить версию plugin?"
+
+#: admin-dashboard/admin_dashboard.php:389
+msgid "One-click Import, Header/Footer Builder, Multilingual Support! Powered by Elespare."
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:388
+msgid "Elespare plugin version should be more than %s."
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:319
+msgid "One-click Demo Import, Block Editor Ready, No Code Required! Built with Blockspare."
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:314
+msgid "Blockspare plugin version should be more than %s."
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:248
+msgid "Import a Starter Site, Personalize, and Live it in 3 Easy Steps!"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:245
+msgid "The Templatespare plugin should be updated to the latest version"
+msgstr "Плагин Templatespare должен быть обновлен до последней версии"
+
+#: admin-dashboard/admin_dashboard.php:196 inc/customizer/customizer.php:219
+msgid "Upgrade Now"
+msgstr "Обновить сейчас"
+
+#: admin-dashboard/admin_dashboard.php:195
+msgid "Upgrade to Pro"
+msgstr "Обновиться до Pro"
+
+#: admin-dashboard/admin_dashboard.php:182
+#: admin-dashboard/admin_dashboard.php:183
+msgid "Block Patterns"
+msgstr "Паттерны блока"
+
+#: admin-dashboard/admin_dashboard.php:172
+#: admin-dashboard/admin_dashboard.php:173
+msgid "Elementor Kits"
+msgstr "Elementor Kits"
+
+#: admin-dashboard/admin_dashboard.php:162
+#: admin-dashboard/admin_dashboard.php:163
+msgid "Starter Sites"
+msgstr "Стартовые сайты"
+
+#: admin-dashboard/admin_dashboard.php:151
+#: admin-dashboard/admin_dashboard.php:152
+#: inc/customizer/builder/class-header-footer-builder.php:46
+msgid "Footer Builder"
+msgstr "Конструктор подвала"
+
+#: admin-dashboard/admin_dashboard.php:141
+#: admin-dashboard/admin_dashboard.php:142
+#: inc/customizer/builder/class-header-footer-builder.php:36
+msgid "Header Builder"
+msgstr "Конструктор заголовка"
+
+#: admin-dashboard/admin_dashboard.php:131
+#: admin-dashboard/admin_dashboard.php:132
+msgid "Customize"
+msgstr "Настроить"
+
+#: admin-dashboard/admin_dashboard.php:118
+#: admin-dashboard/admin_dashboard.php:119
+msgid "Dashboard"
+msgstr "Консоль"
+
+#: 404.php:23
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "По данному адресу ничего не найдено. Попробуйте воспользоваться одной из ссылок ниже или поиском?"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ой! Страница не найдена."
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://www.afthemes.com/"
+msgstr "https://www.afthemes.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "AF themes"
+msgstr "AF themes"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://afthemes.com/products/reviewnews/"
+msgstr "https://afthemes.com/products/reviewnews/"

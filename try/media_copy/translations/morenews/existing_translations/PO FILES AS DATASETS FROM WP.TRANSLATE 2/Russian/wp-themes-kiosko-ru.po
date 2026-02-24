@@ -1,0 +1,269 @@
+# Translation of Themes - Kiosko in Russian
+# This file is distributed under the same license as the Themes - Kiosko package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-07-19 14:08:59+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Kiosko\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Kiosko is a store theme for WooCommerce."
+msgstr "Kiosko - это тема магазина для WooCommerce."
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Kiosko"
+msgstr "Kiosko"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "Очень большой"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Большой"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Средний"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Маленький"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System Font"
+msgstr "System Font"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "6"
+msgstr "6"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "5"
+msgstr "5"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "4"
+msgstr "4"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "3"
+msgstr "3"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2"
+msgstr "2"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "1"
+msgstr "1"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "Третичный"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Вторичный"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Основной"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Contrast"
+msgstr "Контраст"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Base"
+msgstr "Основа"
+
+#: patterns/site-notice.php:13
+msgid "Free shipping on all orders over $50 ・ Use cods15 at checkout to get 15% off"
+msgstr "Бесплатная доставка на все заказы свыше $50 ・ Используйте cods15 при оформлении заказа, чтобы получить скидку 15%"
+
+#: patterns/site-notice.php
+msgctxt "Pattern title"
+msgid "Site Notice"
+msgstr "Site Notice"
+
+#: patterns/related-products.php:14
+msgid "Related products"
+msgstr "Сопутствующие товары"
+
+#: patterns/related-products.php
+msgctxt "Pattern title"
+msgid "Related Products"
+msgstr "Сопутствующие товары"
+
+#: patterns/product-grid.php
+msgctxt "Pattern title"
+msgid "Product Grid"
+msgstr "Сетка товара"
+
+#: patterns/product-filters.php:54
+msgid "Size"
+msgstr "Размер"
+
+#: patterns/product-filters.php:42
+msgid "Color"
+msgstr "Цвет"
+
+#: patterns/product-filters.php:30
+msgid "Price"
+msgstr "Цена"
+
+#: patterns/product-filters.php
+msgctxt "Pattern title"
+msgid "Product Filters and Search"
+msgstr "Фильтры и поиск товара"
+
+#: patterns/post-list.php
+msgctxt "Pattern title"
+msgid "Post List"
+msgstr "Список записи"
+
+#: patterns/no-results-content.php:11
+msgctxt "Message explaining that there are no results returned from a search"
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "По вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+#: patterns/no-results-content.php
+msgctxt "Pattern title"
+msgid "Hidden No Results Content"
+msgstr "Скрытое содержимое без результатов"
+
+#: patterns/masthead.php:21
+msgid "We take pride in the quality of our products and use only the highest quality materials to ensure that each poster is durable and long-lasting. Browse our collection and discover the perfect geometric poster to add a touch of sophistication to your home or office."
+msgstr "Мы гордимся качеством нашей продукции и используем только самые высококачественные материалы, чтобы гарантировать прочность и долговечность каждого плаката. Ознакомьтесь с нашей коллекцией и найдите идеальный геометрический постер, который добавит нотку изысканности Вашему дому или офису."
+
+#: patterns/masthead.php:13
+msgid "Prints"
+msgstr "Печать"
+
+#: patterns/masthead.php
+msgctxt "Pattern title"
+msgid "Masthead"
+msgstr "Masthead"
+
+#: patterns/hidden-no-results.php:11
+msgctxt "Message explaining that there are no results returned from a store search"
+msgid "No products were found matching your selection."
+msgstr "Товаров, соответствующих вашему запросу, не обнаружено."
+
+#: patterns/hidden-no-results.php
+msgctxt "Pattern title"
+msgid "No results"
+msgstr "Нет результатов"
+
+#: patterns/footer.php:100
+msgid "Designed with %1$s"
+msgstr "Разработано на %1$s"
+
+#. Translators: WordPress link.
+#: patterns/footer.php:98
+msgid "https://wordpress.org"
+msgstr "https://ru.wordpress.org"
+
+#: patterns/footer.php:78
+msgid "Info"
+msgstr "Инфо"
+
+#: patterns/footer.php:68
+msgid "Shop"
+msgstr "Магазин"
+
+#: patterns/footer.php:58
+msgid "0123 456 7890"
+msgstr "0123 456 7890"
+
+#: patterns/footer.php:54
+msgid "Sat - Sun 12 am - 5 pm"
+msgstr "Сб - Вс 12 - 17"
+
+#: patterns/footer.php:50
+msgid "Mon - Fri 10 am - 7 pm"
+msgstr "Пн - Пт 10 - 17"
+
+#: patterns/footer.php:46
+msgid "12-3 Udagawacho, Shibuya City, Tokyo 123-4567"
+msgstr "12-3 Udagawacho, Shibuya City, Tokyo 123-4567"
+
+#: patterns/footer.php:40
+msgid "Location"
+msgstr "Местоположение"
+
+#: patterns/footer.php:20
+msgid "We are a poster shop bringing you carefully created and unique art prints. We are a curious and creative team based in Tokyo, Japan, and we believe in diversity, value and quality."
+msgstr "Мы - магазин плакатов, предлагающий Вам тщательно созданные и уникальные художественные принты. Мы - любопытная и творческая команда, базирующаяся в Токио, Япония, и мы верим в разнообразие, ценность и качество."
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Default footer"
+msgstr "Подвал по умолчанию"
+
+#: patterns/comments.php
+msgctxt "Pattern title"
+msgid "Comments"
+msgstr "Комментарии"
+
+#: patterns/404.php:19
+msgctxt "This is a placeholder text in a search field"
+msgid "Search..."
+msgstr "Поиск…"
+
+#: patterns/404.php:16
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Похоже, что ничего не было найдено в этом месте. Может, попробовать поискать?"
+
+#: patterns/404.php:12
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ой! Страница не найдена."
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "A 404 page"
+msgstr "Страница 404"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://automattic.com/"
+msgstr "https://automattic.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://wordpress.com/theme/kiosko/"
+msgstr "https://wordpress.com/theme/kiosko/"

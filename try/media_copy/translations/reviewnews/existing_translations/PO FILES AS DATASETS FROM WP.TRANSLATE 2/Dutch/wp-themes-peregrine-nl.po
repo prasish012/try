@@ -1,0 +1,1688 @@
+# Translation of Themes - Peregrine in Dutch
+# This file is distributed under the same license as the Themes - Peregrine package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-07-14 16:51:08+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: nl\n"
+"Project-Id-Version: Themes - Peregrine\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "A beautiful, very customizable, multipurpose theme that you can use to create amazing websites through drag and drop. It comes with a pre-designed home page, 5 header designs and over 35 ready-to-use content blocks that you can easily customize. You can also design your own custom blocks by combining more than 25 drag and drop components. It offers lots of customization options (video background, slideshow background, header content types, etc) to help you create a website that stands out in no time. It is also designed with responsiveness, to work on mobile devices right out of the box. It is the only theme you will ever need! CHECK OUT THE DEMOS: https://colibriwp.com/go/demos"
+msgstr "Een prachtig, zeer aanpasbaar, multifunctioneel thema dat je kunt gebruiken om geweldige sites te maken door middel van verslepen. Het wordt geleverd met een vooraf ontworpen homepage, 5 header ontwerpen en meer dan 35 kant-en-klare inhoud blokken die je eenvoudig kunt aanpassen. Je kunt ook je eigen aangepaste blokken ontwerpen door meer dan 25 versleep componenten te combineren. Het biedt veel aanpassingsmogelijkheden (videobackground, slideshow achtergrond, header contenttypes, enz.) om je te helpen een site te maken die in een mum van tijd opvalt. Het is ook ontworpen met responsiveness, om direct op mobiele apparaten te werken. Het is het enige thema dat je ooit nodig zult hebben! BEKIJK DE DEMO'S: https://colibriwp.com/go/demos"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Peregrine"
+msgstr "Peregrine"
+
+#: template-parts/main/post.php:23
+msgid "{COMMENTS-COUNT} Responses"
+msgstr "{COMMENTS-COUNT} reacties"
+
+#: template-parts/main/item_template.php:34
+#: template-parts/main/search_item_template.php:55
+msgid "on"
+msgstr "on"
+
+#: template-parts/main/archive_item_template.php:82
+#: template-parts/main/item_template.php:29
+#: template-parts/main/search_item_template.php:50
+msgid "&#x25AA;"
+msgstr "&#x25AA;"
+
+#: template-parts/main/archive_item_template.php:58
+#: template-parts/main/search_item_template.php:68
+msgid "read more"
+msgstr "lees meer"
+
+#: template-parts/main/archive_item_template.php:29
+#: template-parts/main/item_template.php:23
+#: template-parts/main/search_item_template.php:44
+msgid "by"
+msgstr "door"
+
+#: template-parts/main/404.php:22
+msgid "Go to Homepage!"
+msgstr "Ga naar de homepage!"
+
+#: template-parts/main/404.php:13
+msgid "Sorry, page not found!"
+msgstr "Sorry, pagina niet gevonden!"
+
+#: template-parts/layout-wrapper-content/tags-container-1.php:9
+msgid "Tags:"
+msgstr "Tags:"
+
+#: template-parts/layout-wrapper-content/navigation-container-2.php:11
+msgid "Previous"
+msgstr "Vorige"
+
+#: template-parts/layout-wrapper-content/navigation-container-2.php:10
+#: template-parts/layout-wrapper-content/navigation-container-2.php:36
+#: template-parts/layout-wrapper-content/navigation-container-3.php:10
+#: template-parts/layout-wrapper-content/navigation-container-3.php:36
+msgid "Next"
+msgstr "Volgende"
+
+#: template-parts/layout-wrapper-content/navigation-container-1.php:28
+msgid "Next post"
+msgstr "Volgend bericht"
+
+#: template-parts/layout-wrapper-content/navigation-container-1.php:10
+msgid "Previous post"
+msgstr "Vorig bericht"
+
+#: template-parts/content/content-single.php:51
+#: template-parts/layout-wrapper-content/navigation-container-1.php:27
+msgid "Previous post:"
+msgstr "Vorig bericht:"
+
+#: template-parts/content/content-single.php:49
+msgid "Previous:"
+msgstr "Vorige:"
+
+#: template-parts/content/content-single.php:46
+#: template-parts/layout-wrapper-content/navigation-container-1.php:11
+msgid "Next post:"
+msgstr "Volgend bericht:"
+
+#: template-parts/content/content-single.php:44
+msgid "Next:"
+msgstr "Volgende:"
+
+#: template-parts/content/content-page.php:8
+#: template-parts/content/content-single.php:21
+msgid "Pages:"
+msgstr "Pagina's:"
+
+#: template-parts/content/content-none.php:14
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Het lijkt er op dat we niet kunnen vinden waarnaar je op zoek bent. Misschien helpt het om ernaar te zoeken."
+
+#: template-parts/content/content-none.php:10
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Sorry, maar niets kwam overeen met je zoektermen. Probeer het opnieuw met andere zoekwoorden."
+
+#: template-parts/content/content-none.php:7
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Klaar om jouw eerste bericht te publiceren? <a href=\"%1$s\">Ga hier van start</a>."
+
+#: template-parts/content/content-none.php:4
+msgid "Nothing Found"
+msgstr "Niets gevonden"
+
+#: template-parts/blog/searchform.php:14
+msgctxt "submit button"
+msgid "Search"
+msgstr "Zoeken"
+
+#: template-parts/blog/searchform.php:8
+msgid "Search &hellip;"
+msgstr "Zoeken &hellip;"
+
+#: template-parts/blog/searchform.php:5
+msgctxt "label"
+msgid "Search for:"
+msgstr "Zoeken naar:"
+
+#: template-parts/blog/comments.php:29
+msgid "Newer Comments"
+msgstr "Nieuwere reacties"
+
+#: template-parts/blog/comments.php:26
+msgid "Older Comments"
+msgstr "Oudere reacties"
+
+#. Template Name of the theme
+msgid "Landing Page Template"
+msgstr "Landingspagina template"
+
+#. Template Name of the theme
+msgid "Front Page Template"
+msgstr "Sjabloon voorpagina"
+
+#. Template Name of the theme
+msgid "Full Width Template"
+msgstr "Volledige breedte template"
+
+#: inc/translations.php:309
+msgid "Undefined sanitize function for control \"%s\""
+msgstr "Ongedefinieerde sanitize-functie voor controle \"%s\""
+
+#: inc/translations.php:306
+msgid "These actions will also install Colibri Page Builder plugin."
+msgstr "Deze actie zal ook de Colibri page builder plugin installeren."
+
+#: inc/translations.php:305
+msgid "Add Predefined Section"
+msgstr "Voorontworpen sectie toevoegen"
+
+#: inc/translations.php:304
+msgid "Choose footer design"
+msgstr "Kies footer ontwerp"
+
+#: inc/translations.php:303
+msgid "Choose header design"
+msgstr "Kies header ontwerp"
+
+#: inc/translations.php:302
+msgid "Skip to content"
+msgstr "Naar de inhoud springen"
+
+#: inc/translations.php:300
+msgid "Activating %s"
+msgstr "%s aan het activeren"
+
+#: inc/translations.php:299
+msgid "Installing %s"
+msgstr "%s aan het installeren"
+
+#: inc/translations.php:293
+msgid "%1$s plugin adds drag and drop functionality and many other features to the %2$s theme."
+msgstr "De %1$s plugin voegt 'drag & drop'-functionaliteit toe en heel wat andere functies aan het %2$s thema."
+
+#: inc/translations.php:288
+msgid "%1$s plugin is recommended for the %2$s contact section."
+msgstr "%1$s plugin is aanbevolen voor de %2$s contactsectie."
+
+#: inc/translations.php:286
+msgid "Leave a review"
+msgstr "Geef een beoordeling"
+
+#: inc/translations.php:284
+msgid "We strive to provide our customers with the best service in our industry, so your feedback is very important to us. We would greatly appreciate it if you would take a few minutes to share your experience with us via this survey."
+msgstr "We streven ernaar om onze klanten de beste dienst in onze branche te bieden, dus je feedback is erg belangrijk voor ons. We stellen het zeer op prijs als je een paar minuten de tijd neemt om je ervaring met ons te delen via deze enquête."
+
+#: inc/translations.php:283
+msgid "Leave a Review"
+msgstr "Beoordeling achterlaten"
+
+#: inc/translations.php:282
+msgid "Open a support ticket"
+msgstr "Open een ondersteuning ticket"
+
+#: inc/translations.php:280
+msgid "Our technical team is here to help you build an awesome website. We usually answer support issues in less than 1 business day."
+msgstr "Ons technisch team is er om je te helpen bij het bouwen van een geweldige site. We beantwoorden je vragen normaal binnen 1 werkdag."
+
+#: inc/translations.php:279
+msgid "Support"
+msgstr "Ondersteuning"
+
+#: inc/translations.php:278
+msgid "Check documentation"
+msgstr "Bekijk de documentatie"
+
+#: inc/translations.php:276
+msgid "Peregrine is easy to learn and master, but you can always check out our documentation to check out features you might have missed."
+msgstr "Peregrine is gemakkelijk te leren en te beheersen, maar je kunt altijd onze documentatie raadplegen om functies te bekijken die je misschien hebt gemist."
+
+#: inc/translations.php:275
+msgid "Documentation"
+msgstr "Documentatie"
+
+#: inc/translations.php:274
+msgid "Check all demo sites page"
+msgstr "Controleer alle pagina's op de demo-sites"
+
+#: inc/translations.php:273
+msgid "Start with selected design"
+msgstr "Start met het geselecteerd ontwerp"
+
+#: inc/translations.php:272
+msgid "Choose one of the Peregrine predefined designs"
+msgstr "Kies één van de Peregrine voorontworpen ontwerpen"
+
+#: inc/translations.php:271
+msgid "Welcome to %s"
+msgstr "Welkom bij %s"
+
+#: inc/translations.php:270
+msgid "Customize"
+msgstr "Aanpassen"
+
+#: inc/translations.php:269
+msgid "Customize menu"
+msgstr "Customize menu"
+
+#: inc/translations.php:268
+msgid "Customize fonts"
+msgstr "Lettertypes aanpassen"
+
+#: inc/translations.php:267
+msgid "Change color settings"
+msgstr "Kleurinstellingen aanpassen"
+
+#: inc/translations.php:266
+msgid "Customize footer"
+msgstr "Footer bewerken"
+
+#: inc/translations.php:265
+msgid "Customize frontpage hero"
+msgstr "Hero op homepage bewerken"
+
+#: inc/translations.php:264
+msgid "Customize navigation"
+msgstr "Navigatie bewerken"
+
+#: inc/translations.php:263
+msgid "Change the hero image"
+msgstr "Wijzig de hero-afbeelding"
+
+#: inc/translations.php:262
+msgid "Set your logo"
+msgstr "Logo instellen"
+
+#: inc/translations.php:261
+msgid "Links to Customizer Settings"
+msgstr "Links naar de customizer instellingen"
+
+#: inc/translations.php:260
+msgid "Recommended plugins"
+msgstr "Aanbevolen plugins"
+
+#: inc/translations.php:259
+msgid "Get Started"
+msgstr "Ga aan de slag"
+
+#: inc/translations.php:258
+msgid "or"
+msgstr "of"
+
+#: inc/translations.php:257
+msgid "Peregrine Settings"
+msgstr "Peregrine instellingen"
+
+#: inc/translations.php:254
+msgid "Thumbnail placeholder color"
+msgstr "Thumbnail placeholder colour"
+
+#: inc/translations.php:253
+msgid "Show thumbnail placeholder"
+msgstr "Show thumbnail placeholder"
+
+#: inc/translations.php:252
+msgid "Enable masonry"
+msgstr "Masonry inschakelen"
+
+#: inc/translations.php:251
+msgid "Show blog sidebar "
+msgstr "Show blog sidebar "
+
+#: inc/translations.php:250
+msgid "Posts per row"
+msgstr "Berichten per rij"
+
+#: inc/translations.php:246
+msgid "Activate %s"
+msgstr "Activeer %s"
+
+#: inc/translations.php:245
+msgid "Install %s"
+msgstr "Installeer %s"
+
+#: inc/translations.php:243
+msgid "To enable all the theme features, please install %s plugin"
+msgstr "Om alle thema functies in te schakelen, installeer de %s plugin"
+
+#: inc/translations.php:239
+msgid "Use footer parallax"
+msgstr "Gebruik footerparallax"
+
+#: inc/translations.php:235
+msgid "Read More"
+msgstr "Meer lezen"
+
+#: inc/translations.php:231
+msgid "Logo above"
+msgstr "Logo bovenaan"
+
+#: inc/translations.php:230
+msgid "Logo / Nav"
+msgstr "Logo/navigatie"
+
+#: inc/translations.php:227
+msgid "Shutter out vertical"
+msgstr "Sluit verticaal"
+
+#: inc/translations.php:226
+msgid "Shutter in vertical"
+msgstr "Sluiter verticaal"
+
+#: inc/translations.php:225
+msgid "Shutter out horizontal"
+msgstr "Sluit horizontaal"
+
+#: inc/translations.php:224
+msgid "Shutter in horizontal"
+msgstr "Sluiter horizontaal"
+
+#: inc/translations.php:223
+msgid "Grow right"
+msgstr "Groei rechts"
+
+#: inc/translations.php:222
+msgid "Grow left"
+msgstr "Groei links"
+
+#: inc/translations.php:221
+msgid "Grow down"
+msgstr "Groei omlaag"
+
+#: inc/translations.php:220
+msgid "Grow up"
+msgstr "Groei omhoog"
+
+#: inc/translations.php:218
+msgid "Grow from center"
+msgstr "Groei vanuit midden"
+
+#: inc/translations.php:217
+msgid "Grow from right"
+msgstr "Groei vanaf rechts"
+
+#: inc/translations.php:216
+msgid "Grow from left"
+msgstr "Groei vanaf links"
+
+#: inc/translations.php:215
+msgid "Drop out"
+msgstr "Val uit"
+
+#: inc/translations.php:214
+msgid "Drop in"
+msgstr "Val in"
+
+#: inc/translations.php:212
+msgid "Background"
+msgstr "Achtergrond"
+
+#: inc/translations.php:211
+msgid "Double line"
+msgstr "Dubbele lijn"
+
+#: inc/translations.php:210
+msgid "Top line"
+msgstr "Lijn bovenaan"
+
+#: inc/translations.php:209
+msgid "Bottom line"
+msgstr "Lijn onderaan"
+
+#: inc/translations.php:206
+msgid "Button hover effect"
+msgstr "Button hover effect"
+
+#: inc/translations.php:205
+msgid "Button highlight type"
+msgstr "Button highlight type"
+
+#: inc/translations.php:204
+msgid "Mobile, tablet and desktop"
+msgstr "Mobiel, tablet en desktop"
+
+#: inc/translations.php:203
+msgid "Mobile and tablet"
+msgstr "Mobiel en tablet"
+
+#: inc/translations.php:202
+msgid "Mobile"
+msgstr "Mobiel"
+
+#: inc/translations.php:201
+msgid "Show offscreen menu on"
+msgstr "Toon offscreen menu aan"
+
+#: inc/translations.php:200
+msgid "Edit Menu Structure"
+msgstr "Wijzig menu structuur"
+
+#: inc/translations.php:199
+msgid "- No menu -"
+msgstr "- Geen menu -"
+
+#: inc/translations.php:198
+msgid "Menu"
+msgstr "Menu"
+
+#: inc/translations.php:195
+msgid "Image with text on the left"
+msgstr "Afbeelding met tekst links"
+
+#: inc/translations.php:194
+msgid "Image with text above"
+msgstr "Afbeelding met tekst bovenaan"
+
+#: inc/translations.php:193
+msgid "Image with text on the right"
+msgstr "Afbeelding met tekst rechts"
+
+#: inc/translations.php:192
+msgid "Image with text below"
+msgstr "Afbeelding met tekst onderaan"
+
+#: inc/translations.php:191
+msgid "Site title text only"
+msgstr "Site titel alleen tekst"
+
+#: inc/translations.php:190
+msgid "Logo image only"
+msgstr "Alleen logo afbeelding"
+
+#: inc/translations.php:188
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/translations.php:187
+msgid "Navigation padding"
+msgstr "Navigation padding"
+
+#: inc/translations.php:186
+msgid "Alternate logo image"
+msgstr "Alternatief logo-afbeelding"
+
+#: inc/translations.php:185
+msgid "Layout type"
+msgstr "Lay-out type"
+
+#: inc/translations.php:182
+msgid "Button align"
+msgstr "Uitlijning knop"
+
+#: inc/translations.php:181
+msgid "Transparent nav"
+msgstr "Doorzichtige navigatie"
+
+#: inc/translations.php:180
+msgid "Full width"
+msgstr "Volledige breedte"
+
+#: inc/translations.php:179
+msgid "Container width"
+msgstr "Containerbreedte"
+
+#: inc/translations.php:178
+msgid "Boxed"
+msgstr "Boxed"
+
+#: inc/translations.php:177
+msgid "Show top bar"
+msgstr "Toon topbalk"
+
+#: inc/translations.php:176
+msgid "Stick on scroll"
+msgstr "Blijven hangen bij scrollen"
+
+#: inc/translations.php:173
+msgid "Text"
+msgstr "Tekst"
+
+#: inc/translations.php:172
+msgid "Icon"
+msgstr "Pictogram"
+
+#: inc/translations.php:171
+msgid "Add Icon"
+msgstr "Pictogram toevoegen"
+
+#: inc/translations.php:170
+msgid "Add Item"
+msgstr "Item toevoegen"
+
+#: inc/translations.php:169
+msgid "Icon %s"
+msgstr "Icon %s"
+
+#: inc/translations.php:168
+msgid "Add Field"
+msgstr "Veld toevoegen"
+
+#: inc/translations.php:167
+msgid "Field %s"
+msgstr "Veld %s"
+
+#: inc/translations.php:166
+msgid "Content Type"
+msgstr "Contenttype"
+
+#: inc/translations.php:165
+msgid "Social Icons"
+msgstr "Sociale iconen"
+
+#: inc/translations.php:164
+msgid "Information Fields"
+msgstr "Informatievelden"
+
+#: inc/translations.php:161
+msgid "Show frame shadow"
+msgstr "Schaduw frame weergeven"
+
+#: inc/translations.php:160
+msgid "Show frame over image"
+msgstr "Frame weergeven boven afbeelding"
+
+#: inc/translations.php:159
+msgid "Frame thickness"
+msgstr "Dikte frame"
+
+#: inc/translations.php:158
+msgid "Offset top"
+msgstr "Offset bovenaan"
+
+#: inc/translations.php:157
+msgid "Offset left"
+msgstr "Offset links"
+
+#: inc/translations.php:156
+msgid "Offset"
+msgstr "Offset"
+
+#: inc/translations.php:155
+msgid "Height"
+msgstr "Hoogte"
+
+#: inc/translations.php:154
+msgid "Width"
+msgstr "Breedte"
+
+#: inc/translations.php:153
+msgid "Border"
+msgstr "Rand"
+
+#: inc/translations.php:151
+msgid "Frame options"
+msgstr "Frame opties"
+
+#: inc/translations.php:150
+msgid "Blur"
+msgstr "Vervagen"
+
+#: inc/translations.php:149
+msgid "Spread"
+msgstr "Verspreid"
+
+#: inc/translations.php:148
+msgid "Vertical"
+msgstr "Verticaal"
+
+#: inc/translations.php:147
+msgid "Horizontal"
+msgstr "Horizontaal"
+
+#: inc/translations.php:146
+msgid "Box shadow"
+msgstr "Box schaduw"
+
+#: inc/translations.php:143
+msgid "Text column width"
+msgstr "Kolombreedte tekst"
+
+#: inc/translations.php:142
+msgid "Full Height"
+msgstr "Volledige hoogte"
+
+#: inc/translations.php:141
+msgid "Spacing bottom"
+msgstr "Afstand onderaan"
+
+#: inc/translations.php:140
+msgid "Spacing top"
+msgstr "Afstand bovenaan"
+
+#: inc/translations.php:139
+msgid "Align"
+msgstr "Uitlijnen"
+
+#: inc/translations.php:138
+msgid "Icons"
+msgstr "Pictogrammen"
+
+#: inc/translations.php:137
+msgid "Link"
+msgstr "Link"
+
+#: inc/translations.php:136
+msgid "Label"
+msgstr "Label"
+
+#: inc/translations.php:135
+msgid "Secondary Button"
+msgstr "Secundaire knop"
+
+#: inc/translations.php:134
+msgid "Primary Button"
+msgstr "Primaire knop"
+
+#: inc/translations.php:133
+msgid "Button Type"
+msgstr "Type knop"
+
+#: inc/translations.php:132
+msgid "Buttons"
+msgstr "Knoppen"
+
+#: inc/translations.php:131
+msgid "Add Button"
+msgstr "Knop toevoegen"
+
+#: inc/translations.php:130
+msgid "Button"
+msgstr "Knop"
+
+#: inc/translations.php:129
+msgid "Text width"
+msgstr "Breedte tekst"
+
+#: inc/translations.php:128
+msgid "Subtitle"
+msgstr "Ondertitel"
+
+#: inc/translations.php:127
+msgid "Title"
+msgstr "Titel"
+
+#: inc/translations.php:126
+msgid "Show Subtitle"
+msgstr "Toon subtitel"
+
+#: inc/translations.php:125
+msgid "Show Title"
+msgstr "Titel tonen"
+
+#: inc/translations.php:124
+msgid "Text with media on left"
+msgstr "Tekst met media links"
+
+#: inc/translations.php:123
+msgid "Text with media on right"
+msgstr "Tekst met media rechts"
+
+#: inc/translations.php:122
+msgid "Text only"
+msgstr "Alleen tekst"
+
+#: inc/translations.php:121
+msgid "Hero layout"
+msgstr "Hero lay-out"
+
+#: inc/translations.php:118
+msgid "Overlay Shape"
+msgstr "Vorm overlay"
+
+#: inc/translations.php:117
+msgid "Shape Light"
+msgstr "Vorm licht"
+
+#: inc/translations.php:116
+msgid "Right Tilted Strips"
+msgstr "Rechts gekantelde strips"
+
+#: inc/translations.php:115
+msgid "Right Tilted Lines"
+msgstr "Rechts gekantelde lijnen"
+
+#: inc/translations.php:114
+msgid "Left Tilted Lines"
+msgstr "Links gekantelde lijnen"
+
+#: inc/translations.php:113
+msgid "Dots"
+msgstr "Punten"
+
+#: inc/translations.php:112
+msgid "Waves Inverted"
+msgstr "Omgekeerde golven"
+
+#: inc/translations.php:111
+msgid "Circles White Gradient"
+msgstr "Cirkels witte overgang"
+
+#: inc/translations.php:110
+msgid "Circles Gradient"
+msgstr "Cirkels overgang"
+
+#: inc/translations.php:109
+msgid "Circles 3"
+msgstr "Cirkels 3"
+
+#: inc/translations.php:108
+msgid "Circles 2"
+msgstr "Cirkels 2"
+
+#: inc/translations.php:107
+msgid "Two Circles"
+msgstr "Twee cirkels"
+
+#: inc/translations.php:106
+msgid "Many Rounded Squares Blue"
+msgstr "Veel afgeronde blauwe vierkanten"
+
+#: inc/translations.php:105
+msgid "Rounded Square Blue"
+msgstr "Afgerond blauw vierkant"
+
+#: inc/translations.php:104
+msgid "10deg Stripes"
+msgstr "10graden strepen"
+
+#: inc/translations.php:103
+msgid "Circles"
+msgstr "Cirkels"
+
+#: inc/translations.php:102
+msgid "Opacity"
+msgstr "Transparantie"
+
+#: inc/translations.php:101
+msgid "Shape Only"
+msgstr "Enkel vorm"
+
+#: inc/translations.php:100
+msgid "Overlay Type"
+msgstr "Soort overlay"
+
+#: inc/translations.php:99
+msgid "Show Background Overlay"
+msgstr "Toon achtergrondoverlay"
+
+#: inc/translations.php:98
+msgid "Youtube link"
+msgstr "YouTube link"
+
+#: inc/translations.php:97
+msgid "Video Poster"
+msgstr "Videoposter"
+
+#: inc/translations.php:96
+msgid "External"
+msgstr "Externe"
+
+#: inc/translations.php:95
+msgid "Self Hosted Video"
+msgstr "Zelfgehoste video"
+
+#: inc/translations.php:94
+msgid "Self Hosted"
+msgstr "Zelfgehost"
+
+#: inc/translations.php:93
+msgid "Video type"
+msgstr "Type video"
+
+#: inc/translations.php:92
+msgid "Effect Speed"
+msgstr "Effect snelheid"
+
+#: inc/translations.php:91
+msgid "Slide Duration"
+msgstr "Duur slide"
+
+#: inc/translations.php:90
+msgid "Contain"
+msgstr "Bevatten"
+
+#: inc/translations.php:89
+msgid "Cover"
+msgstr "Cover"
+
+#: inc/translations.php:88
+msgid "Auto"
+msgstr "Automatisch"
+
+#: inc/translations.php:87
+msgid "Repeat %s"
+msgstr "Herhaal %s"
+
+#: inc/translations.php:86
+msgid "Do not repeat"
+msgstr "Niet herhalen"
+
+#: inc/translations.php:85
+msgid "Size"
+msgstr "Grootte"
+
+#: inc/translations.php:84
+msgid "Fixed"
+msgstr "Fixed"
+
+#: inc/translations.php:83
+msgid "Scroll"
+msgstr "Scroll"
+
+#: inc/translations.php:82
+msgid "Attachment"
+msgstr "Bijlage"
+
+#: inc/translations.php:81
+msgid "Bottom Right"
+msgstr "Rechtsonder"
+
+#: inc/translations.php:80
+msgid "Bottom Center"
+msgstr "Middenonder"
+
+#: inc/translations.php:79
+msgid "Bottom Left"
+msgstr "Linksonder"
+
+#: inc/translations.php:78
+msgid "Center Right"
+msgstr "Midden rechts"
+
+#: inc/translations.php:77
+msgid "Center Center"
+msgstr "Midden midden"
+
+#: inc/translations.php:76
+msgid "Center Left"
+msgstr "Midden links"
+
+#: inc/translations.php:75
+msgid "Top Right"
+msgstr "Rechtsboven"
+
+#: inc/translations.php:74
+msgid "Top Center"
+msgstr "Middenboven"
+
+#: inc/translations.php:73
+msgid "Top Left"
+msgstr "Linksboven"
+
+#: inc/translations.php:70
+msgid "Position"
+msgstr "Positie"
+
+#: inc/translations.php:69
+msgid "Add Slide"
+msgstr "Slide toevoegen"
+
+#: inc/translations.php:68
+msgid "Slide %s"
+msgstr "Slide %s"
+
+#: inc/translations.php:67
+msgid "Remove"
+msgstr "Verwijderen"
+
+#: inc/translations.php:66
+msgid "Add"
+msgstr "Toevoegen"
+
+#: inc/translations.php:65
+msgid "None"
+msgstr "Geen"
+
+#: inc/translations.php:64
+msgid "Clear"
+msgstr "Duidelijk"
+
+#: inc/translations.php:63
+msgid "OK"
+msgstr "OK"
+
+#: inc/translations.php:62
+msgid "Select image"
+msgstr "Selecteer afbeelding"
+
+#: inc/translations.php:61
+msgid "Select item"
+msgstr "Selecteer item"
+
+#: inc/translations.php:60
+msgid "Select"
+msgstr "Selecteren"
+
+#: inc/translations.php:57
+msgid "Zigzag"
+msgstr "Zigzag"
+
+#: inc/translations.php:56
+msgid "Split"
+msgstr "Split"
+
+#: inc/translations.php:55
+msgid "Book"
+msgstr "Boek"
+
+#: inc/translations.php:54
+msgid "Arrow"
+msgstr "Pijl"
+
+#: inc/translations.php:53
+msgid "Drops"
+msgstr "Drops"
+
+#: inc/translations.php:52
+msgid "Curve Asymmetrical"
+msgstr "Asymetrische curve"
+
+#: inc/translations.php:51
+msgid "Curve"
+msgstr "Curve"
+
+#: inc/translations.php:50
+msgid "Clouds"
+msgstr "Wolken"
+
+#: inc/translations.php:49
+msgid "Waves Pattern"
+msgstr "Golven - patroon"
+
+#: inc/translations.php:48
+msgid "Wave Brush"
+msgstr "Golf brush"
+
+#: inc/translations.php:47
+msgid "Waves"
+msgstr "Golven"
+
+#: inc/translations.php:46
+msgid "Pyramids"
+msgstr "Piramiden"
+
+#: inc/translations.php:45
+msgid "Mountains"
+msgstr "Bergen"
+
+#: inc/translations.php:44
+msgid "Opacity Tilt "
+msgstr "Helderheid tilt"
+
+#: inc/translations.php:43
+msgid "Opacity Fan"
+msgstr "Helderheid fan"
+
+#: inc/translations.php:42
+msgid "Triangle Asymmetrical"
+msgstr "Asymetrische driehoek"
+
+#: inc/translations.php:41
+msgid "Triangle"
+msgstr "Driehoek"
+
+#: inc/translations.php:40
+msgid "Tilt Flipped"
+msgstr "Omgedraaid gekanteld"
+
+#: inc/translations.php:39
+msgid "Tilt"
+msgstr "Gekanteld"
+
+#: inc/translations.php:36
+msgid "Divider negative"
+msgstr "Verdeler negatief"
+
+#: inc/translations.php:35
+msgid "Divider height"
+msgstr "Hoogte afscheiding"
+
+#: inc/translations.php:34
+msgid "Divider style"
+msgstr "Stijl verdeler"
+
+#: inc/translations.php:33
+msgid "Show bottom divider"
+msgstr "Toon verdeler onderaan"
+
+#: inc/translations.php:30
+msgid "Video"
+msgstr "Video"
+
+#: inc/translations.php:29
+msgid "Slideshow"
+msgstr "Slideshow"
+
+#: inc/translations.php:28
+msgid "Gradient"
+msgstr "Verloop"
+
+#: inc/translations.php:27
+msgid "Image"
+msgstr "Afbeelding"
+
+#: inc/translations.php:26
+msgid "Color"
+msgstr "Kleur"
+
+#: inc/translations.php:25
+msgid "Background Image"
+msgstr "Achtergrondafbeelding"
+
+#: inc/translations.php:24
+msgid "Background Color"
+msgstr "Kleur achtergrond"
+
+#: inc/translations.php:23
+msgid "Background Type"
+msgstr "Achtergrond type"
+
+#: inc/translations.php:20
+msgid "Advanced"
+msgstr "Geavanceerd"
+
+#: inc/translations.php:19
+msgid "Style"
+msgstr "Stijl"
+
+#: inc/translations.php:17
+msgid "Blog Settings"
+msgstr "Blog instellingen"
+
+#: inc/translations.php:16
+msgid "Footer Settings"
+msgstr "Footer instellingen"
+
+#: inc/translations.php:15
+msgid "Hero Settings"
+msgstr "Hero instellingen"
+
+#: inc/translations.php:14
+msgid "Navigation Settings"
+msgstr "Navigatie instellingen"
+
+#: inc/translations.php:13
+msgid "Top Bar Settings"
+msgstr "Top Bar Settings"
+
+#: inc/translations.php:12
+msgid "Content Settings"
+msgstr "Contentinstellingen"
+
+#: inc/translations.php:11 inc/translations.php:18
+msgid "Content"
+msgstr "Inhoud"
+
+#: inc/translations.php:10
+msgid "Footer"
+msgstr "Footer"
+
+#: inc/translations.php:9
+msgid "Header"
+msgstr "Header"
+
+#: inc/translations.php:8
+msgid "Help"
+msgstr "Hulp"
+
+#: inc/translations.php:7
+#: template-parts/layout-wrapper-content/navigation-container-2.php:37
+#: template-parts/layout-wrapper-content/navigation-container-3.php:11
+#: template-parts/layout-wrapper-content/navigation-container-3.php:37
+msgid "Back"
+msgstr "Terug"
+
+#: inc/translations.php:6
+msgid "Press return or enter to open this section"
+msgstr "Druk op return of enter om deze sectie te openen"
+
+#: inc/template-functions.php:413
+msgid "Built using WordPress and %s"
+msgstr "Gebouwd met behulp van WordPress en %s"
+
+#: inc/template-functions.php:327
+msgid "Responses"
+msgstr "Reacties"
+
+#: inc/template-functions.php:326 template-parts/blog/comments.php:13
+#: template-parts/main/post.php:22
+msgid "One response"
+msgstr "Eén reactie"
+
+#: inc/template-functions.php:325 template-parts/blog/comments.php:12
+#: template-parts/main/post.php:21
+msgid "No responses yet"
+msgstr "Nog geen reacties"
+
+#: inc/template-functions.php:270
+msgid "Posts navigation"
+msgstr "Berichtnavigatie"
+
+#: inc/template-functions.php:265 template-parts/content/content-page.php:12
+#: template-parts/content/content-single.php:26
+msgid "Page"
+msgstr "Pagina"
+
+#: inc/template-functions.php:198
+msgid "Post navigation"
+msgstr "Berichtnavigatie"
+
+#: inc/template-functions.php:179
+msgid "No Tag"
+msgstr "Geen tag"
+
+#: inc/template-functions.php:171
+msgid "Tag: %s"
+msgstr "Tag: %s"
+
+#: inc/template-functions.php:146
+msgid "No Category"
+msgstr "Geen categorie"
+
+#: inc/template-functions.php:13
+msgid "Search Results for &#8220;%s&#8221;"
+msgstr "Zoekresultaten voor &#8220;%s&#8221;"
+
+#: inc/template-functions.php:11
+msgid "Page not found"
+msgstr "Pagina niet gevonden"
+
+#: inc/functions.php:176
+msgid "Woo Commerce left sidebar widget area"
+msgstr "WooCommerce linker zijbalk widgetgebied"
+
+#: inc/functions.php:166
+msgid "Blog sidebar widget area"
+msgstr "Blog zijbalk widgetruimte"
+
+#: inc/functions.php:155
+msgid "Footer Menu"
+msgstr "Footer menu"
+
+#: inc/functions.php:154
+msgid "Header Menu"
+msgstr "Headermenu"
+
+#: inc/defaults.php:22
+msgid "Lorem ipsum dolor sit amet, at mei dolore tritani.In his nemore temporibus consequuntur, vim ad prima vivendum consetetur.Viderer feugiat at pro, mea aperiam."
+msgstr "Lorem ipsum dolor sit amet, at mei dolore tritani.In his nemore temporibus consequuntur, vim ad prima vivendum consetetur. Viderer feugiat at pro, mea aperiam."
+
+#: inc/defaults.php:13
+msgid "Just click and start typing to change the site headline."
+msgstr "Klik en begin met typen om de headline van de site te wijzigen."
+
+#: inc/defaults.php:9
+msgid "Aspire. Build. Achieve."
+msgstr "Streven. Bouwen. Bereiken."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3665
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installeren van Plugin %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:3662
+msgid "All installations have been completed."
+msgstr "Alle installaties zijn afgerond."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3658
+msgid "%1$s installed successfully."
+msgstr "%1$s met succes geinstalleerd."
+
+#: inc/class-tgm-plugin-activation.php:3655
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Het installatie en activeringsproces begint. Dit proces kan een tijdje duren op sommige hosts, dus wees geduldig."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3651
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installeren en Activeren van Plugin %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:3648
+msgid "All installations and activations have been completed."
+msgstr "Alle installaties en activeringen zijn afgerond."
+
+#: inc/class-tgm-plugin-activation.php:3646
+#: inc/class-tgm-plugin-activation.php:3660
+msgid "Hide Details"
+msgstr "Details verbergen"
+
+#: inc/class-tgm-plugin-activation.php:3645
+#: inc/class-tgm-plugin-activation.php:3659
+msgid "Show Details"
+msgstr "Details tonen"
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3644
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s met succes geinstalleerd en geactiveerd."
+
+#: inc/class-tgm-plugin-activation.php:3641
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Het installatie en activeringsproces begint. Dit proces kan een tijdje duren op sommige hosts, dus wees geduldig."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3636
+msgid "The installation of %1$s failed."
+msgstr "De installatie van %1$s is mislukt."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/class-tgm-plugin-activation.php:3633
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Een fout trad op tijdens het installeren %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3629
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Updaten plugin %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:3274
+msgid "Plugin activation failed."
+msgstr "Activatie plugin mislukt."
+
+#: inc/class-tgm-plugin-activation.php:3039
+msgid "No plugins are available to be activated at this time."
+msgstr "Geen plugins beschikbaar om te worden geactiveerd."
+
+#: inc/class-tgm-plugin-activation.php:3012
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Geen plugins geselecteerd om te worden geactiveerd. Geen actie ondernomen."
+
+#: inc/class-tgm-plugin-activation.php:2905
+msgid "No plugins are available to be updated at this time."
+msgstr "Geen plugins beschikbaar om te worden geupdate."
+
+#: inc/class-tgm-plugin-activation.php:2903
+msgid "No plugins are available to be installed at this time."
+msgstr "Geen plugins beschikbaar om te worden geïnstalleerd."
+
+#: inc/class-tgm-plugin-activation.php:2862
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Geen plugins geselecteerd om te worden geupdate. Geen actie ondernomen."
+
+#: inc/class-tgm-plugin-activation.php:2860
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Geen plugins geselecteerd om te worden geïnstalleerd. Geen actie ondernomen."
+
+#: inc/class-tgm-plugin-activation.php:2829 inc/translations.php:297
+msgid "Activate"
+msgstr "Activeer"
+
+#: inc/class-tgm-plugin-activation.php:2826
+msgid "Update"
+msgstr "Updaten"
+
+#: inc/class-tgm-plugin-activation.php:2820 inc/translations.php:298
+msgid "Install"
+msgstr "Installeren"
+
+#: inc/class-tgm-plugin-activation.php:2786
+msgid "Upgrade message from the plugin author:"
+msgstr "Upgrade boodschap van de plugin auteur:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2712
+msgid "Activate %2$s"
+msgstr "Activeer %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2706
+msgid "Update %2$s"
+msgstr "Update %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2701
+msgid "Install %2$s"
+msgstr "Installeer %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2651
+msgid "Status"
+msgstr "Status"
+
+#: inc/class-tgm-plugin-activation.php:2650
+msgid "Version"
+msgstr "Versie"
+
+#: inc/class-tgm-plugin-activation.php:2646 inc/translations.php:152
+msgid "Type"
+msgstr "Type"
+
+#: inc/class-tgm-plugin-activation.php:2645
+msgid "Source"
+msgstr "Bron"
+
+#: inc/class-tgm-plugin-activation.php:2644
+msgid "Plugin"
+msgstr "Plugin"
+
+#: inc/class-tgm-plugin-activation.php:2628
+msgid "No plugins to install, update or activate."
+msgstr "Geen plugins om te installeren, updaten of activeren."
+
+#: inc/class-tgm-plugin-activation.php:2604
+msgid "Available version:"
+msgstr "Beschikbare versie:"
+
+#: inc/class-tgm-plugin-activation.php:2590
+msgid "Minimum required version:"
+msgstr "Minimale benodigde versie:"
+
+#: inc/class-tgm-plugin-activation.php:2581
+msgid "Installed version:"
+msgstr "Geinstalleerde versie"
+
+#: inc/class-tgm-plugin-activation.php:2572
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "onbekend"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2485
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Activeer <span class=\"count\">(%s)</span>"
+msgstr[1] "Activeer <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2480
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Update beschikbaar: <span class=\"count\">(%s)</span>"
+msgstr[1] "Updates beschikbaar: <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2475
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Installeer <span class=\"count\">(%s)</span>"
+msgstr[1] "Installeer <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2470
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Alle <span class=\"count\">(%s)</span>"
+msgstr[1] "Alle <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/class-tgm-plugin-activation.php:2423
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2414
+msgid "Update recommended"
+msgstr "Update wordt aangeraden"
+
+#: inc/class-tgm-plugin-activation.php:2411
+msgid "Requires Update"
+msgstr "Update is benodigd"
+
+#: inc/class-tgm-plugin-activation.php:2408
+msgid "Required Update not Available"
+msgstr "Benodigde update is niet beschikbaar"
+
+#: inc/class-tgm-plugin-activation.php:2402 inc/translations.php:301
+msgid "Active"
+msgstr "Actief"
+
+#: inc/class-tgm-plugin-activation.php:2400
+msgid "Installed But Not Activated"
+msgstr "Geinstalleerd maar niet geactiveerd"
+
+#: inc/class-tgm-plugin-activation.php:2396
+msgid "Not Installed"
+msgstr "Niet geïnstalleerd"
+
+#: inc/class-tgm-plugin-activation.php:2378
+msgid "Pre-Packaged"
+msgstr "Pre-Packaged"
+
+#: inc/class-tgm-plugin-activation.php:2375
+msgid "External Source"
+msgstr "Externe bron"
+
+#: inc/class-tgm-plugin-activation.php:2372
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+#: inc/class-tgm-plugin-activation.php:2355
+msgid "Recommended"
+msgstr "Aanbevolen"
+
+#: inc/class-tgm-plugin-activation.php:2352
+msgid "Required"
+msgstr "Benodigd"
+
+#. translators: %s: version number
+#: inc/class-tgm-plugin-activation.php:2054
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/class-tgm-plugin-activation.php:1152
+#: inc/class-tgm-plugin-activation.php:3055
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "en"
+
+#: inc/class-tgm-plugin-activation.php:960
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Het externe plugin pakket bestaat uit meer dan één bestand, maar de bestanden worden niet verpakt in een map."
+
+#: inc/class-tgm-plugin-activation.php:955
+#: inc/class-tgm-plugin-activation.php:961
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Neem contact op met de plug-provider en vraag hen om hun plugin te verpakken volgens de richtlijnen van WordPress."
+
+#: inc/class-tgm-plugin-activation.php:954
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Het externe plugin pakket bevat geen map met de gewenste slug en hernoemen werkte niet."
+
+#: inc/class-tgm-plugin-activation.php:532
+msgid "Update Required"
+msgstr "Update Benodigd"
+
+#: inc/class-tgm-plugin-activation.php:531
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "De plugin moet geupdate worden om te kunnen werken met dit thema."
+
+#: inc/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "Neem contact op met de beheerder van deze site voor hulp."
+
+#: inc/class-tgm-plugin-activation.php:402
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Er zijn 1 of meerdere benodige of aangeraden plugins te installeren, te updaten of te activeren."
+
+#: inc/class-tgm-plugin-activation.php:401
+msgid "Dismiss this notice"
+msgstr "Negeer deze melding"
+
+#. translators: 1: dashboard link.
+#: inc/class-tgm-plugin-activation.php:399
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Alle plugins zijn geinstalleerd en met succes geactiveerd. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:396
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Plugin is niet geactiveerd. Een nieuwere versie van %s is nodig voor dit thema. Update de plugin."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:393
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Geen actie ondernomen, plugin %1$s was al geactiveerd."
+
+#: inc/class-tgm-plugin-activation.php:390
+#: inc/class-tgm-plugin-activation.php:3060
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "De volgende plugin werd succesvol geactiveerd:"
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:389
+#: inc/class-tgm-plugin-activation.php:3275
+msgid "Plugin activated successfully."
+msgstr "Plugin met succes geactiveerd"
+
+#: inc/class-tgm-plugin-activation.php:388
+#: inc/class-tgm-plugin-activation.php:843
+#: inc/class-tgm-plugin-activation.php:2629
+#: inc/class-tgm-plugin-activation.php:3728
+msgid "Return to the Dashboard"
+msgstr "Terug naar het dashboard"
+
+#: inc/class-tgm-plugin-activation.php:387
+msgid "Return to Required Plugins Installer"
+msgstr "Ga terug naar de benodigde plugins installer"
+
+#: inc/class-tgm-plugin-activation.php:382
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Begin met het activeren van de plugin"
+msgstr[1] "Begin met het activeren van de plugins"
+
+#: inc/class-tgm-plugin-activation.php:377
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Begin met het updaten van de plugin"
+msgstr[1] "Begin met het updaten van de plugins"
+
+#: inc/class-tgm-plugin-activation.php:372
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Begin met het installeren van de plugin"
+msgstr[1] "Begin met het installeren van de plugins"
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:366
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "De volgende aanbevolen plugin is momenteel niet actief: %1$s."
+msgstr[1] "De volgende aanbevolen plugins zijn momenteel niet actief: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:360
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "De volgende plugin is momenteel niet actief:  %1$s."
+msgstr[1] "De volgende plugins zijn momenteel niet actief:  %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:354
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Er is een update beschikbaar voor de volgende plugin: %1$s."
+msgstr[1] "Er zijn updates beschikbaar voor de volgende plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:348
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "De volgende plugin moet worden geüpdatet naar de nieuwste versie om maximale compatibiliteit met dit thema te garanderen: %1$s."
+msgstr[1] "De volgende plugins moeten worden geüpdatet naar de nieuwste versie om maximale compatibiliteit met dit thema te garanderen: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:342
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Dit thema raadt de volgende plugin aan: %1$s."
+msgstr[1] "Dit thema raadt de volgende plugins aan: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:336
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Dit thema vereist de volgende plugin: %1$s."
+msgstr[1] "Dit thema vereist de volgende plugins: %1$s."
+
+#: inc/class-tgm-plugin-activation.php:335
+msgid "Something went wrong with the plugin API."
+msgstr "Er ging iets mis met de plugin API."
+
+#. translators: %s: plugin name.
+#: inc/class-tgm-plugin-activation.php:334
+msgid "Updating Plugin: %s"
+msgstr "Plugin: %s aan het updaten"
+
+#. translators: %s: plugin name.
+#: inc/class-tgm-plugin-activation.php:332
+msgid "Installing Plugin: %s"
+msgstr "Installatie plugin: %s"
+
+#: inc/class-tgm-plugin-activation.php:330
+msgid "Install Plugins"
+msgstr "Installeer plugins"
+
+#: inc/class-tgm-plugin-activation.php:329
+msgid "Install Required Plugins"
+msgstr "Installeer de benodigde plugins"
+
+#: functions.php:36
+msgid "Current php version is: %1$s and the mininum required version is %2$s"
+msgstr "De huidige PHP versie is %1$s en de minimum vereiste versie is %2$s"
+
+#: functions.php:33
+msgid "You need to update your PHP version to use the %s."
+msgstr "Je moet je PHP-versie updaten om gebruik te kunnen maken van %s."
+
+#: functions.php:31
+msgid "Peregrine theme activation failed!"
+msgstr "Activatie van het Peregrine thema is mislukt!"
+
+#: comments.php:42 template-parts/blog/comments.php:37
+msgid "Comments are closed."
+msgstr "Reacties zijn gesloten."
+
+#: comments.php:33
+msgid "Newer Comments <i class=\"font-icon-post fa fa-angle-double-right\"></i>"
+msgstr "Recentere reacties <i class=\"font-icon-post fa fa-angle-double-right\"></i>"
+
+#: comments.php:29
+msgid "<i class=\"font-icon-post fa fa-angle-double-left\"></i> Older Comments"
+msgstr "<i class=\"font-icon-post fa fa-angle-double-left\"></i> Oudere reacties"
+
+#: comments.php:12 template-parts/blog/comments.php:14
+msgid "% Responses"
+msgstr "% reacties"
+
+#: comments.php:11
+msgid "One Response"
+msgstr "Één reactie"
+
+#: comments.php:11
+msgid "No Responses"
+msgstr "Geen reacties"
+
+#: admin/admin-notice.php:121
+msgid "This action will also install the Colibri Page Builder plugin."
+msgstr "Deze actie zal ook de Colibri page builder plugin installeren."
+
+#: admin/admin-notice.php:109
+msgid "Maybe Later"
+msgstr "Misschien later"
+
+#: admin/admin-notice.php:105
+msgid "Install the Peregrine homepage"
+msgstr "Installeer Peregrine homepage"
+
+#: admin/admin-notice.php:100
+msgid "Would you like to install the pre-designed Peregrine homepage?"
+msgstr "Wil je de voorontworpen Peregrine homepage installeren?"
+
+#: admin/admin-notice.php:63 admin/page.php:18
+msgid "Activating"
+msgstr "Activeren"
+
+#: admin/admin-notice.php:41
+msgid "Fullscreen"
+msgstr "Volledig scherm"
+
+#: admin/admin-notice.php:32
+msgid "Classic"
+msgstr "Klassiek"
+
+#: admin/admin-notice.php:13 admin/admin-notice.php:22
+msgid "Modern"
+msgstr "Modern"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://extendthemes.com/"
+msgstr "https://extendthemes.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Extend Themes"
+msgstr "Extend Themes"

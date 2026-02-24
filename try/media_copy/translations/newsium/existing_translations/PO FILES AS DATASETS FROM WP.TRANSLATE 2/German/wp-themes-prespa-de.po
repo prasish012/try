@@ -1,0 +1,2103 @@
+# Translation of Themes - Prespa in German
+# This file is distributed under the same license as the Themes - Prespa package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-10-27 01:01:13+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: de\n"
+"Project-Id-Version: Themes - Prespa\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Prespa is a next-generation multi-purpose WordPress theme. It is perfect for a blog, portfolio website, digital agency, marketing, seo, consulting, sass application website, e-commerce shop as well as any type of corporate, finance and agency website. You will be surprised how many options this generous theme provides. At the same time, a serious effort has been made to optimize the theme for speed. No Jquery, Bootstrap, Font Awesome or any other third-party library to slow you down - it uses only core WordPress functions and clean html5/css3 tempates. With our beautiful block patterns, you will be able to get started in minutes. No coding skills needed. A lot of time and effort has been spent to optimize the theme for SEO and it uses Schema.org markup (microdata) to help you rank higher in the search results. The theme is highly customizable and easy to adapt to any design. All theme demos have been made with the Gutenberg editor, which means you do not have to install any additional plugins to use the theme. At the same time, the theme also fully supports the good old Classic editor. Effortless integrations with all the popular WordPress plugins, e.g. WooCommerce is also fully guaranteed. The theme is specifically designed to make your content stand out from the crowd and it is very well thought in terms of UX/UI. Protect your visitors' eyes by allowing them to switch between day and night mode (light and dark mode) with a single click. Oh, and just like with our other themes, updates will keep on coming, constantly improving the codebase and keeping it up to date to the modern web standards. Still not convinved? Check the theme demo at https://prespa-demo.nasiothemes.com/ Theme documentation: https://nasiothemes.com/prespa-theme-documentation/"
+msgstr "Prespa ist ein Mehrzweck-WordPress-Theme der nächsten Generation. Es ist perfekt für einen Blog, eine Portfolio-Website, eine digitale Agentur, Marketing, SEO, Beratung, eine SaaS-Webanwendung, einen E-Commerce-Shop sowie jede Art von Unternehmens-, Finanz- und Agentur-Website. Du wirst überrascht sein, wie viele Optionen dieses freigiebige Theme bietet. Gleichzeitig wurde sich ernsthaft bemüht, das Theme für Geschwindigkeit zu optimieren. Kein jQuery, Bootstrap, Font Awesome oder andere Bibliotheken von Drittanbietern, die es verlangsamen – es verwendet nur WordPress-Core-Funktionen und klar strukturierte HTML5-/CSS3-Templates. Mit unseren schönen Blockvorlagen kannst du in wenigen Minuten loslegen. Es sind keine Programmierkenntnisse erforderlich. Es wurde viel Zeit und Mühe darin investiert, das Theme für SEO zu optimieren, und es verwendet Schema.org-Markup (Mikrodaten), um dir zu helfen, in den Suchergebnissen besser platziert zu werden. Das Theme ist in hohem Maße flexibel und lässt sich leicht an jedes Design anpassen. Alle Theme-Demos wurden mit dem Gutenberg-Editor erstellt, was bedeutet, dass du keine zusätzlichen Plugins installieren musst, um das Theme zu verwenden. Gleichzeitig unterstützt das Theme aber auch den guten alten Classic Editor vollständig. Mühelose Integrationen mit allen beliebten WordPress-Plugins, z. B. WooCommerce, sind ebenfalls komplett gewährleistet. Das Theme wurde speziell entwickelt, um deine Inhalte von der Masse abzuheben, und es ist in Bezug auf UX/UI sehr gut durchdacht. Es schützt die Augen deiner Besucher, indem du ihnen erlaubst, mit einem einzigen Klick zwischen Tag- und Nachtmodus (Hell- und Dunkelmodus) zu wechseln. Oh, und genau wie bei unseren anderen Themes wird es immer wieder Updates geben, die die Codebasis ständig verbessern und dich auf dem neuesten Stand der modernen Webstandards halten. Immer noch nicht überzeugt? Sieh dir die Theme-Demo unter https://prespa-demo.nasiothemes.com/ an. Theme-Dokumentation: https://nasiothemes.com/prespa-theme-documentation/"
+
+#. Theme Name of the theme
+#: style.css admin/theme-intro.php:228 admin/welcome-notice.php:47
+#: inc/blocks/block-patterns.php:8
+#, gp-priority: high
+msgid "Prespa"
+msgstr "Prespa"
+
+#: admin/theme-intro.php:95 admin/welcome-notice.php:81
+msgid "Video Guide"
+msgstr "Videoanleitung"
+
+#: inc/customizer-sections/footer.php:136
+#: inc/customizer-sections/header.php:346
+msgid "Telegram"
+msgstr "Telegram"
+
+#: admin/theme-intro.php:260
+msgid "63"
+msgstr "63"
+
+#: inc/template-functions.php:527
+msgid "Prespa light mode logo "
+msgstr "Prespa-Logo für den hellen Modus "
+
+#: admin/theme-intro.php:251
+msgid "Add ready to use gutenberg block patterns with predefined content for an easier start with the theme. No extra plugins needed!"
+msgstr "Füge fertige Gutenberg-Blockvorlagen mit vordefiniertem Inhalt hinzu, um den Start mit dem Theme zu erleichtern. Keine zusätzlichen Plugins nötig!"
+
+#: inc/customizer-sections/colors.php:130
+msgid "Body Background Color"
+msgstr "Hintergrundfarbe des Inhaltsbereichs"
+
+#: inc/customizer-sections/layout.php:297
+msgid "Choose the sidebar position on the product archives and the product page."
+msgstr "Auswahl der Position der Seitenleisten in den Produktarchiven und auf der Produktseite."
+
+#: inc/customizer-sections/layout.php:135
+msgid "Adjust the width of the container when sidebar is present."
+msgstr "Anpassen der Containerbreite, wenn eine Seitenleiste vorhanden ist."
+
+#: inc/customizer-sections/layout.php:134
+msgid "Content Width (Has Sidebar)"
+msgstr "Breite des Inhalts (mit Seitenleiste)"
+
+#: inc/customizer-sections/layout.php:101
+msgid "Content Width"
+msgstr "Inhaltsbreite"
+
+#: inc/customizer-sections/layout.php:40
+msgid "Please make sure that you have first added widgets from \"Widgets\" section. More sidebar options - go pro version."
+msgstr "Stelle bitte sicher, dass du zunächst Widgets im Abschnitt „Widgets“ hinzugefügt hast. Für weitere Seitenleisten-Optionen – wechsele zur Pro-Version."
+
+#: inc/customizer-sections/layout.php:12
+msgid "Site Layout & Sidebar"
+msgstr "Website-Layout und Seitenleiste"
+
+#: admin/theme-intro.php:247
+msgid "1000+ Google Fonts"
+msgstr "1000+ Google Fonts"
+
+#: admin/theme-intro.php:244
+msgid "Change Fonts and Font Sizes"
+msgstr "Schriften und Schriftgrößen ändern"
+
+#: admin/theme-intro.php:244
+msgid "Choose between 1000+ Google Fonts and change font size for the main elements on the website directly from the Customizer. No coding skills needed!"
+msgstr "Wähle aus über 1000 Google Fonts und ändere die Schriftgröße für die Hauptelemente der Website direkt im Customizer. Keine Programmierkenntnisse nötig!"
+
+#: admin/theme-intro.php:240
+msgid "12 Demo templates"
+msgstr "12 Demo-Templates"
+
+#: admin/theme-intro.php:265
+msgid "Custom sidebar options and content wrap options for the homepage and the post archives."
+msgstr "Individuelle Seitenleisten-Optionen und Optionen für Zeilenumbruch für die Homepage und die Beitrags-Archive."
+
+#: inc/customizer-sections/layout.php:166
+msgid "Wrap pages in a card or leave them as plain text. Page wrapper might not work well if you have full-width blocks."
+msgstr "Seiten in einer Karte darstellen oder als Klartext belassen. Der Seiten-Wrapper funktioniert möglicherweise nicht korrekt, wenn du Blöcke in voller Breite verwendest."
+
+#: admin/theme-intro.php:279
+msgid "Make the dark mode default"
+msgstr "Lege den dunklen Modus als Standard fest"
+
+#: admin/theme-intro.php:276
+msgid "Make the dark mode the default theme mode."
+msgstr "Lege den dunklen Modus als Standardmodus des Themes fest."
+
+#: admin/theme-intro.php:268
+msgid "More layout options"
+msgstr "Mehr Layout-Optionen"
+
+#: inc/customizer-sections/layout.php:30
+msgid "Set custom width for posts and pages. Wrap posts and pages into beatiful containers. More options - go pro version."
+msgstr "Leg eine individuelle Breite für Beiträge und Seiten fest. Packe Beiträge und Seiten in schicke Container. Für mehr Optionen hol dir die Pro-Version."
+
+#: inc/customizer-sections/dark-mode.php:14
+msgid "Customize the dark theme mode. Make the dark mode default and more color options - go pro version."
+msgstr "Passe den dunklen Theme-Modus an. Mach den dunklen Modus zur Standardeinstellung und erhalte mehr Farboptionen in der Pro-Version."
+
+#: inc/customizer-sections/colors.php:5
+msgid "Customze the colors of the light theme mode. To customize the dark theme mode, go to the Night Mode section. Colors that are selected in the Gutenberg Block editor will not be affected. To change these, edit the page via the admin dashboard."
+msgstr "Passe die Farben für den hellen Theme-Modus an. Um den dunklen Theme-Modus anzupassen, gehe zum Abschnitt Nachtmodus. Farben, die im Gutenberg-Block-Editor ausgewählt wurden, sind davon nicht betroffen. Um sie zu ändern, musst du die Seite über das Admin-Dashboard bearbeiten."
+
+#: starter-content/home.php:25
+msgctxt "Theme starter content"
+msgid "Home"
+msgstr "Startseite"
+
+#: starter-content/footer-4.php:29
+msgctxt "Theme starter content"
+msgid "Opening Hours: 10:00 – 13:00"
+msgstr "Öffnungszeiten: 10:00 – 18:00 Uhr"
+
+#: starter-content/footer-4.php:28
+msgctxt "Theme starter content"
+msgid "info@example.com"
+msgstr "info@example.com"
+
+#: starter-content/footer-4.php:26
+msgctxt "Theme starter content"
+msgid "Get in Touch"
+msgstr "Kontakt aufnehmen"
+
+#: starter-content/footer-3.php:37
+msgctxt "Theme starter content"
+msgid "Newsletter"
+msgstr "Newsletter"
+
+#: starter-content/footer-3.php:36
+msgctxt "Theme starter content"
+msgid "Customers"
+msgstr "Kunden"
+
+#: starter-content/footer-3.php:35 starter-content/services.php:14
+msgctxt "Theme starter content"
+msgid "Services"
+msgstr "Dienstleistungen"
+
+#: starter-content/footer-3.php:34
+msgctxt "Theme starter content"
+msgid "About Us"
+msgstr "Über uns"
+
+#: starter-content/footer-3.php:33
+msgctxt "Theme starter content"
+msgid "Learn More"
+msgstr "Weitere Informationen"
+
+#: starter-content/footer-2.php:37
+msgctxt "Theme starter content"
+msgid "Privacy Policy"
+msgstr "Datenschutzerklärung"
+
+#: starter-content/footer-2.php:36
+msgctxt "Theme starter content"
+msgid "Terms of Use"
+msgstr "Nutzungsbedingungen"
+
+#: starter-content/footer-2.php:35
+msgctxt "Theme starter content"
+msgid "Get Started"
+msgstr "Erste Schritte"
+
+#: starter-content/footer-2.php:34
+msgctxt "Theme starter content"
+msgid "Support"
+msgstr "Support"
+
+#: starter-content/footer-2.php:33
+msgctxt "Theme starter content"
+msgid "Need Help?"
+msgstr "Brauchst du Hilfe?"
+
+#: starter-content/footer-1.php:21
+msgctxt "Theme starter content"
+msgid "Let's make something cool together. We are trusted by over 3000+ clients who can't be wrong."
+msgstr "Lass uns gemeinsam etwas Großartiges erschaffen. Über 3000 zufriedene Kunden vertrauen uns – und die können sich nicht irren."
+
+#: starter-content/footer-1.php:20
+msgctxt "Theme starter content"
+msgid "Prespa"
+msgstr "Prespa"
+
+#: starter-content/about.php:14
+msgctxt "Theme starter content"
+msgid "About"
+msgstr "Über"
+
+#: admin/welcome-notice.php:72
+msgid "Get started with %s"
+msgstr "Erste Schritte mit %s"
+
+#: admin/welcome-notice.php:58
+msgid "To take advantage of everything that this theme can offer, please take a look at the %1$s%2$sGet Started with %3$s%4$s page."
+msgstr "Um alle Vorteile dieses Themes nutzen zu können, lies bitte die Seite %1$s%2$sErste Schritte mit %3$s%4$s."
+
+#: admin/welcome-notice.php:52
+msgid "Thank you for choosing %1$s!"
+msgstr "Vielen Dank, dass du %1$s! gewählt hast!"
+
+#: admin/theme-intro.php:356
+msgid "Quick and friendly support is available via email"
+msgstr "Unser schneller und freundlicher Support ist per E-Mail für dich da."
+
+#: admin/theme-intro.php:353
+msgid "Priority"
+msgstr "Priorität"
+
+#: admin/theme-intro.php:348
+msgid "Support is provided only in the WordPress.org community forums."
+msgstr "Support wird ausschließlich in den WordPress.org-Supportforen bereitgestellt."
+
+#: admin/theme-intro.php:345
+msgid "Nonpriority"
+msgstr "Nicht vorrangig"
+
+#: admin/theme-intro.php:340
+msgid "Support"
+msgstr "Support"
+
+#: admin/theme-intro.php:332
+msgid "Custom cursor"
+msgstr "Individueller Mauszeiger"
+
+#: admin/theme-intro.php:329
+msgid "Impress your visitors by adding an artistic flavor to your website. Convert your cursor into a beautiful transparent or filled circle, similar to sites featured in Awwwards."
+msgstr "Beeindrucke deine Besucher, indem du deiner Website eine künstlerische Note verleihst. Verwandle den Mauszeiger in einen stilvollen transparenten oder ausgefüllten Kreis – ähnlich wie auf den Websites, die bei Awwwards vorgestellt werden."
+
+#: admin/theme-intro.php:322
+msgid "Transparent Header"
+msgstr "Transparenter Header"
+
+#: admin/theme-intro.php:320
+msgid "Make header menu items appear on top of the featured image. Choose per page."
+msgstr "Lass die Elemente des Header-Menüs über dem Beitragsbild erscheinen. Wähle pro Seite."
+
+#: admin/theme-intro.php:312
+msgid "Remove Footer Credits"
+msgstr "Footer-Credits entfernen"
+
+#: admin/theme-intro.php:309
+msgid "Remove theme author credits and add your own copyright notice there. Customize the colors of the footer elements directly from the theme customizer. No coding skills needed!"
+msgstr "Entferne die Danksagungen des Theme-Autors und füge dort deinen eigenen Copyright-Hinweis hinzu. Passe die Farben der Footer-Elemente direkt im Theme-Customizer an. Keine Programmierkenntnisse nötig!"
+
+#: admin/theme-intro.php:290
+msgid "Show post views"
+msgstr "Beitragsaufrufe anzeigen"
+
+#: admin/theme-intro.php:287
+msgid "Display the number of post views for each post."
+msgstr "Die Anzahl der Beitragsaufrufe für jeden Beitrag anzeigen."
+
+#: admin/theme-intro.php:301
+msgid "Show post likes"
+msgstr "Beitrags-Likes anzeigen"
+
+#: admin/theme-intro.php:298
+msgid "Show a beautiful heart icon on top of each post that displays the number of viewers who liked the post."
+msgstr "Über jedem Beitrag ein hübsches Herz-Symbol anzeigen, das die Anzahl der Betrachter, die den Beitrag geliked haben, darstellt."
+
+#: admin/theme-intro.php:237
+msgid "One Click Demo Import"
+msgstr "One Click Demo Import"
+
+#: admin/theme-intro.php:236
+msgid "Import demo content with predefined posts, pages and images for an easier start with the theme."
+msgstr "Importiere Demo-Inhalte mit vordefinierten Beiträgen, Seiten und Bildern, um den Start mit dem Theme zu erleichtern."
+
+#: admin/theme-intro.php:256
+msgid "15"
+msgstr "15"
+
+#: admin/theme-intro.php:252
+msgid "Block Patterns"
+msgstr "Block-Vorlagen"
+
+#: admin/theme-intro.php:231
+msgid "Prespa PRO"
+msgstr "Prespa PRO"
+
+#: admin/theme-intro.php:225
+msgid "Feature"
+msgstr "Funktion"
+
+#: admin/theme-intro.php:213
+msgid "View Full List of Features"
+msgstr "Vollständige Liste der Funktionen anzeigen"
+
+#: admin/theme-intro.php:202 admin/theme-intro.php:366
+msgid "Upgrade to Prespa PRO"
+msgstr "Upgrade auf Prespa PRO"
+
+#: admin/theme-intro.php:195
+msgid "You will be able to create an even more unique website using the additional functionalities and customization options available in the pro version."
+msgstr "Du kannst mit den zusätzlichen Funktionen und Anpassungsoptionen der Pro-Version eine noch einzigartigere Website erstellen."
+
+#. translators: Theme name and link to WordPress.org Support forum for the
+#. theme
+#: admin/theme-intro.php:189
+msgid "If you like the free version of %1$s Theme, you will love the PRO version!"
+msgstr "Wenn dir die kostenlose Version des %1$s-Themes gefällt, wirst du die PRO-Version lieben!"
+
+#. translators: Theme name and link to WordPress.org Support forum for the
+#. theme
+#: admin/theme-intro.php:181
+msgid "Upgrade to %1$s Pro"
+msgstr "Upgrade auf %1$s Pro"
+
+#: admin/theme-intro.php:165
+msgid "Write a Review for Prespa"
+msgstr "Schreibe eine Rezension zu Prespa"
+
+#: admin/theme-intro.php:162
+msgid "If you enjoy using Prespa Theme, please leave a review for it on WordPress.org. It encourages us to continue providing updates and support for it."
+msgstr "Wenn du das Prespa-Theme gerne benutzt, hinterlasse bitte eine Rezension auf WordPress.org. Das ermutigt uns, weiterhin Updates und Support für das Theme bereitzustellen."
+
+#: admin/theme-intro.php:159
+msgid "Leave a Review"
+msgstr "Rezension schreiben"
+
+#: admin/theme-intro.php:152
+msgid "To install the Prespa Pro theme, go to Appearance => Themes => Add new and upload the zip file that you have received upon theme purchase. To activate it, hover over Prespa Pro theme from the theme list on the same page and click \"Activate\". Finally, you will be asked to enter a license key that you have received by email."
+msgstr "Um das Prespa-Pro Theme zu installieren, gehe zu Design => Themes => Theme hinzufügen und lade die ZIP-Datei hoch, die du bei dem Kauf des Themes erhalten hast. Um es zu aktivieren, fahre mit dem Mauszeiger über das Prespa-Pro-Theme in der Theme-Liste auf derselben Seite und klicke auf „Aktivieren“. Abschließend wirst du aufgefordert, einen Lizenzschlüssel einzugeben, den du per E-Mail erhalten hast."
+
+#: admin/theme-intro.php:151
+msgid "5. I have already purchased the premium version. How do I install and activate it?"
+msgstr "5. Ich habe die Premium-Version bereits gekauft. Wie installiere und aktiviere ich sie?"
+
+#: admin/theme-intro.php:149
+msgid "Absolutely! all you need to do is upgrade to Prespa PRO and run the one-click demo import."
+msgstr "Genau! Du musst lediglich auf Prespa PRO upgraden und den One-Click-Demo-Import ausführen."
+
+#: admin/theme-intro.php:148
+msgid "4. Can I make a website that looks exactly like the theme demo?"
+msgstr "4. Kann ich eine Website erstellen, die genau wie die Theme-Demo aussieht?"
+
+#: admin/theme-intro.php:146
+msgid "In the WordPress admin, create or edit a page, then click on the plus icon in the top left corner of the Gutenberg editor. From there, navigate to the \"Patterns\" tab and select \"Prespa\" from the pattern dropdown."
+msgstr "Erstelle oder bearbeite im WordPress-Admin eine Seite und klicke dann im Gutenberg-Editor oben links auf das Plus-Icon. Wechsle anschließend zum Tab „Vorlagen“ und wähle im Vorlagen-Dropdown „Prespa“ aus."
+
+#: admin/theme-intro.php:145
+msgid "3. Where are the custom block patterns?"
+msgstr "3. Wo sind die individuellen Blockvorlagen?"
+
+#: admin/theme-intro.php:143
+msgid "Yes, in the pro version of the theme, there is a demo import button that does all the heavy lifting for you. You can choose between 12 different demos. If you are using the free version, you can take advantage of the block patterns that are included in this theme."
+msgstr "Ja, in der Pro-Version des Themes gibt es einen Button für den Import der Demo, der die Hauptarbeit leistet. Du kannst zwischen 12 verschiedenen Demos wählen. Wenn du die kostenlose Version verwendest, kannst du die Blockvorlagen, die in diesem Theme enthalten sind, direkt nutzen."
+
+#: admin/theme-intro.php:142
+msgid "2. Can I add demo content for an easier start with the theme?"
+msgstr "2. Kann ich Demo-Inhalte hinzufügen, um den Start mit dem Theme zu erleichtern?"
+
+#: admin/theme-intro.php:140
+msgid "Please navigate to Appearance => Customize and customize the theme to taste."
+msgstr "Gehe zu Design ⇒ Anpassen und passe das Theme nach deinem Geschmack an."
+
+#: admin/theme-intro.php:139
+msgid "1. Where are the theme options?"
+msgstr "1. Wo sind die Themenoptionen?"
+
+#: admin/theme-intro.php:136
+msgid "FAQ"
+msgstr "FAQ"
+
+#: admin/theme-intro.php:126
+msgid "Go to Prespa Support Forum"
+msgstr "Zum Prespa-Support-Forum"
+
+#: admin/theme-intro.php:122
+msgid "View Prespa Documentation"
+msgstr "Prespa-Dokumentation anzeigen"
+
+#. translators: Theme name and link to WordPress.org Support forum for the
+#. theme
+#: admin/theme-intro.php:116
+msgid "Please check the theme documentation before using the theme. Support for %1$s Theme is provided in the official WordPress.org community support forum. "
+msgstr ""
+
+#: admin/theme-intro.php:109
+msgid "Documentation and Support"
+msgstr "Dokumentation und Unterstützung"
+
+#: admin/theme-intro.php:90 admin/welcome-notice.php:76
+msgid "Theme Options"
+msgstr "Theme-Optionen"
+
+#: admin/theme-intro.php:87
+msgid "Theme Homepage"
+msgstr "Theme-Homepage"
+
+#. translators: Theme name and version
+#: admin/theme-intro.php:79
+msgid "<span class=\"theme-name\">%1$s Theme</span> <span class=\"theme-version\">(version %2$s)</span>"
+msgstr "<span class=\"theme-name\">Theme %1$s</span> <span class=\"theme-version\">(Version %2$s)</span>"
+
+#: admin/theme-intro.php:73
+msgid "Prespa Theme Screenshot"
+msgstr "Screenshot des Prespa-Themes"
+
+#: admin/theme-intro.php:48 admin/theme-intro.php:49
+msgid "Prespa Theme"
+msgstr "Prespa-Theme"
+
+#: admin/notices.php:73
+msgid "Cheatin&#8217; huh?"
+msgstr "Schummeln, na?"
+
+#: admin/notices.php:69
+msgid "Action failed. Please refresh the page and retry."
+msgstr "Die Aktion ist fehlgeschlagen. Bitte lade die Seite neu und versuche es erneut."
+
+#: theme.json
+msgctxt "Space size name"
+msgid "X Large"
+msgstr "Sehr groß"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Large"
+msgstr "Groß"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Medium"
+msgstr "Medium"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Small"
+msgstr "Klein"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Text Primary"
+msgstr "Primärer Text"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Black"
+msgstr "Schwarz"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Links"
+msgstr "Links"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Blue"
+msgstr "Blau"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Silver Blue"
+msgstr "Silberblau"
+
+#: theme.json
+msgctxt "Color name"
+msgid "White"
+msgstr "Weiß"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Gray"
+msgstr "Grau"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Purple"
+msgstr "Violett"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Raleway"
+msgstr "Raleway"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Open Sans"
+msgstr "Open Sans"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Montserrat"
+msgstr "Montserrat"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System Font"
+msgstr "Systemschrift"
+
+#: patterns/06-why-choose-us.php
+msgctxt "Pattern title"
+msgid "Why Choose Us"
+msgstr "Warum du dich für uns entscheiden solltest"
+
+#: patterns/05-six-services.php
+msgctxt "Pattern title"
+msgid "Six Services"
+msgstr "Sechs Dienstleistungen"
+
+#: patterns/04-call-to-action.php
+msgctxt "Pattern title"
+msgid "Call to Action"
+msgstr "Handlungsaufforderung"
+
+#: patterns/13-about.php
+msgctxt "Pattern title"
+msgid "About"
+msgstr "Über"
+
+#: patterns/14-team-members.php
+msgctxt "Pattern title"
+msgid "Team Members"
+msgstr "Teammitglieder"
+
+#: patterns/15-featured-post.php
+msgctxt "Pattern title"
+msgid "Featured Post"
+msgstr "Hervorgehobener Beitrag"
+
+#: patterns/12-faq.php
+msgctxt "Pattern title"
+msgid "Frequently Asked Questions"
+msgstr "Häufig gestellte Fragen"
+
+#: patterns/11-testimonials.php
+msgctxt "Pattern title"
+msgid "Testimonials"
+msgstr "Referenzen"
+
+#: patterns/10-contact-us.php
+msgctxt "Pattern title"
+msgid "Contact Us"
+msgstr "Kontaktiere uns"
+
+#: patterns/08-pricing-table.php
+msgctxt "Pattern title"
+msgid "Pricing table"
+msgstr "Preistabelle"
+
+#: patterns/09-stats-counter.php
+msgctxt "Pattern title"
+msgid "Stats Counter"
+msgstr "Statistik-Zähler"
+
+#: patterns/07-services.php
+msgctxt "Pattern title"
+msgid "Services"
+msgstr "Dienstleistungen"
+
+#: patterns/03-case-studies.php
+msgctxt "Pattern title"
+msgid "Case  Studies"
+msgstr "Fallstudien"
+
+#: patterns/02-features.php
+msgctxt "Pattern title"
+msgid "Features"
+msgstr "Funktionen"
+
+#: patterns/01-header.php
+msgctxt "Pattern title"
+msgid "Header"
+msgstr "Header"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:60
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "<span class=\"screen-reader-text\">„%s“</span> weiterlesen"
+
+#: template-parts/content-none.php:46
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Es sieht so aus, als ob wir nicht das finden konnten, wonach du gesucht hast. Möglicherweise hilft eine Suche."
+
+#: template-parts/content-none.php:39
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Es gibt leider keine passenden Suchergebnisse. Bitte versuche es mit anderen Suchbegriffen."
+
+#. translators: 1: link to WP admin prespa post page.
+#: template-parts/content-none.php:26
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Bereit, deinen ersten Beitrag zu veröffentlichen? <a href=\"%1$s\">Erste Schritte</a>."
+
+#: template-parts/content-none.php:16
+msgid "Nothing Found"
+msgstr "Nichts gefunden"
+
+#: template-parts/content-empty.php:20 template-parts/content-excerpt.php:41
+#: template-parts/content-page.php:31 template-parts/content-search.php:41
+#: template-parts/content.php:73
+msgid "Pages:"
+msgstr "Seiten:"
+
+#: searchform.php:11 searchform.php:12
+msgid "Search Here..."
+msgstr "Hier suchen …"
+
+#. translators: %s: search query.
+#: search.php:22
+msgid "Search Results for: %s"
+msgstr "Suchergebnisse für: %s"
+
+#: patterns/06-why-choose-us.php:45
+msgid "Minim recusandae, volutpat magna, class, adipiscing, quo id consectetuer duis anim nisl vehicula in, velit quis magna venenat. Convallis mollit delectus metus."
+msgstr "Minim recusandae, volutpat magna, class, adipiscing, quo id consectetuer duis anim nisl vehicula in, velit quis magna venenat. Convallis mollit delectus metus."
+
+#: patterns/06-why-choose-us.php:29
+msgid "Minim recusandae, volutpat magna, class, adipiscing, quo id consectetuer duis anim nisl vehicula in, velit quis magna venenat. Convallis mollit delectus metuc."
+msgstr "Minim recusandae, volutpat magna, class, adipiscing, quo id consectetuer duis anim nisl vehicula in, velit quis magna venenat. Convallis mollit delectus metuc."
+
+#: patterns/06-why-choose-us.php:25
+msgid "Beautiful website design with modern UI / UX"
+msgstr ""
+
+#: patterns/06-why-choose-us.php:15
+msgid "Unleash the power of creativity"
+msgstr ""
+
+#: patterns/06-why-choose-us.php:11
+msgid "Take your idea to the next level"
+msgstr "Bring deine Idee auf die nächste Stufe"
+
+#: patterns/05-six-services.php:105
+msgid "Project Management"
+msgstr "Projektmanagement"
+
+#: patterns/05-six-services.php:91
+msgid "Web Development"
+msgstr "Webentwicklung"
+
+#: patterns/05-six-services.php:77
+msgid "Brand Identity"
+msgstr "Marken-Identität"
+
+#: patterns/05-six-services.php:61
+msgid "Speed Optimization"
+msgstr "Geschwindigkeitsoptimierung"
+
+#: patterns/05-six-services.php:33
+msgid "UX / UI"
+msgstr "UX/UI"
+
+#: patterns/05-six-services.php:23
+msgid "Building a reliable software application is not a one-off assignment. It requires grid and resilience."
+msgstr ""
+
+#: patterns/05-six-services.php:19
+msgid "The Solutions We Offer"
+msgstr "Die Lösungen, die wir anbieten"
+
+#: patterns/05-six-services.php:15
+msgid "Services"
+msgstr "Dienste"
+
+#: patterns/04-call-to-action.php:30
+msgid "Learn More"
+msgstr "Weitere Informationen"
+
+#: patterns/04-call-to-action.php:26
+msgid "Download"
+msgstr "Herunterladen"
+
+#: patterns/04-call-to-action.php:21
+msgid "Vitae semper quis lectus. Lacus sed viverra tellus in hac. Senectus et netus et malesuada fames ac turpis. Vitae semper quis lectus."
+msgstr "Vitae semper quis lectus. Lacus sed viverra tellus in hac. Senectus et netus et malesuada fames ac turpis. Vitae semper quis lectus."
+
+#: patterns/04-call-to-action.php:17
+msgid "Minim recusandae, volutpat magna, class, adipiscing, quo id consectetuer duis anim nisl vehicula in, velit quis magna venenat."
+msgstr "Minim recusandae, volutpat magna, class, adipiscing, quo id consectetuer duis anim nisl vehicula in, velit quis magna venenat."
+
+#: patterns/04-call-to-action.php:13
+msgid "Download my Free CRM Tool to help you manage your projects"
+msgstr ""
+
+#: patterns/13-about.php:14
+msgid "Irure dolorum aute quod musin cura wisi. Ipsum sec quam potenti earum beatae inventore ab, cumque. Minim recusandae, volutpat magna, class, adipiscing, quo id consectetuer."
+msgstr "Irure dolorum aute quod musin cura wisi. Ipsum sec quam potenti earum beatae inventore ab, cumque. Minim recusandae, volutpat magna, class, adipiscing, quo id consectetuer."
+
+#: patterns/13-about.php:10
+msgid "Minim recusandae, volutpat magna, class, adipiscing, quo id consectetuer duis anim nisl vehicula in, velit quis magna venenat. Irure dolorum aute quod musin cura wisi. Ipsum sec quam potenti earum beatae inventore ab, cumque."
+msgstr "Minim recusandae, volutpat magna, class, adipiscing, quo id consectetuer duis anim nisl vehicula in, velit quis magna venenat. Irure dolorum aute quod musin cura wisi. Ipsum sec quam potenti earum beatae inventore ab, cumque."
+
+#: patterns/14-team-members.php:76
+msgid "Founder and CEO"
+msgstr "Gründer und Geschäftsführer"
+
+#: patterns/14-team-members.php:72
+msgid "Jonathan Doe"
+msgstr "Jonathan Doe"
+
+#: patterns/14-team-members.php:62
+msgid "HR Director"
+msgstr "Direktor für Personalwesen"
+
+#: patterns/14-team-members.php:58
+msgid "Elsa Walson"
+msgstr "Elsa Walson"
+
+#: patterns/14-team-members.php:48
+msgid "CTO"
+msgstr "CTO"
+
+#: patterns/14-team-members.php:44
+msgid "Jonathan Grey"
+msgstr "Jonathan Grey"
+
+#: patterns/14-team-members.php:34
+msgid "Head of Sales"
+msgstr ""
+
+#: patterns/14-team-members.php:30
+msgid "Richard Sambrora"
+msgstr "Richard Sambrora"
+
+#: patterns/14-team-members.php:20
+msgid "Meet our team of dedicated professionals."
+msgstr ""
+
+#: patterns/14-team-members.php:12
+msgid "Meet the Team"
+msgstr ""
+
+#: patterns/12-faq.php:78
+msgid "Pellentesque in ipsum id orci porta dapibus atemis?"
+msgstr "Pellentesque in ipsum id orci porta dapibus atemis?"
+
+#: patterns/12-faq.php:68
+msgid "Curabitur aliquet quam id dui posuere?"
+msgstr "Curabitur aliquet quam id dui posuere?"
+
+#: patterns/12-faq.php:58
+msgid "Nulla quis lorem ut libero malesuada feugiat?"
+msgstr "Nulla quis lorem ut libero malesuada feugiat?"
+
+#: patterns/12-faq.php:46
+msgid "Praesent sapien massa, convallis a pellentesque?"
+msgstr "Praesent sapien massa, convallis a pellentesque?"
+
+#: patterns/12-faq.php:36
+msgid "Nulla porttitor accumsan tincidunt?"
+msgstr "Nulla porttitor accumsan tincidunt?"
+
+#: patterns/12-faq.php:30 patterns/12-faq.php:40 patterns/12-faq.php:50
+#: patterns/12-faq.php:62 patterns/12-faq.php:72 patterns/12-faq.php:82
+msgid "Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neq."
+msgstr "Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neq."
+
+#: patterns/12-faq.php:26
+msgid "Cras ultricies ligula sed magna dictum porta?"
+msgstr "Cras ultricies ligula sed magna dictum porta?"
+
+#: patterns/12-faq.php:15
+msgid "Frequently Asked Questions"
+msgstr "FAQ"
+
+#: patterns/11-testimonials.php:90
+msgid "A masterpiece of a theme. It is one of the fastest themes I have tried – with just a few tweaks I scored more than 80% on Google Page Speed Insights! I also really liked the header slider feature."
+msgstr ""
+
+#: patterns/11-testimonials.php:78
+msgid "Stefan M"
+msgstr "Stefan M."
+
+#: patterns/11-testimonials.php:66
+msgid "Beautiful themes! After some testing I found a little bug and contacted the development team. Only after a few hours they released an update with the fixed theme. Highly qualified support!"
+msgstr ""
+
+#: patterns/11-testimonials.php:54
+msgid "Maria R"
+msgstr "Maria R."
+
+#: patterns/11-testimonials.php:42
+msgid "I tried many different themes and all of them had at least one thing I hated and I thought I would have to teach myself how to write a theme… but I finally found this one and I am so happy!"
+msgstr ""
+
+#: patterns/11-testimonials.php:34
+msgid "Digital Marketing, XYZ"
+msgstr ""
+
+#: patterns/11-testimonials.php:30
+msgid "Ivan T"
+msgstr "Ivan T."
+
+#: patterns/11-testimonials.php:19
+msgid "Hear what our clients had to say."
+msgstr ""
+
+#: patterns/11-testimonials.php:15
+msgid "Still not convinced?"
+msgstr ""
+
+#: patterns/11-testimonials.php:11
+msgid "TESTIMONIALS"
+msgstr ""
+
+#: patterns/10-contact-us.php:16
+msgid "Have a question? We have all the answers."
+msgstr ""
+
+#: patterns/10-contact-us.php:12
+msgid "Contact us"
+msgstr "Kontaktiere uns"
+
+#: patterns/08-pricing-table.php:117
+msgid "Unlimited Sites"
+msgstr ""
+
+#: patterns/08-pricing-table.php:113
+msgid "$199.99"
+msgstr ""
+
+#: patterns/08-pricing-table.php:109
+msgid "AGENCY"
+msgstr "AGENTUR"
+
+#: patterns/08-pricing-table.php:73
+msgid "5 Site License"
+msgstr ""
+
+#: patterns/08-pricing-table.php:69
+msgid "$99.99"
+msgstr ""
+
+#: patterns/08-pricing-table.php:65
+msgid "BUSINESS"
+msgstr ""
+
+#: patterns/08-pricing-table.php:58 patterns/08-pricing-table.php:102
+#: patterns/08-pricing-table.php:146
+msgid "Choose Plan"
+msgstr "Tarif auswählen"
+
+#: patterns/08-pricing-table.php:49 patterns/08-pricing-table.php:53
+#: patterns/08-pricing-table.php:93 patterns/08-pricing-table.php:97
+#: patterns/08-pricing-table.php:137 patterns/08-pricing-table.php:141
+msgid "Eget deserunt nesciunt."
+msgstr "Eget deserunt nesciunt."
+
+#: patterns/08-pricing-table.php:45 patterns/08-pricing-table.php:89
+#: patterns/08-pricing-table.php:133
+msgid "Congue eaque, egestas."
+msgstr "Congue eaque, egestas."
+
+#: patterns/08-pricing-table.php:41 patterns/08-pricing-table.php:85
+#: patterns/08-pricing-table.php:129
+msgid "Phasellus ante, nulla."
+msgstr "Phasellus ante, nulla."
+
+#: patterns/08-pricing-table.php:37 patterns/08-pricing-table.php:81
+#: patterns/08-pricing-table.php:125
+msgid "Ab dolor earum nam."
+msgstr "Ab dolor earum nam."
+
+#: patterns/08-pricing-table.php:33 patterns/08-pricing-table.php:77
+#: patterns/08-pricing-table.php:121
+msgid "Eaque illum quisquam."
+msgstr "Eaque illum quisquam."
+
+#: patterns/08-pricing-table.php:29
+msgid "1 Site License"
+msgstr ""
+
+#: patterns/08-pricing-table.php:25
+msgid "$59.99"
+msgstr ""
+
+#: patterns/08-pricing-table.php:21
+msgid "PERSONAL"
+msgstr "PERSÖNLICH"
+
+#: patterns/08-pricing-table.php:11
+msgid "Reasonable pricing plans "
+msgstr ""
+
+#: patterns/07-services.php:62
+msgid "SEO and Marketing"
+msgstr "SEO und Marketing"
+
+#: patterns/07-services.php:46
+msgid "Web Design"
+msgstr "Webdesign"
+
+#: patterns/07-services.php:34 patterns/07-services.php:50
+#: patterns/07-services.php:66
+msgid "This is how we can be sure your brand expands to"
+msgstr ""
+
+#: patterns/07-services.php:30
+msgid "Web development"
+msgstr "Webentwicklung"
+
+#: patterns/07-services.php:15
+msgid "Lorem ipsum is simply dummy text of the printing and typesetting"
+msgstr "Lorem Ipsum ist einfach ein Platzhaltertext der Druck- und Zeichensetzungsbranche"
+
+#: patterns/07-services.php:11
+msgid "Our Services"
+msgstr "Unsere Dienstleistungen"
+
+#: patterns/06-why-choose-us.php:41
+msgid "Empowering your digital marketing strategy"
+msgstr ""
+
+#: patterns/06-why-choose-us.php:34 patterns/06-why-choose-us.php:50
+msgid "Read More"
+msgstr "Weiterlesen"
+
+#: patterns/08-pricing-table.php:15
+msgid "Elementum quia fugit cum euismod, varius hymenaeos."
+msgstr "Elementum quia fugit cum euismod, varius hymenaeos."
+
+#: patterns/02-features.php:46
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: patterns/02-features.php:36
+msgid "Vitae semper quis lectus. Lacus sed viverra tellus in hac. Senectus et netus et malesuada fames ac turpis.."
+msgstr "Vitae semper quis lectus. Lacus sed viverra tellus in hac. Senectus et netus et malesuada fames ac turpis.."
+
+#: patterns/02-features.php:32 patterns/05-six-services.php:47
+msgid "Research & Analysis"
+msgstr ""
+
+#: patterns/02-features.php:22 patterns/02-features.php:50
+#: patterns/05-six-services.php:37 patterns/05-six-services.php:51
+#: patterns/05-six-services.php:65 patterns/05-six-services.php:81
+#: patterns/05-six-services.php:95 patterns/05-six-services.php:109
+msgid "Vitae semper quis lectus. Lacus sed viverra tellus in hac. Senectus et netus et malesuada fames ac turpis."
+msgstr "Vitae semper quis lectus. Lacus sed viverra tellus in hac. Senectus et netus et malesuada fames ac turpis."
+
+#: patterns/02-features.php:18
+msgid "User Friendly"
+msgstr "Benutzerfreundlich"
+
+#. Template Name of the theme
+msgid "Empty Page"
+msgstr "Leere Seite"
+
+#: inc/woocommerce.php:176
+msgid "Cart View"
+msgstr ""
+
+#: inc/woocommerce.php:46
+msgid "Add widgets here to appear on your shop pages."
+msgstr ""
+
+#: inc/template-tags.php:780
+msgid "Share this post on Linkedin"
+msgstr "Diesen Beitrag auf LinkedIn teilen"
+
+#: inc/template-tags.php:769
+msgid "Share this post on Twitter"
+msgstr "Diesen Beitrag auf Twitter teilen"
+
+#: inc/template-tags.php:769
+msgid "twitter"
+msgstr "Twitter"
+
+#: inc/template-tags.php:758
+msgid "Share this post on Facebook"
+msgstr "Diesen Beitrag auf Facebook teilen"
+
+#: inc/template-tags.php:758
+msgid "facebook"
+msgstr "Facebook"
+
+#: inc/template-tags.php:755
+msgid "Share this post on: "
+msgstr "Diesen Beitrag teilen auf: "
+
+#: inc/template-tags.php:698
+msgid "Don't let the opportunity pass you by"
+msgstr ""
+
+#: inc/template-tags.php:687
+msgid "back to top"
+msgstr ""
+
+#: inc/template-tags.php:673
+msgid "https://wordpress.org/"
+msgstr "https://de.wordpress.org/"
+
+#. translators: %s: CMS name, i.e. WordPress.
+#: inc/template-tags.php:671
+msgid "Powered by"
+msgstr ""
+
+#: inc/template-tags.php:666
+msgid "Nasio Themes"
+msgstr "Nasio-Themes"
+
+#: inc/template-tags.php:663
+msgid "Designed by"
+msgstr ""
+
+#: inc/template-tags.php:651
+msgid "close"
+msgstr "schließen"
+
+#: inc/template-tags.php:632 searchform.php:14
+msgid "search"
+msgstr "suchen"
+
+#. translators: %s: location
+#: inc/template-tags.php:399 inc/template-tags.php:485
+msgid "%s"
+msgstr "%s"
+
+#: inc/template-tags.php:358
+msgid "Show sub menu"
+msgstr "Untermenü anzeigen"
+
+#: inc/template-tags.php:314
+msgid "Image Placeholder"
+msgstr "Bild-Platzhalter"
+
+#: inc/template-tags.php:151
+msgid "Post read time"
+msgstr ""
+
+#. translators: %s: post title
+#: inc/template-tags.php:120
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:102
+msgctxt "list item separator"
+msgid ", "
+msgstr ", "
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:65 template-parts/content-empty.php:34
+#: template-parts/content-page.php:45
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "<span class=\"screen-reader-text\">„%s“</span> bearbeiten"
+
+#: inc/template-functions.php:658
+msgid "Related Posts"
+msgstr "Ähnliche Beiträge"
+
+#: inc/template-functions.php:619
+msgid "View all posts by"
+msgstr "Alle Beiträge anzeigen von"
+
+#: inc/template-functions.php:614
+msgid "Author: "
+msgstr "Autor: "
+
+#: inc/template-functions.php:578
+msgid "--Select--"
+msgstr "– Auswählen –"
+
+#: inc/template-functions.php:569
+msgid "Posts navigation"
+msgstr "Beitragsnavigation"
+
+#: inc/template-functions.php:534
+msgid "Prespa dark mode logo "
+msgstr ""
+
+#: inc/template-functions.php:433
+msgid "sec read"
+msgstr ""
+
+#: inc/template-functions.php:429
+msgid "min read"
+msgstr ""
+
+#: inc/template-functions.php:425
+msgid "hrs read"
+msgstr ""
+
+#: inc/template-functions.php:421
+msgid "days read"
+msgstr ""
+
+#: inc/template-functions.php:184
+msgid "Home"
+msgstr "Startseite"
+
+#: inc/customizer-sections/woocommerce.php:60
+msgid "Woocommerce Notifications Background Color"
+msgstr "Hintergrundfarbe der WooCommerce-Benachrichtigungen"
+
+#: inc/customizer-sections/woocommerce.php:43
+msgid "Add to Cart Text Color"
+msgstr ""
+
+#: inc/customizer-sections/woocommerce.php:26
+msgid "Add to Cart Background Color"
+msgstr ""
+
+#: inc/customizer-sections/woocommerce.php:10
+msgid "Customize WooCommerce colors. By default, the theme uses theme accent colors to handle these but you can specify specific styles here for more flexibility."
+msgstr ""
+
+#: inc/customizer-sections/woocommerce.php:9
+msgid "Colors"
+msgstr "Farben"
+
+#: inc/customizer-sections/site-identity.php:54
+msgid "Logo Width"
+msgstr "Logo-Breite"
+
+#: inc/customizer-sections/site-identity.php:28
+msgid "Add light version of the logo. It will be displayed in dark mode."
+msgstr ""
+
+#: inc/customizer-sections/site-identity.php:27
+msgid "Light Logo"
+msgstr "Helles Logo"
+
+#: inc/customizer-sections/layout.php:289 inc/woocommerce.php:44
+msgid "Woocommerce Sidebar"
+msgstr "WooCommerce-Seitenleiste"
+
+#: inc/customizer-sections/layout.php:273
+msgid "Choose the sidebar position on the blog posts, including the post archives."
+msgstr ""
+
+#: inc/customizer-sections/layout.php:265
+msgid "Post Sidebar"
+msgstr "Beitrags-Seitenleiste"
+
+#: inc/customizer-sections/layout.php:250
+msgid "Choose the sidebar position on the site's pages, including the static home page."
+msgstr ""
+
+#: inc/customizer-sections/layout.php:248
+#: inc/customizer-sections/layout.php:271
+#: inc/customizer-sections/layout.php:295
+msgid "Left Sidebar"
+msgstr "Linke Seitenleiste"
+
+#: inc/customizer-sections/layout.php:247
+#: inc/customizer-sections/layout.php:270
+#: inc/customizer-sections/layout.php:294
+msgid "None"
+msgstr "Keine"
+
+#: inc/customizer-sections/layout.php:246
+#: inc/customizer-sections/layout.php:269
+#: inc/customizer-sections/layout.php:293
+msgid "Right Sidebar"
+msgstr "Rechte Seitenleiste"
+
+#: inc/customizer-sections/layout.php:242
+msgid "Page Sidebar"
+msgstr "Seiten-Seitenleiste"
+
+#: inc/customizer-sections/layout.php:213
+msgid "Footer Width"
+msgstr "Footer-Breite"
+
+#: inc/customizer-sections/layout.php:186
+msgid "Post Content Wrap"
+msgstr "Umbruch des Beitragsinhalts"
+
+#: inc/customizer-sections/layout.php:170
+#: inc/customizer-sections/layout.php:192
+msgid "Seperate Containers"
+msgstr ""
+
+#: inc/customizer-sections/layout.php:169
+#: inc/customizer-sections/layout.php:191
+msgid "No Wrap"
+msgstr "Kein Umbruch"
+
+#: inc/customizer-sections/layout.php:188
+msgid "Wrap posts in a card or leave them as plain text."
+msgstr ""
+
+#: inc/customizer-sections/layout.php:164
+msgid "Page Content Wrap"
+msgstr "Umbruch des Seiteninhalts"
+
+#: inc/customizer-sections/layout.php:102
+msgid "Adjust the width of the container."
+msgstr ""
+
+#: inc/customizer-sections/layout.php:68
+msgid "Header Width"
+msgstr "Header-Breite"
+
+#: inc/customizer-sections/layout.php:48
+msgid "Set custom width for the footer."
+msgstr ""
+
+#: inc/customizer-sections/layout.php:47
+msgid "Footer Layout"
+msgstr "Footer-Layout"
+
+#: inc/customizer-sections/layout.php:38
+msgid "Sidebar Layout"
+msgstr "Seitenleisten-Layout"
+
+#: inc/customizer-sections/layout.php:29
+msgid "Container Layout"
+msgstr "Container-Layout"
+
+#: inc/customizer-sections/layout.php:22 inc/customizer-sections/layout.php:31
+#: inc/customizer-sections/layout.php:39 inc/customizer-sections/layout.php:49
+msgid "prespa_layout_options"
+msgstr "prespa_layout_options"
+
+#: inc/customizer-sections/layout.php:21
+msgid "Set custom width for the header."
+msgstr ""
+
+#: inc/customizer-sections/layout.php:20
+msgid "Header Layout"
+msgstr "Header-Layout"
+
+#: inc/customizer-sections/layout.php:13
+msgid "Set custom width for the header, container and the footer. Wrap posts and pages into beatiful containers."
+msgstr ""
+
+#: inc/customizer-sections/homepage.php:205
+msgid "Select a category"
+msgstr "Kategorie auswählen"
+
+#: inc/customizer-sections/homepage.php:190
+msgid "By Category"
+msgstr "Nach Kategorie"
+
+#: inc/customizer-sections/homepage.php:189
+msgid "Ascending"
+msgstr "Aufsteigend"
+
+#: inc/customizer-sections/homepage.php:188
+msgid "Descending"
+msgstr "Absteigend"
+
+#: inc/customizer-sections/homepage.php:183
+msgid "Post Order"
+msgstr "Beitragsreihenfolge"
+
+#: inc/customizer-sections/homepage.php:167
+msgid "Title"
+msgstr "Titel"
+
+#: inc/customizer-sections/homepage.php:159
+msgid "You Might Have Missed"
+msgstr ""
+
+#: inc/customizer-sections/homepage.php:149
+msgid "Show \"You Missed\" Section"
+msgstr ""
+
+#. translators: %d: category index
+#: inc/customizer-sections/homepage.php:126
+msgid "Category Image %d"
+msgstr "Kategoriebild %d"
+
+#. translators: %d: category index
+#: inc/customizer-sections/homepage.php:103
+msgid "Category %d"
+msgstr "Kategorie %d"
+
+#: inc/customizer-sections/homepage.php:82
+msgid "View All Button Link"
+msgstr ""
+
+#: inc/customizer-sections/homepage.php:62
+msgid "View All Button Label"
+msgstr ""
+
+#: inc/customizer-sections/homepage.php:53
+msgid "View All"
+msgstr "Alle anzeigen"
+
+#: inc/customizer-sections/homepage.php:43
+msgid "Post Categories Subtitle"
+msgstr ""
+
+#: inc/customizer-sections/homepage.php:25
+msgid "Post Categories Title"
+msgstr ""
+
+#: inc/customizer-sections/homepage.php:16
+msgid "Post Categories"
+msgstr "Beitrags-Kategorien"
+
+#: inc/customizer-sections/header.php:288
+msgid "Unchecking this will stick the add to cart and profile icons to the right corner of the screen on page scroll."
+msgstr ""
+
+#: inc/customizer-sections/header.php:287
+msgid "Show Woocommerce Icons"
+msgstr "Woocommerce-Icons anzeigen"
+
+#: inc/customizer-sections/header.php:271
+msgid "Add your mail address"
+msgstr ""
+
+#: inc/customizer-sections/header.php:268
+msgid "Email address"
+msgstr "E-Mail-Adresse"
+
+#: inc/customizer-sections/header.php:251
+msgid "Add your phone number"
+msgstr ""
+
+#: inc/customizer-sections/header.php:248
+msgid "Phone number"
+msgstr "Telefonnummer"
+
+#: inc/customizer-sections/header.php:232
+msgid "Add your address"
+msgstr ""
+
+#: inc/customizer-sections/header.php:229
+msgid "Address"
+msgstr "Adresse"
+
+#: inc/customizer-sections/header.php:211
+msgid "Display a top bar menu on top of the site header. Please note that on mobile this menu gets combined with the primary menu for better user experience."
+msgstr ""
+
+#: inc/customizer-sections/header.php:210
+msgid "Enable Top Menu"
+msgstr ""
+
+#: inc/customizer-sections/header.php:187
+msgid "Menu Item Hover Animation"
+msgstr ""
+
+#: inc/customizer-sections/header.php:171
+msgid "Enable Current Menu Item Underline"
+msgstr ""
+
+#: inc/customizer-sections/header.php:154
+msgid "Show Search Icon"
+msgstr "Such-Icon anzeigen"
+
+#: inc/customizer-helper.php:23 inc/customizer-sections/header.php:117
+msgid "Contact"
+msgstr "Kontakt"
+
+#: inc/customizer-sections/header.php:93
+msgid "space between"
+msgstr ""
+
+#: inc/customizer-sections/header.php:92
+msgid "center"
+msgstr "zentriert"
+
+#: inc/customizer-sections/header.php:91
+msgid "normal"
+msgstr "normal"
+
+#: inc/customizer-sections/header.php:88
+msgid "Position the site title and the primary menu in relation to each other."
+msgstr ""
+
+#: inc/customizer-sections/header.php:86
+msgid "Site Header Text Alignment"
+msgstr ""
+
+#: inc/customizer-sections/header.php:71
+msgid "static"
+msgstr "statisch"
+
+#: inc/customizer-sections/header.php:70
+msgid "sticky"
+msgstr "Oben halten"
+
+#: inc/customizer-sections/header.php:69
+msgid "fixed"
+msgstr ""
+
+#: inc/customizer-sections/header.php:66
+msgid " Position the header on top of the page (static position), show it while scrolling (fixed) or only show it when you scroll up (sticky). The default positon is sticky. "
+msgstr ""
+
+#: inc/customizer-sections/header.php:64
+msgid "Header Position"
+msgstr "Header-Position"
+
+#: inc/customizer-sections/header.php:48
+msgid "centered site title and logo"
+msgstr ""
+
+#: inc/customizer-sections/header.php:47 inc/customizer-sections/header.php:49
+msgid "left site title and logo"
+msgstr ""
+
+#: inc/customizer-sections/header.php:47 inc/customizer-sections/header.php:49
+msgid "right site title and logo"
+msgstr ""
+
+#: inc/customizer-sections/header.php:44
+#: inc/customizer-sections/homepage.php:185
+msgid " Reorder the way header items (site title, site description, logo and primary menu) are displayed"
+msgstr ""
+
+#: inc/customizer-sections/header.php:42
+msgid "Header Presets"
+msgstr "Header-Voreinstellungen"
+
+#: inc/customizer-sections/header.php:26
+msgid "Display a top bar menu on top of the site header and customize it accordingly. You can add business info to it, social icons, e-commerce icon, etc. You can also display a standard WordPress menu here by creating a menu and linking it to the \"top menu\" location. (appearance => menus)"
+msgstr ""
+
+#: inc/customizer-sections/header.php:25
+msgid "Top Bar"
+msgstr "Obere Leiste"
+
+#: inc/customizer-sections/header.php:18
+msgid "Customize the way the site header is displayed. The site header in this theme consists of the site title, tagline and the primary menu. Enable transparent header menu - go pro version."
+msgstr ""
+
+#: inc/customizer-sections/header.php:17
+msgid "Site Header"
+msgstr "Website-Header"
+
+#: inc/customizer-sections/header.php:10
+msgid "Customize the site header with the options below."
+msgstr "Passe den Website-Header mit den folgenden Optionen an."
+
+#: inc/customizer-sections/header.php:9
+msgid "Header Options"
+msgstr "Header-Optionen"
+
+#: inc/customizer-sections/go-pro.php:99
+msgid "Upgrade to PRO"
+msgstr "Auf PRO upgraden"
+
+#: inc/customizer-sections/go-pro.php:97
+msgid "Pro Available"
+msgstr ""
+
+#: inc/customizer-sections/general.php:72
+msgid "Show breadcrumbs on single pages"
+msgstr ""
+
+#: inc/customizer-sections/general.php:56
+msgid "Show breadcrumbs on single posts"
+msgstr ""
+
+#: inc/customizer-sections/general.php:41
+msgid "Show a loading spinner while the page is loaded"
+msgstr ""
+
+#: inc/customizer-sections/general.php:39
+msgid "Enable Page Loader on Homepage"
+msgstr ""
+
+#: inc/customizer-sections/general.php:22
+msgid "Show Back to Top Button"
+msgstr ""
+
+#: inc/customizer-sections/general.php:7
+msgid "Customize the way the website is displayed. Enable custom mouse cursor - go pro version."
+msgstr ""
+
+#: inc/customizer-sections/general.php:6
+msgid "General Settings"
+msgstr "Allgemeine Einstellungen"
+
+#: inc/customizer-sections/footer.php:142
+#: inc/customizer-sections/header.php:352 inc/template-tags.php:674
+msgid "WordPress"
+msgstr "WordPress"
+
+#: inc/customizer-sections/footer.php:141
+#: inc/customizer-sections/header.php:351
+msgid "Youtube"
+msgstr "YouTube"
+
+#: inc/customizer-sections/footer.php:140
+#: inc/customizer-sections/header.php:350
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/customizer-sections/footer.php:139
+#: inc/customizer-sections/header.php:349
+msgid "Twitch"
+msgstr "Twitch"
+
+#: inc/customizer-sections/footer.php:138
+#: inc/customizer-sections/header.php:348
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: inc/customizer-sections/footer.php:137
+#: inc/customizer-sections/header.php:347
+msgid "Tiktok"
+msgstr "TikTok"
+
+#: inc/customizer-sections/footer.php:135
+#: inc/customizer-sections/header.php:345
+msgid "Soundcloud"
+msgstr "SoundCloud"
+
+#: inc/customizer-sections/footer.php:134
+#: inc/customizer-sections/header.php:344
+msgid "Snapchat"
+msgstr "Snapchat"
+
+#: inc/customizer-sections/footer.php:133
+#: inc/customizer-sections/header.php:343
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/customizer-sections/footer.php:132
+#: inc/customizer-sections/header.php:342
+msgid "Linkedin"
+msgstr "LinkedIn"
+
+#: inc/customizer-sections/footer.php:131
+#: inc/customizer-sections/header.php:341
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/customizer-sections/footer.php:130
+#: inc/customizer-sections/header.php:340
+msgid "Github"
+msgstr "GitHub"
+
+#: inc/customizer-sections/footer.php:129
+#: inc/customizer-sections/header.php:339
+msgid "Flickr"
+msgstr "Flickr"
+
+#: inc/customizer-sections/footer.php:128
+#: inc/customizer-sections/header.php:338
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/customizer-sections/footer.php:127
+#: inc/customizer-sections/header.php:337
+msgid "Dribble"
+msgstr "Dribble"
+
+#: inc/customizer-sections/footer.php:126
+#: inc/customizer-sections/header.php:336
+msgid "Behance"
+msgstr "Behance"
+
+#: inc/customizer-sections/footer.php:123
+#: inc/customizer-sections/header.php:333
+msgid "View list of available social icons"
+msgstr "Liste der verfügbaren Social Icons anzeigen"
+
+#: inc/customizer-sections/footer.php:101
+#: inc/customizer-sections/header.php:314
+msgid "Add Row"
+msgstr "Zeile hinzufügen"
+
+#: inc/customizer-sections/footer.php:98 inc/customizer-sections/header.php:311
+msgid "Add your social media links and their icons will automatically appear in the top bar menu. Drag and drop the urls to rearrange the order of the icons."
+msgstr ""
+
+#: inc/customizer-sections/footer.php:97 inc/customizer-sections/header.php:310
+msgid "Social Icons"
+msgstr "Social Icons"
+
+#: inc/customizer-sections/footer.php:78
+msgid "Add your social media links and their icons will automatically appear in the footer. Drag and drop the urls to rearrange the order of the icons."
+msgstr ""
+
+#: inc/customizer-sections/footer.php:77
+msgid "Show Social icons"
+msgstr "Social Icons anzeigen"
+
+#: inc/customizer-sections/footer.php:60
+msgid "Footer Links Color"
+msgstr "Footer-Linkfarbe"
+
+#: inc/customizer-sections/footer.php:42
+msgid "Footer Text Color"
+msgstr "Footer-Textfarbe"
+
+#: inc/customizer-sections/footer.php:24
+msgid "Footer Background Color"
+msgstr "Footer-Hintergrundfarbe"
+
+#: inc/customizer-sections/footer.php:8
+msgid "Change footer styles. Add copyright info and remove default theme credits - go pro version."
+msgstr ""
+
+#: inc/customizer-sections/footer.php:7
+msgid "Footer Options"
+msgstr "Footer-Optionen"
+
+#: inc/customizer-sections/dark-mode.php:53
+msgid "Background"
+msgstr "Hintergrund"
+
+#: inc/customizer-sections/dark-mode.php:34
+msgid "Enable site visitors to switch to dark or light theme mode in the header menu."
+msgstr ""
+
+#: inc/customizer-sections/dark-mode.php:32
+msgid "Enable Dark Mode Switcher"
+msgstr ""
+
+#: inc/customizer-sections/dark-mode.php:12
+msgid "Night Mode"
+msgstr ""
+
+#: inc/customizer-sections/colors.php:205
+msgid "Top Bar Text Color"
+msgstr ""
+
+#: inc/customizer-sections/colors.php:185
+msgid "Top Bar Background Color"
+msgstr ""
+
+#: inc/customizer-sections/colors.php:166
+msgid "Primary Menu Text Color"
+msgstr ""
+
+#: inc/customizer-sections/colors.php:147
+msgid "Buttons Background Color"
+msgstr "Button-Hintergrundfarbe"
+
+#: inc/customizer-sections/colors.php:94
+msgid "Links Text Color"
+msgstr "Link-Textfarbe"
+
+#: inc/customizer-sections/colors.php:77
+msgid "Link Headings Text Color"
+msgstr ""
+
+#: inc/customizer-sections/colors.php:112
+msgid "Body Text Color"
+msgstr ""
+
+#: inc/customizer-sections/colors.php:58
+msgid "Headings Text Color"
+msgstr "Textfarbe der Überschriften"
+
+#: inc/customizer-sections/colors.php:39
+msgid "Secondary Accent Color"
+msgstr ""
+
+#: inc/customizer-sections/colors.php:20
+msgid "Primary Accent Color"
+msgstr ""
+
+#: inc/customizer-sections/blog.php:323
+msgid "Display related posts after post content in single blog posts"
+msgstr ""
+
+#: inc/customizer-sections/blog.php:322
+msgid "Show related posts"
+msgstr "Ähnliche Beiträge anzeigen"
+
+#: inc/customizer-sections/blog.php:304
+msgid "Display social share icons inside blog posts."
+msgstr ""
+
+#: inc/customizer-sections/blog.php:303
+msgid "Show social share icons"
+msgstr ""
+
+#: inc/customizer-sections/blog.php:285
+msgid "Display post author box after post content on single blog posts"
+msgstr ""
+
+#: inc/customizer-sections/blog.php:284
+msgid "Show post author box"
+msgstr "Beitragsautor-Box anzeigen"
+
+#: inc/customizer-sections/blog.php:267
+msgid "Inside post"
+msgstr ""
+
+#: inc/customizer-sections/blog.php:266
+msgid "Fullwidth header"
+msgstr "Header in voller Breite"
+
+#: inc/customizer-sections/blog.php:263
+msgid "Display the post featured image as a fullwidth header above post content or inside the post"
+msgstr ""
+
+#: inc/customizer-sections/blog.php:261
+msgid "Featured Image Display"
+msgstr "Beitragsbild anzeigen"
+
+#: inc/customizer-sections/blog.php:245 inc/customizer-sections/header.php:192
+msgid "Underline"
+msgstr "Unterstrichen"
+
+#: inc/customizer-sections/blog.php:242 inc/customizer-sections/header.php:189
+msgid "Choose an animation to display when hovering over a menu item. "
+msgstr ""
+
+#: inc/customizer-sections/blog.php:240
+msgid "Post Archives Title Hover Animation"
+msgstr ""
+
+#: inc/customizer-sections/blog.php:225 inc/customizer-sections/blog.php:246
+#: inc/customizer-sections/header.php:194
+msgid "Disabled"
+msgstr "Deaktiviert"
+
+#: inc/customizer-sections/blog.php:224
+msgid "Rotate Text Animation"
+msgstr ""
+
+#: inc/customizer-sections/blog.php:223
+msgid "Slide Up Animation"
+msgstr ""
+
+#: inc/customizer-sections/blog.php:222
+msgid "Zoom In Animation"
+msgstr ""
+
+#: inc/customizer-sections/blog.php:219
+msgid "Animate blog posts in post archives."
+msgstr ""
+
+#: inc/customizer-sections/blog.php:217
+msgid "Post Loop Animation"
+msgstr ""
+
+#: inc/customizer-sections/blog.php:201
+msgid "Masonry"
+msgstr "Masonry"
+
+#: inc/customizer-sections/blog.php:200
+msgid "Grid"
+msgstr "Raster"
+
+#: inc/customizer-sections/blog.php:197
+msgid "Display post columns in a grid or masonry layout"
+msgstr ""
+
+#: inc/customizer-sections/blog.php:195
+msgid "Post Archives Display"
+msgstr ""
+
+#: inc/customizer-sections/blog.php:179
+msgid "Four Columns"
+msgstr "Vier Spalten"
+
+#: inc/customizer-sections/blog.php:178
+msgid "Three Columns"
+msgstr "Drei Spalten"
+
+#: inc/customizer-sections/blog.php:177
+msgid "Two Columns"
+msgstr "Zwei Spalten"
+
+#: inc/customizer-sections/blog.php:176
+msgid "One Column"
+msgstr "Eine Spalte"
+
+#: inc/customizer-sections/blog.php:173
+msgid "Display posts in post archives in a single or multi-column layout"
+msgstr ""
+
+#: inc/customizer-sections/blog.php:171
+msgid "Post Archives Layout"
+msgstr "Beitragsarchiv-Layout"
+
+#: inc/customizer-sections/blog.php:156
+msgid "Enter a number between 10 and 55. Default is 55."
+msgstr ""
+
+#: inc/customizer-sections/blog.php:148
+msgid "Post Excerpt Length"
+msgstr "Beitrags-Textauszugslänge"
+
+#: inc/customizer-sections/blog.php:131
+msgid "Show post excerpts instead of full content for your post archives."
+msgstr ""
+
+#: inc/customizer-sections/blog.php:130
+msgid "Blog Excerpts"
+msgstr "Blog-Textauszüge"
+
+#: inc/customizer-sections/blog.php:101
+msgid "Customize the way blog posts meta information in post archives and single blog posts are displayed. You can choose to show or hide the post meta after the post content. Drag and drop the boxes to chage the post meta order."
+msgstr ""
+
+#: inc/customizer-sections/blog.php:100
+msgid "Show Post Meta After Post Content"
+msgstr ""
+
+#: inc/customizer-sections/blog.php:80 inc/customizer-sections/blog.php:113
+msgid "Show Time to Read"
+msgstr ""
+
+#: inc/customizer-sections/blog.php:79 inc/customizer-sections/blog.php:112
+msgid "Show Number of Comments"
+msgstr ""
+
+#: inc/customizer-sections/blog.php:78 inc/customizer-sections/blog.php:111
+msgid "Show Post Tags"
+msgstr "Beitrags-Schlagwörter anzeigen"
+
+#: inc/customizer-sections/blog.php:77 inc/customizer-sections/blog.php:110
+msgid "Show Post Categories"
+msgstr "Beitrags-Kategorien anzeigen"
+
+#: inc/customizer-sections/blog.php:76 inc/customizer-sections/blog.php:109
+msgid "Show Post Author"
+msgstr "Beitragsautor anzeigen"
+
+#: inc/customizer-sections/blog.php:75 inc/customizer-sections/blog.php:108
+msgid "Show Post Date"
+msgstr "Beitragsdatum anzeigen"
+
+#: inc/customizer-sections/blog.php:68
+msgid "Customize the way blog posts meta information in post archives and single blog posts are displayed. You can choose to show or hide the post meta before the post content. Drag and drop the boxes to chage the post meta order."
+msgstr ""
+
+#: inc/customizer-sections/blog.php:67
+msgid "Show Post Meta Before Post Content"
+msgstr ""
+
+#: inc/customizer-sections/blog.php:47
+msgid "If there is no featured image assigned to the post, try to get the first image from the post content."
+msgstr ""
+
+#: inc/customizer-sections/blog.php:46
+msgid "Display post content image as a fallback featured image in post archives"
+msgstr ""
+
+#: inc/customizer-sections/blog.php:29
+msgid "Show post categories on top of the post"
+msgstr ""
+
+#: inc/customizer-sections/blog.php:28
+msgid "Show post categories"
+msgstr "Beitragskategorien anzeigen"
+
+#: inc/customizer-sections/blog.php:13
+msgid "Customize the way blog posts are displayed."
+msgstr ""
+
+#: inc/customizer-sections/blog.php:12
+msgid "Blog Settings"
+msgstr "Blog-Einstellungen"
+
+#: inc/customizer-controls/class-sortable-repeater.php:34
+msgid "Add"
+msgstr "Hinzufügen"
+
+#: inc/customizer-controls/class-range-control.php:70
+msgid "Reset"
+msgstr "Zurücksetzen"
+
+#: inc/customizer-controls/class-range-control.php:69
+msgid "Mobile"
+msgstr "Mobil"
+
+#: inc/customizer-controls/class-range-control.php:68
+msgid "Tablet"
+msgstr "Tablet"
+
+#: inc/customizer-controls/class-range-control.php:67
+msgid "Desktop"
+msgstr "Desktop"
+
+#: inc/custom-header.php:277
+msgid "Shadow"
+msgstr "Schatten"
+
+#: inc/custom-header.php:276
+msgid "Pulse"
+msgstr "Pulsieren"
+
+#: inc/custom-header.php:275
+msgid "Slide in"
+msgstr ""
+
+#: inc/custom-header.php:274
+msgid "Border Move"
+msgstr ""
+
+#: inc/custom-header.php:273 inc/customizer-sections/header.php:193
+msgid "Rollover"
+msgstr ""
+
+#: inc/custom-header.php:270
+msgid "Choose button hover animation."
+msgstr ""
+
+#: inc/custom-header.php:268
+msgid "Button hover animation"
+msgstr "Button-Animation bei Mauszeigerkontakt"
+
+#: inc/custom-header.php:252 inc/customizer-sections/header.php:146
+msgid "Add link to the button. You can link it to the About page or the Contact page or to a specific section from the Homepage."
+msgstr ""
+
+#: inc/custom-header.php:250 inc/customizer-sections/header.php:144
+msgid "Button Link"
+msgstr "Button-Link"
+
+#: inc/custom-header.php:232 inc/customizer-sections/header.php:127
+msgid "Change the default text of the button."
+msgstr ""
+
+#: inc/custom-header.php:230 inc/customizer-sections/header.php:125
+msgid "Button Text"
+msgstr "Button-Text"
+
+#: inc/custom-header.php:222 inc/template-tags.php:699
+msgid "Get Started"
+msgstr "Erste Schritte"
+
+#: inc/custom-header.php:209
+msgid "Change the default text of the header description."
+msgstr ""
+
+#: inc/custom-header.php:207
+msgid "Header Description"
+msgstr "Header-Beschreibung"
+
+#: inc/custom-header.php:198
+msgid "Don't let the opportunity pass by"
+msgstr ""
+
+#: inc/custom-header.php:189
+msgid "Change the default text of header title."
+msgstr ""
+
+#: inc/custom-header.php:187
+msgid "Header Title"
+msgstr "Header-Titel"
+
+#: inc/custom-header.php:178 inc/template-tags.php:697
+msgid "JOURNEY OF A THOUSAND MILES BEGINS WITH A SINGLE STEP"
+msgstr ""
+
+#: inc/custom-header.php:169
+msgid "Header Image Gradient Color Two"
+msgstr ""
+
+#: inc/custom-header.php:150
+msgid "Header Image Gradient Color One"
+msgstr ""
+
+#: inc/custom-header.php:126
+msgid "Control the gradient density. From 0 to 9. Default is 4. Set it to 0 to remove the entire gradient."
+msgstr ""
+
+#: inc/custom-header.php:125
+msgid "Header Image Gradient Density"
+msgstr ""
+
+#: inc/custom-header.php:109
+msgid "Add beautiful parallax effect on page scroll."
+msgstr ""
+
+#: inc/custom-header.php:107
+msgid "Header Image Parallax"
+msgstr ""
+
+#: inc/custom-header.php:85
+msgid "Choose how you want to position the header image."
+msgstr ""
+
+#: inc/custom-header.php:83
+msgid "Header Background Position"
+msgstr "Header-Hintergrund-Position"
+
+#: inc/custom-header.php:61
+msgid "Control the height of the header image. Default is 380px."
+msgstr ""
+
+#: inc/custom-header.php:58
+msgid "Header Image Height"
+msgstr "Höhe des Header-Bilds"
+
+#: header.php:68
+msgid "Toggle Navigation"
+msgstr "Navigation umschalten"
+
+#: header.php:67
+msgid "Main navigation"
+msgstr "Hauptnavigation"
+
+#: header.php:32
+msgid "Secondary navigation"
+msgstr "Sekundäre Navigation"
+
+#: header.php:28
+msgid "Skip to content"
+msgstr "Zum Inhalt springen"
+
+#: functions.php:159
+msgid "Footer 4"
+msgstr "Footer 4"
+
+#: functions.php:150 functions.php:161
+msgid "Widgets in this area will be displayed in the fourth column in the footer."
+msgstr "Widgets in diesem Bereich werden in der vierten Spalte des Footers angezeigt."
+
+#: functions.php:148
+msgid "Footer 3"
+msgstr "Footer 3"
+
+#: functions.php:139
+msgid "Widgets in this area will be displayed in the third column in the footer."
+msgstr "Widgets in diesem Bereich werden in der dritten Spalte des Footers angezeigt."
+
+#: functions.php:137
+msgid "Footer 2"
+msgstr "Footer 2"
+
+#: functions.php:128
+msgid "Widgets in this area will be displayed in the second column in the footer."
+msgstr "Widgets in diesem Bereich werden in der zweiten Spalte des Footers angezeigt."
+
+#: functions.php:126
+msgid "Footer 1"
+msgstr "Footer 1"
+
+#: functions.php:117
+msgid "Widgets in this area will be displayed in the first column in the footer."
+msgstr "Widgets in diesem Bereich werden in der ersten Spalte des Footers angezeigt."
+
+#: functions.php:115
+msgid "Sidebar"
+msgstr "Seitenleiste"
+
+#: functions.php:53
+msgid "Top"
+msgstr "Oben"
+
+#: functions.php:52 starter-content/init.php:33
+msgid "Primary"
+msgstr "Primär"
+
+#: footer.php:20
+msgid "Footer Widget Area"
+msgstr "Footer-Widgetbereich"
+
+#: footer.php:15
+msgid "Footer"
+msgstr "Footer"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Die Kommentare sind geschlossen."
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:40
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s Kommentar"
+msgstr[1] "%1$s Kommentare"
+
+#. translators: 1: title.
+#: comments.php:35
+msgid "One Comment"
+msgstr "Ein Kommentar"
+
+#: 404.php:23
+msgid "The requested url was not found on this server. Maybe try one of the links below or a search?"
+msgstr ""
+
+#: 404.php:19
+msgid "Page not Found"
+msgstr "Seite nicht gefunden"
+
+#. Author URI of the theme
+#: style.css inc/template-tags.php:665
+#, gp-priority: low
+msgid "https://nasiothemes.com/"
+msgstr "https://nasiothemes.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Atanas Yonkov"
+msgstr "Atanas Yonkov"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://nasiothemes.com/themes/prespa"
+msgstr "https://nasiothemes.com/themes/prespa"

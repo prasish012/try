@@ -1,0 +1,96 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block content %}
+<div class="main-container">
+    <h1>Edit: {{ lang_name }} ({{ lang_code }})</h1>
+    <a href="{% url 'view_and_edit_translations' folder_name %}" class="action-link">Back to Languages</a>
+
+    <form method="post" id="translation-form" class="mt-4">
+        {% csrf_token %}
+        <input type="hidden" name="folder_name" value="{{ folder_name }}">
+        <input type="hidden" name="lang_code" value="{{ lang_code }}">
+
+        <div class="table-responsive">
+            <table class="table table-bordered table-striped align-middle">
+                <thead class="table-dark">
+                    <tr>
+                        <th style="width: 45%;">Original (msgid)</th>
+                        <th style="width: 45%;">Translation (msgstr)</th>
+                        <th style="width: 10%;">Status</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for entry in entries %}
+                    <tr>
+                        <td>
+                            <code class="d-block p-2 bg-light">{{ entry.msgid }}</code>
+                            {% if entry.msgctxt %}
+                                <small class="text-muted">Context: {{ entry.msgctxt }}</small>
+                            {% endif %}
+                        </td>
+                        <td>
+                            <textarea name="translation_{{ entry.index }}" class="form-control" rows="3"
+                                      {% if entry.fuzzy %}style="background-color: #fff3cd;"{% endif %}
+                                      placeholder="Enter translation...">{{ entry.msgstr }}</textarea>
+                        </td>
+                        <td class="text-center">
+                            {% if entry.fuzzy %}
+                                <span class="badge bg-warning text-dark">Fuzzy</span>
+                            {% else %}
+                                <span class="text-success">Check</span>
+                            {% endif %}
+                        </td>
+                    </tr>
+                    {% empty %}
+                    <tr>
+                        <td colspan="3" class="text-center text-muted py-4">No translatable strings found.</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+
+        <div class="mt-4 text-center">
+            <button type="submit" class="btn btn-success btn-lg px-5">
+                Save All & Update .po + .mo
+            </button>
+        </div>
+    </form>
+</div>
+
+<script>
+document.getElementById('translation-form').addEventListener('submit', function(e) {
+    e.preventDefault();
+    const formData = new FormData(this);
+    const button = this.querySelector('button[type="submit"]');
+    button.disabled = true;
+    button.innerHTML = 'Saving...';
+
+    fetch("{% url 'save_translation' %}", {
+        method: 'POST',
+        body: formData,
+        headers: { 'X-CSRFToken': '{{ csrf_token }}' }
+    })
+    .then(r => r.json())
+    .then(data => {
+        alert(data.message || data.error);
+        if (data.success) {
+            button.innerHTML = 'Saved!';
+            setTimeout(() => {
+                button.disabled = false;
+                button.innerHTML = 'Save All & Update .po + .mo';
+            }, 1500);
+        } else {
+            button.disabled = false;
+            button.innerHTML = 'Save All & Update .po + .mo';
+        }
+    })
+    .catch(() => {
+        alert('Save failed.');
+        button.disabled = false;
+        button.innerHTML = 'Save All & Update .po + .mo';
+    });
+});
+</script>
+{% endblock %}

@@ -1,0 +1,2915 @@
+# Translation of Themes - Newscrunch in Arabic
+# This file is distributed under the same license as the Themes - Newscrunch package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-07-13 14:31:22+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n == 0) ? 0 : ((n == 1) ? 1 : ((n == 2) ? 2 : ((n % 100 >= 3 && n % 100 <= 10) ? 3 : ((n % 100 >= 11 && n % 100 <= 99) ? 4 : 5))));\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: ar\n"
+"Project-Id-Version: Themes - Newscrunch\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Newscrunch is a magazine and blog theme. It is a lightweight, elegant, and fully responsive theme specifically designed for creating magazines, newspapers, editors, blogs, and dynamic news websites. It seamlessly integrates with the Gutenberg block editor, empowering you to effortlessly build your website using intuitive blocks. The theme is highly compatible with popular plugins such as WooCommerce, Contact Form 7, Polylang, and WPML, offering expanded functionality. Newscrunch Theme prioritizes user privacy and complies with the General Data Protection Regulation (GDPR) guidelines by refraining from collecting any personal data restricted under GDPR. Additionally, all fonts used in the theme are locally hosted, eliminating the reliance on external resources like Google Fonts. The theme is also schema-ready, enhancing search engine visibility and optimization. With its GDPR compliance, sleek design, and efficient performance, Newscrunch Theme caters to various businesses. It provides a wide range of widgets and sections tailored to specific industries, enabling you to swiftly create a stunning website with beautiful designs. To explore the theme further, feel free to check out our demo at: https://demo-newscrunch.spicethemes.com/demo-one/. For video tutorial visit here https://www.youtube.com/playlist?list=PLTfjrb24Pq_DeJOZdKEaP3rZPbHuOCLtZ"
+msgstr ""
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Newscrunch"
+msgstr "Newscrunch"
+
+#: searchform.php:6
+msgid "Search product..."
+msgstr ""
+
+#: partials/header/woo-header.php:76
+msgid "Shop By Category"
+msgstr ""
+
+#: partials/header/woo-header.php:16
+msgid "All Categories"
+msgstr ""
+
+#: inc/customizer/settings/theme-header.php:229
+msgid "Enable/Disable Product Live Search"
+msgstr ""
+
+#: functions.php:951
+msgid "No products found."
+msgstr ""
+
+#: functions.php:91
+msgid "Shop Categories Menu"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:552
+msgid "It is recommended that you install & activate the Spice Blocks plugin to import the gutenberg starter sites"
+msgstr ""
+
+#: inc/customizer/settings/theme-header.php:205
+msgid "Enable/Disable Live Search"
+msgstr ""
+
+#: inc/customizer/settings/theme-header.php:191
+msgid "LightBox"
+msgstr ""
+
+#: inc/customizer/settings/theme-header.php:190
+msgid "Toggle"
+msgstr ""
+
+#: inc/customizer/settings/theme-header.php:176
+msgid "Search Layout"
+msgstr ""
+
+#: functions.php:886
+msgid "No results found."
+msgstr ""
+
+#: functions.php:852 functions.php:901
+msgid "Searching..."
+msgstr ""
+
+#: inc/customizer/settings/general-settings.php:1082
+msgid "Theme Background Color"
+msgstr ""
+
+#: inc/customizer/settings/general-settings.php:1070
+#: inc/customizer/settings/general-settings.php:1074
+msgid "Note: This setting will work with the boxed layout."
+msgstr ""
+
+#: inc/customizer/settings/single-post-options.php:302
+msgid "Single Page"
+msgstr ""
+
+#: functions.php:523
+msgid "Invalid file type."
+msgstr ""
+
+#: functions.php:507
+msgid "No plugin URL provided."
+msgstr ""
+
+#: functions.php:502
+msgid "Security check failed."
+msgstr ""
+
+#: functions.php:496
+msgid "You do not have permission to install plugins."
+msgstr ""
+
+#: functions.php:469
+msgid "No plugin slug provided."
+msgstr ""
+
+#: functions.php:464
+msgid "You do not have permission to manage plugins."
+msgstr ""
+
+#: partials/front/news-video.php:44
+msgid "View All"
+msgstr ""
+
+#: functions.php:248 functions.php:394
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/customizer/settings/reorder-sections.php:32
+#: inc/customizer/settings/reorder-sections.php:74
+msgid "WooCommerce Product Section"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:24
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/cart/cart.php:184
+msgid "Return to Shop"
+msgstr ""
+
+#: woocommerce/cart/cart.php:181
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: woocommerce/cart/cart.php:155
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/cart/cart.php:153
+msgid "Continue Shopping"
+msgstr ""
+
+#: woocommerce/cart/cart.php:148
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:148
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:148
+msgid "Coupon:"
+msgstr ""
+
+#: woocommerce/cart/cart.php:128
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:121
+msgid "Remove"
+msgstr ""
+
+#: woocommerce/cart/cart.php:115
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart.php:84
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:33
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:32 woocommerce/cart/cart.php:94
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:30 woocommerce/cart/cart.php:48
+msgid "Product"
+msgstr ""
+
+#: partials/widgets/register-sidebars.php:178
+msgid "Add widgets in woocommerce widget area"
+msgstr ""
+
+#: partials/widgets/register-sidebars.php:176
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: inc/helpers.php:2759
+msgid "Product hover image"
+msgstr ""
+
+#: inc/helpers.php:398
+msgid "Shop"
+msgstr ""
+
+#: inc/customizer/settings/woocommerce.php:322
+msgid "Cross-Sell Products Rows"
+msgstr ""
+
+#: inc/customizer/settings/woocommerce.php:304
+msgid "Enable/Disable Cross-Sell Products"
+msgstr ""
+
+#: inc/customizer/settings/woocommerce.php:281
+msgid "Up-Sell Products Rows"
+msgstr ""
+
+#: inc/customizer/settings/woocommerce.php:257
+msgid "Up-Sell Products Columns"
+msgstr ""
+
+#: inc/customizer/settings/woocommerce.php:239
+msgid "Enable/Disable Up-Sell Products"
+msgstr ""
+
+#: inc/customizer/settings/woocommerce.php:216
+msgid "Related Products Rows"
+msgstr ""
+
+#: inc/customizer/settings/woocommerce.php:192
+msgid "Related Products Columns"
+msgstr ""
+
+#: inc/customizer/settings/woocommerce.php:174
+msgid "Enable/Disable Related Products"
+msgstr ""
+
+#: inc/customizer/settings/woocommerce.php:157
+msgid "Enable/Disable Slider Arrows"
+msgstr ""
+
+#: inc/customizer/settings/woocommerce.php:140
+msgid "Enable/Disable Gallery Lightbox"
+msgstr ""
+
+#: inc/customizer/settings/woocommerce.php:123
+msgid "Enable/Disable Gallery Zoom"
+msgstr ""
+
+#: inc/customizer/settings/woocommerce.php:109
+msgid "Single Product"
+msgstr ""
+
+#: inc/customizer/settings/woocommerce.php:96
+msgid "Product details"
+msgstr ""
+
+#: inc/customizer/settings/woocommerce.php:83
+msgid "Ratings"
+msgstr ""
+
+#: inc/customizer/settings/woocommerce.php:82 woocommerce/cart/cart.php:31
+#: woocommerce/cart/cart.php:88
+msgid "Price"
+msgstr ""
+
+#: inc/customizer/settings/woocommerce.php:70
+msgid "Sale Badge Text"
+msgstr ""
+
+#: inc/customizer/settings/woocommerce.php:61
+msgid "Sale"
+msgstr ""
+
+#: inc/customizer/settings/woocommerce.php:53
+msgid "Show Text"
+msgstr ""
+
+#: inc/customizer/settings/woocommerce.php:52
+msgid "Show Percentage"
+msgstr ""
+
+#: inc/customizer/settings/woocommerce.php:51
+msgid "Hide Badge"
+msgstr ""
+
+#: inc/customizer/settings/woocommerce.php:46
+msgid "Product Sale Badge"
+msgstr ""
+
+#: inc/customizer/settings/woocommerce.php:29
+msgid "Image Swap"
+msgstr ""
+
+#: inc/customizer/settings/woocommerce.php:28
+msgid "No Effect"
+msgstr ""
+
+#: inc/customizer/settings/woocommerce.php:22
+msgid "Product Image Hover"
+msgstr ""
+
+#: inc/customizer/settings/general-settings.php:792
+msgid "WooCommerce"
+msgstr ""
+
+#: functions.php:827
+msgid "You may also like…"
+msgstr ""
+
+#: functions.php:811
+msgid "Related products"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:547
+msgid "We highly recommend installing and activating the WooCommerce plugin, which allows you to create a shop and enhance your business."
+msgstr ""
+
+#: inc/customizer-notify/newscrunch-customizer-notify-section.php:290
+msgid "Spice Starter Sites"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:26 functions.php:239
+#: inc/customizer-notify/newscrunch-customizer-notify-section.php:301
+msgid "Install Plugin"
+msgstr ""
+
+#: inc/customizer/settings/advertisement.php:32
+msgid "Advertisement Items"
+msgstr ""
+
+#: inc/customizer/settings/advertisement.php:14
+msgid "Advertisement"
+msgstr ""
+
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:678
+msgid "Hide on Mobile and Tablet"
+msgstr ""
+
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:674
+msgid "Hide on Tablet"
+msgstr ""
+
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:670
+msgid "Hide on Mobile"
+msgstr ""
+
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:666
+msgid "Show on All Devices"
+msgstr ""
+
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:662
+msgid "Visibility"
+msgstr ""
+
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:656
+msgid "After Footer"
+msgstr ""
+
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:647
+msgid "Before Footer"
+msgstr ""
+
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:638
+msgid "After Post Content"
+msgstr ""
+
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:629
+msgid "Before Post Content"
+msgstr ""
+
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:620
+msgid "Random Post Archive"
+msgstr ""
+
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:611
+msgid "Before Post Archive"
+msgstr ""
+
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:602
+msgid "Inside Header"
+msgstr ""
+
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:593
+msgid "After Header"
+msgstr ""
+
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:584
+msgid "Before Header"
+msgstr ""
+
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:575
+msgid "Display Location:"
+msgstr ""
+
+#: inc/helpers.php:2034
+msgid "view all posts"
+msgstr ""
+
+#. Translators: %1$s: <a> tag. %2$s: </a>.
+#: inc/helpers.php:2029
+msgid "Add your Biographical Information. %1$sEdit your Profile%2$s now."
+msgstr ""
+
+#: inc/customizer/settings/single-post-options.php:197
+msgid "Hide/Show Author Details"
+msgstr ""
+
+#: inc/customizer/settings/single-post-options.php:61
+#: inc/customizer/settings/single-post-options.php:317
+msgid "Title Markup"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/helpers.php:1870
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/customizer/settings/news-highlight.php:211
+msgid "For more details read the help docs."
+msgstr ""
+
+#: inc/customizer/settings/news-highlight.php:211
+msgid "Note: This setting only works on the Gutenberg news business template."
+msgstr ""
+
+#: inc/customizer/settings/news-highlight.php:210
+msgid "Enable/Disable Page Editor Content"
+msgstr ""
+
+#: inc/customizer/settings/news-highlight.php:196
+msgid "Gutenberg Template Editor"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Gutenberg News Business"
+msgstr ""
+
+#: inc/customizer/settings/general-settings.php:618
+#: inc/customizer/settings/general-settings.php:658
+#: inc/customizer/settings/general-settings.php:697
+#: inc/customizer/settings/general-settings.php:736
+#: inc/customizer/settings/general-settings.php:775
+#: inc/customizer/settings/general-settings.php:812
+msgid "Make sidebar sticky"
+msgstr ""
+
+#: inc/customizer/settings/news-highlight.php:37
+msgid "Hide from all pages"
+msgstr ""
+
+#: inc/customizer/settings/news-highlight.php:36
+msgid "Display only in inner pages"
+msgstr ""
+
+#: inc/customizer/settings/news-highlight.php:35
+msgid "Front page only"
+msgstr ""
+
+#: inc/customizer/settings/news-highlight.php:34
+msgid "Display in all pages"
+msgstr ""
+
+#: inc/customizer/settings/news-highlight.php:28
+msgid "Appearance "
+msgstr ""
+
+#: inc/customizer/settings/reorder-sections.php:30
+#: inc/customizer/settings/reorder-sections.php:43
+#: inc/customizer/settings/reorder-sections.php:72
+#: inc/customizer/settings/reorder-sections.php:85
+msgid "Youtube Playlist"
+msgstr ""
+
+#: inc/helpers.php:194
+msgid "Powered By"
+msgstr ""
+
+#: inc/customizer/settings/single-post-options.php:93
+msgid "Tags"
+msgstr ""
+
+#: inc/customizer/settings/single-post-options.php:92
+msgid "Post Content"
+msgstr ""
+
+#: inc/customizer/settings/single-post-options.php:91
+msgid "Post Title"
+msgstr ""
+
+#: inc/customizer/settings/single-post-options.php:90
+msgid "Post Meta"
+msgstr ""
+
+#: inc/customizer/settings/single-post-options.php:89
+#: inc/customizer/settings/single-post-options.php:338
+msgid "Featured Image"
+msgstr ""
+
+#: inc/customizer/settings/main-banner.php:75
+msgid "Column Reorder"
+msgstr ""
+
+#: inc/customizer/settings/main-banner.php:64
+msgid "Right Column"
+msgstr ""
+
+#: inc/customizer/settings/main-banner.php:63
+msgid "Center Column (Slider)"
+msgstr ""
+
+#: inc/customizer/settings/main-banner.php:62
+msgid "Left Column"
+msgstr ""
+
+#: inc/customizer/settings/general-settings.php:390
+msgid "Default"
+msgstr ""
+
+#: inc/customizer/settings/advertisement.php:56
+#: inc/customizer/settings/featured-video.php:117
+#: inc/customizer/settings/general-settings.php:136
+#: inc/customizer/settings/general-settings.php:1048
+#: inc/customizer/settings/main-banner.php:311
+#: inc/customizer/settings/single-post-options.php:278
+#: inc/customizer/settings/theme-footer.php:250
+#: inc/customizer/settings/theme-header.php:476
+#: inc/customizer/settings/top-header.php:111
+#: inc/customizer/settings/top-header.php:391
+msgid "Learn More"
+msgstr ""
+
+#: inc/customizer/custom_style.php:21
+msgid "Copyright"
+msgstr ""
+
+#: inc/customizer/custom_style.php:19
+msgid "Search Icon & Switcher Icon"
+msgstr ""
+
+#: inc/customizer/custom_style.php:18
+msgid "Submenus"
+msgstr ""
+
+#: inc/customizer/customizer-recommended-plugin.php:10
+msgid "plugin to import demo."
+msgstr ""
+
+#: inc/customizer/customizer-recommended-plugin.php:10
+msgid "Install and activate the"
+msgstr ""
+
+#: functions.php:361
+msgid "Current"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:35
+msgid "%1$s "
+msgid_plural "%1$s "
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:35
+msgid "comments title"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:35
+msgid "comments"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:35
+msgid "comment"
+msgstr ""
+
+#. translators: %s: theme name
+#: admin/inc/class-spicethemes-about-page.php:329
+#: admin/inc/class-spicethemes-about-page.php:360
+msgid "now"
+msgstr ""
+
+#. translators: %s: theme name
+#: admin/inc/class-spicethemes-about-page.php:329
+msgid "Install"
+msgstr ""
+
+#. translators: %s: theme name
+#: admin/inc/class-spicethemes-about-page.php:136
+msgid "theme"
+msgstr ""
+
+#. translators: %s: theme name
+#: admin/inc/class-spicethemes-about-page.php:136
+msgid "Get started with"
+msgstr ""
+
+#. translators: %1$s: theme name and %2$ %3$s: url of the options page
+#: admin/inc/class-spicethemes-about-page.php:133
+msgid "welcome page"
+msgstr ""
+
+#. translators: %1$s: theme name and %2$ %3$s: url of the options page
+#: admin/inc/class-spicethemes-about-page.php:133
+msgid "theme is installed. To take full advantage of the features this theme has to offer visit our"
+msgstr ""
+
+#. translators: %1$s: theme name and %2$s: count of recommended plugins
+#: admin/inc/class-spicethemes-about-page.php:114
+msgid "About"
+msgstr ""
+
+#: inc/helpers.php:1166 inc/helpers.php:1271 template-parts/content-list.php:77
+msgid "author-image"
+msgstr ""
+
+#: inc/customizer/settings/advertisement.php:55
+#: inc/customizer/settings/featured-video.php:116
+#: inc/customizer/settings/general-settings.php:135
+#: inc/customizer/settings/general-settings.php:1047
+#: inc/customizer/settings/main-banner.php:310
+#: inc/customizer/settings/single-post-options.php:277
+#: inc/customizer/settings/theme-footer.php:249
+#: inc/customizer/settings/theme-header.php:475
+#: inc/customizer/settings/top-header.php:110
+#: inc/customizer/settings/top-header.php:390
+msgid "Unlock more features available in Pro version."
+msgstr ""
+
+#: inc/customizer/settings/archives-options.php:176
+msgid "Hide/Show Description"
+msgstr ""
+
+#: inc/customizer/settings/archives-options.php:160
+msgid "Hide/Show Title"
+msgstr ""
+
+#: inc/customizer/settings/archives-options.php:32
+#: inc/customizer/settings/archives-options.php:53
+msgid "Blog Variation"
+msgstr ""
+
+#: inc/customizer/custom_style.php:16
+msgid "Banner Advertisement"
+msgstr ""
+
+#: inc/customizer/custom_style.php:15
+msgid "Subscribe Button"
+msgstr ""
+
+#: inc/customizer/custom_style.php:14
+msgid "Background Setting"
+msgstr ""
+
+#: inc/customizer/custom_style.php:12
+msgid "Center"
+msgstr ""
+
+#: inc/customizer/custom_style.php:10
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer/custom_style.php:9
+msgid "Frontpage Sections"
+msgstr ""
+
+#: inc/customizer/custom_style.php:8
+msgid "Core Options"
+msgstr ""
+
+#: inc/customizer/custom_style.php:7
+msgid "Footer Options"
+msgstr ""
+
+#: inc/customizer/custom_style.php:6
+msgid "Header Options"
+msgstr ""
+
+#: inc/customizer/custom_style.php:5
+msgid "General Options"
+msgstr ""
+
+#: inc/breadcrumbs/breadcrumb-trail/breadcrumbs.php:840
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: inc/breadcrumbs/breadcrumb-trail/breadcrumbs.php:812
+#: inc/breadcrumbs/breadcrumb-trail/breadcrumbs.php:1239
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: inc/breadcrumbs/breadcrumb-trail/breadcrumbs.php:811
+#: inc/breadcrumbs/breadcrumb-trail/breadcrumbs.php:867
+#: inc/breadcrumbs/breadcrumb-trail/breadcrumbs.php:1234
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: inc/breadcrumbs/breadcrumb-trail/breadcrumbs.php:810
+#: inc/breadcrumbs/breadcrumb-trail/breadcrumbs.php:839
+#: inc/breadcrumbs/breadcrumb-trail/breadcrumbs.php:866
+#: inc/breadcrumbs/breadcrumb-trail/breadcrumbs.php:893
+#: inc/breadcrumbs/breadcrumb-trail/breadcrumbs.php:1228
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/breadcrumbs/breadcrumb-trail/breadcrumbs.php:794
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: inc/breadcrumbs/breadcrumb-trail/breadcrumbs.php:777
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: inc/breadcrumbs/breadcrumb-trail/breadcrumbs.php:760
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: inc/breadcrumbs/breadcrumb-trail/breadcrumbs.php:308
+msgid "Week %s"
+msgstr ""
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: inc/breadcrumbs/breadcrumb-trail/breadcrumbs.php:306
+msgid "Minute %s"
+msgstr ""
+
+#. Translators: %s is the page number.
+#: inc/breadcrumbs/breadcrumb-trail/breadcrumbs.php:304
+msgid "Comment Page %s"
+msgstr ""
+
+#. Translators: %s is the page number.
+#: inc/breadcrumbs/breadcrumb-trail/breadcrumbs.php:302
+msgid "Page %s"
+msgstr ""
+
+#. Translators: %s is the search query.
+#: inc/breadcrumbs/breadcrumb-trail/breadcrumbs.php:300
+msgid "Search results for: %s"
+msgstr ""
+
+#: inc/breadcrumbs/breadcrumb-trail/breadcrumbs.php:298
+msgid "Archives"
+msgstr ""
+
+#: inc/breadcrumbs/breadcrumb-trail/breadcrumbs.php:297
+msgid "404 Not Found"
+msgstr ""
+
+#: inc/breadcrumbs/breadcrumb-trail/breadcrumbs.php:295
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/breadcrumbs/breadcrumb-trail/breadcrumbs.php:294
+msgid "Browse:"
+msgstr ""
+
+#: functions.php:364
+msgid "complete with exciting new features. Take a look now!"
+msgstr ""
+
+#: functions.php:364
+msgid "We've consistently aimed to meet our users' needs and demands. In order to address specific requirements and rectify issues from our previous version, we've rolled out version"
+msgstr ""
+
+#: partials/widgets/register-sidebars.php:103
+msgid "Add widgets in header toggle sidebar widget area"
+msgstr ""
+
+#: partials/widgets/register-sidebars.php:101
+msgid "Header Toggle Sidebar"
+msgstr ""
+
+#: partials/widgets/register-sidebars.php:58
+msgid "Middle Left Sidebar"
+msgstr ""
+
+#: partials/widgets/register-sidebars.php:28
+msgid "Middle Right Sidebar"
+msgstr ""
+
+#: inc/helpers.php:868
+msgid "Add Header Toggle Sidebar Widgets Area."
+msgstr ""
+
+#: inc/helpers.php:867
+msgid "Add Header Toggle Sidebar Widgets Area"
+msgstr ""
+
+#: inc/customizer/settings/left-sidebar-right-content.php:13
+#: inc/customizer/settings/reorder-sections.php:28
+#: inc/customizer/settings/reorder-sections.php:41
+#: inc/customizer/settings/reorder-sections.php:53
+#: inc/customizer/settings/reorder-sections.php:70
+#: inc/customizer/settings/reorder-sections.php:83
+#: inc/customizer/settings/reorder-sections.php:96
+msgid "Left Sidebar Right Content"
+msgstr ""
+
+#: inc/customizer/settings/left-content-right-sidebar.php:13
+#: inc/customizer/settings/reorder-sections.php:26
+#: inc/customizer/settings/reorder-sections.php:39
+#: inc/customizer/settings/reorder-sections.php:52
+#: inc/customizer/settings/reorder-sections.php:68
+#: inc/customizer/settings/reorder-sections.php:81
+#: inc/customizer/settings/reorder-sections.php:94
+msgid "Left Content Right Sidebar"
+msgstr ""
+
+#: inc/customizer/settings/general-settings.php:753
+#: partials/widgets/register-sidebars.php:43
+msgid "Front Right Content"
+msgstr ""
+
+#: inc/customizer/settings/top-header.php:206
+msgid "Time Color (Dark Layout)"
+msgstr ""
+
+#: inc/customizer/settings/top-header.php:190
+msgid "Date Color (Dark Layout)"
+msgstr ""
+
+#: inc/customizer/settings/theme-header.php:428
+msgid "Switcher Icon Color (Dark Layout)"
+msgstr ""
+
+#: inc/customizer/settings/theme-header.php:412
+msgid "Search Icon Color (Dark Layout)"
+msgstr ""
+
+#: inc/customizer/settings/theme-header.php:396
+msgid "Switcher Icon Color"
+msgstr ""
+
+#: inc/customizer/settings/theme-header.php:380
+msgid "Search Icon Color"
+msgstr ""
+
+#: inc/customizer/settings/theme-footer.php:237
+msgid "Link/Post Title Hover Color"
+msgstr ""
+
+#: inc/customizer/settings/theme-footer.php:220
+msgid "Link/Post Title Color"
+msgstr ""
+
+#: inc/customizer/settings/theme-footer.php:203
+msgid "Text/Content Color"
+msgstr ""
+
+#: inc/customizer/settings/theme-footer.php:186
+msgid "Widget Title Color"
+msgstr ""
+
+#: inc/customizer/settings/site-identity.php:301
+msgid "Site Tagline Color (Dark Layout)"
+msgstr ""
+
+#: inc/customizer/settings/site-identity.php:284
+msgid "Site Title Hover Color (Dark Layout)"
+msgstr ""
+
+#: inc/customizer/settings/site-identity.php:267
+msgid "Site Title Color (Dark Layout)"
+msgstr ""
+
+#: inc/customizer/settings/missed-section.php:86 partials/front/missed-1.php:7
+msgid "You May Have Missed"
+msgstr ""
+
+#: inc/customizer/settings/missed-section.php:74
+#: inc/customizer/settings/single-post-options.php:228
+msgid "Enable/Disable Missed Section"
+msgstr ""
+
+#: partials/widgets/tabs.php:273
+msgid "Popular Title"
+msgstr ""
+
+#: partials/widgets/tabs.php:268
+msgid "Recent Title"
+msgstr ""
+
+#: partials/widgets/post-grid-3-column-slider.php:189
+msgid "By Author"
+msgstr ""
+
+#: partials/widgets/featured-post.php:240 partials/widgets/tabs.php:278
+msgid "Comment Title"
+msgstr ""
+
+#: partials/widgets/featured-post.php:235
+msgid "Read More Title"
+msgstr ""
+
+#: inc/customizer/settings/general-settings.php:206
+msgid "Effect 1 ( Circle )"
+msgstr ""
+
+#: inc/customizer/settings/general-settings.php:198
+msgid "Image Hover Effect"
+msgstr ""
+
+#: inc/customizer/settings/general-settings.php:185
+#: inc/customizer/settings/general-settings.php:207
+msgid "Effect 2"
+msgstr ""
+
+#: inc/customizer/settings/general-settings.php:184
+msgid "Effect 1"
+msgstr ""
+
+#: inc/customizer/settings/general-settings.php:177
+msgid "Post Title Link Hover Effect"
+msgstr ""
+
+#: inc/customizer/settings/general-settings.php:162
+msgid "Animation Effect"
+msgstr ""
+
+#: partials/widgets/post-grid-2-column-slider.php:212
+#: partials/widgets/post-grid-3-column-slider.php:184
+#: partials/widgets/post-list-view-slider.php:189
+#: partials/widgets/post-overlay-slider.php:298
+msgid "Animation Speed (In Second)"
+msgstr ""
+
+#: inc/helpers.php:388 inc/helpers.php:391 inc/helpers.php:394
+msgid "Month"
+msgstr ""
+
+#: inc/helpers.php:385
+msgid "Author"
+msgstr ""
+
+#: inc/customizer/settings/general-settings.php:934
+msgid "According To Wordpress"
+msgstr ""
+
+#: inc/customizer/settings/general-settings.php:933
+msgid "According To Theme"
+msgstr ""
+
+#: inc/customizer/settings/general-settings.php:926
+msgid "Date Format"
+msgstr ""
+
+#: inc/customizer/settings/general-settings.php:911
+msgid "As Modified Date"
+msgstr ""
+
+#: inc/customizer/settings/general-settings.php:910
+msgid "As Published Date"
+msgstr ""
+
+#: inc/customizer/settings/general-settings.php:903
+msgid "How to display date"
+msgstr ""
+
+#: inc/customizer/settings/general-settings.php:888
+msgid "Date Formatting"
+msgstr ""
+
+#: functions.php:436
+msgid "ago"
+msgstr ""
+
+#: partials/widgets/featured-post.php:231
+#: partials/widgets/post-grid-2-column-slider.php:246
+#: partials/widgets/post-grid-2-column.php:128
+#: partials/widgets/post-grid-3-column-slider.php:213
+#: partials/widgets/post-list-grid-view.php:137
+#: partials/widgets/post-list-view-slider.php:213
+#: partials/widgets/single-column.php:135 partials/widgets/tabs.php:264
+msgid "If you want display post read time, then you should need to enable this setting from customizer ( Global >> Read Time )"
+msgstr ""
+
+#: partials/widgets/featured-post.php:230
+#: partials/widgets/post-grid-2-column-slider.php:245
+#: partials/widgets/post-grid-2-column.php:127
+#: partials/widgets/post-grid-3-column-slider.php:212
+#: partials/widgets/post-list-grid-view.php:136
+#: partials/widgets/post-list-view-slider.php:212
+#: partials/widgets/single-column.php:134 partials/widgets/tabs.php:263
+msgid "Show read time"
+msgstr ""
+
+#: inc/customizer/settings/single-post-options.php:247
+#: inc/customizer/settings/single-post-options.php:258
+msgid "Related Post Title"
+msgstr ""
+
+#: inc/customizer/settings/single-post-options.php:238 inc/helpers.php:1400
+msgid "Related Posts"
+msgstr ""
+
+#: inc/customizer/settings/single-post-options.php:212
+msgid "Enable/Disable Related Post"
+msgstr ""
+
+#: partials/header/default-header.php:73 partials/header/main-header.php:74
+msgid "Close Search"
+msgstr ""
+
+#: partials/header/default-header.php:11 partials/header/main-header.php:11
+#: partials/header/woo-header.php:111
+msgid "Close Off-Canvas"
+msgstr ""
+
+#: partials/front/news-highlight-1.php:93
+msgid "Right Arrow"
+msgstr ""
+
+#: partials/front/news-highlight-1.php:92
+msgid "Left Arrow"
+msgstr ""
+
+#: partials/widgets/social-icons.php:143 partials/widgets/social-icons.php:275
+msgid "Dribble"
+msgstr ""
+
+#: partials/widgets/social-icons.php:128 partials/widgets/social-icons.php:267
+msgid "Vimeo"
+msgstr ""
+
+#: partials/widgets/social-icons.php:113 partials/widgets/social-icons.php:259
+msgid "Skype"
+msgstr ""
+
+#: partials/widgets/social-icons.php:98 partials/widgets/social-icons.php:251
+msgid "LinkedIn"
+msgstr ""
+
+#: partials/widgets/social-icons.php:83 partials/widgets/social-icons.php:243
+msgid "Youtube"
+msgstr ""
+
+#: partials/widgets/social-icons.php:68 partials/widgets/social-icons.php:235
+msgid "Instagram"
+msgstr ""
+
+#: partials/widgets/social-icons.php:53 partials/widgets/social-icons.php:227
+msgid "Facebook"
+msgstr ""
+
+#: partials/widgets/social-icons.php:38 partials/widgets/social-icons.php:219
+msgid "Twitter"
+msgstr ""
+
+#: inc/helpers.php:1198 inc/helpers.php:1300 inc/helpers.php:1450
+#: partials/widgets/featured-post.php:94 template-parts/content-blog.php:63
+#: template-parts/content-list.php:86 template-parts/content-overlay.php:85
+#: template-parts/content-search.php:61 template-parts/content-single.php:75
+#: template-parts/content.php:71
+msgid "Number of Comments"
+msgstr ""
+
+#: partials/widgets/post-grid-2-column-slider.php:72
+msgid "Posts Date"
+msgstr ""
+
+#: partials/header/default-header.php:103 partials/header/main-header.php:103
+#: partials/header/woo-header.php:152
+msgid "Close Icon"
+msgstr ""
+
+#: partials/header/default-header.php:90 partials/header/main-header.php:90
+#: partials/header/woo-header.php:139
+msgid "Toggle Icon"
+msgstr ""
+
+#: partials/header/default-header.php:7 partials/header/main-header.php:9
+#: partials/header/woo-header.php:106
+msgid "Menu"
+msgstr ""
+
+#: partials/front/news-video.php:121 partials/front/news-video.php:124
+#: partials/front/news-video.php:130 partials/front/news-video.php:245
+#: partials/front/news-video.php:248 partials/front/news-video.php:252
+#: partials/front/news-video.php:352 partials/front/news-video.php:355
+#: partials/front/news-video.php:359
+msgid "Video Popup"
+msgstr ""
+
+#: inc/pagination/newscrunch-pagination.php:29
+msgid "Next Page"
+msgstr ""
+
+#: inc/pagination/newscrunch-pagination.php:23
+msgid "Previous Page"
+msgstr ""
+
+#: partials/header/default-header.php:85 partials/header/main-header.php:86
+#: partials/header/woo-header.php:39
+msgid "Dark Light Layout"
+msgstr ""
+
+#: inc/helpers.php:1384
+msgid "Next post arrow"
+msgstr ""
+
+#: inc/helpers.php:1373
+msgid "Previous post arrow"
+msgstr ""
+
+#: inc/helpers.php:1344
+msgid "Add widgets in Primary Left Area"
+msgstr ""
+
+#: inc/helpers.php:781 inc/helpers.php:1181 inc/helpers.php:1286
+#: inc/helpers.php:1445 partials/front/main-banner.php:94
+#: partials/front/main-banner.php:193 partials/front/main-banner.php:282
+#: partials/front/missed-1.php:65 partials/front/news-video.php:149
+#: partials/widgets/featured-post.php:89 partials/widgets/featured-post.php:134
+#: partials/widgets/post-grid-2-column-slider.php:88
+#: partials/widgets/post-grid-3-column-slider.php:90
+#: partials/widgets/post-list-view-slider.php:86
+#: template-parts/content-archive-first.php:66
+#: template-parts/content-blog.php:46 template-parts/content-first.php:46
+#: template-parts/content-list.php:79 template-parts/content-overlay.php:57
+#: template-parts/content-search.php:44 template-parts/content-single.php:58
+#: template-parts/content.php:52
+msgid "Posts by"
+msgstr ""
+
+#: inc/helpers.php:274
+msgid "Back to Top"
+msgstr ""
+
+#: functions.php:372
+msgid "Try Now"
+msgstr ""
+
+#: functions.php:229
+msgid "Live Demo"
+msgstr ""
+
+#: comments.php:84
+msgid "Admin Profile"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:170
+msgid "Core Background Color & Image Customize"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:169
+msgid "Core Background Color & Image Video"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:158
+msgid "Theme Color Customize"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:157
+msgid "Theme Color Video"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:146
+msgid "Footer Section Customize"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:145
+msgid "Footer Section Video"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:134
+msgid "Custom Widgets Customize"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:133
+msgid "Custom Widgets Video"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:122
+msgid "Sections Rearrange Customize"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:121
+msgid "Sections Rearrange Video"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:110
+msgid "Featured Video Customize"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:98
+msgid "Highlight Customize"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:97
+msgid "Highlight Video"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:86
+msgid "Banner Customize"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:85
+msgid "Banner Video"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:74
+msgid "Toggle Sidebar Customize"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:73
+msgid "Toggle Sidebar Video"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:62
+msgid "Global Options Customize"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:61
+msgid "Global Options Video"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:50
+msgid "Header Customize"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:49
+msgid "Header Video"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:38
+msgid "Site Identity Customize"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:37
+msgid "Site Identity Video"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:26
+msgid "Menu Customize"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:25
+msgid "Menu Video"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:13
+msgid "Demo Import Video"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:125
+msgid "Pre-sales Enquiry"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:121
+msgid "Premium Demo"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:113
+msgid "Free or Pro Comparison"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:109
+msgid "Valuable Feedback"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:101 functions.php:233
+msgid "Help Docs"
+msgstr ""
+
+#: inc/helpers.php:1379
+msgid "Next post"
+msgstr ""
+
+#: inc/helpers.php:1368
+msgid "Previous post"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:38
+msgid "Customize Image"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:22
+#: admin/tab-pages/getting-started.php:28
+msgid "Import Image"
+msgstr ""
+
+#: partials/widgets/register-sidebars.php:90
+msgid "Add widgets in left sidebar widget area"
+msgstr ""
+
+#: inc/meta-boxes/newscrunch-meta-box-page-settings.php:72
+msgid "This sidebar option will work with only both sidebar layout (The last one)"
+msgstr ""
+
+#: inc/meta-boxes/newscrunch-meta-box-page-settings.php:71
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/meta-boxes/newscrunch-meta-box-page-settings.php:62
+#: inc/meta-boxes/newscrunch-meta-box-page-settings.php:81
+msgid "Front Sidebar 2"
+msgstr ""
+
+#: inc/meta-boxes/newscrunch-meta-box-page-settings.php:61
+#: inc/meta-boxes/newscrunch-meta-box-page-settings.php:80
+msgid "Front Sidebar 1"
+msgstr ""
+
+#: inc/meta-boxes/newscrunch-meta-box-page-settings.php:60
+#: inc/meta-boxes/newscrunch-meta-box-page-settings.php:78
+#: partials/widgets/register-sidebars.php:88
+msgid "Primary Left"
+msgstr ""
+
+#: inc/meta-boxes/newscrunch-meta-box-page-settings.php:59
+#: inc/meta-boxes/newscrunch-meta-box-page-settings.php:79
+#: partials/widgets/register-sidebars.php:73
+msgid "Primary Right"
+msgstr ""
+
+#: inc/meta-boxes/newscrunch-meta-box-page-settings.php:57
+#: inc/meta-boxes/newscrunch-meta-box-page-settings.php:76
+msgid "From Customizer"
+msgstr ""
+
+#: inc/meta-boxes/newscrunch-meta-box-page-settings.php:53
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/helpers.php:1345
+msgid "Add widgets in Primary Left Area."
+msgstr ""
+
+#: inc/customizer/settings/single-post-options.php:29
+msgid "Single Post Layouts"
+msgstr ""
+
+#: inc/customizer/settings/news-highlight.php:169
+msgid "Post Category"
+msgstr ""
+
+#: inc/customizer/settings/news-highlight.php:168
+msgid "Post Date"
+msgstr ""
+
+#: inc/customizer/settings/news-highlight.php:162
+msgid "Filter Post Arguments By"
+msgstr ""
+
+#: functions.php:387 functions.php:389
+msgid "Upgrade To Pro"
+msgstr ""
+
+#: functions.php:382 functions.php:384
+msgid "Watch Videos"
+msgstr ""
+
+#: functions.php:379
+msgid "See Changelog"
+msgstr ""
+
+#: functions.php:374
+msgid "Try It Now"
+msgstr ""
+
+#: inc/customizer/settings/bottom-footer.php:77 inc/helpers.php:192
+msgid "Magazine & Blog"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:167
+msgid "Background Color & Image"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:155
+msgid "Theme & Category Color"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:143
+msgid "Footer Widgets & Copyright Text"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:131
+msgid "Setup Custom Widgets"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:119
+msgid "Reorder/Rearrange Sections"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:107
+msgid "Setup Featured Video Section"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:95
+msgid "Setup Highlight Section"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:83
+msgid "Setup Banner Section"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:71
+msgid "Setup Toggle Sidebar"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:59
+msgid "Manage Global Options"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:47
+msgid "Setup Header"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:35
+msgid "Setup Site Identity"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:26
+#: admin/tab-pages/video-tutorials.php:38
+#: admin/tab-pages/video-tutorials.php:50
+#: admin/tab-pages/video-tutorials.php:62
+#: admin/tab-pages/video-tutorials.php:74
+#: admin/tab-pages/video-tutorials.php:86
+#: admin/tab-pages/video-tutorials.php:98
+#: admin/tab-pages/video-tutorials.php:110
+#: admin/tab-pages/video-tutorials.php:122
+#: admin/tab-pages/video-tutorials.php:134
+#: admin/tab-pages/video-tutorials.php:146
+#: admin/tab-pages/video-tutorials.php:158
+#: admin/tab-pages/video-tutorials.php:170
+msgid "Customize"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:23
+msgid "Setup Main Menu"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:14
+msgid "Get Started"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:13
+#: admin/tab-pages/video-tutorials.php:25
+#: admin/tab-pages/video-tutorials.php:37
+#: admin/tab-pages/video-tutorials.php:49
+#: admin/tab-pages/video-tutorials.php:61
+#: admin/tab-pages/video-tutorials.php:73
+#: admin/tab-pages/video-tutorials.php:85
+#: admin/tab-pages/video-tutorials.php:97
+#: admin/tab-pages/video-tutorials.php:109
+#: admin/tab-pages/video-tutorials.php:121
+#: admin/tab-pages/video-tutorials.php:133
+#: admin/tab-pages/video-tutorials.php:145
+#: admin/tab-pages/video-tutorials.php:157
+#: admin/tab-pages/video-tutorials.php:169
+msgid "Watch Video"
+msgstr ""
+
+#: admin/tab-pages/video-tutorials.php:11
+msgid "Demo Import"
+msgstr ""
+
+#: inc/customizer/settings/general-settings.php:377
+msgid "and"
+msgstr ""
+
+#: inc/customizer/settings/general-settings.php:377
+msgid "If you use other than \"default\" one you will need to install and activate respective plugins Breadcrumb"
+msgstr ""
+
+#: inc/customizer/settings/general-settings.php:376
+msgid "Breadcrumb Type"
+msgstr ""
+
+#: inc/customizer/settings/general-settings.php:358
+msgid "Enable/Disable Breadcrumb"
+msgstr ""
+
+#: inc/customizer/settings/news-highlight.php:70
+#: partials/front/news-highlight-1.php:9 partials/front/news-highlight-2.php:9
+msgid "Highlight"
+msgstr ""
+
+#: inc/customizer/settings/general-settings.php:871
+msgid "Heading Layout"
+msgstr ""
+
+#: inc/customizer/settings/general-settings.php:856
+msgid "Section/Widget Heading"
+msgstr ""
+
+#: inc/customizer/settings/featured-video.php:88
+msgid "Full Width"
+msgstr ""
+
+#: inc/customizer/settings/featured-video.php:87
+msgid "Container"
+msgstr ""
+
+#: inc/customizer/settings/featured-video.php:80
+msgid "Section"
+msgstr ""
+
+#: inc/customizer/upsell/class-customize.php:76
+#: inc/customizer/upsell/class-customize.php:88
+#: inc/customizer/upsell/class-customize.php:98
+msgid "Click Here"
+msgstr ""
+
+#: inc/customizer/settings/scroll-to-top.php:222
+msgid "Icon Hover"
+msgstr ""
+
+#: inc/customizer/settings/scroll-to-top.php:205
+msgid "Background Hover"
+msgstr ""
+
+#: inc/customizer/settings/scroll-to-top.php:171
+msgid "Background"
+msgstr ""
+
+#: inc/customizer/settings/scroll-to-top.php:114
+msgid "Arrow Up Long"
+msgstr ""
+
+#: inc/customizer/settings/scroll-to-top.php:113
+msgid "Arrow Single"
+msgstr ""
+
+#: inc/customizer/settings/scroll-to-top.php:112
+msgid "Double Arrow Up"
+msgstr ""
+
+#: inc/customizer/settings/general-settings.php:433
+msgid "Enable/Disable Padding"
+msgstr ""
+
+#: inc/customizer/settings/general-settings.php:339
+#: inc/customizer/settings/single-post-options.php:73
+#: inc/customizer/settings/single-post-options.php:329
+msgid "Heading 6"
+msgstr ""
+
+#: inc/customizer/settings/general-settings.php:338
+#: inc/customizer/settings/single-post-options.php:72
+#: inc/customizer/settings/single-post-options.php:328
+msgid "Heading 5"
+msgstr ""
+
+#: inc/customizer/settings/general-settings.php:337
+#: inc/customizer/settings/single-post-options.php:71
+#: inc/customizer/settings/single-post-options.php:327
+msgid "Heading 4"
+msgstr ""
+
+#: inc/customizer/settings/general-settings.php:336
+#: inc/customizer/settings/single-post-options.php:70
+#: inc/customizer/settings/single-post-options.php:326
+msgid "Heading 3"
+msgstr ""
+
+#: inc/customizer/settings/general-settings.php:335
+#: inc/customizer/settings/single-post-options.php:69
+#: inc/customizer/settings/single-post-options.php:325
+msgid "Heading 2"
+msgstr ""
+
+#: inc/customizer/settings/general-settings.php:334
+#: inc/customizer/settings/single-post-options.php:68
+#: inc/customizer/settings/single-post-options.php:324
+msgid "Heading 1"
+msgstr ""
+
+#: inc/customizer/settings/general-settings.php:284
+msgid "page_header"
+msgstr ""
+
+#: inc/customizer/settings/general-settings.php:48
+msgid "To customize the SEO Optimized Images settings, click on below link:"
+msgstr ""
+
+#: inc/customizer/settings/general-settings.php:21
+msgid "To Unlock SEO Optimized Images feature you need to Install and activate. The SEO Optimized Images plugin lets you dynamically insert SEO-Friendly “alt” and “title” attributes to your website images. "
+msgstr ""
+
+#. Template Name of the theme
+msgid "Blog Right Sidebar"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:29
+msgid "Need to install & activate the \"Spice Starter Sites\" plugin to import the demo."
+msgstr ""
+
+#: inc/helpers.php:382 template-parts/content-single.php:146
+msgid "Tag"
+msgstr "وسم"
+
+#: template-parts/content-none.php:14
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "عذراً، لا توجد نتائج توافق معايير بحثك. فضلاً، حاول البحث مجدداً باستخدام كلمات بحث مختلفة."
+
+#: template-parts/content-none.php:13
+msgid "Nothing found"
+msgstr "لم يتم العثور على شيء"
+
+#: partials/widgets/tabs.php:283
+msgid "Show post featured image"
+msgstr "عرض الصورة المميزة للمقالة"
+
+#: partials/widgets/tabs.php:249 partials/widgets/tabs.php:285
+msgid "Show"
+msgstr "عرض"
+
+#: partials/widgets/tabs.php:248 partials/widgets/tabs.php:286
+msgid "Hide"
+msgstr "إخفاء"
+
+#: partials/widgets/tabs.php:246
+msgid "Hide default thumbnail image"
+msgstr "إخفاء الصورة المصغرة الافتراضية"
+
+#: partials/widgets/tabs.php:31 partials/widgets/tabs.php:237
+msgid "Comment"
+msgstr "التعليق"
+
+#: partials/widgets/tabs.php:30 partials/widgets/tabs.php:236
+msgid "Popular"
+msgstr "Popular"
+
+#: partials/widgets/tabs.php:29 partials/widgets/tabs.php:235
+msgid "Recent"
+msgstr "Recent"
+
+#: partials/widgets/tabs.php:18
+msgid "Display your posts in tabs"
+msgstr "عرض مقالاتك في علامات التبويب"
+
+#: partials/widgets/tabs.php:15
+msgid "Newscrunch : Post Tab Sidebar"
+msgstr "Newscrunch: الشريط الجانبي لعلامة تبويب المقالة"
+
+#: partials/widgets/social-icons.php:166 partials/widgets/social-icons.php:172
+#: partials/widgets/social-icons.php:178 partials/widgets/social-icons.php:184
+#: partials/widgets/social-icons.php:190 partials/widgets/social-icons.php:196
+#: partials/widgets/social-icons.php:202 partials/widgets/social-icons.php:208
+#: partials/widgets/social-icons.php:221 partials/widgets/social-icons.php:229
+#: partials/widgets/social-icons.php:237 partials/widgets/social-icons.php:245
+#: partials/widgets/social-icons.php:253 partials/widgets/social-icons.php:261
+#: partials/widgets/social-icons.php:269 partials/widgets/social-icons.php:277
+msgid "Followers"
+msgstr "متابعون"
+
+#: partials/widgets/social-icons.php:18
+msgid "Display your social icons"
+msgstr "اعرض أيقوناتك الاجتماعية"
+
+#: partials/widgets/social-icons.php:15
+msgid "Newscrunch : Social Icons Sidebar"
+msgstr "Newscrunch: الشريط الجانبي للأيقونات الاجتماعية"
+
+#: partials/widgets/single-column.php:19
+msgid "Display your blog in a single-column layout."
+msgstr "اعرض مدونتك بالشكل العام كعمود واحد."
+
+#: partials/widgets/single-column.php:16
+msgid "Newscrunch : Single Column Sidebar"
+msgstr "Newscrunch: شريط جانبي لعمود واحد"
+
+#: partials/widgets/register-sidebars.php:118
+#: partials/widgets/register-sidebars.php:133
+#: partials/widgets/register-sidebars.php:148
+#: partials/widgets/register-sidebars.php:163
+msgid "Add widgets in footer widget area"
+msgstr "إضافة الودجات في تذييل منطقة الودجت"
+
+#: partials/widgets/register-sidebars.php:116
+#: partials/widgets/register-sidebars.php:131
+#: partials/widgets/register-sidebars.php:146
+#: partials/widgets/register-sidebars.php:161
+msgid "Footer"
+msgstr "تذييل"
+
+#: partials/widgets/register-sidebars.php:75
+msgid "Add widgets in right sidebar widget area"
+msgstr "إضافة الودجات على يمين منطقة ودجت الشريط الجانبي"
+
+#: partials/widgets/register-sidebars.php:30
+#: partials/widgets/register-sidebars.php:60
+msgid "Add widgets in front sidebar"
+msgstr "إضافة الودجات في الشريط الجانبي الأمامي"
+
+#: partials/widgets/register-sidebars.php:15
+#: partials/widgets/register-sidebars.php:30
+#: partials/widgets/register-sidebars.php:45
+#: partials/widgets/register-sidebars.php:60
+msgid "widget area"
+msgstr "منطقة الودجت"
+
+#: partials/widgets/register-sidebars.php:15
+#: partials/widgets/register-sidebars.php:45
+msgid "Add widgets in front page"
+msgstr "إضافة الودجات في الصفحة الرئيسية"
+
+#: inc/customizer/settings/general-settings.php:714
+#: partials/widgets/register-sidebars.php:13
+msgid "Front Left Content"
+msgstr "محتوى اليسار الأمامي"
+
+#: partials/widgets/post-overlay-slider.php:18
+msgid "Display your posts as an overlay slider."
+msgstr "اعرض مقالاتك على شكل غِشاء شريط تمرير."
+
+#: partials/widgets/post-overlay-slider.php:15
+msgid "Newscrunch : Overlay Slider"
+msgstr "Newscrunch: غِشاء شريط التمرير"
+
+#: partials/widgets/post-list-view-slider.php:201
+msgid "Show author image"
+msgstr "إظهار صورة المؤلف"
+
+#: partials/widgets/post-list-view-slider.php:18
+msgid "Display your post as list view slider"
+msgstr "عرض مقالاتك كشريط تمرير عرض القائمة"
+
+#: partials/widgets/post-list-view-slider.php:15
+msgid "Newscrunch : List View Slider"
+msgstr "Newscrunch: شريط تمرير عرض القائمة"
+
+#: partials/widgets/post-list-grid-view.php:19
+msgid "Display your blog in a grid view with a list layout"
+msgstr "اعرض مدونتك بطريقة عرض شبكية مع شكل عام القائمة"
+
+#: partials/widgets/post-list-grid-view.php:16
+msgid "Newscrunch : List Grid View"
+msgstr "Newscrunch: عرض قائمة الشبكة"
+
+#: partials/widgets/post-grid-3-column-slider.php:37
+#: partials/widgets/post-grid-3-column-slider.php:155
+msgid "By"
+msgstr "بواسطة"
+
+#: partials/widgets/post-grid-3-column-slider.php:18
+msgid "Display your posts as a three-column grid slider"
+msgstr "اعرض مقالاتك على شكل شريط تمرير شبكي من ثلاثة أعمدة"
+
+#: partials/widgets/post-grid-3-column-slider.php:15
+msgid "Newscrunch : Post Grid 3 Column Slider"
+msgstr "Newscrunch: شريط تمرير عمود شبكة المقالة 3"
+
+#: partials/widgets/post-grid-2-column.php:19
+msgid "This represent your post design layout in 2 column"
+msgstr "يمثل هذا تصميم الشكل العام لمقالتك في عمودين"
+
+#: partials/widgets/post-grid-2-column.php:16
+msgid "Newscrunch : Post Grid 2 Column Sidebar"
+msgstr ""
+
+#: partials/widgets/post-grid-2-column-slider.php:223
+msgid "Right post date background color"
+msgstr "لون خلفية تاريخ المقالة على اليمين"
+
+#: partials/widgets/post-grid-2-column-slider.php:218
+msgid "Left post date background color"
+msgstr "لون خلفية تاريخ المقالة على اليسار"
+
+#: partials/widgets/post-grid-2-column-slider.php:196
+#: partials/widgets/post-grid-3-column-slider.php:168
+#: partials/widgets/post-list-grid-view.php:114
+#: partials/widgets/post-list-view-slider.php:173
+#: partials/widgets/post-overlay-slider.php:282
+msgid "All Category"
+msgstr "كل التصنيف"
+
+#: partials/widgets/post-grid-2-column-slider.php:18
+msgid "Display your posts as a two-column grid slider"
+msgstr "اعرض مقالاتك على شكل شريط تمرير شبكي من عمودين"
+
+#: partials/widgets/post-grid-2-column-slider.php:15
+msgid "Newscrunch : Post Grid 2 Column Slider"
+msgstr "Newscrunch: مقالة الشبكة 2 من الشريط التمرير للعمود"
+
+#: partials/widgets/featured-post.php:224
+msgid "Show read more"
+msgstr "عرض اقرأ المزيد"
+
+#: partials/widgets/featured-post.php:219
+#: partials/widgets/single-column.php:128
+msgid "Show comments"
+msgstr "عرض التعليقات"
+
+#: partials/widgets/featured-post.php:214
+#: partials/widgets/post-grid-2-column-slider.php:234
+#: partials/widgets/post-grid-3-column-slider.php:206
+#: partials/widgets/post-overlay-slider.php:310
+msgid "Show author details"
+msgstr "عرض تفاصيل المؤلف"
+
+#: partials/widgets/featured-post.php:209
+#: partials/widgets/post-grid-2-column-slider.php:239
+#: partials/widgets/post-grid-3-column-slider.php:196
+#: partials/widgets/post-list-view-slider.php:206
+#: partials/widgets/post-overlay-slider.php:315
+msgid "Show post category"
+msgstr "عرض تصنيف المقالة"
+
+#: partials/widgets/featured-post.php:204
+#: partials/widgets/post-grid-2-column-slider.php:229
+#: partials/widgets/post-grid-2-column.php:121
+#: partials/widgets/post-grid-3-column-slider.php:201
+#: partials/widgets/post-list-grid-view.php:130
+#: partials/widgets/post-list-view-slider.php:196
+#: partials/widgets/post-overlay-slider.php:305
+#: partials/widgets/single-column.php:123 partials/widgets/tabs.php:258
+msgid "Show post date"
+msgstr "عرض تاريخ المقالة"
+
+#: partials/widgets/featured-post.php:193
+#: partials/widgets/post-grid-2-column.php:105
+#: partials/widgets/single-column.php:107
+msgid "Select category"
+msgstr "Select category"
+
+#: partials/widgets/featured-post.php:191
+#: partials/widgets/post-grid-2-column-slider.php:194
+#: partials/widgets/post-grid-2-column.php:103
+#: partials/widgets/post-grid-3-column-slider.php:166
+#: partials/widgets/post-list-grid-view.php:112
+#: partials/widgets/post-list-view-slider.php:171
+#: partials/widgets/post-overlay-slider.php:280
+#: partials/widgets/single-column.php:105
+msgid "Categories"
+msgstr "التصنيفات"
+
+#: partials/widgets/featured-post.php:19
+msgid "Display your post as featured post"
+msgstr ""
+
+#: partials/widgets/featured-post.php:16
+msgid "Newscrunch : Featured Post"
+msgstr "Newscrunch: مقالة مميزة"
+
+#: partials/widgets/advertisement.php:99
+msgid "Select Image"
+msgstr "اختيار صورة"
+
+#: partials/widgets/advertisement.php:90
+msgid "Button URL"
+msgstr "رابط الزر"
+
+#: inc/customizer/settings/missed-section.php:93
+#: partials/widgets/advertisement.php:75
+msgid "Heading"
+msgstr "عنوان"
+
+#: partials/widgets/advertisement.php:70 partials/widgets/featured-post.php:186
+#: partials/widgets/post-grid-2-column-slider.php:189
+#: partials/widgets/post-grid-2-column.php:98
+#: partials/widgets/post-grid-3-column-slider.php:161
+#: partials/widgets/post-list-grid-view.php:107
+#: partials/widgets/post-list-view-slider.php:152
+#: partials/widgets/post-list-view-slider.php:166
+#: partials/widgets/post-overlay-slider.php:275
+#: partials/widgets/single-column.php:87 partials/widgets/single-column.php:100
+#: partials/widgets/social-icons.php:161 partials/widgets/social-icons.php:214
+msgid "Widget Title"
+msgstr "عنوان الودجت"
+
+#: partials/widgets/advertisement.php:61 partials/widgets/featured-post.php:170
+#: partials/widgets/post-grid-2-column-slider.php:173
+#: partials/widgets/post-grid-2-column.php:89
+#: partials/widgets/post-grid-3-column-slider.php:146
+#: partials/widgets/post-list-grid-view.php:98
+#: partials/widgets/post-overlay-slider.php:262
+msgid "Widget title"
+msgstr "عنوان المربع الجانبي"
+
+#: partials/widgets/advertisement.php:18
+msgid "Display the advertisement"
+msgstr "قم بعرض الإعلان"
+
+#: partials/widgets/advertisement.php:15
+msgid "Newscrunch : Advertisement  Sidebar"
+msgstr "Newscrunch: الشريط الجانبي للإعلان"
+
+#: partials/front/main-banner.php:184 partials/widgets/featured-post.php:37
+#: partials/widgets/featured-post.php:179
+#: template-parts/content-archive-first.php:90
+#: template-parts/content-blog.php:92 template-parts/content-first.php:80
+#: template-parts/content-list.php:98 template-parts/content-overlay.php:118
+#: template-parts/content-search.php:108 template-parts/content.php:117
+msgid "Read More"
+msgstr "قراءة المزيد"
+
+#: functions.php:450
+msgid "date-time"
+msgstr "التاريخ والوقت"
+
+#: inc/meta-boxes/newscrunch-meta-box.php:27
+msgid "Layout Settings (Layout settings will not work with custom templates, except for the default template.)"
+msgstr "إعدادات الشكل العام (لن تعمل إعدادات الشكل العام مع القوالب المخصصة ، باستثناء القالب الافتراضي.)"
+
+#: inc/meta-boxes/newscrunch-meta-box-page-settings.php:66
+#: inc/meta-boxes/newscrunch-meta-box-page-settings.php:85
+msgid "Footer 4"
+msgstr "التذييل 4"
+
+#: inc/meta-boxes/newscrunch-meta-box-page-settings.php:65
+#: inc/meta-boxes/newscrunch-meta-box-page-settings.php:84
+msgid "Footer 3"
+msgstr "التذييل 3"
+
+#: inc/meta-boxes/newscrunch-meta-box-page-settings.php:64
+#: inc/meta-boxes/newscrunch-meta-box-page-settings.php:83
+msgid "Footer 2"
+msgstr "التذييل 2"
+
+#: inc/meta-boxes/newscrunch-meta-box-page-settings.php:63
+#: inc/meta-boxes/newscrunch-meta-box-page-settings.php:82
+msgid "Footer 1"
+msgstr "التذييل 1"
+
+#: inc/customizer/settings/news-highlight.php:53
+#: inc/meta-boxes/newscrunch-meta-box-page-settings.php:43
+msgid "Layout"
+msgstr "Layout"
+
+#: inc/helpers.php:373 partials/header/default-header.php:51
+#: partials/header/default-header.php:57 partials/header/default-header.php:58
+#: partials/header/default-header.php:69 partials/header/default-header.php:76
+#: partials/header/default-header.php:78 partials/header/main-header.php:51
+#: partials/header/main-header.php:58 partials/header/main-header.php:59
+#: partials/header/main-header.php:70 partials/header/main-header.php:77
+#: partials/header/main-header.php:79
+msgid "Search"
+msgstr "البحث"
+
+#: inc/helpers.php:556
+msgid "Loading Now"
+msgstr "جاري التحميل الآن"
+
+#: inc/breadcrumbs/breadcrumb-trail/breadcrumbs.php:296 inc/helpers.php:365
+#: inc/menu/default_menu_walker.php:19
+msgid "Home"
+msgstr "الرئيسية"
+
+#: inc/helpers.php:256
+msgid "Assign Footer Menu"
+msgstr "إسناد قائمة التذييل"
+
+#: inc/customizer/settings/top-header.php:378
+msgid "Icon Background Hover Color"
+msgstr "لون تمرير خلفية الأيقونة"
+
+#: inc/customizer/settings/top-header.php:362
+msgid "Icon Background Color"
+msgstr "لون خلفية الأيقونة"
+
+#: inc/customizer/settings/top-header.php:291
+msgid "Social Icon Details"
+msgstr "تفاصيل الأيقونة الاجتماعية"
+
+#: inc/customizer/settings/top-header.php:276
+msgid "Enable/Disable Social Icons"
+msgstr "تفعيل / تعطيل أيقونات التواصل الاجتماعي"
+
+#: inc/customizer/settings/top-header.php:219
+msgid "Top Right"
+msgstr "أعلى اليمين"
+
+#: inc/customizer/settings/top-header.php:173
+msgid "Time Color"
+msgstr "لون الوقت"
+
+#: inc/customizer/settings/top-header.php:157
+msgid "Date Color"
+msgstr "لون التاريخ"
+
+#: inc/customizer/settings/top-header.php:97
+msgid "Enable/Disable Time"
+msgstr "تفعيل/تعطيل الوقت"
+
+#: inc/customizer/settings/top-header.php:81
+msgid "Enable/Disable Date"
+msgstr "تفعيل / تعطيل التاريخ"
+
+#: inc/customizer/settings/top-header.php:20
+msgid "Top Left"
+msgstr "أعلى اليسار"
+
+#: inc/customizer/settings/top-header.php:12
+msgid "Top Header"
+msgstr "الترويسة العلوية"
+
+#: inc/customizer/settings/theme-header.php:462
+msgid "Enable/Disable Toggle Icon"
+msgstr "تفعيل / تعطيل تبديل الأيقونة"
+
+#: inc/customizer/settings/theme-header.php:445
+msgid "Enable/Disable Dark/Light Icon"
+msgstr "تفعيل / تعطيل أيقونة داكنة / فاتحة"
+
+#: inc/customizer/settings/theme-header.php:314
+msgid "Active Link Color"
+msgstr "لون الرابط المفعل"
+
+#: inc/customizer/settings/theme-header.php:247
+msgid "Enable/Disable Sticky Header"
+msgstr "تفعيل / تعطيل ترويسة مثبتة"
+
+#: inc/customizer/settings/theme-header.php:156
+msgid "Enable/Disable Search Icon"
+msgstr "تفعيل / تعطيل أيقونة البحث "
+
+#: inc/customizer/settings/theme-header.php:138
+msgid "Enable/Disable Border Radius"
+msgstr "تفعيل / تعطيل زوايا الحدود"
+
+#: inc/customizer/settings/theme-header.php:121
+#: inc/customizer/settings/theme-header.php:139
+msgid "Note: This settings will work with header 1, 2, 3"
+msgstr "ملاحظة: ستعمل هذه الإعدادات مع الترويسة 1 و 2 و 3"
+
+#: inc/customizer/settings/theme-header.php:120
+msgid "Enable/Disable Border"
+msgstr "تفعيل / تعطيل الإطار"
+
+#: inc/customizer/settings/theme-header.php:88
+msgid "Header Layout"
+msgstr "تخطيط الترويسة "
+
+#: inc/customizer/settings/theme-header.php:12
+msgid "Theme Header"
+msgstr "ترويسة القالب"
+
+#: inc/customizer/settings/theme-footer.php:144
+msgid "Widgets Image Overlay Color"
+msgstr "لون غِشاء صور الودجات"
+
+#: inc/customizer/settings/theme-footer.php:126
+msgid "Enable/Disable Image Overlay"
+msgstr "تفعيل / تعطيل غِشاء الصورة"
+
+#: inc/customizer/settings/theme-footer.php:109
+msgid "Background Image"
+msgstr "الصورة الخلفية"
+
+#: inc/customizer/settings/theme-footer.php:88
+msgid "Widgets Layout"
+msgstr "تخطيط الودجات"
+
+#: inc/customizer/settings/theme-footer.php:70
+msgid "Enable/Disable Footer Widgets"
+msgstr "تفعيل / تعطيل تذييل الودجات"
+
+#: inc/customizer/settings/theme-footer.php:12
+msgid "Theme Footer"
+msgstr "تذييل القالب"
+
+#: inc/customizer/settings/site-identity.php:250
+msgid "Site Tagline Color"
+msgstr "لون سطر الوصف الموقع"
+
+#: inc/customizer/settings/site-identity.php:234
+msgid "Site Title Hover Color"
+msgstr "لون التمرير فوق عنوان الموقع"
+
+#: inc/customizer/settings/site-identity.php:218
+msgid "Site Title Color"
+msgstr "لون عنوان الموقع"
+
+#: inc/customizer/settings/site-identity.php:183
+msgid "Display Site Tagline"
+msgstr "عرض سطر وصف الموقع"
+
+#: inc/customizer/settings/site-identity.php:165
+msgid "Display Site Title"
+msgstr "عرض عنوان الموقع"
+
+#: inc/customizer/settings/site-identity.php:150
+msgid "Dark Layout Logo"
+msgstr "شعار الشكل العام الداكن"
+
+#: inc/customizer/settings/site-identity.php:66
+msgid "Logo Width"
+msgstr "عرض الشعار"
+
+#: inc/customizer/settings/archives-options.php:128
+#: inc/customizer/settings/single-post-options.php:122
+msgid "Hide/Show Categories"
+msgstr "إخفاء/عرض التصنيفات"
+
+#: inc/customizer/settings/top-header.php:346
+msgid "Icon Hover Color"
+msgstr "لون المرور فوق الأيقونة"
+
+#: inc/customizer/settings/top-header.php:330
+msgid "Icon Color"
+msgstr "لون الأيقونة"
+
+#: inc/customizer/settings/scroll-to-top.php:130
+msgid "Border Radius"
+msgstr "زوايا الحدود"
+
+#: inc/customizer/settings/scroll-to-top.php:111
+msgid "Arrow Up"
+msgstr "السهم لأعلى"
+
+#: inc/customizer/settings/scroll-to-top.php:104
+msgid "Select Icon"
+msgstr "اختر أيقونة"
+
+#: inc/customizer/settings/scroll-to-top.php:82
+msgid "Choose Position"
+msgstr "اختر الموضع"
+
+#: inc/customizer/settings/scroll-to-top.php:65
+msgid "Enable/Disable Scroll To Top"
+msgstr ""
+
+#: inc/customizer/settings/scroll-to-top.php:12
+msgid "Scroll To Top"
+msgstr ""
+
+#: inc/customizer/settings/news-highlight.php:144
+msgid "Select Post Title"
+msgstr "اختر عنوان المقالة"
+
+#: inc/customizer/settings/news-highlight.php:102 inc/helpers.php:379
+msgid "Category"
+msgstr "تصنيف"
+
+#: inc/customizer/settings/news-highlight.php:96
+msgid "Search By"
+msgstr "البحث بواسطة"
+
+#: inc/customizer/settings/news-highlight.php:13
+msgid "News Highlight"
+msgstr "ملخص الأخبار"
+
+#: inc/customizer/settings/archives-options.php:208
+#: inc/customizer/settings/main-banner.php:236
+msgid "Hide/Show Read More"
+msgstr "إخفاء / عرض اقرأ المزيد"
+
+#: inc/customizer/settings/archives-options.php:78
+#: inc/customizer/settings/main-banner.php:176
+#: inc/customizer/settings/news-highlight.php:185
+#: partials/widgets/post-grid-2-column-slider.php:206
+#: partials/widgets/post-grid-2-column.php:115
+#: partials/widgets/post-grid-3-column-slider.php:178
+#: partials/widgets/post-list-grid-view.php:124
+#: partials/widgets/post-list-view-slider.php:183
+#: partials/widgets/post-overlay-slider.php:292
+#: partials/widgets/single-column.php:117 partials/widgets/tabs.php:253
+msgid "Number of posts to show"
+msgstr "عدد المقالات للعرض"
+
+#: inc/customizer/settings/main-banner.php:118
+#: inc/customizer/settings/main-banner.php:119
+#: inc/customizer/settings/main-banner.php:201
+#: inc/customizer/settings/main-banner.php:202
+#: inc/customizer/settings/main-banner.php:280
+#: inc/customizer/settings/main-banner.php:281
+#: inc/customizer/settings/missed-section.php:139
+#: inc/customizer/settings/missed-section.php:140
+msgid "Oldest"
+msgstr "الأقدم"
+
+#: inc/customizer/settings/main-banner.php:118
+#: inc/customizer/settings/main-banner.php:119
+#: inc/customizer/settings/main-banner.php:201
+#: inc/customizer/settings/main-banner.php:202
+#: inc/customizer/settings/main-banner.php:280
+#: inc/customizer/settings/main-banner.php:281
+#: inc/customizer/settings/missed-section.php:139
+#: inc/customizer/settings/missed-section.php:140
+msgid "Newest"
+msgstr "الأحدث"
+
+#: inc/customizer/settings/main-banner.php:111
+#: inc/customizer/settings/main-banner.php:194
+#: inc/customizer/settings/main-banner.php:273
+#: inc/customizer/settings/missed-section.php:132
+msgid "Orderby"
+msgstr "ترتيب حسب"
+
+#: inc/customizer/settings/main-banner.php:45
+msgid "Enter either spice post slider shortcode or pro package shortcode here"
+msgstr "أدخل إما الكود القصير لمقالة عارض الشرائح Spice أو الكود القصير للحزمة الاحترافية pro هنا"
+
+#: inc/customizer/settings/main-banner.php:44
+msgid "Enter spice slider shortcode here"
+msgstr "أدخل الكود القصير لعارض الشرائح Spice هنا"
+
+#: inc/customizer/settings/main-banner.php:13
+msgid "Main Banner"
+msgstr "البانر الرئيسي"
+
+#: inc/customizer/settings/general-settings.php:1035
+msgid "Skin Color"
+msgstr "لون السطح"
+
+#: inc/customizer/settings/general-settings.php:1016
+msgid "Enable custom color skin"
+msgstr "تفعيل لون السطح المخصص"
+
+#: inc/customizer/settings/general-settings.php:998
+msgid "Theme Color"
+msgstr "Theme Color"
+
+#: inc/customizer/settings/general-settings.php:943
+msgid "Category Color"
+msgstr "لون التصنيف"
+
+#: inc/customizer/settings/general-settings.php:824
+#: inc/customizer/settings/general-settings.php:839
+msgid "Theme Layout"
+msgstr "تخطيط القالب"
+
+#: inc/customizer/settings/general-settings.php:675
+msgid "Page"
+msgstr "صفحة"
+
+#: inc/customizer/settings/general-settings.php:635
+#: inc/customizer/settings/single-post-options.php:12
+msgid "Single Post"
+msgstr "مقالة منفردة"
+
+#: inc/customizer/settings/general-settings.php:562
+msgid "Enable/Disable Banner Image Overlay"
+msgstr "تفعيل / تعطيل غِشاء صورة البانر"
+
+#: inc/customizer/custom_style.php:11
+#: inc/customizer/settings/general-settings.php:535
+#: inc/customizer/settings/scroll-to-top.php:89
+msgid "Left"
+msgstr "اليسار"
+
+#: inc/customizer/settings/general-settings.php:507
+msgid "Bottom"
+msgstr "أسفل"
+
+#: inc/customizer/custom_style.php:13
+#: inc/customizer/settings/general-settings.php:479
+#: inc/customizer/settings/scroll-to-top.php:90
+msgid "Right"
+msgstr "اليمين"
+
+#: inc/customizer/settings/general-settings.php:451
+msgid "Top"
+msgstr "أعلى"
+
+#: inc/customizer/settings/general-settings.php:409
+msgid "Alignment"
+msgstr "المحاذاة"
+
+#: inc/customizer/settings/general-settings.php:342
+#: inc/customizer/settings/single-post-options.php:75
+#: inc/customizer/settings/single-post-options.php:331
+msgid "Div"
+msgstr "Div"
+
+#: inc/customizer/settings/general-settings.php:341
+msgid "Paragraph"
+msgstr "فقرة"
+
+#: inc/customizer/settings/general-settings.php:340
+#: inc/customizer/settings/single-post-options.php:74
+#: inc/customizer/settings/single-post-options.php:330
+msgid "Span"
+msgstr "امتداد"
+
+#: inc/customizer/settings/general-settings.php:321
+msgid "Markup"
+msgstr "الترميز"
+
+#: inc/customizer/settings/general-settings.php:304
+msgid "Content Area"
+msgstr "منطقة المحتوى"
+
+#: inc/customizer/settings/general-settings.php:303
+msgid "Page Header"
+msgstr "الترويسة الصفحة"
+
+#: inc/customizer/settings/general-settings.php:291
+msgid "Position"
+msgstr "الموضع"
+
+#: inc/customizer/settings/general-settings.php:272
+msgid "Enable/Disable Page Title"
+msgstr "تفعيل / تعطيل عنوان الصفحة"
+
+#: inc/customizer/settings/general-settings.php:245
+#: inc/customizer/settings/single-post-options.php:337
+msgid "Page Title"
+msgstr "عنوان الصفحة"
+
+#: inc/customizer/settings/general-settings.php:232
+#: inc/customizer/settings/main-banner.php:27
+msgid "Enable/Disable Banner"
+msgstr "تفعيل / تعطيل البانر"
+
+#: inc/customizer/settings/general-settings.php:218
+msgid "Breadcrumb"
+msgstr "مسار التنقل"
+
+#: inc/customizer/settings/general-settings.php:124
+msgid "Enable/Disable Preloader"
+msgstr "تفعيل / تعطيل المحمل المسبق"
+
+#: inc/customizer/settings/general-settings.php:111
+msgid "Preloader"
+msgstr "المحمل المسبق"
+
+#: inc/customizer/settings/general-settings.php:99
+msgid "Load Google Fonts Locally?"
+msgstr "تحميل خطوط جوجل محليًا؟"
+
+#: inc/customizer/settings/general-settings.php:87
+msgid "Performance(Google Font)"
+msgstr "الأداء (خط جوجل)"
+
+#: inc/customizer/settings/general-settings.php:61
+msgid "Global"
+msgstr "العام"
+
+#: inc/customizer/settings/general-settings.php:49
+#: inc/customizer/settings/general-settings.php:68
+msgid "SEO Optimized Images"
+msgstr "SEO Optimized Images"
+
+#: inc/customizer/settings/reorder-sections.php:112
+#: inc/customizer/settings/single-post-options.php:104
+#: inc/customizer/settings/single-post-options.php:351
+msgid "Drag And Drop to Rearrange"
+msgstr "قم بالسحب والإفلات لإعادة الترتيب"
+
+#: inc/customizer/settings/reorder-sections.php:29
+#: inc/customizer/settings/reorder-sections.php:42
+#: inc/customizer/settings/reorder-sections.php:54
+#: inc/customizer/settings/reorder-sections.php:71
+#: inc/customizer/settings/reorder-sections.php:84
+#: inc/customizer/settings/reorder-sections.php:97
+msgid "Blog"
+msgstr "مدونة"
+
+#: inc/customizer/settings/missed-section.php:13
+#: inc/customizer/settings/reorder-sections.php:31
+#: inc/customizer/settings/reorder-sections.php:44
+#: inc/customizer/settings/reorder-sections.php:55
+#: inc/customizer/settings/reorder-sections.php:73
+#: inc/customizer/settings/reorder-sections.php:86
+#: inc/customizer/settings/reorder-sections.php:98
+msgid "Missed Section"
+msgstr "قسم مفقود"
+
+#: inc/customizer/settings/reorder-sections.php:14
+msgid "Reorder sections"
+msgstr "إعادة ترتيب الأقسام"
+
+#: inc/customizer/settings/featured-video.php:158
+msgid "Enable/Disable blog section on front page"
+msgstr "تفعيل / تعطيل قسم المدونة على الصفحة الرئيسية"
+
+#: inc/customizer/settings/featured-video.php:157
+msgid "Enable/Disable Blog Section"
+msgstr "تفعيل / تعطيل قسم المدونة"
+
+#: inc/customizer/settings/featured-video.php:143
+msgid "Blog Posts"
+msgstr "مقالات المدونة"
+
+#: inc/customizer/settings/featured-video.php:102
+#: inc/customizer/settings/main-banner.php:134
+#: inc/customizer/settings/main-banner.php:217
+#: inc/customizer/settings/main-banner.php:296
+#: inc/customizer/settings/missed-section.php:154
+msgid "Enable/Disable Meta"
+msgstr "تفعيل / تعطيل المنوعات"
+
+#: inc/customizer/settings/featured-video.php:63
+#: inc/customizer/settings/main-banner.php:94
+#: inc/customizer/settings/main-banner.php:154
+#: inc/customizer/settings/main-banner.php:160
+#: inc/customizer/settings/main-banner.php:256
+#: inc/customizer/settings/missed-section.php:111
+#: inc/customizer/settings/missed-section.php:117
+#: inc/customizer/settings/news-highlight.php:118
+#: partials/header/woo-header.php:20
+msgid "Select Category"
+msgstr "اختر التصنيف"
+
+#: inc/customizer/settings/featured-video.php:27
+msgid "Enable/Disable Featured Video"
+msgstr "تفعيل / تعطيل الفيديو المميز"
+
+#: admin/tab-pages/video-tutorials.php:109
+#: inc/customizer/settings/featured-video.php:13
+#: inc/customizer/settings/featured-video.php:38
+#: inc/customizer/settings/reorder-sections.php:27
+#: inc/customizer/settings/reorder-sections.php:40
+#: inc/customizer/settings/reorder-sections.php:69
+#: inc/customizer/settings/reorder-sections.php:82
+#: inc/customizer/settings/reorder-sections.php:95
+#: partials/front/news-video.php:34
+msgid "Featured Video"
+msgstr "الفيديو المميز"
+
+#: inc/customizer/settings/bottom-footer.php:222
+#: inc/customizer/settings/theme-header.php:298
+#: inc/customizer/settings/theme-header.php:363
+msgid "Link Hover Color"
+msgstr "رابط لون المرور فوق"
+
+#: inc/customizer/settings/bottom-footer.php:205
+#: inc/customizer/settings/theme-header.php:282
+#: inc/customizer/settings/theme-header.php:347
+msgid "Link Color"
+msgstr "لون الرابط"
+
+#: inc/customizer/settings/bottom-footer.php:188
+msgid "Text Color"
+msgstr "لون النص"
+
+#: inc/customizer/settings/bottom-footer.php:171
+msgid "Menu Hover Color"
+msgstr "لون المرور فوق القائمة"
+
+#: inc/customizer/settings/bottom-footer.php:154
+msgid "Menu Color"
+msgstr "لون القائمة"
+
+#: inc/customizer/settings/bottom-footer.php:137
+#: inc/customizer/settings/theme-header.php:331
+msgid "Background Color"
+msgstr "لون الخلفية"
+
+#: inc/customizer/settings/bottom-footer.php:120
+#: inc/customizer/settings/scroll-to-top.php:154
+#: inc/customizer/settings/site-identity.php:202
+#: inc/customizer/settings/theme-footer.php:169
+#: inc/customizer/settings/theme-header.php:266
+#: inc/customizer/settings/top-header.php:141
+#: inc/customizer/settings/top-header.php:314
+msgid "Enable/Disable Color"
+msgstr "تفعيل / تعطيل اللون"
+
+#: inc/customizer/settings/bottom-footer.php:101
+msgid "Enable/Disable Footer Menu"
+msgstr "تفعيل / تعطيل قائمة التذييل"
+
+#: inc/customizer/settings/bottom-footer.php:83
+msgid "Copyright Text"
+msgstr " نص حقوق النشر"
+
+#: inc/customizer/settings/bottom-footer.php:77 inc/helpers.php:192
+msgid "Theme"
+msgstr "القالب"
+
+#: inc/customizer/settings/bottom-footer.php:60
+msgid "Enable/Disable Copyright Text"
+msgstr "تفعيل / تعطيل نص حقوق النشر"
+
+#: inc/customizer/settings/bottom-footer.php:35
+#: inc/customizer/settings/missed-section.php:52
+#: inc/customizer/settings/scroll-to-top.php:42
+#: inc/customizer/settings/site-identity.php:40
+#: inc/customizer/settings/theme-footer.php:42
+#: inc/customizer/settings/theme-header.php:59
+#: inc/customizer/settings/top-header.php:50
+#: inc/customizer/settings/top-header.php:247
+msgid "Style"
+msgstr "النمط"
+
+#: inc/customizer/settings/bottom-footer.php:27
+#: inc/customizer/settings/missed-section.php:28
+#: inc/customizer/settings/scroll-to-top.php:28
+#: inc/customizer/settings/site-identity.php:23
+#: inc/customizer/settings/theme-footer.php:27
+#: inc/customizer/settings/theme-header.php:27
+#: inc/customizer/settings/top-header.php:36
+#: inc/customizer/settings/top-header.php:234
+msgid "General"
+msgstr "عام"
+
+#: inc/customizer/settings/bottom-footer.php:12
+msgid "Bottom Footer"
+msgstr "التذييل السفلي"
+
+#: inc/customizer/settings/archives-options.php:192
+#: inc/customizer/settings/single-post-options.php:167
+msgid "Hide/Show Date"
+msgstr "إخفاء / عرض التاريخ"
+
+#: inc/customizer/settings/archives-options.php:144
+#: inc/customizer/settings/single-post-options.php:182
+msgid "Hide/Show Comments"
+msgstr "إخفاء/عرض التعليقات"
+
+#: inc/customizer/settings/archives-options.php:112
+#: inc/customizer/settings/single-post-options.php:137
+msgid "Hide/Show Tag"
+msgstr "إخفاء / عرض الوسم"
+
+#: inc/customizer/settings/archives-options.php:96
+#: inc/customizer/settings/single-post-options.php:152
+msgid "Hide/Show Author"
+msgstr "إخفاء / عرض المؤلف"
+
+#: inc/customizer/settings/archives-options.php:13
+#: inc/customizer/settings/general-settings.php:595
+msgid "Blog/Archives"
+msgstr "مدونة/أرشيف"
+
+#: inc/customizer/customizer-recommended-plugin.php:18
+msgid "Deactivate"
+msgstr "تعطيل"
+
+#: inc/customizer/customizer-recommended-plugin.php:16
+msgid "Install and Activate"
+msgstr "تنصيب وتفعيل"
+
+#: inc/customizer/customizer-recommended-plugin.php:15
+msgid "Recommended Plugin"
+msgstr "الإضافة الموصى بها"
+
+#: inc/customizer/customizer-recommended-plugin.php:14
+msgid "Recommended Actions"
+msgstr "الإجراءات الموصى بها"
+
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:761
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:794
+#: inc/customizer/settings/top-header.php:294
+msgid "Add Icon"
+msgstr "إضافة أيقونة"
+
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:756
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:786
+msgid "Remove Icon"
+msgstr "إزالة الأيقونة"
+
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:739
+#: inc/customizer/settings/top-header.php:295
+msgid "Social icons"
+msgstr "الأيقونات الاجتماعية"
+
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:731
+#: inc/customizer/settings/general-settings.php:205
+msgid "None"
+msgstr "لا شيء"
+
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:726
+msgid "Image type"
+msgstr "نوع الصورة"
+
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:715
+msgid "Upload Image"
+msgstr "رفع الصورة"
+
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:712
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:730
+#: partials/widgets/advertisement.php:96
+msgid "Image"
+msgstr "صورة"
+
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:694
+msgid "Note: Some icons may not be displayed here. You can see the full list of icons at"
+msgstr ""
+
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:689
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:729
+#: inc/customizer/settings/scroll-to-top.php:188
+msgid "Icon"
+msgstr "أيقونة"
+
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:566
+#: partials/widgets/social-icons.php:224 partials/widgets/social-icons.php:232
+#: partials/widgets/social-icons.php:240 partials/widgets/social-icons.php:248
+#: partials/widgets/social-icons.php:256 partials/widgets/social-icons.php:264
+#: partials/widgets/social-icons.php:272 partials/widgets/social-icons.php:280
+msgid "Open link in a new tab"
+msgstr "افتح الرابط في علامة تبويب جديدة"
+
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:428
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:533
+msgid "Delete field"
+msgstr "حذف الحقل"
+
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:414
+msgid "Shortcode"
+msgstr "الكود القصير"
+
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:406
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:453
+msgid "Color"
+msgstr "لون"
+
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:356
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:484
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:753
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:775
+msgid "Link"
+msgstr "رابط"
+
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:347
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:475
+#: partials/widgets/advertisement.php:85
+msgid "Button Text"
+msgstr "نص الزر"
+
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:340
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:468
+#: partials/widgets/advertisement.php:80
+msgid "Description"
+msgstr "وصف"
+
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:333
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:461
+#: inc/customizer/settings/featured-video.php:45
+#: inc/customizer/settings/news-highlight.php:78
+#: inc/customizer/settings/news-highlight.php:103
+#: inc/customizer/settings/woocommerce.php:81 partials/widgets/tabs.php:242
+msgid "Title"
+msgstr "العنوان"
+
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:47
+msgid "Customizer Repeater"
+msgstr "مكرر المخصص"
+
+#: inc/customizer/custom-controls/customizer-repeater/class/customizer-repeater-control.php:42
+msgid "Add new field"
+msgstr "أضف حقل جديد"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "التجاوز إلى المحتوى"
+
+#: functions.php:245
+msgid "Welcome Banner"
+msgstr "بانر الترحيب"
+
+#: functions.php:235
+msgid "Theme Documentation"
+msgstr "وثائق مساعدة القالب"
+
+#: functions.php:231
+msgid "View Live Demos"
+msgstr "مشاهدة العروض التوضيحية المباشرة"
+
+#: functions.php:225 functions.php:227
+msgid "Theme Dashboard"
+msgstr "رئيسية القالب"
+
+#. translators: %s: theme name
+#: functions.php:222
+msgid "is now installed and ready to use. We've provide some links to get you started."
+msgstr ""
+
+#. translators: %1$s: theme name and %2$s: version of the theme
+#. translators: %s: theme name
+#: admin/inc/class-spicethemes-about-page.php:116 functions.php:217
+msgid "Welcome to"
+msgstr "مرحبًا بك في"
+
+#: functions.php:208
+msgid "Hello"
+msgstr "مرحبا"
+
+#: functions.php:90
+msgid "Footer Menu"
+msgstr "Footer Menu"
+
+#: functions.php:89
+msgid "Primary Menu"
+msgstr "القائمة الرئيسية"
+
+#. Template Name of the theme
+msgid "Full Width Page"
+msgstr "صفحة بعرض كامل"
+
+#: comments.php:86 comments.php:92
+msgid "Post Comment"
+msgstr "إرسال التعليق"
+
+#: comments.php:84
+msgid "Log out"
+msgstr "تسجيل الخروج"
+
+#: comments.php:84
+msgid "Log out from this Account"
+msgstr "تسجيل الخروج من هذا الحساب"
+
+#: comments.php:84
+msgid "Logged in as"
+msgstr "تسجيل الدخول ك"
+
+#: comments.php:80 inc/helpers.php:1198 inc/helpers.php:1300
+#: partials/widgets/featured-post.php:38 partials/widgets/featured-post.php:180
+#: partials/widgets/single-column.php:34 partials/widgets/single-column.php:94
+#: partials/widgets/single-column.php:139 template-parts/content-blog.php:64
+#: template-parts/content-list.php:86 template-parts/content-overlay.php:85
+#: template-parts/content-search.php:62 template-parts/content-single.php:75
+#: template-parts/content.php:71
+msgid "Comments"
+msgstr "تعليقات"
+
+#: comments.php:66
+msgid "Email"
+msgstr "البريد الالكتروني"
+
+#: comments.php:59
+msgid "Name"
+msgstr "الاسم"
+
+#: comments.php:51
+msgid "Comments are closed."
+msgstr "التعليقات مغلقة."
+
+#. translators: 1: title.
+#: comments.php:29
+msgid "1 comment"
+msgstr "تعليق واحد"
+
+#: admin/tab-pages/getting-started.php:125
+msgid "Pre-sales enquiry"
+msgstr "استعلام ما قبل البيع"
+
+#: admin/tab-pages/getting-started.php:121
+msgid "Premium Version"
+msgstr "نسخة الاحترافية Premium"
+
+#: admin/tab-pages/getting-started.php:117 functions.php:377
+msgid "Changelog"
+msgstr "سجّل التغيير"
+
+#: admin/tab-pages/getting-started.php:113
+msgid "Free vs Pro"
+msgstr "مجانا مقابل احترافي"
+
+#: admin/tab-pages/getting-started.php:109
+msgid "Your feedback is valuable to us"
+msgstr "ملاحظاتك مهمة بالنسبة لنا"
+
+#: admin/tab-pages/getting-started.php:105
+msgid "Support"
+msgstr "الدعم"
+
+#: admin/tab-pages/getting-started.php:101
+msgid "Documentation"
+msgstr "Documentation"
+
+#: admin/tab-pages/getting-started.php:97
+msgid "Theme Demos"
+msgstr "عرض توضيحي للقالب"
+
+#: admin/tab-pages/getting-started.php:93
+msgid "Theme Detail"
+msgstr "تفاصيل القالب"
+
+#: admin/tab-pages/getting-started.php:88
+msgid "Useful Links"
+msgstr "روابط مفيدة"
+
+#: admin/tab-pages/getting-started.php:80
+msgid "Widgets"
+msgstr "الودجات"
+
+#: admin/tab-pages/getting-started.php:76 inc/customizer/custom_style.php:17
+#: inc/customizer/custom_style.php:20
+msgid "Menus"
+msgstr "قوائم"
+
+#: admin/tab-pages/getting-started.php:72
+msgid "Footer Widgets"
+msgstr "تذييل الودجات "
+
+#: admin/tab-pages/getting-started.php:68
+msgid "Social Icons"
+msgstr "أيقونات اجتماعية"
+
+#: admin/tab-pages/getting-started.php:64
+#: inc/customizer/settings/general-settings.php:577
+msgid "Sidebar Layout"
+msgstr "الشكل العام للشريط الجانبي"
+
+#: admin/tab-pages/getting-started.php:60
+msgid "Header Section"
+msgstr "قسم الترويسة"
+
+#: admin/tab-pages/getting-started.php:56
+msgid "Site Layout"
+msgstr "Site Layout"
+
+#: admin/tab-pages/getting-started.php:52
+msgid "Site Logo"
+msgstr "شعار الموقع"
+
+#: admin/tab-pages/getting-started.php:47
+msgid "Theme Features"
+msgstr "ميزات القالب"
+
+#. translators: %s: theme name
+#: admin/tab-pages/getting-started.php:13
+msgid "Theme Configuration"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:542
+msgid "We highly recommend installing and activating the Seo Optimized Images plugin, which will dynamically insert SEO-friendly alt attributes and title attributes to enhance your image optimization."
+msgstr "نوصي بشدة بتنصيب وتفعيل الإضافة Seo Optimized Images ، والذي ستدرج ديناميكيًا سمات بديلة ملائمة لتحسين محركات البحث وسمات العنوان لتعزيز تحسين الصورة الخاصة بك."
+
+#: admin/inc/class-spicethemes-about-page.php:537
+msgid "To add the social share buttons to your posts, install & activate this plugin."
+msgstr "لإضافة أزرار المشاركة الاجتماعية إلى مقالاتك ، قم بتنصيب هذه الإضافة وتفعيلها."
+
+#: admin/inc/class-spicethemes-about-page.php:532
+msgid "To display the posts in a beautiful slider with multiple options, install & activate this plugin."
+msgstr "لعرض المقالات في شريط تمرير جميل بخيارات متعددة ، قم بتنصيب وتفعيل هذه الإضافة."
+
+#: admin/inc/class-spicethemes-about-page.php:527
+msgid "To add a different banner image for a different page or post, install & activate this plugin."
+msgstr "لإضافة صورة بانر مختلفة لصفحة أو مقالة مختلفة ، قم بتنصيب وتفعيل هذه الإضافة."
+
+#: admin/inc/class-spicethemes-about-page.php:522
+msgid "To enable the display of breadcrumbs, please install and activate this plugin."
+msgstr "لتمكين عرض مسارات التنقل ، يرجى تنصيب وتفعيل هذا الإضافة."
+
+#: admin/inc/class-spicethemes-about-page.php:517
+msgid "To display the contact form, install & activate this plugin."
+msgstr "لعرض نموذج الاتصال ، يرجى تنصيب و تفعيل هذه الإضافة."
+
+#: admin/inc/class-spicethemes-about-page.php:369
+msgid "Active"
+msgstr "تفعيل"
+
+#: admin/inc/class-spicethemes-about-page.php:353
+msgid "Activate Import Plugin"
+msgstr "قم بتفعيل استيراد الإضافة"
+
+#. translators: %s: theme name
+#: admin/inc/class-spicethemes-about-page.php:349
+#: admin/inc/class-spicethemes-about-page.php:360
+#: inc/customizer/customizer-recommended-plugin.php:17
+msgid "Activate"
+msgstr "التفعيل"
+
+#: inc/customizer/upsell/class-customize.php:75
+#: inc/customizer/upsell/class-customize.php:87
+#: inc/customizer/upsell/class-customize.php:97
+msgid "Import Demo"
+msgstr "استيراد  العرض التوضيحي"
+
+#: admin/inc/class-spicethemes-about-page.php:331
+msgid "Install and activate"
+msgstr "التنصيب والتفعيل"
+
+#: admin/inc/class-spicethemes-about-page.php:105
+msgid "View Theme Info"
+msgstr "عرض معلومات القالب"
+
+#: admin/inc/class-spicethemes-about-page.php:70
+msgid "Error"
+msgstr "خطأ"
+
+#: admin/inc/class-spicethemes-about-page.php:69
+#: inc/customizer-notify/newscrunch-customizer-notify.php:108
+msgid "Activating"
+msgstr "يتم التنشيط"
+
+#: admin/inc/class-spicethemes-about-page.php:68
+msgid "Installing"
+msgstr "جاري التنصيب"
+
+#: 404.php:25
+msgid "404 Image"
+msgstr "صورة 404"
+
+#: 404.php:21
+msgid "Back to Home"
+msgstr "العودة إلى الرئيسية"
+
+#: 404.php:18
+msgid "Oops! Page not found"
+msgstr "عفوا! الصفحة غير موجودة!"
+
+#: 404.php:17 inc/helpers.php:376
+msgid "Error 404"
+msgstr "خطأ 404"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://spicethemes.com/newscrunch"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://spicethemes.com"
+msgstr "https://spicethemes.com"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "spicethemes"
+msgstr "spicethemes"

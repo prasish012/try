@@ -1,0 +1,992 @@
+# Translation of Themes - NewsExo in Japanese
+# This file is distributed under the same license as the Themes - NewsExo package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-09-10 16:36:30+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - NewsExo\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "NewsExo is a clean, stylish, and, powerful WordPress theme for News Blog & Magazine websites. It has a unique design for a visually stunning layout that makes your content displays beautiful and easy to read for any media device. Even it is user-friendly, SEO-ready, effortlessly, lightweight, and optimized for top performance and Core Web Vitals. The theme is best suitable for news, newspapers, magazines, publishers, editors, news portals, personal blogs, dynamic news, business blogs, news editorials, guides, journalism, lifestyle blogs, travel blogs, niche blog, food blog, fashion magazine, beauty blog, affiliate blog, multimedia blog, guest blogging and reviews websites. It also has flexible and versatile layouts enough for essential needs with unlimited colors, unlimited Google fonts, typography, responsive design, and Rtl language support. It is designed to be highly SEO-friendly that can help optimize your website on search engine performance, making it easier to find for potential visitors and the theme provides predefined beautiful demos that can be imported with one click in less time. NewsExo also supports popular free and premium WordPress plugins such as Elementor, Yoast SEO, WooCommerce, Gutenberg, Contact Form 7, Jetpack, Google Analytics, and much more. Check the demo of NewsExo Pro https://newsexo-pro.themearile.com/."
+msgstr ""
+
+#. Theme Name of the theme
+#: style.css inc/template-functions.php:389
+#, gp-priority: high
+msgid "NewsExo"
+msgstr "NewsExo"
+
+#: inc/customizer/newsexo-customizer-options.php:337
+msgid "Read More Button Text"
+msgstr "「続きを読む」ボタンのテキスト"
+
+#: inc/template-functions.php:547
+msgid "Support"
+msgstr "サポート"
+
+#: template-parts/widgets/register-sidebars.php:105
+msgid "Footer Sidebar Four"
+msgstr "フッターサイドバー4"
+
+#: template-parts/widgets/register-sidebars.php:90
+msgid "Footer Sidebar Three"
+msgstr "フッターサイドバー3"
+
+#: template-parts/widgets/register-sidebars.php:77
+#: template-parts/widgets/register-sidebars.php:92
+#: template-parts/widgets/register-sidebars.php:107
+msgid "Add widgets in footer widget area"
+msgstr "フッターウィジェットエリアにウィジェットを追加する"
+
+#: template-parts/widgets/register-sidebars.php:75
+msgid "Footer Sidebar Two"
+msgstr "フッターサイドバー2"
+
+#: template-parts/widgets/register-sidebars.php:62
+msgid "Add widgets in footer widget area one"
+msgstr "フッターウィジェットエリア 3 にウィジェットを追加する"
+
+#: template-parts/widgets/register-sidebars.php:60
+msgid "Footer Sidebar One"
+msgstr "フッターサイドバー1"
+
+#: template-parts/widgets/register-sidebars.php:47
+msgid "Add widgets in frontpage sidebar"
+msgstr "フロントサイドバーにウィジェットを追加"
+
+#: template-parts/widgets/register-sidebars.php:45
+msgid "FrontPage Sidebar"
+msgstr ""
+
+#: template-parts/widgets/register-sidebars.php:31
+#: template-parts/widgets/register-sidebars.php:47
+msgid "widget area"
+msgstr "ウィジェットエリア"
+
+#: template-parts/widgets/register-sidebars.php:31
+msgid "Add widgets in front page"
+msgstr "フロントページにウィジェットを追加"
+
+#: template-parts/widgets/register-sidebars.php:29
+msgid "FrontPage Content"
+msgstr "左前コンテンツ"
+
+#: template-parts/widgets/register-sidebars.php:15
+msgid "Add widgets in primary sidebar widget area"
+msgstr "右側のサイドバーのウィジェットのエリアにウィジェットを追加"
+
+#: template-parts/widgets/register-sidebars.php:13
+msgid "Primary Sidebar"
+msgstr "メインサイドバー"
+
+#: template-parts/widgets/list-view-news2.php:16
+msgid "NewsExo : List View News 2"
+msgstr ""
+
+#: template-parts/widgets/list-view-news.php:19
+#: template-parts/widgets/list-view-news2.php:19
+msgid "Display your blog in a grid view with a list layout"
+msgstr "ブログをリストレイアウトのグリッド ビューで表示"
+
+#: template-parts/widgets/list-view-news.php:16
+msgid "NewsExo : List View News"
+msgstr ""
+
+#: template-parts/widgets/grid-view-news.php:142
+#: template-parts/widgets/list-view-news.php:142
+#: template-parts/widgets/list-view-news2.php:98
+msgid "All Category"
+msgstr "すべてのカテゴリー"
+
+#: template-parts/widgets/grid-view-news.php:140
+#: template-parts/widgets/list-view-news.php:140
+#: template-parts/widgets/list-view-news2.php:96
+msgid "Categories"
+msgstr "カテゴリー"
+
+#: template-parts/widgets/grid-view-news.php:135
+#: template-parts/widgets/list-view-news.php:135
+#: template-parts/widgets/list-view-news2.php:91
+msgid "Widget Title"
+msgstr "ウィジェット名"
+
+#: template-parts/widgets/grid-view-news.php:129
+#: template-parts/widgets/list-view-news.php:129
+#: template-parts/widgets/list-view-news2.php:85
+msgid "Widget title"
+msgstr "ウィジェット名"
+
+#: template-parts/widgets/grid-view-news.php:19
+msgid "Display your blog in a grid view layout"
+msgstr "ブログをリストレイアウトのグリッド ビューで表示"
+
+#: template-parts/widgets/grid-view-news.php:16
+msgid "NewsExo : Grid View News"
+msgstr ""
+
+#: template-parts/site-navbar.php:57 template-parts/site-navbar.php:69
+msgid "Search here"
+msgstr "検索する"
+
+#: template-parts/index-you-may-have-missed.php:4
+msgid "YOU MAY HAVE MISSED"
+msgstr ""
+
+#: template-parts/index-trending-news.php:3
+msgid "TRENDING NEWS"
+msgstr ""
+
+#: template-parts/content-single.php:88
+msgid "Website"
+msgstr "サイト"
+
+#: template-parts/content-none.php:42
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "お探しのコンテンツを見つけられませんでした。検索をお試しください。"
+
+#: template-parts/content-none.php:35
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "検索キーワードに一致するものが見つかりませんでした。 別のキーワードで試してみてください。"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:22
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "最初の投稿を公開する準備はできましたか ? <a href=\"%1$s\">ここから始めましょう</a>。"
+
+#: template-parts/content-archive.php:54 template-parts/content-page.php:22
+#: template-parts/content.php:54
+msgid "Pages:"
+msgstr "固定ページ:"
+
+#: searchform.php:4
+msgid "Go"
+msgstr "実行"
+
+#: searchform.php:2 template-parts/site-navbar.php:70
+msgid "Search"
+msgstr "検索"
+
+#. Template Name of the theme
+msgid "Builder Page"
+msgstr "ビルダーページ"
+
+#. Template Name of the theme
+msgid "Frontpage"
+msgstr "フロントページ"
+
+#: inc/template-functions.php:572
+msgid "Blog"
+msgstr "ブログ"
+
+#: inc/template-functions.php:549
+msgid "Upgrade to Pro"
+msgstr "プロ版にアップグレード"
+
+#: inc/template-functions.php:548
+msgid "Free vs Pro"
+msgstr "無料版とプロ版の違い"
+
+#: inc/template-functions.php:535
+msgid "Arile Demo Importer"
+msgstr "テーマデモのインポートツール"
+
+#: inc/template-functions.php:534
+msgid "Arile Demo Import"
+msgstr "デモのインポートについて"
+
+#: inc/template-functions.php:383
+msgid "View Demos"
+msgstr "デモを表示"
+
+#: inc/template-functions.php:378
+msgid "View Documentation"
+msgstr "ドキュメンテーションを表示"
+
+#: inc/template-functions.php:374
+msgid "Customize Site"
+msgstr "サイトをカスタマイズ"
+
+#: inc/template-functions.php:372
+msgid "Starter Sites"
+msgstr "スターターサイト"
+
+#: inc/template-functions.php:367
+msgid "Thank you for choosing %1$s theme. To take full advantage of the complete features of the theme click the Starter Sites and Install and Activate the plugin then use the demo importer and install the %1$s Demo according to your need."
+msgstr ""
+
+#: inc/template-functions.php:363
+msgid "Welcome to %1$s"
+msgstr "%1$s へようこそ"
+
+#: inc/template-functions.php:355
+msgid "Hello, "
+msgstr "こんにちは"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-functions.php:190
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "編集 <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/template-functions.php:168
+msgid "Error 404"
+msgstr "エラー 404"
+
+#: inc/template-functions.php:131
+msgid "Archive by category"
+msgstr "カテゴリー別アーカイブ"
+
+#: inc/template-functions.php:126 inc/template-functions.php:129
+#: inc/template-functions.php:572
+msgid "Home"
+msgstr "ホームページ"
+
+#: inc/customizer/newsexo-customizer-options.php:331
+#: inc/template-functions.php:80 inc/template-functions.php:219
+#: template-parts/content-archive.php:52 template-parts/content-single.php:65
+#: template-parts/content.php:52 template-parts/widgets/grid-view-news.php:112
+#: template-parts/widgets/list-view-news.php:112
+msgid "Read More"
+msgstr "「続きを読む」"
+
+#: inc/template-functions.php:63
+msgid "Your comment is awaiting moderation."
+msgstr "あなたのコメントは承認待ちです。"
+
+#: inc/template-functions.php:55
+msgid "at"
+msgstr "@"
+
+#: inc/customizer/newsexo-panels-and-sections.php:217
+msgid "Theme Color Scheme"
+msgstr "テーマ配色"
+
+#: inc/customizer/newsexo-panels-and-sections.php:209
+msgid "Frontpage Section Ordering"
+msgstr "ホームページセクションのオーダー"
+
+#: inc/customizer/newsexo-panels-and-sections.php:199
+msgid "Widgets"
+msgstr "ウィジェット"
+
+#: inc/customizer/newsexo-panels-and-sections.php:191
+msgid "Headings H6"
+msgstr "見出し 6"
+
+#: inc/customizer/newsexo-panels-and-sections.php:185
+msgid "Headings H5"
+msgstr "見出し 5"
+
+#: inc/customizer/newsexo-panels-and-sections.php:179
+msgid "Headings H4"
+msgstr "見出し 4"
+
+#: inc/customizer/newsexo-panels-and-sections.php:173
+msgid "Headings H3"
+msgstr "見出し 3"
+
+#: inc/customizer/newsexo-panels-and-sections.php:167
+msgid "Headings H2"
+msgstr "見出し 2"
+
+#: inc/customizer/newsexo-panels-and-sections.php:161
+msgid "Headings H1"
+msgstr "見出し 1"
+
+#: inc/customizer/newsexo-panels-and-sections.php:154
+msgid "Menu Bar"
+msgstr "メニューバー"
+
+#: inc/customizer/newsexo-panels-and-sections.php:147
+msgid "Base Typography"
+msgstr "ベースタイポグラフィ"
+
+#: inc/customizer/newsexo-panels-and-sections.php:134
+msgid "Typography"
+msgstr "タイポグラフィ"
+
+#: inc/customizer/newsexo-panels-and-sections.php:123
+msgid "Scroll to Top"
+msgstr "トップにスクロール"
+
+#: inc/customizer/newsexo-panels-and-sections.php:116
+msgid "Footer Copyright"
+msgstr "フッターの著作権"
+
+#: inc/customizer/newsexo-panels-and-sections.php:109
+msgid "Footer Widgets"
+msgstr "フッターウィジェット"
+
+#: inc/customizer/newsexo-panels-and-sections.php:94
+msgid "Category Colors"
+msgstr "カテゴリーの色"
+
+#: inc/customizer/newsexo-panels-and-sections.php:86
+msgid "Breadcrumbs"
+msgstr "パンくず"
+
+#: inc/customizer/newsexo-panels-and-sections.php:78
+msgid "Single Post"
+msgstr "個別投稿"
+
+#: inc/customizer/newsexo-panels-and-sections.php:70
+msgid "Blog/Archive Post"
+msgstr ""
+
+#: inc/customizer/newsexo-panels-and-sections.php:62
+msgid "Layout Settings"
+msgstr "レイアウト設定"
+
+#: inc/customizer/newsexo-panels-and-sections.php:53
+msgid "MenuBar Options"
+msgstr ""
+
+#: inc/customizer/newsexo-panels-and-sections.php:44
+msgid "Site Layout"
+msgstr "サイト配置"
+
+#: inc/customizer/newsexo-panels-and-sections.php:36
+msgid "Site Style"
+msgstr "サイトスタイル"
+
+#: inc/customizer/newsexo-panels-and-sections.php:28
+msgid "Site Animation"
+msgstr "アニメーションを貼り付け"
+
+#: inc/customizer/newsexo-panels-and-sections.php:20
+msgid "Preloader"
+msgstr "プリローダー"
+
+#: inc/customizer/newsexo-panels-and-sections.php:12
+msgid "Theme Options"
+msgstr "テーマオプション"
+
+#: inc/customizer/newsexo-customizer-options.php:369
+msgid "Copyright Text"
+msgstr "著作権テキスト"
+
+#: inc/customizer/newsexo-customizer-options.php:364
+msgid "Copyright &copy; 2025 | Powered by <a href=\"//wordpress.org/\">WordPress</a>"
+msgstr "著作権 &copy; 2025 | <a href=\"//wordpress.org/\">WordPress</a> で作成"
+
+#: inc/customizer/newsexo-customizer-options.php:348
+msgid "Related Story"
+msgstr "関連記事"
+
+#: inc/customizer/newsexo-customizer-options.php:299
+#: template-parts/index-featured-news.php:3
+msgid "FEATURED NEWS"
+msgstr "FEATURED NEWS"
+
+#: inc/customizer/newsexo-customizer-options.php:273
+msgid "Social Icons Text"
+msgstr "ソーシャル アイコン メニュー"
+
+#: inc/customizer/newsexo-customizer-options.php:267
+#: template-parts/site-header.php:6
+msgid "Follow Us"
+msgstr "フォロー"
+
+#: inc/customizer/newsexo-customizer-options.php:246
+msgid "Upgrade Pro"
+msgstr "プロ版にアップグレード"
+
+#: inc/customizer/newsexo-customizer-options.php:245
+msgid "NewsExo Pro Available!"
+msgstr " NewsExo Pro がご利用いただけます"
+
+#: inc/customizer/newsexo-customizer-options.php:153
+#: inc/customizer/newsexo-customizer-options.php:166
+#: inc/customizer/newsexo-customizer-options.php:179
+#: inc/customizer/newsexo-customizer-options.php:192
+#: inc/customizer/newsexo-customizer-options.php:205
+#: inc/customizer/newsexo-customizer-options.php:218
+#: inc/customizer/newsexo-customizer-options.php:231
+msgid "Font Family"
+msgstr "フォントファミリー"
+
+#: inc/customizer/newsexo-customizer-options.php:142
+msgid "News Category"
+msgstr "ニュースカテゴリー"
+
+#: inc/customizer/newsexo-customizer-options.php:136
+#: inc/customizer/newsexo-customizer-options.php:315
+msgid "You May Have Missed"
+msgstr "見逃したかもしれません"
+
+#: inc/customizer/newsexo-customizer-options.php:128
+msgid "Featured News Category"
+msgstr "おすすめニュースカテゴリー"
+
+#: inc/customizer/newsexo-customizer-options.php:121
+msgid "Featured News"
+msgstr "おすすめの新着情報"
+
+#: inc/customizer/newsexo-customizer-options.php:110
+msgid "Static News Category"
+msgstr "おすすめニュースカテゴリー"
+
+#: inc/customizer/newsexo-customizer-options.php:98
+msgid "Slider News Category"
+msgstr "ホームニュースカテゴリー"
+
+#: inc/customizer/newsexo-customizer-options.php:91
+msgid "News Slider"
+msgstr ""
+
+#: inc/customizer/newsexo-customizer-options.php:84
+msgid "Blog/News Category"
+msgstr ""
+
+#: inc/customizer/newsexo-customizer-options.php:79
+#: inc/customizer/newsexo-customizer-options.php:283
+msgid "Trending News"
+msgstr "今人気のニュース"
+
+#: inc/customizer/newsexo-customizer-options.php:70
+msgid "Best Recommended Size is (980px*90px)."
+msgstr ""
+
+#: inc/customizer/newsexo-customizer-options.php:69
+msgid "Banner Image"
+msgstr "バナー画像"
+
+#: inc/customizer/newsexo-customizer-options.php:57
+msgid "Header Banner"
+msgstr "ヘッダーバナー"
+
+#: inc/customizer/newsexo-customizer-options.php:46
+msgid "Social Icon"
+msgstr "ソーシャルアイコン"
+
+#: inc/customizer/newsexo-customizer-options.php:45
+msgid "Add new icon"
+msgstr "新規アイコンを追加"
+
+#: inc/customizer/newsexo-customizer-options.php:43
+msgid "Social Items Content"
+msgstr ""
+
+#: inc/customizer/newsexo-customizer-options.php:34
+msgid "Site Top Header"
+msgstr "トップヘッダーを表示"
+
+#: inc/customizer/newsexo-customizer-options.php:29
+msgid "Frontpage Sections"
+msgstr "フロントページセクション"
+
+#: inc/customizer/customizer-settings/theme-settings/newsexo-typography-customizer-settings.php:49
+msgid "You can enter size in px or rem "
+msgstr ""
+
+#: inc/customizer/customizer-settings/theme-settings/newsexo-typography-customizer-settings.php:48
+msgid "Font Size"
+msgstr "フォントサイズ"
+
+#: inc/customizer/customizer-settings/theme-settings/newsexo-typography-customizer-settings.php:32
+#: inc/customizer/newsexo-panels-and-sections.php:140
+msgid "Enable Typography"
+msgstr ""
+
+#: inc/customizer/customizer-settings/theme-settings/newsexo-theme-breadcrumbs-customizer-settings.php:40
+msgid "Breadcrumb Enable/Disable "
+msgstr ""
+
+#: inc/customizer/customizer-settings/theme-settings/newsexo-theme-breadcrumbs-customizer-settings.php:27
+msgid "Breadcrumb Settings"
+msgstr "パンくずリスト設定"
+
+#: inc/customizer/customizer-settings/theme-settings/newsexo-site-animation-customizer-settings.php:58
+msgid "Logo Width"
+msgstr "ロゴ幅"
+
+#: inc/customizer/customizer-settings/theme-settings/newsexo-site-animation-customizer-settings.php:42
+msgid "Site Animation Enable/Disable"
+msgstr ""
+
+#: inc/customizer/customizer-settings/theme-settings/newsexo-site-animation-customizer-settings.php:29
+msgid "Site Animation Settings"
+msgstr ""
+
+#: inc/customizer/customizer-settings/theme-settings/newsexo-single-post-customizer-settings.php:52
+msgid "Related Post Settings"
+msgstr ""
+
+#: inc/customizer/customizer-settings/theme-settings/newsexo-single-post-customizer-settings.php:42
+msgid "Post Author Enable/Disable"
+msgstr ""
+
+#: inc/customizer/customizer-settings/theme-settings/newsexo-single-post-customizer-settings.php:29
+msgid "Single Post Settings"
+msgstr "個別投稿設定"
+
+#: inc/customizer/customizer-settings/theme-settings/newsexo-preloader-customizer-settings.php:42
+msgid "Preloader Enable/Disable"
+msgstr ""
+
+#: inc/customizer/customizer-settings/theme-settings/newsexo-preloader-customizer-settings.php:29
+msgid "Preloader Settings"
+msgstr "プリローダー設定"
+
+#: inc/customizer/customizer-settings/theme-settings/newsexo-menu-bar-customizer-settings.php:59
+msgid "Search Icon Enable/Disable"
+msgstr "検索アイコンの有効化/無効化"
+
+#: inc/customizer/customizer-settings/theme-settings/newsexo-menu-bar-customizer-settings.php:46
+msgid "Static"
+msgstr "静的"
+
+#: inc/customizer/customizer-settings/theme-settings/newsexo-menu-bar-customizer-settings.php:45
+msgid "Sticky"
+msgstr "先頭に固定表示"
+
+#: inc/customizer/customizer-settings/theme-settings/newsexo-menu-bar-customizer-settings.php:42
+msgid "Menu Style"
+msgstr "メニュースタイル"
+
+#: inc/customizer/customizer-settings/theme-settings/newsexo-menu-bar-customizer-settings.php:27
+msgid "Menu Settings"
+msgstr "メニュー設定"
+
+#: inc/customizer/customizer-settings/theme-settings/newsexo-header-customizer-settings.php:56
+msgid "Background color"
+msgstr "背景色"
+
+#: inc/customizer/customizer-settings/theme-settings/newsexo-header-customizer-settings.php:29
+#: inc/customizer/newsexo-customizer-options.php:22
+msgid "Header Options"
+msgstr "ヘッダー設定"
+
+#: inc/customizer/customizer-settings/theme-settings/newsexo-footer-widget-customizer-settings.php:30
+msgid "Footer Widget Area Enable/Disable"
+msgstr "フッターウィジェットエリアの有効化/無効化"
+
+#: inc/customizer/customizer-settings/theme-settings/newsexo-footer-copyright-customizer-settings.php:29
+msgid "Footer Copyright Enable/Disable"
+msgstr "フッターの著作権の有効化/無効化"
+
+#: inc/customizer/customizer-settings/theme-settings/newsexo-blog-general-customizer-settings.php:110
+msgid "Single Blog"
+msgstr "単一のブログ"
+
+#: inc/customizer/customizer-settings/theme-settings/newsexo-blog-general-customizer-settings.php:82
+msgid "Archive Blog"
+msgstr "アーカイブブログ"
+
+#: inc/customizer/customizer-settings/theme-settings/newsexo-blog-general-customizer-settings.php:54
+msgid "Blog Page"
+msgstr "ブログページ"
+
+#: inc/customizer/customizer-settings/theme-settings/newsexo-blog-general-customizer-settings.php:39
+#: inc/customizer/customizer-settings/theme-settings/newsexo-blog-general-customizer-settings.php:67
+#: inc/customizer/customizer-settings/theme-settings/newsexo-blog-general-customizer-settings.php:95
+#: inc/customizer/customizer-settings/theme-settings/newsexo-blog-general-customizer-settings.php:123
+msgid "Layout"
+msgstr "レイアウト"
+
+#: inc/customizer/customizer-settings/theme-settings/newsexo-blog-general-customizer-settings.php:26
+msgid "Default Page"
+msgstr "デフォルトページ"
+
+#: inc/customizer/customizer-settings/theme-settings/newsexo-archive-post-customizer-settings.php:47
+msgid "Full Content"
+msgstr "全文"
+
+#: inc/customizer/customizer-settings/theme-settings/newsexo-archive-post-customizer-settings.php:46
+msgid "Excerpt"
+msgstr "抜粋"
+
+#: inc/customizer/customizer-settings/theme-settings/newsexo-archive-post-customizer-settings.php:43
+msgid "Post Content"
+msgstr "投稿のコンテンツ"
+
+#: inc/customizer/customizer-settings/theme-settings/newsexo-archive-post-customizer-settings.php:29
+msgid "Blog/Archive Settings"
+msgstr "ブログ/アーカイブ/シングル"
+
+#: inc/customizer/customizer-settings/home/newsexo-home-you-have-missed-customizer-settings.php:28
+msgid "You May Have Missed Settings"
+msgstr "設定を見逃した可能性があります"
+
+#: inc/customizer/customizer-settings/home/newsexo-home-trending-news-customizer-settings.php:55
+msgid "Disable Trending News section on blog page"
+msgstr "ブログページにトレンド投稿セクションを表示します。"
+
+#: inc/customizer/customizer-settings/home/newsexo-home-trending-news-customizer-settings.php:42
+msgid "Enable/Disable"
+msgstr "有効／無効"
+
+#: inc/customizer/customizer-settings/home/newsexo-home-trending-news-customizer-settings.php:28
+msgid "Trending News Settings"
+msgstr "ニュース速報設定"
+
+#: inc/customizer/customizer-settings/home/newsexo-home-site-top-header-customizer-settings.php:78
+msgid "Social Icons"
+msgstr "SNS アイコン"
+
+#: inc/customizer/customizer-settings/home/newsexo-home-site-top-header-customizer-settings.php:68
+msgid "Social Icons Enable/Disable"
+msgstr "ソーシャルアイコンの有効化/無効化"
+
+#: inc/customizer/customizer-settings/home/newsexo-home-site-top-header-customizer-settings.php:55
+msgid "Day & Date Enable/Disable"
+msgstr "曜日と日付の有効化/無効化"
+
+#: inc/customizer/customizer-settings/home/newsexo-home-site-top-header-customizer-settings.php:42
+#: inc/customizer/customizer-settings/theme-settings/newsexo-header-customizer-settings.php:42
+msgid "Header Enable/Disable"
+msgstr "ヘッダーの有効化/無効化"
+
+#: inc/customizer/customizer-settings/home/newsexo-home-site-top-header-customizer-settings.php:29
+msgid "Top Header Options"
+msgstr "上部ヘッダー設定"
+
+#: inc/customizer/customizer-settings/home/newsexo-home-news-slider-customizer-settings.php:65
+msgid "Static News"
+msgstr "静的ニュース"
+
+#: inc/customizer/customizer-settings/home/newsexo-home-news-slider-customizer-settings.php:55
+msgid "Disable News Slider section on blog page"
+msgstr "ブログページのニューススライダーセクションを無効にする"
+
+#: inc/customizer/customizer-settings/home/newsexo-home-news-slider-customizer-settings.php:42
+#: inc/customizer/customizer-settings/home/newsexo-home-you-have-missed-customizer-settings.php:42
+msgid "Section Enable/Disable"
+msgstr "セクションの有効化/無効化"
+
+#: inc/customizer/customizer-settings/home/newsexo-home-news-slider-customizer-settings.php:28
+msgid "News Slider Settings"
+msgstr "スライダー設定"
+
+#: inc/customizer/customizer-settings/home/newsexo-home-header-banner-customizer-settings.php:69
+msgid "Banner Link"
+msgstr "バナーリンク"
+
+#: inc/customizer/customizer-settings/home/newsexo-home-header-banner-customizer-settings.php:55
+msgid "Logo center will be enabled when the banner is disabled"
+msgstr "バナーが無効になっている場合、ロゴセンターが有効になります"
+
+#: inc/customizer/customizer-settings/home/newsexo-home-header-banner-customizer-settings.php:54
+msgid "Display Logo Center Enable/Disable"
+msgstr "ロゴセンターの表示 有効/無効"
+
+#: inc/customizer/customizer-settings/home/newsexo-home-header-banner-customizer-settings.php:41
+msgid "Banner Enable/Disable"
+msgstr "バナーの有効化/無効化"
+
+#: inc/customizer/customizer-settings/home/newsexo-home-header-banner-customizer-settings.php:28
+msgid "Banner Advertisement Settings"
+msgstr "バナー広告設定"
+
+#: inc/customizer/customizer-settings/home/newsexo-home-featured-news-customizer-settings.php:51
+#: inc/customizer/customizer-settings/home/newsexo-home-news-slider-customizer-settings.php:75
+#: inc/customizer/customizer-settings/home/newsexo-home-trending-news-customizer-settings.php:65
+#: inc/customizer/customizer-settings/home/newsexo-home-you-have-missed-customizer-settings.php:52
+msgid "Posts"
+msgstr "投稿"
+
+#: inc/customizer/customizer-settings/home/newsexo-home-featured-news-customizer-settings.php:41
+msgid "Featured News Enable/Disable"
+msgstr "注目ニュースの有効化/無効化"
+
+#: inc/customizer/customizer-settings/home/newsexo-home-featured-news-customizer-settings.php:28
+msgid "Featured News Settings"
+msgstr "おすすめニュースカテゴリー"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:630
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:663
+msgid "Add Icon"
+msgstr "アイコンを追加"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:625
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:655
+msgid "Remove Icon"
+msgstr "アイコンを削除"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:608
+msgid "Social icons"
+msgstr "ソーシャルアイコン"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:600
+#: inc/customizer/customizer-settings/newsexo-customize-base-customizer-settings.php:74
+msgid "None"
+msgstr "なし"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:595
+msgid "Image type"
+msgstr "画像の形式"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:585
+msgid "Center"
+msgstr "中央"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:581
+msgid "Right"
+msgstr "右寄せ"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:577
+msgid "Left"
+msgstr "左寄せ"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:573
+msgid "Slide Content Format"
+msgstr "スライドコンテンツ高さ"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:564
+msgid "Upload Image"
+msgstr "画像のアップロード"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:561
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:599
+msgid "Image"
+msgstr "画像"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:544
+msgid "http://fontawesome.io/icons/"
+msgstr "http://fontawesome.io/icons/"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:543
+msgid "Note: Some icons may not be displayed here. You can see the full list of icons at %1$s."
+msgstr "注意: 表示されていないアイコンがあります。すべてのアイコンのリストは %1$s で確認してください。"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:538
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:598
+msgid "Icon"
+msgstr "Icona"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:529
+msgid "Yes"
+msgstr "はい"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:526
+msgid "No"
+msgstr "いいえ"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:522
+msgid "Open link in new tab"
+msgstr "新しいタブでリンクを開く"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:367
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:486
+msgid "Delete field"
+msgstr "フィールドを削除"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:351
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:475
+msgid "Designation"
+msgstr "肩書き"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:343
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:466
+msgid "Shortcode"
+msgstr "ショートコード"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:333
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:397
+msgid "Color"
+msgstr "カラー"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:309
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:455
+msgid "Video Url"
+msgstr "動画URL"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:290
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:437
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:622
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:644
+msgid "Link"
+msgstr "リンク"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:279
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:427
+msgid "Button Text"
+msgstr "ボタンのテキスト"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:270
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:419
+msgid "Description"
+msgstr "説明"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:263
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:412
+msgid "Subtitle"
+msgstr "字幕"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:256
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:405
+#: inc/customizer/newsexo-customizer-options.php:289
+#: inc/customizer/newsexo-customizer-options.php:305
+#: inc/customizer/newsexo-customizer-options.php:321
+#: inc/customizer/newsexo-customizer-options.php:353
+msgid "Title"
+msgstr "タイトル"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:38
+msgid "Customizer Repeater"
+msgstr "カスタマイザーの繰り返し"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:33
+msgid "Add new field"
+msgstr "新規フィールドを追加"
+
+#: inc/customizer/controls/code/newsexo-customize-typography-control.php:50
+msgid "Google Fonts"
+msgstr "Google フォント"
+
+#: inc/customizer/controls/code/newsexo-customize-typography-control.php:39
+msgid "Standard Fonts"
+msgstr "標準フォント"
+
+#: inc/customizer/controls/code/newsexo-customize-slider-control.php:70
+msgid "Reset"
+msgstr "リセット"
+
+#: inc/customizer/controls/code/newsexo-customize-base-control.php:30
+msgid "Color value"
+msgstr "明度"
+
+#: inc/customizer/controls/code/newsexo-customize-base-control.php:29
+msgid "Select Color"
+msgstr "色を選択"
+
+#: inc/customizer/controls/code/newsexo-customize-base-control.php:28
+msgid "Select default color"
+msgstr "デフォルトの色を選択"
+
+#: inc/customizer/controls/code/newsexo-customize-base-control.php:27
+msgid "Default"
+msgstr "デフォルト"
+
+#: inc/customizer/controls/code/newsexo-customize-base-control.php:26
+msgid "Clear color"
+msgstr "色をクリア"
+
+#: inc/customizer/controls/code/newsexo-customize-base-control.php:25
+msgid "Clear"
+msgstr "クリア"
+
+#: inc/customizer/controls/code/newexo-customize-upgrade-control.php:36
+msgid "and get the other advanced pro features."
+msgstr "その他の高度なプロ機能もご利用いただけます。"
+
+#: inc/class-bootstrap-navwalker.php:207
+msgid "Add a menu"
+msgstr "メニューを追加"
+
+#: header.php:26
+msgid "Skip to content"
+msgstr "コンテンツにスキップ"
+
+#: functions.php:49 inc/customizer/newsexo-panels-and-sections.php:103
+msgid "Footer"
+msgstr "フッタ"
+
+#: functions.php:48
+msgid "Primary"
+msgstr "メイン"
+
+#: footer.php:53
+msgid "%1$s by %2$s"
+msgstr "%1$s、投稿者: %2$s"
+
+#: footer.php:16
+msgid "Powered by"
+msgstr "Powered by"
+
+#: footer.php:16
+msgid "Copyright"
+msgstr "著作権表示"
+
+#: comments.php:84
+msgid "Leave a Reply"
+msgstr "コメントを残す"
+
+#: comments.php:82
+msgid "Submit"
+msgstr "更新"
+
+#: comments.php:80
+msgid "Logout"
+msgstr "ログアウト"
+
+#: comments.php:80
+msgid "Logged in as"
+msgstr "現在のユーザーアカウント:"
+
+#: comments.php:78
+msgid "Comment"
+msgstr "コメント"
+
+#: comments.php:70
+msgid "Email"
+msgstr "メール"
+
+#: comments.php:69
+msgid "Name"
+msgstr "お名前"
+
+#. translators: %1$s %2$s: logged in
+#: comments.php:63
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment"
+msgstr "コメントを投稿するには<a href=\"%s\">ログイン</a>してください。"
+
+#: comments.php:53
+msgid "Newer Comments &rarr;"
+msgstr "新しいコメント &rarr;"
+
+#: comments.php:52
+msgid "&larr; Older Comments"
+msgstr "&larr; 過去のコメント"
+
+#: comments.php:51
+msgid "Comment navigation"
+msgstr "コメントナビゲーション"
+
+#: comments.php:41
+msgid "% comments"
+msgstr "%件のコメント"
+
+#: comments.php:41
+msgid "One comment"
+msgstr "1件のコメント"
+
+#: comments.php:41
+msgid "No Comments"
+msgstr "0 コメント"
+
+#: comments.php:35
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "この投稿はパスワードで保護されています。コメントを表示するにはパスワードを入力してください。"
+
+#: 404.php:22
+msgid "Go Back Now"
+msgstr "今すぐ戻る"
+
+#: 404.php:20
+msgid "OOPS, SORRY WE CAN'T FIND THAT PAGE !"
+msgstr "申し訳ございませんが、そのページは見つかりません。"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themearile.com"
+msgstr "https://themearile.com"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "ThemeArile"
+msgstr "ThemeArile"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themearile.com/newsexo-theme/"
+msgstr "https://themearile.com/newsexo-theme/"

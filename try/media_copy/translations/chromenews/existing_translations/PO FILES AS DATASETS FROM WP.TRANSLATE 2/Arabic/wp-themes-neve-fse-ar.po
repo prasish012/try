@@ -1,0 +1,566 @@
+# Translation of Themes - Neve FSE in Arabic
+# This file is distributed under the same license as the Themes - Neve FSE package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-06-23 12:04:41+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n == 0) ? 0 : ((n == 1) ? 1 : ((n == 2) ? 2 : ((n % 100 >= 3 && n % 100 <= 10) ? 3 : ((n % 100 >= 11 && n % 100 <= 99) ? 4 : 5))));\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: ar\n"
+"Project-Id-Version: Themes - Neve FSE\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Neve FSE is an experimental sister theme of Neve, for the ones that are ready to go full speed on full site editing, without backwards compatibility code.Neve FSE is a modern, minimalistic theme that is fully compatible with full-site-editing, it offers a range of patterns that make it perfect for simple design is suitable for a wide range of purposes, including blogs, small businesses, startups, agencies, firms, e-commerce shops, personal portfolio sites, and more. It also comes with several style variations to suit your unique aesthetic."
+msgstr "Neve FSE هو قالب شقيق تجريبي لـ Neve ، للقوالب الجاهزة للعمل بأقصى سرعة في تحرير الموقع بالكامل ، دون رمز توافق الإصدارات السابقة. Neve FSE هو قالب حديث وبسيط ومتوافق تمامًا مع التحرير الكامل للموقع. يقدم مجموعة من الأنماط التي تجعله مثاليًا للتصميم البسيط المناسب لمجموعة واسعة من الأغراض ، بما في ذلك المدونات والشركات الصغيرة والشركات الناشئة والوكالات والشركات ومحلات التجارة الإلكترونية ومواقع قائمة المشاريع والمزيد. كما أنه يأتي مع العديد من الأشكال المختلفة لتناسب أسلوبك الشخصي الفريد."
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Neve FSE"
+msgstr "Neve FSE"
+
+#. translators: %1$s - plugin namce, %2$s - HTML tag, %3$s - discount, %4$s -
+#. HTML tag, %5$s - company name.
+#: inc/Admin.php:577
+msgid "Enhance %1$s with %2$s– up to %3$s OFF in our biggest sale of the year. Limited time only."
+msgstr ""
+
+#: inc/patterns/layout/map-section.php:20
+msgid "Map Section"
+msgstr ""
+
+#: inc/patterns/layout/hero-with-text.php:18
+msgid "Hero section with text"
+msgstr ""
+
+#: inc/patterns/layout/hero-with-feature-columns.php:18
+msgid "Hero section with feature columns"
+msgstr ""
+
+#: inc/patterns/layout/faq-section.php:16
+msgid "FAQ Section"
+msgstr ""
+
+#: inc/patterns/layout/contact-section.php:18
+msgid "Columns Section"
+msgstr ""
+
+#: inc/patterns/layout/columns-with-services-text.php:18
+msgid "Columns with Services Text"
+msgstr ""
+
+#: inc/patterns/layout/columns-testimonials-inv.php:22
+msgid "Three Columns with Testimonials Inverted"
+msgstr ""
+
+#: inc/Core.php:142
+msgid "Services Page"
+msgstr ""
+
+#: inc/Core.php:137
+msgid "Portfolio Page"
+msgstr ""
+
+#: inc/Core.php:132
+msgid "Contact Page"
+msgstr ""
+
+#: inc/Core.php:127
+msgid "About Page"
+msgstr ""
+
+#: inc/Core.php:120
+msgid "Homepage 4"
+msgstr ""
+
+#: inc/Core.php:116
+msgid "Homepage 2"
+msgstr ""
+
+#: inc/Core.php:110
+msgid "Single Post Cover"
+msgstr ""
+
+#: inc/Core.php:106
+msgid "Single Post Cover Boxed"
+msgstr ""
+
+#: inc/Core.php:100
+msgid "Archive Cover"
+msgstr ""
+
+#. translators: %s: FSE Design Pack:
+#: inc/Admin.php:102
+msgid "%s Access a collection of 40+ layout patterns ready to import to your website"
+msgstr ""
+
+#: inc/Admin.php:98
+msgid "Neve FSE recommends"
+msgstr ""
+
+#: inc/Admin.php:97
+msgid "Dismiss"
+msgstr ""
+
+#: theme.json styles/s1-crayola.json styles/s2-majorelle-blue.json
+#: styles/s3-zomp.json styles/s4-dark-pastel-red.json styles/s5-aztec-gold.json
+#: styles/s6-vivid-red-tangelo.json styles/s7-greenlight.json
+msgctxt "Color name"
+msgid "Accent Secondary"
+msgstr ""
+
+#: styles/s7-greenlight.json
+msgctxt "Style variation name"
+msgid "Greenlight"
+msgstr "ضوء اخضر"
+
+#: styles/s6-vivid-red-tangelo.json
+msgctxt "Style variation name"
+msgid "Vivid Red-Tangelo"
+msgstr "أحمر تانجيلو زاهي"
+
+#: styles/s5-aztec-gold.json
+msgctxt "Style variation name"
+msgid "Aztec Gold"
+msgstr "ذهب أزتكي"
+
+#: styles/s4-dark-pastel-red.json
+msgctxt "Style variation name"
+msgid "Dark Pastel Red"
+msgstr "أحمر باستيل داكن"
+
+#: styles/s3-zomp.json
+msgctxt "Style variation name"
+msgid "Zomp"
+msgstr "زومب zomp"
+
+#: styles/s2-majorelle-blue.json
+msgctxt "Style variation name"
+msgid "Majorelle Blue"
+msgstr "ماجوريل أزرق"
+
+#: styles/s1-crayola.json
+msgctxt "Style variation name"
+msgid "Crayola"
+msgstr "كرايولا"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer Variation - 5 Columns"
+msgstr "تباين التذييل - 5 أعمدة"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer Variation - 4 Columns"
+msgstr "تباين التذييل - 4 أعمدة"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer Variation - 3 Columns"
+msgstr "تباين التذييل - 3 أعمدة"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer Variation - Site Logo"
+msgstr "تباين التذييل - شعار الموقع"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "التذييل"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header Variation - Hamburger Menu"
+msgstr "تباين الترويسة - قائمة همبرغر"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header Variation - Button"
+msgstr "تباين الترويسة - الزر"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header Variation - Centered"
+msgstr "تباين الترويسة - توسيط"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "الترويسة"
+
+#: theme.json styles/s1-crayola.json styles/s2-majorelle-blue.json
+#: styles/s3-zomp.json styles/s4-dark-pastel-red.json styles/s5-aztec-gold.json
+#: styles/s6-vivid-red-tangelo.json styles/s7-greenlight.json
+msgctxt "Color name"
+msgid "Accent"
+msgstr "تمييز"
+
+#: theme.json styles/s1-crayola.json styles/s2-majorelle-blue.json
+#: styles/s3-zomp.json styles/s4-dark-pastel-red.json styles/s5-aztec-gold.json
+#: styles/s6-vivid-red-tangelo.json styles/s7-greenlight.json
+msgctxt "Color name"
+msgid "Foreground Alt"
+msgstr "مقدمة البديل"
+
+#: theme.json styles/s1-crayola.json styles/s2-majorelle-blue.json
+#: styles/s3-zomp.json styles/s4-dark-pastel-red.json styles/s5-aztec-gold.json
+#: styles/s6-vivid-red-tangelo.json styles/s7-greenlight.json
+msgctxt "Color name"
+msgid "Background Dark"
+msgstr "خلفية داكنة"
+
+#: theme.json styles/s1-crayola.json styles/s2-majorelle-blue.json
+#: styles/s3-zomp.json styles/s4-dark-pastel-red.json styles/s5-aztec-gold.json
+#: styles/s6-vivid-red-tangelo.json styles/s7-greenlight.json
+msgctxt "Color name"
+msgid "Background Alt"
+msgstr "خلفية البديل"
+
+#: theme.json styles/s1-crayola.json styles/s2-majorelle-blue.json
+#: styles/s3-zomp.json styles/s4-dark-pastel-red.json styles/s5-aztec-gold.json
+#: styles/s6-vivid-red-tangelo.json styles/s7-greenlight.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "‏‏المقدمة"
+
+#: theme.json styles/s1-crayola.json styles/s2-majorelle-blue.json
+#: styles/s3-zomp.json styles/s4-dark-pastel-red.json styles/s5-aztec-gold.json
+#: styles/s6-vivid-red-tangelo.json styles/s7-greenlight.json
+msgctxt "Color name"
+msgid "Background"
+msgstr "الخلفية"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Figtree"
+msgstr "شجرة التين"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Open Sans"
+msgstr "Open Sans"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Montserrat"
+msgstr "Montserrat"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Source Sans Pro"
+msgstr "Source Sans Pro"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Playfair Display"
+msgstr "Playfair Display"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Spline Sans"
+msgstr "Spline Sans"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Outfit"
+msgstr "ملابس"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Hanken Grotesk"
+msgstr "Hanken Grotesk"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Fraunces"
+msgstr "Fraunces"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Albert Sans"
+msgstr "Albert Sans"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Inter"
+msgstr "Inter"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge"
+msgstr "ضخم"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "كبير جداً"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "كبير"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "متوسط"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Normal"
+msgstr "عادي"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "صغير"
+
+#: inc/patterns/templates/single-post-cover.php:18
+msgid "Single Post 3 (Cover)"
+msgstr "مقالة مفردة 3 (غلاف)"
+
+#: inc/patterns/templates/single-post-cover-boxed.php:18
+msgid "Single Post 2 (Cover Boxed)"
+msgstr "مقالة مفردة 2 (غلاف داخل صندوق)"
+
+#: inc/Core.php:96 inc/patterns/templates/archive-list.php:18
+msgid "Archive List"
+msgstr "قائمة الأرشيف"
+
+#: inc/patterns/templates/archive-cover.php:18
+msgid "Archive (Cover)"
+msgstr "الأرشيف (غلاف)"
+
+#: inc/patterns/page_titles/page-title-5.php:20
+msgid "Page Title - Cover Boxed"
+msgstr "عنوان الصفحة - غلاف داخل صندوق"
+
+#: inc/patterns/page_titles/page-title-4.php:20
+msgid "Page Title - Cover"
+msgstr "عنوان الصفحة - غلاف"
+
+#: inc/patterns/page_titles/page-title-3.php:16
+msgid "Page Title - Light"
+msgstr "عنوان الصفحة - فاتح"
+
+#: inc/patterns/page_titles/page-title-2.php:16
+msgid "Page Title - Dark"
+msgstr "عنوان الصفحة - غامق"
+
+#: inc/patterns/page_titles/page-title-1.php:16
+msgid "Page Title - Simple"
+msgstr "عنوان الصفحة - بسيط"
+
+#: inc/patterns/loops/post-loop-9.php:16
+msgid "Post Covers"
+msgstr "أغلفة المقالة"
+
+#: inc/patterns/loops/post-loop-8.php:16
+msgid "Posts"
+msgstr "مقالات"
+
+#: inc/patterns/loops/post-loop-7.php:16
+msgid "Post cards 2"
+msgstr "مقالة بطاقات 2"
+
+#: inc/patterns/loops/post-loop-4.php:16 inc/patterns/loops/post-loop-5.php:16
+msgid "Post rows"
+msgstr "مقالة صفوف"
+
+#: inc/patterns/loops/post-loop-3.php:16
+msgid "Post cards"
+msgstr "مقالة بطاقات"
+
+#: inc/patterns/loops/post-loop-2.php:16
+msgid "Posts loop grid inverted"
+msgstr "شبكة حلقة المقالات معكوسة"
+
+#: inc/patterns/loops/post-loop-1.php:16 inc/patterns/loops/post-loop-6.php:16
+msgid "Posts loop grid simple"
+msgstr "شبكة حلقة المقالات بسيطة"
+
+#: inc/patterns/layout/team-members-columns.php:22
+msgid "Columns with Team members"
+msgstr "أعمدة مع أعضاء الفريق"
+
+#: inc/patterns/layout/pricing-columns.php:18
+msgid "Columns with Pricing"
+msgstr "أعمدة مع التسعير"
+
+#: inc/patterns/layout/portfolio-columns.php:21
+msgid "Columns with portfolio items"
+msgstr "أعمدة مع عناصر قائمة المشاريع"
+
+#: inc/patterns/layout/page-cover-with-buttons.php:20
+msgid "Page Cover with Buttons"
+msgstr "غلاف الصفحة مع الأزرار"
+
+#: inc/patterns/layout/page-cover-bg-image.php:20
+msgid "Page Cover with background image"
+msgstr "غلاف الصفحة مع صورة الخلفية"
+
+#: inc/patterns/layout/full-width-columns-content-image.php:20
+#: inc/patterns/layout/full-width-quote.php:18
+msgid "Full-width columns with image and content"
+msgstr "أعمدة كاملة العرض مع صورة ومحتوى"
+
+#: inc/patterns/layout/cta-dark.php:18
+msgid "Call to Action with Background Color"
+msgstr "دعوة لاتخاذ إجراء مع لون الخلفية"
+
+#: inc/patterns/layout/content-with-images.php:22
+msgid "Content with images"
+msgstr "محتوى مع الصور"
+
+#: inc/patterns/layout/columns-with-services.php:22
+msgid "Columns with Services"
+msgstr "أعمدة مع الخدمات"
+
+#: inc/patterns/layout/columns-with-icons.php:22
+msgid "Columns with icons"
+msgstr "الأعمدة مع الأيقونات"
+
+#: inc/patterns/layout/columns-with-cards.php:22
+msgid "Columns with cards"
+msgstr "أعمدة مع بطاقات"
+
+#: inc/patterns/layout/columns-text-image.php:20
+msgid "Columns with text and image"
+msgstr "أعمدة مع النص والصورة"
+
+#: inc/patterns/layout/columns-testimonials.php:22
+msgid "Three Columns with Testimonials"
+msgstr "ثلاثة أعمدة مع الشهادات"
+
+#: inc/patterns/layout/columns-image-and-text.php:20
+msgid "Columns with image and text"
+msgstr "أعمدة مع صورة ونص"
+
+#: inc/patterns/layout/columns-image-and-text-inv.php:20
+msgid "Columns with image and text inverted"
+msgstr "أعمدة مع الصورة والنص معكوس"
+
+#: inc/patterns/layout/columns-content-images.php:21
+msgid "Columns with content and images"
+msgstr "الأعمدة مع المحتوى والصور"
+
+#: inc/patterns/layout/boxed-features-1.php:18
+#: inc/patterns/layout/boxed-features-2.php:18
+msgid "Columns with feature boxes"
+msgstr "أعمدة مع مربعات الميزات"
+
+#: inc/Core.php:149
+msgid "Primary Menu"
+msgstr "القائمة الأساسية"
+
+#: inc/Block_Patterns.php:68
+msgid "Full-page layouts that can be used as templates"
+msgstr "تخطيطات صفحة كاملة يمكن استخدامها كقوالب"
+
+#: inc/Block_Patterns.php:67
+msgid "Neve FSE Layouts"
+msgstr "تخطيطات Neve FSE"
+
+#: inc/Block_Patterns.php:64
+msgid "Patterns for several sections and components"
+msgstr "أنماط لعدة أقسام ومكونات"
+
+#: inc/Block_Patterns.php:63
+msgid "Neve FSE Patterns"
+msgstr "أنماط Neve FSE"
+
+#: inc/Admin.php:99 inc/Admin.php:327
+msgid "Learn More"
+msgstr "تعلم المزيد"
+
+#. translators: %s: Otter Blocks
+#: inc/Admin.php:322
+msgid "Install & Activate %s"
+msgstr "التنصيب والتفعيل %s"
+
+#. translators: %s: Otter Blocks
+#: inc/Admin.php:320
+msgid "Activate %s"
+msgstr "تفعيل %s"
+
+#: inc/Admin.php:310
+msgid "Otter is a Gutenberg Blocks page builder plugin that adds extra functionality to the WordPress Block Editor (also known as Gutenberg) for a better page building experience without the need for traditional page builders."
+msgstr "Otter هو مكون إضافي منشئ صفحات مكوّنات Gutenberg  يضيف وظائف إضافية إلى مُحرر مكوّنات ووردبريس (المعروف أيضًا باسم Gutenberg) للحصول على تجربة بناء صفحات أفضل دون الحاجة إلى منشئي الصفحات التقليديين."
+
+#. translators: %s: Otter Blocks
+#: inc/Admin.php:306
+msgid "Power up your website building experience with %s!"
+msgstr "عزز تجربة انشاء موقع الويب الخاص بك مع %s!"
+
+#: inc/Admin.php:300
+msgid "Otter Blocks preview"
+msgstr "معاينة مكوّنات Otter"
+
+#: inc/Admin.php:292
+msgid "Done"
+msgstr "تم"
+
+#: inc/Admin.php:291
+msgid "Installing"
+msgstr "جاري التنصيب"
+
+#: inc/Admin.php:290
+msgid "Activating"
+msgstr "جارٍ التفعيل"
+
+#: inc/Admin.php:238
+msgid "Maybe later"
+msgstr "ربما في وقت لاحق"
+
+#: inc/Admin.php:234
+msgid "Take the survey"
+msgstr "شارك في الاستطلاع"
+
+#: inc/Admin.php:229
+msgid "Thank you for trying Neve FSE. We would love to hear your thoughts on how we can enhance and improve the theme even further. Would you mind taking a moment to share your insights through a quick survey?"
+msgstr "شكرًا لك على استخدام Neve FSE. نود أن نسمع تعليقاتك حول كيف يمكننا تحسين القالب بشكل أكبر. هل تمانع في قضاء بعض الوقت لمشاركة أفكارك في استطلاع سريع؟"
+
+#: inc/Admin.php:227
+msgid "We value your feedback"
+msgstr "نحن نقدر تعليقاتك"
+
+#: inc/Admin.php:225
+msgid "Neve FSE Logo"
+msgstr "شعار Neve FSE"
+
+#. translators: %s: commands to run the theme
+#: functions.php:106
+msgid "You appear to be running the Neve FSE theme from source code. Please finish installation by running %s."
+msgstr "يبدو أنك تقوم بتشغيل قالب Neve FSE من النص البرمجي المصدري. الرجاء إنهاء التنصيب عن طريق تشغيل %s."
+
+#: functions.php:57
+msgid "upgrading PHP to the latest version"
+msgstr "ترقية PHP إلى أحدث نسخة"
+
+#. translators: %s message to upgrade PHP to the latest version
+#: functions.php:53
+msgid "Hey, we've noticed that you're running an outdated version of PHP which is no longer supported. Make sure your site is fast and secure, by %1$s. Neve FSE's minimal requirement is PHP%2$s."
+msgstr "مرحبًا ، لقد لاحظنا أنك تقوم بتشغيل نسخة قديمة من PHP لم تعد مدعومة. تأكد من أن موقعك سريع وآمن ، ب %1$s. الحد الأدنى لمتطلبات Neve FSE هو PHP %2$s."
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themeisle.com"
+msgstr "https://themeisle.com"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "ThemeIsle"
+msgstr "قالب الجزيرة (ThemeIsle)"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themeisle.com/themes/neve-fse/"
+msgstr "https://themeisle.com/themes/neve-fse/"

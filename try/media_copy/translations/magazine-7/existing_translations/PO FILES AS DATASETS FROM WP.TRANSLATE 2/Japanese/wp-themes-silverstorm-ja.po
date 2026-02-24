@@ -1,0 +1,1662 @@
+# Translation of Themes - Silverstorm in Japanese
+# This file is distributed under the same license as the Themes - Silverstorm package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-03-07 16:26:56+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - Silverstorm\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "A beautiful, very customizable, multipurpose theme that you can use to create amazing websites through drag and drop. It comes with a pre-designed home page, 5 header designs and over 35 ready-to-use content blocks that you can easily customize. You can also design your own custom blocks by combining more than 25 drag and drop components. It offers lots of customization options (video background, slideshow background, header content types, etc) to help you create a website that stands out in no time. It is also designed with responsiveness, to work on mobile devices right out of the box. It is the only theme you will ever need! CHECK OUT THE DEMOS: https://colibriwp.com/go/demos"
+msgstr "美しく、非常にカスタマイズ可能な多目的テーマで、ドラッグ & ドロップで素晴らしいサイトを作成できます。事前に設計されたホームページ、5 つのヘッダーデザイン、35 以上のすぐに使用できるコンテンツブロックが付属しており、簡単にカスタマイズできます。 また、25 以上のドラッグ & ドロップコンポーネントを組み合わせて、独自のカスタムブロックを設計することも可能です。多くのカスタマイズオプション（動画の背景、スライドショーの背景、ヘッダーコンテンツタイプなど）が用意されており、短時間で目立つサイトを作成するのに役立ちます。さらに、レスポンシブ設計なので、すぐにモバイル端末で動作します。これがあなたにとって唯一必要なテーマです！デモをご覧ください： https://colibriwp.com/go/demos"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Silverstorm"
+msgstr "Silverstorm"
+
+#: template-parts/main/search_item_template.php:41
+msgid "read more"
+msgstr "もっと読む"
+
+#: template-parts/main/post.php:33
+msgid "{COMMENTS-COUNT} Responses"
+msgstr "{COMMENTS-COUNT} 返信"
+
+#: template-parts/main/archive_item_template.php:56
+msgid "Read Article"
+msgstr "記事はこちら"
+
+#: template-parts/main/archive_item_template.php:34
+#: template-parts/main/item_template.php:11
+#: template-parts/main/search_item_template.php:19
+msgid "-"
+msgstr "-"
+
+#: template-parts/main/404.php:30
+msgid "Go to Homepage!"
+msgstr "ホームページに行こう！"
+
+#: template-parts/main/404.php:15
+msgid "Sorry, page not found!"
+msgstr "申し訳ありませんが、ページが見つかりません！"
+
+#: template-parts/layout-wrapper-content/navigation-container-2.php:11
+msgid "Previous"
+msgstr "前"
+
+#: template-parts/layout-wrapper-content/navigation-container-2.php:10
+#: template-parts/layout-wrapper-content/navigation-container-2.php:36
+#: template-parts/layout-wrapper-content/navigation-container-3.php:10
+#: template-parts/layout-wrapper-content/navigation-container-3.php:36
+msgid "Next"
+msgstr "次"
+
+#: template-parts/layout-wrapper-content/navigation-container-1.php:28
+msgid "Next Post"
+msgstr "次の投稿"
+
+#: template-parts/layout-wrapper-content/navigation-container-1.php:10
+msgid "Previous Post"
+msgstr "過去の投稿"
+
+#: template-parts/content/content-single.php:51
+#: template-parts/layout-wrapper-content/navigation-container-1.php:27
+msgid "Previous post:"
+msgstr "前の記事:"
+
+#: template-parts/content/content-single.php:49
+msgid "Previous:"
+msgstr "前:"
+
+#: template-parts/content/content-single.php:46
+#: template-parts/layout-wrapper-content/navigation-container-1.php:11
+msgid "Next post:"
+msgstr "次の記事:"
+
+#: template-parts/content/content-single.php:44
+msgid "Next:"
+msgstr "次:"
+
+#: template-parts/content/content-page.php:8
+#: template-parts/content/content-single.php:21
+msgid "Pages:"
+msgstr "ページ:"
+
+#: template-parts/content/content-none.php:14
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "こちらには何もありません。検索をお試しください。"
+
+#: template-parts/content/content-none.php:10
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "検索キーワードに一致するものが見つかりませんでした。 別のキーワードで試してみてください。"
+
+#: template-parts/content/content-none.php:7
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "最初の投稿を公開する準備はできましたか？<a href=\"%1$s\">ここから始めましょう</a>。"
+
+#: template-parts/content/content-none.php:4
+msgid "Nothing Found"
+msgstr "見つかりませんでした"
+
+#: template-parts/blog/searchform.php:14
+msgctxt "submit button"
+msgid "Search"
+msgstr "検索"
+
+#: template-parts/blog/searchform.php:8
+msgid "Search &hellip;"
+msgstr "検索&hellip;"
+
+#: template-parts/blog/searchform.php:5
+msgctxt "label"
+msgid "Search for:"
+msgstr "検索:"
+
+#: template-parts/blog/comments.php:29
+msgid "Newer Comments"
+msgstr "新しいコメント"
+
+#: template-parts/blog/comments.php:26
+msgid "Older Comments"
+msgstr "過去のコメント"
+
+#. Template Name of the theme
+msgid "Landing Page Template"
+msgstr "ランディングページテンプレート"
+
+#. Template Name of the theme
+msgid "Front Page Template"
+msgstr "フロントページテンプレート"
+
+#. Template Name of the theme
+msgid "Full Width Template"
+msgstr "全幅テンプレート"
+
+#: inc/translations.php:309
+msgid "Undefined sanitize function for control \"%s\""
+msgstr "コントロール「%s」の未定義のサニタイズ機能"
+
+#: inc/translations.php:306
+msgid "These actions will also install Colibri Page Builder plugin."
+msgstr "このアクションは、Colibri Page Builder プラグインもインストールします。"
+
+#: inc/translations.php:305
+msgid "Add Predefined Section"
+msgstr "事前定義セクションを追加"
+
+#: inc/translations.php:304
+msgid "Choose footer design"
+msgstr "フッターのデザインを選択"
+
+#: inc/translations.php:303
+msgid "Choose header design"
+msgstr "ヘッダーのデザインを選択"
+
+#: inc/translations.php:302
+msgid "Skip to content"
+msgstr "コンテンツへスキップ"
+
+#: inc/translations.php:300
+msgid "Activating %s"
+msgstr "%sを有効化中"
+
+#: inc/translations.php:299
+msgid "Installing %s"
+msgstr "%sをインストール中… "
+
+#: inc/translations.php:293
+msgid "%1$s plugin adds drag and drop functionality and many other features to the %2$s theme."
+msgstr "%1$sプラグインは、ドラッグ & ドロップなど多くの機能を%2$sテーマに追加します。"
+
+#: inc/translations.php:288
+msgid "%1$s plugin is recommended for the %2$s contact section."
+msgstr "%1$sのお問い合わせセクションには、%2$sプラグインが推奨されています。"
+
+#: inc/translations.php:286
+msgid "Leave a review"
+msgstr "レビューを残す"
+
+#: inc/translations.php:284
+msgid "We strive to provide our customers with the best service in our industry, so your feedback is very important to us. We would greatly appreciate it if you would take a few minutes to share your experience with us via this survey."
+msgstr "私達は業界で最高のサービスを私達の顧客に提供するように努力します、従ってフィードバックはとって非常に重要です。このアンケートを通じてご意見をお聞かせください。"
+
+#: inc/translations.php:283
+msgid "Leave a Review"
+msgstr "レビューを残す"
+
+#: inc/translations.php:282
+msgid "Open a support ticket"
+msgstr "サポートチケットを開く"
+
+#: inc/translations.php:280
+msgid "Our technical team is here to help you build an awesome website. We usually answer support issues in less than 1 business day."
+msgstr "技術チームは素晴らしいサイトを構築する手助けをするためにここにいます。通常、1営業日以内にサポートの問題に回答します。"
+
+#: inc/translations.php:279
+msgid "Support"
+msgstr "サポート"
+
+#: inc/translations.php:278
+msgid "Check documentation"
+msgstr "ドキュメントをチェックしよう"
+
+#: inc/translations.php:276
+msgid "Silverstorm is easy to learn and master, but you can always check out our documentation to check out features you might have missed."
+msgstr "Silverstorm は習得が簡単で使いやすいですが、逃したかもしれない機能をチェックするためにドキュメンテーションをいつでもチェックできます。"
+
+#: inc/translations.php:275
+msgid "Documentation"
+msgstr "ドキュメント"
+
+#: inc/translations.php:274
+msgid "Check all demo sites page"
+msgstr "デモサイトのページを確認"
+
+#: inc/translations.php:273
+msgid "Start with selected design"
+msgstr "選択したデザインから始める"
+
+#: inc/translations.php:272
+msgid "Choose one of the Silverstorm predefined designs"
+msgstr "Silverstorm の定義済みデザインのいずれかを選択"
+
+#: inc/translations.php:271
+msgid "Welcome to %s"
+msgstr "ようこそ %s へ"
+
+#: inc/translations.php:270
+msgid "Customize"
+msgstr "カスタマイズ"
+
+#: inc/translations.php:269
+msgid "Customize menu"
+msgstr "メニューをカスタマイズ"
+
+#: inc/translations.php:268
+msgid "Customize fonts"
+msgstr "フォントをカスタマイズ"
+
+#: inc/translations.php:267
+msgid "Change color settings"
+msgstr "カラーの設定を変更"
+
+#: inc/translations.php:266
+msgid "Customize footer"
+msgstr "フッターをカスタマイズ"
+
+#: inc/translations.php:265
+msgid "Customize frontpage hero"
+msgstr "フロントページの Hero をカスタマイズ"
+
+#: inc/translations.php:264
+msgid "Customize navigation"
+msgstr "ナビゲーションをカスタマイズ"
+
+#: inc/translations.php:263
+msgid "Change the hero image"
+msgstr "Hero 画像の変更"
+
+#: inc/translations.php:262
+msgid "Set your logo"
+msgstr "ロゴを選択"
+
+#: inc/translations.php:261
+msgid "Links to Customizer Settings"
+msgstr "カスタマイザー設定へのリンク"
+
+#: inc/translations.php:260
+msgid "Recommended plugins"
+msgstr "おすすめプラグイン"
+
+#: inc/translations.php:259
+msgid "Get Started"
+msgstr "始めてみよう"
+
+#: inc/translations.php:258
+msgid "or"
+msgstr "または"
+
+#: inc/translations.php:257
+msgid "Silverstorm Settings"
+msgstr "Silverstorm 設定"
+
+#: inc/translations.php:254
+msgid "Thumbnail placeholder color"
+msgstr "サムネイルプレースホルダーのカラー"
+
+#: inc/translations.php:253
+msgid "Show thumbnail placeholder"
+msgstr "サムネイルプレースホルダーを表示"
+
+#: inc/translations.php:252
+msgid "Enable masonry"
+msgstr "Masonryを有効にする"
+
+#: inc/translations.php:251
+msgid "Show blog sidebar "
+msgstr "ブログのサイドバーを表示"
+
+#: inc/translations.php:250
+msgid "Posts per row"
+msgstr "一行の投稿数"
+
+#: inc/translations.php:246
+msgid "Activate %s"
+msgstr "%s を有効化"
+
+#: inc/translations.php:245
+msgid "Install %s"
+msgstr "%s をインストール"
+
+#: inc/translations.php:243
+msgid "To enable all the theme features, please install %s plugin"
+msgstr "すべてのテーマ機能を有効にするには、%sプラグインをインストールしてください。"
+
+#: inc/translations.php:239
+msgid "Use footer parallax"
+msgstr "フッターパララックスを使用"
+
+#: inc/translations.php:235
+msgid "Read More"
+msgstr "続きを読む"
+
+#: inc/translations.php:231
+msgid "Logo above"
+msgstr "上のロゴ"
+
+#: inc/translations.php:230
+msgid "Logo / Nav"
+msgstr "ロゴ・ナビ"
+
+#: inc/translations.php:227
+msgid "Shutter out vertical"
+msgstr "縦シャッターアウト"
+
+#: inc/translations.php:226
+msgid "Shutter in vertical"
+msgstr "縦シャッターイン"
+
+#: inc/translations.php:225
+msgid "Shutter out horizontal"
+msgstr "水平シャッターアウト"
+
+#: inc/translations.php:224
+msgid "Shutter in horizontal"
+msgstr "水平シャッターイン"
+
+#: inc/translations.php:223
+msgid "Grow right"
+msgstr "右に伸びる"
+
+#: inc/translations.php:222
+msgid "Grow left"
+msgstr "左に伸びる"
+
+#: inc/translations.php:221
+msgid "Grow down"
+msgstr "成長する"
+
+#: inc/translations.php:220
+msgid "Grow up"
+msgstr "上向きに成長する"
+
+#: inc/translations.php:218
+msgid "Grow from center"
+msgstr "センターから成長する"
+
+#: inc/translations.php:217
+msgid "Grow from right"
+msgstr "右から成長する"
+
+#: inc/translations.php:216
+msgid "Grow from left"
+msgstr "左から成長する"
+
+#: inc/translations.php:215
+msgid "Drop out"
+msgstr "ドロップアウト"
+
+#: inc/translations.php:214
+msgid "Drop in"
+msgstr "ドロップイン"
+
+#: inc/translations.php:212
+msgid "Background"
+msgstr "背景"
+
+#: inc/translations.php:211
+msgid "Double line"
+msgstr "ダブルライン"
+
+#: inc/translations.php:210
+msgid "Top line"
+msgstr "トップライン"
+
+#: inc/translations.php:209
+msgid "Bottom line"
+msgstr "ボトムライン"
+
+#: inc/translations.php:206
+msgid "Button hover effect"
+msgstr "ボタンホバー効果"
+
+#: inc/translations.php:205
+msgid "Button highlight type"
+msgstr "ボタンハイライトタイプ"
+
+#: inc/translations.php:204
+msgid "Mobile, tablet and desktop"
+msgstr "モバイル、タブレット、そしてデスクトップ"
+
+#: inc/translations.php:203
+msgid "Mobile and tablet"
+msgstr "モバイルとタブレット"
+
+#: inc/translations.php:202
+msgid "Mobile"
+msgstr "モバイル"
+
+#: inc/translations.php:201
+msgid "Show offscreen menu on"
+msgstr "画面外のメニューを表示"
+
+#: inc/translations.php:200
+msgid "Edit Menu Structure"
+msgstr "メニュー構造の編集"
+
+#: inc/translations.php:199
+msgid "- No menu -"
+msgstr "- メニューなし -"
+
+#: inc/translations.php:198
+msgid "Menu"
+msgstr "メニュー"
+
+#: inc/translations.php:195
+msgid "Image with text on the left"
+msgstr "左側にテキストのある画像"
+
+#: inc/translations.php:194
+msgid "Image with text above"
+msgstr "上のテキストを含む画像"
+
+#: inc/translations.php:193
+msgid "Image with text on the right"
+msgstr "右側にテキストのある画像"
+
+#: inc/translations.php:192
+msgid "Image with text below"
+msgstr "下のテキストを含む画像"
+
+#: inc/translations.php:191
+msgid "Site title text only"
+msgstr "サイトタイトルのテキストのみ"
+
+#: inc/translations.php:190
+msgid "Logo image only"
+msgstr "ロゴ画像のみ"
+
+#: inc/translations.php:188
+msgid "Logo"
+msgstr "ロゴ"
+
+#: inc/translations.php:187
+msgid "Navigation padding"
+msgstr "ナビゲーションのパディング"
+
+#: inc/translations.php:186
+msgid "Alternate logo image"
+msgstr "代替ロゴ画像"
+
+#: inc/translations.php:185
+msgid "Layout type"
+msgstr "レイアウトのタイプ"
+
+#: inc/translations.php:182
+msgid "Button align"
+msgstr "ボタン整列"
+
+#: inc/translations.php:181
+msgid "Transparent nav"
+msgstr "トランスペアレントナビゲーションバー"
+
+#: inc/translations.php:180
+msgid "Full width"
+msgstr "全幅"
+
+#: inc/translations.php:179
+msgid "Container width"
+msgstr "コンテナの幅"
+
+#: inc/translations.php:178
+msgid "Boxed"
+msgstr "ボックス"
+
+#: inc/translations.php:177
+msgid "Show top bar"
+msgstr "上部バーを表示"
+
+#: inc/translations.php:176
+msgid "Stick on scroll"
+msgstr "スクロールにこだわる"
+
+#: inc/translations.php:173
+msgid "Text"
+msgstr "テキスト"
+
+#: inc/translations.php:172
+msgid "Icon"
+msgstr "アイコン"
+
+#: inc/translations.php:171
+msgid "Add Icon"
+msgstr "アイコンを追加"
+
+#: inc/translations.php:170
+msgid "Add Item"
+msgstr "項目を追加"
+
+#: inc/translations.php:169
+msgid "Icon %s"
+msgstr "アイコン%s"
+
+#: inc/translations.php:168
+msgid "Add Field"
+msgstr "フィールドを追加"
+
+#: inc/translations.php:167
+msgid "Field %s"
+msgstr "フィールド %s"
+
+#: inc/translations.php:166
+msgid "Content Type"
+msgstr "コンテンツタイプ"
+
+#: inc/translations.php:165
+msgid "Social Icons"
+msgstr "ソーシャルアイコン"
+
+#: inc/translations.php:164
+msgid "Information Fields"
+msgstr "情報フィールド"
+
+#: inc/translations.php:161
+msgid "Show frame shadow"
+msgstr "フレームの影を表示"
+
+#: inc/translations.php:160
+msgid "Show frame over image"
+msgstr "画像上にフレームを表示"
+
+#: inc/translations.php:159
+msgid "Frame thickness"
+msgstr "フレームの太さ"
+
+#: inc/translations.php:158
+msgid "Offset top"
+msgstr "オフセット上"
+
+#: inc/translations.php:157
+msgid "Offset left"
+msgstr "オフセット左"
+
+#: inc/translations.php:156
+msgid "Offset"
+msgstr "オフセット"
+
+#: inc/translations.php:155
+msgid "Height"
+msgstr "高さ"
+
+#: inc/translations.php:154
+msgid "Width"
+msgstr "幅"
+
+#: inc/translations.php:153
+msgid "Border"
+msgstr "枠線"
+
+#: inc/translations.php:151
+msgid "Frame options"
+msgstr "フレームオプション"
+
+#: inc/translations.php:150
+msgid "Blur"
+msgstr "ぼかし"
+
+#: inc/translations.php:149
+msgid "Spread"
+msgstr "広がる"
+
+#: inc/translations.php:148
+msgid "Vertical"
+msgstr "垂直"
+
+#: inc/translations.php:147
+msgid "Horizontal"
+msgstr "水平"
+
+#: inc/translations.php:146
+msgid "Box shadow"
+msgstr "ボックスのシャドー"
+
+#: inc/translations.php:143
+msgid "Text column width"
+msgstr "テキスト列幅"
+
+#: inc/translations.php:142
+msgid "Full Height"
+msgstr "フルハイト"
+
+#: inc/translations.php:141
+msgid "Spacing bottom"
+msgstr "スペーシングボトム"
+
+#: inc/translations.php:140
+msgid "Spacing top"
+msgstr "スペーシングトップ"
+
+#: inc/translations.php:139
+msgid "Align"
+msgstr "配置"
+
+#: inc/translations.php:138
+msgid "Icons"
+msgstr "アイコン"
+
+#: inc/translations.php:137
+msgid "Link"
+msgstr "リンク"
+
+#: inc/translations.php:136
+msgid "Label"
+msgstr "ラベル"
+
+#: inc/translations.php:135
+msgid "Secondary Button"
+msgstr "二次ボタン"
+
+#: inc/translations.php:134
+msgid "Primary Button"
+msgstr "メインボタン"
+
+#: inc/translations.php:133
+msgid "Button Type"
+msgstr "ボタンタイプ"
+
+#: inc/translations.php:132
+msgid "Buttons"
+msgstr "ボタン"
+
+#: inc/translations.php:131
+msgid "Add Button"
+msgstr "ボタンを追加"
+
+#: inc/translations.php:130
+msgid "Button"
+msgstr "ボタン"
+
+#: inc/translations.php:129
+msgid "Text width"
+msgstr "テキスト幅"
+
+#: inc/translations.php:128
+msgid "Subtitle"
+msgstr "サブタイトル"
+
+#: inc/translations.php:127
+msgid "Title"
+msgstr "タイトル"
+
+#: inc/translations.php:126
+msgid "Show Subtitle"
+msgstr "サブタイトルを表示"
+
+#: inc/translations.php:125
+msgid "Show Title"
+msgstr "タイトルを表示"
+
+#: inc/translations.php:124
+msgid "Text with media on left"
+msgstr "左側のメディアとテキスト"
+
+#: inc/translations.php:123
+msgid "Text with media on right"
+msgstr "右側のメディアとテキスト"
+
+#: inc/translations.php:122
+msgid "Text only"
+msgstr "テキストのみ"
+
+#: inc/translations.php:121
+msgid "Hero layout"
+msgstr "Hero レイアウト"
+
+#: inc/translations.php:118
+msgid "Overlay Shape"
+msgstr "オーバーレイ形状"
+
+#: inc/translations.php:117
+msgid "Shape Light"
+msgstr "形状ライト"
+
+#: inc/translations.php:116
+msgid "Right Tilted Strips"
+msgstr "右傾斜ストリップ"
+
+#: inc/translations.php:115
+msgid "Right Tilted Lines"
+msgstr "右傾斜線"
+
+#: inc/translations.php:114
+msgid "Left Tilted Lines"
+msgstr "左傾斜線"
+
+#: inc/translations.php:113
+msgid "Dots"
+msgstr "ドット"
+
+#: inc/translations.php:112
+msgid "Waves Inverted"
+msgstr "反転した波"
+
+#: inc/translations.php:111
+msgid "Circles White Gradient"
+msgstr "サークル白いグラデーション"
+
+#: inc/translations.php:110
+msgid "Circles Gradient"
+msgstr "サークルグラデーション"
+
+#: inc/translations.php:109
+msgid "Circles 3"
+msgstr "サークル 3"
+
+#: inc/translations.php:108
+msgid "Circles 2"
+msgstr "サークル 2"
+
+#: inc/translations.php:107
+msgid "Two Circles"
+msgstr "2つのサークル"
+
+#: inc/translations.php:106
+msgid "Many Rounded Squares Blue"
+msgstr "多くの角丸スクエアブルー"
+
+#: inc/translations.php:105
+msgid "Rounded Square Blue"
+msgstr "角丸スクエアブルー"
+
+#: inc/translations.php:104
+msgid "10deg Stripes"
+msgstr "10度ストライプ"
+
+#: inc/translations.php:103
+msgid "Circles"
+msgstr "サークル"
+
+#: inc/translations.php:102
+msgid "Opacity"
+msgstr "不透明"
+
+#: inc/translations.php:101
+msgid "Shape Only"
+msgstr "形状のみ"
+
+#: inc/translations.php:100
+msgid "Overlay Type"
+msgstr "オーバーレイタイプ"
+
+#: inc/translations.php:99
+msgid "Show Background Overlay"
+msgstr "バックグラウンドオーバーレイを表示"
+
+#: inc/translations.php:98
+msgid "Youtube link"
+msgstr "YouTube リンク"
+
+#: inc/translations.php:97
+msgid "Video Poster"
+msgstr "動画ポスター"
+
+#: inc/translations.php:96
+msgid "External"
+msgstr "外部"
+
+#: inc/translations.php:95
+msgid "Self Hosted Video"
+msgstr "セルフホストの動画"
+
+#: inc/translations.php:94
+msgid "Self Hosted"
+msgstr "セルフホスト"
+
+#: inc/translations.php:93
+msgid "Video type"
+msgstr "動画のタイプ"
+
+#: inc/translations.php:92
+msgid "Effect Speed"
+msgstr "エフェクトの速さ"
+
+#: inc/translations.php:91
+msgid "Slide Duration"
+msgstr "スライドの長さ"
+
+#: inc/translations.php:90
+msgid "Contain"
+msgstr "画像全体を表示"
+
+#: inc/translations.php:89
+msgid "Cover"
+msgstr "カバー"
+
+#: inc/translations.php:88
+msgid "Auto"
+msgstr "自動"
+
+#: inc/translations.php:87
+msgid "Repeat %s"
+msgstr "繰り返し%s"
+
+#: inc/translations.php:86
+msgid "Do not repeat"
+msgstr "繰り返しなし"
+
+#: inc/translations.php:85
+msgid "Size"
+msgstr "サイズ"
+
+#: inc/translations.php:84
+msgid "Fixed"
+msgstr "固定"
+
+#: inc/translations.php:83
+msgid "Scroll"
+msgstr "スクロール"
+
+#: inc/translations.php:82
+msgid "Attachment"
+msgstr "スクロールの有無"
+
+#: inc/translations.php:81
+msgid "Bottom Right"
+msgstr "右下"
+
+#: inc/translations.php:80
+msgid "Bottom Center"
+msgstr "下部中央"
+
+#: inc/translations.php:79
+msgid "Bottom Left"
+msgstr "左下"
+
+#: inc/translations.php:78
+msgid "Center Right"
+msgstr "中央右"
+
+#: inc/translations.php:77
+msgid "Center Center"
+msgstr "中央"
+
+#: inc/translations.php:76
+msgid "Center Left"
+msgstr "中央左"
+
+#: inc/translations.php:75
+msgid "Top Right"
+msgstr "右上"
+
+#: inc/translations.php:74
+msgid "Top Center"
+msgstr "上部中央"
+
+#: inc/translations.php:73
+msgid "Top Left"
+msgstr "左上"
+
+#: inc/translations.php:70
+msgid "Position"
+msgstr "位置"
+
+#: inc/translations.php:69
+msgid "Add Slide"
+msgstr "スライドを追加"
+
+#: inc/translations.php:68
+msgid "Slide %s"
+msgstr "スライド%s"
+
+#: inc/translations.php:67
+msgid "Remove"
+msgstr "削除"
+
+#: inc/translations.php:66
+msgid "Add"
+msgstr "追加"
+
+#: inc/translations.php:65
+msgid "None"
+msgstr "なし"
+
+#: inc/translations.php:64
+msgid "Clear"
+msgstr "クリア"
+
+#: inc/translations.php:63
+msgid "OK"
+msgstr "OK"
+
+#: inc/translations.php:62
+msgid "Select image"
+msgstr "画像を選択"
+
+#: inc/translations.php:61
+msgid "Select item"
+msgstr "選択アイテム"
+
+#: inc/translations.php:60
+msgid "Select"
+msgstr "選択"
+
+#: inc/translations.php:57
+msgid "Zigzag"
+msgstr "ジグザグ"
+
+#: inc/translations.php:56
+msgid "Split"
+msgstr "スプリット"
+
+#: inc/translations.php:55
+msgid "Book"
+msgstr "本"
+
+#: inc/translations.php:54
+msgid "Arrow"
+msgstr "矢印"
+
+#: inc/translations.php:53
+msgid "Drops"
+msgstr "しずく"
+
+#: inc/translations.php:52
+msgid "Curve Asymmetrical"
+msgstr "カーブ非対称"
+
+#: inc/translations.php:51
+msgid "Curve"
+msgstr "カーブ"
+
+#: inc/translations.php:50
+msgid "Clouds"
+msgstr "雲"
+
+#: inc/translations.php:49
+msgid "Waves Pattern"
+msgstr "波パターン"
+
+#: inc/translations.php:48
+msgid "Wave Brush"
+msgstr "波ブラシ"
+
+#: inc/translations.php:47
+msgid "Waves"
+msgstr "波"
+
+#: inc/translations.php:46
+msgid "Pyramids"
+msgstr "ピラミッド"
+
+#: inc/translations.php:45
+msgid "Mountains"
+msgstr "山"
+
+#: inc/translations.php:44
+msgid "Opacity Tilt "
+msgstr "不透明度の傾き"
+
+#: inc/translations.php:43
+msgid "Opacity Fan"
+msgstr "不透明ファン"
+
+#: inc/translations.php:42
+msgid "Triangle Asymmetrical"
+msgstr "三角形非対称"
+
+#: inc/translations.php:41
+msgid "Triangle"
+msgstr "三角形"
+
+#: inc/translations.php:40
+msgid "Tilt Flipped"
+msgstr "傾斜反転"
+
+#: inc/translations.php:39
+msgid "Tilt"
+msgstr "傾斜"
+
+#: inc/translations.php:36
+msgid "Divider negative"
+msgstr "区切りネガティブ"
+
+#: inc/translations.php:35
+msgid "Divider height"
+msgstr "仕切りの高さ"
+
+#: inc/translations.php:34
+msgid "Divider style"
+msgstr "仕切りスタイル"
+
+#: inc/translations.php:33
+msgid "Show bottom divider"
+msgstr "下の仕切りを表示"
+
+#: inc/translations.php:30
+msgid "Video"
+msgstr "動画"
+
+#: inc/translations.php:29
+msgid "Slideshow"
+msgstr "スライドショー"
+
+#: inc/translations.php:28
+msgid "Gradient"
+msgstr "グラデーション"
+
+#: inc/translations.php:27
+msgid "Image"
+msgstr "画像"
+
+#: inc/translations.php:26
+msgid "Color"
+msgstr "色"
+
+#: inc/translations.php:25
+msgid "Background Image"
+msgstr "背景画像"
+
+#: inc/translations.php:24
+msgid "Background Color"
+msgstr "背景色"
+
+#: inc/translations.php:23
+msgid "Background Type"
+msgstr "背景タイプ"
+
+#: inc/translations.php:20
+msgid "Advanced"
+msgstr "高度"
+
+#: inc/translations.php:19
+msgid "Style"
+msgstr "スタイル"
+
+#: inc/translations.php:17
+msgid "Blog Settings"
+msgstr "ブログ設定"
+
+#: inc/translations.php:16
+msgid "Footer Settings"
+msgstr "フッター設定"
+
+#: inc/translations.php:15
+msgid "Hero Settings"
+msgstr "Hero 設定"
+
+#: inc/translations.php:14
+msgid "Navigation Settings"
+msgstr "ナビゲーション設定"
+
+#: inc/translations.php:13
+msgid "Top Bar Settings"
+msgstr "上部バー設定"
+
+#: inc/translations.php:12
+msgid "Content Settings"
+msgstr "コンテンツ設定"
+
+#: inc/translations.php:11 inc/translations.php:18
+msgid "Content"
+msgstr "コンテンツ"
+
+#: inc/translations.php:10
+msgid "Footer"
+msgstr "フッター"
+
+#: inc/translations.php:9
+msgid "Header"
+msgstr "ヘッダー"
+
+#: inc/translations.php:8
+msgid "Help"
+msgstr "ヘルプ"
+
+#: inc/translations.php:7
+#: template-parts/layout-wrapper-content/navigation-container-2.php:37
+#: template-parts/layout-wrapper-content/navigation-container-3.php:11
+#: template-parts/layout-wrapper-content/navigation-container-3.php:37
+msgid "Back"
+msgstr "戻る"
+
+#: inc/translations.php:6
+msgid "Press return or enter to open this section"
+msgstr "このセクションを開くには Return または Enter キーを押してください"
+
+#: inc/template-functions.php:413
+msgid "Built using WordPress and %s"
+msgstr "WordPress と%sを使って構築した"
+
+#: inc/template-functions.php:327
+msgid "Responses"
+msgstr "反応"
+
+#: inc/template-functions.php:326 template-parts/blog/comments.php:13
+#: template-parts/main/post.php:32
+msgid "One response"
+msgstr "1件のフィードバック"
+
+#: inc/template-functions.php:325 template-parts/blog/comments.php:12
+#: template-parts/main/post.php:31
+msgid "No responses yet"
+msgstr "まだ応答なし"
+
+#: inc/template-functions.php:270
+msgid "Posts navigation"
+msgstr "投稿ナビゲーション"
+
+#: inc/template-functions.php:265 template-parts/content/content-page.php:12
+#: template-parts/content/content-single.php:26
+msgid "Page"
+msgstr "固定ページ"
+
+#: inc/template-functions.php:198
+msgid "Post navigation"
+msgstr "投稿ナビゲーション"
+
+#: inc/template-functions.php:179
+msgid "No Tag"
+msgstr "タグなし"
+
+#: inc/template-functions.php:171
+msgid "Tag: %s"
+msgstr "タグ: %s"
+
+#: inc/template-functions.php:146
+msgid "No Category"
+msgstr "カテゴリーなし"
+
+#: inc/template-functions.php:13
+msgid "Search Results for &#8220;%s&#8221;"
+msgstr "&#8220;%s&#8221; の検索結果"
+
+#: inc/template-functions.php:11
+msgid "Page not found"
+msgstr "ページが見つかりませんでした"
+
+#: inc/functions.php:176
+msgid "Woo Commerce left sidebar widget area"
+msgstr "WooCommerce の左側のサイドバーウィジェットエリア"
+
+#: inc/functions.php:166
+msgid "Blog sidebar widget area"
+msgstr "サイドバーウィジェットエリア"
+
+#: inc/functions.php:155
+msgid "Footer Menu"
+msgstr "フッターメニュー"
+
+#: inc/functions.php:154
+msgid "Header Menu"
+msgstr "ヘッダーメニュー"
+
+#: inc/defaults.php:22
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco."
+msgstr "あのイーハトーヴォのすきとおった風、夏でも底に冷たさをもつ青いそら、うつくしい森で飾られたモリーオ市、郊外のぎらぎらひかる草の波。"
+
+#: inc/defaults.php:13
+msgid "Just click and start typing to change the site headline."
+msgstr "クリックして入力を開始するだけで、サイトの見出しを変更できます。"
+
+#: inc/defaults.php:9
+msgid "stunning  Creation"
+msgstr "素晴らしい天地創造"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3665
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "プラグインをインストールしています %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:3662
+msgid "All installations have been completed."
+msgstr "すべてのインストールが完了しました。"
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3658
+msgid "%1$s installed successfully."
+msgstr "%1$s を正常にインストールしました。"
+
+#: inc/class-tgm-plugin-activation.php:3655
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "更新プロセスを開始しています。サーバーによっては少し時間がかかるかもしれません。しばらくお待ちください。"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3651
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "プラグインをインストール、有効化しています %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:3648
+msgid "All installations and activations have been completed."
+msgstr "すべてのインストールと有効化が完了しました。"
+
+#: inc/class-tgm-plugin-activation.php:3646
+#: inc/class-tgm-plugin-activation.php:3660
+msgid "Hide Details"
+msgstr "詳細を非表示"
+
+#: inc/class-tgm-plugin-activation.php:3645
+#: inc/class-tgm-plugin-activation.php:3659
+msgid "Show Details"
+msgstr "詳細を表示"
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3644
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s を正常にインストールし、有効化しました。"
+
+#: inc/class-tgm-plugin-activation.php:3641
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "インストールと有効化プロセスを開始しています。サーバーによっては少し時間がかかるかもしれません。しばらくお待ちください。"
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3636
+msgid "The installation of %1$s failed."
+msgstr "%1$s のインストールに失敗しました。"
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/class-tgm-plugin-activation.php:3633
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "<strong>%2$s</strong>%1$s のインストール中にエラーが発生しました。"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3629
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "プラグインの更新: %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:3274
+msgid "Plugin activation failed."
+msgstr "プラグインの有効化に失敗しました。"
+
+#: inc/class-tgm-plugin-activation.php:3039
+msgid "No plugins are available to be activated at this time."
+msgstr "現時点で有効化できるプラグインはありません。"
+
+#: inc/class-tgm-plugin-activation.php:3012
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "有効化するプラグインが選択されていません。何も実行しませんでした。"
+
+#: inc/class-tgm-plugin-activation.php:2905
+msgid "No plugins are available to be updated at this time."
+msgstr "現在更新できるプラグインはありません。"
+
+#: inc/class-tgm-plugin-activation.php:2903
+msgid "No plugins are available to be installed at this time."
+msgstr "現時点でインストールできるプラグインはありません。"
+
+#: inc/class-tgm-plugin-activation.php:2862
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "アップデートするプラグインが選択されていません。何も実行しませんでした。"
+
+#: inc/class-tgm-plugin-activation.php:2860
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "インストールするプラグインが選択されていません。何も実行しませんでした。"
+
+#: inc/class-tgm-plugin-activation.php:2829 inc/translations.php:297
+msgid "Activate"
+msgstr "有効化"
+
+#: inc/class-tgm-plugin-activation.php:2826
+msgid "Update"
+msgstr "更新"
+
+#: inc/class-tgm-plugin-activation.php:2820 inc/translations.php:298
+msgid "Install"
+msgstr "インストール"
+
+#: inc/class-tgm-plugin-activation.php:2786
+msgid "Upgrade message from the plugin author:"
+msgstr "プラグイン作者からの更新メッセージ:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2712
+msgid "Activate %2$s"
+msgstr "%2$s を有効化"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2706
+msgid "Update %2$s"
+msgstr "%2$s を更新"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2701
+msgid "Install %2$s"
+msgstr "%2$s をインストール"
+
+#: inc/class-tgm-plugin-activation.php:2651
+msgid "Status"
+msgstr "ステータス"
+
+#: inc/class-tgm-plugin-activation.php:2650
+msgid "Version"
+msgstr "バージョン"
+
+#: inc/class-tgm-plugin-activation.php:2646 inc/translations.php:152
+msgid "Type"
+msgstr "タイプ"
+
+#: inc/class-tgm-plugin-activation.php:2645
+msgid "Source"
+msgstr "ソース"
+
+#: inc/class-tgm-plugin-activation.php:2644
+msgid "Plugin"
+msgstr "プラグイン"
+
+#: inc/class-tgm-plugin-activation.php:2628
+msgid "No plugins to install, update or activate."
+msgstr "インストール・更新・有効化可能なプラグインがありません。"
+
+#: inc/class-tgm-plugin-activation.php:2604
+msgid "Available version:"
+msgstr "利用可能なバージョン:"
+
+#: inc/class-tgm-plugin-activation.php:2590
+msgid "Minimum required version:"
+msgstr "最低要求バージョン:"
+
+#: inc/class-tgm-plugin-activation.php:2581
+msgid "Installed version:"
+msgstr "インストールしたバージョン:"
+
+#: inc/class-tgm-plugin-activation.php:2572
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "不明"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2485
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "有効化可能 <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2480
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "利用可能な更新 <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2475
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "インストール可能 <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2470
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "すべて <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/class-tgm-plugin-activation.php:2423
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2414
+msgid "Update recommended"
+msgstr "更新が推奨されています"
+
+#: inc/class-tgm-plugin-activation.php:2411
+msgid "Requires Update"
+msgstr "更新が必要です"
+
+#: inc/class-tgm-plugin-activation.php:2408
+msgid "Required Update not Available"
+msgstr "必要な更新が利用できません"
+
+#: inc/class-tgm-plugin-activation.php:2402 inc/translations.php:301
+msgid "Active"
+msgstr "有効"
+
+#: inc/class-tgm-plugin-activation.php:2400
+msgid "Installed But Not Activated"
+msgstr "停止中"
+
+#: inc/class-tgm-plugin-activation.php:2396
+msgid "Not Installed"
+msgstr "インストールされていません"
+
+#: inc/class-tgm-plugin-activation.php:2378
+msgid "Pre-Packaged"
+msgstr "プリパッケージ"
+
+#: inc/class-tgm-plugin-activation.php:2375
+msgid "External Source"
+msgstr "外部ソース"
+
+#: inc/class-tgm-plugin-activation.php:2372
+msgid "WordPress Repository"
+msgstr "WordPress 公式ディレクトリ"
+
+#: inc/class-tgm-plugin-activation.php:2355
+msgid "Recommended"
+msgstr "おすすめ"
+
+#: inc/class-tgm-plugin-activation.php:2352
+msgid "Required"
+msgstr "必須"
+
+#. translators: %s: version number
+#: inc/class-tgm-plugin-activation.php:2054
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/class-tgm-plugin-activation.php:1152
+#: inc/class-tgm-plugin-activation.php:3055
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "と"
+
+#: inc/class-tgm-plugin-activation.php:960
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "リモートプラグインパッケージは複数のファイルで構成されていますが、ファイルは1つのフォルダー内にパッケージされていません。"
+
+#: inc/class-tgm-plugin-activation.php:955
+#: inc/class-tgm-plugin-activation.php:961
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "プラグイン提供者に連絡し、WordPress のガイドラインに従ってプラグインをパッケージ化するように依頼してください。"
+
+#: inc/class-tgm-plugin-activation.php:954
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "リモートプラグインパッケージには、指定されたスラッグのフォルダがないため、名前の変更ができませんでした。"
+
+#: inc/class-tgm-plugin-activation.php:532
+msgid "Update Required"
+msgstr "更新が必要です"
+
+#: inc/class-tgm-plugin-activation.php:531
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "使用中のテーマとの互換性を保つため、このプラグインを更新する必要があります。"
+
+#: inc/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "ヘルプが必要な場合はこのサイトの管理者にお問い合わせください。"
+
+#: inc/class-tgm-plugin-activation.php:402
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "インストール・更新・有効化可能な必須・推奨プラグインがあります。"
+
+#: inc/class-tgm-plugin-activation.php:401
+msgid "Dismiss this notice"
+msgstr "通知を無視"
+
+#. translators: 1: dashboard link.
+#: inc/class-tgm-plugin-activation.php:399
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "すべてのプラグインを正常にインストールし、有効化しました。 %1$s"
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:396
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "プラグインを有効化できませんでした。このテーマには上位バージョンの %s が必要です。プラグインを更新してください。"
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:393
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "操作を実行しませんでした。プラグイン %1$s はすでに有効です。"
+
+#: inc/class-tgm-plugin-activation.php:390
+#: inc/class-tgm-plugin-activation.php:3060
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "以下のプラグインが活性化された。"
+
+#: inc/class-tgm-plugin-activation.php:389
+#: inc/class-tgm-plugin-activation.php:3275
+msgid "Plugin activated successfully."
+msgstr "プラグインを有効化しました。"
+
+#: inc/class-tgm-plugin-activation.php:388
+#: inc/class-tgm-plugin-activation.php:843
+#: inc/class-tgm-plugin-activation.php:2629
+#: inc/class-tgm-plugin-activation.php:3728
+msgid "Return to the Dashboard"
+msgstr "ダッシュボードに戻る"
+
+#: inc/class-tgm-plugin-activation.php:387
+msgid "Return to Required Plugins Installer"
+msgstr "必須プラグインのインストール画面に戻る"
+
+#: inc/class-tgm-plugin-activation.php:382
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "プラグインの有効化を開始"
+
+#: inc/class-tgm-plugin-activation.php:377
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "プラグインの更新を開始"
+
+#: inc/class-tgm-plugin-activation.php:372
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "プラグインのインストールを開始"
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:366
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "推奨プラグインが現在無効です: %1$s。"
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:360
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "必須プラグインが現在無効です: %1$s。"
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:354
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "次のプラグインには利用可能な更新があります: %1$s"
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:348
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "%1$s プラグインは、このテーマとの互換性を完全にするために最新バージョンへの更新が必要です。"
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:342
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "このテーマは、以下のプラグインの利用を推奨しています: %1$s。"
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:336
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "このテーマは、以下のプラグインの利用が必要です: %1$s。"
+
+#: inc/class-tgm-plugin-activation.php:335
+msgid "Something went wrong with the plugin API."
+msgstr "Plugin API で問題が発生しました。"
+
+#. translators: %s: plugin name.
+#: inc/class-tgm-plugin-activation.php:334
+msgid "Updating Plugin: %s"
+msgstr "プラグインの更新: %s"
+
+#. translators: %s: plugin name.
+#: inc/class-tgm-plugin-activation.php:332
+msgid "Installing Plugin: %s"
+msgstr "プラグインをインストール中: %s"
+
+#: inc/class-tgm-plugin-activation.php:330
+msgid "Install Plugins"
+msgstr "プラグインのインストール"
+
+#: inc/class-tgm-plugin-activation.php:329
+msgid "Install Required Plugins"
+msgstr "必要なプラグインをインストールする"
+
+#: functions.php:36
+msgid "Current php version is: %1$s and the mininum required version is %2$s"
+msgstr "現在の PHP のバージョンは%1$sです。最低限必要なバージョンは%2$sです。"
+
+#: functions.php:33
+msgid "You need to update your PHP version to use the %s."
+msgstr "%s を使用するには PHP のバージョンを更新する必要があります。"
+
+#: functions.php:31
+msgid "Silverstorm theme activation failed!"
+msgstr "Silverstorm のテーマの起動に失敗しました！"
+
+#: comments.php:42 template-parts/blog/comments.php:37
+msgid "Comments are closed."
+msgstr "コメントは受け付けていません。"
+
+#: comments.php:33
+msgid "Newer Comments <i class=\"font-icon-post fa fa-angle-double-right\"></i>"
+msgstr "新しいコメント <i class=\"font-icon-post fa fa-angle-double-right\"></i>"
+
+#: comments.php:29
+msgid "<i class=\"font-icon-post fa fa-angle-double-left\"></i> Older Comments"
+msgstr "<i class=\"font-icon-post fa fa-angle-double-left\"></i> 過去のコメント"
+
+#: comments.php:12 template-parts/blog/comments.php:14
+msgid "% Responses"
+msgstr "%件の返信"
+
+#: comments.php:11
+msgid "One Response"
+msgstr "1件の返信"
+
+#: comments.php:11
+msgid "No Responses"
+msgstr "返信がありません"
+
+#: admin/admin-notice.php:121
+msgid "This action will also install the Colibri Page Builder plugin."
+msgstr "このアクションは、Colibri Page Builder プラグインもインストールします。"
+
+#: admin/admin-notice.php:109
+msgid "Maybe Later"
+msgstr "多分後で"
+
+#: admin/admin-notice.php:105
+msgid "Install the Silverstorm homepage"
+msgstr "Silverstorm ホームページをインストール"
+
+#: admin/admin-notice.php:100
+msgid "Would you like to install the pre-designed Silverstorm homepage?"
+msgstr "あらかじめデザインされた Silverstorm ホームページをインストールしますか？"
+
+#: admin/admin-notice.php:63 admin/page.php:18
+msgid "Activating"
+msgstr "有効化しています"
+
+#: admin/admin-notice.php:41
+msgid "Fullscreen"
+msgstr "フルスクリーン"
+
+#: admin/admin-notice.php:32
+msgid "Classic"
+msgstr "クラシック"
+
+#: admin/admin-notice.php:13 admin/admin-notice.php:22
+msgid "Modern"
+msgstr "モダーン"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://extendthemes.com/"
+msgstr "https://extendthemes.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Extend Themes"
+msgstr "Extend Themes"

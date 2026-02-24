@@ -1,0 +1,296 @@
+# Translation of Themes - Enwoo in Portuguese (Portugal)
+# This file is distributed under the same license as the Themes - Enwoo package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-12-12 13:29:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: pt\n"
+"Project-Id-Version: Themes - Enwoo\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Enwoo is a fast, clean, lightweight, customizable and modern-looking free responsive multipurpose WordPress theme. Suitable for blog, creative, portfolio or business website and WooCommerce storefront. Theme supports popular page builders like Elementor, Beaver Builder, SiteOrigin, Thrive Architect, Divi, Brizy, Visual Composer, Gutenberg etc. Enwoo comes with unique WooCommerce Features and it is compatible with YITH WooCommerce Wishlist, YITH WooCommerce Compare, WooCommerce Variation Swatches and other popular plugins. The theme is SEO friendly, WPML and RTL ready. Documentation: https://enwoo-wp.com/docs/enwoo-documentation/ Theme demos ready to import: https://enwoo-wp.com/demos/"
+msgstr "O Enwoo é um tema WordPress gratuito para vários tipos de site, rápido, limpo, leve, personalizável, moderno e responsivo. É adequado para blogs, sites criativos, portefólios, negócios e lojas WooCommerce. Este tema suporta construtores de páginas populares, como o Elementor, Beaver Builder, SiteOrigin, Thrive Architect, Divi, Brizy, Visual Composer, Gutenberg, etc. O Enwoo inclui funcionalidades únicas para WooCommerce e é compatível com YITH WooCommerce Wishlist, YITH WooCommerce Compare, WooCommerce Variation Swatches e outros plugins populares. O tema é adequado para SEO, WPML e está preparado para RTL. Documentação: https://enwoo-wp.com/docs/enwoo-documentation/ Demonstração do tema pronta a importar: https://enwoo-wp.com/demos/"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Enwoo"
+msgstr "Enwoo"
+
+#: lib/customizer/install/class-plugin-install-helper.php:110
+#: lib/customizer/notice/class-customizer-notice.php:145
+msgid "Activating"
+msgstr "A activar"
+
+#. Template Name of the theme
+msgid "Page Builders"
+msgstr "Construtores de páginas"
+
+#. Template Name of the theme
+msgid "No Sidebar"
+msgstr "Sem barras laterais"
+
+#. translators: %s: search result string
+#: search.php:10
+msgid "Search Results for: %s"
+msgstr "Resultados da pesquisa por: %s"
+
+#: lib/wp_bootstrap_navwalker.php:366
+msgid "Add a menu"
+msgstr "Adicionar um menu"
+
+#: lib/woocommerce.php:254
+msgid "Search"
+msgstr "Pesquisar"
+
+#: lib/woocommerce.php:223
+msgid "All Categories"
+msgstr "Todas as categorias"
+
+#: lib/woocommerce.php:221
+msgid "Search products..."
+msgstr "Pesquisar produtos..."
+
+#: lib/woocommerce.php:159 lib/woocommerce.php:181
+msgid "Categories"
+msgstr "Categorias"
+
+#: lib/woocommerce.php:118
+msgid "Compare"
+msgstr "Comparar"
+
+#: lib/woocommerce.php:98
+msgid "Wishlist"
+msgstr "Lista de desejos"
+
+#: lib/woocommerce.php:78
+msgid "My Account"
+msgstr "A minha conta"
+
+#: lib/woocommerce.php:6
+msgid "Cart"
+msgstr "Carrinho"
+
+#: lib/enwoo-plugin-install.php:75
+msgid "Learn more"
+msgstr "Saiba mais"
+
+#: lib/customizer-recommend.php:25 lib/enwoo-plugin-install.php:55
+msgid "Install now"
+msgstr "Instalar agora"
+
+#: lib/enwoo-dashboard.php:129
+msgid "Install"
+msgstr "Instalar"
+
+#: lib/customizer-recommend.php:26
+#: lib/customizer/install/class-plugin-install-helper.php:59
+#: lib/customizer/install/class-plugin-install-helper.php:75
+#: lib/enwoo-dashboard.php:129 lib/enwoo-plugin-install.php:40
+msgid "Activate"
+msgstr "Activar"
+
+#: lib/enwoo-dashboard.php:129 lib/enwoo-plugin-install.php:29
+msgid "Activated"
+msgstr "Activado"
+
+#. translators: %s: Theme name
+#: lib/enwoo-dashboard.php:83
+msgid "Get started with %s"
+msgstr "Comece a trabalhar com o %s"
+
+#. translators: %s: Plugin name string
+#: lib/customizer-recommend.php:20 lib/enwoo-dashboard.php:76
+#: lib/enwoo-dashboard.php:126
+msgid "To take full advantage of all the features this theme has to offer, please install and activate the %s plugin."
+msgstr "Para aproveitar todas as funcionalidades que este tema tem para oferecer, por favor instale e active o plugin %s."
+
+#. translators: %s: Theme name
+#: lib/customizer-recommend.php:24 lib/enwoo-dashboard.php:70
+#: lib/enwoo-dashboard.php:120
+msgid "Thank you for installing %s."
+msgstr "Obrigado por instalar o %s."
+
+#: lib/customizer/info.php:147
+msgid "View PRO version"
+msgstr "Ver a versão PRO"
+
+#: lib/customizer/info.php:145
+msgid "PRO version"
+msgstr "versão PRO"
+
+#. translators: %s: "documentation" string
+#: lib/customizer/info.php:30
+msgid "For step-by-step videos and text tutorials, see %1$s"
+msgstr "Para tutoriais passo a passo em vídeo e texto, consulte a %1$s"
+
+#. translators: %s: "demos here" string
+#: lib/customizer/info.php:26
+msgid "demos"
+msgstr "demonstrações"
+
+#. translators: %s: "demos here" string
+#: lib/customizer/info.php:26
+msgid "You can use this theme to create a website like these %1$s"
+msgstr "Pode utilizar este tema para criar um site como estas %1$s"
+
+#: lib/customizer/info.php:11
+msgid "Video Documentation & Demo"
+msgstr "Documentação em vídeo e demonstração"
+
+#: lib/customizer/demo.php:42 lib/customizer/demo.php:44
+msgid "Import demo data"
+msgstr "Importar dados de demonstração"
+
+#. translators: %s: "documentation" string
+#: lib/customizer/demo.php:27 lib/customizer/info.php:30
+msgid "documentation"
+msgstr "documentação"
+
+#. translators: %s: "documentation" string
+#: lib/customizer/demo.php:27
+msgid "You can import the demo content with just one click. For step-by-step video tutorial, see %1$s"
+msgstr "Pode importar conteúdos da demonstração com apenas um clique. Para um tutorial em vídeo passo a passo, consulte a %1$s"
+
+#: lib/customizer/demo.php:15
+msgid "One Click Demo Import"
+msgstr "Importar demonstração com um clique"
+
+#: functions.php:1011
+msgid "Skip to the content"
+msgstr "Saltar para o conteúdo"
+
+#: functions.php:887
+msgid "Next"
+msgstr "Seguinte"
+
+#: functions.php:887
+msgid "Next Post"
+msgstr "Artigo seguinte"
+
+#: functions.php:886
+msgid "Previous"
+msgstr "Anterior"
+
+#: functions.php:886
+msgid "Previous Post"
+msgstr "Artigo anterior"
+
+#: functions.php:759
+msgid "About The Author"
+msgstr "Sobre o autor"
+
+#: functions.php:736
+msgid "Comment on "
+msgstr "Comentário em "
+
+#: functions.php:733
+msgid "Off"
+msgstr "Não"
+
+#: functions.php:710
+msgid "By"
+msgstr "Por"
+
+#: functions.php:549
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: functions.php:545
+msgid "Category"
+msgstr "Categoria"
+
+#: functions.php:492
+msgid "Footer Section"
+msgstr "Secção do rodapé"
+
+#: functions.php:481
+msgid "Header Section"
+msgstr "Secção de cabeçalho"
+
+#: functions.php:470
+msgid "Top Bar Section"
+msgstr "Secção da barra superior"
+
+#: functions.php:460
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: functions.php:33
+msgid "Categories Menu"
+msgstr "Menu de categorias"
+
+#: functions.php:32
+msgid "Menu Right"
+msgstr "Menu à direita"
+
+#: functions.php:29
+msgid "Main Menu"
+msgstr "Menu principal"
+
+#: content-none.php:19
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que não foi possível encontrar o que procurava. Talvez uma pesquisa ajude."
+
+#: content-none.php:14
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Não foi encontrado nenhum resultado correspondente ao seu critério de pesquisa. Por favor tente com outras palavras-chave."
+
+#. translators: %1$s: link to admin area
+#: content-none.php:9
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Quer publicar o seu primeiro artigo? <a href=\"%1$s\">Comece aqui</a>."
+
+#: content-none.php:3
+msgid "Nothing Found"
+msgstr "Nenhum resultado encontrado"
+
+#: comments.php:47
+msgid "Comments are closed."
+msgstr "Os comentários estão fechados."
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:22
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s comentário em &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s comentário em &ldquo;%2$s&rdquo;"
+
+#. translators: %s: post title
+#: comments.php:19
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Um comentário em &ldquo;%s&rdquo;"
+
+#: 404.php:15
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Parece que não foi encontrado nada aqui. Que tal tentar uma pesquisa?"
+
+#: 404.php:13
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups! Não foi possível encontrar essa página."
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://envothemes.com/"
+msgstr "https://envothemes.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "EnvoThemes"
+msgstr "EnvoThemes"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://enwoo-wp.com/"
+msgstr "https://enwoo-wp.com/"

@@ -1,0 +1,604 @@
+# Translation of Themes - Hello Biz in Russian
+# This file is distributed under the same license as the Themes - Hello Biz package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-09-18 17:54:51+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Hello Biz\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Hello Biz is a free, user-friendly Hybrid WordPress Theme that was crafted for seamless integration with the Elementor site builder and tailored specifically for business websites. Perfect for beginners, but far from limited to just them, it features a dedicated beginner-oriented “Home” screen to simplify and streamline the web-building process. Hello Biz also integrates with Elementor’s premium features, giving you access to tools like AI, and accessibility enhancements in one place. Whether launching a startup site or refining a company portfolio, Hello Biz offers a solid, responsive foundation for all web creators. Report security bugs through the Patchstack Vulnerability Disclosure Program. The Patchstack team validates, triages, and handles vulnerabilities. Report here: https://patchstack.com/database/wordpress/theme/hello-biz/vdp."
+msgstr "Hello Biz - это бесплатная, удобная в использовании гибридная WordPress-тема, созданная для бесшовной интеграции с конструктором сайтов Elementor и предназначенная специально для бизнес-сайтов. Она идеально подходит для новичков, но далеко не ограничивается только ими: в ней есть специальный экран \"Главная\", ориентированный на новичков, чтобы упростить и оптимизировать процесс создания сайта. Hello Biz также интегрируется с премиум-функциями Elementor, предоставляя Вам доступ к таким инструментам, как искусственный интеллект и улучшение доступности в одном месте. Запускаете ли Вы сайт стартапа или дорабатываете портфолио компании, Hello Biz предлагает надежную, отзывчивую основу для всех создателей сайтов. Сообщайте об ошибках в системе безопасности через Программу раскрытия уязвимостей Patchstack. Команда Patchstack проверяет, сортирует и устраняет уязвимости. Сообщайте здесь: https://patchstack.com/database/wordpress/theme/hello-biz/vdp."
+
+#. Theme Name of the theme
+#: style.css modules/admin-home/components/admin-menu-controller.php:28
+#: modules/admin-home/components/admin-menu-controller.php:29
+#: assets/js/hello-biz-admin-top-bar.js:1
+#, gp-priority: high
+msgid "Hello Biz"
+msgstr "Hello Biz"
+
+#: assets/js/hello-biz-settings.js:74
+msgid "Tip: If you use an SEO plugin that handles meta descriptions, like Yoast or Rank Math, disable this option to prevent duplicate meta tags."
+msgstr ""
+
+#: assets/js/hello-biz-settings.js:74
+msgid "What it does: Removes the description meta tag code from singular content pages."
+msgstr ""
+
+#: assets/js/hello-biz-settings.js:74
+msgid "Disable description meta tag"
+msgstr ""
+
+#: assets/js/hello-biz-admin.js:101
+msgid "Create header"
+msgstr ""
+
+#: assets/js/hello-biz-admin.js:101
+msgid "Got it"
+msgstr "Понятно"
+
+#: assets/js/hello-biz-admin.js:101
+msgid "Create your website header and footer from the Hello Biz home screen. Find more Hello+ widgets in the Elementor Editor. Hello+ is installed and active on your site."
+msgstr ""
+
+#: assets/js/hello-biz-admin.js:101
+msgid "Your Hello Biz setup is complete with Hello+"
+msgstr ""
+
+#: assets/js/hello-biz-admin.js:101
+msgid "Installing Hello+…"
+msgstr ""
+
+#: assets/js/hello-biz-admin.js:101 assets/js/hello-biz-customizer.js:1
+msgid "Something went wrong. Please try again later. You can also contact our support at: wordpress.org/plugins/hello-plus"
+msgstr ""
+
+#: modules/theme/classes/customizer-action-links.php:63
+msgid "Customize your header and footer across your website."
+msgstr ""
+
+#: modules/theme/classes/customizer-action-links.php:62
+msgid "Style your header and footer"
+msgstr ""
+
+#: modules/conversion-banner/components/ajax-handler.php:26
+msgid "Click the link to activate Hello Plus."
+msgstr ""
+
+#: modules/admin-home/rest/install-confirmation.php:62
+msgid "Install confirmation dialog dismissed."
+msgstr ""
+
+#: modules/admin-home/rest/install-confirmation.php:53
+msgid "Failed to update user meta."
+msgstr ""
+
+#: modules/admin-home/rest/install-confirmation.php:43
+msgid "User not found."
+msgstr "Пользователь не найден."
+
+#: modules/admin-home/components/admin-bar-controller.php:37
+msgid "Manage Hello Biz theme"
+msgstr ""
+
+#: includes/welcome-banner-config.php:57
+#: modules/admin-home/components/admin-menu-controller.php:92
+msgid "Begin setup"
+msgstr ""
+
+#: includes/welcome-banner-config.php:53
+#: modules/admin-home/components/admin-menu-controller.php:89
+msgid "Finish setup"
+msgstr ""
+
+#: includes/welcome-banner-config.php:43
+msgid "Access the full suite of features, including website templates, header and footer templates, and extra widgets."
+msgstr ""
+
+#: includes/welcome-banner-config.php:41
+msgid "Access everything you need to set up and manage your website."
+msgstr ""
+
+#: includes/welcome-banner-config.php:39
+msgid "Choose a website template and start customizing your site."
+msgstr ""
+
+#: includes/welcome-banner-config.php:37
+msgid "Hello+ is a free plugin that gives your website a header, footer, and extra widgets designed to help you build a business-ready site."
+msgstr ""
+
+#: includes/welcome-banner-config.php:26 modules/theme/module.php:91
+msgid "Hello Biz Home"
+msgstr ""
+
+#: includes/welcome-banner-config.php:24
+msgid "Almost there"
+msgstr ""
+
+#: includes/welcome-banner-config.php:22
+msgid "Complete your website faster with Hello+"
+msgstr ""
+
+#: assets/js/hello-biz-admin.js:101
+msgid "Resources"
+msgstr "Ресурсы"
+
+#: assets/js/hello-biz-admin.js:101
+msgid "Community"
+msgstr "Сообщество"
+
+#: modules/admin-home/rest/promotions.php:49
+msgid "Connect any website to automated Email & SMS workflows in a click with Send."
+msgstr ""
+
+#: modules/admin-home/rest/promotions.php:46
+msgid "Send"
+msgstr "Отправить"
+
+#: modules/admin-home/rest/admin-config.php:302
+msgid "Site Favicon"
+msgstr "Значок сайта"
+
+#: modules/admin-home/rest/admin-config.php:263
+msgid "Add New"
+msgstr "Добавить новый"
+
+#: modules/admin-home/rest/admin-config.php:259
+msgid "Edit"
+msgstr "Изменить"
+
+#: modules/admin-home/components/admin-menu-controller.php:54
+#: modules/admin-home/components/admin-menu-controller.php:55
+#: modules/admin-home/rest/admin-config.php:219
+msgid "Theme Builder"
+msgstr "Построитель тем"
+
+#: modules/admin-home/rest/admin-config.php:90
+msgid "Platinum Support"
+msgstr "Платиновая поддержка"
+
+#: modules/admin-home/rest/admin-config.php:84
+msgid "Blog"
+msgstr "Блог"
+
+#: modules/admin-home/rest/admin-config.php:78
+msgid "Help Center"
+msgstr "Центр помощи"
+
+#: modules/admin-home/rest/admin-config.php:70
+msgid "Rate Us"
+msgstr "Оцените нас"
+
+#: modules/admin-home/rest/admin-config.php:65
+msgid "Discord"
+msgstr "Discord"
+
+#: modules/admin-home/rest/admin-config.php:59
+msgid "YouTube"
+msgstr "YouTube"
+
+#: modules/admin-home/rest/admin-config.php:53
+msgid "Facebook"
+msgstr "Facebook"
+
+#: assets/js/hello-biz-settings.js:74
+msgid "Tip: If a Hello+ or Elementor Pro theme builder header or footer already exists on the website, it will get priority. In such case, this setting has no effect and the toggle will be ignored."
+msgstr ""
+
+#: template-parts/search.php:102
+msgid "Next"
+msgstr "Далее"
+
+#: template-parts/search.php:91
+msgid "Previous"
+msgstr "Назад"
+
+#. translators: 1: Number of results, 2: Search term
+#: template-parts/search.php:33
+msgid "%1$s found for %2$s"
+msgstr "%1$s найдено для %2$s"
+
+#. translators: %d: Number of search results
+#: template-parts/search.php:27
+msgid "%d result"
+msgid_plural "%d results"
+msgstr[0] "%d результат"
+msgstr[1] "%d результата"
+msgstr[2] "%d результатов"
+
+#: template-parts/404.php:31
+msgid "Try searching or <a href=\"%s\">return to homepage</a>."
+msgstr "Попробуйте воспользоваться поиском или <a href=\"%s\">вернитесь на главную страницу</a>."
+
+#: template-parts/404.php:20
+msgid "We can't find that page"
+msgstr "Мы не можем найти эту страницу"
+
+#: template-parts/404.php:17
+msgid "404"
+msgstr "404"
+
+#: searchform.php:18 searchform.php:23
+msgctxt "submit button"
+msgid "Search"
+msgstr "Поиск"
+
+#: searchform.php:15
+msgctxt "placeholder"
+msgid "Search…"
+msgstr "Поиск…"
+
+#: searchform.php:14
+msgctxt "label"
+msgid "Search for:"
+msgstr "Поиск:"
+
+#: assets/js/hello-biz-settings.js:74
+msgid "Changelog"
+msgstr "Журнал изменений"
+
+#: modules/admin-home/rest/promotions.php:30
+msgid "Try Image Optimizer for free"
+msgstr "Попробуйте Image Optimizer бесплатно"
+
+#: modules/admin-home/rest/promotions.php:29
+msgid "Improve Speed."
+msgstr "Улучшенная скорость."
+
+#: modules/admin-home/rest/promotions.php:28
+msgid "Reduce Size."
+msgstr "Уменьшите размер."
+
+#: modules/admin-home/rest/promotions.php:27
+msgid "Optimize Images."
+msgstr "Оптимизируйте изображения."
+
+#: assets/js/hello-biz-settings.js:74
+msgid "Advanced settings are available for experienced users and developers. If you're unsure about a setting, we recommend keeping the default option."
+msgstr "Опытным пользователям и разработчикам доступны расширенные настройки. Если Вы не уверены в какой-либо настройке, мы рекомендуем оставить вариант по умолчанию."
+
+#: assets/js/hello-biz-settings.js:74
+msgid "Advanced theme settings"
+msgstr "Дополнительные настройки темы"
+
+#: assets/js/hello-biz-settings.js:74
+msgid "These settings affect how search engines and assistive technologies interact with your website."
+msgstr "Эти настройки влияют на то, как поисковые системы и вспомогательные технологии будут взаимодействовать с Вашим сайтом."
+
+#: assets/js/hello-biz-admin.js:101
+msgid "Recent Pages"
+msgstr "Недавние страницы"
+
+#: modules/theme/starter-content/home.php:400
+msgctxt "Theme starter content"
+msgid "Home"
+msgstr "Главная"
+
+#: assets/js/hello-biz-admin.js:101
+msgid "The kit you imported doesn't have an Header or a Footer."
+msgstr ""
+
+#: assets/js/hello-biz-settings.js:74
+msgid "CSS and styling control"
+msgstr "Управление CSS и стилями"
+
+#: assets/js/hello-biz-settings.js:74
+msgid "Structure and layout"
+msgstr "Структура и макет"
+
+#: assets/js/hello-biz-settings.js:74
+msgid "SEO and accessibility"
+msgstr "SEO и доступность"
+
+#: assets/js/hello-biz-settings.js:74
+msgid "Tip: Deregistering theme.css can make your website load faster. Disable it only if you are not using any WordPress elements on your website, or if you want to style them yourself. Examples of WordPress elements include comments area, pagination box, and image align classes."
+msgstr "Совет: Отмена регистрации theme.css может ускорить загрузку Вашего сайта. Отключайте его только в том случае, если Вы не используете никаких элементов WordPress на своем сайте, или если Вы хотите стилизовать их самостоятельно. Примерами элементов WordPress являются область комментариев, поле пагинации и классы выравнивания изображений."
+
+#: assets/js/hello-biz-settings.js:74
+msgid "What it does: Turns off CSS reset rules by disabling the theme’s primary stylesheet. CSS reset rules make sure your website looks the same in different browsers."
+msgstr "Что это делает: Отключает правила сброса CSS, отключая основную таблицу стилей темы. Правила сброса CSS следят за тем, чтобы Ваш сайт выглядел одинаково в разных браузерах."
+
+#: assets/js/hello-biz-settings.js:74
+msgid "Deregister Hello Biz theme.css"
+msgstr "Отменить регистрацию Hello Biz theme.css"
+
+#: assets/js/hello-biz-settings.js:74
+msgid "Be Careful, disabling these settings could break your website."
+msgstr "Будь осторожен, отключение этих настроек может сломать твой сайт."
+
+#: assets/js/hello-biz-settings.js:74
+msgid "Tip: If you do not want to display page titles or are using Elementor widgets to display your page titles, hide the page title."
+msgstr "Совет: Если Вы не хотите отображать заголовки страниц или используете виджеты Elementor для отображения заголовков своих страниц, скройте заголовок страницы."
+
+#: assets/js/hello-biz-settings.js:74
+msgid "What it does: Removes the main page title above your page content."
+msgstr "Что это делает: Убирает заголовок главной страницы над ее содержимым."
+
+#: assets/js/hello-biz-settings.js:74
+msgid "Hide page title"
+msgstr "Скрыть заголовок страницы"
+
+#: assets/js/hello-biz-settings.js:74
+msgid "What it does: Removes the theme’s default header and footer sections from every page, along with their associated CSS/JS files."
+msgstr "Что это делает: Удаляет с каждой страницы темы разделы заголовка и подвала по умолчанию, а также связанные с ними CSS/JS-файлы."
+
+#: assets/js/hello-biz-settings.js:74
+msgid "Disable theme header and footer"
+msgstr "Отключить заголовок и подвал темы"
+
+#: assets/js/hello-biz-settings.js:74
+msgid "These settings relate to the structure of your pages."
+msgstr "Эти настройки относятся к структуре Ваших страниц."
+
+#: assets/js/hello-biz-settings.js:74
+msgid "Tip: If you use an accessibility plugin that adds a \"skip to content\" link, disable this option to prevent duplications."
+msgstr ""
+
+#: assets/js/hello-biz-settings.js:74
+msgid "What it does: Removes the \"Skip to content\" link that helps screen reader users and keyboard navigators jump directly to the main content."
+msgstr ""
+
+#: assets/js/hello-biz-settings.js:74
+msgid "Disable skip links"
+msgstr "Отключить ссылку для пропуска"
+
+#: assets/js/hello-biz-settings.js:74
+msgid "These settings affect how search engines and assistive technologies interact with your site."
+msgstr "Эти настройки влияют на то, как поисковые системы и вспомогательные технологии будут взаимодействовать с Вашим сайтом."
+
+#: assets/js/hello-biz-settings.js:1
+msgid "Error when saving settings"
+msgstr "Ошибка при сохранении настроек"
+
+#: assets/js/hello-biz-settings.js:1
+msgid "Settings Saved"
+msgstr "Настройки сохранены"
+
+#: assets/js/hello-biz-conversion-banner.js:101
+msgid "Dismiss this notice."
+msgstr "Отклонить это уведомление."
+
+#: assets/js/hello-biz-admin.js:101
+msgid "General"
+msgstr "Общие"
+
+#: assets/js/hello-biz-admin.js:101
+msgid "Site Parts"
+msgstr "Части сайта"
+
+#: includes/welcome-banner-config.php:82
+msgid "By clicking \"%s\" I agree to install and activate the Hello+ plugin."
+msgstr "Нажимая кнопку \"%s\", я соглашаюсь установить и активировать плагин Hello+."
+
+#: includes/welcome-banner-config.php:28
+msgid "Welcome to Hello Biz"
+msgstr "Добро пожаловать в Hello Biz"
+
+#: assets/js/hello-biz-admin.js:101
+msgid "These quick actions will get your site airborne in a flash."
+msgstr "Эти быстрые действия в мгновение ока поднимут твой сайт в воздух."
+
+#: assets/js/hello-biz-admin.js:101
+msgid "Quick Links"
+msgstr "Быстрые ссылки"
+
+#: template-parts/single.php:31
+msgid "Tagged "
+msgstr "Отмеченные "
+
+#: template-parts/search.php:73
+msgid "It seems we can't find what you're looking for."
+msgstr "Кажется, мы не можем найти то, что вы ищете."
+
+#: template-parts/header.php:43
+msgid "Main menu"
+msgstr "Главное меню"
+
+#: template-parts/footer.php:21
+msgid "Footer menu"
+msgstr "Нижнее меню"
+
+#. translators: %s: HTML entity for arrow character.
+#: template-parts/archive.php:54
+msgid "Next %s"
+msgstr "Далее %s"
+
+#. translators: %s: HTML entity for arrow character.
+#: template-parts/archive.php:50
+msgid "%s Previous"
+msgstr "%s Назад"
+
+#: modules/theme/components/customizer.php:22
+msgid "Header & Footer"
+msgstr "Заголовок и подвал"
+
+#: modules/theme/classes/customizer-action-links.php:66
+msgid "By clicking “Begin setup” I agree to install and activate the Hello+ plugin."
+msgstr "Нажимая кнопку \"Начать настройку\", я соглашаюсь установить и активировать плагин Hello+."
+
+#: modules/theme/classes/customizer-action-links.php:61
+msgid "Elementor"
+msgstr "Elementor"
+
+#: modules/conversion-banner/components/conversion-banner.php:109
+msgid "Notice dismissed."
+msgstr "Уведомление отклонено."
+
+#: modules/theme/classes/customizer-action-links.php:55
+msgid "Finish Setup"
+msgstr "Завершить настройку"
+
+#: modules/admin-home/rest/theme-settings.php:52
+msgid "Settings must be an array"
+msgstr "Настройки должны представлять собой массив"
+
+#: modules/admin-home/rest/promotions.php:94
+msgid "Role Manager"
+msgstr "Диспетчер ролей"
+
+#: modules/admin-home/rest/promotions.php:93
+msgid "Customs Attribute"
+msgstr ""
+
+#: modules/admin-home/rest/promotions.php:92
+msgid "Form Integrations"
+msgstr "Интеграции форм"
+
+#: modules/admin-home/rest/promotions.php:91
+msgid "Form Submission"
+msgstr "Отправка формы"
+
+#: modules/admin-home/rest/promotions.php:90
+msgid "Collaborative Notes"
+msgstr "Совместные заметки"
+
+#: modules/admin-home/rest/promotions.php:89
+msgid "E-commerce Features"
+msgstr "Функции электронной коммерции"
+
+#: modules/admin-home/rest/promotions.php:88
+msgid "Custom Code & CSS"
+msgstr "Пользовательский код и CSS"
+
+#: modules/admin-home/rest/promotions.php:87
+msgid "Popup Builder"
+msgstr "Конструктор всплывающего окна"
+
+#: modules/admin-home/rest/promotions.php:84
+msgid "Upgrade Now"
+msgstr "Обновить сейчас"
+
+#: modules/admin-home/rest/promotions.php:82
+msgid "Get complete design flexibility for your website with Elementor Pro’s advanced tools and premium features."
+msgstr "Обеспечьте полную гибкость дизайна для Вашего сайта с помощью передовых инструментов и премиум-функций Elementor Pro."
+
+#: modules/admin-home/rest/promotions.php:80
+msgid "Bring your vision to life"
+msgstr "Воплотите своё видение"
+
+#: modules/admin-home/rest/promotions.php:79
+msgid "Elementor Pro"
+msgstr "Elementor Pro"
+
+#: modules/admin-home/rest/promotions.php:70
+msgid "Let's Go"
+msgstr "Поехали"
+
+#: modules/admin-home/rest/promotions.php:68
+msgid "Boost creativity with Elementor AI. Craft & enhance copy, create custom CSS & Code, and generate images to elevate your website."
+msgstr "Повысьте творческий потенциал с помощью Elementor AI. Создавайте и улучшайте копии, создавайте пользовательские CSS и код, генерируйте изображения, чтобы сделать Ваш сайт лучше."
+
+#: modules/admin-home/rest/promotions.php:65
+#: modules/admin-home/rest/promotions.php:66
+msgid "Elementor AI"
+msgstr "Elementor AI"
+
+#: modules/admin-home/rest/promotions.php:32
+#: modules/admin-home/rest/promotions.php:51
+msgid "Install"
+msgstr "Установить"
+
+#: modules/admin-home/rest/promotions.php:24
+msgid "Elementor Image Optimizer"
+msgstr "Оптимизатор изображений Elementor"
+
+#: includes/welcome-banner-config.php:123
+msgid "View site"
+msgstr "Посмотреть сайт"
+
+#: includes/welcome-banner-config.php:55
+msgid "Edit home page"
+msgstr "Редактирование главной страницы"
+
+#: modules/theme/classes/customizer-action-links.php:46
+msgid "Begin Setup"
+msgstr "Начать настройку"
+
+#: modules/admin-home/rest/admin-config.php:316
+msgid "Site Fonts"
+msgstr "Шрифты сайта"
+
+#: modules/admin-home/rest/admin-config.php:310
+msgid "Site Colors"
+msgstr "Цвета сайта"
+
+#: modules/admin-home/rest/admin-config.php:297
+msgid "Site Logo"
+msgstr "Логотип сайта"
+
+#: modules/admin-home/rest/admin-config.php:292
+msgid "Site Name"
+msgstr "Название сайта"
+
+#: modules/admin-home/rest/admin-config.php:208
+#: modules/theme/components/theme-support.php:23
+msgid "Footer"
+msgstr "Подвал"
+
+#: modules/admin-home/rest/admin-config.php:200
+#: modules/theme/components/theme-support.php:22
+msgid "Header"
+msgstr "Заголовок"
+
+#: modules/admin-home/rest/admin-config.php:189
+#: modules/settings/components/settings-menu.php:16
+#: modules/settings/components/settings-menu.php:17
+msgid "Settings"
+msgstr "Настройки"
+
+#: modules/admin-home/rest/admin-config.php:184
+msgid "Add New Page"
+msgstr "Добавить страницу"
+
+#: modules/admin-home/components/admin-menu-controller.php:39
+#: modules/admin-home/components/admin-menu-controller.php:40
+#: template-parts/header.php:30
+msgid "Home"
+msgstr "Главная"
+
+#: includes/module-base.php:259 includes/module-base.php:270
+msgid "Something went wrong."
+msgstr "Произошла ошибка."
+
+#: header.php:31
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: comments.php:37
+msgctxt "comments title"
+msgid "%s Response"
+msgid_plural "%s Responses"
+msgstr[0] "%s ответ"
+msgstr[1] "%s ответа"
+msgstr[2] "%s ответов"
+
+#: comments.php:32
+msgctxt "comments title"
+msgid "One Response"
+msgstr "Один Ответ"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://elementor.com/?utm_source=wp-themes&utm_campaign=author-uri&utm_medium=wp-dash"
+msgstr "https://elementor.com/?utm_source=wp-themes&utm_campaign=author-uri&utm_medium=wp-dash"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Elementor Team"
+msgstr "Elementor Team"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://elementor.com/products/hello-biz/?utm_source=wp-themes&utm_campaign=theme-uri&utm_medium=wp-dash"
+msgstr "https://elementor.com/products/hello-biz/?utm_source=wp-themes&utm_campaign=theme-uri&utm_medium=wp-dash"

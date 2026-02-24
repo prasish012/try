@@ -1,0 +1,2254 @@
+# Translation of Themes - Bravada in Polish
+# This file is distributed under the same license as the Themes - Bravada package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-09-03 14:13:25+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: pl\n"
+"Project-Id-Version: Themes - Bravada\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Bravada looks amazing, behaves flawlessly and scales to any screen. It goes anywhere, it's for everyone and everything. It's clear, clean and simply gorgeous. It has CSS powered animations that will bring users to their knees. Being designed as mobile-first, it's as responsive as you'll ever get. Being highly customizable, it comes with a plethora of options that will truly make it your own while still being extremely easy to use. Google fonts are supported, but you can also use your own fonts if GPPR is giving you trouble. You can dynamically change every aspect of your fonts for many site elements (size, line height, font styles, etc.) Colors are also editable and, if you want, you'll have a great time making your own color schemes. You have multiple layouts to choose from, the site, content and sidebar widths are also customizable, magazine layouts with masonry are enabled by default, but you can also edit those. Metas like author, date, tags, categories and comments are toggleable, you can decide which ones to show on blog pages and which ones to show on single pages. Widget areas galore, place your widgets almost anywhere you want, the theme doesn't discriminate. And then there's a fully customizable landing page with icon blocks, featured boxes, text areas and a slider (you can use our own or paste in a shortcut from any other slider). We also thought about socials and you can choose from a seemingly countless number of socials to populate your site with. Gutenberg blocks? They feel right at home in our theme! Of course it's also translation ready and Right To Left (RTL) languages are fully supported out of the box. WooCommerce feels right at home with our theme, we've taken all measures to seamlessly integrate it. Oh, and just like with our other themes, the updates will keep on coming, constantly improving and keeping it relevant for years to come. Bravada is a theme for all types of sites out there: blogs, businesses, presentation or photography sites, news or portfolio sites. There are no limits - there is only Bravada."
+msgstr "Bravada wygląda niesamowicie, zachowuje się bezbłędnie i skaluje się do każdego ekranu. Jest wszędzie, jest dla każdego i wszystkiego. Jest przejrzysta, czysta i po prostu wspaniała. Ma animacje oparte na CSS, które rzucą użytkowników na kolana. Zaprojektowana jako mobilna, jest tak responsywna, jak tylko możesz. Będąc wysoce konfigurowalna, zawiera mnóstwo opcji, które naprawdę ją spersonalizują, a jednocześnie będą niezwykle łatwe w użyciu. Obsługiwane są kroje pisma Google, ale możesz również używać własnych krojów pisma, jeśli RODO sprawia Ci problemy. Możesz dynamicznie zmieniać każdy aspekt swoich krojów pisma dla wielu elementów witryny (rozmiar, wysokość wiersza, style kroju pisma itp.) Kolory są również edytowalne i jeśli chcesz, będziesz się świetnie bawić, tworząc własne schematy kolorów. Masz do wyboru wiele układów, witrynę, treść i szerokości panelu bocznego można również dostosowywać, układy magazynów z cegiełkami są domyślnie włączone, ale możesz je również edytować. Metadane takie jak autor, data, znaczniki, kategorie i komentarze są przełączalne, możesz zdecydować, które z nich mają być wyświetlane na stronach bloga, a które na pojedynczych stronach. Mnóstwo obszarów widżetów, umieść swoje widżety niemal wszędzie, gdzie chcesz, motyw nie dyskryminuje. A potem jest w pełni konfigurowalna strona docelowa z blokami ikonek, wyróżnionymi polami, obszarami tekstowymi i pokazem slajdów (możesz użyć naszych własnych lub wkleić krótki kod z dowolnego innego pokazu slajdów). Pomyśleliśmy również o mediach społecznościowych i możesz wybierać spośród pozornie niezliczonej liczby mediów społecznościowych, aby wypełnić swoją witrynę. Bloki Gutenberga? Czują się jak w domu w naszym motywie! Oczywiście jest również gotowy do tłumaczenia, a języki pisane od prawej do lewej (RTL) są w pełni obsługiwane od razu. WooCommerce czuje się jak w domu z naszym motywem, podjęliśmy wszelkie środki, aby bezproblemowo go zintegrować. Och, i tak jak w przypadku naszych innych motywów, aktualizacje będą się pojawiać, stale się ulepszając i utrzymując go aktualnym przez wiele lat. Bravada to motyw dla wszystkich typów witryn: blogów, firm, witryn prezentacyjnych lub fotograficznych, witryn informacyjnych lub portfolio. Nie ma ograniczeń - jest tylko Bravada."
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Bravada"
+msgstr "Bravada"
+
+#: admin/options.php:628
+msgid "Landing Page options"
+msgstr "Opcje strony docelowej"
+
+#: admin/options.php:628
+msgid "Configure the theme's landing page functionality in the %s"
+msgstr "Skonfiguruj funkcjonalność strony docelowej motywu w %s"
+
+#: admin/options.php:445
+msgid "Sticky Menu"
+msgstr "Przypięte Menu"
+
+#: admin/options.php:423
+msgid "Due to bandwidth considerations, header videos are only loaded on the front page for viewports that are at least 900 pixels wide and 500 pixels tall.<br>Additionally, most mobile browsers block autoplay of videos with sound."
+msgstr "Ze względu na ograniczenia przepustowości, filmy nagłówkowe są wczytywane na stronie głównej tylko w oknach o szerokości co najmniej 900 pikseli i wysokości 500 pikseli.<br>Ponadto większość przeglądarek mobilnych blokuje automatyczne odtwarzanie filmów z dźwiękiem."
+
+#: admin/options.php:1194
+msgid "Banner"
+msgstr "Baner"
+
+#: admin/options.php:1778
+msgid "Complete"
+msgstr "Zakończone"
+
+#: admin/options.php:1776
+msgid "Headings Background Accent"
+msgstr "Akcent tła nagłówków"
+
+#: admin/options.php:1753 admin/options.php:1778
+msgid "Limited"
+msgstr "Ograniczony"
+
+#: admin/options.php:1893
+msgid "Before Content"
+msgstr "Przed treścią"
+
+#: admin/options.php:1893
+msgid "In Header"
+msgstr "W nagłówku"
+
+#: admin/defaults.php:270
+msgctxt "Blog post excerpts default read more label"
+msgid "Read more"
+msgstr "Dowiedz się więcej"
+
+#: admin/defaults.php:99
+msgctxt "Landing page text boxes 2 default read more label"
+msgid "Read More"
+msgstr "Dowiedz się więcej"
+
+#: admin/defaults.php:87
+msgctxt "Landing page text boxes 1 default read more label"
+msgid "Read More"
+msgstr "Dowiedz się więcej"
+
+#: admin/defaults.php:62
+msgctxt "Landing page load more posts default label"
+msgid "More Posts"
+msgstr "Więcej wpisów"
+
+#: admin/defaults.php:59
+msgctxt "Slider CTA Text 2 default value"
+msgid "See more"
+msgstr "Zobacz więcej"
+
+#: admin/defaults.php:57
+msgctxt "Slider CTA Text 1 default value"
+msgid "Read more"
+msgstr "Dowiedz się więcej"
+
+#: header.php:64
+msgid "Main menu"
+msgstr "Menu główne"
+
+#: admin/options.php:613
+msgid "Homepage Settings"
+msgstr "Ustawienia strony domowej"
+
+#: admin/options.php:613
+msgid "Select the front (static) page in WordPress' %s"
+msgstr "Wybierz stronę główną (statyczną) w WordPressie %s"
+
+#: cryout/tgmpa-class.php:2276
+msgid "Suggested"
+msgstr "Sugerowane"
+
+#: admin/options.php:528
+msgid "Homepage only"
+msgstr "Tylko strona domowa"
+
+#: admin/options.php:528
+msgid "Always"
+msgstr "Zawsze"
+
+#: admin/options.php:1552
+msgid "Header Titles"
+msgstr "Tytuł nagłówka"
+
+#: admin/options.php:1891 admin/options.php:1941
+msgid "Display Byline"
+msgstr "Wyświetl podpis"
+
+#: admin/options.php:433
+msgid "Landing Page > Slider > Banner Image"
+msgstr "Strona docelowa > Pokaz slajdów > Obrazek banera"
+
+#: admin/options.php:433
+msgid "Configure the image currently visible on the homepage from the theme's options under %s"
+msgstr "Skonfiguruj obrazek aktualnie widoczny na stronie głównej z opcji motywu w obszarze %s"
+
+#: admin/options.php:526
+msgid "Fullscreen header image"
+msgstr "Obraz nagłówka pełnego ekranu"
+
+#: admin/options.php:519
+msgid "Header title animation"
+msgstr "Animacja tytułu nagłówka"
+
+#: admin/options.php:509
+msgid "Offset position for the background rectangle"
+msgstr "Pozycja przesunięcia dla prostokąta tła"
+
+#: admin/options.php:508
+msgid "Title Accent Position"
+msgstr "Pozycja akcentu tytułu"
+
+#: admin/options.php:501
+msgid "Edit the site's title, tagline and logo from the %s panel"
+msgstr "Edytuj tytuł, slogan i logo witryny z panelu %s"
+
+#: admin/options.php:414
+msgid "Header options"
+msgstr "Opcje nagłówka"
+
+#: admin/options.php:414
+msgid "Fine tune the visibility of these elements from the theme's %s"
+msgstr "Dopasuj widoczność tych elementów z %s motywu"
+
+#. translators: 1: plugin name(s).
+#: includes/tgmpa.php:98
+msgid "The following suggested plugin is currently inactive: %1$s."
+msgid_plural "The following suggested plugins are currently inactive: %1$s."
+msgstr[0] "Następująca sugerowana wtyczka jest obecnie wyłączona: %1$s."
+msgstr[1] "Następujące sugerowane wtyczki są obecnie wyłączone: %1$s."
+msgstr[2] "Następujące sugerowane wtyczki są obecnie wyłączone: %1$s."
+
+#. translators: 1: plugin name(s).
+#: includes/tgmpa.php:74
+msgid "This theme suggests the following plugin: %1$s."
+msgid_plural "This theme suggests the following plugins: %1$s."
+msgstr[0] "Ten motyw sugeruje następującą wtyczkę: %1$s."
+msgstr[1] "Ten motyw sugeruje następujące wtyczki: %1$s."
+msgstr[2] "Ten motyw sugeruje następujące wtyczki: %1$s."
+
+#: admin/options.php:2190
+msgid "Lazy load images"
+msgstr "Leniwe wczytywanie obrazków"
+
+#: comments.php:50
+msgid "Comments are closed."
+msgstr "Możliwość komentowania jest wyłączona."
+
+#: image.php:66
+msgid "Next image"
+msgstr "Następny obrazek"
+
+#: image.php:65
+msgid "Previous image"
+msgstr "Poprzedni obrazek"
+
+#: image.php:38
+msgid "Published in"
+msgstr "Opublikowany w"
+
+#: image.php:31
+msgid "pixels"
+msgstr "piksele"
+
+#: image.php:27
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Pełny rozmiar"
+
+#: includes/comments.php:169 includes/comments.php:170
+msgctxt "noun"
+msgid "Comment"
+msgstr "Komentarz"
+
+#: includes/comments.php:160
+msgid "Save my name, email, and site URL in my browser for next time I post a comment."
+msgstr "Zapisz moją nazwę, adres e-mail i adres URL witryny w mojej przeglądarce na potrzeby kolejnych komentarzy."
+
+#: includes/comments.php:155 includes/comments.php:156
+msgid "Website"
+msgstr "Witryna internetowa"
+
+#: includes/comments.php:151 includes/comments.php:152
+msgid "Email"
+msgstr "E-mail"
+
+#: includes/comments.php:147 includes/comments.php:148
+msgid "Name"
+msgstr "Nazwa"
+
+#: comments.php:23 includes/comments.php:118
+msgid "One comment"
+msgstr "Jeden komentarz"
+
+#: includes/comments.php:114
+msgid "Jump to comments"
+msgstr "Przejdź do komentarzy"
+
+#: comments.php:25 includes/comments.php:99 includes/comments.php:119
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s komentarz"
+msgstr[1] "%1$s komentarze"
+msgstr[2] "%1$s komentarzy"
+
+#: includes/comments.php:98
+msgid "1 Comment"
+msgstr "1 komentarz"
+
+#: includes/comments.php:97 includes/comments.php:117
+msgid "Leave a comment"
+msgstr "Zostaw komentarz"
+
+#: includes/comments.php:95
+msgid "Comments on \"%s\""
+msgstr "Komentarze do „%s\""
+
+#: includes/comments.php:73
+msgid "Reply"
+msgstr "Odpowiedz"
+
+#: includes/comments.php:57
+msgid "Your comment is awaiting moderation."
+msgstr "Twój komentarz oczekuje na moderację."
+
+#: includes/comments.php:45
+msgctxt "%s = human-readable time difference"
+msgid "%1$s ago"
+msgstr "%1$s temu"
+
+#. translators: 1: date, 2: time
+#: includes/comments.php:42
+msgid "at"
+msgstr "o"
+
+#: includes/comments.php:24 includes/comments.php:50
+msgid "(Edit)"
+msgstr "(Edytuj)"
+
+#: includes/comments.php:24
+msgid "Pingback: "
+msgstr "Odnośnik zwrotny: "
+
+#: includes/core.php:491
+msgid "Page"
+msgstr "Strona"
+
+#: includes/core.php:490
+msgid "Post format"
+msgstr "Format wpisu"
+
+#: includes/core.php:488
+msgid "Articles posted by"
+msgstr "Artykuły napisane przez"
+
+#: includes/core.php:487
+msgid "Posts tagged"
+msgstr "Wpisy oznaczone"
+
+#: includes/core.php:486
+msgid "Search results for \"%s\""
+msgstr "Wyniki wyszukiwania dla „%s”"
+
+#: includes/core.php:485
+msgid "Archive for category \"%s\""
+msgstr "Archiwum dla kategorii „%s”"
+
+#: includes/core.php:484
+msgid "Home"
+msgstr "Strona domowa"
+
+#: includes/core.php:398
+msgid "Semantic Personal Publishing Platform"
+msgstr "Semantyczna platforma publikacji osobistych"
+
+#: includes/core.php:395
+msgid "Powered by"
+msgstr "Zasilane przez"
+
+#: includes/core.php:344
+msgid "Back to Top"
+msgstr "Powrót do góry"
+
+#: includes/loop.php:306
+msgid "Newer posts"
+msgstr "Nowsze wpisy"
+
+#: includes/loop.php:302
+msgid "Older posts"
+msgstr "Starsze wpisy"
+
+#: includes/loop.php:246
+msgid "Read more"
+msgstr "Dowiedz się więcej"
+
+#: includes/loop.php:235
+msgid "Featured"
+msgstr "Wyróżnione"
+
+#: includes/loop.php:209
+msgid "Edit %s"
+msgstr "Edytuj %s"
+
+#: includes/loop.php:197
+msgid "Tagged"
+msgstr "Oznaczony"
+
+#: includes/loop.php:169
+msgid "Date"
+msgstr "Data"
+
+#: content/user-bio.php:30 includes/loop.php:115 includes/loop.php:140
+msgid "View all posts by %s"
+msgstr "Zobacz wszystkie wpisy napisane przez %s"
+
+#: includes/loop.php:111
+msgid "Author"
+msgstr "Autor"
+
+#: includes/loop.php:92
+msgid "Categories"
+msgstr "Kategorie"
+
+#: includes/tgmpa.php:119
+msgid "Return to Suggested Plugins Installer"
+msgstr "Powrót do instalatora sugerowanych wtyczek"
+
+#. translators: 1: plugin name(s).
+#: includes/tgmpa.php:80
+msgid "The following plugin should be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins should be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Następującą wtyczkę należy zaktualizować do najnowszej wersji, aby zapewnić maksymalną zgodność z tym motywem: %1$s."
+msgstr[1] "Następujące wtyczki powinny zostać zaktualizowane do najnowszej wersji, aby zapewnić maksymalną zgodność z tym motywem: %1$s."
+msgstr[2] "Następujące wtyczki powinny zostać zaktualizowane do najnowszej wersji, aby zapewnić maksymalną zgodność z tym motywem: %1$s."
+
+#: includes/tgmpa.php:62
+msgid "Bravada Addons"
+msgstr "Dodatki Bravada"
+
+#: includes/tgmpa.php:61
+msgid "Bravada Suggested Plugins"
+msgstr "Sugerowane wtyczki Bravada"
+
+#: includes/meta.php:49
+msgid "Default Theme Layout"
+msgstr "Domyślny układ motywu"
+
+#: includes/meta.php:18
+msgid "Static Page Layout"
+msgstr "Układ strony statycznej"
+
+#: includes/setup.php:180
+msgid "XL"
+msgstr "XL"
+
+#: includes/setup.php:179
+msgid "larger"
+msgstr "większy"
+
+#: includes/setup.php:174
+msgid "L"
+msgstr "L"
+
+#: includes/setup.php:173
+msgid "large"
+msgstr "duży"
+
+#: includes/setup.php:168
+msgid "M"
+msgstr "M"
+
+#: includes/setup.php:167
+msgid "normal"
+msgstr "normalny"
+
+#: includes/setup.php:162
+msgid "S"
+msgstr "S"
+
+#: includes/setup.php:161
+msgid "small"
+msgstr "mały"
+
+#: includes/setup.php:139
+msgid "Accent #2"
+msgstr "Akcent nr 2"
+
+#: includes/setup.php:134
+msgid "Accent #1"
+msgstr "Akcent nr 1"
+
+#: includes/setup.php:124
+msgid "Mirror lake"
+msgstr "Jezioro lustrzane"
+
+#: includes/setup.php:59
+msgid "Footer Navigation"
+msgstr "Nawigacja stopki"
+
+#: includes/setup.php:57
+msgid "Header Navigation"
+msgstr "Nawigacja nagłówka"
+
+#: includes/setup.php:56
+msgid "Primary/Side Navigation"
+msgstr "Nawigacja główna/boczna"
+
+#: content/content-notfound.php:12
+msgid "No search results for: <em>%s</em>"
+msgstr "Brak wyników wyszukiwania dla: <em>%s</em>"
+
+#: content/content-notfound.php:10
+msgid "Nothing Found"
+msgstr "Nic nie znaleziono"
+
+#: single.php:84
+msgid "Next"
+msgstr "Następny"
+
+#: single.php:80
+msgid "Previous"
+msgstr "Poprzedni"
+
+#: content/content-page.php:29 content/content.php:40 single.php:38
+msgid "Pages:"
+msgstr "Strony:"
+
+#: searchform.php:12 searchform.php:14
+msgid "Search"
+msgstr "Szukaj"
+
+#: searchform.php:11
+msgid "Search for:"
+msgstr "Szukaj dla:"
+
+#: 404.php:16
+msgid "Apologies, but the page you requested could not be found. Perhaps searching will help."
+msgstr "Przepraszamy, ale żądana strona nie została znaleziona. Być może wyszukiwanie pomoże."
+
+#: 404.php:15 includes/core.php:245 includes/core.php:489
+msgid "Not Found"
+msgstr "Nie znaleziono"
+
+#: includes/core.php:242 search.php:18
+msgid "Search Results for: %s"
+msgstr "Wyniki wyszukiwania dla: %s"
+
+#: cryout/prototypes.php:829
+msgid "Skip to content"
+msgstr "Przejdź do treści"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: cryout/tgmpa-class.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalowanie wtyczki %1$s (%2$d/%3$d)"
+
+#: cryout/tgmpa-class.php:3518
+msgid "All installations have been completed."
+msgstr "Wszystkie instalacje zostały zakończone."
+
+#. translators: 1: plugin name.
+#: cryout/tgmpa-class.php:3517
+msgid "%1$s installed successfully."
+msgstr "Pomyślnie zainstalowano %1$s."
+
+#: cryout/tgmpa-class.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Rozpoczyna się proces instalacji. Proces ten może potrwać chwilę na niektórych hostach, więc prosimy o cierpliwość."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: cryout/tgmpa-class.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalowanie i włączanie wtyczki %1$s (%2$d/%3$d)"
+
+#: cryout/tgmpa-class.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Wszystkie instalacje i włączenia zostały ukończone."
+
+#. translators: 1: plugin name.
+#: cryout/tgmpa-class.php:3509 cryout/tgmpa-class.php:3517
+msgid "Hide Details"
+msgstr "Ukryj szczegóły"
+
+#. translators: 1: plugin name.
+#: cryout/tgmpa-class.php:3509 cryout/tgmpa-class.php:3517
+msgid "Show Details"
+msgstr "Pokaż szczegóły"
+
+#. translators: 1: plugin name.
+#: cryout/tgmpa-class.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "Wtyczka %1$s zainstalowana i włączona pomyślnie."
+
+#: cryout/tgmpa-class.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Rozpoczyna się proces instalacji i włączania. Ten proces może zająć chwilę na niektórych hostach. Prosimy o cierpliwość."
+
+#. translators: 1: plugin name.
+#: cryout/tgmpa-class.php:3503
+msgid "The installation of %1$s failed."
+msgstr "Nie udało się zainstalować %1$s."
+
+#. translators: 1: plugin name, 2: error message.
+#: cryout/tgmpa-class.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Wystąpił błąd podczas instalacji %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: cryout/tgmpa-class.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Aktualizacja wtyczki %1$s (%2$d/%3$d)"
+
+#: cryout/tgmpa-class.php:3158
+msgid "Plugin activation failed."
+msgstr "Nie udało się włączyć wtyczki."
+
+#: cryout/tgmpa-class.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Aktualnie nie ma wtyczek do włączenia."
+
+#: cryout/tgmpa-class.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Nie wybrano żadnych wtyczek do włączenia. Nie podjęto żadnego działania."
+
+#: cryout/tgmpa-class.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Obecnie nie ma dostępnych wtyczek do aktualizacji."
+
+#: cryout/tgmpa-class.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Aktualnie nie ma wtyczek do zainstalowania."
+
+#: cryout/tgmpa-class.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Nie wybrano żadnych wtyczek do aktualizacji. Nie podjęto działania."
+
+#: cryout/tgmpa-class.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Nie wybrano żadnych wtyczek do zainstalowania. Nie podjęto żadnego działania."
+
+#: cryout/tgmpa-class.php:2726
+msgid "Activate"
+msgstr "Włącz"
+
+#: cryout/tgmpa-class.php:2723
+msgid "Update"
+msgstr "Aktualizuj"
+
+#: cryout/tgmpa-class.php:2717
+msgid "Install"
+msgstr "Zainstaluj"
+
+#: cryout/tgmpa-class.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Wiadomość dotycząca ulepszenia od autora wtyczki:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: cryout/tgmpa-class.php:2614
+msgid "Activate %2$s"
+msgstr "Włącz %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: cryout/tgmpa-class.php:2608
+msgid "Update %2$s"
+msgstr "Aktualizuj %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: cryout/tgmpa-class.php:2603
+msgid "Install %2$s"
+msgstr "Zainstaluj %2$s"
+
+#: cryout/tgmpa-class.php:2554
+msgid "Status"
+msgstr "Status"
+
+#: cryout/tgmpa-class.php:2553
+msgid "Version"
+msgstr "Wersja"
+
+#: cryout/tgmpa-class.php:2549
+msgid "Type"
+msgstr "Rodzaj"
+
+#: cryout/tgmpa-class.php:2548
+msgid "Source"
+msgstr "Źródło"
+
+#: cryout/tgmpa-class.php:2547
+msgid "Plugin"
+msgstr "Wtyczka"
+
+#: cryout/tgmpa-class.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Brak wtyczek do zainstalowania, zaktualizowania lub włączenia."
+
+#: cryout/tgmpa-class.php:2510
+msgid "Available version:"
+msgstr "Dostępna wersja:"
+
+#: cryout/tgmpa-class.php:2498
+msgid "Minimum required version:"
+msgstr "Minimalna wymagana wersja:"
+
+#: cryout/tgmpa-class.php:2490
+msgid "Installed version:"
+msgstr "Zainstalowana wersja:"
+
+#: cryout/tgmpa-class.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "nieznana"
+
+#. translators: 1: number of plugins.
+#: cryout/tgmpa-class.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Do włączenia <span class=\"count\">(%s)</span>"
+msgstr[1] "Do włączenia <span class=\"count\">(%s)</span>"
+msgstr[2] "Do włączenia <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: cryout/tgmpa-class.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Aktualizacja dostępna <span class=\"count\">(%s)</span>"
+msgstr[1] "Aktualizacja dostępna <span class=\"count\">(%s)</span>"
+msgstr[2] "Aktualizacja dostępna <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: cryout/tgmpa-class.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Aby zainstalować <span class=\"count\">(%s)</span>"
+msgstr[1] "Aby zainstalować <span class=\"count\">(%s)</span>"
+msgstr[2] "Aby zainstalować <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: cryout/tgmpa-class.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Wszystkie <span class=\"count\">(%s)</span>"
+msgstr[1] "Wszystkie <span class=\"count\">(%s)</span>"
+msgstr[2] "Wszystkie <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: cryout/tgmpa-class.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: cryout/tgmpa-class.php:2333
+msgid "Update recommended"
+msgstr "Zalecana aktualizacja"
+
+#: cryout/tgmpa-class.php:2330
+msgid "Requires Update"
+msgstr "Wymagana aktualizacja"
+
+#: cryout/tgmpa-class.php:2327
+msgid "Required Update not Available"
+msgstr "Wymagana aktualizacja jest niedostępna"
+
+#: cryout/tgmpa-class.php:2321
+msgid "Active"
+msgstr "Włączone"
+
+#: cryout/tgmpa-class.php:2319
+msgid "Installed But Not Activated"
+msgstr "Zainstalowano, ale nie włączono"
+
+#: cryout/tgmpa-class.php:2315
+msgid "Not Installed"
+msgstr "Nie zainstalowano"
+
+#: cryout/tgmpa-class.php:2298
+msgid "Pre-Packaged"
+msgstr "Wstępnie spakowane"
+
+#: cryout/tgmpa-class.php:2295
+msgid "External Source"
+msgstr "Źródło zewnętrzne"
+
+#: cryout/tgmpa-class.php:2292
+msgid "WordPress Repository"
+msgstr "Repozytorium WordPress"
+
+#: cryout/tgmpa-class.php:2273
+msgid "Recommended"
+msgstr "Zalecane"
+
+#. translators: %s: version number
+#: cryout/tgmpa-class.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: cryout/tgmpa-class.php:1121 cryout/tgmpa-class.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "i"
+
+#: cryout/tgmpa-class.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Zdalny pakiet wtyczki składa się z więcej niż jednego pliku, ale pliki nie są spakowane w katalogu."
+
+#: cryout/tgmpa-class.php:934 cryout/tgmpa-class.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Skontaktuj się z dostawcą wtyczki i poproś o przygotowanie nowej wersji zgodnej z wytycznymi WordPressa."
+
+#: cryout/tgmpa-class.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Wtyczka z pakietu nie zawiera katalogu z prawidłową nazwą, a próba zmiany nazwy nie zadziałała."
+
+#: cryout/tgmpa-class.php:523
+msgid "Update Required"
+msgstr "Wymagana aktualizacja"
+
+#: cryout/tgmpa-class.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Wtyczka wymaga aktualizacji w celu zachowania zgodności z motywem."
+
+#: cryout/tgmpa-class.php:397 includes/tgmpa.php:130
+msgid "Please contact the administrator of this site for help."
+msgstr "Skontaktuj się z administratorem tej witryny, aby uzyskać pomoc."
+
+#: cryout/tgmpa-class.php:396 includes/tgmpa.php:129
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Co najmniej jedna z wymaganych lub zalecanych wtyczek wymaga zainstalowania, aktualizacji lub włączenia."
+
+#: cryout/tgmpa-class.php:395 includes/tgmpa.php:128
+msgid "Dismiss this notice"
+msgstr "Odrzuć to powiadomienie"
+
+#. translators: 1: dashboard link.
+#: cryout/tgmpa-class.php:394 includes/tgmpa.php:127
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Wszystkie wtyczki zostały zainstalowane i włączone. %1$s"
+
+#. translators: 1: plugin name.
+#: cryout/tgmpa-class.php:392 includes/tgmpa.php:125
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Wtyczka nie została włączona. Motyw wymaga użycia nowszej wersji wtyczki niż %s. Proszę ją zaktualizować."
+
+#. translators: 1: plugin name.
+#: cryout/tgmpa-class.php:390 includes/tgmpa.php:123
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Nie podjęto żadnej akcji. Wtyczka %1$s jest już włączona."
+
+#: cryout/tgmpa-class.php:388 cryout/tgmpa-class.php:2952
+#: includes/tgmpa.php:121
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Następująca wtyczka została pomyślnie włączona:"
+msgstr[1] "Następujące wtyczki zostały pomyślnie włączone:"
+msgstr[2] "Następujące wtyczki zostały pomyślnie włączone:"
+
+#: cryout/tgmpa-class.php:387 cryout/tgmpa-class.php:3159
+#: includes/tgmpa.php:120
+msgid "Plugin activated successfully."
+msgstr "Wtyczka włączona pomyślnie."
+
+#: cryout/tgmpa-class.php:386 cryout/tgmpa-class.php:827
+#: cryout/tgmpa-class.php:2533 cryout/tgmpa-class.php:3580
+msgid "Return to the Dashboard"
+msgstr "Powrót do kokpitu"
+
+#: cryout/tgmpa-class.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Powrót do instalatora wymaganych wtyczek"
+
+#: cryout/tgmpa-class.php:380 includes/tgmpa.php:114
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Rozpocznij włączanie wtyczki"
+msgstr[1] "Rozpocznij włączanie wtyczek"
+msgstr[2] "Rozpocznij włączanie wtyczek"
+
+#: cryout/tgmpa-class.php:375 includes/tgmpa.php:109
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Rozpocznij aktualizację wtyczki"
+msgstr[1] "Rozpocznij aktualizacje wtyczek"
+msgstr[2] "Rozpocznij aktualizacje wtyczek"
+
+#: cryout/tgmpa-class.php:370 includes/tgmpa.php:104
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Rozpocznij instalację wtyczki"
+msgstr[1] "Rozpocznij instalacje wtyczek"
+msgstr[2] "Rozpocznij instalacje wtyczek"
+
+#. translators: 1: plugin name(s).
+#: cryout/tgmpa-class.php:364 includes/tgmpa.php:92
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Następująca zalecana wtyczka jest obecnie wyłączona: %1$s."
+msgstr[1] "Następujące zalecane wtyczki są obecnie wyłączone: %1$s."
+msgstr[2] "Następujące zalecane wtyczki są obecnie wyłączone: %1$s."
+
+#. translators: 1: plugin name(s).
+#: cryout/tgmpa-class.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Następująca wymagana wtyczka jest obecnie wyłączona: %1$s."
+msgstr[1] "Następujące wymagane wtyczki są obecnie wyłączone: %1$s."
+msgstr[2] "Następujące wymagane wtyczki są obecnie wyłączone: %1$s."
+
+#. translators: 1: plugin name(s).
+#: cryout/tgmpa-class.php:352 includes/tgmpa.php:86
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Dostępna jest aktualizacja dla: %1$s."
+msgstr[1] "Dostępne są aktualizacje dla następujących wtyczek: %1$s."
+msgstr[2] "Dostępne są aktualizacje dla następujących wtyczek: %1$s."
+
+#. translators: 1: plugin name(s).
+#: cryout/tgmpa-class.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Następującą wtyczkę należy zaktualizować do najnowszej wersji, aby zapewnić maksymalną zgodność z tym motywem: %1$s."
+msgstr[1] "Następujące wtyczki muszą zostać zaktualizowane do najnowszej wersji, aby zapewnić maksymalną zgodność z tym motywem: %1$s."
+msgstr[2] "Następujące wtyczki muszą zostać zaktualizowane do najnowszej wersji, aby zapewnić maksymalną zgodność z tym motywem: %1$s."
+
+#. translators: 1: plugin name(s).
+#: cryout/tgmpa-class.php:340 includes/tgmpa.php:68
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Ten motyw zaleca następującą wtyczkę: %1$s."
+msgstr[1] "Ten motyw zaleca następujące wtyczki: %1$s."
+msgstr[2] "Ten motyw zaleca następujące wtyczki: %1$s."
+
+#. translators: 1: plugin name(s).
+#: cryout/tgmpa-class.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Ten motyw wymaga następującej wtyczki: %1$s."
+msgstr[1] "Ten motyw wymaga następujących wtyczek: %1$s."
+msgstr[2] "Ten motyw wymaga następujących wtyczek: %1$s."
+
+#: cryout/tgmpa-class.php:333 includes/tgmpa.php:67
+msgid "Something went wrong with the plugin API."
+msgstr "Coś poszło nie tak z API wtyczki."
+
+#. translators: %s: plugin name.
+#: cryout/tgmpa-class.php:332 includes/tgmpa.php:66
+msgid "Updating Plugin: %s"
+msgstr "Aktualizacja wtyczki: %s"
+
+#. translators: %s: plugin name.
+#: cryout/tgmpa-class.php:330 includes/tgmpa.php:64
+msgid "Installing Plugin: %s"
+msgstr "Instalowanie wtyczki: %s"
+
+#: cryout/tgmpa-class.php:328
+msgid "Install Plugins"
+msgstr "Zainstaluj wtyczki"
+
+#: cryout/tgmpa-class.php:327
+msgid "Install Required Plugins"
+msgstr "Zainstaluj wymagane wtyczki"
+
+#: sidebar-right.php:18
+msgid "Right Sidebar"
+msgstr "Prawy panel boczny"
+
+#: admin/options.php:2999
+msgid "This widget area is included below the main/side menu."
+msgstr "Obszar widżetu znajduje się pod menu głównym/bocznym."
+
+#: admin/options.php:2998
+msgid "Side Section"
+msgstr "Sekcja boczna"
+
+#: admin/options.php:2991
+msgid "This widget area is displayed over the header image and requires an image to be set."
+msgstr "Ten obszar widżetu jest wyświetlany nad obrazkiem nagłówka i wymaga ustawienia obrazka."
+
+#: admin/options.php:2983
+msgid "Content After"
+msgstr "Treść po"
+
+#: admin/options.php:2976
+msgid "Content Before"
+msgstr "Treść przed"
+
+#: admin/options.php:2969
+msgid "You can configure how many columns the footer displays from the theme options"
+msgstr "W opcjach motywu możesz skonfigurować ile kolumn ma się wyświetlać w stopce"
+
+#: admin/options.php:2961
+msgid "Sidebar Right"
+msgstr "Prawy panel boczny"
+
+#: admin/options.php:2954
+msgid "Sidebar Left"
+msgstr "Lewy panel boczny"
+
+#: admin/options.php:2211
+msgid "<br>Only use these options to troubleshoot issues."
+msgstr "<br>Używaj tych opcji tylko do diagnozowania usterek."
+
+#: admin/options.php:2210
+msgid "Front Page Only"
+msgstr "Tylko strona główna"
+
+#: admin/options.php:2208
+msgid "Preloader"
+msgstr "Wstępne wczytywanie"
+
+#: admin/options.php:2201
+msgid "Enable on mobiles"
+msgstr "Włącz na urządzeniach mobilnych"
+
+#: admin/options.php:2201 admin/options.php:2210
+msgid "Enable"
+msgstr "Włącz"
+
+#: admin/options.php:2199
+msgid "FitVids"
+msgstr "FitVids"
+
+#: admin/options.php:2182
+msgid "Editor Styles"
+msgstr "Style edytora"
+
+#: admin/options.php:2174
+msgid "Force mobile menu on iOS mobile devices"
+msgstr "Wymuś menu mobilne na urządzeniach mobilnych z systemem iOS"
+
+#: admin/options.php:2166
+msgid "Header image size requirements"
+msgstr "Wymagania dotyczące rozmiaru obrazka nagłówka"
+
+#: admin/options.php:2158
+msgid "Autoscroll"
+msgstr "Auto przewijanie"
+
+#: admin/options.php:2149
+msgid "JS Defer loading"
+msgstr "JS odrocz wczytywanie"
+
+#: admin/options.php:2141
+msgid "Masonry"
+msgstr "Cegiełki"
+
+#: admin/options.php:2133
+msgid "Default Pages Menu"
+msgstr "Menu stron domyślnych"
+
+#: admin/options.php:2125
+msgid "Select where social icons should be displayed.<br><br><strong>Social Icons are defined using the <a href=\"%1$s\" target=\"_blank\">socials menu</a></strong>. Read the <a href=\"%2$s\" target=\"_blank\">theme documentation</a> for detailed information."
+msgstr "Wybierz miejsce wyświetlania ikonek społecznościowych.<br><br><strong>Ikonki społecznościowe definiuje się za pomocą <a href=\"%1$s\" target=\"_blank\">menu społecznościowego</a></strong>. Aby uzyskać szczegółowe informacje, przeczytaj <a href=\"%2$s\" target=\"_blank\">dokumentację motywu</a>."
+
+#: admin/options.php:2124
+msgid "Display in Right Sidebar"
+msgstr "Wyświetl w prawym panelu bocznym"
+
+#: admin/options.php:2118
+msgid "Display in Left Sidebar"
+msgstr "Wyświetl w lewym panelu bocznym"
+
+#: admin/options.php:2112
+msgid "Display in Footer"
+msgstr "Wyświetl w stopce"
+
+#: admin/options.php:2106
+msgid "Display in Main Menu"
+msgstr "Wyświetl w menu głównym"
+
+#: admin/options.php:2096
+msgid "Use Featured Images in Header"
+msgstr "Użyj obrazka wyróżniającego w nagłówku"
+
+#: admin/options.php:2080
+msgid "Center Bottom"
+msgstr "Środek dół"
+
+#: admin/options.php:2080
+msgid "Center Center"
+msgstr "Środek środek"
+
+#: admin/options.php:2080
+msgid "Center Top"
+msgstr "Środek góra"
+
+#: admin/options.php:2080
+msgid "Right Bottom"
+msgstr "Prawa dół"
+
+#: admin/options.php:2080
+msgid "Right Center"
+msgstr "Prawa środek"
+
+#: admin/options.php:2080
+msgid "Right Top"
+msgstr "Prawa góra"
+
+#: admin/options.php:2080
+msgid "Left Bottom"
+msgstr "Lewa dół"
+
+#: admin/options.php:2080
+msgid "Left Center"
+msgstr "Lewa środek"
+
+#: admin/options.php:2080
+msgid "Left Top"
+msgstr "Lewa góra"
+
+#: admin/options.php:2080
+msgid "No Crop"
+msgstr "Nie przycinaj"
+
+#: admin/options.php:2078
+msgid "Featured Image Crop Position"
+msgstr "Pozycja przycięcia obrazka wyróżniającego"
+
+#: admin/options.php:2073
+msgid "<strong>Contained</strong> will scale depending on the viewed resolution<br><strong>Cropped</strong> will try to keep the configured height."
+msgstr "<strong>Zawiera</strong> będzie skalowana w zależności od wyświetlanej rozdzielczości<br> <strong>Przycięty</strong> spróbuje zachować skonfigurowaną wysokość."
+
+#: admin/options.php:2072
+msgid "Featured Image Behaviour"
+msgstr "Zachowanie obrazka wyróżniającego"
+
+#: admin/options.php:2057
+msgid "Set to 0 to disable image processing"
+msgstr "Ustaw na 0, aby wyłączyć przetwarzanie obrazka"
+
+#: admin/options.php:2056
+msgid "Featured Image Height"
+msgstr "Wysokość obrazka wyróżniającego"
+
+#: admin/options.php:2045
+msgid "Auto Select Image From Content"
+msgstr "Automatyczny wybór obrazka z treści"
+
+#: admin/options.php:2038
+msgid "Featured Images"
+msgstr "Obrazki wyróżniające"
+
+#: admin/options.php:2030
+msgid "Comment Form Width"
+msgstr "Szerokość formularza komentarza"
+
+#: admin/options.php:2020
+msgid "Show Icons in Comment Fields"
+msgstr "Pokaż ikonki w polach komentarzy"
+
+#: admin/options.php:2015
+msgid "Change to labels for better compatibility with comment-related plugins."
+msgstr "Zmiana etykiet w celu zapewnienia lepszej kompatybilności z wtyczkami obsługującymi komentarze."
+
+#: admin/options.php:2014
+msgid "Labels"
+msgstr "Etykiety"
+
+#: admin/options.php:2014
+msgid "Optimized Labels"
+msgstr "Zoptymalizowane etykiety"
+
+#: admin/options.php:2014
+msgid "Placeholders"
+msgstr "Symbole zastępcze"
+
+#: admin/options.php:2012
+msgid "Comment Field Label"
+msgstr "Etykieta pola komentarza"
+
+#: admin/options.php:2006
+msgid "Relative"
+msgstr "Względny"
+
+#: admin/options.php:2006
+msgid "Specific"
+msgstr "Specyficzny"
+
+#: admin/options.php:2004
+msgid "Comment Date Format"
+msgstr "Format daty komentarza"
+
+#: admin/options.php:1998
+msgid "Hide everywhere"
+msgstr "Ukryj wszędzie"
+
+#: admin/options.php:1998
+msgid "Hide in pages"
+msgstr "Ukryj na stronach"
+
+#: admin/options.php:1998
+msgid "Hide in posts"
+msgstr "Ukryj we wpisach"
+
+#: admin/options.php:1998
+msgid "Show"
+msgstr "Pokaż"
+
+#: admin/options.php:1996
+msgid "'Comments Are Closed' Text"
+msgstr "Tekst „Komentarze są zamknięte”"
+
+#: admin/options.php:1988
+msgid "Continue Reading Label"
+msgstr "Etykieta Kontynuuj czytanie"
+
+#: admin/options.php:1982
+msgid "Excerpt Suffix"
+msgstr "Sufiks zajawki"
+
+#: admin/options.php:1976
+msgid "Excerpt Length (words)"
+msgstr "Długość zajawki (słowa)"
+
+#: admin/options.php:1965
+msgid "Standard Posts in Categories/Archives"
+msgstr "Standardowe wpisy w kategoriach/archiwach"
+
+#: admin/options.php:1959
+msgid "Inherit"
+msgstr "Dziedzicz"
+
+#: admin/options.php:1957
+msgid "Sticky Posts on Homepage"
+msgstr "Przypięte wpisy na stronie domowej"
+
+#: admin/options.php:1952
+msgid "Post formats always display full posts."
+msgstr "Formaty wpisów zawsze wyświetlają całe wpisy."
+
+#: admin/options.php:1951 admin/options.php:1959 admin/options.php:1967
+msgid "Full Post"
+msgstr "Cały wpis"
+
+#: admin/options.php:1949
+msgid "Standard Posts On Homepage"
+msgstr "Standardowe wpisy na stronie domowej"
+
+#: admin/options.php:1942
+msgid "Choose meta information to show on single posts."
+msgstr "Wybierz meta informacje, które będą wyświetlane w pojedynczych wpisach."
+
+#: admin/options.php:1899
+msgid "Choose meta information to show on post lists."
+msgstr "Wybierz meta informacje, które będą wyświetlane na listach wpisów."
+
+#: admin/options.php:1886
+msgid "Display Comments"
+msgstr "Wyświetl komentarze"
+
+#: admin/options.php:1880 admin/options.php:1930
+msgid "Display Tags"
+msgstr "Wyświetl znaczniki"
+
+#: admin/options.php:1874 admin/options.php:1924
+msgid "Display Category"
+msgstr "Wyświetl kategorię"
+
+#: admin/options.php:1868 admin/options.php:1918
+msgid "Display Time"
+msgstr "Wyświetl czas"
+
+#: admin/options.php:1862 admin/options.php:1912
+msgid "Display Date"
+msgstr "Wyświetl datę"
+
+#: admin/options.php:1856 admin/options.php:1906
+msgid "Display Author"
+msgstr "Wyświetl autora"
+
+#: admin/options.php:1846
+msgid "With Background"
+msgstr "Z tłem"
+
+#: admin/options.php:1846
+msgid "With Border"
+msgstr "Z obramowaniem"
+
+#: admin/options.php:1846
+msgid "Plain"
+msgstr "Zwykły"
+
+#: admin/options.php:1844
+msgid "Post Captions"
+msgstr "Podpisy wpisu"
+
+#: admin/options.php:1819 admin/options.php:1823 admin/options.php:1827
+#: admin/options.php:1831 admin/options.php:1835
+msgid "Style %d"
+msgstr "Styl %d"
+
+#: admin/options.php:1815
+msgid "No Styling"
+msgstr "Bez stylizacji"
+
+#: admin/options.php:1812
+msgid "Post Images"
+msgstr "Obrazki wpisu"
+
+#: admin/options.php:1803
+msgid "Add Search to Footer Menu"
+msgstr "Dodaj wyszukiwanie do menu stopki"
+
+#: admin/options.php:1797
+msgid "Add Search to Main Menu"
+msgstr "Dodaj wyszukiwanie do menu głównego"
+
+#: admin/options.php:1787
+msgid "Flip Down"
+msgstr "Odwróć w dół"
+
+#: admin/options.php:1787
+msgid "Flip Up"
+msgstr "Odwróć w górę"
+
+#: admin/options.php:1787
+msgid "Slide"
+msgstr "Przesuń"
+
+#: admin/options.php:1787
+msgid "Fade"
+msgstr "Zanikanie"
+
+#: admin/options.php:1785
+msgid "Article Animation on Scroll"
+msgstr "Animacja artykułu podczas przewijania"
+
+#: admin/options.php:1768
+msgid "Insert custom text or basic HTML code that will appear in your footer. <br /> You can use HTML to insert links, images and special characters."
+msgstr "Wprowadź własny tekst lub kod HTML, który pojawi się w stopce.<br />Możesz użyć kodu HTML, aby wstawiać odnośniki, obrazki i znaki specjalne."
+
+#: admin/options.php:1767
+msgid "Custom Footer Text"
+msgstr "Własny tekst stopki"
+
+#: admin/options.php:1761
+msgid "Uniform Boxes"
+msgstr "Jednolite pola"
+
+#: admin/options.php:1761
+msgid "Size Emphasis"
+msgstr "Podkreślenie rozmiaru"
+
+#: admin/options.php:1759
+msgid "Tags Cloud Appearance"
+msgstr "Wygląd chmury znaczników"
+
+#: admin/options.php:1753
+msgid "Bordered"
+msgstr "Obramowany"
+
+#: admin/options.php:1753
+msgid "Striped"
+msgstr "Pasiasty"
+
+#: admin/options.php:1753
+msgid "Clean"
+msgstr "Wyczyść"
+
+#: admin/options.php:1753
+msgid "No border"
+msgstr "Bez obramowania"
+
+#: admin/options.php:1751
+msgid "Tables Style"
+msgstr "Styl tabel"
+
+#: admin/options.php:1745
+msgid "In footer"
+msgstr "W stopce"
+
+#: admin/options.php:1745
+msgid "Bottom of page"
+msgstr "Dół strony"
+
+#: admin/options.php:1743
+msgid "Back to Top Button"
+msgstr "Przycisk Powrót do góry"
+
+#: admin/options.php:1737
+msgid "Always Hidden"
+msgstr "Zawsze ukryte"
+
+#: admin/options.php:1737
+msgid "Hide on Categories"
+msgstr "Ukryj w kategoriach"
+
+#: admin/options.php:1737
+msgid "Hide on Pages"
+msgstr "Ukryj na stronach"
+
+#: admin/options.php:1737
+msgid "Always Visible"
+msgstr "Zawsze widoczne"
+
+#: admin/options.php:1735
+msgid "Page/Category Titles"
+msgstr "Tytuły strony/kategorii"
+
+#: admin/options.php:1729 admin/options.php:2201 admin/options.php:2210
+msgid "Disable"
+msgstr "Wyłącz"
+
+#: admin/options.php:1729
+msgid "Absolute"
+msgstr "Bezwzględnie"
+
+#: admin/options.php:1727
+msgid "Single Post Prev/Next Navigation"
+msgstr "Nawigacja pojedynczego wpisu poprzedni/następny"
+
+#: admin/options.php:1720
+msgid "Numbered Pagination"
+msgstr "Numerowana paginacja"
+
+#: admin/options.php:1713
+msgid "Breadcrumbs"
+msgstr "Okruszki"
+
+#: admin/options.php:1703
+msgid "Paragraph Indentation"
+msgstr "Wcięcie akapitu"
+
+#: admin/options.php:1697
+msgid "Justify"
+msgstr "Wyjustuj"
+
+#: admin/options.php:1695
+msgid "Text Alignment"
+msgstr "Wyrównanie tekstu"
+
+#: admin/options.php:1643
+msgid "Headings"
+msgstr "Nagłówki"
+
+#: admin/options.php:1601
+msgid "Single Post Metas"
+msgstr "Meta pojedynczego wpisu"
+
+#: admin/options.php:1510
+msgid "Blog Post metas"
+msgstr "Meta wpisu bloga"
+
+#: admin/options.php:1468
+msgid "Blog Post Titles"
+msgstr "Tytuły wpisu bloga"
+
+#: admin/options.php:1423
+msgid "Widget Content"
+msgstr "Treść widżetu"
+
+#: admin/options.php:1367
+msgid "Widget Title"
+msgstr "Tytuł widżetu"
+
+#: admin/options.php:1328
+msgid "Main Menu"
+msgstr "Menu główne"
+
+#: admin/options.php:1279
+msgid "The fonts under the <em>Preferred Theme Fonts</em> list are recommended because they have all the font weights used throughout the theme."
+msgstr "Kroje pisma z listy <em>Preferowane kroje pisma motywu</em> są zalecane, ponieważ zawierają wszystkie grubości kroju pisma używane w motywie."
+
+#: admin/options.php:1271 admin/options.php:1410 admin/options.php:1686
+msgid "Spacing"
+msgstr "Odstępy"
+
+#: admin/options.php:1264 admin/options.php:1403 admin/options.php:1459
+#: admin/options.php:1588 admin/options.php:1679
+msgid "Line Height"
+msgstr "Wysokość wiersza"
+
+#: admin/options.php:1259 admin/options.php:1317 admin/options.php:1359
+#: admin/options.php:1398 admin/options.php:1454 admin/options.php:1499
+#: admin/options.php:1541 admin/options.php:1583 admin/options.php:1632
+#: admin/options.php:1674
+msgid "Google/Custom Font Override"
+msgstr "Google/Nadpisywanie niestandardowego kroju pisma"
+
+#: admin/options.php:1251 admin/options.php:1309 admin/options.php:1351
+#: admin/options.php:1390 admin/options.php:1446 admin/options.php:1491
+#: admin/options.php:1533 admin/options.php:1575 admin/options.php:1624
+#: admin/options.php:1666
+msgid "Lowercase"
+msgstr "Małe litery"
+
+#: admin/options.php:1251 admin/options.php:1309 admin/options.php:1351
+#: admin/options.php:1390 admin/options.php:1446 admin/options.php:1491
+#: admin/options.php:1533 admin/options.php:1575 admin/options.php:1624
+#: admin/options.php:1666
+msgid "Uppercase"
+msgstr "Duże litery"
+
+#: admin/options.php:1251 admin/options.php:1309 admin/options.php:1351
+#: admin/options.php:1390 admin/options.php:1446 admin/options.php:1491
+#: admin/options.php:1533 admin/options.php:1575 admin/options.php:1624
+#: admin/options.php:1666
+msgid "Capitalize"
+msgstr "Kapitaliki"
+
+#: admin/options.php:1251 admin/options.php:1309 admin/options.php:1351
+#: admin/options.php:1390 admin/options.php:1446 admin/options.php:1491
+#: admin/options.php:1533 admin/options.php:1575 admin/options.php:1624
+#: admin/options.php:1666 admin/options.php:1787
+msgid "None"
+msgstr "Brak"
+
+#: admin/options.php:1243 admin/options.php:1301 admin/options.php:1343
+#: admin/options.php:1382 admin/options.php:1438 admin/options.php:1483
+#: admin/options.php:1525 admin/options.php:1567 admin/options.php:1616
+#: admin/options.php:1658
+msgid "900 black"
+msgstr "900 czarna"
+
+#: admin/options.php:1243 admin/options.php:1301 admin/options.php:1343
+#: admin/options.php:1382 admin/options.php:1438 admin/options.php:1483
+#: admin/options.php:1525 admin/options.php:1567 admin/options.php:1616
+#: admin/options.php:1658
+msgid "800 extra-bold"
+msgstr "800 ekstra-pogrubiona"
+
+#: admin/options.php:1243 admin/options.php:1301 admin/options.php:1343
+#: admin/options.php:1382 admin/options.php:1438 admin/options.php:1483
+#: admin/options.php:1525 admin/options.php:1567 admin/options.php:1616
+#: admin/options.php:1658
+msgid "700 bold"
+msgstr "700 pogrubiona"
+
+#: admin/options.php:1243 admin/options.php:1301 admin/options.php:1343
+#: admin/options.php:1382 admin/options.php:1438 admin/options.php:1483
+#: admin/options.php:1525 admin/options.php:1567 admin/options.php:1616
+#: admin/options.php:1658
+msgid "600 semi-bold"
+msgstr "600 pół-pogrubiona"
+
+#: admin/options.php:1243 admin/options.php:1301 admin/options.php:1343
+#: admin/options.php:1382 admin/options.php:1438 admin/options.php:1483
+#: admin/options.php:1525 admin/options.php:1567 admin/options.php:1616
+#: admin/options.php:1658
+msgid "500 medium"
+msgstr "500 średnia"
+
+#: admin/options.php:1243 admin/options.php:1301 admin/options.php:1343
+#: admin/options.php:1382 admin/options.php:1438 admin/options.php:1483
+#: admin/options.php:1525 admin/options.php:1567 admin/options.php:1616
+#: admin/options.php:1658
+msgid "400 regular"
+msgstr "400 regularna"
+
+#: admin/options.php:1243 admin/options.php:1301 admin/options.php:1343
+#: admin/options.php:1382 admin/options.php:1438 admin/options.php:1483
+#: admin/options.php:1525 admin/options.php:1567 admin/options.php:1616
+#: admin/options.php:1658
+msgid "300 lighter"
+msgstr "300 cieńsza"
+
+#: admin/options.php:1243 admin/options.php:1301 admin/options.php:1343
+#: admin/options.php:1382 admin/options.php:1438 admin/options.php:1483
+#: admin/options.php:1525 admin/options.php:1567 admin/options.php:1616
+#: admin/options.php:1658
+msgid "200 extra-light"
+msgstr "200 ekstra-lekka"
+
+#: admin/options.php:1243 admin/options.php:1301 admin/options.php:1343
+#: admin/options.php:1382 admin/options.php:1438 admin/options.php:1483
+#: admin/options.php:1525 admin/options.php:1567 admin/options.php:1616
+#: admin/options.php:1658
+msgid "100 thin"
+msgstr "100 cienka"
+
+#: admin/options.php:1206
+msgid "Boxes"
+msgstr "Pola"
+
+#: admin/options.php:1200
+msgid "Blocks"
+msgstr "Bloki"
+
+#: admin/options.php:1187
+msgid "Footer Text"
+msgstr "Tekst stopki"
+
+#: admin/options.php:1181
+msgid "Footer Background"
+msgstr "Tło stopki"
+
+#: admin/options.php:1174
+msgid "Opacity"
+msgstr "Nieprzezroczystość"
+
+#: admin/options.php:1163
+msgid "Angle"
+msgstr "Ukośny"
+
+#: admin/options.php:1137 admin/options.php:1153
+msgid "Background %s Position"
+msgstr "Tło %s pozycja"
+
+#: admin/options.php:1127 admin/options.php:1143
+msgid "Background %s"
+msgstr "Tło %s"
+
+#: admin/options.php:1115
+msgid "Overlay"
+msgstr "Nakładka"
+
+#: admin/options.php:1104
+msgid "Active Item"
+msgstr "Aktywny element"
+
+#: admin/options.php:1098
+msgid "Side Menu Background"
+msgstr "Tło menu bocznego"
+
+#: admin/options.php:1092
+msgid "Side Menu Text"
+msgstr "Tekst menu bocznego"
+
+#: admin/options.php:1086
+msgid "Header Text"
+msgstr "Tekst nagłówka"
+
+#: admin/options.php:1080
+msgid "Header Background"
+msgstr "Tło nagłówka"
+
+#: admin/options.php:1073
+msgid "Secondary Accent"
+msgstr "Akcent drugorzędny"
+
+#: admin/options.php:1067
+msgid "Primary Accent"
+msgstr "Główny akcent"
+
+#: admin/options.php:1057
+msgid "Right Sidebar Background"
+msgstr "Tło prawego panelu bocznego"
+
+#: admin/options.php:1051
+msgid "Left Sidebar Background"
+msgstr "Tło lewego panelu bocznego"
+
+#: admin/options.php:1045 includes/setup.php:154
+msgid "Content Background"
+msgstr "Tło treści"
+
+#: admin/options.php:1039 includes/setup.php:144
+msgid "Content Headings"
+msgstr "Nagłówki treści"
+
+#: admin/options.php:1033
+msgid "Content Titles"
+msgstr "Tytuły treści"
+
+#: admin/options.php:1027 includes/setup.php:149
+msgid "Site Text"
+msgstr "Tekst witryny"
+
+#: admin/options.php:1021
+msgid "Site Background"
+msgstr "Tło witryny"
+
+#: admin/options.php:1012
+msgid "Page properties that will be used:<br>- page title as text title<br>- page content as text content<br>- page featured image as text area background image"
+msgstr "Właściwości strony, które zostaną użyte:<br>- tytuł strony jako tytuł tekstowy<br>- treść strony jako treść tekstowa<br>- obrazek wyróżniający strony jako obrazek tła obszaru tekstowego"
+
+#: admin/options.php:978 admin/options.php:986 admin/options.php:994
+#: admin/options.php:1002
+msgid "Text Area %d"
+msgstr "Pole tekstowe %d"
+
+#: admin/options.php:969
+msgid "Content Length (words)"
+msgstr "Długość treści (słowa)"
+
+#: admin/options.php:947 admin/options.php:1729 admin/options.php:2192
+msgid "Static"
+msgstr "Statyczny"
+
+#: admin/options.php:947 admin/options.php:2192
+msgid "Animated"
+msgstr "Animowany"
+
+#: admin/options.php:945
+msgid "Box Appearance"
+msgstr "Wygląd pola"
+
+#: admin/options.php:938
+msgid "Apart"
+msgstr "Osobne"
+
+#: admin/options.php:938
+msgid "Joined"
+msgstr "Połączone"
+
+#: admin/options.php:936
+msgid "Box Stacking"
+msgstr "Stosy pola"
+
+#: admin/options.php:929
+msgid "Full width"
+msgstr "Pełna szerokość"
+
+#: admin/options.php:927
+msgid "Box Layout"
+msgstr "Układ pola"
+
+#: admin/options.php:916
+msgid "The width is a percentage dependent on total site width and number of columns per row."
+msgstr "Szerokość jest wartością procentową zależną od całkowitej szerokości witryny i liczby kolumn w wierszu."
+
+#: admin/options.php:915
+msgid "Box Height"
+msgstr "Wysokość pola"
+
+#: admin/options.php:899
+msgid "Boxes Per Row"
+msgstr "Pola na wiersz"
+
+#: admin/options.php:892
+msgid "Number of Boxes"
+msgstr "Liczba pól"
+
+#: admin/options.php:877 admin/options.php:878
+msgid "All Categories"
+msgstr "Wszystkie kategorie"
+
+#: admin/options.php:876
+msgid "Boxes Content"
+msgstr "Pola treści"
+
+#: admin/options.php:779 admin/options.php:798 admin/options.php:817
+#: admin/options.php:836
+msgid "Block %d"
+msgstr "Blok %d"
+
+#: admin/options.php:767
+msgid "Make icons clickable (linking to their respective pages)."
+msgstr "Uczyń ikonki klikalnymi (łączącymi się z odpowiednimi stronami)."
+
+#: admin/options.php:761
+msgid "Configure the 'Read More' link text."
+msgstr "Skonfiguruj tekst odnośnika „Dowiedz się więcej”."
+
+#: admin/options.php:760 admin/options.php:959
+msgid "Read More Button"
+msgstr "Przycisk Dowiedz się więcej"
+
+#: admin/options.php:753
+msgid "Full Content"
+msgstr "Pełna treść"
+
+#: admin/options.php:753 admin/options.php:1951 admin/options.php:1967
+msgid "Excerpt"
+msgstr "Zajawka"
+
+#: admin/options.php:753
+msgid "No Text"
+msgstr "Brak tekstu"
+
+#: admin/options.php:751
+msgid "Blocks Content"
+msgstr "Bloki treści"
+
+#: admin/options.php:739 admin/options.php:864
+msgid "Section Description"
+msgstr "Opis sekcji"
+
+#: admin/options.php:732 admin/options.php:857
+msgid "Section Title"
+msgstr "Tytuł sekcji"
+
+#: admin/options.php:708 admin/options.php:724
+msgid "Link"
+msgstr "Odnośnik"
+
+#: admin/options.php:698 admin/options.php:714
+msgid "CTA Button"
+msgstr "Przycisk wezwania do działania"
+
+#: admin/options.php:692 admin/options.php:700 admin/options.php:716
+#: admin/options.php:1121
+msgid "Text"
+msgstr "Tekst"
+
+#: admin/options.php:684
+msgid "Title"
+msgstr "Tytuł"
+
+#: admin/options.php:682
+msgid "Caption"
+msgstr "Podpis"
+
+#: admin/options.php:676
+msgid "Select the desired slider from the list. Sliders can be administered in the dashboard."
+msgstr "Wybierz żądany pokaz slajdów z listy. Pokazami slajdów można zarządzać w kokpicie."
+
+#: admin/options.php:675
+msgid " - No sliders defined - "
+msgstr " - Nie zdefiniowano pokazu slajdów - "
+
+#: admin/options.php:675
+msgid " - Please install, activate or update Serious Slider plugin - "
+msgstr " - Zainstaluj, włącz lub zaktualizuj wtyczkę Serious Slider - "
+
+#: admin/options.php:667
+msgid "Enter shortcode provided by slider plugin. The plugin will be responsible for the slider's appearance."
+msgstr "Wpisz krótki kod dostarczony przez wtyczkę pokazu slajdów. Wtyczka będzie odpowiedzialna za wygląd pokazu slajdów."
+
+#: admin/options.php:666
+msgid "Shortcode"
+msgstr "Krótki kod"
+
+#: admin/options.php:659
+msgid "Slider Link"
+msgstr "Odnośnik pokazu slajdów"
+
+#: admin/options.php:653
+msgid "The default image can be replaced by setting a new banner image."
+msgstr "Domyślny obrazek można zastąpić, ustawiając nowy obrazek banera."
+
+#: admin/options.php:647
+msgid "To create an advanced slider, use our <a href='%s' target='_blank'>Serious Slider</a> plugin or any other slider plugin."
+msgstr "Aby utworzyć zaawansowany pokaz slajdów, użyj naszej wtyczki <a href='%s' target='_blank'>Serious Slider</a> lub dowolnej innej wtyczki pokazu slajdów."
+
+#: admin/options.php:643 admin/options.php:652
+msgid "Banner Image"
+msgstr "Obrazek banera"
+
+#: admin/options.php:642
+msgid "Use Shortcode"
+msgstr "Użyj krótkiego kodu"
+
+#: admin/options.php:641 admin/options.php:673
+msgid "Serious Slider"
+msgstr "Serious Slider"
+
+#: admin/options.php:619
+msgid "More Posts Label"
+msgstr "Więcej etykiet wpisów"
+
+#: admin/options.php:528 admin/options.php:604 admin/options.php:645
+#: admin/options.php:753 admin/options.php:789 admin/options.php:790
+#: admin/options.php:808 admin/options.php:809 admin/options.php:827
+#: admin/options.php:828 admin/options.php:846 admin/options.php:847
+#: admin/options.php:877 admin/options.php:878 admin/options.php:979
+#: admin/options.php:980 admin/options.php:987 admin/options.php:988
+#: admin/options.php:995 admin/options.php:996 admin/options.php:1003
+#: admin/options.php:1004 admin/options.php:1745 admin/options.php:1778
+#: admin/options.php:1893
+msgid "Disabled"
+msgstr "Wyłączony"
+
+#: admin/options.php:604
+msgid "Posts"
+msgstr "Wpisy"
+
+#: admin/options.php:604
+msgid "Static Page"
+msgstr "Strona statyczna"
+
+#: admin/options.php:596
+msgid "use a static page"
+msgstr "użyj strony statycznej"
+
+#: admin/options.php:596
+msgid "To activate the Landing Page, make sure to set the WordPress <strong>Front Page displays</strong> option to %s"
+msgstr "Aby włączyć stronę docelową, upewnij się, że opcja WordPress <strong>Wyświetlanie strony głównej</strong> jest ustawiona na %s"
+
+#: admin/options.php:588
+msgid "Disabled (use WordPress homepage)"
+msgstr "Wyłączone (użyj strony głównej WordPress)"
+
+#: admin/options.php:588
+msgid "Enabled"
+msgstr "Włączony"
+
+#: admin/options.php:576
+msgid "Header Widget Alignment"
+msgstr "Wyrównanie widżetu nagłówka"
+
+#: admin/options.php:569
+msgid "Header Widget Width"
+msgstr "Szerokość widżetu nagłówka"
+
+#: admin/options.php:559
+msgid "Header Image Behaviour"
+msgstr "Zachowanie obrazka nagłówka"
+
+#: admin/options.php:558 admin/options.php:2071
+msgid "Contained"
+msgstr "Zawiera"
+
+#: admin/options.php:558 admin/options.php:2071
+msgid "Cropped"
+msgstr "Przycięty"
+
+#: admin/options.php:551 admin/options.php:2064 admin/options.php:2089
+msgid "Changing this value may require to recreate your thumbnails."
+msgstr "Zmiana tej wartości może wymagać ponownego utworzenia miniaturek."
+
+#: admin/options.php:543
+msgid "Header Image Height"
+msgstr "Wysokość obrazka nagłówka"
+
+#: admin/options.php:493
+msgid "Show Tagline"
+msgstr "Pokaż slogan"
+
+#: admin/options.php:487
+msgid "Empty"
+msgstr "Puste"
+
+#: admin/options.php:487
+msgid "Logo & Site Title"
+msgstr "Logo i tytuł witryny"
+
+#: admin/options.php:487
+msgid "Logo"
+msgstr "Logo"
+
+#: admin/options.php:487 admin/options.php:1286
+msgid "Site Title"
+msgstr "Tytuł witryny"
+
+#: admin/options.php:485
+msgid "Site Header Content"
+msgstr "Treść nagłówka witryny"
+
+#: admin/options.php:479
+msgid "Menu Alignment"
+msgstr "Wyrównanie menu"
+
+#: admin/options.php:478 admin/options.php:578 admin/options.php:1697
+msgid "Right"
+msgstr "Prawo"
+
+#: admin/options.php:478 admin/options.php:578 admin/options.php:1697
+msgid "Left"
+msgstr "Lewo"
+
+#: admin/options.php:471
+msgid "Menu Layout"
+msgstr "Układ menu"
+
+#: admin/options.php:463
+msgid "Menu Position"
+msgstr "Pozycja menu"
+
+#: admin/options.php:462
+msgid "Over header image"
+msgstr "Ponad nagłówkiem obrazka"
+
+#: admin/options.php:462
+msgid "Normal"
+msgstr "Normalne"
+
+#: admin/options.php:455
+msgid "Menu Height"
+msgstr "Wysokość menu"
+
+#: admin/options.php:405
+msgid "Footer Widgets Alignment"
+msgstr "Wyrównanie widżetów stopki"
+
+#: admin/options.php:404 admin/options.php:478 admin/options.php:578
+#: admin/options.php:1697
+msgid "Center"
+msgstr "Środek"
+
+#: admin/options.php:404 admin/options.php:1697
+msgid "Default"
+msgstr "Domyślnie"
+
+#: admin/options.php:396
+msgid "4 Columns"
+msgstr "4 kolumny"
+
+#: admin/options.php:395
+msgid "3 Columns"
+msgstr "3 kolumny"
+
+#: admin/options.php:394
+msgid "2 Columns"
+msgstr "2 kolumny"
+
+#: admin/options.php:393
+msgid "1 Column"
+msgstr "1 kolumna"
+
+#: admin/options.php:392
+msgid "All in a row"
+msgstr "Wszystko w wierszu"
+
+#: admin/options.php:389
+msgid "Footer Widgets Columns"
+msgstr "Kolumny widżetów stopki"
+
+#: admin/options.php:378
+msgid "Post/page padding"
+msgstr "Dopełnienie wpisu/strony"
+
+#: admin/options.php:369
+msgid "Three columns"
+msgstr "Trzy kolumny"
+
+#: admin/options.php:365
+msgid "Two columns"
+msgstr "Dwie kolumny"
+
+#: admin/options.php:361
+msgid "One column"
+msgstr "Jedna kolumna"
+
+#: admin/options.php:358
+msgid "Posts Layout"
+msgstr "Układ wpisów"
+
+#: admin/options.php:349
+msgid "Right Sidebar Width"
+msgstr "Szerokość prawego panelu bocznego"
+
+#: admin/options.php:342
+msgid "Left Sidebar Width"
+msgstr "Szerokość lewego panelu bocznego"
+
+#: admin/options.php:335
+msgid "Site Width"
+msgstr "Szerokość witryny"
+
+#: admin/options.php:329 admin/options.php:470 admin/options.php:929
+msgid "Boxed"
+msgstr "Opakowany"
+
+#: admin/options.php:329 admin/options.php:470
+msgid "Wide"
+msgstr "Szeroki"
+
+#: admin/options.php:327
+msgid "Theme alignment"
+msgstr "Wyrównanie motywu"
+
+#: admin/options.php:318
+msgid "Three columns, one sidebar on each side"
+msgstr "Trzy kolumny, panele boczne po obu stronach"
+
+#: admin/options.php:314
+msgid "Three columns, sidebars on the left"
+msgstr "Trzy kolumny, panele boczne po lewej"
+
+#: admin/options.php:310
+msgid "Three columns, sidebars on the right"
+msgstr "Trzy kolumny, panele boczne po prawej"
+
+#: admin/options.php:306
+msgid "Two columns, sidebar on the left"
+msgstr "Dwie kolumny, panel boczny po lewej"
+
+#: admin/options.php:302
+msgid "Two columns, sidebar on the right"
+msgstr "Dwie kolumny, panel boczny po prawej"
+
+#: admin/options.php:298
+msgid "One column (no sidebars)"
+msgstr "Jedna kolumna (bez paneli bocznych)"
+
+#: admin/options.php:295
+msgid "Main Layout"
+msgstr "Główny układ"
+
+#: admin/options.php:275
+msgid "Miscellaneous"
+msgstr "Różne"
+
+#: admin/options.php:273 includes/comments.php:95 includes/comments.php:115
+msgid "Comments"
+msgstr "Komentarze"
+
+#: admin/options.php:272
+msgid "Excerpts"
+msgstr "Zajawki"
+
+#: admin/options.php:271
+msgid "Single Metas"
+msgstr "Pojedyncze meta"
+
+#: admin/options.php:270
+msgid "Blog Metas"
+msgstr "Meta bloga"
+
+#: admin/options.php:269
+msgid "Featured Image"
+msgstr "Obrazek wyróżniający"
+
+#: admin/options.php:266 admin/options.php:2968
+msgid "Footer"
+msgstr "Stopka"
+
+#: admin/options.php:262 includes/setup.php:60
+msgid "Social Icons"
+msgstr "Ikonki społecznościowe"
+
+#: admin/options.php:261
+msgid "Search Box Locations"
+msgstr "Lokalizacje pola wyszukiwania"
+
+#: admin/options.php:260
+msgid "Content Images"
+msgstr "Obrazki w treści"
+
+#: admin/options.php:259
+msgid "Decorations"
+msgstr "Dekoracje"
+
+#: admin/options.php:258
+msgid "Structure"
+msgstr "Struktura"
+
+#: admin/options.php:256
+msgid "Formatting"
+msgstr "Formatowanie"
+
+#: admin/options.php:255
+msgid "Widget Fonts"
+msgstr "Kroje pisma widżetu"
+
+#: admin/options.php:254
+msgid "Content Fonts"
+msgstr "Kroje pisma treści"
+
+#: admin/options.php:253
+msgid "Header Fonts"
+msgstr "Kroje pisma nagłówka"
+
+#: admin/options.php:252 admin/options.php:1227
+msgid "General Font"
+msgstr "Główny krój pisma"
+
+#: admin/options.php:602 admin/options.php:1218
+msgid "Featured Content"
+msgstr "Treść wyróżniona"
+
+#: admin/options.php:249 admin/options.php:1212
+msgid "Text Areas"
+msgstr "Obszary tekstowe"
+
+#: admin/options.php:248
+msgid "Featured Boxes 2"
+msgstr "Wyróżnione pola 2"
+
+#: admin/options.php:247
+msgid "Featured Boxes"
+msgstr "Wyróżnione pola"
+
+#: admin/options.php:246
+msgid "Featured Icon Blocks"
+msgstr "Wyróżnione bloki ikonki"
+
+#: admin/options.php:245 admin/options.php:638
+msgid "Slider"
+msgstr "Pokaz slajdów"
+
+#: admin/options.php:242 admin/options.php:264
+msgid "Content"
+msgstr "Treść"
+
+#: admin/options.php:241
+msgid "Menu"
+msgstr "Menu"
+
+#: admin/options.php:239
+msgid "Other Layouts"
+msgstr "Inne układy"
+
+#: admin/options.php:238
+msgid "General Layout"
+msgstr "Układ ogólny"
+
+#: admin/options.php:229
+msgid "Post Information"
+msgstr "Informacje o wpisie"
+
+#: admin/options.php:228
+msgid "Typography"
+msgstr "Typografia"
+
+#: admin/options.php:227
+msgid "Colors"
+msgstr "Kolory"
+
+#: admin/options.php:226 admin/options.php:244
+msgid "General"
+msgstr "Ogólne"
+
+#: admin/options.php:225 admin/options.php:267 admin/options.php:586
+msgid "Landing Page"
+msgstr "Strona docelowa"
+
+#: admin/options.php:224 admin/options.php:265 admin/options.php:2990
+msgid "Header"
+msgstr "Nagłówek"
+
+#: admin/options.php:223
+msgid "Layout"
+msgstr "Układ"
+
+#: admin/options.php:501
+msgid "Site Identity"
+msgstr "Tożsamość witryny"
+
+#: admin/options.php:644
+msgid "Header Image"
+msgstr "Obrazek nagłówka"
+
+#: admin/options.php:174
+msgid "Manage Theme Settings"
+msgstr "Zarządzaj ustawieniami motywu"
+
+#: admin/options.php:168
+msgid "Rate %s on WordPress.org"
+msgstr "Oceń %s na WordPress.org"
+
+#: admin/options.php:156
+msgid "Browse the Forum"
+msgstr "Przeglądaj forum"
+
+#: admin/options.php:150
+msgid "Read the Docs"
+msgstr "Przeczytaj dokumenty"
+
+#: admin/main.php:144 admin/options.php:145
+msgid "Find out what features you're missing out on and how the Plus version of %1$s can improve your site."
+msgstr "Dowiedz się, jakich funkcji Ci brakuje i w jaki sposób wersja Plus %1$s może ulepszyć Twoją witrynę."
+
+#: admin/options.php:137
+msgid "Get Plus"
+msgstr "Zdobądź Plus"
+
+#: admin/options.php:134
+msgid "About %s"
+msgstr "Informacje o %s"
+
+#: admin/main.php:116 admin/main.php:142 admin/main.php:146
+#: admin/options.php:144
+msgid "Upgrade to Plus"
+msgstr "Ulepsz do Plus"
+
+#: admin/main.php:132
+msgid "Reset to Defaults"
+msgstr "Przywróć ustawienia domyślne"
+
+#: admin/main.php:129
+msgid "Customize"
+msgstr "Dostosuj"
+
+#: admin/main.php:115
+msgid "Theme Support"
+msgstr "Wsparcie motywu"
+
+#: admin/main.php:114
+msgid "Bravada Homepage"
+msgstr "Strona domowa Bravada"
+
+#: admin/main.php:105
+msgid "Bravada Theme v%1$s by %2$s"
+msgstr "Motyw Bravada v%1$s autorstwa %2$s"
+
+#: admin/main.php:98
+msgid "Bravada settings have been reset successfully."
+msgstr "Ustawienia Bravada zostały pomyślnie zresetowane."
+
+#: admin/main.php:86
+msgid "Sorry, but you do not have sufficient permissions to access this page."
+msgstr "Niestety nie masz wystarczających uprawnień do wyświetlenia tej strony."
+
+#: admin/main.php:77
+msgid "Bravada Theme"
+msgstr "Motyw Bravada"
+
+#: admin/main.php:69
+msgid "Reset Bravada Settings to Defaults?"
+msgstr "Przywrócić ustawienia domyślne Bravada?"
+
+#: sidebar-left.php:22 sidebar-right.php:22
+msgid "To hide this sidebar, switch to a different Layout via the <a href=\"%s\">Theme Customizations</a>."
+msgstr "Aby ukryć ten panel boczny zmień układ na inny w <a href=\"%s\">Personalizacji motywu</a>."
+
+#: sidebar-left.php:21 sidebar-right.php:21
+msgid "You currently have no widgets set in this sidebar. You can add widgets via the <a href=\"%s\">Dashboard</a>."
+msgstr "Obecnie nie masz żadnych widżetów ustawionych na tym panelu bocznym. Możesz dodawać widżety za pomocą <a href=\"%s\">Kokpitu</a>."
+
+#: includes/setup.php:58 sidebar-left.php:18
+msgid "Left Sidebar"
+msgstr "Lewy panel boczny"
+
+#: header.php:73
+msgid "Top Menu"
+msgstr "Górne menu"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "http://www.cryoutcreations.eu"
+msgstr "http://www.cryoutcreations.eu"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Cryout Creations"
+msgstr "Cryout Creations"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "http://www.cryoutcreations.eu/wordpress-themes/bravada"
+msgstr "http://www.cryoutcreations.eu/wordpress-themes/bravada"

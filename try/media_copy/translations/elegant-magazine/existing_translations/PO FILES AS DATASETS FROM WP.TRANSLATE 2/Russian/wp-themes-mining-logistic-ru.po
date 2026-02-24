@@ -1,0 +1,1839 @@
+# Translation of Themes - Mining Logistic in Russian
+# This file is distributed under the same license as the Themes - Mining Logistic package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-11-28 13:41:04+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Mining Logistic\n"
+
+#. Description of the theme
+#: style.css inc/core/theme-info.php:44
+#, gp-priority: high
+msgid "Mining Logistic is a conversion-focused, responsive theme designed for mining logistics, mineral transportation, supply chain management, industrial transport solutions, and product-based businesses, offering a professional platform to showcase mining services, sell industrial equipment, bulk materials, and heavy machinery through seamless WooCommerce integration suited for ecommerce templates, dropshipping shops, and online store building; it includes customizable homepage layouts, service sections, portfolios, team showcases, galleries, and built-in SEO optimization with Yoast SEO to boost visibility for searches like mining transport, freight forwarding, warehouse management, and industrial supply, while Contact Form 7 enables easy lead capture and client inquiries; compatible with logistics tracking plugins and secure online selling tools, the theme also features drag-and-drop customization, color scheme and typography options, Google Fonts, fast loading speed, mobile optimization, and cross-browser support, providing a modern, conversion-focused solution for mining companies, industrial suppliers, and logistics providers to attract clients, showcase products effectively, and scale their business in the digital marketplace."
+msgstr ""
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Mining Logistic"
+msgstr "Mining Logistic"
+
+#: patterns/footer-default.php:127
+msgid "By VWThemes"
+msgstr "От VWThemes"
+
+#: patterns/footer-default.php:127
+msgid "Mining Logistic Theme"
+msgstr ""
+
+#: inc/tgm/plugin-activation.php:62
+msgid "Ibtana - WordPress Website Builder"
+msgstr "Ibtana - WordPress Website Builder"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка плагина %1$s (%2$d/%3$d)"
+
+#: inc/tgm/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Все установки завершены."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s успешно установлен."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Начался процесс установки, он может занять некоторое время, особенно на медленных серверах, будьте терпеливы."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка и активация плагина %1$s (%2$d/%3$d)"
+
+#: inc/tgm/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Все установки и активации были завершены."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Скрыть детали"
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Показать подробности"
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s успешно установлен и активирован."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Началась установка и активация. Этот процесс может занять некоторое время, особенно на медленных серверах, будьте терпеливы."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "Установка %1$s не удалась."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgm/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Возникла ошибка при установке %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Обновление плагина %1$s (%2$d/%3$d)"
+
+#: inc/tgm/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Активация плагина не удалась."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Сейчас нет доступных плагинов для активации."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Не выбрано плагинов для активации. Действий не требуется."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Сейчас нет доступных плагинов для обновления."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Сейчас нет доступных плагинов для установки."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Не выбрано плагинов для обновления. Действий не требуется."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Не выбрано плагинов для установки. Действий не требуется."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Активировать"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Обновить"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Установить"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Сообщение об обновлении от автора плагина:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Активировать %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Обновить %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Установить %2$s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Статус"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Тип"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Источник"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Плагин"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Нет плагинов для установки, обновления или активации."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Доступная версия:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Миним. необходимая версия:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Установленная версия:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "неизвестна"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Для активации <span class=\"count\">(%s)</span>"
+msgstr[1] "Для активации <span class=\"count\">(%s)</span>"
+msgstr[2] "Для активации <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Доступно обновление <span class=\"count\">(%s)</span>"
+msgstr[1] "Доступны обновления <span class=\"count\">(%s)</span>"
+msgstr[2] "Доступны обновлений <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Для установки <span class=\"count\">(%s)</span>"
+msgstr[1] "Для установки <span class=\"count\">(%s)</span>"
+msgstr[2] "Для установки <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Все <span class=\"count\">(%s)</span>"
+msgstr[1] "Все <span class=\"count\">(%s)</span>"
+msgstr[2] "Все <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/tgm/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Рекомендуется обновление"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Требуется обновление"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Требуемое обновление недоступно"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Активный"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Установлен, но не активирован"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Не установлен"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Предварительно упакованный"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Внешний источник"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Репозиторий WordPress"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Рекомендуется"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Требуется"
+
+#. translators: %s: version number
+#: inc/tgm/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:1121
+#: inc/tgm/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "и"
+
+#: inc/tgm/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Пакет удаленного плагина состоит из нескольких файлов, но файлы не упакованы в папку."
+
+#: inc/tgm/class-tgm-plugin-activation.php:934
+#: inc/tgm/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Свяжитесь с поставщиком плагина и попросите его упаковать плагин в соответствии с рекомендациями WordPress."
+
+#: inc/tgm/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "В пакете удаленного плагина нет папки с нужным ярлыком и переименование не помогло."
+
+#: inc/tgm/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Требуется обновление"
+
+#: inc/tgm/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Этот плагин необходимо обновить, чтобы он был совместим с вашей темой."
+
+#: inc/tgm/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Обратитесь за помощью к админу этого сайта."
+
+#: inc/tgm/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Имеются один или более требуемых или рекомендуемых плагинов для установки, обновления или активации."
+
+#: inc/tgm/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Отклонить это уведомление"
+
+#. translators: 1: dashboard link.
+#: inc/tgm/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Все плагины успешно установлены и активированы. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Плагин не активирован. Тема требует более новую версию %s. Обновите плагин."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Действие не требовалось. Плагин %1$s уже активен."
+
+#: inc/tgm/class-tgm-plugin-activation.php:388
+#: inc/tgm/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Следующий плагин был успешно активирован:"
+msgstr[1] "Следующих плагина были успешно активированы:"
+msgstr[2] "Следующих плагинов были успешно активированы:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:387
+#: inc/tgm/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "Плагин успешно активирован."
+
+#: inc/tgm/class-tgm-plugin-activation.php:386
+#: inc/tgm/class-tgm-plugin-activation.php:827
+#: inc/tgm/class-tgm-plugin-activation.php:2533
+#: inc/tgm/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Вернуться в консоль"
+
+#: inc/tgm/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Вернуться к установке требуемых плагинов"
+
+#: inc/tgm/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Начать активацию плагина"
+msgstr[1] "Начать активацию плагинов"
+msgstr[2] "Начать активацию плагинов"
+
+#: inc/tgm/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Начать обновление плагина"
+msgstr[1] "Начать обновление плагинов"
+msgstr[2] "Начать обновление плагинов"
+
+#: inc/tgm/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Начать установку плагина"
+msgstr[1] "Начать установку плагинов"
+msgstr[2] "Начать установку плагинов"
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Следующий рекомендуемый плагин в настоящее время неактивен: %1$s."
+msgstr[1] "Следующих рекомендуемых плагина в настоящее время неактивны: %1$s."
+msgstr[2] "Следующих рекомендуемых плагина в настоящее время неактивны: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Следующий требуемый плагин в настоящее время не активен: %1$s."
+msgstr[1] "Следующие требуемые плагины в настоящее время не активны: %1$s."
+msgstr[2] "Следующие требуемые плагины в настоящее время не активны: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Доступно обновление плагина: %1$s."
+msgstr[1] "Доступны обновления плагинов: %1$s."
+msgstr[2] "Доступны обновления плагинов: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Для обеспечения максимальной совместимости с данной темой необходимо обновить следующий плагин до последней версии: %1$s."
+msgstr[1] "Для обеспечения максимальной совместимости с данной темой необходимо обновить следующих плагина до последней версии: %1$s."
+msgstr[2] "Для обеспечения максимальной совместимости с данной темой необходимо обновить следующих плагинов до последней версии: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Для этой темы рекомендуется следующий плагин: %1$s."
+msgstr[1] "Для этой темы рекомендуются следующие плагины: %1$s."
+msgstr[2] "Для этой темы рекомендуются следующие плагины: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Эта тема требует следующий плагин: %1$s."
+msgstr[1] "Эта тема требует следующих плагинов: %1$s."
+msgstr[2] "Эта тема требует следующих плагинов: %1$s."
+
+#: inc/tgm/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Что-то пошло не так с API плагина."
+
+#. translators: %s: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Обновление плагина: %s"
+
+#. translators: %s: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Установка плагина: %s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Установить плагины"
+
+#: inc/tgm/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Установить требуемые плагины"
+
+#: inc/section-pro/customizer.php:74
+msgid "Upgrade Pro"
+msgstr "Обновить до Pro"
+
+#: inc/section-pro/customizer.php:73
+msgid "Mining-logistic Pro"
+msgstr ""
+
+#: inc/core/theme-info.php:356
+msgid "20% Off"
+msgstr "Скидка 20%"
+
+#: inc/core/theme-info.php:355
+msgid "GET PRO"
+msgstr "ПОЛУЧИТЬ PRO"
+
+#: inc/core/theme-info.php:344
+msgid "Get 10% OFF On Bundle"
+msgstr "Получите 10% скидку на комплект"
+
+#: inc/core/theme-info.php:342
+msgid "Get Access to 400+ Premium WordPress Themes At Just $99"
+msgstr "Получите доступ к 400+ премиум-темам WordPress всего за $99"
+
+#: inc/core/theme-info.php:341
+msgid "WP THEME BUNDLE"
+msgstr "ПАКЕТ ТЕМ WP"
+
+#: inc/core/theme-info.php:325
+msgid "All Our Wordpress Themes Are Modern, Minimalist, 100% Responsive, Seo-Friendly,Feature-Rich, And Multipurpose That Best Suit Designers, Bloggers And Other Professionals Who Are Working In The Creative Fields."
+msgstr "Все наши WordPress темы являются современными, минималистичными, 100% адаптивными, подготовлеными к seo, с богатым функционалом и многофункциональными, которые идеально подойдут дизайнерам, блоггерам и другим профессионалам, которые работают в области творчества."
+
+#: inc/core/theme-info.php:324 inc/tgm/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Версия"
+
+#: inc/core/theme-info.php:324
+msgid "Welcome To Mining Logistic"
+msgstr ""
+
+#: inc/core/theme-info.php:311
+msgid "Get Bundle"
+msgstr "Получить пакет"
+
+#: inc/core/theme-info.php:309
+msgid "Upgrade now and give your website the professional edge it deserves, all at an unbeatable price of $99!"
+msgstr "Обновись прямо сейчас и придай своему сайту профессиональное звучание, которого он заслуживает, и все это по непревзойденной цене в 99 долларов!"
+
+#: inc/core/theme-info.php:307
+msgid "Dedicated Support."
+msgstr "Выделенная поддержка."
+
+#: inc/core/theme-info.php:306
+msgid "Regular Updates."
+msgstr "Регулярные обновления."
+
+#: inc/core/theme-info.php:305
+msgid "Customization Flexibility."
+msgstr "Гибкость настройки."
+
+#: inc/core/theme-info.php:304
+msgid "Seamless Integration."
+msgstr "Бесшовная интеграция."
+
+#: inc/core/theme-info.php:303
+msgid "400+ Premium Themes & 5+ Plugins."
+msgstr "400+ премиум-тем и 5+ плагинов."
+
+#: inc/core/theme-info.php:302
+msgid "Features:"
+msgstr "Возможности:"
+
+#: inc/core/theme-info.php:300
+msgid "Enhance your website effortlessly with our WP Theme Bundle. Get access to 400+ premium WordPress themes and 5+ powerful plugins, all designed to meet diverse business needs. Enjoy seamless integration with any plugins, ultimate customization flexibility, and regular updates to keep your site current and secure. Plus, benefit from our dedicated customer support, ensuring a smooth and professional web experience."
+msgstr "Улучшите свой сайт без особых усилий с помощью нашего пакета WP Theme Bundle. Получите доступ к 400+ премиум-темам WordPress и 5+ мощным плагинам, созданным для удовлетворения различных потребностей бизнеса. Наслаждайтесь бесшовной интеграцией с любыми плагинами, максимальной гибкостью настройки и регулярными обновлениями для поддержания актуальности и безопасности Вашего сайта. Кроме того, воспользуйтесь нашей специализированной поддержкой клиентов, обеспечивающей бесперебойную и профессиональную работу с сайтом."
+
+#: inc/core/theme-info.php:287
+msgid "Upgrade to Pro"
+msgstr "Обновить до Pro"
+
+#: inc/core/theme-info.php:280
+msgid "Premium Pricing Plan"
+msgstr "Премиальный тарифный план"
+
+#: inc/core/theme-info.php:275
+msgid "Detailed Influencer Portfolio"
+msgstr "Подробное портфолио инфлюенсера"
+
+#: inc/core/theme-info.php:270
+msgid "Influence Registration"
+msgstr "Регистрация влияния"
+
+#: inc/core/theme-info.php:265
+msgid "MySQL 5.6 (or greater) | MariaDB 10.0 (or greater)"
+msgstr "MySQL 5.6 (или выше) | MariaDB 10.0 (или выше)"
+
+#: inc/core/theme-info.php:260
+msgid "PHP 8.2 or 8.3"
+msgstr "PHP 8.2 или 8.3"
+
+#: inc/core/theme-info.php:255
+msgid "WordPress 6.4 or later"
+msgstr "WordPress 6.4 или новее"
+
+#: inc/core/theme-info.php:250
+msgid "Seamless Customer Support"
+msgstr "Полная поддержка клиентов"
+
+#: inc/core/theme-info.php:245
+msgid "All Access Theme Pass"
+msgstr "Все темы доступны для перевода"
+
+#: inc/core/theme-info.php:240
+msgid "Custom Feature Addition"
+msgstr "Добавление пользовательской функции"
+
+#: inc/core/theme-info.php:235
+msgid "Priority Error Fixing"
+msgstr "Исправление приоритетной ошибки"
+
+#: inc/core/theme-info.php:230
+msgid "Budget Friendly Value"
+msgstr "Бюджетная дружеская стоимость"
+
+#: inc/core/theme-info.php:225
+msgid "Premium Membership"
+msgstr "Премиум членство"
+
+#: inc/core/theme-info.php:220
+msgid "Custom Background, Colors, Header, Logo & Menu"
+msgstr "Пользовательский фон, цвета, заголовок, логотип и меню"
+
+#: inc/core/theme-info.php:215
+msgid "Shortcodes"
+msgstr "Шорткоды"
+
+#: inc/core/theme-info.php:210
+msgid "Support to add custom CSS / JS "
+msgstr "Поддержка добавления пользовательских CSS / JS "
+
+#: inc/core/theme-info.php:205
+msgid "Simple & Mega Menu Option"
+msgstr "Варианты простого и мега меню"
+
+#: inc/core/theme-info.php:200
+msgid "Gallery"
+msgstr "Галерея"
+
+#: inc/core/theme-info.php:195
+msgid "Section Google Font Choices"
+msgstr "Раздел Выбор шрифтов Google"
+
+#: inc/core/theme-info.php:190
+msgid "Section Enable / Disable"
+msgstr "Раздел"
+
+#: inc/core/theme-info.php:185
+msgid "Exclusive Functionalities"
+msgstr "Эксклюзивные функции"
+
+#: inc/core/theme-info.php:180
+msgid "Secure and Optimized Code"
+msgstr "Безопасный и оптимизированый код"
+
+#: inc/core/theme-info.php:175
+msgid "Support 3rd Party Plugins"
+msgstr "Поддержка плагинов сторонних разработчиков"
+
+#: inc/core/theme-info.php:170
+msgid "Latest WordPress Compatibility"
+msgstr "Совместимость с последними версиями WordPress"
+
+#: inc/core/theme-info.php:165
+msgid "Full Documentation"
+msgstr "Полная документация"
+
+#: inc/core/theme-info.php:160
+msgid "Demo Importer"
+msgstr "Импортер демонстраций"
+
+#: inc/core/theme-info.php:155
+msgid "Section Reordering"
+msgstr "Переупорядочивание разделов"
+
+#: inc/core/theme-info.php:152
+msgid "3(Full width/Left/Right Sidebar)"
+msgstr "3 (во всю ширину/левая/правая боковая панель)"
+
+#: inc/core/theme-info.php:150
+msgid "Blog Templates & Layout"
+msgstr "Шаблоны и макеты блога"
+
+#: inc/core/theme-info.php:145
+msgid "Contact us Page Template"
+msgstr "Шаблон страницы Свяжитесь с нами"
+
+#: inc/core/theme-info.php:142
+msgid "12"
+msgstr "12"
+
+#: inc/core/theme-info.php:141
+msgid "2"
+msgstr "2"
+
+#: inc/core/theme-info.php:140
+msgid "Theme sections"
+msgstr "Разделы темы"
+
+#: inc/core/theme-info.php:135
+msgid "Home Page Template"
+msgstr "Шаблон главной страницы"
+
+#: inc/core/theme-info.php:132
+msgid "14"
+msgstr "14"
+
+#: inc/core/theme-info.php:131 inc/core/theme-info.php:136
+#: inc/core/theme-info.php:137 inc/core/theme-info.php:147
+msgid "1"
+msgstr "1"
+
+#: inc/core/theme-info.php:130
+msgid "Template Pages"
+msgstr "Шаблон страниц"
+
+#: inc/core/theme-info.php:125
+msgid "Banner Settings"
+msgstr "Настройки баннера"
+
+#: inc/core/theme-info.php:120
+msgid "SEO Friendly"
+msgstr "Дружелюбный к SEO"
+
+#: inc/core/theme-info.php:115
+msgid "Responsive Design"
+msgstr "Адаптивный дизайн"
+
+#: inc/core/theme-info.php:110
+msgid "Easy Setup"
+msgstr "Простая установка"
+
+#: inc/core/theme-info.php:105
+msgid "Premium Themes"
+msgstr "Премиум темы"
+
+#: inc/core/theme-info.php:104
+msgid "Free Themes"
+msgstr "Бесплатные темы"
+
+#: inc/core/theme-info.php:103
+msgid "Features"
+msgstr "Функции"
+
+#: inc/core/theme-info.php:97
+msgid "Theme Features"
+msgstr "Возможности темы"
+
+#: inc/core/theme-info.php:86 inc/core/theme-info.php:312
+#: inc/core/theme-info.php:330
+msgid "Documentation"
+msgstr "Документация"
+
+#: inc/core/theme-info.php:85 inc/core/theme-info.php:329
+msgid "Buy Premium"
+msgstr "Купить Premium"
+
+#: inc/core/theme-info.php:84 inc/core/theme-info.php:328
+msgid "Live Demo"
+msgstr "Онлайн-демо"
+
+#: inc/core/theme-info.php:82
+msgid "Designed specifically for companies and professionals in the mining industry, the Mining WordPress Theme delivers a modern and sophisticated online presence tailored to mineral extraction, geological surveys, and mining operations. Whether you’re in underground mining, surface mining, coal mining, or rare earth mining, this theme provides a clean and responsive layout that highlights your services, equipment, and project accomplishments. With retina-ready visuals, optimized code, and SEO-friendly features, it ensures fast load times and enhanced visibility. Showcase heavy machinery, mining trucks, drilling rigs, crushers, and mineral processing units effortlessly. Its customization options allow easy branding for mining contractors, consultants, and engineers. The theme supports testimonials, contact forms, and banners to engage clients, promote safety gear, and offer insights into mine planning or environmental impact assessments. It's also ideal for promoting sustainable mining practices and green mining initiatives. Integrated with social media and built on a secure, mobile-friendly framework, it’s perfect for any mining company aiming to stay ahead in the global mining market."
+msgstr "Разработанная специально для компаний и профессионалов в горнодобывающей промышленности, тема Mining WordPress обеспечивает современное и сложное присутствие в сети, предназначенное для добычи полезных ископаемых, геологических изысканий и горных работ. Независимо от того, занимаетесь ли Вы подземной, открытой, угольной или редкоземельной добычей, эта тема обеспечивает чистый и отзывчивый макет, подчеркивающий Ваши услуги, оборудование и достижения в проектах. Благодаря визуальному оформлению с поддержкой технологии retina, оптимизированному коду и удобным для SEO функциям, она обеспечивает быструю загрузку и улучшенную видимость. Без труда демонстрируйте тяжелую технику, карьерные грузовики, буровые установки, дробилки и установки для переработки минералов. Возможности настройки позволяют легко создавать брендинг для подрядчиков, консультантов и инженеров горнодобывающей промышленности. Тема поддерживает отзывы, контактные формы и баннеры для привлечения клиентов, рекламы средств безопасности и предложений по планированию шахт или оценке воздействия на окружающую среду. Она также идеально подходит для продвижения устойчивых методов добычи полезных ископаемых и \"зеленых\" инициатив. Интегрированная с социальными сетями и построенная на безопасной, удобной для мобильных устройств основе, она идеально подходит для любой горнодобывающей компании, стремящейся быть впереди на мировом рынке горнодобывающей промышленности."
+
+#: inc/core/theme-info.php:80
+msgid "Premium Theme Information"
+msgstr "Информация о премиум теме"
+
+#: inc/core/theme-info.php:69
+msgid "Free Theme Documentation"
+msgstr "Документация по бесплатной теме"
+
+#: inc/core/theme-info.php:67
+msgid "If you need any assistance regarding setting up and configuring the Theme, our documentation is there."
+msgstr "Если вам нужна помощь в установке и настройке темы, тут наша документация."
+
+#: inc/core/theme-info.php:66
+msgid "Theme Documentation"
+msgstr "Документация к теме"
+
+#: inc/core/theme-info.php:62
+msgid "Reviews"
+msgstr "Отзывы"
+
+#: inc/core/theme-info.php:60
+msgid "All the features and aspects of this WordPress Theme are phenomenal. I'd recommend this theme to all."
+msgstr "Все свойства и аспекты этой WordPress темы феноменальны. Я бы рекомендовал эту тему всем."
+
+#: inc/core/theme-info.php:59
+msgid "Reviews & Testimonials"
+msgstr "Обзоры и отзывы"
+
+#: inc/core/theme-info.php:55
+msgid "Support Forum"
+msgstr "Форум поддержки"
+
+#: inc/core/theme-info.php:53
+msgid "Our dedicated team is well prepared to help you out in case of queries and doubts regarding our theme."
+msgstr "Наша целеустремленная команда хорошо подготовлена, чтобы помочь вам в случае вопросов и сомнений относительно нашей темы."
+
+#: inc/core/theme-info.php:52
+msgid "Having Trouble, Need Support?"
+msgstr "Проблемы, нужна в поддержка?"
+
+#: inc/core/theme-info.php:48
+msgid "Visit Your Site"
+msgstr "Просмотрите свой сайт"
+
+#: inc/core/theme-info.php:47
+msgid "Edit Your Site"
+msgstr "Отредактируйте ваш сайт"
+
+#: inc/core/theme-info.php:42
+msgid "Lite Theme Information"
+msgstr "Информация об облегченной теме"
+
+#: inc/core/theme-info.php:30 inc/core/theme-info.php:298
+msgid "WP Theme Bundle"
+msgstr "Пакет тем WP"
+
+#: inc/core/theme-info.php:29
+msgid "Free VS Premium"
+msgstr "Free против Premium"
+
+#: inc/core/theme-info.php:28
+msgid "Get Premium"
+msgstr "Получить Премиум"
+
+#: inc/core/theme-info.php:27
+msgid "Free Setup"
+msgstr "Бесплатная установка"
+
+#: inc/core/theme-info.php:5
+msgid "Mining-logistic Theme"
+msgstr ""
+
+#: inc/core/activation-notice.php:79 inc/core/activation-notice.php:83
+#: inc/core/theme-info.php:5
+msgid "Mining-logistic"
+msgstr ""
+
+#: inc/core/activation-notice.php:73
+msgid "BUNDLE OF 400+ THEMES"
+msgstr "ПАКЕТ ИЗ 400+ ТЕМ"
+
+#: inc/core/activation-notice.php:67
+msgid "UPGRADE TO PRO"
+msgstr "ОБНОВИТЬ ДО ПРО"
+
+#: inc/core/activation-notice.php:61
+msgid "VIEW DEMO"
+msgstr "ПРОСМОТР ДЕМО"
+
+#: inc/core/activation-notice.php:27
+msgid "GET STARTED"
+msgstr "НАЧАЛО РАБОТЫ"
+
+#: inc/core/activation-notice.php:23
+msgid "To help you get started quickly, use the options below:"
+msgstr "Чтобы помочь Вам быстро начать работу, воспользуйтесь параметрами, приведенными ниже:"
+
+#: inc/core/activation-notice.php:22
+msgid "You are now using the Mining Logistic, a beautifully designed theme to kickstart your website."
+msgstr ""
+
+#: inc/core/activation-notice.php:21
+msgid "🎉 Welcome to VW Themes,"
+msgstr "🎉 Добро пожаловать в тему VW,"
+
+#: functions.php:94
+msgid "https://preview.vwthemesdemo.com/docs/theme-bundle/"
+msgstr "https://preview.vwthemesdemo.com/docs/theme-bundle/"
+
+#: functions.php:93
+msgid "https://www.vwthemes.com/products/wp-theme-bundle"
+msgstr "https://www.vwthemes.com/products/wp-theme-bundle"
+
+#: functions.php:92
+msgid "https://preview.vwthemesdemo.com/docs/free-mining-logistic/"
+msgstr "https://preview.vwthemesdemo.com/docs/free-mining-logistic/"
+
+#: functions.php:91
+msgid "https://preview.vwthemesdemo.com/docs/mining-industry-pro/"
+msgstr "https://preview.vwthemesdemo.com/docs/mining-industry-pro/"
+
+#: functions.php:90
+msgid "https://www.vwthemes.net/mining-industry-pro/"
+msgstr "https://www.vwthemes.net/mining-industry-pro/"
+
+#: functions.php:89
+msgid "https://wordpress.org/support/theme/mining-logistic/reviews/"
+msgstr "https://wordpress.org/support/theme/mining-logistic/reviews/"
+
+#: functions.php:88
+msgid "https://wordpress.org/support/theme/mining-logistic/"
+msgstr "https://wordpress.org/support/theme/mining-logistic/"
+
+#: functions.php:87
+msgid "https://www.vwthemes.com/products/mining-wordpress-theme"
+msgstr "https://www.vwthemes.com/products/mining-wordpress-theme"
+
+#: styles/tiffany-teal.json
+msgctxt "Style variation name"
+msgid "Tiffany Teal"
+msgstr "Tiffany Teal"
+
+#: styles/olive-yellow.json
+msgctxt "Style variation name"
+msgid "Olive Yellow"
+msgstr "Оливково-желтый"
+
+#: styles/lime-green.json
+msgctxt "Style variation name"
+msgid "Lime Green"
+msgstr "Лаймово-зеленый"
+
+#: styles/golden-amber.json
+msgctxt "Style variation name"
+msgid "Golden Amber"
+msgstr "Золотой янтарь"
+
+#: styles/emerald-green.json
+msgctxt "Style variation name"
+msgid "Emerald Green"
+msgstr "Изумрудно-зеленый"
+
+#: styles/electric-purple.json
+msgctxt "Style variation name"
+msgid "Electric Purple"
+msgstr "Электрический фиолетовый"
+
+#: styles/deep-raspberry.json
+msgctxt "Style variation name"
+msgid "Deep Raspberry"
+msgstr "Глубокая малина"
+
+#: styles/deep-indigo.json
+msgctxt "Style variation name"
+msgid "Deep Indigo"
+msgstr "Глубокий индиго"
+
+#: styles/cobalt-blue.json
+msgctxt "Style variation name"
+msgid "Cobalt Blue"
+msgstr "Кобальтовый синий"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge (Display)"
+msgstr "Огромный (отображение)"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra large (Recent Post Title)"
+msgstr "Очень большой (заголовок недавней записи)"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Большой"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Content Heading"
+msgstr "Заголовок содержимого"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Normal"
+msgstr "Обычный"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Upper Heading"
+msgstr "Верхний заголовок"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Средний"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Маленький"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Small"
+msgstr "Очень маленький"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Tiny"
+msgstr "Крошечный"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Raleway"
+msgstr "Raleway"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Syne"
+msgstr "Syne"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Poppins"
+msgstr "Poppins"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Figtree"
+msgstr "Figtree"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Bad Script"
+msgstr "Bad Script"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "7"
+msgstr "7"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "6"
+msgstr "6"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "5"
+msgstr "5"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "4"
+msgstr "4"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "3"
+msgstr "3"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2"
+msgstr "2"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "1"
+msgstr "1"
+
+#: theme.json styles/cobalt-blue.json styles/deep-indigo.json
+#: styles/deep-raspberry.json styles/electric-purple.json
+#: styles/emerald-green.json styles/golden-amber.json styles/lime-green.json
+#: styles/olive-yellow.json styles/tiffany-teal.json
+msgctxt "Color name"
+msgid "Background"
+msgstr "Фон"
+
+#: theme.json styles/cobalt-blue.json styles/deep-indigo.json
+#: styles/deep-raspberry.json styles/electric-purple.json
+#: styles/emerald-green.json styles/golden-amber.json styles/lime-green.json
+#: styles/olive-yellow.json styles/tiffany-teal.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "Передний план"
+
+#: theme.json styles/cobalt-blue.json styles/deep-indigo.json
+#: styles/deep-raspberry.json styles/electric-purple.json
+#: styles/emerald-green.json styles/golden-amber.json styles/lime-green.json
+#: styles/olive-yellow.json styles/tiffany-teal.json
+msgctxt "Color name"
+msgid "Heading Color"
+msgstr "Цвет заголовка"
+
+#: theme.json styles/cobalt-blue.json styles/deep-indigo.json
+#: styles/deep-raspberry.json styles/electric-purple.json
+#: styles/emerald-green.json styles/golden-amber.json styles/lime-green.json
+#: styles/olive-yellow.json styles/tiffany-teal.json
+msgctxt "Color name"
+msgid "Section Bg Color"
+msgstr "Цвет фона раздела"
+
+#: theme.json styles/cobalt-blue.json styles/deep-indigo.json
+#: styles/deep-raspberry.json styles/electric-purple.json
+#: styles/emerald-green.json styles/golden-amber.json styles/lime-green.json
+#: styles/olive-yellow.json styles/tiffany-teal.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Вторичный"
+
+#: theme.json styles/cobalt-blue.json styles/deep-indigo.json
+#: styles/deep-raspberry.json styles/electric-purple.json
+#: styles/emerald-green.json styles/golden-amber.json styles/lime-green.json
+#: styles/olive-yellow.json styles/tiffany-teal.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Основной"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal background to tertiary"
+msgstr "От диагонального фонового к третичному"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal tertiary to background"
+msgstr "От диагонального третичного к фоновому"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal background to secondary"
+msgstr "От диагонального фонового к вторичному"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal secondary to background right"
+msgstr "От диагонального вторичного к фоновому, справа"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal secondary to background left"
+msgstr "От диагонального вторичного к фоновому, слева"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal secondary to background"
+msgstr "От диагонального вторичного к фоновому"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal primary to foreground"
+msgstr "От диагонального первичного к переднему плану"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Secondary background dark to Secondary  background"
+msgstr "От вторичного темного к вторичному фону"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Secondary background to Secondary dark background"
+msgstr "От вторичного к вторичному темному фону"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical background to secondary"
+msgstr "От вертикального фонового к вторичному"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical secondary to background"
+msgstr "От вертикального вторичного к фоновому"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical secondary to tertiary"
+msgstr "От вертикального вторичного к третичному"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Banner Overlay Color"
+msgstr "Цвет наложения баннера"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Banner Background Color"
+msgstr "Цвет фона баннера"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Primary and tertiary"
+msgstr "Первичный и третичный"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Primary and secondary"
+msgstr "Первичный и вторичный"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Primary and background"
+msgstr "Первичный и фоновый"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Foreground and tertiary"
+msgstr "Передний план и третичный"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Foreground and secondary"
+msgstr "Передний план и вторичный"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Foreground and background"
+msgstr "Передний план и фон"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Sidebar"
+msgstr "Боковая панель"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Подвал"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Заголовок"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Post (Sidebar on Left)"
+msgstr "Отдельная запись (боковая панель слева)"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Post (Sidebar on Right)"
+msgstr "Отдельная запись (боковая панель справа)"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Page (Sidebar on Left)"
+msgstr "Отдельная страница (боковая панель слева)"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Page (Sidebar on Right)"
+msgstr "Отдельная страница (боковая панель справа)"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blog Page (Sidebar on Right)"
+msgstr "Страница блога (боковая панель справа)"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blog Page (Sidebar on Left)"
+msgstr "Страница блога (боковая панель слева)"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page (No Title / Feature Image)"
+msgstr "Страница (без названия / с изображением)"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank"
+msgstr "Пустой"
+
+#: patterns/theme-button.php:10
+msgid "READ MORE"
+msgstr "ЧИТАТЬ ДАЛЕЕ"
+
+#: patterns/theme-button.php
+msgctxt "Pattern title"
+msgid "Theme Button"
+msgstr "Кнопка темы"
+
+#: patterns/testimonial-section.php:101
+msgid "Business Analyst"
+msgstr "Бизнес-аналитик"
+
+#: patterns/testimonial-section.php:97
+msgid "Liam Alexander"
+msgstr "Лиам Александр"
+
+#: patterns/testimonial-section.php:81
+msgid "studio executive"
+msgstr "руководитель студии"
+
+#: patterns/testimonial-section.php:77
+msgid "sophia james"
+msgstr "sophia james"
+
+#: patterns/testimonial-section.php:61
+msgid "retail specialist"
+msgstr "специалист по розничной торговле"
+
+#: patterns/testimonial-section.php:57
+msgid "john wick"
+msgstr "john wick"
+
+#: patterns/testimonial-section.php:41
+msgid "sales associate"
+msgstr "продавец-консультант"
+
+#: patterns/testimonial-section.php:37
+msgid "ruth polina"
+msgstr "ruth polina"
+
+#: patterns/testimonial-section.php:33 patterns/testimonial-section.php:53
+#: patterns/testimonial-section.php:73 patterns/testimonial-section.php:93
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam lobortis laoreet ante, ut rutrum felis tincidunt vel. Proin tellus magna, malesuada sit amet justo non, interdum congue tortor. Donec volutpat sollicitudin urna consequat luctus."
+msgstr ""
+"Похоже, вы привели стандартный текст-заполнитель Lorem Ipsum, используемый для тестирования или предварительного просмотра содержимого, а также ссылки на строки из файлов шаблона WordPress (patterns/testimonial-section.php).\n"
+"\n"
+"Если вы хотите, я могу:"
+
+#: patterns/testimonial-section.php:16
+msgid "insights"
+msgstr ""
+
+#: patterns/testimonial-section.php:16
+msgid "clients "
+msgstr "клиент "
+
+#: patterns/testimonial-section.php
+msgctxt "Pattern title"
+msgid "Testimonial Section"
+msgstr "Раздел отзывов"
+
+#: patterns/team-section.php:159
+msgid "Frank Johnathan"
+msgstr "Франк Джонатан"
+
+#: patterns/team-section.php:119
+msgid "Miller J Smit"
+msgstr ""
+
+#: patterns/team-section.php:83
+msgid "Manager"
+msgstr "Менеджер"
+
+#: patterns/team-section.php:79
+msgid "johnathan langmore"
+msgstr ""
+
+#: patterns/team-section.php:43 patterns/team-section.php:123
+#: patterns/team-section.php:163
+msgid "worker"
+msgstr "работник"
+
+#: patterns/team-section.php:39
+msgid "marty byrde"
+msgstr ""
+
+#: patterns/team-section.php:23
+msgid "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+msgstr "Lorem Ipsum - это просто фиктивный текст полиграфической и наборной промышленности. Lorem Ipsum был стандартным фиктивным текстом отрасли с 1500-х годов, когда неизвестный принтер взял типографию и скремблировал ее, чтобы сделать книгу образцов типа."
+
+#: patterns/team-section.php:17
+msgid "meet with our experts"
+msgstr ""
+
+#: patterns/team-section.php:13
+msgid "our team"
+msgstr "наша команда"
+
+#: patterns/team-section.php
+msgctxt "Pattern title"
+msgid "Team Section"
+msgstr "Раздел команды"
+
+#: patterns/shop-title-cover.php:11
+msgid "Shop"
+msgstr "Магазин"
+
+#: patterns/shop-title-cover.php
+msgctxt "Pattern title"
+msgid "Shop Title Cover"
+msgstr "Обложка названия магазина"
+
+#: patterns/product-sidebar.php:59
+msgid "Filter by rating"
+msgstr "Фильтр по рейтингу"
+
+#: patterns/product-sidebar.php:49
+msgid "Filter by attribute"
+msgstr "Фильтр по атрибутам"
+
+#: patterns/product-sidebar.php:39
+msgid "Filter by stock status"
+msgstr "Фильтрация по статусу"
+
+#: patterns/product-sidebar.php:29
+msgid "Active filters"
+msgstr "Активные фильтры"
+
+#: patterns/product-sidebar.php:21
+msgid "Categories"
+msgstr "Рубрики"
+
+#: patterns/product-sidebar.php:11
+msgid "Filter by price"
+msgstr "Фильтр по цене"
+
+#: patterns/product-sidebar.php
+msgctxt "Pattern title"
+msgid "Product Sidebar"
+msgstr "Боковая панель товара"
+
+#: patterns/primary-sidebar.php:51
+msgid "Social Media"
+msgstr "Соцсети"
+
+#: patterns/primary-sidebar.php:43
+msgid "Recent Posts"
+msgstr "Свежие записи"
+
+#: patterns/primary-sidebar.php:35
+msgid "Tags"
+msgstr "Метки"
+
+#: patterns/primary-sidebar.php:19
+msgid "Archive"
+msgstr "Архив"
+
+#: patterns/primary-sidebar.php:11
+msgid "Search"
+msgstr "Поиск"
+
+#: patterns/primary-sidebar.php
+msgctxt "Pattern title"
+msgid "Primary Sidebar"
+msgstr "Основная боковая панель"
+
+#: patterns/post-listing-two-column.php
+msgctxt "Pattern title"
+msgid "Post Listing Two Column"
+msgstr "Листинг записи два столбца"
+
+#: patterns/post-listing-three-column.php
+msgctxt "Pattern title"
+msgid "Post Listing Three Column"
+msgstr "Листинг записи три столбца"
+
+#: patterns/post-listing-single-column.php
+msgctxt "Pattern title"
+msgid "Post Listing Single Column"
+msgstr "Листинг записи отдельного столбца"
+
+#: patterns/post-listing-four-column.php
+msgctxt "Pattern title"
+msgid "Post Listing Four Column"
+msgstr "Листинг записи четыре столбца"
+
+#: patterns/post-content-1.php
+msgctxt "Pattern title"
+msgid "Post Content 1"
+msgstr "Содержимое записи 1"
+
+#: patterns/news-section.php:20
+msgid "our latest news & blogs"
+msgstr "наши последние новости и блоги"
+
+#: patterns/news-section.php:16
+msgid "news & blogs"
+msgstr "новости и блоги"
+
+#: patterns/news-section.php
+msgctxt "Pattern title"
+msgid "News Section"
+msgstr "Раздел Новости"
+
+#: patterns/home-slider.php:74
+msgid " from bottom of the surface"
+msgstr ""
+
+#: patterns/home-slider.php:74
+msgid "gold"
+msgstr "золотой"
+
+#: patterns/home-slider.php:74
+msgid "finding and mining "
+msgstr "поиск и добыча "
+
+#: patterns/home-slider.php:50 patterns/home-slider.php:78
+msgid "Lorem Ipsum & is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type."
+msgstr "Lorem Ipsum - это просто фиктивный текст в полиграфии и верстке. Lorem Ipsum был стандартным фиктивным текстом в отрасли с 1500-х годов."
+
+#: patterns/home-slider.php:46
+msgid "mining"
+msgstr ""
+
+#: patterns/home-slider.php:46
+msgid "advance tools for iron/copper "
+msgstr ""
+
+#: patterns/home-slider.php:27 patterns/home-slider.php:55
+#: patterns/home-slider.php:83
+msgid "explore more"
+msgstr "узнать больше"
+
+#: patterns/home-slider.php:22
+msgid "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type."
+msgstr "Lorem Ipsum - это просто фиктивный текст в полиграфии и верстке. Lorem Ipsum был стандартным фиктивным текстом в отрасли с 1500-х годов."
+
+#: patterns/home-slider.php:18
+msgid "mining services"
+msgstr ""
+
+#: patterns/home-slider.php:18
+msgid "professional team delivering high-quality "
+msgstr "Профессиональная команда, обеспечивающая высокое качество  "
+
+#: patterns/home-slider.php:14 patterns/home-slider.php:42
+#: patterns/home-slider.php:70
+msgid "mining wordpress theme"
+msgstr ""
+
+#: patterns/home-slider.php
+msgctxt "Pattern title"
+msgid "Home Slider"
+msgstr "Слайдер главной страницы"
+
+#: patterns/hidden-404.php:17
+msgid "This page could not be found. Maybe try a search?"
+msgstr "Эта страница не найдена. Попробуйте поиск?"
+
+#: patterns/hidden-404.php:13
+msgid "Page Not Found"
+msgstr "Страница не найдена"
+
+#: patterns/hidden-404.php
+msgctxt "Pattern title"
+msgid "Hidden 404"
+msgstr "Скрытая 404"
+
+#: patterns/header-default.php:31
+msgid "book now"
+msgstr "бронирование сейчас"
+
+#: patterns/header-default.php
+msgctxt "Pattern title"
+msgid "Header Default"
+msgstr "Заголовок по умолчанию"
+
+#: patterns/footer-default.php:118
+msgid "xyz123@example.com"
+msgstr "xyz123@example.com"
+
+#: patterns/footer-default.php:109
+msgid "Sunday Closed"
+msgstr "Воскресенье: Закрыто"
+
+#: patterns/footer-default.php:105
+msgid "Monday To Saturday : 09.00AM - 08.00PM"
+msgstr "С понедельника по субботу с 09.00 до 17.00"
+
+#: patterns/footer-default.php:100
+msgid "+123456789123"
+msgstr "+123456789123"
+
+#: patterns/footer-default.php:91
+msgid "Need Help?"
+msgstr "Нужна помощь?"
+
+#: patterns/footer-default.php:84
+msgid "production engineer"
+msgstr "инженер-технолог"
+
+#: patterns/footer-default.php:80
+msgid "mining & exploration"
+msgstr ""
+
+#: patterns/footer-default.php:76
+msgid "conventional mining"
+msgstr "традиционная добыча полезных ископаемых"
+
+#: patterns/footer-default.php:72
+msgid "continuous mining"
+msgstr "непрерывная добыча"
+
+#: patterns/footer-default.php:68
+msgid "underground mining"
+msgstr "подземная добыча"
+
+#: patterns/footer-default.php:64
+msgid "coal mining"
+msgstr "добыча угля"
+
+#: patterns/footer-default.php:59
+msgid "services"
+msgstr "услуги"
+
+#: patterns/footer-default.php:52
+msgid "blogs"
+msgstr "блоги"
+
+#: patterns/footer-default.php:48
+msgid "pages"
+msgstr "страницы"
+
+#: patterns/footer-default.php:44
+msgid "Services"
+msgstr "Услуги"
+
+#: patterns/footer-default.php:40
+msgid "About Us"
+msgstr "О нас"
+
+#: patterns/footer-default.php:36
+msgid "Home"
+msgstr "Главная"
+
+#: patterns/footer-default.php:31
+msgid "useful links"
+msgstr "полезные ссылки"
+
+#: patterns/footer-default.php:15
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque tristique justo et justo fringilla mattis. Quisque ullamcorper ligula ac justo faucibus, at pellentesque nunc tincidunt. Proin rutrum viverra mauris, id finibus metus vestibulum in. Etiam vel arcu nisi."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque tristique justo et justo fringilla mattis. Quisque ullamcorper ligula ac justo faucibus, at pellentesque nunc tincidunt. Proin rutrum viverra mauris, id finibus metus vestibulum in. Etiam vel arcu nisi."
+
+#: patterns/footer-default.php
+msgctxt "Pattern title"
+msgid "Footer Default"
+msgstr "Подвал по умолчанию"
+
+#: patterns/feature-post-column.php:151
+msgid "Recent News"
+msgstr "Свежие новости"
+
+#: patterns/feature-post-column.php:101
+msgid ""
+"Life Is Either A Daring Adventure Or Nothing At\n"
+"\t\t\t\t\t\t\tAll"
+msgstr ""
+"Жизнь - это либо смелое приключение, либо ничто\n"
+"\t\t\t\t\t\t\tВообще"
+
+#: patterns/feature-post-column.php:46
+msgid "Popular News"
+msgstr "Популярные новости"
+
+#: patterns/feature-post-column.php
+msgctxt "Pattern title"
+msgid "Feature Post Column"
+msgstr "Столбец избранной записи"
+
+#: patterns/faq-section.php:80
+msgid "Who can I contact for quotations or partnership opportunities?"
+msgstr "С кем я могу связаться для получения предложений или возможности сотрудничества?"
+
+#: patterns/faq-section.php:74
+msgid "What steps do you take to ensure sustainable and responsible mining practices?"
+msgstr "Какие шаги Вы предпринимаете для обеспечения устойчивой и ответственной практики добычи полезных ископаемых?"
+
+#: patterns/faq-section.php:68
+msgid "Do you offer customized mineral processing or refining services?"
+msgstr "Предлагаете ли Вы индивидуальные услуги по переработке или очистке минералов?"
+
+#: patterns/faq-section.php:62
+msgid "How do you ensure timely delivery and consistent supply to clients?"
+msgstr "Как Вы обеспечиваете своевременную доставку и стабильное снабжение клиентов?"
+
+#: patterns/faq-section.php:54
+msgid "What is your production capacity and annual output?"
+msgstr ""
+
+#: patterns/faq-section.php:48
+msgid "Do you follow environmental and safety standards in your mining projects?"
+msgstr "Соблюдаете ли Вы экологические стандарты и стандарты безопасности в своих горнодобывающих проектах?"
+
+#: patterns/faq-section.php:42
+msgid "Where are your mining operations located?"
+msgstr "В каком местоположении находятся Ваши горнодобывающие предприятия?"
+
+#: patterns/faq-section.php:37 patterns/faq-section.php:43
+#: patterns/faq-section.php:49 patterns/faq-section.php:55
+#: patterns/faq-section.php:63 patterns/faq-section.php:69
+#: patterns/faq-section.php:75 patterns/faq-section.php:81
+msgid "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since."
+msgstr "Lorem Ipsum - это просто фиктивный текст в полиграфии и верстке. Lorem Ipsum был стандартным фиктивным текстом в отрасли с 1500-х годов."
+
+#: patterns/faq-section.php:36
+msgid "What types of minerals or materials do you extract?"
+msgstr "Какие виды минералов или материалов Вы добываете?"
+
+#: patterns/faq-section.php:20
+msgid "have any questions for us?"
+msgstr "у Вас есть вопросы к нам?"
+
+#: patterns/faq-section.php:16
+msgid "FAQ's"
+msgstr "FAQ"
+
+#: patterns/faq-section.php
+msgctxt "Pattern title"
+msgid "FAQ's Section"
+msgstr "Раздел FAQ"
+
+#: patterns/cover-with-search-title.php
+msgctxt "Pattern title"
+msgid "Cover With Search Title"
+msgstr "Обложка с поисковым названием"
+
+#: patterns/cover-with-post-title.php
+msgctxt "Pattern title"
+msgid "Cover With Post Title"
+msgstr "Обложка с заголовком записи"
+
+#: patterns/cover-with-index-title.php:11
+msgid "BLOG"
+msgstr "БЛОГ"
+
+#: patterns/cover-with-index-title.php
+msgctxt "Pattern title"
+msgid "Cover With Index Title"
+msgstr "Обложка с указателем Название"
+
+#: patterns/cover-with-archive-title.php
+msgctxt "Pattern title"
+msgid "Cover With Archive Title"
+msgstr "Обложка с названием архива"
+
+#: patterns/comment-section-1.php
+msgctxt "Pattern title"
+msgid "Comment Section 1"
+msgstr "Раздел комментариев 1"
+
+#: patterns/about-us-section.php:56
+msgid "full customer satisfaction"
+msgstr "полное удовлетворение потребностей клиентов"
+
+#: patterns/about-us-section.php:42
+msgid "highly rated & esteemed"
+msgstr "высоко оцененные и уважаемые"
+
+#: patterns/about-us-section.php:32 patterns/about-us-section.php:46
+#: patterns/about-us-section.php:60 patterns/faq-section.php:24
+#: patterns/news-section.php:24 patterns/testimonial-section.php:20
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nisi elit, consequat pharetra elementum nec, eleifend non turpis."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nisi elit, consequat pharetra elementum nec, eleifend non turpis."
+
+#: patterns/about-us-section.php:28
+msgid "we are building the future & restoring the past"
+msgstr "Мы строим будущее и восстанавливаем прошлое"
+
+#: patterns/about-us-section.php:24
+msgid "about us"
+msgstr "о нас"
+
+#: patterns/about-us-section.php
+msgctxt "Pattern title"
+msgid "About Us Section"
+msgstr "Раздел О нас"
+
+#: inc/block-patterns.php:138
+msgid "Theme Button Sections"
+msgstr "Разделы кнопок темы"
+
+#: inc/block-patterns.php:137
+msgid "Comment Sections"
+msgstr "Раздел комментариев"
+
+#: inc/block-patterns.php:130
+msgid "Sidebars"
+msgstr "Области виджетов"
+
+#: inc/block-patterns.php:129
+msgid "Query"
+msgstr "Запрос"
+
+#: inc/block-patterns.php:128 patterns/primary-sidebar.php:27
+msgid "Pages"
+msgstr "Страницы"
+
+#: inc/block-patterns.php:127
+msgid "Headers"
+msgstr "Заголовки"
+
+#: inc/block-patterns.php:126
+msgid "Footers"
+msgstr "Подвалы"
+
+#: inc/block-patterns.php:120
+msgid "Theme Button"
+msgstr "Кнопка темы"
+
+#: inc/block-patterns.php:116
+msgid "Cover With Index Title"
+msgstr "Обложка с указателем Название"
+
+#: inc/block-patterns.php:112
+msgid "Cover With Archive Title"
+msgstr "Обложка с названием архива"
+
+#: inc/block-patterns.php:108
+msgid "Cover With Search Title"
+msgstr "Обложка с названием поиска"
+
+#: inc/block-patterns.php:104
+msgid "Cover With Post Title"
+msgstr "Обложка с заголовком записи"
+
+#: inc/block-patterns.php:100
+msgid "Comment Section 1"
+msgstr "Раздел комментариев 1"
+
+#: inc/block-patterns.php:95
+msgid "Feature Post Column"
+msgstr "Столбец избранной записи"
+
+#: inc/block-patterns.php:90
+msgid "Post Four Column"
+msgstr "Запись четыре столбца"
+
+#: inc/block-patterns.php:85
+msgid "Post Three Column"
+msgstr "Запись три столбца"
+
+#: inc/block-patterns.php:80
+msgid "Post Two Column"
+msgstr "Запись два столбца"
+
+#: inc/block-patterns.php:75
+msgid "Post Single Column"
+msgstr "Запись отдельного столбца"
+
+#: inc/block-patterns.php:71
+msgid "404 content"
+msgstr "404 Содержимое"
+
+#: inc/block-patterns.php:67
+msgid "Primary Sidebar"
+msgstr "Основная боковая панель"
+
+#: inc/block-patterns.php:63 inc/block-patterns.php:136
+msgid "FAQ Section"
+msgstr "Раздел FAQ"
+
+#: inc/block-patterns.php:59 inc/block-patterns.php:135
+msgid "News Section"
+msgstr "Раздел новостей"
+
+#: inc/block-patterns.php:55 inc/block-patterns.php:134
+msgid "Testimonial Section"
+msgstr "Раздел Отзыв"
+
+#: inc/block-patterns.php:51 inc/block-patterns.php:133
+msgid "About Us Section"
+msgstr "Раздел О нас"
+
+#: inc/block-patterns.php:47 inc/block-patterns.php:132
+msgid "Team Section"
+msgstr "Раздел команды"
+
+#: inc/block-patterns.php:43 inc/block-patterns.php:131
+msgid "Home Slider"
+msgstr "Слайдер главной страницы"
+
+#: inc/block-patterns.php:38
+msgid "Default footer"
+msgstr "Подвал по умолчанию"
+
+#: inc/block-patterns.php:33
+msgid "Default header"
+msgstr "Заголовок по умолчанию"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://www.vwthemes.com/"
+msgstr "https://www.vwthemes.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "VWThemes"
+msgstr "VWThemes"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://www.vwthemes.com/products/mining-logistic"
+msgstr "https://www.vwthemes.com/products/mining-logistic"

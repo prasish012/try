@@ -1,0 +1,566 @@
+# Translation of Themes - Neve FSE in Russian
+# This file is distributed under the same license as the Themes - Neve FSE package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-09-29 17:19:20+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Neve FSE\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Neve FSE is an experimental sister theme of Neve, for the ones that are ready to go full speed on full site editing, without backwards compatibility code.Neve FSE is a modern, minimalistic theme that is fully compatible with full-site-editing, it offers a range of patterns that make it perfect for simple design is suitable for a wide range of purposes, including blogs, small businesses, startups, agencies, firms, e-commerce shops, personal portfolio sites, and more. It also comes with several style variations to suit your unique aesthetic."
+msgstr "Neve FSE - это экспериментальная сестринская тема Neve для тех, кто готов перейти на полную скорость редактирования сайта, без кода обратной совместимости. Neve FSE - это современная, минималистичная тема, которая полностью совместима с редактированием сайта. Она предлагает ряд шаблонов, которые делают ее идеальной для простого дизайна, подходит для широкого круга целей, включая блоги, малый бизнес, стартапы, агентства, фирмы, магазины электронной коммерции, личные сайты портфолио и многое другое. Тема также поставляется с несколькими вариантами стиля, чтобы удовлетворить вашу уникальную эстетику."
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Neve FSE"
+msgstr "Neve FSE"
+
+#. translators: %1$s - plugin namce, %2$s - HTML tag, %3$s - discount, %4$s -
+#. HTML tag, %5$s - company name.
+#: inc/Admin.php:577
+msgid "Enhance %1$s with %2$s– up to %3$s OFF in our biggest sale of the year. Limited time only."
+msgstr ""
+
+#: inc/patterns/layout/map-section.php:20
+msgid "Map Section"
+msgstr "Раздел Карта"
+
+#: inc/patterns/layout/hero-with-text.php:18
+msgid "Hero section with text"
+msgstr "Раздел Тема дня с текстом"
+
+#: inc/patterns/layout/hero-with-feature-columns.php:18
+msgid "Hero section with feature columns"
+msgstr "Раздел Тема дня с тематическими столбцами"
+
+#: inc/patterns/layout/faq-section.php:16
+msgid "FAQ Section"
+msgstr "Раздел FAQ"
+
+#: inc/patterns/layout/contact-section.php:18
+msgid "Columns Section"
+msgstr "Раздел столбцов"
+
+#: inc/patterns/layout/columns-with-services-text.php:18
+msgid "Columns with Services Text"
+msgstr ""
+
+#: inc/patterns/layout/columns-testimonials-inv.php:22
+msgid "Three Columns with Testimonials Inverted"
+msgstr ""
+
+#: inc/Core.php:142
+msgid "Services Page"
+msgstr "Страница услуг"
+
+#: inc/Core.php:137
+msgid "Portfolio Page"
+msgstr "Страница портфолио"
+
+#: inc/Core.php:132
+msgid "Contact Page"
+msgstr "Страница контактов"
+
+#: inc/Core.php:127
+msgid "About Page"
+msgstr "Страница О нас"
+
+#: inc/Core.php:120
+msgid "Homepage 4"
+msgstr "Главная страница 4"
+
+#: inc/Core.php:116
+msgid "Homepage 2"
+msgstr "Главная страница 2"
+
+#: inc/Core.php:110
+msgid "Single Post Cover"
+msgstr "Обложка Отдельной записи"
+
+#: inc/Core.php:106
+msgid "Single Post Cover Boxed"
+msgstr "Отдельная запись 2 (Обложка в рамке)"
+
+#: inc/Core.php:100
+msgid "Archive Cover"
+msgstr "Обложка архива"
+
+#. translators: %s: FSE Design Pack:
+#: inc/Admin.php:102
+msgid "%s Access a collection of 40+ layout patterns ready to import to your website"
+msgstr ""
+
+#: inc/Admin.php:98
+msgid "Neve FSE recommends"
+msgstr "Neve FSE рекомендует"
+
+#: inc/Admin.php:97
+msgid "Dismiss"
+msgstr "Скрыть"
+
+#: theme.json styles/s1-crayola.json styles/s2-majorelle-blue.json
+#: styles/s3-zomp.json styles/s4-dark-pastel-red.json styles/s5-aztec-gold.json
+#: styles/s6-vivid-red-tangelo.json styles/s7-greenlight.json
+msgctxt "Color name"
+msgid "Accent Secondary"
+msgstr "Вторичный акцент"
+
+#: styles/s7-greenlight.json
+msgctxt "Style variation name"
+msgid "Greenlight"
+msgstr "Зелёный свет"
+
+#: styles/s6-vivid-red-tangelo.json
+msgctxt "Style variation name"
+msgid "Vivid Red-Tangelo"
+msgstr "Яркий Red-Tangelo"
+
+#: styles/s5-aztec-gold.json
+msgctxt "Style variation name"
+msgid "Aztec Gold"
+msgstr "Золото ацтеков"
+
+#: styles/s4-dark-pastel-red.json
+msgctxt "Style variation name"
+msgid "Dark Pastel Red"
+msgstr "Тёмный пастельно-красный"
+
+#: styles/s3-zomp.json
+msgctxt "Style variation name"
+msgid "Zomp"
+msgstr "Zomp"
+
+#: styles/s2-majorelle-blue.json
+msgctxt "Style variation name"
+msgid "Majorelle Blue"
+msgstr "Majorelle синий"
+
+#: styles/s1-crayola.json
+msgctxt "Style variation name"
+msgid "Crayola"
+msgstr "Crayola"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer Variation - 5 Columns"
+msgstr "Вариант подвала - 5 колонок"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer Variation - 4 Columns"
+msgstr "Вариант подвала - 4 колонки"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer Variation - 3 Columns"
+msgstr "Вариант подвала - 3 колонки"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer Variation - Site Logo"
+msgstr "Вариант подвала - Логотип сайта"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Подвал"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header Variation - Hamburger Menu"
+msgstr "Вариант подвала - Меню в виде гамбургера"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header Variation - Button"
+msgstr "Вариант заголовка - Кнопка"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header Variation - Centered"
+msgstr "Вариант заголовка - По центру"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Заголовок"
+
+#: theme.json styles/s1-crayola.json styles/s2-majorelle-blue.json
+#: styles/s3-zomp.json styles/s4-dark-pastel-red.json styles/s5-aztec-gold.json
+#: styles/s6-vivid-red-tangelo.json styles/s7-greenlight.json
+msgctxt "Color name"
+msgid "Accent"
+msgstr "Акцент"
+
+#: theme.json styles/s1-crayola.json styles/s2-majorelle-blue.json
+#: styles/s3-zomp.json styles/s4-dark-pastel-red.json styles/s5-aztec-gold.json
+#: styles/s6-vivid-red-tangelo.json styles/s7-greenlight.json
+msgctxt "Color name"
+msgid "Foreground Alt"
+msgstr "Альтернативный передний план"
+
+#: theme.json styles/s1-crayola.json styles/s2-majorelle-blue.json
+#: styles/s3-zomp.json styles/s4-dark-pastel-red.json styles/s5-aztec-gold.json
+#: styles/s6-vivid-red-tangelo.json styles/s7-greenlight.json
+msgctxt "Color name"
+msgid "Background Dark"
+msgstr "Темный фон"
+
+#: theme.json styles/s1-crayola.json styles/s2-majorelle-blue.json
+#: styles/s3-zomp.json styles/s4-dark-pastel-red.json styles/s5-aztec-gold.json
+#: styles/s6-vivid-red-tangelo.json styles/s7-greenlight.json
+msgctxt "Color name"
+msgid "Background Alt"
+msgstr "Фон Alt"
+
+#: theme.json styles/s1-crayola.json styles/s2-majorelle-blue.json
+#: styles/s3-zomp.json styles/s4-dark-pastel-red.json styles/s5-aztec-gold.json
+#: styles/s6-vivid-red-tangelo.json styles/s7-greenlight.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "Передний план"
+
+#: theme.json styles/s1-crayola.json styles/s2-majorelle-blue.json
+#: styles/s3-zomp.json styles/s4-dark-pastel-red.json styles/s5-aztec-gold.json
+#: styles/s6-vivid-red-tangelo.json styles/s7-greenlight.json
+msgctxt "Color name"
+msgid "Background"
+msgstr "Фон"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Figtree"
+msgstr "Figtree"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Open Sans"
+msgstr "Open Sans"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Montserrat"
+msgstr "Montserrat"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Source Sans Pro"
+msgstr "Source Sans Pro"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Playfair Display"
+msgstr "Playfair Display"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Spline Sans"
+msgstr "Spline Sans"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Outfit"
+msgstr "Outfit"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Hanken Grotesk"
+msgstr "Hanken Grotesk"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Fraunces"
+msgstr "Fraunces"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Albert Sans"
+msgstr "Albert Sans"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Inter"
+msgstr "Inter"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge"
+msgstr "Огромный"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "Очень большой"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Большой"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Средний"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Normal"
+msgstr "Обычный"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Маленький"
+
+#: inc/patterns/templates/single-post-cover.php:18
+msgid "Single Post 3 (Cover)"
+msgstr "Единая запись 3 (Обложка)"
+
+#: inc/patterns/templates/single-post-cover-boxed.php:18
+msgid "Single Post 2 (Cover Boxed)"
+msgstr "Единая запись 2 (Обложка в рамке)"
+
+#: inc/Core.php:96 inc/patterns/templates/archive-list.php:18
+msgid "Archive List"
+msgstr "Список архива"
+
+#: inc/patterns/templates/archive-cover.php:18
+msgid "Archive (Cover)"
+msgstr "Архив (Обложка)"
+
+#: inc/patterns/page_titles/page-title-5.php:20
+msgid "Page Title - Cover Boxed"
+msgstr "Заголовок страницы - Обложка в рамке"
+
+#: inc/patterns/page_titles/page-title-4.php:20
+msgid "Page Title - Cover"
+msgstr "Заголовок страницы - Обложка"
+
+#: inc/patterns/page_titles/page-title-3.php:16
+msgid "Page Title - Light"
+msgstr "Заголовок страницы - Светлый"
+
+#: inc/patterns/page_titles/page-title-2.php:16
+msgid "Page Title - Dark"
+msgstr "Заголовок страницы - Тёмный"
+
+#: inc/patterns/page_titles/page-title-1.php:16
+msgid "Page Title - Simple"
+msgstr "Заголовок страницы - Простой"
+
+#: inc/patterns/loops/post-loop-9.php:16
+msgid "Post Covers"
+msgstr "Обложки записи"
+
+#: inc/patterns/loops/post-loop-8.php:16
+msgid "Posts"
+msgstr "Записи"
+
+#: inc/patterns/loops/post-loop-7.php:16
+msgid "Post cards 2"
+msgstr "Карты записи 2"
+
+#: inc/patterns/loops/post-loop-4.php:16 inc/patterns/loops/post-loop-5.php:16
+msgid "Post rows"
+msgstr "Строки записи"
+
+#: inc/patterns/loops/post-loop-3.php:16
+msgid "Post cards"
+msgstr "Карты записи"
+
+#: inc/patterns/loops/post-loop-2.php:16
+msgid "Posts loop grid inverted"
+msgstr "Перевёрнутая сетка контуров записей"
+
+#: inc/patterns/loops/post-loop-1.php:16 inc/patterns/loops/post-loop-6.php:16
+msgid "Posts loop grid simple"
+msgstr "Простая сетка контуров записей"
+
+#: inc/patterns/layout/team-members-columns.php:22
+msgid "Columns with Team members"
+msgstr "Столбцы с членами команды"
+
+#: inc/patterns/layout/pricing-columns.php:18
+msgid "Columns with Pricing"
+msgstr "Столбцы с ценами"
+
+#: inc/patterns/layout/portfolio-columns.php:21
+msgid "Columns with portfolio items"
+msgstr "Столбцы с элементами портфолио"
+
+#: inc/patterns/layout/page-cover-with-buttons.php:20
+msgid "Page Cover with Buttons"
+msgstr "Обложка страницы с кнопками"
+
+#: inc/patterns/layout/page-cover-bg-image.php:20
+msgid "Page Cover with background image"
+msgstr "Обложка страницы с фоновым изображением"
+
+#: inc/patterns/layout/full-width-columns-content-image.php:20
+#: inc/patterns/layout/full-width-quote.php:18
+msgid "Full-width columns with image and content"
+msgstr "Столбцы на всю ширину с изображением и содержимым"
+
+#: inc/patterns/layout/cta-dark.php:18
+msgid "Call to Action with Background Color"
+msgstr "Призыв к действию с фоновым цветом"
+
+#: inc/patterns/layout/content-with-images.php:22
+msgid "Content with images"
+msgstr "Содержимое с изображениями"
+
+#: inc/patterns/layout/columns-with-services.php:22
+msgid "Columns with Services"
+msgstr "Столбцы с услугами"
+
+#: inc/patterns/layout/columns-with-icons.php:22
+msgid "Columns with icons"
+msgstr "Столбцы с иконками"
+
+#: inc/patterns/layout/columns-with-cards.php:22
+msgid "Columns with cards"
+msgstr "Столбцы с картами"
+
+#: inc/patterns/layout/columns-text-image.php:20
+msgid "Columns with text and image"
+msgstr "Столбцы с текстом и изображением"
+
+#: inc/patterns/layout/columns-testimonials.php:22
+msgid "Three Columns with Testimonials"
+msgstr "Три столбца с отзывами и благодарностями"
+
+#: inc/patterns/layout/columns-image-and-text.php:20
+msgid "Columns with image and text"
+msgstr "Столбцы с изображением и текстом"
+
+#: inc/patterns/layout/columns-image-and-text-inv.php:20
+msgid "Columns with image and text inverted"
+msgstr "Столбцы с перевёрнутым изображением и текстом"
+
+#: inc/patterns/layout/columns-content-images.php:21
+msgid "Columns with content and images"
+msgstr "Столбцы с содержимым и изображениями"
+
+#: inc/patterns/layout/boxed-features-1.php:18
+#: inc/patterns/layout/boxed-features-2.php:18
+msgid "Columns with feature boxes"
+msgstr "Столбцы с блоками функций"
+
+#: inc/Core.php:149
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: inc/Block_Patterns.php:68
+msgid "Full-page layouts that can be used as templates"
+msgstr "Разметки на всю страницу, которые могут использоваться в качестве шаблонов"
+
+#: inc/Block_Patterns.php:67
+msgid "Neve FSE Layouts"
+msgstr "Макет Neve FSE"
+
+#: inc/Block_Patterns.php:64
+msgid "Patterns for several sections and components"
+msgstr "Шаблоны для нескольких разделов и компонентов"
+
+#: inc/Block_Patterns.php:63
+msgid "Neve FSE Patterns"
+msgstr "Шаблоны Neve FSE"
+
+#: inc/Admin.php:99 inc/Admin.php:327
+msgid "Learn More"
+msgstr "Узнать больше"
+
+#. translators: %s: Otter Blocks
+#: inc/Admin.php:322
+msgid "Install & Activate %s"
+msgstr "Установить и активировать %s"
+
+#. translators: %s: Otter Blocks
+#: inc/Admin.php:320
+msgid "Activate %s"
+msgstr "Активировать %s"
+
+#: inc/Admin.php:310
+msgid "Otter is a Gutenberg Blocks page builder plugin that adds extra functionality to the WordPress Block Editor (also known as Gutenberg) for a better page building experience without the need for traditional page builders."
+msgstr "Otter - это плагин для построения страниц Gutenberg Blocks, который добавляет дополнительную функциональность в редактор блоков WordPress (также известный как Gutenberg) для лучшего построения страниц без необходимости использования традиционных конструкторов страниц."
+
+#. translators: %s: Otter Blocks
+#: inc/Admin.php:306
+msgid "Power up your website building experience with %s!"
+msgstr "Усильте свой опыт создания сайтов с %s!"
+
+#: inc/Admin.php:300
+msgid "Otter Blocks preview"
+msgstr "Предварительный просмотр Otter Blocks"
+
+#: inc/Admin.php:292
+msgid "Done"
+msgstr "Готово"
+
+#: inc/Admin.php:291
+msgid "Installing"
+msgstr "Установка"
+
+#: inc/Admin.php:290
+msgid "Activating"
+msgstr "Активация"
+
+#: inc/Admin.php:238
+msgid "Maybe later"
+msgstr "Может, позже"
+
+#: inc/Admin.php:234
+msgid "Take the survey"
+msgstr "Пройдите опрос"
+
+#: inc/Admin.php:229
+msgid "Thank you for trying Neve FSE. We would love to hear your thoughts on how we can enhance and improve the theme even further. Would you mind taking a moment to share your insights through a quick survey?"
+msgstr "Спасибо, что выбрали Neve FSE. Мы хотели бы услышать ваши мысли о том, как мы можем улучшить и усовершенствовать эту тему. Не могли бы вы уделить нам немного времени и поделиться своими соображениями с помощью небольшого опроса?"
+
+#: inc/Admin.php:227
+msgid "We value your feedback"
+msgstr "Мы ценим ваш отзыв"
+
+#: inc/Admin.php:225
+msgid "Neve FSE Logo"
+msgstr "Логотип Neve FSE"
+
+#. translators: %s: commands to run the theme
+#: functions.php:106
+msgid "You appear to be running the Neve FSE theme from source code. Please finish installation by running %s."
+msgstr "Похоже, что вы запускаете тему Neve FSE из исходного кода. Пожалуйста, завершите установку, запустив %s."
+
+#: functions.php:57
+msgid "upgrading PHP to the latest version"
+msgstr "обновление PHP до последней версии"
+
+#. translators: %s message to upgrade PHP to the latest version
+#: functions.php:53
+msgid "Hey, we've noticed that you're running an outdated version of PHP which is no longer supported. Make sure your site is fast and secure, by %1$s. Neve FSE's minimal requirement is PHP%2$s."
+msgstr "Эй, мы заметили, что вы запустили устаревшую версию PHP, которая больше не поддерживается. Убедитесь, что ваш сайт работает быстро и безопасно %1$s. Минимальное требование для Neve FSE - PHP%2$s."
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themeisle.com"
+msgstr "https://themeisle.com"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "ThemeIsle"
+msgstr "ThemeIsle"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themeisle.com/themes/neve-fse/"
+msgstr "https://themeisle.com/themes/neve-fse/"

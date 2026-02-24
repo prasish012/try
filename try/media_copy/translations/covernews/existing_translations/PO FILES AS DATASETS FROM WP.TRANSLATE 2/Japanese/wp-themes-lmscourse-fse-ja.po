@@ -1,0 +1,448 @@
+# Translation of Themes - LMSCourse FSE in Japanese
+# This file is distributed under the same license as the Themes - LMSCourse FSE package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-09-12 06:55:35+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - LMSCourse FSE\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "LMSCourse FSE is a fast, full-site editing WordPress theme tailored for online courses, coaching sites, and digital schools. Fully compatible with Masteriyo, LearnDash, Tutor LMS, and LifterLMS, it lets you launch a complete LMS site with lessons, quizzes, and certificates. Lightweight, responsive, and block-based, LMSCourse FSE works seamlessly with WooCommerce and payment gateways to help you sell and manage your online learning content."
+msgstr "LMSCourse FSE は、オンラインコース、コーチングサイト、デジタルスクール向けにカスタマイズされた、高速でサイト全体を編集できる WordPress テーマです。Masteriyo、LearnDash、Tutor LMS、LifterLMSと完全に互換性があり、レッスン、クイズ、証明書を備えた完全なLMSサイトを立ち上げることができます。軽量でレスポンシブ、ブロックベースの LMSCourse FSE は、WooCommerce や決済ゲートウェイとシームレスに連携し、オンライン学習コンテンツの販売と管理に役立ちます。"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "LMSCourse FSE"
+msgstr "LMSCourse FSE"
+
+#: styles/purple-rain.json
+msgctxt "Style variation name"
+msgid "Purple Rain"
+msgstr "Purple Rain"
+
+#: styles/petrol-sky.json
+msgctxt "Style variation name"
+msgid "Petrol Sky"
+msgstr "Petrol Sky"
+
+#: styles/black-berry.json
+msgctxt "Style variation name"
+msgid "Black Berry"
+msgstr "Black Berry"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer Variation - CTA"
+msgstr "フッターのバリエーション - CTA"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer Variation - Columns"
+msgstr "フッターのバリエーション - 列"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "フッター"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header Variation - Subheader"
+msgstr "ヘッダーバリエーション - サブヘッダー"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "ヘッダー"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge"
+msgstr "特大"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "とても大きい"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "大"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "ミディアム"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Normal"
+msgstr "通常"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "小"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Figtree"
+msgstr "Figtree"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Open Sans"
+msgstr "Open Sans"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Montserrat"
+msgstr "Montserrat"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Source Sans Pro"
+msgstr "Source Sans Pro"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Playfair Display"
+msgstr "Playfair Display"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Spline Sans"
+msgstr "Spline Sans"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Outfit"
+msgstr "Outfit"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Hanken Grotesk"
+msgstr "Hanken Grotesk"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Fraunces"
+msgstr "Fraunces"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Albert Sans"
+msgstr "Albert Sans"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Inter"
+msgstr "Inter"
+
+#: theme.json styles/black-berry.json styles/petrol-sky.json
+#: styles/purple-rain.json
+msgctxt "Color name"
+msgid "Foreground Alt"
+msgstr "前景 Alt"
+
+#: theme.json styles/black-berry.json styles/petrol-sky.json
+#: styles/purple-rain.json
+msgctxt "Color name"
+msgid "Background Alt"
+msgstr "背景の Alt"
+
+#: theme.json styles/black-berry.json styles/petrol-sky.json
+#: styles/purple-rain.json
+msgctxt "Color name"
+msgid "Background Dark"
+msgstr "暗い背景"
+
+#: theme.json styles/black-berry.json styles/petrol-sky.json
+#: styles/purple-rain.json
+msgctxt "Color name"
+msgid "Accent Secondary"
+msgstr "Accent Secondary"
+
+#: theme.json styles/black-berry.json styles/petrol-sky.json
+#: styles/purple-rain.json
+msgctxt "Color name"
+msgid "Accent"
+msgstr "アクセント"
+
+#: theme.json styles/black-berry.json styles/petrol-sky.json
+#: styles/purple-rain.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "前景"
+
+#: theme.json styles/black-berry.json styles/petrol-sky.json
+#: styles/purple-rain.json
+msgctxt "Color name"
+msgid "Background"
+msgstr "背景"
+
+#: inc/patterns/templates/single-post-cover.php:18
+msgid "Single Post 3 (Cover)"
+msgstr "個別投稿 3（表紙）"
+
+#: inc/patterns/templates/single-post-cover-boxed.php:18
+msgid "Single Post 2 (Cover Boxed)"
+msgstr "個別投稿 2 （紙は箱入り）"
+
+#: inc/patterns/templates/archive-list.php:18
+msgid "Archive List"
+msgstr "アーカイブのリスト"
+
+#: inc/patterns/templates/archive-cover.php:18
+msgid "Archive (Cover)"
+msgstr "アーカイブ（表紙）"
+
+#: inc/patterns/templates/404.php:20
+msgid "404 Error Page"
+msgstr "404 エラーページ"
+
+#: inc/patterns/page_titles/page-title-1.php:18
+#: inc/patterns/page_titles/page-title-2.php:20
+msgid "Page Title"
+msgstr "ページタイトル"
+
+#: inc/patterns/loops/posts-4.php:16
+msgid "Posts 4"
+msgstr "投稿4"
+
+#: inc/patterns/loops/posts-3.php:16
+msgid "Posts 3"
+msgstr "投稿3"
+
+#: inc/patterns/loops/posts-2.php:16
+msgid "Posts 2"
+msgstr "投稿2"
+
+#: inc/patterns/loops/posts-1.php:16
+msgid "Posts"
+msgstr "投稿"
+
+#: inc/patterns/layout/testimonials-3.php:23
+msgid "Testimonials 3"
+msgstr "お客様の声3"
+
+#: inc/patterns/layout/testimonials-2.php:20
+msgid "Testimonials 2"
+msgstr "お客様の声2"
+
+#: inc/patterns/layout/testimonials-1.php:21
+msgid "Testimonials 1"
+msgstr "お客様の声1"
+
+#: inc/patterns/layout/stats-2.php:16
+msgid "Stats 2"
+msgstr "統計2"
+
+#: inc/patterns/layout/stats-1.php:16
+msgid "Stats 1"
+msgstr "統計1"
+
+#: inc/patterns/layout/pricing-2.php:20
+msgid "Pricing 2"
+msgstr "価格 2"
+
+#: inc/patterns/layout/pricing-1.php:16
+msgid "Pricing 1"
+msgstr "価格 1"
+
+#: inc/patterns/layout/hero-2.php:20
+msgid "Hero 2"
+msgstr "Hero 2"
+
+#: inc/patterns/layout/hero-1.php:20
+msgid "Hero 1"
+msgstr "Hero 1"
+
+#: inc/patterns/layout/features-2.php:26
+msgid "Features 2"
+msgstr "機能2"
+
+#: inc/patterns/layout/features-1.php:22
+msgid "Features 1"
+msgstr "機能 1"
+
+#: inc/patterns/layout/faqs-1.php:16
+msgid "FAQs"
+msgstr "よくある質問"
+
+#: inc/patterns/layout/cta-3.php:20
+msgid "CTA 3"
+msgstr "CTA 3"
+
+#: inc/patterns/layout/cta-2.php:20
+msgid "CTA 2"
+msgstr "CTA 2"
+
+#: inc/patterns/layout/cta-1.php:20
+msgid "CTA 1"
+msgstr "CTA 1"
+
+#: inc/patterns/layout/content-9.php:20
+msgid "Content 9"
+msgstr "コンテンツ9"
+
+#: inc/patterns/layout/content-8.php:20
+msgid "Content 8"
+msgstr "コンテンツ8"
+
+#: inc/patterns/layout/content-7.php:21
+msgid "Content 7"
+msgstr "コンテンツ7"
+
+#: inc/patterns/layout/content-6.php:21
+msgid "Content 6"
+msgstr "コンテンツ6"
+
+#: inc/patterns/layout/content-5.php:20
+msgid "Content 5"
+msgstr "コンテンツ5"
+
+#: inc/patterns/layout/content-4.php:20
+msgid "Content 4"
+msgstr "コンテンツ4"
+
+#: inc/patterns/layout/content-3.php:21
+msgid "Content 3"
+msgstr "コンテンツ3"
+
+#: inc/patterns/layout/content-2.php:21
+msgid "Content 2"
+msgstr "コンテンツ2"
+
+#: inc/patterns/layout/content-1.php:20
+msgid "Content 1"
+msgstr "コンテンツ1"
+
+#: inc/Core.php:88
+msgid "Primary Menu"
+msgstr "メインメニュー"
+
+#: inc/Block_Patterns.php:67
+msgid "Full-page layouts that can be used as templates"
+msgstr "テンプレートとして使用できるフルページのレイアウト"
+
+#: inc/Block_Patterns.php:66
+msgid "LMSCourse FSE Layouts"
+msgstr "LMSCourse FSE レイアウト"
+
+#: inc/Block_Patterns.php:63
+msgid "Patterns for several sections and components"
+msgstr "たくさんのセクションとコンポーネントのパターン"
+
+#: inc/Block_Patterns.php:62
+msgid "LMSCourse FSE Patterns"
+msgstr "LMSCourse FSE パターン"
+
+#: inc/Admin.php:149
+msgid "Masteriyo LMS preview"
+msgstr "Masteriyo LMS プレビュー"
+
+#: inc/Admin.php:141
+msgid "Learn More"
+msgstr "さらに詳しく"
+
+#. translators: %s: Masteriyo LMS
+#: inc/Admin.php:136
+msgid "Install & Activate %s"
+msgstr "%s をインストールして有効化"
+
+#. translators: %s: Masteriyo LMS
+#: inc/Admin.php:134
+msgid "Activate %s"
+msgstr "%s を有効化"
+
+#: inc/Admin.php:124
+msgid "Drag & drop builder with quizzes, certificates & assignments"
+msgstr "クイズ、証明書、課題を備えたドラッグ＆ドロップビルダー"
+
+#: inc/Admin.php:124
+msgid "Complete course builder"
+msgstr "完全なコースビルダー"
+
+#: inc/Admin.php:123
+msgid "Built-in payment system with Stripe, PayPal & more"
+msgstr "Stripe、PayPal などの組み込み決済システム"
+
+#: inc/Admin.php:123
+msgid "Multiple payment options"
+msgstr "複数の支払いオプション"
+
+#: inc/Admin.php:122
+msgid "Install and create your first course in minutes"
+msgstr "数分でインストールして最初のコースを作成しましょう"
+
+#: inc/Admin.php:122
+msgid "Quick setup"
+msgstr "クイックセットアップ"
+
+#: inc/Admin.php:121
+msgid "The complete WordPress LMS solution for educators and businesses. Build engaging courses, track student progress, and monetize your knowledge with zero coding required. "
+msgstr "教育者と企業のための包括的なWordPress LMSソリューション。魅力的なコースを作成し、受講生の進捗状況を追跡し、コーディングなしで知識を収益化できます。 "
+
+#. translators: %s: Masteriyo LMS
+#: inc/Admin.php:117
+msgid "Create and Sell Online Courses with %s!"
+msgstr "%s でオンライン コースを作成して販売しましょう!"
+
+#. translators: %s: 🎉 emoji
+#: inc/Admin.php:112
+msgid "The theme was designed to work best with Masteriyo LMS"
+msgstr "このテーマは Masteriyo LMS で最適に機能するように設計されています"
+
+#: inc/Admin.php:99
+msgid "Done"
+msgstr "完了"
+
+#: inc/Admin.php:98
+msgid "Installing"
+msgstr "インストール中"
+
+#: inc/Admin.php:97
+msgid "Activating"
+msgstr "有効化中"
+
+#. translators: %s: commands to run the theme
+#: functions.php:106
+msgid "You appear to be running the LMSCourse FSE theme from source code. Please finish installation by running %s."
+msgstr "LMSCourse FSE テーマをソースコードから実行しているようです。%s を実行してインストールを完了してください。"
+
+#: functions.php:57
+msgid "upgrading PHP to the latest version"
+msgstr "PHP を最新バージョンにアップグレード"
+
+#. translators: %s message to upgrade PHP to the latest version
+#: functions.php:53
+msgid "Hey, we've noticed that you're running an outdated version of PHP which is no longer supported. Make sure your site is fast and secure, by %1$s. LMSCourse FSE's minimal requirement is PHP%2$s."
+msgstr "ご利用のPHPのバージョンが古く、サポートが終了していることが確認されました。%1$s までに、サイトの速度とセキュリティを確保してください。LMSCourse FSE の最小要件はPHP %2$s です。"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themeisle.com"
+msgstr "https://themeisle.com"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "ThemeIsle"
+msgstr "ThemeIsle (テーマアイル)"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://github.com/Codeinwp/lmscourse-fse/"
+msgstr "https://github.com/Codeinwp/lmscourse-fse/"

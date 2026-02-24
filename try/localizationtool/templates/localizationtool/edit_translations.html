@@ -1,0 +1,50 @@
+<!-- templates/localizationtool/edit_translations.html -->
+{% extends "base.html" %}
+{% load static %}
+
+{% block content %}
+<div class="main-container">
+    <h1>Edit Translations: {{ folder_name }}</h1>
+    <a href="{% url 'localize_tool_view' %}" class="action-link">Back to Upload</a>
+
+    {% if lang_versions %}
+    <div class="mt-4">
+        <h3>Available Languages & Versions</h3>
+        <table class="table table-bordered table-striped">
+            <thead class="thead-dark">
+                <tr>
+                    <th>Language</th>
+                    <th>Versions</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for lang_code, versions in lang_versions.items %}
+                <tr>
+                    <td style="font-weight: bold; vertical-align: middle;">
+                        {{ lang_code|upper }} 
+                        <small class="text-muted">({{ lang_code }})</small>
+                    </td>
+                    <td>
+                        {% for v in versions %}
+                            <a href="{% url 'edit_language_version' folder_name lang_code v.version %}"
+                               class="btn {% if forloop.first %}btn-danger{% else %}btn-outline-primary{% endif %} btn-sm mr-2">
+                                {{ v.file_name }}
+                                {% if forloop.first %}
+                                    <span class="badge badge-light">Latest</span>
+                                {% endif %}
+                            </a>
+                        {% endfor %}
+                    </td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+    {% else %}
+    <div class="alert alert-warning mt-4">
+        <strong>No translated languages found.</strong><br>
+        Please re-upload and select target languages.
+    </div>
+    {% endif %}
+</div>
+{% endblock %}

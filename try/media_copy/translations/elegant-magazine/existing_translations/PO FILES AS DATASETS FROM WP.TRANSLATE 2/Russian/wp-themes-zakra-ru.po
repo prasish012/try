@@ -1,0 +1,2937 @@
+# Translation of Themes - Zakra in Russian
+# This file is distributed under the same license as the Themes - Zakra package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-11-10 10:36:59+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Zakra\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Zakra is a powerful and versatile multipurpose theme that makes it easy to create beautiful and professional websites. With over free 40 pre-designed starter demo sites to choose from, you can quickly build a unique and functional site that fits your specific needs. Whether you're launching a blog, news site, e-commerce store, showcasing your portfolio, building a business site, LMS, or niche-specific site (such as a cafe, spa, charity, yoga studio, wedding venue, dental practice, photography, restaurant, or educational institution), Zakra has everything you need to succeed. The theme integrates seamlessly with popular page builders like Elementor, Brizy, BlockArt, and the Gutenberg editor, giving you complete freedom to create any layout you can imagine. Importantly, Zakra is optimized for speed, features a mobile-first responsive design, is built with block-based technology, and is optimized for search engines. It is also compatible with a wide range of popular WordPress plugins, allowing you to extend its functionality as needed. Build your next project with Zakra today and see the difference for yourself. Check out all the starter sites at https://zakratheme.com/demos!"
+msgstr "Zakra - это мощная и универсальная многоцелевая тема, позволяющая легко создавать красивые и профессиональные сайты. Благодаря 40 бесплатным демонстрационным сайтам с готовым дизайном вы сможете быстро создать уникальный и функциональный сайт, отвечающий вашим потребностям. Если вы открываете блог, новостной сайт, магазин электронной коммерции, демонстрируете свое портфолио, создаете бизнес-сайт, LMS или нишевый сайт (например, кафе, спа, благотворительный фонд, студию йоги, свадебное заведение, стоматологическую клинику, фотостудию, ресторан или образовательное учреждение), в Zakra есть все необходимое для достижения успеха. Тема легко интегрируется с такими популярными конструкторами страниц, как Elementor, Brizy, BlockArt, и редактором Gutenberg, предоставляя вам полную свободу в создании любого макета, который вы только можете себе представить. Важно отметить, что тема Zakra оптимизирована для быстрой работы, имеет отзывчивый дизайн для мобильных устройств, построена на основе блочной технологии и оптимизирована для поисковых систем. Кроме того, он совместим с широким спектром популярных плагинов WordPress, что позволяет расширять его функциональность по мере необходимости. Создайте свой следующий проект с помощью Zakra уже сегодня и убедитесь в разнице. Ознакомьтесь со всеми стартовыми сайтами на сайте https://zakratheme.com/demos!"
+
+#. Theme Name of the theme
+#: style.css inc/admin/views/header.php:22 inc/helper/utils.php:288
+#: inc/helper/utils.php:331 assets/build/dashboard.js:1
+#, gp-priority: high
+msgid "Zakra"
+msgstr "Zakra"
+
+#: inc/customizer/customind/build/customind.js:1
+msgid "Hide Builder"
+msgstr "Скрыть конструктор"
+
+#: inc/customizer/customind/build/customind.js:1
+msgid "Show Builder"
+msgstr ""
+
+#: inc/customizer/customind/build/customind.js:1
+msgid "Available Components"
+msgstr "Доступные компоненты"
+
+#: inc/customizer/customind/build/customind.js:1
+msgid "Remove Item"
+msgstr "Удалить элемент"
+
+#: inc/customizer/customind/build/customind.js:1
+msgid "Custom Palettes"
+msgstr "Цветовые палитры"
+
+#: inc/customizer/customind/build/customind.js:1
+msgid "Add Custom Palette"
+msgstr "Добавить пользовательскую палитру"
+
+#: assets/build/meta.js:1
+msgid "No Sidebar"
+msgstr "Без боковой панели"
+
+#: assets/build/meta.js:1
+msgid "Full Width"
+msgstr "Во всю ширину"
+
+#: assets/build/meta.js:1
+msgid "Narrow"
+msgstr ""
+
+#: inc/customizer/panels-sections/panels-sections.php:337
+msgid "Global Option"
+msgstr ""
+
+#: inc/customizer/panels-sections/panels-sections.php:182
+msgid "WooCommerce Page"
+msgstr ""
+
+#: inc/customizer/options/global/typography.php:535
+msgid "Fonts"
+msgstr "Шрифты"
+
+#: inc/customizer/options/global/typography.php:524
+msgid "Presets"
+msgstr "Предустановки"
+
+#: inc/customizer/options/global/layout.php:119
+msgid "Content Area Padding"
+msgstr "Внутренний отступ области содержимого"
+
+#: inc/customizer/options/global/layout.php:104
+msgid "Content Area Layout"
+msgstr ""
+
+#: inc/customizer/options/global/layout.php:87
+msgid "Box Style"
+msgstr "Стиль бокса"
+
+#: inc/customizer/options/global/layout.php:42
+#: inc/customizer/panels-sections/panels-sections.php:57
+msgid "Layouts"
+msgstr "Макеты"
+
+#: inc/customizer/options/content/blog.php:408
+msgid "The Site Icon is what you see in browser tabs, bookmark bars, and within the WordPress mobile apps. It should be square and at least 512 by 512 pixels."
+msgstr ""
+
+#: inc/customizer/options/content/blog.php:218
+#: inc/customizer/options/content/single-post.php:147
+msgid "Manage the post meta elements such as Categories, Author, Date, Comments, Tags, etc."
+msgstr ""
+
+#: inc/customizer/options/content/blog.php:213
+#: inc/customizer/options/content/single-post.php:145
+msgid "Post Meta"
+msgstr "Мета записи"
+
+#: inc/customizer/options/content/blog.php:187
+#: inc/customizer/options/content/single-post.php:121
+msgid "Manage the post elements such as Post Format, Category, Title, Meta, Content, etc."
+msgstr ""
+
+#: inc/customizer/options/content/blog.php:62
+#: inc/customizer/options/content/page.php:52
+#: inc/customizer/options/content/single-post.php:62
+#: inc/customizer/options/woocommerce/layout.php:53
+#: inc/customizer/options/woocommerce/single-product.php:61
+#: inc/customizer/options/woocommerce/woocommerce-page.php:61
+msgid "Container Layout"
+msgstr "Макет контейнера"
+
+#: inc/customizer/options/content/blog-sidebar.php:8
+msgid "Sidebar Widget Title"
+msgstr "Заголовок виджета боковой панели"
+
+#: inc/admin/class-zakra-welcome-notice.php:225
+msgid "You do not have permission to perform this action."
+msgstr "У вас недостаточно прав для выполнения этого действия."
+
+#: inc/customizer/options/global/colors.php:9
+msgid "Color Palette"
+msgstr "Цветовая палитра"
+
+#. Translators: 1: Panel Title.
+#: functions.php:173
+msgid "Customizing ▶ %s"
+msgstr ""
+
+#: inc/customizer/options/additional/additional.php:19
+msgid "Demo migrated"
+msgstr "Демо-версия перенесена"
+
+#: inc/customizer/options/additional/additional.php:12
+msgid "Demo Migrated"
+msgstr "Демо-версия перенесена"
+
+#: assets/build/dashboard.js:1
+msgid "Click here to update Zakra Pro Plugin"
+msgstr "Нажмите здесь, чтобы обновить Zakra Pro Plugin"
+
+#: assets/build/dashboard.js:1
+msgid " for Zakra to work properly. "
+msgstr ""
+
+#: assets/build/dashboard.js:1
+msgid "3.1.0"
+msgstr "3.1.0"
+
+#: assets/build/dashboard.js:1
+msgid " plugin to latest version i.e "
+msgstr ""
+
+#: assets/build/dashboard.js:1
+msgid "Zakra Pro"
+msgstr "Zakra Pro"
+
+#: assets/build/dashboard.js:1
+msgid "Please update the "
+msgstr "Пожалуйста, обновите "
+
+#: inc/admin/class-zakra-dashboard.php:98
+#: inc/admin/class-zakra-dashboard.php:99
+msgid "Demo Importer"
+msgstr "Импортер демо"
+
+#: inc/admin/class-zakra-changelog-controller.php:105
+msgid "You are not allowed to access this resource."
+msgstr "Вам не разрешено использовать этот ресурс."
+
+#: assets/build/dashboard.js:1
+msgid "In order to be able to import any starter sites for Zakra you need to install ThemeGrill demo importer plugin active."
+msgstr "Чтобы иметь возможность импортировать любые стартовые сайты для Zakra, Вам необходимо установить активный плагин ThemeGrill demo importer."
+
+#: assets/build/dashboard.js:1
+msgid "Document"
+msgstr "Документ"
+
+#: assets/build/dashboard.js:1
+msgid "View Starter Template"
+msgstr "Просмотреть шаблоны стартера"
+
+#: assets/build/dashboard.js:1
+msgid "Version %s"
+msgstr "Версия %s"
+
+#: assets/build/dashboard.js:1
+msgid "Theme"
+msgstr "Тема"
+
+#: assets/build/dashboard.js:1
+msgid "Join our Facebook community to get help, share your experience, and connect with other Zakra users."
+msgstr "Присоединяйтесь к нашему сообществу на Facebook, чтобы получить помощь, поделиться своим опытом и пообщаться с другими пользователями Zakra."
+
+#: assets/build/dashboard.js:1
+msgid ""
+"Access all premium extensions, features, and upcoming updates right\n"
+"\t\t\t\t\t\taway by upgrading to the Pro version."
+msgstr ""
+"Получите доступ ко всем премиум-расширениям, функциям и грядущим обновлениям прямо сейчас\n"
+"\t\t\t\t\t\tПерейдите на версию Pro."
+
+#: assets/build/dashboard.js:1
+msgid "Simply choose the demo that fits your requirements, import it, and give it some of your personal touch!"
+msgstr "Просто выберите демо-версию, которая соответствует Вашим требованиям, импортируйте ее и придайте ей свой индивидуальный оттенок!"
+
+#: assets/build/dashboard.js:1
+msgid "Explore diverse demos from Zakra theme to get your site running in no time!"
+msgstr "Изучите разнообразные демо-версии темы Zakra, чтобы запустить свой сайт в кратчайшие сроки!"
+
+#: assets/build/dashboard.js:1
+msgid "Install ThemeGrill Demo Importer Plugin "
+msgstr "Установите плагин ThemeGrill Demo Importer "
+
+#: assets/build/dashboard.js:1
+msgid "Create websites of different niches with very little effort with Zakra. Loaded with powerful features and demos for every kind of website, you can get started immediately!"
+msgstr "Создавайте сайты различных ниш, не прилагая особых усилий, с помощью Zakra. Насыщенный мощными функциями и демо-версиями для любого типа сайтов, Вы можете приступить к работе немедленно!"
+
+#: assets/build/dashboard.js:1
+msgid "Welcome to Zakra"
+msgstr "Добро пожаловать в Zakra"
+
+#: assets/build/dashboard.js:1
+msgid "%s plugin installed and activated successfully"
+msgstr "Плагин %s успешно установлен и активирован"
+
+#: assets/build/dashboard.js:1
+msgid "%s plugin activated successfully"
+msgstr "Плагин %s успешно активирован"
+
+#: assets/build/dashboard.js:1
+msgid "Page Builder Plugin"
+msgstr "Плагин Page Builder"
+
+#: assets/build/dashboard.js:1
+msgid "Powerful WordPress Gutenberg block plugin with the perfect blocks and editing options to create magazine-themed websites."
+msgstr "Мощный плагин WordPress Gutenberg с идеальными блоками и возможностями редактирования для создания сайтов на журнальную тематику."
+
+#: assets/build/dashboard.js:1
+msgid "Form Builder Plugin"
+msgstr "Плагин Form Builder"
+
+#: assets/build/dashboard.js:1
+msgid "Feature-rich and highly customizable WordPress form builder plugin to create different types of professional forms for your website."
+msgstr "Богатый функциями и очень настраиваемый плагин WordPress для создания различных типов профессиональных форм для Вашего сайта."
+
+#: assets/build/dashboard.js:1
+msgid "Custom Registration Form"
+msgstr "Пользовательская форма регистрации"
+
+#: assets/build/dashboard.js:1
+msgid "Ultimate WordPress user registration plugin to streamline the user signup process. Create registration & login forms, manage users, and more."
+msgstr "Превосходный плагин WordPress для регистрации пользователей, позволяющий упростить процесс регистрации пользователей. Создавайте формы регистрации и входа, управляйте пользователями и многое другое."
+
+#: assets/build/dashboard.js:1
+msgid "Quiz Builder Plugin"
+msgstr "Плагин Quiz Builder"
+
+#: assets/build/dashboard.js:1
+msgid "Streamline the learning process with an easy-to-use and highly advanced LMS plugin loaded with powerful features to create and sell courses online through your website."
+msgstr "Оптимизируйте процесс обучения с помощью простого в использовании и высокотехнологичного плагина LMS, оснащенного мощными функциями для создания и продажи курсов онлайн через Ваш сайт."
+
+#: assets/build/dashboard.js:1
+msgid "Modern and professional WordPress magazine and news portal-styled theme perfect for creating websites for your user-engaging magazines, news channels, etc."
+msgstr "Современная и профессиональная тема WordPress, стилизованная под журналы и новостные порталы, идеально подходит для создания сайтов Ваших интересных для пользователей журналов, новостных каналов и т.д."
+
+#: assets/build/dashboard.js:1
+msgid "ColorMag"
+msgstr "ColorMag"
+
+#: assets/build/dashboard.js:1
+msgid "Multipurpose WordPress theme loaded with intuitive features, powerful customization options, and pre-built demos to create professional websites of any kind."
+msgstr "Многоцелевая тема WordPress с интуитивно понятными функциями, мощными возможностями настройки и готовыми демо-версиями для создания профессиональных сайтов любого типа."
+
+#: inc/admin/views/header.php:56 assets/build/dashboard.js:1
+msgid "Free vs Pro"
+msgstr "Free против Pro"
+
+#: assets/build/dashboard.js:1
+msgid "Loading..."
+msgstr "Загрузка…"
+
+#: assets/build/dashboard.js:1
+msgid "View Demo"
+msgstr "Смотреть демонстрацию"
+
+#: inc/customizer/options/footer-builder/copyright.php:132
+#: inc/customizer/options/footer-builder/footer-menu-2.php:96
+#: inc/customizer/options/footer-builder/footer-menu.php:96
+#: inc/customizer/options/footer-builder/html-1.php:94
+#: inc/customizer/options/footer-builder/html-2.php:94
+#: inc/customizer/options/footer-builder/socials.php:49
+#: inc/customizer/options/footer-builder/widget-1.php:135
+#: inc/customizer/options/footer-builder/widget-2.php:135
+#: inc/customizer/options/footer-builder/widget-3.php:135
+#: inc/customizer/options/footer-builder/widget-4.php:135
+#: inc/customizer/options/footer-builder/widget-5.php:135
+#: inc/customizer/options/footer-builder/widget-6.php:135
+msgid "Center"
+msgstr "По центру"
+
+#: inc/customizer/options/footer-builder/bottom-area.php:150
+#: inc/customizer/options/footer-builder/main-area.php:221
+#: inc/customizer/options/footer-builder/top-area.php:151
+msgid "Inline"
+msgstr "В одну линию"
+
+#: inc/customizer/options/footer-builder/bottom-area.php:149
+#: inc/customizer/options/footer-builder/main-area.php:220
+#: inc/customizer/options/footer-builder/top-area.php:150
+msgid "Stack"
+msgstr "Друг под другом"
+
+#: inc/customizer/options/footer-builder/bottom-area.php:145
+#: inc/customizer/options/footer-builder/main-area.php:216
+#: inc/customizer/options/footer-builder/top-area.php:146
+msgid " Layout"
+msgstr " Макет"
+
+#: inc/customizer/options/footer-builder/bottom-area.php:140
+#: inc/customizer/options/footer-builder/main-area.php:211
+#: inc/customizer/options/footer-builder/top-area.php:141
+msgid "Inner Elements"
+msgstr "Внутренние элементы"
+
+#: assets/build/meta.js:1
+msgid "Set featured image"
+msgstr "Установить изображение записи"
+
+#: assets/build/meta.js:1
+msgid "Replace"
+msgstr "Заменить"
+
+#: assets/build/meta.js:1
+msgid "Header Right"
+msgstr "Правый заголовок"
+
+#: assets/build/meta.js:1
+msgid "Header Center"
+msgstr "Заголовок по центру"
+
+#: assets/build/meta.js:1
+msgid "Header Left"
+msgstr "Заголовок слева"
+
+#: assets/build/meta.js:1
+msgid "From Customizer"
+msgstr "Из настройки темы"
+
+#: assets/build/meta.js:1
+msgid "Right Sidebar"
+msgstr "Правая боковая панель"
+
+#: assets/build/meta.js:1
+msgid "Left Sidebar"
+msgstr "Левая боковая панель"
+
+#: assets/build/meta.js:1
+msgid "Customizer"
+msgstr "Настройка темы"
+
+#: inc/customizer/build/customind.js:4
+#: inc/customizer/customind/build/customind.js:4
+msgid "Angle"
+msgstr "Угол"
+
+#: inc/customizer/build/customind.js:4
+#: inc/customizer/customind/build/customind.js:4
+msgid "Use your left or right arrow keys or drag and drop with the mouse to change the gradient position. Press the button to change the color or remove the control point."
+msgstr "Используйте клавиши со стрелками влево или вправо или перетащите с помощью мыши, чтобы изменить положение градиента. Нажмите кнопку, чтобы изменить цвет или удалить контрольную точку."
+
+#. translators: %1$s: gradient position e.g: 70, %2$s: gradient color code e.g:
+#. rgb(52,121,151).
+#: inc/customizer/build/customind.js:4
+#: inc/customizer/customind/build/customind.js:4
+msgid "Gradient control point at position %1$s%% with color code %2$s."
+msgstr "Контрольная точка градиента в позиции %1$s%% с кодом цвета %2$s."
+
+#: inc/customizer/build/customind.js:1
+msgid "Hide"
+msgstr "Скрыть"
+
+#: inc/customizer/build/customind.js:1
+#: inc/customizer/customind/build/customind.js:1
+msgid "Tablet/Mobile"
+msgstr "Планшет/мобильный"
+
+#: inc/customizer/build/customind.js:1
+#: inc/customizer/customind/build/customind.js:1
+msgid "Transformation"
+msgstr "Трансформация"
+
+#: inc/customizer/build/customind.js:1
+#: inc/customizer/customind/build/customind.js:1
+msgid "No icons found"
+msgstr "Значки не найдены"
+
+#: inc/customizer/customind/build/customind.js:1
+msgid "Update"
+msgstr "Обновление"
+
+#: inc/customizer/customind/build/customind.js:1
+msgid "Select"
+msgstr "Выбрать"
+
+#: inc/customizer/customind/build/customind.js:1
+msgid "Select or Upload Media"
+msgstr "Выбрать или загрузить"
+
+#: inc/customizer/build/customind.js:1
+#: inc/customizer/customind/build/customind.js:1
+msgid "Lock / Unlock"
+msgstr "Заблокировано / Разблокировано"
+
+#: inc/customizer/build/customind.js:1
+msgid "Custom"
+msgstr "Пользовательский"
+
+#: inc/customizer/build/customind.js:1
+msgid "Default Presets"
+msgstr "Предварительные настройки по умолчанию"
+
+#: inc/customizer/customind/build/customind.js:1
+msgid "Continue"
+msgstr "Продолжить"
+
+#: inc/customizer/build/customind.js:1
+#: inc/customizer/customind/build/customind.js:1
+msgid "Close"
+msgstr "Закрыть"
+
+#: inc/customizer/build/customind.js:1
+#: inc/customizer/customind/build/customind.js:1
+msgid "Choose Image"
+msgstr "Выбрать изображение"
+
+#: inc/customizer/build/customind.js:1
+#: inc/customizer/customind/build/customind.js:1
+msgid "Attachment"
+msgstr "Вложение"
+
+#: inc/customizer/build/customind.js:1
+#: inc/customizer/customind/build/customind.js:1
+msgid "Repeat"
+msgstr "Повторение"
+
+#: inc/customizer/build/customind.js:1
+#: inc/customizer/customind/build/customind.js:1
+msgid "Change Image"
+msgstr "Изменить изображение"
+
+#: inc/customizer/build/customind.js:1
+#: inc/customizer/customind/build/customind.js:1
+msgid "Mobile"
+msgstr "Мобильный"
+
+#: inc/customizer/build/customind.js:1
+#: inc/customizer/customind/build/customind.js:1
+msgid "Tablet"
+msgstr "Планшет"
+
+#: inc/customizer/build/customind.js:1
+#: inc/customizer/customind/build/customind.js:1
+msgid "Desktop"
+msgstr "Компьютер"
+
+#: inc/customizer/build/customind.js:1
+#: inc/customizer/customind/build/customind.js:1
+msgid "Copy"
+msgstr "Копировать"
+
+#: inc/customizer/build/customind.js:1
+#: inc/customizer/customind/build/customind.js:1
+msgid "Copied"
+msgstr "Скопировано"
+
+#: inc/customizer/build/customind.js:1
+#: inc/customizer/customind/build/customind.js:1
+msgid "HSL"
+msgstr "HSL"
+
+#: inc/customizer/build/customind.js:1
+#: inc/customizer/customind/build/customind.js:1
+msgid "RGB"
+msgstr "RGB"
+
+#: inc/customizer/build/customind.js:1
+#: inc/customizer/customind/build/customind.js:1
+msgid "Hex"
+msgstr "Hex"
+
+#: inc/customizer/panels-sections/panels-sections.php:87
+msgid "Footer Builder"
+msgstr "Конструктор подвала"
+
+#: inc/customizer/panels-sections/panels-sections.php:82
+msgid "Header Builder"
+msgstr "Конструктор заголовков"
+
+#: inc/customizer/options/header/primary-menu.php:96
+msgid "Active Style"
+msgstr "Активный стиль"
+
+#: inc/customizer/options/header/main-header.php:174
+msgid "Header Search Navigation"
+msgstr "Навигация поиска по заголовку"
+
+#: inc/customizer/options/header-builder/primary-menu.php:18
+#: inc/customizer/options/header-builder/secondary-menu.php:17
+msgid "Select Menu Navigation"
+msgstr "Выбрать пункт меню \"Навигация\""
+
+#: inc/customizer/options/global/button.php:115
+#: inc/customizer/options/header-builder/header-button.php:157
+msgid "Border Radius"
+msgstr "Закругление рамки"
+
+#: inc/customizer/options/header-builder/header-builder.php:279
+msgid "Global Header"
+msgstr "Глобальный заголовок"
+
+#: inc/customizer/options/header-builder/header-builder.php:265
+#: inc/customizer/options/header-builder/offset-area.php:6
+#: inc/customizer/panels-sections/panels-sections.php:237
+msgid "Offset Area"
+msgstr "Область смещения"
+
+#: inc/customizer/options/header-builder/header-builder.php:235
+msgid "Main right"
+msgstr "Главный справа"
+
+#: inc/customizer/options/header-builder/header-builder.php:230
+msgid "Main center"
+msgstr "Главный по центру"
+
+#: inc/customizer/options/header-builder/header-builder.php:225
+msgid "Builder area middle left"
+msgstr "Область конструктора посередине слева"
+
+#: inc/customizer/options/header-builder/header-builder.php:220
+msgid "Builder Main area"
+msgstr "Главная область конструктора"
+
+#: inc/customizer/options/header-builder/header-builder.php:213
+msgid "Builder area top right"
+msgstr "Область конструктора вверху справа"
+
+#: inc/customizer/options/header-builder/header-builder.php:208
+msgid "Builder area top middle"
+msgstr "Область конструктора вверху посередине"
+
+#: inc/customizer/options/header-builder/header-builder.php:203
+msgid "Builder area top left"
+msgstr "Область конструктора вверху слева"
+
+#: inc/customizer/options/header-builder/header-builder.php:198
+msgid "Builder area top"
+msgstr "Область конструктора вверху"
+
+#: inc/customizer/options/header-builder/header-builder.php:119
+#: inc/customizer/panels-sections/panels-sections.php:307
+msgid "Toggle Button"
+msgstr "Кнопка Переключателя"
+
+#: inc/customizer/options/header-builder/header-builder.php:31
+#: inc/customizer/options/header-builder/quaternary-menu.php:11
+#: inc/customizer/panels-sections/panels-sections.php:217
+msgid "Quaternary Menu"
+msgstr "Четвертичное меню"
+
+#: inc/customizer/options/header-builder/header-builder.php:26
+#: inc/customizer/options/header-builder/tertiary-menu.php:11
+#: inc/customizer/panels-sections/panels-sections.php:212
+msgid "Tertiary Menu"
+msgstr "Третичное меню"
+
+#: inc/customizer/options/content/blog.php:396
+#: inc/customizer/options/header-builder/header-builder.php:11
+msgid "Site Title & Logo"
+msgstr "Название и логотип сайта"
+
+#: inc/customizer/options/header-builder/cart.php:6
+#: inc/customizer/options/header-builder/header-builder.php:73
+#: inc/customizer/options/header-builder/header-builder.php:124
+#: inc/customizer/panels-sections/panels-sections.php:302
+msgid "Cart"
+msgstr "Корзина"
+
+#: inc/customizer/options/global/colors.php:234
+msgid "Outside Background"
+msgstr "Внешний фон"
+
+#: inc/customizer/options/global/colors.php:219
+msgid "Inside Background"
+msgstr "Внутренний фон"
+
+#: inc/customizer/options/global/colors.php:14
+msgid "Customized Color palette"
+msgstr "Настроить палитру цветов"
+
+#: inc/customizer/options/footer/footer-bar.php:248
+#: inc/customizer/options/header/top-bar.php:190
+msgid "Column 2 Widget Navigation"
+msgstr ""
+
+#: inc/customizer/options/footer/footer-bar.php:181
+#: inc/customizer/options/header/top-bar.php:124
+msgid "Column 1 Widget Navigation"
+msgstr ""
+
+#: inc/customizer/options/footer/footer-bar.php:122
+#: inc/customizer/options/footer/footer-bar.php:205
+#: inc/customizer/options/header/top-bar.php:87
+#: inc/customizer/options/header/top-bar.php:152
+msgid "Content Type"
+msgstr "Тип содержимого"
+
+#: inc/customizer/options/footer-builder/widget-1.php:119
+#: inc/customizer/options/footer-builder/widget-2.php:119
+#: inc/customizer/options/footer-builder/widget-3.php:119
+#: inc/customizer/options/footer-builder/widget-4.php:119
+#: inc/customizer/options/footer-builder/widget-5.php:119
+#: inc/customizer/options/footer-builder/widget-6.php:119
+#: inc/customizer/options/header-builder/widget-1.php:119
+#: inc/customizer/options/header-builder/widget-2.php:119
+msgid "Content Typography"
+msgstr "Типографика содержимого"
+
+#: inc/customizer/options/footer-builder/widget-1.php:78
+#: inc/customizer/options/footer-builder/widget-2.php:78
+#: inc/customizer/options/footer-builder/widget-3.php:78
+#: inc/customizer/options/footer-builder/widget-4.php:78
+#: inc/customizer/options/footer-builder/widget-5.php:78
+#: inc/customizer/options/footer-builder/widget-6.php:78
+#: inc/customizer/options/header-builder/widget-1.php:78
+#: inc/customizer/options/header-builder/widget-2.php:78
+msgid "Content Color"
+msgstr "Цвет содержимого"
+
+#: inc/customizer/options/footer-builder/widget-1.php:55
+#: inc/customizer/options/footer-builder/widget-2.php:55
+#: inc/customizer/options/footer-builder/widget-3.php:55
+#: inc/customizer/options/footer-builder/widget-4.php:55
+#: inc/customizer/options/footer-builder/widget-5.php:55
+#: inc/customizer/options/footer-builder/widget-6.php:55
+#: inc/customizer/options/header-builder/widget-1.php:55
+#: inc/customizer/options/header-builder/widget-2.php:55
+msgid "Title Typography"
+msgstr "Типографика заголовка"
+
+#: inc/customizer/options/footer-builder/top-area.php:5
+#: inc/customizer/options/header-builder/top-area.php:7
+#: inc/customizer/panels-sections/panels-sections.php:312
+#: inc/customizer/panels-sections/panels-sections.php:327
+msgid "Top Area"
+msgstr "Верхняя область"
+
+#: inc/customizer/options/footer-builder/socials.php:6
+#: inc/customizer/options/footer-builder/socials.php:13
+#: inc/customizer/options/header-builder/header-builder.php:68
+#: inc/customizer/options/header-builder/socials.php:6
+#: inc/customizer/options/header-builder/socials.php:13
+msgid "Social"
+msgstr "Соцсети"
+
+#: inc/customizer/options/footer-builder/main-area.php:180
+msgid "Widget Item List"
+msgstr "Список элементов виджета"
+
+#: inc/customizer/options/footer-builder/main-area.php:168
+#: inc/customizer/options/footer-builder/widget-1.php:14
+#: inc/customizer/options/footer-builder/widget-2.php:14
+#: inc/customizer/options/footer-builder/widget-3.php:14
+#: inc/customizer/options/footer-builder/widget-4.php:14
+#: inc/customizer/options/footer-builder/widget-5.php:14
+#: inc/customizer/options/footer-builder/widget-6.php:14
+#: inc/customizer/options/header-builder/widget-1.php:14
+#: inc/customizer/options/header-builder/widget-2.php:14
+msgid "Title Color"
+msgstr "Цвет названия"
+
+#: inc/customizer/options/footer-builder/main-area.php:5
+#: inc/customizer/options/header-builder/main-area.php:5
+#: inc/customizer/panels-sections/panels-sections.php:317
+#: inc/customizer/panels-sections/panels-sections.php:332
+msgid "Main Area"
+msgstr "Основная область"
+
+#: inc/customizer/options/footer-builder/html-2.php:14
+#: inc/customizer/options/header-builder/html-2.php:14
+msgid "Text/HTML for HTML 2"
+msgstr "Текст/HTML для HTML 2"
+
+#: inc/customizer/options/footer-builder/html-1.php:14
+#: inc/customizer/options/header-builder/html-1.php:14
+msgid "Text/HTML for HTML 1"
+msgstr "Текст/HTML для HTML 1"
+
+#: inc/customizer/options/footer-builder/footer-menu-2.php:19
+#: inc/customizer/options/footer-builder/footer-menu.php:19
+#: inc/customizer/options/header-builder/quaternary-menu.php:19
+#: inc/customizer/options/header-builder/tertiary-menu.php:19
+msgid "Select a Menu"
+msgstr "Выберите меню"
+
+#: inc/customizer/options/footer-builder/footer-menu-2.php:11
+#: inc/customizer/options/footer-builder/footer-menu.php:11
+msgid "Footer Menu"
+msgstr "Нижнее меню"
+
+#: inc/customizer/options/global/builder.php:6
+#: inc/customizer/panels-sections/panels-sections.php:42
+msgid "Builder"
+msgstr "Конструктор"
+
+#: inc/customizer/options/footer-builder/footer-builder.php:66
+#: inc/customizer/panels-sections/panels-sections.php:127
+#: inc/customizer/panels-sections/panels-sections.php:132
+msgid "Socials"
+msgstr "Соцсети"
+
+#: inc/customizer/options/footer-builder/footer-builder.php:61
+#: inc/customizer/panels-sections/panels-sections.php:232
+msgid "Menu 2"
+msgstr "Меню 2"
+
+#: inc/customizer/options/footer-builder/footer-builder.php:56
+#: inc/customizer/panels-sections/panels-sections.php:227
+msgid "Menu 1"
+msgstr "Меню 1"
+
+#: inc/customizer/options/footer-builder/footer-builder.php:50
+#: inc/customizer/options/footer-builder/widget-6.php:6
+#: inc/customizer/panels-sections/panels-sections.php:297
+msgid "Widget 6"
+msgstr "Виджет 6"
+
+#: inc/customizer/options/footer-builder/footer-builder.php:44
+#: inc/customizer/options/footer-builder/widget-5.php:6
+#: inc/customizer/panels-sections/panels-sections.php:292
+msgid "Widget 5"
+msgstr "Виджет 5"
+
+#: inc/customizer/options/footer-builder/footer-builder.php:38
+#: inc/customizer/options/footer-builder/widget-4.php:6
+#: inc/customizer/panels-sections/panels-sections.php:287
+msgid "Widget 4"
+msgstr "Виджет 4"
+
+#: inc/customizer/options/footer-builder/footer-builder.php:32
+#: inc/customizer/options/footer-builder/widget-3.php:6
+#: inc/customizer/panels-sections/panels-sections.php:282
+msgid "Widget 3"
+msgstr "Виджет 3"
+
+#: inc/customizer/options/footer-builder/footer-builder.php:26
+#: inc/customizer/options/footer-builder/widget-2.php:6
+#: inc/customizer/options/header-builder/header-builder.php:62
+#: inc/customizer/options/header-builder/header-builder.php:113
+#: inc/customizer/options/header-builder/widget-2.php:6
+#: inc/customizer/panels-sections/panels-sections.php:267
+#: inc/customizer/panels-sections/panels-sections.php:277
+msgid "Widget 2"
+msgstr "Виджет 2"
+
+#: inc/customizer/options/footer-builder/footer-builder.php:20
+#: inc/customizer/options/footer-builder/widget-1.php:6
+#: inc/customizer/options/header-builder/header-builder.php:56
+#: inc/customizer/options/header-builder/header-builder.php:107
+#: inc/customizer/options/header-builder/widget-1.php:6
+#: inc/customizer/panels-sections/panels-sections.php:262
+#: inc/customizer/panels-sections/panels-sections.php:272
+msgid "Widget 1"
+msgstr "Виджет 1"
+
+#: inc/customizer/options/footer-builder/footer-builder.php:15
+#: inc/customizer/options/footer-builder/html-2.php:6
+#: inc/customizer/options/header-builder/header-builder.php:51
+#: inc/customizer/options/header-builder/header-builder.php:102
+#: inc/customizer/options/header-builder/html-2.php:6
+#: inc/customizer/panels-sections/panels-sections.php:257
+#: inc/customizer/panels-sections/panels-sections.php:352
+msgid "HTML 2"
+msgstr "HTML 2"
+
+#: inc/customizer/options/footer-builder/footer-builder.php:10
+#: inc/customizer/options/footer-builder/html-1.php:6
+#: inc/customizer/options/header-builder/header-builder.php:46
+#: inc/customizer/options/header-builder/header-builder.php:97
+#: inc/customizer/options/header-builder/html-1.php:6
+#: inc/customizer/panels-sections/panels-sections.php:252
+#: inc/customizer/panels-sections/panels-sections.php:347
+msgid "HTML 1"
+msgstr "HTML 1"
+
+#: inc/customizer/options/footer-builder/copyright.php:6
+#: inc/customizer/options/footer-builder/footer-builder.php:71
+#: inc/customizer/panels-sections/panels-sections.php:137
+msgid "Copyright"
+msgstr "Copyright"
+
+#: inc/customizer/options/footer-builder/bottom-area.php:119
+#: inc/customizer/options/footer-builder/main-area.php:143
+#: inc/customizer/options/footer-builder/top-area.php:119
+#: inc/customizer/options/header-builder/bottom-area.php:107
+#: inc/customizer/options/header-builder/header-builder.php:305
+#: inc/customizer/options/header-builder/header-button.php:138
+#: inc/customizer/options/header-builder/main-area.php:107
+#: inc/customizer/options/header-builder/top-area.php:92
+msgid "Border Width"
+msgstr "Толщина рамки"
+
+#: inc/customizer/options/footer-builder/bottom-area.php:103
+#: inc/customizer/options/footer-builder/main-area.php:127
+#: inc/customizer/options/footer-builder/top-area.php:103
+#: inc/customizer/options/header-builder/bottom-area.php:91
+#: inc/customizer/options/header-builder/main-area.php:91
+msgid "Margin"
+msgstr "Внешний отступ"
+
+#: inc/customizer/options/footer-builder/bottom-area.php:45
+#: inc/customizer/options/footer-builder/main-area.php:45
+#: inc/customizer/options/footer-builder/top-area.php:45
+#: inc/customizer/options/header-builder/bottom-area.php:33
+#: inc/customizer/options/header-builder/logo.php:42
+#: inc/customizer/options/header-builder/main-area.php:33
+#: inc/customizer/options/header-builder/top-area.php:35
+#: inc/customizer/options/header/site-identity.php:42
+msgid "Height"
+msgstr "Высота"
+
+#: inc/customizer/options/footer-builder/bottom-area.php:5
+#: inc/customizer/options/header-builder/bottom-area.php:5
+#: inc/customizer/panels-sections/panels-sections.php:322
+#: inc/customizer/panels-sections/panels-sections.php:342
+msgid "Bottom Area"
+msgstr "Нижняя область"
+
+#: inc/customizer/options/content/blog.php:150
+msgid "Page Title Position Navigation"
+msgstr "Название страницы Позиция Навигация"
+
+#: inc/core/class-zakra-widgets.php:93
+msgid "Footer Six"
+msgstr "Подвал 6"
+
+#: inc/core/class-zakra-widgets.php:92
+msgid "Footer Five"
+msgstr "Подвал 5"
+
+#: inc/core/class-zakra-after-setup-theme.php:336
+#: inc/customizer/options/header-builder/header-builder.php:21
+#: inc/customizer/options/header-builder/secondary-menu.php:11
+#: inc/customizer/panels-sections/panels-sections.php:207
+msgid "Secondary Menu"
+msgstr "Вторичное меню"
+
+#: inc/admin/class-zakra-welcome-notice.php:303
+msgid "Plugin installation failed."
+msgstr "Установка плагина не удалась."
+
+#: inc/admin/class-zakra-welcome-notice.php:178
+msgid "Clicking this button will install and activate the ThemeGrill Demo Importer and BlockArt Blocks plugins allowing you to import the theme demos."
+msgstr "Нажав на эту кнопку, Вы установите и активируете плагины ThemeGrill Demo Importer и BlockArt Blocks, позволяющие импортировать демо-версии тем."
+
+#: inc/customizer/options/global/typography.php:880
+#: inc/customizer/options/global/typography.php:885
+msgid "Root Font Size"
+msgstr "Размер корневого шрифта"
+
+#: inc/customizer/options/header-builder/search.php:12
+#: inc/customizer/options/header/header-search.php:20
+msgid "Product Search"
+msgstr "Поиск товаров"
+
+#: inc/customizer/options/content/blog.php:178
+msgid "Modified Date"
+msgstr "Дата изменения"
+
+#: inc/customizer/options/content/blog.php:177
+msgid "Published Date"
+msgstr "Дата публикации"
+
+#: inc/customizer/options/content/blog.php:162
+msgid "Post Date Type"
+msgstr "Тип даты записи"
+
+#: inc/admin/views/help.php:199 inc/admin/views/products.php:141
+#: assets/build/dashboard.js:1
+msgid "Activate"
+msgstr "Активировать"
+
+#: inc/admin/views/products.php:63 assets/build/dashboard.js:1
+msgid "Plugins"
+msgstr "Плагины"
+
+#: inc/admin/views/products.php:56 inc/admin/views/products.php:132
+msgid "Live demo"
+msgstr "Демонстрация в реальном времени"
+
+#: inc/admin/views/products.php:20
+msgid "Themes"
+msgstr "Темы"
+
+#: assets/build/dashboard.js:1
+msgid "Latest Updates"
+msgstr "Последние обновления"
+
+#: inc/admin/views/header.php:86 assets/build/dashboard.js:1
+#: inc/customizer/customind/build/customind.js:1
+msgid "Upgrade to Pro"
+msgstr "Обновить до Pro"
+
+#: inc/admin/views/header.php:71 assets/build/dashboard.js:1
+msgid "Core"
+msgstr "Ядро"
+
+#. translators: %s: Theme Name.
+#: inc/admin/views/help.php:104
+msgid "Sharing your review is a valuable way to help us enhance your experience."
+msgstr "Поделитесь своим отзывом - это ценный способ помочь нам улучшить Ваш опыт."
+
+#: inc/admin/views/help.php:76 assets/build/dashboard.js:1
+msgid "Visit us on YouTube"
+msgstr "Посетите нас на YouTube"
+
+#: inc/admin/views/help.php:75 assets/build/dashboard.js:1
+msgid "Visit our YouTube channel for videos about tutorials, updates, and news on our products!"
+msgstr "Посетите наш канал на YouTube, чтобы посмотреть видео с обучающими уроками, обновлениями и новостями о наших продуктах!"
+
+#: inc/admin/views/help.php:74 assets/build/dashboard.js:1
+msgid "Youtube Community"
+msgstr "Сообщество YouTube"
+
+#: inc/admin/views/help.php:71
+msgid "youtube"
+msgstr "youtube"
+
+#: inc/admin/views/help.php:66 assets/build/dashboard.js:1
+msgid "Join us on Twitter"
+msgstr "Присоединяйтесь к нам в Twitter"
+
+#: inc/admin/views/help.php:65 assets/build/dashboard.js:1
+msgid "Follow us on Twitter and stay in the loop for the latest news and updates on our products!"
+msgstr "Следите за нами в Twitter и будьте в курсе последних новостей и обновлений наших продуктов!"
+
+#: inc/admin/views/help.php:61
+msgid "x"
+msgstr "x"
+
+#: inc/admin/views/help.php:56 assets/build/dashboard.js:1
+msgid "Join us on Facebook"
+msgstr "Присоединиться к Facebook"
+
+#: inc/admin/views/help.php:55
+msgid "Join our Facebook community to connect with fellow users for the latest news, updates, and discussions."
+msgstr "Присоединяйтесь к нашему сообществу на Facebook, чтобы общаться с другими пользователями и узнавать последние новости, обновления и обсуждения."
+
+#: inc/admin/views/help.php:54 assets/build/dashboard.js:1
+msgid "Facebook Community"
+msgstr "Сообщество в Facebook"
+
+#: inc/admin/views/help.php:51
+msgid "facebook"
+msgstr "facebook"
+
+#: inc/admin/views/help.php:48 assets/build/dashboard.js:1
+msgid "Join Our Community"
+msgstr "Присоединяйтесь к нашему сообществу"
+
+#: inc/admin/views/help.php:37 assets/build/dashboard.js:1
+msgid "View Now"
+msgstr "Смотри сейчас"
+
+#: inc/admin/views/help.php:36 assets/build/dashboard.js:1
+msgid "Please check out basic documentation for detailed information on how to use Zakra."
+msgstr "Ознакомьтесь с основной документацией, чтобы получить подробную информацию о том, как использовать Zakra."
+
+#: inc/admin/views/help.php:35 assets/build/dashboard.js:1
+msgid "Need Some Help?"
+msgstr "Нужна помощь?"
+
+#: inc/admin/views/free-vs-pro.php:282 assets/build/dashboard.js:1
+msgid "Get Zakra Pro Now"
+msgstr "Получите Zakra Pro прямо сейчас"
+
+#. translators: %s: HTML br tag
+#: inc/admin/views/free-vs-pro.php:277
+msgid "Access all premium extensions, features, and upcoming updates right away by %s upgrading to the Pro version."
+msgstr "Получите доступ ко всем премиум-расширениям, функциям и грядущим обновлениям сразу же, %s перейдя на версию Pro."
+
+#: assets/build/dashboard.js:1
+msgid "Join our Facebook Group"
+msgstr "Присоединяйтесь к нам на Facebook"
+
+#: assets/build/dashboard.js:1
+msgid "Join our Facebook group filled with ThemeGrill themes users, including Zakra users to discuss anything about the theme!"
+msgstr "Присоединяйтесь к нашей группе на Facebook, наполненной пользователями тем ThemeGrill, включая пользователей Zakra, чтобы обсудить все, что касается этой темы!"
+
+#: assets/build/dashboard.js:1
+msgid "ThemeGrill Community"
+msgstr "Сообщество ThemeGrill"
+
+#: inc/admin/views/help.php:202 inc/admin/views/products.php:146
+#: assets/build/dashboard.js:1
+msgid "Install"
+msgstr "Установить"
+
+#: inc/admin/views/help.php:143 assets/build/dashboard.js:1
+msgid "Useful Plugins"
+msgstr "Полезные плагины"
+
+#: assets/build/dashboard.js:1
+msgid "Create a Ticket"
+msgstr "Создать заявку"
+
+#: inc/admin/views/help.php:44 assets/build/dashboard.js:1
+msgid "We would be happy to guide you through any issues and queries you have regarding Zakra!"
+msgstr "Мы будем рады помочь Вам в решении любых проблем и вопросов, связанных с Zakra!"
+
+#: inc/admin/views/help.php:138 assets/build/dashboard.js:1
+msgid "Request a Feature"
+msgstr "Запросить функцию"
+
+#. translators: %s: Theme Name.
+#: inc/admin/views/help.php:133 assets/build/dashboard.js:1
+msgid "Please take a moment to suggest any features that could enhance our product."
+msgstr "Пожалуйста, уделите время и предложите любые функции, которые могли бы улучшить наш продукт."
+
+#: inc/admin/views/help.php:126 assets/build/dashboard.js:1
+msgid "Feature Request"
+msgstr "Запрос функции"
+
+#: inc/admin/views/help.php:110 assets/build/dashboard.js:1
+msgid "Submit a Review"
+msgstr "Отправить отзыв"
+
+#: assets/build/dashboard.js:1
+msgid "What do you think of our theme? Was it a good experience and did it match your expectations? Let us know so we can improve!"
+msgstr "Что ты думаешь о нашей теме? Был ли это хороший опыт и соответствовал ли он твоим ожиданиям? Дай нам знать, чтобы мы могли совершенствоваться!"
+
+#: inc/admin/views/help.php:98 assets/build/dashboard.js:1
+msgid "Based on 1430+ Reviews"
+msgstr "На основе 1430+ отзывов"
+
+#: inc/admin/views/help.php:89 assets/build/dashboard.js:1
+msgid "Leave us a Review"
+msgstr "Оставьте нам отзыв"
+
+#: assets/build/dashboard.js:1
+msgid "Stuck due to an issue? Our detailed documentation will surely clear up any confusions you have!"
+msgstr "Застряли из-за проблемы? Наша подробная документация обязательно прояснит все Ваши недоразумения!"
+
+#: assets/build/dashboard.js:1
+msgid "View Documentation"
+msgstr "Посмотреть документацию"
+
+#: inc/admin/views/free-vs-pro.php:272 assets/build/dashboard.js:1
+msgid "Upgrade Now"
+msgstr "Обновить сейчас"
+
+#: assets/build/dashboard.js:1
+msgid "Go to Customizer"
+msgstr "Перейти к настройке темы"
+
+#: assets/build/dashboard.js:1
+msgid "Quick Settings"
+msgstr "Быстрые настройки"
+
+#: inc/admin/views/free-vs-pro.php:200 assets/build/dashboard.js:1
+msgid "Free"
+msgstr "Бесплатно"
+
+#: inc/admin/views/changelog.php:45
+msgid "No changelog data available"
+msgstr "Данные в журнале изменений отсутствуют"
+
+#: inc/admin/class-zakra-welcome-notice.php:110
+msgid "Clicking this button will install and activate the ThemeGrill Demo Importer plugin allowing you to import the theme’s demos."
+msgstr "Нажав на эту кнопку, Вы установите и активируете плагин ThemeGrill Demo Importer, позволяющий импортировать демо-версии темы."
+
+#. translators: 1: welcome page link starting html tag, 2: welcome page link
+#. ending html tag.
+#: inc/admin/class-zakra-welcome-notice.php:103
+#: inc/admin/class-zakra-welcome-notice.php:171
+msgid "Welcome! Thank you for choosing Zakra! Let’s get you started right away with our visually appealing and attractive demos."
+msgstr "Добро пожаловать! Спасибо, что выбрали Zakra! Давайте начнем работу прямо сейчас с помощью наших визуально привлекательных демо-версий."
+
+#: inc/admin/class-zakra-welcome-notice.php:95
+#: inc/admin/class-zakra-welcome-notice.php:163
+msgid "Start Building with Zakra!"
+msgstr "Начните строить вместе с Zakra!"
+
+#. translators: %s: welcome page link starting username
+#: inc/admin/class-zakra-welcome-notice.php:87
+#: inc/admin/class-zakra-welcome-notice.php:155
+msgid "Welcome %s!"
+msgstr "Добро пожаловать %s!"
+
+#: assets/build/dashboard.js:1
+msgid "Global Heading Typography"
+msgstr "Типографика глобального заголовка"
+
+#: assets/build/dashboard.js:1
+msgid "Global Heading Color"
+msgstr "Глобальный цвет заголовков"
+
+#: inc/customizer/panels-sections/panels-sections.php:177
+#: assets/build/dashboard.js:1
+msgid "WooCommerce Layout"
+msgstr "Макет WooCommerce"
+
+#: assets/build/dashboard.js:1
+msgid "Header Transparent"
+msgstr "Прозрачный заголовок"
+
+#: assets/build/dashboard.js:1
+msgid "Sticky Header"
+msgstr "Прикрепленный заголовок"
+
+#: assets/build/dashboard.js:1 inc/customizer/build/customind.js:1
+#: inc/customizer/customind/build/customind.js:1
+msgid "Global Colors"
+msgstr "Глобальные цвета"
+
+#: inc/admin/views/header.php:62 assets/build/dashboard.js:1
+msgid "Help"
+msgstr "Помощь"
+
+#: inc/admin/views/header.php:50 assets/build/dashboard.js:1
+msgid "Products"
+msgstr "Товары"
+
+#: inc/admin/views/header.php:36 inc/admin/views/header.php:43
+#: assets/build/dashboard.js:1
+msgid "Starter Templates"
+msgstr "Стартовые шаблоны"
+
+#: inc/admin/views/header.php:29 assets/build/dashboard.js:1
+msgid "Dashboard"
+msgstr "Консоль"
+
+#: inc/admin/class-zakra-changelog-controller.php:162
+msgid "Failed to read changelog."
+msgstr "Не удалось прочитать журнал изменений."
+
+#: inc/admin/class-zakra-changelog-controller.php:88
+#: inc/admin/class-zakra-changelog-controller.php:156
+msgid "Changelog not found."
+msgstr "Файл журнала изменений не найден."
+
+#: inc/admin/class-zakra-changelog-controller.php:152
+msgid "Could not access filesystem."
+msgstr "Нет доступа к файловой системе."
+
+#. Translators: 1. Label for Contact Page or Right sidebar area, 2. Opening of
+#. the link for widgets.php WordPress section, 3. Closing of the link for
+#. widgets.php WordPress section
+#: sidebar.php:47
+msgid "This is an example widget to show how the %1$s Sidebar looks by default. You can add custom widgets from the %2$swidgets screen%3$s in the admin. If custom widgets is added than this will be replaced by those widgets."
+msgstr ""
+
+#: sidebar.php:44 sidebar.php:50
+msgid "Example Widget"
+msgstr "Пример виджета"
+
+#: inc/customizer/panels-sections/panels-sections.php:172
+msgid "Optimization"
+msgstr "Оптимизация"
+
+#: inc/customizer/panels-sections/panels-sections.php:35
+msgid "Additional"
+msgstr "Дополнительно"
+
+#: template-parts/header-builder-elements/toggle-button.php:72
+#: template-parts/header/primary-menu/mobile-toggle.php:57
+msgid "Close Button"
+msgstr "Кнопка Закрыть"
+
+#: template-parts/content-none.php:48
+msgid "We couldnt find any results for your search. Use more generic words or double check your spelling."
+msgstr "Мы не смогли найти никаких результатов для вашего поиска. Используйте более общие слова или проверьте орфографию."
+
+#: template-parts/content-none.php:25
+msgid "No Results Found"
+msgstr "Результатов не найдено"
+
+#: searchform.php:38
+msgctxt "submit button"
+msgid "Search"
+msgstr "Поиск"
+
+#: searchform.php:30
+msgctxt "placeholder"
+msgid "Type & hit Enter &hellip;"
+msgstr "Введите и нажмите Enter &hellip;"
+
+#: searchform.php:26 searchform.php:33
+msgctxt "label"
+msgid "Search for:"
+msgstr "Поиск для:"
+
+#: inc/customizer/options/content/blog.php:405
+msgid "Site Icon"
+msgstr "Иконка сайта"
+
+#: inc/customizer/options/header-builder/logo.php:14
+#: inc/customizer/options/header/site-identity.php:14
+msgid "Site Logo"
+msgstr "Логотип сайта"
+
+#: inc/customizer/options/header-builder/primary-menu.php:192
+#: inc/customizer/options/header-builder/secondary-menu.php:139
+#: inc/customizer/options/header-builder/tertiary-menu.php:140
+#: inc/customizer/options/header/primary-menu.php:234
+msgid "Sub Menu"
+msgstr "Подменю"
+
+#: inc/customizer/options/header-builder/primary-menu.php:72
+#: inc/customizer/options/header-builder/secondary-menu.php:53
+#: inc/customizer/options/header-builder/tertiary-menu.php:54
+#: inc/customizer/options/header/primary-menu.php:88
+msgid "Main Menu"
+msgstr "Главное меню"
+
+#: inc/customizer/options/header-builder/primary-menu.php:26
+#: inc/customizer/options/header/primary-menu.php:25
+msgid "Priority plus navigation"
+msgstr "Приоритет + навигация"
+
+#: inc/customizer/options/header/main-header.php:167
+msgid "Components"
+msgstr "Компоненты"
+
+#: inc/customizer/options/header/main-header.php:24
+msgid "Layout 2"
+msgstr "Макет 2"
+
+#: inc/customizer/options/header/main-header.php:23
+msgid "Layout 1"
+msgstr "Макет 1"
+
+#: inc/customizer/options/header-builder/header-builder.php:36
+#: inc/customizer/options/header-builder/header-button.php:6
+#: inc/customizer/options/header/header-button.php:8
+msgid "Button 1"
+msgstr "Кнопка 1"
+
+#: inc/customizer/options/global/sidebar.php:90
+msgid "Others"
+msgstr "Другие"
+
+#: inc/customizer/options/global/sidebar.php:57
+msgid "Archive"
+msgstr "Архив"
+
+#: inc/customizer/options/global/layout.php:109
+msgid "Bordered"
+msgstr "Окаймленный"
+
+#: inc/customizer/options/global/colors.php:170
+msgid "Base"
+msgstr "База"
+
+#: inc/customizer/options/global/colors.php:158
+msgid "Theme Colors"
+msgstr "Цвета темы"
+
+#: inc/customizer/options/header/header-button.php:154
+msgid "Radius"
+msgstr "Скругление углов"
+
+#: inc/customizer/options/footer-builder/main-area.php:190
+#: inc/customizer/options/footer/footer-column.php:266
+#: inc/customizer/options/header-builder/primary-menu.php:48
+#: inc/customizer/options/header-builder/secondary-menu.php:29
+#: inc/customizer/options/header-builder/tertiary-menu.php:30
+msgid "Border Bottom Width"
+msgstr "Ширина нижней рамки"
+
+#: inc/customizer/options/footer/footer-column.php:23
+#: inc/customizer/options/header-builder/primary-menu.php:80
+#: inc/customizer/options/header/main-header.php:35
+#: inc/customizer/options/header/main-header.php:72
+msgid "Advanced Style"
+msgstr "Расширенный стиль"
+
+#: inc/customizer/options/footer/footer-bar.php:263
+msgid "Footer Content"
+msgstr "Содержимое подвала"
+
+#: inc/customizer/options/footer/footer-bar.php:237
+#: inc/customizer/options/header/top-bar.php:180
+msgid "Select a Menu for Column 2"
+msgstr "Выберите меню для столбца 2"
+
+#: inc/customizer/options/footer/footer-bar.php:220
+#: inc/customizer/options/header/top-bar.php:169
+msgid "Text/HTML for Column 2"
+msgstr "Текст/HTML для столбца 2"
+
+#: inc/customizer/options/footer/footer-bar.php:170
+#: inc/customizer/options/header/top-bar.php:114
+msgid "Select a Menu for Column 1"
+msgstr "Выберите меню для столбца 1"
+
+#: inc/customizer/options/footer-builder/copyright.php:21
+#: inc/customizer/options/footer/footer-bar.php:144
+#: inc/customizer/options/header/top-bar.php:103
+msgid "Text/HTML for Column 1"
+msgstr "Текст/HTML для столбца 1"
+
+#: inc/customizer/options/footer/footer-bar.php:87
+#: inc/customizer/options/global/layout.php:73
+#: inc/customizer/options/global/layout.php:156
+#: inc/customizer/options/header/main-header.php:143
+#: inc/customizer/options/header/primary-menu.php:57
+msgid "Width"
+msgstr "Ширина"
+
+#: inc/customizer/options/content/blog.php:332
+#: inc/customizer/build/customind.js:4
+#: inc/customizer/customind/build/customind.js:4
+msgid "Type"
+msgstr "Тип"
+
+#: inc/customizer/options/content/blog.php:185
+#: inc/customizer/options/content/single-post.php:117
+msgid "Post Elements"
+msgstr "Элементы записи"
+
+#: inc/customizer/options/footer/footer-bar.php:8
+#: inc/customizer/panels-sections/panels-sections.php:162
+#: assets/build/dashboard.js:1
+msgid "Footer Bar"
+msgstr "Панель подвала"
+
+#: inc/customizer/options/footer/footer-column.php:8
+#: inc/customizer/panels-sections/panels-sections.php:157
+#: assets/build/dashboard.js:1
+msgid "Footer Column"
+msgstr "Столбец подвала"
+
+#: inc/customizer/options/content/blog.php:51
+#: inc/customizer/options/content/single-post.php:51
+#: inc/customizer/panels-sections/panels-sections.php:142
+#: assets/build/dashboard.js:1
+msgid "Blog"
+msgstr "Блог"
+
+#: inc/customizer/panels-sections/panels-sections.php:112
+msgid "Breadcrumb"
+msgstr "Навигационная цепочка"
+
+#: inc/customizer/panels-sections/panels-sections.php:102
+msgid "Header Search"
+msgstr "Поиск в шапке"
+
+#: inc/customizer/options/header/main-header.php:8
+#: inc/customizer/panels-sections/panels-sections.php:92
+#: assets/build/dashboard.js:1
+msgid "Main Header"
+msgstr "Главный заголовок"
+
+#: inc/customizer/options/header/top-bar.php:7
+#: inc/customizer/panels-sections/panels-sections.php:77
+#: assets/build/dashboard.js:1
+msgid "Top Bar"
+msgstr "Верхняя панель"
+
+#: inc/customizer/panels-sections/panels-sections.php:9
+msgid "Header & Navigation"
+msgstr "Заголовок и навигация"
+
+#: inc/core/class-zakra-widgets.php:87
+#: inc/customizer/options/footer/footer-bar.php:196
+#: inc/customizer/options/header/top-bar.php:144
+msgid "Column 2"
+msgstr "Столбец 2"
+
+#: inc/core/class-zakra-widgets.php:86
+#: inc/customizer/options/footer/footer-bar.php:113
+#: inc/customizer/options/header/top-bar.php:79
+msgid "Column 1"
+msgstr "Столбец 1"
+
+#: inc/admin/class-zakra-welcome-notice.php:51
+msgid "FAQ"
+msgstr "FAQ"
+
+#: inc/admin/class-zakra-welcome-notice.php:39
+msgid "Learn about Zakra 3.0"
+msgstr "Узнайте о Zakra 3.0"
+
+#: inc/admin/class-zakra-demo-import-migration-notice.php:66
+#: inc/admin/class-zakra-welcome-notice.php:45 inc/admin/views/help.php:45
+#: assets/build/dashboard.js:1
+msgid "Contact Support"
+msgstr "Связаться с поддержкой"
+
+#: inc/admin/class-zakra-demo-import-migration-notice.php:63
+msgid "Fix Migration Issue"
+msgstr "Исправить проблему миграции"
+
+#: inc/admin/class-zakra-demo-import-migration-notice.php:55
+msgid "It seems you've either imported Zakra demos recently or updated Zakra to 3.0 version. After these actions, if you've seen any design issues in your site, please try clicking the button below:"
+msgstr "Похоже, вы либо недавно импортировали демоверсии Zakra, либо обновили Zakra до версии 3.0. После этих действий, если вы заметили какие-либо проблемы с дизайном на своем сайте, попробуйте нажать кнопку ниже:"
+
+#: 404.php:42
+msgid "Go Back"
+msgstr "Вернуться назад"
+
+#: 404.php:35
+msgid "We’re sorry, the page you requested could not be found. Please go back to the homepage"
+msgstr "К сожалению, запрошенная вами страница не найдена. Вернитесь на главную страницу"
+
+#: 404.php:30
+msgid "Oops! Page Not Found"
+msgstr "Опа! Страница не найдена"
+
+#: inc/customizer/options/header-builder/header-builder.php:257
+msgid "Bottom right"
+msgstr "Внизу справа"
+
+#: inc/customizer/options/header-builder/header-builder.php:247
+msgid "Bottom left"
+msgstr "Внизу слева"
+
+#: inc/customizer/options/header-builder/header-builder.php:252
+msgid "Bottom center"
+msgstr "Внизу по центру"
+
+#: inc/customizer/build/customind.js:4
+#: inc/customizer/customind/build/customind.js:4
+msgid "Radial"
+msgstr "Радиальный"
+
+#: inc/customizer/build/customind.js:4
+#: inc/customizer/customind/build/customind.js:4
+msgid "Linear"
+msgstr "Линейный"
+
+#. translators: %1$s: Author prefix, %2$s: Author.
+#. translators: %1$s: Day prefix, %2$s: Day.
+#. translators: %1$s: Month prefix, %2$s: Month.
+#. translators: %1$s: Year prefix, %2$s: Year.
+#: inc/template-functions.php:186 inc/template-functions.php:202
+#: inc/template-functions.php:208 inc/template-functions.php:214
+#: inc/template-tags.php:68 inc/template-tags.php:84 inc/template-tags.php:90
+#: inc/template-tags.php:96
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#: inc/customizer/panels-sections/panels-sections.php:363
+msgid "Leave a Review on .org"
+msgstr "Оставить отзыв на .org"
+
+#: sidebar.php:36
+msgid "Click here to add widgets for this area"
+msgstr "Нажмите сюда, чтобы добавить виджеты для этой области"
+
+#: inc/compatibility/jetpack/class-zakra-jetpack.php:149
+msgid "Load More"
+msgstr "Загрузи больше"
+
+#. Translators: %1$s Zakra Pro link, %2$s Zakra Pro update link, %3$s Zakra Pro
+#. update link opening, %4$s Zakra Pro update link closing, %5$s Opening strong
+#. tag, %5$s Closing strong tag
+#: inc/admin/class-zakra-pro-minimum-version-notice.php:59
+msgid "Please update the %1$s plugin to latest version i.e %5$s4.2.0%6$s for %2$s to work properly. %5$s%3$sClick here to update Zakra Pro Plugin%4$s%6$s"
+msgstr ""
+
+#: functions.php:174
+msgid "Customizing"
+msgstr "Настройка"
+
+#: inc/customizer/build/customind.js:1
+#: inc/customizer/customind/build/customind.js:1
+msgid "Lowercase"
+msgstr "Нижний регистр"
+
+#: inc/customizer/build/customind.js:1
+#: inc/customizer/customind/build/customind.js:1
+msgid "Uppercase"
+msgstr "Верхний регистр"
+
+#: inc/customizer/build/customind.js:1
+#: inc/customizer/customind/build/customind.js:1
+msgid "Capitalize"
+msgstr "Заглавные буквы"
+
+#: inc/customizer/build/customind.js:1
+#: inc/customizer/customind/build/customind.js:1
+msgid "Oblique"
+msgstr "Наклоненный"
+
+#: inc/customizer/build/customind.js:1
+#: inc/customizer/customind/build/customind.js:1
+msgid "Italic"
+msgstr "Курсив"
+
+#: inc/customizer/build/customind.js:1
+#: inc/customizer/customind/build/customind.js:1
+msgid "Letter spacing"
+msgstr "Межбуквенный интервал"
+
+#: inc/customizer/build/customind.js:1
+#: inc/customizer/customind/build/customind.js:1
+msgid "Weight"
+msgstr "Масса"
+
+#: inc/customizer/options/header-builder/logo.php:33
+#: inc/customizer/options/header/site-identity.php:33
+msgid "Upload 2X times the size of your current logo. Eg: If your current logo size is 120*60 then upload 240*120 sized logo."
+msgstr "Загрузите в 2 раза больший размер вашего текущего логотипа. Например: если ваш текущий размер логотипа 120 * 60, загрузите логотип размером 240 * 120."
+
+#: inc/customizer/options/header-builder/primary-menu.php:132
+#: inc/customizer/options/header-builder/quaternary-menu.php:45
+#: inc/customizer/options/header-builder/secondary-menu.php:80
+#: inc/customizer/options/header-builder/tertiary-menu.php:81
+#: inc/customizer/options/header/primary-menu.php:172
+msgid "Active"
+msgstr "Активный"
+
+#: inc/customizer/options/global/typography.php:874
+msgid "H6"
+msgstr "H6"
+
+#: inc/customizer/options/global/typography.php:830
+msgid "H5"
+msgstr "H5"
+
+#: inc/customizer/options/global/typography.php:786
+msgid "H4"
+msgstr "H4"
+
+#: inc/customizer/options/global/typography.php:742
+msgid "H3"
+msgstr "H3"
+
+#: inc/customizer/options/global/typography.php:699
+msgid "H2"
+msgstr "H2"
+
+#: inc/customizer/options/global/typography.php:655
+msgid "H1"
+msgstr "H1"
+
+#: inc/customizer/options/global/content-area.php:23
+#: inc/customizer/options/global/layout.php:110
+msgid "Boxed"
+msgstr "Блочный"
+
+#: inc/customizer/options/global/content-area.php:19
+msgid "Wide"
+msgstr "Широкий"
+
+#: inc/customizer/options/footer/scroll-to-top.php:40
+msgid "Icon"
+msgstr "Значок"
+
+#: inc/customizer/options/footer/footer-column.php:254
+msgid "Widget List Item"
+msgstr "Элемент списка виджетов"
+
+#: inc/customizer/options/content/blog-sidebar.php:65
+msgid "Widget Content"
+msgstr "Виджет Содержание"
+
+#: inc/customizer/options/content/blog.php:270
+#: inc/customizer/options/footer-builder/copyright.php:57
+#: inc/customizer/options/footer-builder/footer-menu-2.php:38
+#: inc/customizer/options/footer-builder/footer-menu.php:38
+#: inc/customizer/options/footer-builder/html-1.php:42
+#: inc/customizer/options/footer-builder/html-2.php:42
+#: inc/customizer/options/footer-builder/main-area.php:80
+#: inc/customizer/options/footer/footer-bar.php:303
+#: inc/customizer/options/footer/footer-column.php:191
+#: inc/customizer/options/footer/scroll-to-top.php:29
+#: inc/customizer/options/footer/scroll-to-top.php:63
+#: inc/customizer/options/global/button.php:22
+#: inc/customizer/options/global/button.php:44
+#: inc/customizer/options/global/colors.php:202
+#: inc/customizer/options/header-builder/header-button.php:47
+#: inc/customizer/options/header-builder/header-button.php:68
+#: inc/customizer/options/header-builder/html-1.php:42
+#: inc/customizer/options/header-builder/html-2.php:42
+#: inc/customizer/options/header-builder/primary-menu.php:125
+#: inc/customizer/options/header-builder/quaternary-menu.php:38
+#: inc/customizer/options/header-builder/secondary-menu.php:73
+#: inc/customizer/options/header-builder/tertiary-menu.php:74
+#: inc/customizer/options/header/breadcrumb.php:82
+#: inc/customizer/options/header/header-button.php:83
+#: inc/customizer/options/header/header-button.php:105
+#: inc/customizer/options/header/primary-menu.php:165
+msgid "Hover"
+msgstr "При наведении"
+
+#: inc/customizer/options/content/blog.php:263
+#: inc/customizer/options/footer-builder/copyright.php:50
+#: inc/customizer/options/footer-builder/footer-menu-2.php:31
+#: inc/customizer/options/footer-builder/footer-menu.php:31
+#: inc/customizer/options/footer-builder/html-1.php:35
+#: inc/customizer/options/footer-builder/html-2.php:35
+#: inc/customizer/options/footer-builder/main-area.php:73
+#: inc/customizer/options/footer/footer-bar.php:296
+#: inc/customizer/options/footer/footer-column.php:184
+#: inc/customizer/options/footer/scroll-to-top.php:22
+#: inc/customizer/options/footer/scroll-to-top.php:56
+#: inc/customizer/options/global/button.php:15
+#: inc/customizer/options/global/button.php:37
+#: inc/customizer/options/global/colors.php:195
+#: inc/customizer/options/header-builder/header-button.php:40
+#: inc/customizer/options/header-builder/header-button.php:61
+#: inc/customizer/options/header-builder/html-1.php:35
+#: inc/customizer/options/header-builder/html-2.php:35
+#: inc/customizer/options/header-builder/logo.php:82
+#: inc/customizer/options/header-builder/primary-menu.php:118
+#: inc/customizer/options/header-builder/quaternary-menu.php:31
+#: inc/customizer/options/header-builder/secondary-menu.php:66
+#: inc/customizer/options/header-builder/tertiary-menu.php:67
+#: inc/customizer/options/header/breadcrumb.php:75
+#: inc/customizer/options/header/header-button.php:77
+#: inc/customizer/options/header/header-button.php:99
+#: inc/customizer/options/header/primary-menu.php:158
+#: inc/customizer/options/header/site-identity.php:82 assets/build/meta.js:1
+msgid "Normal"
+msgstr "Обычный"
+
+#: inc/customizer/options/footer-builder/widget-1.php:66
+#: inc/customizer/options/footer-builder/widget-2.php:66
+#: inc/customizer/options/footer-builder/widget-3.php:66
+#: inc/customizer/options/footer-builder/widget-4.php:66
+#: inc/customizer/options/footer-builder/widget-5.php:66
+#: inc/customizer/options/footer-builder/widget-6.php:66
+#: inc/customizer/options/footer/footer-bar.php:282
+#: inc/customizer/options/footer/footer-column.php:171
+#: inc/customizer/options/header-builder/header-button.php:19
+#: inc/customizer/options/header-builder/widget-1.php:66
+#: inc/customizer/options/header-builder/widget-2.php:66
+#: inc/customizer/options/header/header-button.php:35
+msgid "Link"
+msgstr "Ссылка"
+
+#: inc/customizer/options/footer/footer-column.php:147
+#: inc/customizer/options/header-builder/header-button.php:13
+#: inc/customizer/options/header/header-button.php:26
+msgid "Text"
+msgstr "Текст"
+
+#: inc/customizer/override-defaults.php:71
+msgid "Header Video URL"
+msgstr "Заголовок видео URL"
+
+#: inc/admin/class-zakra-theme-review-notice.php:135
+msgid "I have a query"
+msgstr "У меня есть запрос"
+
+#: inc/admin/class-zakra-theme-review-notice.php:120
+msgid "Sure, I'd love to!"
+msgstr "Конечно, я бы с удовольствием!"
+
+#. translators: %s: Smiley icon
+#: inc/admin/class-zakra-theme-review-notice.php:111
+msgid "Basically, it would encourage us to release updates regularly with new features & bug fixes so that you can keep on using the theme without any issues and also to provide free support like we have been doing. %s"
+msgstr "По сути, это побудило бы нас регулярно выпускать обновления с новыми Особенности и исправления ошибок, чтобы вы могли продолжать использовать тема без каких-либо проблем, а также для предоставления бесплатной поддержки, как и мы. %s"
+
+#: inc/admin/class-zakra-theme-review-notice.php:105
+msgid "What benefit would you have?"
+msgstr "Вам понравилось?"
+
+#. translators: %1$s: Opening of strong tag, %2$s: Theme's Name, %3$s: Closing
+#. of strong tag
+#: inc/admin/class-zakra-theme-review-notice.php:97
+msgid "Hope you are having a nice experience with %1$s %2$s %3$s theme. Please provide this theme a nice review."
+msgstr "Надеюсь, вам понравится %1$s %2$s %3$s тема. Пожалуйста, оставьте этой теме хороший отзыв."
+
+#. translators: %s: Smile icon
+#: inc/admin/class-zakra-theme-review-notice.php:88
+msgid "The above word is just to draw your attention. %s"
+msgstr "Вышеупомянутое слово просто привлекает ваше внимание. %s"
+
+#: inc/admin/class-zakra-theme-review-notice.php:80
+msgid "Zakra Logo"
+msgstr "Логотип Zakra"
+
+#: inc/customizer/options/footer-builder/copyright.php:23
+#: inc/customizer/options/footer/footer-bar.php:146
+msgid "Docs Link"
+msgstr "Ссылка на документы"
+
+#. translators: 1: Current Year, 2: Site Name, 3: Theme Link, 4: WordPress
+#. Link.
+#: inc/customizer/options/footer-builder/copyright.php:14
+#: inc/customizer/options/footer/footer-bar.php:137 inc/helper/utils.php:274
+#: inc/helper/utils.php:320
+msgid "Copyright &copy; %1$s %2$s. Powered by %3$s and %4$s."
+msgstr "Copyright & copy; %1$s %2$s. На платформе %3$s и %4$s."
+
+#: inc/helper/utils.php:294 inc/helper/utils.php:337
+msgid "WordPress"
+msgstr "WordPress"
+
+#: inc/customizer/options/header-builder/header-builder.php:41
+#: inc/customizer/options/header-builder/search.php:6
+#: inc/customizer/options/header/header-search.php:8
+#: inc/customizer/panels-sections/panels-sections.php:247
+#: inc/customizer/build/customind.js:1
+#: inc/customizer/customind/build/customind.js:1
+msgid "Search"
+msgstr "Поиск"
+
+#: inc/customizer/options/header-builder/header-button.php:23
+#: inc/customizer/options/header/header-button.php:39
+msgid "https://example.com"
+msgstr "https://example.com"
+
+#: inc/customizer/options/global/colors.php:178
+#: inc/customizer/options/header/header-button.php:141
+msgid "Border"
+msgstr "Граница"
+
+#: inc/customizer/options/footer/footer-column.php:115
+#: inc/customizer/build/customind.js:1
+#: inc/customizer/customind/build/customind.js:1
+msgid "Size"
+msgstr "Размер"
+
+#: inc/customizer/options/header/page-header.php:103
+msgid "Position"
+msgstr "Положение"
+
+#: inc/customizer/options/content/blog.php:339
+msgid "Full Content"
+msgstr "Полное содержание"
+
+#: inc/customizer/options/header/header-media.php:8
+#: inc/customizer/panels-sections/panels-sections.php:32
+msgid "Header Media"
+msgstr "Заголовок Медиа"
+
+#: inc/customizer/options/footer-builder/copyright.php:42
+#: inc/customizer/options/footer-builder/html-1.php:27
+#: inc/customizer/options/footer-builder/html-2.php:27
+#: inc/customizer/options/global/colors.php:187
+#: inc/customizer/options/header-builder/html-1.php:27
+#: inc/customizer/options/header-builder/html-2.php:27
+msgid "Links"
+msgstr "Ссылки"
+
+#: inc/customizer/options/content/blog.php:107
+#: inc/customizer/options/content/page.php:97
+#: inc/customizer/options/content/single-post.php:80
+#: inc/customizer/options/woocommerce/layout.php:94
+#: inc/customizer/options/woocommerce/single-product.php:102
+#: inc/customizer/options/woocommerce/woocommerce-page.php:102
+#: inc/customizer/panels-sections/panels-sections.php:192
+msgid "Sidebar Layout"
+msgstr "Макет Боковой панели"
+
+#: inc/customizer/panels-sections/panels-sections.php:52
+msgid "Colors"
+msgstr "Цвета"
+
+#: inc/customizer/options/footer-builder/bottom-area.php:28
+#: inc/customizer/options/footer-builder/main-area.php:28
+#: inc/customizer/options/footer-builder/top-area.php:28
+#: inc/customizer/options/global/layout.php:52
+#: inc/customizer/options/header-builder/bottom-area.php:16
+#: inc/customizer/options/header-builder/main-area.php:16
+#: inc/customizer/options/header-builder/top-area.php:18
+msgid "Container"
+msgstr "Контейнер"
+
+#: inc/customizer/panels-sections/panels-sections.php:5
+msgid "Global"
+msgstr "Общие"
+
+#: inc/admin/views/help.php:64 assets/build/dashboard.js:1
+msgid "X Community"
+msgstr "Сообщество X"
+
+#: inc/admin/class-zakra-welcome-notice.php:39 inc/admin/views/products.php:55
+#: inc/admin/views/products.php:131
+msgid "Learn More"
+msgstr "Читать больше"
+
+#: assets/build/dashboard.js:1
+msgid "Premium Features"
+msgstr "Премиум-функции"
+
+#: assets/build/dashboard.js:1
+msgid "Activate ThemeGrill Demo Importer Plugin"
+msgstr "Активируйте плагин ThemeGrill Demo Importer"
+
+#: inc/customizer/options/header-builder/logo.php:31
+#: inc/customizer/options/header/site-identity.php:31
+msgid "Retina Logo"
+msgstr "Логотип Retina"
+
+#: inc/customizer/options/additional/additional.php:32
+#: inc/customizer/options/content/blog-meta.php:34
+#: inc/customizer/options/content/blog-sidebar.php:119
+#: inc/customizer/options/content/blog.php:416
+#: inc/customizer/options/content/page.php:138
+#: inc/customizer/options/content/single-post.php:175
+#: inc/customizer/options/footer-builder/copyright.php:145
+#: inc/customizer/options/footer-builder/footer-menu-2.php:109
+#: inc/customizer/options/footer-builder/footer-menu.php:109
+#: inc/customizer/options/footer-builder/html-1.php:107
+#: inc/customizer/options/footer-builder/html-2.php:107
+#: inc/customizer/options/footer-builder/socials.php:62
+#: inc/customizer/options/footer-builder/widget-1.php:148
+#: inc/customizer/options/footer-builder/widget-2.php:148
+#: inc/customizer/options/footer-builder/widget-3.php:148
+#: inc/customizer/options/footer-builder/widget-4.php:148
+#: inc/customizer/options/footer-builder/widget-5.php:148
+#: inc/customizer/options/footer-builder/widget-6.php:148
+#: inc/customizer/options/footer/footer-bar.php:318
+#: inc/customizer/options/footer/footer-column.php:304
+#: inc/customizer/options/footer/scroll-to-top.php:77
+#: inc/customizer/options/global/button.php:138
+#: inc/customizer/options/global/colors.php:245
+#: inc/customizer/options/global/content-area.php:44
+#: inc/customizer/options/global/layout.php:184
+#: inc/customizer/options/global/sidebar.php:108
+#: inc/customizer/options/global/typography.php:908
+#: inc/customizer/options/header-builder/bottom-area.php:130
+#: inc/customizer/options/header-builder/cart.php:26
+#: inc/customizer/options/header-builder/header-button.php:177
+#: inc/customizer/options/header-builder/html-1.php:90
+#: inc/customizer/options/header-builder/html-2.php:90
+#: inc/customizer/options/header-builder/logo.php:221
+#: inc/customizer/options/header-builder/main-area.php:130
+#: inc/customizer/options/header-builder/mobile-menu.php:68
+#: inc/customizer/options/header-builder/offset-area.php:27
+#: inc/customizer/options/header-builder/primary-menu.php:248
+#: inc/customizer/options/header-builder/quaternary-menu.php:107
+#: inc/customizer/options/header-builder/search.php:58
+#: inc/customizer/options/header-builder/secondary-menu.php:194
+#: inc/customizer/options/header-builder/socials.php:45
+#: inc/customizer/options/header-builder/tertiary-menu.php:195
+#: inc/customizer/options/header-builder/toggle-button.php:8
+#: inc/customizer/options/header-builder/top-area.php:116
+#: inc/customizer/options/header-builder/widget-1.php:131
+#: inc/customizer/options/header-builder/widget-2.php:131
+#: inc/customizer/options/header/breadcrumb.php:96
+#: inc/customizer/options/header/header-button.php:178
+#: inc/customizer/options/header/header-media.php:18
+#: inc/customizer/options/header/header-search.php:35
+#: inc/customizer/options/header/main-header.php:190
+#: inc/customizer/options/header/page-header.php:196
+#: inc/customizer/options/header/primary-menu.php:354
+#: inc/customizer/options/header/site-identity.php:222
+#: inc/customizer/options/header/top-bar.php:215
+#: inc/customizer/options/woocommerce/woocommerce.php:103
+msgid "Unlock more features available in Pro version."
+msgstr "Разблокируйте больше функций, доступных в версии Pro."
+
+#: inc/customizer/options/additional/additional.php:33
+#: inc/customizer/options/content/blog-meta.php:35
+#: inc/customizer/options/content/blog-sidebar.php:120
+#: inc/customizer/options/content/blog.php:417
+#: inc/customizer/options/content/page.php:139
+#: inc/customizer/options/content/single-post.php:176
+#: inc/customizer/options/footer-builder/copyright.php:146
+#: inc/customizer/options/footer-builder/footer-menu-2.php:110
+#: inc/customizer/options/footer-builder/footer-menu.php:110
+#: inc/customizer/options/footer-builder/html-1.php:108
+#: inc/customizer/options/footer-builder/html-2.php:108
+#: inc/customizer/options/footer-builder/socials.php:63
+#: inc/customizer/options/footer-builder/widget-1.php:149
+#: inc/customizer/options/footer-builder/widget-2.php:149
+#: inc/customizer/options/footer-builder/widget-3.php:149
+#: inc/customizer/options/footer-builder/widget-4.php:149
+#: inc/customizer/options/footer-builder/widget-5.php:149
+#: inc/customizer/options/footer-builder/widget-6.php:149
+#: inc/customizer/options/footer/footer-bar.php:319
+#: inc/customizer/options/footer/footer-column.php:305
+#: inc/customizer/options/footer/scroll-to-top.php:78
+#: inc/customizer/options/global/button.php:139
+#: inc/customizer/options/global/colors.php:246
+#: inc/customizer/options/global/content-area.php:45
+#: inc/customizer/options/global/layout.php:185
+#: inc/customizer/options/global/sidebar.php:109
+#: inc/customizer/options/global/typography.php:909
+#: inc/customizer/options/header-builder/bottom-area.php:131
+#: inc/customizer/options/header-builder/cart.php:27
+#: inc/customizer/options/header-builder/header-button.php:178
+#: inc/customizer/options/header-builder/html-1.php:91
+#: inc/customizer/options/header-builder/html-2.php:91
+#: inc/customizer/options/header-builder/logo.php:222
+#: inc/customizer/options/header-builder/main-area.php:131
+#: inc/customizer/options/header-builder/mobile-menu.php:69
+#: inc/customizer/options/header-builder/offset-area.php:28
+#: inc/customizer/options/header-builder/primary-menu.php:249
+#: inc/customizer/options/header-builder/quaternary-menu.php:108
+#: inc/customizer/options/header-builder/search.php:56
+#: inc/customizer/options/header-builder/secondary-menu.php:195
+#: inc/customizer/options/header-builder/socials.php:46
+#: inc/customizer/options/header-builder/tertiary-menu.php:196
+#: inc/customizer/options/header-builder/toggle-button.php:9
+#: inc/customizer/options/header-builder/top-area.php:117
+#: inc/customizer/options/header-builder/widget-1.php:132
+#: inc/customizer/options/header-builder/widget-2.php:132
+#: inc/customizer/options/header/breadcrumb.php:97
+#: inc/customizer/options/header/header-button.php:179
+#: inc/customizer/options/header/header-media.php:19
+#: inc/customizer/options/header/header-search.php:36
+#: inc/customizer/options/header/main-header.php:191
+#: inc/customizer/options/header/page-header.php:197
+#: inc/customizer/options/header/primary-menu.php:355
+#: inc/customizer/options/header/site-identity.php:223
+#: inc/customizer/options/header/top-bar.php:216
+#: inc/customizer/options/woocommerce/woocommerce.php:104
+#: assets/build/dashboard.js:1
+msgid "Learn more"
+msgstr "Подробнее"
+
+#: inc/admin/class-zakra-upgrade-notice.php:105
+msgid "Got pre sales queries?"
+msgstr "Есть предварительные запросы на продажу?"
+
+#: inc/admin/class-zakra-upgrade-notice.php:95
+msgid "Upgrade to pro"
+msgstr "Обновитесь до pro"
+
+#. Translators: %1$s current user display name., %2$s this theme name., %3$s
+#. discount coupon code., %4$s discount percentage.
+#: inc/admin/class-zakra-upgrade-notice.php:80
+msgid "Howdy, %1$s! You've been using %2$s theme for a while now, and we hope you're happy with it. To access more premium features you can always upgrade to pro. All contents and settings will remain as it is after upgrading to pro, you basically start from where you left. Also, you can use the coupon code %3$s to get %4$s discount on Zakra Pro Plan (limited time offer) while making the purchase. Enjoy! "
+msgstr "Привет, %1$s! Вы уже давно используете тему %2$s, и мы надеемся, что она вам нравится. Чтобы получить доступ к дополнительным функциям премиум-класса, вы всегда можете перейти на профессиональную версию. Все содержимое и настройки останутся такими же, как и после обновления до Pro, вы в основном начинаете с того места, где остановились. Кроме того, вы можете использовать код купона %3$s, чтобы получить скидку %4$s (предложение ограничено по времени) при совершении покупки. Наслаждаться! "
+
+#: inc/admin/class-zakra-welcome-notice.php:33
+msgid "Get started"
+msgstr "Приступить"
+
+#: inc/customizer/panels-sections/panels-sections.php:375
+msgid "View Pro Version"
+msgstr "Посмотреть версию Pro"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:229
+msgid "Disable"
+msgstr "Отключить"
+
+#: inc/customizer/options/additional/additional.php:6
+#: inc/customizer/options/content/blog.php:354
+#: inc/customizer/options/footer/footer-column.php:14
+#: inc/customizer/options/footer/footer-column.php:223
+#: inc/customizer/options/footer/scroll-to-top.php:7
+#: inc/customizer/options/global/builder.php:13
+#: inc/customizer/options/header-builder/logo.php:66
+#: inc/customizer/options/header/breadcrumb.php:7
+#: inc/customizer/options/header/header-button.php:20
+#: inc/customizer/options/header/header-search.php:14
+#: inc/customizer/options/header/page-header.php:4
+#: inc/customizer/options/header/primary-menu.php:19
+#: inc/customizer/options/header/site-identity.php:66
+#: inc/customizer/options/header/top-bar.php:20
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:225
+msgid "Enable"
+msgstr "Включить"
+
+#: inc/customizer/options/content/blog-meta.php:8
+#: inc/customizer/panels-sections/panels-sections.php:152
+msgid "Meta"
+msgstr "Мета"
+
+#: inc/admin/class-zakra-theme-review-notice.php:125
+msgid "I already did!"
+msgstr "Я уже сделал!"
+
+#: inc/admin/class-zakra-theme-review-notice.php:130
+#: inc/admin/class-zakra-upgrade-notice.php:100
+msgid "Maybe later"
+msgstr "Возможно позже"
+
+#: inc/customizer/panels-sections/panels-sections.php:107
+#: inc/customizer/panels-sections/panels-sections.php:242
+msgid "Header Button"
+msgstr "Кнопка заголовка"
+
+#: inc/customizer/options/header-builder/header-button.php:28
+#: inc/customizer/options/header/header-button.php:47
+msgid "Open link in a new tab"
+msgstr "Открывать ссылку в новой вкладке"
+
+#: inc/customizer/options/woocommerce/woocommerce.php:79
+#: inc/customizer/options/woocommerce/woocommerce.php:87
+#: inc/customizer/panels-sections/panels-sections.php:187
+msgid "Single Product"
+msgstr "Отдельный товар"
+
+#: inc/customizer/options/woocommerce/woocommerce.php:58
+#: inc/customizer/options/woocommerce/woocommerce.php:66
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: inc/core/class-zakra-widgets.php:99
+msgid "WooCommerce Right Sidebar"
+msgstr "Правый сайдбар WooCommerce"
+
+#: inc/core/class-zakra-widgets.php:98
+msgid "WooCommerce Left Sidebar"
+msgstr "Левый сайдбар WooCommerce"
+
+#: inc/customizer/options/header-builder/logo.php:143
+#: inc/customizer/options/header/site-identity.php:143
+msgid "Tagline"
+msgstr "Краткое описание"
+
+#: inc/customizer/options/header-builder/logo.php:59
+#: inc/customizer/options/header/site-identity.php:59
+msgid "Site Title"
+msgstr "Название сайта"
+
+#: inc/customizer/options/header-builder/logo.php:8
+#: inc/customizer/options/header/site-identity.php:8
+#: inc/customizer/panels-sections/panels-sections.php:29
+#: assets/build/dashboard.js:1
+msgid "Site Identity"
+msgstr "Свойства сайта"
+
+#: inc/admin/class-zakra-admin.php:69
+msgid "Processing..."
+msgstr "Обработка…"
+
+#. Template Name of the theme
+msgid "Page Builder"
+msgstr "Конструктор страниц"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий для &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария для &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s комментариев для &ldquo;%2$s&rdquo;"
+
+#. translators: 1: title.
+#: comments.php:35
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Один комментарий к &ldquo;%1$s&rdquo;"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:52
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Редактировать <span class=\"screen-reader-text\">%s</span>"
+
+#: template-parts/content-none.php:55
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Запрошенную информацию найти не удалось. Возможно, будет полезен поиск по сайту."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:35
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните здесь</a>."
+
+#: template-parts/content-none.php:15
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: inc/hooks/content.php:21
+msgid "Read More"
+msgstr "Читать далее"
+
+#: template-parts/entry/entry-content.php:41
+#: template-parts/entry/entry-summary.php:39
+msgid "Pages:"
+msgstr "Страницы:"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/entry/entry-content.php:24
+#: template-parts/entry/entry-summary.php:25
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Продолжить чтение<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: inc/template-functions.php:230 inc/template-functions.php:272
+#: inc/template-tags.php:53
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Упс! Страница не найдена."
+
+#: inc/template-functions.php:234
+msgid "Search Results"
+msgstr "Результаты поиска"
+
+#: inc/template-functions.php:227 inc/template-tags.php:50
+msgid "Page Not Found"
+msgstr "Страница не найдена"
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:238
+msgid "Tagged %1$s"
+msgstr "Отмечено тегами %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:243
+msgctxt "list item separator"
+msgid ", "
+msgstr ", "
+
+#. translators: %s: post title
+#: inc/template-tags.php:213
+msgid "No Comments<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Нет комментариев<span class=\"screen-reader-text\"> для %s</span>"
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:183
+msgid "Posted in %1$s"
+msgstr "Опубликовано в рубрике %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:188
+msgid ", "
+msgstr ", "
+
+#. translators: %s: post author.
+#: inc/template-tags.php:162
+msgctxt "post author"
+msgid "By %s"
+msgstr "От %s"
+
+#. translators: %s: post date.
+#: inc/template-tags.php:126
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Опубликовано %s"
+
+#: template-parts/footer/scroll-to-top.php:20
+#: template-parts/footer/scroll-to-top.php:25
+msgid "Scroll to top"
+msgstr "Пролистать наверх"
+
+#: template-parts/hooks/header/header.php:69
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: inc/customizer/options/footer-builder/copyright.php:131
+#: inc/customizer/options/footer-builder/footer-menu-2.php:95
+#: inc/customizer/options/footer-builder/footer-menu.php:95
+#: inc/customizer/options/footer-builder/html-1.php:93
+#: inc/customizer/options/footer-builder/html-2.php:93
+#: inc/customizer/options/footer-builder/socials.php:48
+#: inc/customizer/options/footer-builder/widget-1.php:134
+#: inc/customizer/options/footer-builder/widget-2.php:134
+#: inc/customizer/options/footer-builder/widget-3.php:134
+#: inc/customizer/options/footer-builder/widget-4.php:134
+#: inc/customizer/options/footer-builder/widget-5.php:134
+#: inc/customizer/options/footer-builder/widget-6.php:134
+msgid "Left"
+msgstr "Слева"
+
+#: inc/customizer/options/header-builder/header-builder.php:242
+msgid "Bottom"
+msgstr "Снизу"
+
+#: inc/customizer/options/footer-builder/copyright.php:133
+#: inc/customizer/options/footer-builder/footer-menu-2.php:97
+#: inc/customizer/options/footer-builder/footer-menu.php:97
+#: inc/customizer/options/footer-builder/html-1.php:95
+#: inc/customizer/options/footer-builder/html-2.php:95
+#: inc/customizer/options/footer-builder/socials.php:50
+#: inc/customizer/options/footer-builder/widget-1.php:136
+#: inc/customizer/options/footer-builder/widget-2.php:136
+#: inc/customizer/options/footer-builder/widget-3.php:136
+#: inc/customizer/options/footer-builder/widget-4.php:136
+#: inc/customizer/options/footer-builder/widget-5.php:136
+#: inc/customizer/options/footer-builder/widget-6.php:136
+#: inc/customizer/build/customind.js:1
+#: inc/customizer/customind/build/customind.js:1
+msgid "Right"
+msgstr "Справа"
+
+#: inc/customizer/build/customind.js:1
+#: inc/customizer/customind/build/customind.js:1
+msgid "Fixed"
+msgstr "Зафиксировать"
+
+#: inc/customizer/build/customind.js:1
+#: inc/customizer/customind/build/customind.js:1
+msgid "Scroll"
+msgstr "Прокрутка"
+
+#: inc/customizer/build/customind.js:1
+#: inc/customizer/customind/build/customind.js:1
+msgid "Auto"
+msgstr "Автоматически"
+
+#: inc/customizer/build/customind.js:1
+#: inc/customizer/customind/build/customind.js:1
+msgid "Contain"
+msgstr "Содержать"
+
+#: inc/customizer/build/customind.js:1
+#: inc/customizer/customind/build/customind.js:1
+msgid "Cover"
+msgstr "Обложка"
+
+#: inc/customizer/build/customind.js:1
+#: inc/customizer/customind/build/customind.js:1
+msgid "Repeat Vertically"
+msgstr "Повторить вертикально"
+
+#: inc/customizer/build/customind.js:1
+#: inc/customizer/customind/build/customind.js:1
+msgid "Repeat Horizontally"
+msgstr "Повторить горизонтально"
+
+#: inc/customizer/build/customind.js:1
+#: inc/customizer/customind/build/customind.js:1
+msgid "No Repeat"
+msgstr "Не повторять"
+
+#: assets/build/meta.js:1 inc/customizer/customind/build/customind.js:1
+msgid "Remove"
+msgstr "Удалить"
+
+#: inc/customizer/build/customind.js:1
+#: inc/customizer/customind/build/customind.js:1
+msgid "Line height"
+msgstr "Высота строки"
+
+#: inc/customizer/build/customind.js:1
+#: inc/customizer/customind/build/customind.js:1
+msgid "Font family"
+msgstr "Семейство шрифтов"
+
+#: inc/customizer/options/footer-builder/main-area.php:163
+#: inc/customizer/options/footer/footer-bar.php:130
+#: inc/customizer/options/footer/footer-bar.php:213
+#: inc/customizer/options/footer/footer-column.php:208
+#: inc/customizer/options/header/top-bar.php:93
+#: inc/customizer/options/header/top-bar.php:158
+#: inc/customizer/panels-sections/panels-sections.php:117
+msgid "Widget"
+msgstr "Виджет"
+
+#: inc/customizer/options/footer/footer-bar.php:128
+#: inc/customizer/options/footer/footer-bar.php:211
+#: inc/customizer/options/header/top-bar.php:91
+#: inc/customizer/options/header/top-bar.php:156
+msgid "Text/HTML"
+msgstr "Текст/HTML"
+
+#: inc/customizer/options/footer-builder/main-area.php:197
+#: inc/customizer/options/footer/footer-column.php:282
+#: inc/customizer/options/header-builder/primary-menu.php:60
+#: inc/customizer/options/header-builder/secondary-menu.php:41
+#: inc/customizer/options/header-builder/tertiary-menu.php:42
+msgid "Border Bottom Color"
+msgstr "Цвет нижней границы"
+
+#: inc/customizer/options/header-builder/primary-menu.php:39
+#: inc/customizer/options/header/main-header.php:132
+#: inc/customizer/options/header/primary-menu.php:44
+msgid "Border Bottom"
+msgstr "Граница подвала"
+
+#: inc/customizer/options/global/sidebar.php:79
+#: inc/customizer/panels-sections/panels-sections.php:357
+msgid "Page"
+msgstr "Страница"
+
+#: inc/customizer/options/footer-builder/bottom-area.php:127
+#: inc/customizer/options/footer-builder/main-area.php:151
+#: inc/customizer/options/footer-builder/top-area.php:127
+#: inc/customizer/options/header-builder/bottom-area.php:115
+#: inc/customizer/options/header-builder/header-builder.php:314
+#: inc/customizer/options/header-builder/header-button.php:147
+#: inc/customizer/options/header-builder/main-area.php:115
+#: inc/customizer/options/header-builder/top-area.php:100
+msgid "Border Color"
+msgstr "Цвет границы"
+
+#: inc/customizer/options/global/typography.php:603
+msgid "Heading"
+msgstr "Заголовок"
+
+#: inc/customizer/options/global/typography.php:575
+msgid "Body"
+msgstr "Тело"
+
+#: inc/customizer/options/content/blog.php:252
+#: inc/customizer/options/footer-builder/bottom-area.php:57
+#: inc/customizer/options/footer-builder/copyright.php:34
+#: inc/customizer/options/footer-builder/html-1.php:19
+#: inc/customizer/options/footer-builder/html-2.php:19
+#: inc/customizer/options/footer-builder/main-area.php:57
+#: inc/customizer/options/footer-builder/top-area.php:57
+#: inc/customizer/options/footer/footer-bar.php:100
+#: inc/customizer/options/footer/footer-bar.php:270
+#: inc/customizer/options/footer/footer-bar.php:290
+#: inc/customizer/options/footer/footer-column.php:131
+#: inc/customizer/options/footer/footer-column.php:153
+#: inc/customizer/options/footer/footer-column.php:178
+#: inc/customizer/options/footer/footer-column.php:233
+#: inc/customizer/options/footer/scroll-to-top.php:50
+#: inc/customizer/options/global/button.php:8
+#: inc/customizer/options/header-builder/bottom-area.php:45
+#: inc/customizer/options/header-builder/cart.php:14
+#: inc/customizer/options/header-builder/header-button.php:34
+#: inc/customizer/options/header-builder/html-1.php:19
+#: inc/customizer/options/header-builder/html-2.php:19
+#: inc/customizer/options/header-builder/logo.php:74
+#: inc/customizer/options/header-builder/logo.php:157
+#: inc/customizer/options/header-builder/main-area.php:45
+#: inc/customizer/options/header-builder/search.php:21
+#: inc/customizer/options/header-builder/top-area.php:47
+#: inc/customizer/options/header/breadcrumb.php:67
+#: inc/customizer/options/header/header-button.php:71
+#: inc/customizer/options/header/main-header.php:155
+#: inc/customizer/options/header/page-header.php:135
+#: inc/customizer/options/header/primary-menu.php:73
+#: inc/customizer/options/header/site-identity.php:74
+#: inc/customizer/options/header/site-identity.php:157
+#: inc/customizer/options/header/top-bar.php:45
+msgid "Color"
+msgstr "Цвет"
+
+#: inc/customizer/options/footer/footer-bar.php:77
+#: inc/customizer/options/footer/footer-column.php:101
+msgid "Border Top"
+msgstr "Верхняя граница"
+
+#: inc/customizer/options/content/blog.php:323
+#: inc/customizer/options/content/blog.php:338
+msgid "Excerpt"
+msgstr "Отрывок"
+
+#: inc/customizer/panels-sections/panels-sections.php:17
+msgid "Post Content"
+msgstr "Содержимое записи"
+
+#: inc/customizer/options/footer-builder/main-area.php:65
+msgid "Link Color"
+msgstr "Цвет ссылки"
+
+#: inc/customizer/options/header/breadcrumb.php:55
+msgid "Separator Color"
+msgstr "Цвет разделителя"
+
+#: inc/customizer/options/footer-builder/bottom-area.php:87
+#: inc/customizer/options/footer-builder/main-area.php:111
+#: inc/customizer/options/footer-builder/top-area.php:87
+#: inc/customizer/options/global/button.php:102
+#: inc/customizer/options/header-builder/bottom-area.php:75
+#: inc/customizer/options/header-builder/header-button.php:123
+#: inc/customizer/options/header-builder/main-area.php:75
+#: inc/customizer/options/header-builder/top-area.php:77
+#: inc/customizer/options/header/header-button.php:122
+#: inc/customizer/options/header/page-header.php:86
+msgid "Padding"
+msgstr "Внутренний отступ"
+
+#: inc/customizer/options/content/blog.php:368
+#: inc/customizer/options/footer-builder/copyright.php:127
+#: inc/customizer/options/footer-builder/footer-menu-2.php:92
+#: inc/customizer/options/footer-builder/footer-menu.php:92
+#: inc/customizer/options/footer-builder/html-1.php:89
+#: inc/customizer/options/footer-builder/html-2.php:89
+#: inc/customizer/options/footer-builder/socials.php:44
+#: inc/customizer/options/footer-builder/widget-1.php:130
+#: inc/customizer/options/footer-builder/widget-2.php:130
+#: inc/customizer/options/footer-builder/widget-3.php:130
+#: inc/customizer/options/footer-builder/widget-4.php:130
+#: inc/customizer/options/footer-builder/widget-5.php:130
+#: inc/customizer/options/footer-builder/widget-6.php:130
+msgid "Alignment"
+msgstr "Выравнивание"
+
+#: inc/customizer/options/footer-builder/html-1.php:50
+#: inc/customizer/options/footer-builder/html-2.php:50
+#: inc/customizer/options/header-builder/html-1.php:50
+#: inc/customizer/options/header-builder/html-2.php:50
+#: inc/customizer/build/customind.js:1
+#: inc/customizer/customind/build/customind.js:1
+msgid "Font Size"
+msgstr "Размер шрифта"
+
+#: inc/customizer/options/header-builder/search.php:28
+#: inc/customizer/options/header/breadcrumb.php:44
+msgid "Text Color"
+msgstr "Цвет текста"
+
+#: inc/customizer/options/header/page-header.php:127
+msgid "Div"
+msgstr "Div"
+
+#: inc/customizer/options/header/page-header.php:126
+msgid "Paragraph"
+msgstr "Параграф"
+
+#: inc/customizer/options/header/page-header.php:125
+msgid "Span"
+msgstr "Интервал"
+
+#: inc/customizer/options/header/page-header.php:124
+msgid "Heading 6"
+msgstr "Заголовок 6"
+
+#: inc/customizer/options/header/page-header.php:123
+msgid "Heading 5"
+msgstr "Заголовок 5"
+
+#: inc/customizer/options/header/page-header.php:122
+msgid "Heading 4"
+msgstr "Заголовок 4"
+
+#: inc/customizer/options/header/page-header.php:121
+msgid "Heading 3"
+msgstr "Заголовок 3"
+
+#: inc/customizer/options/header/page-header.php:120
+msgid "Heading 2"
+msgstr "Заголовок 2"
+
+#: inc/customizer/options/header/page-header.php:119
+msgid "Heading 1"
+msgstr "Заголовок 1"
+
+#: inc/customizer/options/header/page-header.php:116
+msgid "Markup"
+msgstr "Разметка"
+
+#: inc/customizer/options/global/content-area.php:8
+#: inc/customizer/options/header/page-header.php:107
+#: inc/customizer/panels-sections/panels-sections.php:62
+msgid "Content Area"
+msgstr "Область содержимого"
+
+#: inc/customizer/options/content/blog.php:231
+#: inc/customizer/options/content/single-post.php:159
+msgid "Tags"
+msgstr "Метки"
+
+#: inc/customizer/options/content/blog.php:230
+#: inc/customizer/options/content/single-post.php:158
+msgid "Date"
+msgstr "Дата"
+
+#: inc/customizer/options/content/blog.php:229
+#: inc/customizer/options/content/single-post.php:157
+msgid "Author"
+msgstr "Автор"
+
+#: inc/customizer/options/content/blog.php:228
+#: inc/customizer/options/content/single-post.php:156
+msgid "Categories"
+msgstr "Рубрики"
+
+#: inc/customizer/options/content/blog.php:227
+#: inc/customizer/options/content/single-post.php:155
+msgid "Comments"
+msgstr "Комментарии"
+
+#: inc/customizer/options/content/blog.php:201
+#: inc/customizer/options/content/single-post.php:132
+msgid "Content"
+msgstr "Содержимое"
+
+#: inc/customizer/options/content/blog.php:200
+#: inc/customizer/options/content/single-post.php:131
+msgid "Meta Tags"
+msgstr "Мета-тег"
+
+#: inc/customizer/options/content/blog.php:199
+#: inc/customizer/options/content/blog.php:246
+#: inc/customizer/options/content/single-post.php:130
+#: inc/customizer/options/footer/footer-column.php:216
+msgid "Title"
+msgstr "Заголовок"
+
+#: inc/customizer/options/content/blog.php:198
+#: inc/customizer/options/content/single-post.php:129
+msgid "Featured Image"
+msgstr "Изображение записи"
+
+#: inc/customizer/panels-sections/panels-sections.php:167
+msgid "Scroll to Top"
+msgstr "Пролистать наверх"
+
+#: inc/customizer/panels-sections/panels-sections.php:21
+#: inc/customizer/panels-sections/panels-sections.php:25
+msgid "Footer"
+msgstr "Подвал"
+
+#: inc/customizer/options/content/blog-sidebar.php:55
+#: inc/customizer/options/content/blog-sidebar.php:109
+#: inc/customizer/options/content/blog.php:314
+#: inc/customizer/options/footer-builder/copyright.php:100
+#: inc/customizer/options/footer-builder/footer-menu-2.php:80
+#: inc/customizer/options/footer-builder/footer-menu.php:80
+#: inc/customizer/options/global/button.php:88
+#: inc/customizer/options/header-builder/header-button.php:111
+#: inc/customizer/options/header-builder/logo.php:129
+#: inc/customizer/options/header-builder/logo.php:204
+#: inc/customizer/options/header-builder/mobile-menu.php:54
+#: inc/customizer/options/header-builder/primary-menu.php:181
+#: inc/customizer/options/header-builder/primary-menu.php:233
+#: inc/customizer/options/header-builder/quaternary-menu.php:94
+#: inc/customizer/options/header-builder/secondary-menu.php:129
+#: inc/customizer/options/header-builder/secondary-menu.php:180
+#: inc/customizer/options/header-builder/tertiary-menu.php:130
+#: inc/customizer/options/header-builder/tertiary-menu.php:181
+#: inc/customizer/options/header/breadcrumb.php:35
+#: inc/customizer/options/header/page-header.php:184
+#: inc/customizer/options/header/primary-menu.php:221
+#: inc/customizer/options/header/primary-menu.php:275
+#: inc/customizer/options/header/primary-menu.php:334
+#: inc/customizer/options/header/site-identity.php:129
+#: inc/customizer/options/header/site-identity.php:204
+#: inc/customizer/panels-sections/panels-sections.php:47
+msgid "Typography"
+msgstr "Типографика"
+
+#: inc/customizer/options/content/blog.php:344
+#: inc/customizer/options/header-builder/header-builder.php:92
+#: inc/customizer/panels-sections/panels-sections.php:72
+msgid "Button"
+msgstr "Кнопка"
+
+#: inc/customizer/options/footer-builder/bottom-area.php:73
+#: inc/customizer/options/footer-builder/main-area.php:97
+#: inc/customizer/options/footer-builder/top-area.php:73
+#: inc/customizer/options/footer/footer-bar.php:64
+#: inc/customizer/options/footer/footer-column.php:83
+#: inc/customizer/options/footer/scroll-to-top.php:15
+#: inc/customizer/options/global/button.php:30
+#: inc/customizer/options/header-builder/bottom-area.php:61
+#: inc/customizer/options/header-builder/header-builder.php:292
+#: inc/customizer/options/header-builder/header-button.php:55
+#: inc/customizer/options/header-builder/main-area.php:61
+#: inc/customizer/options/header-builder/offset-area.php:14
+#: inc/customizer/options/header-builder/search.php:42
+#: inc/customizer/options/header-builder/top-area.php:64
+#: inc/customizer/options/header/header-button.php:93
+#: inc/customizer/options/header/main-header.php:121
+#: inc/customizer/options/header/page-header.php:70
+#: inc/customizer/options/header/top-bar.php:65
+msgid "Background"
+msgstr "Фон"
+
+#: template-parts/page-header/page-header.php:92
+msgid "Breadcrumbs"
+msgstr "Хлебные крошки"
+
+#: inc/customizer/options/content/blog.php:144
+#: inc/customizer/options/header/page-header.php:97
+msgid "Page Title"
+msgstr "Заголовок страницы"
+
+#: inc/customizer/options/global/sidebar.php:68
+#: inc/customizer/panels-sections/panels-sections.php:147
+#: assets/build/dashboard.js:1
+msgid "Single Post"
+msgstr "Одиночная запись"
+
+#: inc/core/class-zakra-after-setup-theme.php:337
+#: inc/customizer/options/header-builder/header-builder.php:87
+#: inc/customizer/options/header-builder/mobile-menu.php:11
+#: inc/customizer/options/header/primary-menu.php:292
+#: inc/customizer/panels-sections/panels-sections.php:222
+#: assets/build/dashboard.js:1
+msgid "Mobile Menu"
+msgstr "Мобильное Меню"
+
+#: inc/customizer/options/footer/footer-bar.php:129
+#: inc/customizer/options/footer/footer-bar.php:212
+#: inc/customizer/options/header/top-bar.php:92
+#: inc/customizer/options/header/top-bar.php:157
+msgid "Menu"
+msgstr "Меню"
+
+#: inc/admin/views/free-vs-pro.php:201 inc/admin/views/header.php:78
+msgid "Pro"
+msgstr "Про"
+
+#: inc/admin/views/help.php:197 inc/admin/views/products.php:137
+#: assets/build/dashboard.js:1
+msgid "Activated"
+msgstr "Активировано"
+
+#: inc/admin/class-zakra-notice.php:48 inc/admin/class-zakra-notice.php:67
+#: inc/admin/class-zakra-welcome-notice.php:199
+msgid "Cheatin&#8217; huh?"
+msgstr "Эй! Жульничаем?"
+
+#: inc/admin/class-zakra-demo-import-migration-notice.php:80
+#: inc/admin/class-zakra-notice.php:44 inc/admin/class-zakra-notice.php:63
+#: inc/admin/class-zakra-pro-minimum-version-notice.php:80
+#: inc/admin/class-zakra-theme-review-notice.php:157
+#: inc/admin/class-zakra-theme-review-notice.php:175
+#: inc/admin/class-zakra-welcome-notice.php:195
+#: inc/migration/class-zakra-migration.php:2654
+msgid "Action failed. Please refresh the page and retry."
+msgstr "Действие не удалось. Обновите страницу и попробуйте снова."
+
+#: assets/build/dashboard.js:1
+msgid "Customize"
+msgstr "Настроить"
+
+#: assets/build/dashboard.js:1
+msgid "Documentation"
+msgstr "Документация"
+
+#: inc/admin/views/help.php:43 assets/build/dashboard.js:1
+msgid "Support"
+msgstr "Поддержка"
+
+#: inc/class-breadcrumb-trail.php:790
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "W"
+
+#: inc/class-breadcrumb-trail.php:763 inc/class-breadcrumb-trail.php:1203
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "j"
+
+#: inc/class-breadcrumb-trail.php:762 inc/class-breadcrumb-trail.php:828
+#: inc/class-breadcrumb-trail.php:1201
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "F"
+
+#: inc/class-breadcrumb-trail.php:761 inc/class-breadcrumb-trail.php:789
+#: inc/class-breadcrumb-trail.php:827 inc/class-breadcrumb-trail.php:853
+#: inc/class-breadcrumb-trail.php:1199
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/class-breadcrumb-trail.php:745
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "H"
+
+#: inc/class-breadcrumb-trail.php:728
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "i"
+
+#: inc/class-breadcrumb-trail.php:711
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "H:i"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: inc/class-breadcrumb-trail.php:281
+msgid "Week %s"
+msgstr "Неделя %s"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: inc/class-breadcrumb-trail.php:279
+msgid "Minute %s"
+msgstr "Минута %s"
+
+#. Translators: %s is the page number.
+#: inc/class-breadcrumb-trail.php:277
+msgid "Comment Page %s"
+msgstr "Страница комментариев %s"
+
+#. Translators: %s is the page number.
+#: inc/class-breadcrumb-trail.php:275
+msgid "Page %s"
+msgstr "Страница %s"
+
+#. Translators: %s is the search query.
+#: inc/class-breadcrumb-trail.php:273
+msgid "Search results for: %s"
+msgstr "Результаты поиска: %s"
+
+#: inc/class-breadcrumb-trail.php:271
+msgid "Archives"
+msgstr "Архивы"
+
+#: inc/class-breadcrumb-trail.php:270
+msgid "404 Not Found"
+msgstr "404 Не найдено"
+
+#: inc/class-breadcrumb-trail.php:269
+msgid "Home"
+msgstr "Главная"
+
+#: inc/class-breadcrumb-trail.php:268
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "Хлебные крошки"
+
+#: inc/class-breadcrumb-trail.php:267
+msgid "Browse:"
+msgstr "Обзор:"
+
+#: inc/meta-boxes/class-zakra-meta-box.php:209
+msgid "Page Settings"
+msgstr "Настройки Страницы"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:413
+#: assets/build/meta.js:1
+msgid "Enable Page Header"
+msgstr "Включить шапку страницы"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:393
+msgid "Right Border"
+msgstr "Правая граница"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:385
+msgid "Left Border"
+msgstr "Левая граница"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:377
+msgid "Underline Border"
+msgstr "Подчеркнуть границу"
+
+#: inc/customizer/options/footer/footer-bar.php:127
+#: inc/customizer/options/footer/footer-bar.php:210
+#: inc/customizer/options/header/top-bar.php:90
+#: inc/customizer/options/header/top-bar.php:155 inc/helper/utils.php:438
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:369
+msgid "None"
+msgstr "Ничего"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:364
+#: assets/build/meta.js:1
+msgid "Active Menu Item Style"
+msgstr "Стиль элемента активного меню"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:354
+#: assets/build/meta.js:1
+msgid "Menu Item Active Color"
+msgstr "Цвет элемента активного меню"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:344
+#: assets/build/meta.js:1
+msgid "Menu Item Hover Color"
+msgstr "Меню элемента активного меню"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:332
+#: assets/build/meta.js:1
+msgid "Menu Item Color"
+msgstr "Цвет элемента меню"
+
+#: inc/customizer/options/content/blog.php:55
+#: inc/customizer/options/content/single-post.php:55
+#: inc/customizer/options/footer/footer-bar.php:23
+#: inc/customizer/options/footer/footer-bar.php:50
+#: inc/customizer/options/footer/footer-column.php:66
+#: inc/customizer/options/global/layout.php:46
+#: inc/customizer/options/header/header-button.php:63
+#: inc/customizer/options/header/main-header.php:106
+#: inc/customizer/options/header/page-header.php:54
+#: inc/customizer/options/header/primary-menu.php:144
+#: inc/customizer/options/header/top-bar.php:37
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:276
+#: assets/build/meta.js:1 inc/customizer/build/customind.js:1
+#: inc/customizer/customind/build/customind.js:1
+msgid "Style"
+msgstr "Стиль"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:261
+msgid "Remove Logo"
+msgstr "Убрать логотип"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:257
+msgid "Upload Logo"
+msgstr "Загрузить логотип"
+
+#: inc/customizer/options/header-builder/header-builder.php:82
+#: inc/customizer/options/header-builder/logo.php:22
+#: inc/customizer/options/header/site-identity.php:22
+#: inc/customizer/panels-sections/panels-sections.php:197
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:244
+#: assets/build/meta.js:1
+msgid "Logo"
+msgstr "Логотип"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:216
+#: assets/build/meta.js:1
+msgid "Enable Transparent Header"
+msgstr "Включить прозрачный заголовок"
+
+#: inc/customizer/options/global/sidebar.php:46
+#: inc/customizer/options/woocommerce/woocommerce.php:45
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:186
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:221
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:368
+#: assets/build/meta.js:1 inc/customizer/build/customind.js:1
+#: inc/customizer/customind/build/customind.js:1
+msgid "Default"
+msgstr "По умолчанию"
+
+#: inc/customizer/options/global/layout.php:134
+#: inc/customizer/panels-sections/panels-sections.php:67
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:180
+#: assets/build/dashboard.js:1 assets/build/meta.js:1
+msgid "Sidebar"
+msgstr "Боковая панель"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:170
+#: assets/build/meta.js:1
+msgid "Remove content padding"
+msgstr "Удалить внешний отступ содержимого"
+
+#: inc/customizer/options/content/blog-meta.php:14
+#: inc/customizer/options/global/content-area.php:14
+#: inc/customizer/options/global/layout.php:60
+#: inc/customizer/options/global/layout.php:145
+#: inc/customizer/options/global/sidebar.php:38
+#: inc/customizer/options/header/main-header.php:17
+#: inc/customizer/options/header/page-header.php:12
+#: inc/customizer/options/woocommerce/woocommerce.php:37
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:118
+#: assets/build/meta.js:1
+msgid "Layout"
+msgstr "Макет"
+
+#: inc/customizer/options/header/page-header.php:106
+#: inc/customizer/panels-sections/panels-sections.php:122
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:94
+msgid "Page Header"
+msgstr "Заголовок страницы"
+
+#: inc/core/class-zakra-after-setup-theme.php:331
+#: inc/customizer/options/header-builder/header-builder.php:16
+#: inc/customizer/options/header-builder/primary-menu.php:11
+#: inc/customizer/options/header/primary-menu.php:8
+#: inc/customizer/panels-sections/panels-sections.php:97
+#: inc/customizer/panels-sections/panels-sections.php:202
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:89
+#: template-parts/header-builder-elements/toggle-button.php:35
+#: template-parts/header/primary-menu/mobile-toggle.php:32
+#: assets/build/dashboard.js:1
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: inc/customizer/panels-sections/panels-sections.php:13
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:84
+msgid "Header"
+msgstr "Заголовок"
+
+#: inc/customizer/options/content/blog.php:54
+#: inc/customizer/options/content/single-post.php:54
+#: inc/customizer/options/footer/footer-bar.php:16
+#: inc/customizer/options/global/layout.php:45
+#: inc/customizer/options/header/header-button.php:15
+#: inc/customizer/options/header/primary-menu.php:15
+#: inc/customizer/options/header/top-bar.php:15
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:79
+msgid "General"
+msgstr "Общие"
+
+#: inc/compatibility/woocommerce/class-zakra-woocommerce.php:219
+msgid "View your shopping cart"
+msgstr "Просмотреть свою корзину"
+
+#. translators: %s: search query.
+#: inc/template-tags.php:41
+msgid "Search Results for: %s"
+msgstr "Результаты поиска: %s"
+
+#: inc/core/class-zakra-widgets.php:65
+msgid "Add widgets here."
+msgstr "Добавьте сюда виджеты."
+
+#: inc/core/class-zakra-widgets.php:91
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:192
+#: assets/build/meta.js:1
+msgid "Footer Four"
+msgstr "Подвал 4"
+
+#: inc/core/class-zakra-widgets.php:90
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:191
+#: assets/build/meta.js:1
+msgid "Footer Three"
+msgstr "Подвал 3"
+
+#: inc/core/class-zakra-widgets.php:89
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:190
+#: assets/build/meta.js:1
+msgid "Footer Two"
+msgstr "Подвал 2"
+
+#: inc/core/class-zakra-widgets.php:88
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:189
+#: assets/build/meta.js:1
+msgid "Footer One"
+msgstr "Подвал 1"
+
+#: inc/core/class-zakra-widgets.php:85
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:188
+#: assets/build/meta.js:1
+msgid "Sidebar Left"
+msgstr "Левая боковая панель"
+
+#: inc/core/class-zakra-widgets.php:84
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:187
+#: assets/build/meta.js:1
+msgid "Sidebar Right"
+msgstr "Правая боковая панель"
+
+#: inc/customizer/options/global/colors.php:163
+msgid "Primary"
+msgstr "Основной"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://zakratheme.com/"
+msgstr "https://zakratheme.com/"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themegrill.com"
+msgstr "https://themegrill.com"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "ThemeGrill"
+msgstr "ThemeGrill"

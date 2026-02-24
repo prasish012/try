@@ -1,0 +1,1419 @@
+# Translation of Themes - YITH Wonder in Italian
+# This file is distributed under the same license as the Themes - YITH Wonder package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-02-17 04:35:55+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: it\n"
+"Project-Id-Version: Themes - YITH Wonder\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Wonder is the new block-based, multi-purpose, WordPress theme by YITH. Compose your pages to fit any design you like with the power of Full Site Editing (FSE) and the included wide range of Block Patterns. The pre-built pages will help you populate and transform your website into a wonderful website. Customize colors and font pairings to create your own unique look and feel. Check out the demo site at https://wonder.yithemes.com/"
+msgstr "Wonder è il nuovo tema a blocchi per WordPress, sviluppato da YITH e pensato per molti diversi utilizzi. Componi le tue pagine in base alle tue esigenze di design grazie alla forza unica del Full Site Editing (FSE) e all'ampia gamma di pattern inclusi. I template di pagina già pronti all'uso ti aiuteranno a costruire il tuo sito web in men che non si dica e trasformarlo in un capolavoro. Personalizza i colori e i font per creare il tuo stile unico. Guarda la demo e prova il tema su https://wonder.yithemes.com/"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "YITH Wonder"
+msgstr "YITH Wonder"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Merriweather"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Source Sans Pro"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Solway"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Nunito"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Montserrat"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Jost"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Roboto Slab"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Raleway"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Mulish"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header Transparent"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "No Header/Footer"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "No title"
+msgstr ""
+
+#: assets/js/block-variations.js:28 assets/js/block-variations.js:29
+msgid "Overlay header"
+msgstr ""
+
+#: assets/js/block-variations.js:17 assets/js/block-variations.js:18
+msgid "Sticky header"
+msgstr ""
+
+#: assets/js/block-variations.js:6 assets/js/block-variations.js:7
+msgid "Default style"
+msgstr ""
+
+#: patterns/site-header-transparent.php
+msgctxt "Pattern description"
+msgid "A transparent left aligned site header with horizontal stacked elements: site logo, title, tagline and navigation block. WooCommerce mini cart display when plugin is enabled."
+msgstr ""
+
+#: patterns/site-header-transparent.php
+msgctxt "Pattern title"
+msgid "Site header (transparent)"
+msgstr ""
+
+#: inc/registered-block-patterns-override.php:64
+msgid "Additional information"
+msgstr ""
+
+#: inc/registered-block-patterns-override.php:54
+msgid "Billing address"
+msgstr ""
+
+#: inc/registered-block-patterns-override.php:44
+msgid "Shipping address"
+msgstr ""
+
+#: inc/registered-block-patterns-override.php:34
+msgid "Downloads"
+msgstr ""
+
+#: inc/registered-block-patterns-override.php:23
+msgid "Order details"
+msgstr ""
+
+#: styles/07-orchid-shades.json
+msgctxt "Gradient name"
+msgid "Orchid 5 (buttons)"
+msgstr "Orchidea 5 (pulsanti)"
+
+#: styles/07-orchid-shades.json
+msgctxt "Gradient name"
+msgid "Orchid 4"
+msgstr "Orchidea 4"
+
+#: styles/07-orchid-shades.json
+msgctxt "Gradient name"
+msgid "Orchid 3"
+msgstr "Orchidea 3"
+
+#: styles/07-orchid-shades.json
+msgctxt "Gradient name"
+msgid "Orchid 2"
+msgstr "Orchidea 2"
+
+#: styles/07-orchid-shades.json
+msgctxt "Gradient name"
+msgid "Orchid 1"
+msgstr "Orchidea 1"
+
+#: styles/07-orchid-shades.json
+msgctxt "Style variation name"
+msgid "Orchid Shades"
+msgstr "Sfumature di orchidea"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "3XL"
+msgstr "3XL"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2XL"
+msgstr "2XL"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "L"
+msgstr "L"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "M"
+msgstr "M"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "S"
+msgstr "S"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "XS"
+msgstr "XS"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2XS"
+msgstr "2XS"
+
+#: patterns/testimonials.php
+msgctxt "Pattern description"
+msgid "A corporate page template to show your testimonials and quotes in a masonry layout using columns."
+msgstr "Un template di pagina aziendale per mostrare testimonianze e citazioni in un layout masonry a colonne."
+
+#: patterns/testimonial-with-image-3.php
+msgctxt "Pattern description"
+msgid "A page section displaying a testimonial and the related quote in a full width cover block."
+msgstr "Una sezione della pagina che mostra una testimonianza e la relativa citazione in un blocco di copertina a tutta larghezza."
+
+#: patterns/testimonial-with-image-2.php
+msgctxt "Pattern description"
+msgid "A page section displaying a testimonial and the related quote in a creative, squared, design."
+msgstr "Una sezione della pagina che mostra una testimonianza e la relativa citazione in un design creativo e squadrato."
+
+#: patterns/testimonial-with-image-1.php
+msgctxt "Pattern description"
+msgid "A page section displaying a testimonial and the related quote in a creative, right aligned, design."
+msgstr "Una sezione della pagina che mostra una testimonianza e la relativa citazione in un design creativo, allineato a destra."
+
+#: patterns/site-header-left-logo-navigation-inline.php
+msgctxt "Pattern description"
+msgid "A left aligned site header with horizontal stacked elements: site logo, title, tagline and navigation block. WooCommerce mini cart display when plugin is enabled."
+msgstr "Header del sito allineato a sinistra con elementi orizzontali sovrapposti: logo del sito, titolo, motto e blocco di navigazione. Visualizzazione del mini-carrello di WooCommerce quando il plugin è abilitato."
+
+#: patterns/site-header-left-logo-navigation-below.php
+msgctxt "Pattern description"
+msgid "A left aligned site header with site logo, title and tagline on a line and navigation block below. WooCommerce mini cart display when plugin is enabled."
+msgstr "Header del sito allineato a sinistra con logo, titolo e motto su una riga e blocco di navigazione sottostante. Visualizzazione del mini-carrello WooCommerce quando il plugin è abilitato."
+
+#: patterns/site-header-centered.php
+msgctxt "Pattern description"
+msgid "A centered site header with site logo and navigation below. Above, two columns to add socials or contact informations. WooCommerce minicart display when plugin is enabled."
+msgstr "Header del sito centrato con il logo del sito e la navigazione in basso. Sopra, due colonne per aggiungere informazioni social o di contatto. Visualizzazione del mini-carrello di WooCommerce quando il plugin è abilitato."
+
+#: patterns/site-header-centered-logo-split-menu.php
+msgctxt "Pattern description"
+msgid "A site header with navigation menu splitted by the site logo."
+msgstr "Header del sito con menu di navigazione diviso dal logo del sito."
+
+#: patterns/site-footer.php
+msgctxt "Pattern description"
+msgid "A classic footer template fully focused on navigation blocks divided in columns."
+msgstr "Un template classico di footer completamente incentrato sui blocchi di navigazione suddivisi in colonne."
+
+#: patterns/site-footer-3-columns.php
+msgctxt "Pattern description"
+msgid "A footer template based on 3 columns layout. First with site logo, the other with navigation blocks."
+msgstr "Template footer basato su un layout a 3 colonne. La prima con il logo del sito, l'altra con i blocchi di navigazione."
+
+#: patterns/site-footer-3-columns-centered.php
+msgctxt "Pattern description"
+msgid "A footer template based on 3 columns layout. Phone number, site logo, social icons. Below a full row with the site navigation and another with credits."
+msgstr "Template footer basato su un layout a 3 colonne. Numero di telefono, logo del sito, icone social. In basso una riga completa con la navigazione del sito e un'altra con i crediti."
+
+#: patterns/my-account-icon.php
+msgctxt "Pattern description"
+msgid "This pattern will ad a shortcut icon for the WooCommerce my-account area of your website. It will be registered only if WooCommerce is enabled."
+msgstr "Questo pattern aggiungerà un'icona di scorciatoia per l'area WooCommerce il-mio-account del tuo sito web. Verrà registrata solo se WooCommerce è abilitato."
+
+#: patterns/homepage-orchid.php
+msgctxt "Pattern description"
+msgid "A corporate homepage template dedicated to company mission and customer care. WooCommerce products block inside. Designed around the Orchide Shades style variation of the theme."
+msgstr "Un template di homepage aziendale dedicato alla missione dell'azienda e all'assistenza ai clienti. Blocco prodotti WooCommerce all'interno. Progettato intorno alla variante di stile Orchide Shades del tema."
+
+#: patterns/homepage-orchid.php
+msgctxt "Pattern title"
+msgid "Homepage orchid"
+msgstr "Homepage orchidea"
+
+#: patterns/homepage-jewels.php
+msgctxt "Pattern description"
+msgid "Homepage template dedicated to jewelry products. Designed around the Gold Shades style variation of the theme."
+msgstr "Template di homepage dedicato ai prodotti di gioielleria. Progettato intorno alla variante di stile Gold Shades del tema."
+
+#: patterns/homepage-3.php
+msgctxt "Pattern description"
+msgid "Homepage template containing fine spaced banner sections, WooCommerce product blocks, images with call to actions and lists."
+msgstr "Template di homepage contenente sezioni banner a spaziatura fine, blocchi di prodotti WooCommerce, immagini con invito all'azione ed elenchi."
+
+#: patterns/homepage-2.php
+msgctxt "Pattern description"
+msgid "Homepage template containing banner sections, WooCommerce product blocks and call to actions."
+msgstr "Template homepage contenente sezioni banner, blocchi di prodotti WooCommerce e invito all'azione."
+
+#: patterns/homepage-1.php
+msgctxt "Pattern description"
+msgid "Homepage template containing hero section, alternated banner sections, WooCommerce product blocks and testimonial section."
+msgstr "Template homepage contenente una sezione hero, sezioni banner alternate, blocchi di prodotti WooCommerce e sezione testimonial."
+
+#: patterns/creative-list-with-image.php
+msgctxt "Pattern description"
+msgid "A page section of two columns. First row with big photo of a model, second row with a list of company services and values. Decorated with a dotted background cover block."
+msgstr "Una pagina a due colonne. Prima riga con una grande foto di una modella, seconda riga con un elenco dei servizi e dei valori dell'azienda. Decorata con un blocco copertina con sfondo a puntini."
+
+#: patterns/creative-banners-grid.php
+msgctxt "Pattern description"
+msgid "A page section with 3 cover blocks in a creative grid layout. Sample images are jewelry related and can be replaced."
+msgstr "Una sezione di pagina con 3 blocchi copertina in un layout creativo a griglia. Le immagini di esempio sono relative ai gioielli e possono essere sostituite."
+
+#: patterns/contact-us.php
+msgctxt "Pattern description"
+msgid "A page template containing a contact form (WP Forms free plugin needed)."
+msgstr "Un template di pagina contenente un modulo di contatto (è necessario il plugin gratuito WP Forms)."
+
+#: patterns/company-page.php
+msgctxt "Pattern description"
+msgid "A corporate page template to show your company values and a big testimonial in the bottom section."
+msgstr "Un template di pagina aziendale per mostrare i valori della tua azienda e un grande testimonial nella sezione inferiore."
+
+#: patterns/blog-page.php
+msgctxt "Pattern description"
+msgid "A page template to show all your posts in a styled cards layouts."
+msgstr "Un template di pagina per mostrare tutti i articoli in un layout a schede stilizzate."
+
+#: patterns/banner-with-title-and-separator.php
+msgctxt "Pattern description"
+msgid "A page section with a full width cover image and title and description divided by a separator block."
+msgstr "Una sezione di pagina con un'immagine di copertina a larghezza piena, titolo e descrizione divisi da un blocco separatore."
+
+#: patterns/banner-with-grid-gallery.php
+msgctxt "Pattern description"
+msgid "A page section of two columns containing a call to action and a gallery grid miming product categories."
+msgstr "Una pagina a due colonne contenente un invito all'azione e una griglia che riproduce le categorie di prodotti."
+
+#: patterns/banner-with-cta-1.php
+msgctxt "Pattern description"
+msgid "A page section with a cover image and a call to action inside."
+msgstr "Una sezione di pagina con un'immagine di copertina e un invito all'azione all'interno."
+
+#: patterns/banner-with-3-buttons.php
+msgctxt "Pattern description"
+msgid "A page section with a big image in a column and 3 buttons in another column."
+msgstr "Una pagina con una grande immagine in una colonna e 3 pulsanti in un'altra colonna."
+
+#: patterns/banner-1-3-2-3.php
+msgctxt "Pattern description"
+msgid "A page section of two columns columns with 1/3 and 2/3 proportions."
+msgstr "Una sezione di pagina di due colonne con proporzioni di 1/3 e 2/3."
+
+#: patterns/404.php
+msgctxt "Pattern description"
+msgid "The 404 page template with large 404 text and a search box below."
+msgstr "Il template di pagina 404, con il testo 404 in grande e una casella di ricerca in basso."
+
+#: patterns/5-columns-product-categories.php
+msgctxt "Pattern description"
+msgid "A page section of five columns including jewelry images miming product categories."
+msgstr "Una pagina a cinque colonne con immagini di gioielli che riproducono le categorie di prodotti."
+
+#: patterns/4-columns-icon-and-text.php
+msgctxt "Pattern description"
+msgid "A page section of four columns including icons and text."
+msgstr "Una sezione di pagina di quattro colonne con icone e testo."
+
+#: patterns/3-columns-with-icons.php
+msgctxt "Pattern description"
+msgid "A page section of three icons and description."
+msgstr "Una sezione di pagina con tre icone e descrizione."
+
+#: patterns/3-columns-banner.php
+msgctxt "Pattern description"
+msgid "A page section of three columns including cover blocks and buttons."
+msgstr "Una sezione di pagina a tre colonne con blocchi copertina e pulsanti."
+
+#: patterns/blog-page.php:48
+msgid "READ MORE"
+msgstr "LEGGI TUTTO"
+
+#: inc/register-block-styles.php:98
+msgid "Unscaled background"
+msgstr "Sfondo non scalato"
+
+#: inc/register-block-styles.php:84
+msgid "Boxed"
+msgstr "Boxed"
+
+#: inc/register-block-styles.php:77
+msgid "Dashed wide"
+msgstr "Ampio tratteggiato"
+
+#: inc/register-block-styles.php:42 inc/register-block-styles.php:91
+msgid "With shadow"
+msgstr "Con ombreggiatura"
+
+#: patterns/homepage-jewels.php
+msgctxt "Pattern title"
+msgid "Homepage jewels"
+msgstr "Homepage gioielli"
+
+#: patterns/creative-banners-grid.php
+msgctxt "Pattern title"
+msgid "Creative banners grid"
+msgstr "Griglia banner creativi"
+
+#: patterns/banner-with-title-and-separator.php
+msgctxt "Pattern title"
+msgid "Banner with title and separator"
+msgstr "Banner con titolo e separatore"
+
+#: patterns/banner-with-grid-gallery.php
+msgctxt "Pattern title"
+msgid "Banner with grid gallery"
+msgstr "Banner con galleria a griglia"
+
+#: patterns/5-columns-product-categories.php
+msgctxt "Pattern title"
+msgid "5 Columns product categories banner"
+msgstr "Banner a 5 colonne per le categorie di prodotti"
+
+#: patterns/4-columns-icon-and-text.php
+msgctxt "Pattern title"
+msgid "4 columns icon and text"
+msgstr "4 colonne di icone e testo"
+
+#: patterns/homepage-jewels.php:118 patterns/homepage-jewels.php:136
+msgctxt "demo-contents"
+msgid "Our new collection"
+msgstr "La nostra nuova collezione"
+
+#: patterns/creative-banners-grid.php:52 patterns/homepage-jewels.php:183
+msgctxt "demo-contents"
+msgid "Jewelry"
+msgstr "Gioielli"
+
+#: patterns/creative-banners-grid.php:30 patterns/homepage-jewels.php:161
+msgctxt "demo-contents"
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+
+#: patterns/creative-banners-grid.php:26 patterns/homepage-jewels.php:157
+msgctxt "demo-contents"
+msgid "NEW COLLECTIONS"
+msgstr "NUOVE COLLEZIONI"
+
+#: patterns/creative-banners-grid.php:22 patterns/homepage-jewels.php:153
+msgctxt "demo-contents"
+msgid "Watches"
+msgstr "Orologi"
+
+#: patterns/banner-with-title-and-separator.php:33
+#: patterns/homepage-jewels.php:32
+msgctxt "demo-contents"
+msgid "Lorem ipsum dolor sit amet, consectetur adispising elit.<br>Vestibulum varius, mi ut posuere iaculis, orci risus consequat urna, faucibus laoreet nunc just a quam."
+msgstr "Lorem ipsum dolor sit amet, consectetur adispising elit.<br>Vestibulum varius, mi ut posuere iaculis, orci risus consequat urna, faucibus laoreet nunc just a quam."
+
+#: patterns/banner-with-title-and-separator.php:25
+#: patterns/homepage-jewels.php:24
+msgctxt "demo-contents"
+msgid "Engagement Rings"
+msgstr "Anelli di fidanzamento"
+
+#: patterns/banner-with-grid-gallery.php:67 patterns/homepage-jewels.php:105
+msgctxt "demo-contents"
+msgid "CHARMS"
+msgstr "CIONDOLI CHARMS"
+
+#: patterns/banner-with-grid-gallery.php:63 patterns/homepage-jewels.php:101
+msgctxt "demo-contents"
+msgid "BRACELETS"
+msgstr "BRACCIALI"
+
+#: patterns/banner-with-grid-gallery.php:59 patterns/homepage-jewels.php:97
+msgctxt "demo-contents"
+msgid "PLATINUM RINGS"
+msgstr "ANELLI DI PLATINO"
+
+#: patterns/banner-with-grid-gallery.php:55 patterns/homepage-jewels.php:93
+msgctxt "demo-contents"
+msgid "EARRINGS"
+msgstr "ORECCHINI"
+
+#: patterns/banner-with-grid-gallery.php:51 patterns/homepage-jewels.php:89
+msgctxt "demo-contents"
+msgid "ENGAGMENTS RINGS"
+msgstr "ANELLI DI FIDANZAMENTO"
+
+#: patterns/banner-with-grid-gallery.php:47 patterns/homepage-jewels.php:85
+msgctxt "demo-contents"
+msgid "GOLDEN RINGS"
+msgstr "ANELLI D'ORO"
+
+#: patterns/banner-with-grid-gallery.php:29 patterns/homepage-jewels.php:67
+msgctxt "demo-contents"
+msgid "Discover our new jewels"
+msgstr "Scopri i nostri nuovi gioielli"
+
+#: patterns/banner-with-grid-gallery.php:25 patterns/homepage-jewels.php:63
+msgctxt "demo-contents"
+msgid "Lorem ipsum dolor sit amet"
+msgstr "Lorem ipsum dolor sit amet"
+
+#: patterns/5-columns-product-categories.php:88
+msgctxt "demo-contents"
+msgid "ROSE GOLD"
+msgstr "ORO ROSA"
+
+#: patterns/5-columns-product-categories.php:72
+msgctxt "demo-contents"
+msgid "DIAMOND"
+msgstr "DIAMANTI"
+
+#: patterns/5-columns-product-categories.php:56
+msgctxt "demo-contents"
+msgid "ENGAGEMENT"
+msgstr "FIDANZAMENTO"
+
+#: patterns/5-columns-product-categories.php:40
+msgctxt "demo-contents"
+msgid "PEARL"
+msgstr "PERLE"
+
+#: patterns/5-columns-product-categories.php:28
+#: patterns/5-columns-product-categories.php:44
+#: patterns/5-columns-product-categories.php:60
+#: patterns/5-columns-product-categories.php:76
+#: patterns/5-columns-product-categories.php:92
+msgctxt "demo-contents"
+msgid "RINGS"
+msgstr "ANELLI"
+
+#: patterns/5-columns-product-categories.php:24
+msgctxt "demo-contents"
+msgid "PLATINIUM"
+msgstr "PLATINO"
+
+#: patterns/4-columns-icon-and-text.php:72 patterns/homepage-jewels.php:261
+msgctxt "demo-contents"
+msgid "POSITIVE REVIEWS<br>100,000+"
+msgstr "RECENSIONI POSITIVE<br>OLTRE 100.000"
+
+#: patterns/4-columns-icon-and-text.php:56 patterns/homepage-jewels.php:245
+msgctxt "demo-contents"
+msgid "10 YEARS<br>WARRANTY"
+msgstr "10 ANNI<br>DI GARANZIA"
+
+#: patterns/4-columns-icon-and-text.php:40 patterns/homepage-jewels.php:229
+msgctxt "demo-contetns"
+msgid "SECURE<br>PAYMENTS"
+msgstr "PAGAMENTI<br>SICURI"
+
+#: patterns/4-columns-icon-and-text.php:28
+#: patterns/4-columns-icon-and-text.php:44
+#: patterns/4-columns-icon-and-text.php:60
+#: patterns/4-columns-icon-and-text.php:76 patterns/homepage-jewels.php:217
+#: patterns/homepage-jewels.php:233 patterns/homepage-jewels.php:249
+#: patterns/homepage-jewels.php:265
+msgctxt "demo-contents"
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
+
+#: patterns/4-columns-icon-and-text.php:24 patterns/homepage-jewels.php:213
+msgctxt "demo-contents"
+msgid "FREE SHIPPING<br>OVER $ 75"
+msgstr "SPEDIZIONE GRATUITA<br>PER GLI ORDINI SOPRA € 75,00"
+
+#: styles/06-gold-shades.json
+msgctxt "Style variation name"
+msgid "Gold Shades"
+msgstr "Sfumature dorate"
+
+#: theme.json styles/01-blue-shades.json styles/02-pink-shades.json
+#: styles/03-orange-shades.json styles/04-black-shades.json
+#: styles/05-red-shades.json styles/06-gold-shades.json
+#: styles/07-orchid-shades.json
+msgctxt "Color name"
+msgid "Contrast"
+msgstr "Contrasto"
+
+#: theme.json styles/01-blue-shades.json styles/02-pink-shades.json
+#: styles/03-orange-shades.json styles/04-black-shades.json
+#: styles/05-red-shades.json styles/06-gold-shades.json
+#: styles/07-orchid-shades.json
+msgctxt "Color name"
+msgid "Base"
+msgstr "Base"
+
+#: inc/register-block-styles.php:70
+msgid "Right aligned"
+msgstr "Allineato a destra"
+
+#: inc/register-block-styles.php:63
+msgid "Left aligned"
+msgstr "Allineato a sinistra"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer 3 columns"
+msgstr "Footer a 3 colonne"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer 3 columns centered"
+msgstr "Footer a 3 colonne centrate"
+
+#: theme.json styles/01-blue-shades.json styles/02-pink-shades.json
+#: styles/03-orange-shades.json styles/04-black-shades.json
+#: styles/05-red-shades.json styles/06-gold-shades.json
+#: styles/07-orchid-shades.json
+msgctxt "Color name"
+msgid "Header titles"
+msgstr "Titoli header"
+
+#: theme.json styles/01-blue-shades.json styles/02-pink-shades.json
+#: styles/03-orange-shades.json styles/04-black-shades.json
+#: styles/05-red-shades.json styles/06-gold-shades.json
+#: styles/07-orchid-shades.json
+msgctxt "Color name"
+msgid "Header foreground"
+msgstr "Header in evidenza"
+
+#: theme.json styles/01-blue-shades.json styles/02-pink-shades.json
+#: styles/03-orange-shades.json styles/04-black-shades.json
+#: styles/05-red-shades.json styles/06-gold-shades.json
+#: styles/07-orchid-shades.json
+msgctxt "Color name"
+msgid "Header background"
+msgstr "Sfondo header"
+
+#: patterns/site-footer-3-columns.php
+msgctxt "Pattern title"
+msgid "Site footer 3 columns"
+msgstr "Footer a 3 colonne"
+
+#: patterns/site-footer-3-columns-centered.php
+msgctxt "Pattern title"
+msgid "Site footer 3 columns centered"
+msgstr "Footer a 3 colonne centrato"
+
+#: patterns/site-footer-3-columns.php:33
+msgctxt "demo contents"
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sagittis tincidunt tortor in bibendum. Phasellus tellus elit, placerat et orci id, commodo finibus tortor."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sagittis tincidunt tortor in bibendum. Phasellus tellus elit, placerat et orci id, commodo finibus tortor."
+
+#: patterns/site-footer-3-columns.php:29
+msgctxt "demo contents"
+msgid "About us"
+msgstr "Chi siamo"
+
+#: patterns/site-footer-3-columns-centered.php:25
+msgctxt "demo contents"
+msgid "Call 800 - 647 - 927"
+msgstr "Chiama 800 - 647 - 927"
+
+#: styles/05-red-shades.json
+msgctxt "Style variation name"
+msgid "Red Shades"
+msgstr "Rosso"
+
+#: styles/04-black-shades.json
+msgctxt "Style variation name"
+msgid "Black Shades"
+msgstr "Nero"
+
+#: styles/03-orange-shades.json
+msgctxt "Style variation name"
+msgid "Orange Shades"
+msgstr "Arancione"
+
+#: styles/02-pink-shades.json
+msgctxt "Style variation name"
+msgid "Pink Shades"
+msgstr "Rosa"
+
+#: styles/01-blue-shades.json styles/02-pink-shades.json
+#: styles/04-black-shades.json styles/05-red-shades.json
+msgctxt "Gradient name"
+msgid "Vertical primary to secondary"
+msgstr "Verticale - da primario a secondario"
+
+#: styles/01-blue-shades.json
+msgctxt "Style variation name"
+msgid "Blue Shades"
+msgstr "Blu"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Vertical Sidebar 2"
+msgstr "Sidebar verticale 2"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Vertical Sidebar 1"
+msgstr "Sidebar verticale 1"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Footer"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header - Centered layout with splitted menu"
+msgstr "Header - Centrato con menu diviso"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header - Centered layout"
+msgstr "Header - centrato"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header - Left Logo and navigation inline"
+msgstr "Header - logo a sinistra e navigazione a fianco"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header - Left Logo and navigation below"
+msgstr "Header - logo a sinistra e navigazione in basso"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header default"
+msgstr "Header predefinito"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Sidebar (left)"
+msgstr "Sidebar (sinistra)"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Sidebar (right)"
+msgstr "Sidebar (destra)"
+
+#: theme.json styles/03-orange-shades.json styles/06-gold-shades.json
+#: styles/07-orchid-shades.json
+msgctxt "Gradient name"
+msgid "Vertical tertiary to primary"
+msgstr "Verticale - da terziario a primario"
+
+#: theme.json styles/01-blue-shades.json styles/02-pink-shades.json
+#: styles/03-orange-shades.json styles/04-black-shades.json
+#: styles/05-red-shades.json styles/06-gold-shades.json
+#: styles/07-orchid-shades.json
+msgctxt "Color name"
+msgid "Secondary foreground"
+msgstr "In primo piano - secondario"
+
+#: theme.json styles/01-blue-shades.json styles/02-pink-shades.json
+#: styles/03-orange-shades.json styles/04-black-shades.json
+#: styles/05-red-shades.json styles/06-gold-shades.json
+#: styles/07-orchid-shades.json
+msgctxt "Color name"
+msgid "Secondary background"
+msgstr "Sfondo - secondario"
+
+#: theme.json styles/01-blue-shades.json styles/02-pink-shades.json
+#: styles/03-orange-shades.json styles/04-black-shades.json
+#: styles/05-red-shades.json styles/06-gold-shades.json
+#: styles/07-orchid-shades.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "Terziario"
+
+#: theme.json styles/01-blue-shades.json styles/02-pink-shades.json
+#: styles/03-orange-shades.json styles/04-black-shades.json
+#: styles/05-red-shades.json styles/06-gold-shades.json
+#: styles/07-orchid-shades.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Secondario"
+
+#: theme.json styles/01-blue-shades.json styles/02-pink-shades.json
+#: styles/03-orange-shades.json styles/04-black-shades.json
+#: styles/05-red-shades.json styles/06-gold-shades.json
+#: styles/07-orchid-shades.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Primario"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Playfair Display"
+msgstr "Playfair Display"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Oswald"
+msgstr "Oswald"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Forum"
+msgstr "Forum"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Satisfy"
+msgstr "Satisfy"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Poppins"
+msgstr "Poppins"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Changa One, display"
+msgstr "Changa One, display"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Monospace"
+msgstr "Monospace"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Serif"
+msgstr "Serif"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System"
+msgstr "System"
+
+#: theme.json styles/07-orchid-shades.json
+msgctxt "Font size name"
+msgid "Huge"
+msgstr "Gigante"
+
+#: theme.json styles/07-orchid-shades.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "Molto grande"
+
+#: theme.json styles/07-orchid-shades.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Grande"
+
+#: theme.json styles/07-orchid-shades.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Medio"
+
+#: theme.json styles/07-orchid-shades.json
+msgctxt "Font size name"
+msgid "Normal"
+msgstr "Normale"
+
+#: theme.json styles/07-orchid-shades.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Piccolo"
+
+#: theme.json styles/07-orchid-shades.json
+msgctxt "Font size name"
+msgid "Extra Small"
+msgstr "Molto piccolo"
+
+#: patterns/testimonials.php
+msgctxt "Pattern title"
+msgid "Testimonials page"
+msgstr "Pagina testimonial"
+
+#: patterns/testimonial-with-image-3.php
+msgctxt "Pattern title"
+msgid "Testimonial with image #3"
+msgstr "Testimonial con immagine 3"
+
+#: patterns/testimonial-with-image-2.php
+msgctxt "Pattern title"
+msgid "Testimonial with image #2"
+msgstr "Testimonial con immagine 2"
+
+#: patterns/testimonial-with-image-1.php
+msgctxt "Pattern title"
+msgid "Testimonial with image #1"
+msgstr "Testimonial con immagine 1"
+
+#: patterns/site-header-left-logo-navigation-inline.php
+msgctxt "Pattern title"
+msgid "Site header (left logo - navigation inline)"
+msgstr "Header (logo a sinistra - navigazione a fianco)"
+
+#: patterns/site-header-left-logo-navigation-below.php
+msgctxt "Pattern title"
+msgid "Site header (left logo - navigation below)"
+msgstr "Header (logo a sinistra - navigazione in basso)"
+
+#: patterns/site-header-centered.php
+msgctxt "Pattern title"
+msgid "Site header centered"
+msgstr "Header centrato"
+
+#: patterns/site-header-centered-logo-split-menu.php
+msgctxt "Pattern title"
+msgid "Site header with splitted menu"
+msgstr "Header con menu diviso"
+
+#: patterns/site-footer.php
+msgctxt "Pattern title"
+msgid "Site footer"
+msgstr "Footer"
+
+#: patterns/my-account-icon.php
+msgctxt "Pattern title"
+msgid "My-Account icon"
+msgstr "Icona account"
+
+#: patterns/homepage-3.php
+msgctxt "Pattern title"
+msgid "Homepage #3"
+msgstr "Homepage 3"
+
+#: patterns/homepage-2.php
+msgctxt "Pattern title"
+msgid "Homepage #2"
+msgstr "Homepage 2"
+
+#: patterns/homepage-1.php
+msgctxt "Pattern title"
+msgid "Homepage #1"
+msgstr "Homepage 1"
+
+#: patterns/creative-list-with-image.php
+msgctxt "Pattern title"
+msgid "Creative list with image"
+msgstr "Elenco con immagine"
+
+#: patterns/contact-us.php
+msgctxt "Pattern title"
+msgid "Contact page"
+msgstr "Pagina contatti"
+
+#: patterns/company-page.php
+msgctxt "Pattern title"
+msgid "Company page"
+msgstr "L'azienda"
+
+#: patterns/blog-page.php
+msgctxt "Pattern title"
+msgid "Blog page"
+msgstr "Blog"
+
+#: patterns/banner-with-cta-1.php
+msgctxt "Pattern title"
+msgid "Banner with CTA #"
+msgstr "Banner con CTA"
+
+#: patterns/banner-with-3-buttons.php
+msgctxt "Pattern title"
+msgid "Banner with 3 buttons"
+msgstr "Banner con 3 pulsanti"
+
+#: patterns/banner-1-3-2-3.php
+msgctxt "Pattern title"
+msgid "Banner 1/3 - 2/3"
+msgstr "Banner 1/3 - 2/3"
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "404"
+msgstr "404"
+
+#: patterns/3-columns-with-icons.php
+msgctxt "Pattern title"
+msgid "3 columns with icons"
+msgstr "3 colonne con icone"
+
+#: patterns/3-columns-banner.php
+msgctxt "Pattern title"
+msgid "3 columns banner"
+msgstr "Banner a 3 colonne"
+
+#: patterns/testimonials.php:118
+msgctxt "demo-contents"
+msgid "<p>I'm super happy with the quality and sizing of my items. Such good value for money! So stylish too. I will definitely be purchasing again!</p><cite>MIKE DANCIN</cite>"
+msgstr "<p>Sono davvero soddisfatto della qualità e di come vestono questi abiti. Un ottimo rapporto qualità-prezzo! E poi così fashion! Comprerò presto molte altre cose!</p><cite>MIKE DANCIN</cite>"
+
+#: patterns/testimonials.php:90
+msgctxt "demo-contents"
+msgid "<p>First order and will be back! Ordered 4 items and couldn't be happier with choices. Amazing value, will definitely be ordering more.</p><cite>PAULA PERCUSSION</cite>"
+msgstr "<p>Ho acquistato per la prima volta ma tornerò di sicuro! Ho ordinato 4 articoli e ne sono rimasto pienamente soddisfatto. Ottima qualità. Acquisterò di certo altri prodotti.</p><cite>PAULA PERCUSSION</cite>"
+
+#: patterns/testimonials.php:64
+msgctxt "demo-contents"
+msgid "<p>I don't usually leave reviews but I have decided to for Wonder. I love there clothing and accessories I've never had a problem returning and parcels always arrive well within time stated.</p><cite>JOCELYN ERICSSON</cite>"
+msgstr "<p>Non sono solita lasciare recensioni ma ho deciso di farlo per Wonder perché lo merita davvero. Adoro i capi e gli accessori che vende e non ho mai avuto problemi con i resi o con le consegne, sempre precisi e puntuali.</p><cite>JOCELYN ERICSSON</cite>"
+
+#: patterns/testimonials.php:40
+msgctxt "demo-contents"
+msgid "<p>Here I can find original items, low prices without to lose quality or sustainability. Love it!</p><cite>MARTHA RAMOS</cite>"
+msgstr "<p>Ho trovato articoli originali a prezzi bassi ma senza dover rinunciare alla qualità o all'attenzione per l'ambiente. Eccezionale!</p><cite>MARTHA RAMOS</cite>"
+
+#: patterns/testimonials.php:27
+msgctxt "demo-contents"
+msgid "Bringing value between different brands"
+msgstr "Apporta valore tra i vari brand"
+
+#: patterns/testimonial-with-image-1.php:20
+msgctxt "demo-contents"
+msgid "JOCELYN ERICSSON"
+msgstr "JOCELYN ERICSSON"
+
+#: patterns/testimonial-with-image-1.php:19
+msgctxt "demo-contents"
+msgid "I don't usually leave reviews but I have decided to for Wonder. I love there clothing and accessories I've never had a problem returning and parcels always arrive well within time stated."
+msgstr "Non sono solita lasciare recensioni ma ho deciso di farlo per Wonder perché lo merita davvero. Adoro i capi e gli accessori che vende e non ho mai avuto problemi con i resi o con le consegne, sempre precisi e puntuali."
+
+#: patterns/site-footer-3-columns-centered.php:56
+#: patterns/site-footer-3-columns.php:64 patterns/site-footer.php:104
+msgctxt "demo contents"
+msgid "Wonder – A WordPress Block theme by YITH"
+msgstr "Wonder - Un tema a blocchi per WordPress by YITH"
+
+#: patterns/site-footer.php:70
+msgctxt "demo-contents"
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sagittis tincidunt tortor in bibendum. Phasellus tellus elit, placerat et orci id, commodo finibus tortor."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sagittis tincidunt tortor in bibendum. Phasellus tellus elit, placerat et orci id, commodo finibus tortor."
+
+#: patterns/site-footer.php:66
+msgctxt "demo contents"
+msgid "Stay connected"
+msgstr "Non perdere le novità"
+
+#: patterns/site-footer-3-columns.php:40 patterns/site-footer.php:56
+msgctxt "demo contents"
+msgid "Customer service"
+msgstr "Servizio clienti"
+
+#: patterns/site-footer.php:46
+msgctxt "demo contents"
+msgid "Special sales"
+msgstr "Limited edition"
+
+#: patterns/site-footer.php:36
+msgctxt "demo contents"
+msgid "Our products"
+msgstr "I nostri prodotti"
+
+#: patterns/site-footer.php:26
+msgctxt "demo contents"
+msgid "Our company"
+msgstr "L'azienda"
+
+#: patterns/homepage-3.php:226
+msgctxt "demo-contents"
+msgid "Most popular of this month"
+msgstr "I più amati di questo mese"
+
+#: patterns/homepage-3.php:45
+msgctxt "demo-contents"
+msgid "<strong>Sailor &amp; sea inspired for<br>Winter Collection ⟶</strong>"
+msgstr "<strong>Stile alla marinara per la <br>Collezione invernale ⟶</strong>"
+
+#: patterns/homepage-3.php:35
+msgctxt "demo-contents"
+msgid "<strong>Maternity and pregnancy </strong><br><strong>clothing ⟶</strong>"
+msgstr "<strong>Abbigliamento</strong><br><strong>Pré-maman e neo mamme ⟶</strong>"
+
+#: patterns/homepage-3.php:23
+msgctxt "demo-contents"
+msgid "<strong>The Newborn Winter<br>Collection ⟶</strong>"
+msgstr "<strong>Collezione<br>Inverno ⟶</strong>"
+
+#: patterns/homepage-2.php:63 patterns/homepage-3.php:109
+msgctxt "demo-contents"
+msgid "Best seller of this month"
+msgstr "I più venduti del mese"
+
+#: patterns/homepage-1.php:213 patterns/testimonial-with-image-3.php:35
+msgctxt "demo-contents"
+msgid "Martha Ramos <br>Customer from 2007"
+msgstr "Martha Ramos <br>Cliente dal 2007"
+
+#: patterns/homepage-1.php:205 patterns/testimonial-with-image-3.php:27
+msgctxt "demo-contents"
+msgid "“ Here I can find original items, low prices without to lose quality or sustainability.<br>Love it! “"
+msgstr "“ Ho trovato articoli originali a prezzi bassi ma senza dover rinunciare alla qualità o all'attenzione per l'ambiente.<br> Eccezionale! “"
+
+#: patterns/homepage-1.php:148 patterns/homepage-2.php:155
+msgctxt "demo-contents"
+msgid "This week’s deals"
+msgstr "Le offerte della settimana"
+
+#: patterns/banner-with-grid-gallery.php:34 patterns/homepage-1.php:124
+#: patterns/homepage-jewels.php:72
+msgctxt "demo-contents"
+msgid "SHOP NOW"
+msgstr "ACQUISTA ORA"
+
+#: patterns/homepage-1.php:103
+msgctxt "demo-contents"
+msgid "Jeans &amp; Denim collection"
+msgstr "Jeans &amp; denim"
+
+#: patterns/homepage-1.php:86
+msgctxt "demo-contents"
+msgid "VIEW OUR ACCESSORIES"
+msgstr "VEDI I NOSTRI ACCESSORI"
+
+#: patterns/homepage-1.php:77 patterns/homepage-1.php:115
+msgctxt "demo-contents"
+msgid "Dandelion cucumber earthnut pea peanut soko zucchini."
+msgstr "Dandelion cucumber earthnut pea peanut soko zucchini."
+
+#: patterns/homepage-1.php:73 patterns/homepage-1.php:111
+msgctxt "demo-contents"
+msgid "Parsley shallot courgette tatsoi pea sprouts fava bean collard greens dandelion okra wakame tomato. "
+msgstr "Parsley shallot courgette tatsoi pea sprouts fava bean collard greens dandelion okra wakame tomato. "
+
+#: patterns/homepage-1.php:69 patterns/homepage-1.php:107
+msgctxt "demo-contents"
+msgid "Gumbo beet greens corn soko endive gumbo gourd. "
+msgstr "Gumbo beet greens corn soko endive gumbo gourd. "
+
+#: patterns/homepage-1.php:65
+msgctxt "demo-contents"
+msgid "Black is the new black."
+msgstr "Black is the new black."
+
+#: patterns/homepage-1.php:37
+msgctxt "demo-contents"
+msgid "Shop now"
+msgstr "Acquista adesso"
+
+#: patterns/homepage-1.php:24
+msgctxt "demo-contents"
+msgid "New Spring Casuals"
+msgstr "Casual e stile primaverile"
+
+#: patterns/creative-list-with-image.php:84 patterns/homepage-3.php:200
+msgctxt "demo-contents"
+msgid "Our customer care"
+msgstr "Il nostro servizio clienti"
+
+#: patterns/creative-list-with-image.php:62 patterns/homepage-3.php:178
+msgctxt "demo-contents"
+msgid "100.000+ customers trust us"
+msgstr "Scelti da oltre 100.000 clienti"
+
+#: patterns/creative-list-with-image.php:44
+#: patterns/creative-list-with-image.php:66
+#: patterns/creative-list-with-image.php:88 patterns/homepage-3.php:160
+#: patterns/homepage-3.php:182 patterns/homepage-3.php:204
+msgctxt "demo-contents"
+msgid "Fast delivery, simply returns, quick response &amp; safe and secure shopping: discover our 30 days money back guarantee and start today to shop with trust."
+msgstr "Consegna veloce, politica di reso semplificata, risposte in tempi brevi &amp; acquisti sicuri: scopri la nostra garanzia soddisfatti o rimborsati e divertiti a fare shopping senza pensieri."
+
+#: patterns/creative-list-with-image.php:40 patterns/homepage-3.php:156
+msgctxt "demo-contents"
+msgid "Confident shopping"
+msgstr "Acquista in totale sicurezza"
+
+#: patterns/contact-us.php:53
+msgctxt "demo-contents"
+msgid "Send us a message"
+msgstr "Invia un messaggio"
+
+#: patterns/contact-us.php:34
+msgctxt "demo-contents"
+msgid "Connect with us"
+msgstr "Contattaci"
+
+#: patterns/contact-us.php:22
+msgctxt "demo-contents"
+msgid "Call our Customer Care"
+msgstr "Chiama il nostro servizio clienti"
+
+#: patterns/company-page.php:143
+msgctxt "demo-contents"
+msgid "A transparent Refund policy"
+msgstr "Una politica di rimborso trasparente"
+
+#: patterns/company-page.php:129
+msgctxt "demo-contents"
+msgid "50K Happy Customers"
+msgstr "50.000 clienti soddisfatti"
+
+#: patterns/company-page.php:115
+msgctxt "demo-contents"
+msgid "High quality and low cost"
+msgstr "Qualità a basso costo"
+
+#: patterns/company-page.php:98 patterns/testimonial-with-image-2.php:42
+msgctxt "demo-contents"
+msgid "“Here I can find original items, low prices without to lose quality or sustainability. Love it!“"
+msgstr "“Ho trovato articoli originali a prezzi bassi ma senza dover rinunciare alla qualità o all'attenzione per l'ambiente. Eccezionale!“"
+
+#: patterns/company-page.php:89 patterns/testimonial-with-image-2.php:27
+msgctxt "demo-contents"
+msgid "<strong>Martha Ramos<br></strong>Customer from 2007"
+msgstr "<strong>Martha Ramos<br></strong>Cliente dal 2007"
+
+#: patterns/company-page.php:81
+msgid "Read all testimonials &gt;"
+msgstr "Leggi tutte le testimonianze &gt;"
+
+#: patterns/company-page.php:77
+msgctxt "demo-contents"
+msgid "Fusce gravida ut nisi et facilisis. Nullam ut mi fermentum, posuere dolor id, ultricies ipsum. <br>Duis urna ipsum, tincidunt ut lorem."
+msgstr "Fusce gravida ut nisi et facilisis. Nullam ut mi fermentum, posuere dolor id, ultricies ipsum. <br>Duis urna ipsum, tincidunt ut lorem."
+
+#: patterns/company-page.php:73
+msgctxt "demo-contents"
+msgid "We <strong><em>really</em> </strong>love our tribu."
+msgstr "Siamo <strong><em>davvero</em> orgogliosi </strong>della nostra tribù."
+
+#: patterns/company-page.php:59
+msgctxt "demo-contents"
+msgid "Discover our sustainability initiatives"
+msgstr "Scopri le nostre iniziative ecosostenibili"
+
+#: patterns/company-page.php:55
+msgctxt "demo-contents"
+msgid "Let’s clean up"
+msgstr "Un mondo migliore"
+
+#: patterns/company-page.php:45
+msgctxt "demo-contents"
+msgid "Discover why and how our shop is totally inclusive"
+msgstr "Scopri come assicuriamo l'inclusività nel nostro shop"
+
+#: patterns/company-page.php:41
+msgctxt "demo-contents"
+msgid "Let’s be for all"
+msgstr "Ci siamo per tutti"
+
+#: patterns/company-page.php:31
+msgctxt "demo-contents"
+msgid "Because fashion need to be fair, always"
+msgstr "Perché la moda dev'essere per tutti, sempre"
+
+#: patterns/company-page.php:27
+msgctxt "demo-contents"
+msgid "Let’s be fair"
+msgstr "Alla moda per tutti"
+
+#: patterns/blog-page.php:24
+msgid "Our news"
+msgstr "Novità"
+
+#: patterns/banner-with-cta-1.php:49 patterns/homepage-2.php:200
+msgctxt "demo-contents"
+msgid "START TO SHOP"
+msgstr "INIZIA A FARE SHOPPING"
+
+#: patterns/banner-with-cta-1.php:40 patterns/homepage-2.php:191
+msgctxt "demo-contents"
+msgid "Aliquam id nibh pulvinar, accumsan metus nec, tempus leo. Vestibulum feugiat velit lacus, in dictum dolor ultricies at. Integer vitae vehicula erat."
+msgstr "Aliquam id nibh pulvinar, accumsan metus nec, tempus leo. Vestibulum feugiat velit lacus, in dictum dolor ultricies at. Integer vitae vehicula erat."
+
+#: patterns/banner-with-cta-1.php:36 patterns/homepage-2.php:187
+msgctxt "demo-contents"
+msgid "Cras dolor mi, mattis nec placerat at, dapibus auctor mauris. Integer vel velit semper, aliquam dui vitae, ultrices odio. Vivamus in nunc sed arcu congue tincidunt ut eu est. "
+msgstr "Cras dolor mi, mattis nec placerat at, dapibus auctor mauris. Integer vel velit semper, aliquam dui vitae, ultrices odio. Vivamus in nunc sed arcu congue tincidunt ut eu est. "
+
+#: patterns/banner-with-cta-1.php:32 patterns/homepage-2.php:183
+msgctxt "demo-contents"
+msgid "BUILD YOUR CAPSULE WARDROBE"
+msgstr "CREA IL TUO GUARDAROBA CAPSULE"
+
+#: patterns/banner-with-3-buttons.php:47 patterns/creative-banners-grid.php:42
+#: patterns/homepage-3.php:88 patterns/homepage-jewels.php:173
+msgctxt "demo-contents"
+msgid "Accessories"
+msgstr "Accessori"
+
+#: patterns/banner-with-3-buttons.php:43 patterns/homepage-3.php:84
+msgctxt "demo-contents"
+msgid "Shop Woman"
+msgstr "Collezione donna"
+
+#: patterns/banner-with-3-buttons.php:39 patterns/homepage-3.php:80
+msgctxt "demo-contents"
+msgid "Shop Man"
+msgstr "Collezione uomo"
+
+#: patterns/banner-with-3-buttons.php:30 patterns/homepage-3.php:71
+msgctxt "demo-contents"
+msgid "New Collections"
+msgstr "Nuove collezioni"
+
+#: patterns/banner-with-3-buttons.php:26 patterns/homepage-3.php:67
+msgctxt "demo-contents"
+msgid "JUST LANDED"
+msgstr "NUOVI ARRIVI"
+
+#: patterns/banner-1-3-2-3.php:46 patterns/homepage-1.php:190
+msgctxt "demo-contents"
+msgid "Enjoy a special -20% discount on man category"
+msgstr "Approfitta di uno sconto speciale del 20% sui capi uomo"
+
+#: patterns/banner-1-3-2-3.php:42 patterns/homepage-1.php:186
+msgctxt "demo-contents"
+msgid "SAVE 20% IN<br>MAN CLOTHING"
+msgstr "RISPARMIA IL 20% SUI<br>CAPI UOMO"
+
+#: patterns/banner-1-3-2-3.php:30 patterns/homepage-1.php:176
+msgctxt "demo-contents"
+msgid "GLASSES"
+msgstr "OCCHIALI"
+
+#: patterns/banner-1-3-2-3.php:26 patterns/homepage-1.php:172
+msgctxt "demo-contents"
+msgid "DISCOVERY THE TREND OF"
+msgstr "SCOPRI LA NUOVA TENDENZA"
+
+#: patterns/404.php:38
+msgid "Search"
+msgstr "Cerca"
+
+#: patterns/404.php:31
+msgid "Sorry, but the requested page is not found. You might try a search below."
+msgstr "Non è stato possibile trovare la pagina che cercavi. Prova a fare una ricerca."
+
+#: patterns/404.php:27
+msgid "Ooops, page not found."
+msgstr "Ops, pagina non trovata."
+
+#: patterns/3-columns-with-icons.php:76 patterns/contact-us.php:125
+#: patterns/homepage-2.php:137
+msgctxt "demo-contents"
+msgid "Contact our Customer Care for any question or doubt"
+msgstr "Contatta il nostro servizio clienti per qualsiasi dubbio o domanda"
+
+#: patterns/3-columns-with-icons.php:52 patterns/contact-us.php:103
+#: patterns/homepage-2.php:115
+msgctxt "demo-contents"
+msgid "Free delivery<br>for orders over 100$"
+msgstr "Consegna gratuita<br>per ordini sopra i €100"
+
+#: patterns/3-columns-with-icons.php:36 patterns/3-columns-with-icons.php:60
+#: patterns/3-columns-with-icons.php:84 patterns/company-page.php:15
+#: patterns/company-page.php:119 patterns/company-page.php:133
+#: patterns/company-page.php:147 patterns/contact-us.php:89
+#: patterns/contact-us.php:111 patterns/contact-us.php:133
+#: patterns/homepage-1.php:28 patterns/homepage-2.php:101
+#: patterns/homepage-2.php:123 patterns/homepage-2.php:145
+#: patterns/testimonials.php:16 patterns/testimonials.php:31
+msgctxt "demo-contents"
+msgid "Fusce gravida ut nisi et facilisis. Nullam ut mi fermentum, posuere dolor id, ultricies ipsum. Duis urna ipsum, tincidunt ut lorem."
+msgstr "Fusce gravida ut nisi et facilisis. Nullam ut mi fermentum, posuere dolor id, ultricies ipsum. Duis urna ipsum, tincidunt ut lorem."
+
+#: patterns/3-columns-with-icons.php:28 patterns/contact-us.php:81
+#: patterns/homepage-2.php:93
+msgctxt "demo-contents"
+msgid "Buy safe: our 30 days money back guarantee"
+msgstr "Acquista in sicurezza: la nostra garanzia soddisfatto o rimborsato"
+
+#: patterns/3-columns-banner.php:47 patterns/homepage-2.php:50
+msgctxt "demo-contents"
+msgid "<strong>Accessories</strong><br>Start to shop <strong>⟶</strong>"
+msgstr "<strong>Accessori</strong><br>Inizia lo shopping<strong>⟶</strong>"
+
+#: patterns/3-columns-banner.php:36 patterns/homepage-2.php:39
+msgctxt "demo-contents"
+msgid "Start to shop <strong>⟶</strong>"
+msgstr "Inizia a fare shopping <strong>⟶</strong>"
+
+#: patterns/3-columns-banner.php:31 patterns/homepage-2.php:34
+msgctxt "demo-contents"
+msgid "JEANS &amp;<br>DENIM"
+msgstr "JEANS &amp;<br>DENIM"
+
+#: patterns/3-columns-banner.php:21 patterns/homepage-2.php:24
+msgctxt "demo-contents"
+msgid "<strong>A romantic touch of black<br></strong>Start to shop <strong>⟶</strong>"
+msgstr "<strong>Accativante con un tocco di nero<br></strong>Inizia a fare shopping <strong>⟶</strong>"
+
+#: inc/register-block-styles.php:56
+msgid "Hidden total"
+msgstr "Totale nascosto"
+
+#: inc/register-block-styles.php:49
+msgid "With Icon"
+msgstr "Con icona"
+
+#: inc/register-block-styles.php:35
+msgid "Creative #2"
+msgstr "Creativo 2"
+
+#: inc/register-block-styles.php:28
+msgid "Creative #1"
+msgstr "Creativo 1"
+
+#: inc/register-block-styles.php:21
+msgid "Button Style 1"
+msgstr "Pulsante stile 1"
+
+#: inc/register-block-pattern-categories.php:50
+msgid "Wonder - Utilities"
+msgstr "Wonder - varie"
+
+#: inc/register-block-pattern-categories.php:45
+msgid "Wonder - Page sections"
+msgstr "Wonder - sezioni pagina"
+
+#: inc/register-block-pattern-categories.php:40
+msgid "Wonder - Banners"
+msgstr "Wonder - Banner"
+
+#: inc/register-block-pattern-categories.php:35
+msgid "Wonder - Testimonials"
+msgstr "Wonder - Testimonial"
+
+#: inc/register-block-pattern-categories.php:30
+msgid "Wonder - Pages"
+msgstr "Wonder - Pagine"
+
+#: inc/register-block-pattern-categories.php:25
+msgid "Wonder - Site Headers"
+msgstr "Wonder - Header"
+
+#: inc/register-block-pattern-categories.php:20
+msgid "Wonder - Site Footers"
+msgstr "Wonder - Footer"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://yithemes.com/"
+msgstr "https://yithemes.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "YITH"
+msgstr "YITH"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://wonder.yithemes.com/"
+msgstr "https://wonder.yithemes.com/"

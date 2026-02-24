@@ -1,0 +1,516 @@
+# Translation of Themes - Twenty Thirteen in Polish
+# This file is distributed under the same license as the Themes - Twenty Thirteen package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-07-14 07:42:36+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: pl\n"
+"Project-Id-Version: Themes - Twenty Thirteen\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "The 2013 theme for WordPress takes us back to the blog, featuring a full range of post formats, each displayed beautifully in their own unique way. Design details abound, starting with a vibrant color scheme and matching header images, beautiful typography and icons, and a flexible layout that looks great on any device, big or small."
+msgstr "Motyw Twenty Thirteen dla WordPressa to powrót do korzeni, do blogowania. Wyposażony w pełną gamę formatów, wyświetlanych pięknie i wyjątkowo. Drobne szczegóły zaskakują: począwszy od tętniących życiem kolorów i dopasowanych obrazów nagłówka, po śliczne kroje pisma i ikony. Na koniec  elastyczny układ, który wygląda świetnie na każdym możliwym urządzeniu."
+
+#. Theme Name of the theme
+#: style.css inc/block-patterns.php:20
+#, gp-priority: high
+msgid "Twenty Thirteen"
+msgstr "Twenty Thirteen"
+
+#: functions.php:198
+msgid "Dark Sky"
+msgstr "Ciemne niebo"
+
+#: functions.php:193
+msgid "Light Sky"
+msgstr "Jasne niebo"
+
+#: functions.php:188
+msgid "Sunset Yellow"
+msgstr "Żółty zachód słońca"
+
+#: functions.php:183
+msgid "Autumn Brown"
+msgstr "Brązowa jesień"
+
+#. translators: 1: Date, 2: Date, 3, Parent permalink, 4, Post title, 5: Post
+#. title.
+#: image.php:30
+msgid "Published on <time class=\"entry-date\" datetime=\"%1$s\">%2$s</time> in <a href=\"%3$s\" title=\"Go to %4$s\" rel=\"gallery\">%5$s</a>"
+msgstr "Opublikowano dnia <time class=\"entry-date\" datetime=\"%1$s\">%2$s</time> w <a href=\"%3$s\" title=\"Przejdź do %4$s\" rel=\"gallery\">%5$s</a>."
+
+#: inc/block-patterns.php:162
+msgid "Neil Armstrong<br>James Lovell Jr.<br>Dr. Sally Ride<br>Chris Hadfield"
+msgstr "Neil Armstrong<br>James Lovell Jr.<br>Dr. Sally Ride<br>Chris Hadfield"
+
+#: inc/block-patterns.php:156
+msgid "Yuri Gagarin<br>Alan B. Shepard Jr.<br>Valentina Tereshkova<br>John Glenn Jr."
+msgstr "Yuri Gagarin<br>Alan B. Shepard Jr.<br>Valentina Tereshkova<br>John Glenn Jr."
+
+#: inc/block-patterns.php:150
+msgid "FAMOUS ASTRONAUTS"
+msgstr "SŁAWNI ASTRONAUCI"
+
+#: inc/block-patterns.php:146
+msgid "Informational List"
+msgstr "Informacje"
+
+#: inc/block-patterns.php:136
+msgid "When you look at the stars and the galaxy, you feel that you are not just from any particular piece of land, but from the solar system."
+msgstr "Kiedy patrzysz na gwiazdy i galaktykę, czujesz, że pochodzisz nie tylko z konkretnego kawałka ziemi, ale z całego Układu Słonecznego."
+
+#: inc/block-patterns.php:127
+msgid "Big Quote"
+msgstr "Duży cytat"
+
+#: inc/block-patterns.php:116 inc/block-patterns.php:136
+msgid "Kalpana Chawla"
+msgstr "Kalpana Chawla"
+
+#: inc/block-patterns.php:116
+msgid "When you look at <br>the stars and the galaxy, you feel that you are not <br>just from any particular piece of land, but from the solar system."
+msgstr "Kiedy patrzysz <br>na gwiazdy i galaktykę, masz wrażenie, że nie pochodzisz <br>z jakiegoś konkretnego miejsca na ziemi, lecz z układu słonecznego."
+
+#: inc/block-patterns.php:104
+msgid "Callout Quote"
+msgstr "Wywołanie cytatu"
+
+#: inc/block-patterns.php:92
+msgid "Colonies"
+msgstr "Kolonie"
+
+#: inc/block-patterns.php:76
+msgid "Space"
+msgstr "Przestrzeń"
+
+#: inc/block-patterns.php:75 inc/block-patterns.php:83
+#: inc/block-patterns.php:91
+msgid "Write title…"
+msgstr "Wprowadź tytuł…"
+
+#: inc/block-patterns.php:70
+msgid "Decorative Columns"
+msgstr "Kolumny dekoracyjne"
+
+#: inc/block-patterns.php:59
+msgid "Discover More"
+msgstr "Dowiedz się więcej"
+
+#: inc/block-patterns.php:54
+msgid "In the 1970s, NASA's Ames Research Center illustrated some explorations around what future space colonies could look like. This piece, illustrated by Rick Guidice, shows the inside of a toroidal shaped colony."
+msgstr "W latach 70. ubiegłego wieku Centrum Badawcze Ames NASA zilustrowało kilka badań dotyczących tego, jak mogłyby wyglądać przyszłe kolonie kosmiczne. Praca, zilustrowana przez Ricka Guidice, pokazuje wnętrze kolonii o kształcie toroidalnym."
+
+#: inc/block-patterns.php:50
+msgid "Exploring Space"
+msgstr "Odkrywanie kosmosu"
+
+#: inc/block-patterns.php:46
+msgid "Informational Section"
+msgstr "Informacje"
+
+#: inc/block-patterns.php:36 inc/block-patterns.php:132
+msgid "NASA Space Colony illustration, cutaway view of Bernal Sphere. The interior of the sphere is filled with greenery and houses, and a star shines brightly behind the colony."
+msgstr "Ilustracja przedstawiająca kolonię kosmiczną NASA, widok z góry na sferę Bernala. Wnętrze kuli jest wypełnione zielenią i domami, a za kolonią jasno świeci gwiazda."
+
+#: inc/block-patterns.php:36
+msgid "NASA Space Colony illustration, cutaway view, exposing the interior of a toroidal colony. Trees and densely-packed housing line the inside of the torus."
+msgstr "Ilustracja kolonii kosmicznej NASA, widok z góry, ukazujący wnętrze kolonii toroidalnej. Wewnątrz torusa znajdują się drzewa i gęsto upakowane budynki mieszkalne."
+
+#: inc/block-patterns.php:36
+msgid "Solid orange square"
+msgstr "Pomarańczowy kwadrat"
+
+#: inc/block-patterns.php:36
+msgid "NASA Space Colony illustration, interior view of a cylindrical space colony, looking out through large windows. The interior contains fields, forests, and a river snaking from the foreground into the background. Low clouds hang over the land."
+msgstr "Ilustracja przedstawiająca kolonię kosmiczną NASA, widok wnętrza cylindrycznej kolonii kosmicznej przez duże okna. Wnętrze zawiera pola, lasy i rzekę wijącą się od pierwszego planu do tła. Niskie chmury wiszą nad ziemią."
+
+#: inc/block-patterns.php:36
+msgid "NASA Space Colony illustration, interior view of torus colony. Public spaces appear in the foreground of the torus, while housing, rolling hills, and a river snake up into the background."
+msgstr "Ilustracja kolonii kosmicznej NASA, widok wnętrza kolonii torusa. Przestrzenie publiczne pojawiają się na pierwszym planie torusa, podczas gdy zabudowania mieszkalne, wzgórza i rzeka rozciągają się w tle."
+
+#: inc/block-patterns.php:36
+msgid "Solid red square"
+msgstr "Czerwony kwadrat"
+
+#: inc/block-patterns.php:32
+msgid "Decorative Gallery"
+msgstr "Galeria dekoracyjna"
+
+#: functions.php:948
+msgid "No Shadow"
+msgstr "Bez cienia"
+
+#. translators: %s: The post title.
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Jeden komentarz do &ldquo;%s&rdquo;"
+
+#: functions.php:171
+msgid "Off-white"
+msgstr "Ecru"
+
+#: functions.php:166
+msgid "Beige"
+msgstr "Beżowy"
+
+#: functions.php:161
+msgid "Light Brown"
+msgstr "Jasnobrązowy"
+
+#: functions.php:156
+msgid "Medium Brown"
+msgstr "Brązowy"
+
+#: functions.php:151
+msgid "Dark Brown"
+msgstr "Ciemnobrązowy"
+
+#: functions.php:146
+msgid "White"
+msgstr "Biały"
+
+#: functions.php:141
+msgid "Yellow"
+msgstr "Żółty"
+
+#: functions.php:136
+msgid "Light Orange"
+msgstr "Jasnopomarańczowy"
+
+#: functions.php:131
+msgid "Medium Orange"
+msgstr "Pomarańczowy"
+
+#: functions.php:126
+msgid "Red"
+msgstr "Czerwony"
+
+#: functions.php:121
+msgid "Dark Gray"
+msgstr "Ciemnoszary"
+
+#. translators: %s: Post format name.
+#: taxonomy-post_format.php:26
+msgid "%s Archives"
+msgstr "Archiwa %s"
+
+#. translators: Tag title.
+#: tag.php:24
+msgid "Tag Archives: %s"
+msgstr "Archiwa tagu: %s"
+
+#. translators: %s: Search query.
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr "Wyniki wyszukiwania: %s"
+
+#: inc/custom-header.php:60
+msgctxt "header image description"
+msgid "Star"
+msgstr "Gwiazdka"
+
+#: inc/custom-header.php:55
+msgctxt "header image description"
+msgid "Diamond"
+msgstr "Diament"
+
+#: inc/custom-header.php:50
+msgctxt "header image description"
+msgid "Circle"
+msgstr "Koło"
+
+#. translators: %s: WordPress version.
+#: inc/back-compat.php:41 inc/back-compat.php:56 inc/back-compat.php:77
+msgid "Twenty Thirteen requires at least WordPress version 3.6. You are running version %s. Please upgrade and try again."
+msgstr "Twenty Thirteen wymaga WordPressa w wersji co najmniej 3.6, używana jest natomiast wersja %s. Proszę zaktualizować i spróbować ponownie."
+
+#: image.php:64
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Następny <span class=\"meta-nav\">&rarr;</span>"
+
+#: image.php:63
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Poprzedni"
+
+#: image.php:51
+msgid "Full resolution"
+msgstr "Pełena rozdzielczość"
+
+#: image.php:50
+msgid "Link to full-size image"
+msgstr "Odnośnik do oryginalnego obrazka"
+
+#. translators: Hidden accessibility text.
+#: header.php:28
+msgid "Skip to content"
+msgstr "Przejdź do treści"
+
+#: header.php:49
+msgid "Menu"
+msgstr "Menu"
+
+#. translators: %s: Post title.
+#: functions.php:636
+msgid "Permalink to %s"
+msgstr "Bezpośredni odnośnik do %s"
+
+#. translators: 1: Post format name, 2: Date.
+#: functions.php:627
+msgctxt "1: post format name. 2: date"
+msgid "%1$s on %2$s"
+msgstr "%1$s - %2$s"
+
+#. translators: %s: Author display name.
+#: functions.php:606
+msgid "View all posts by %s"
+msgstr "Zobacz wszystkie wpisy opublikowane przez %s"
+
+#. translators: Used between list items, there is a space after the comma.
+#: functions.php:480
+msgid ", "
+msgstr ", "
+
+#: functions.php:583
+msgid "Sticky"
+msgstr "Przypięto"
+
+#: functions.php:565
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr "&bdquo;%title&rdquo; <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:564
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr "<span class=\"meta-nav\">&larr;</span> &bdquo;%title&rdquo;"
+
+#. translators: Hidden accessibility text.
+#: functions.php:559
+msgid "Post navigation"
+msgstr "Nawigacja wpisu"
+
+#: functions.php:501
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Nowsze wpisy <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:502
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Starsze wpisy"
+
+#. translators: Hidden accessibility text.
+#: functions.php:512
+msgid "Posts navigation"
+msgstr "Nawigacja po wpisach"
+
+#: functions.php:460
+msgid "Appears on posts and pages in the sidebar."
+msgstr "Pojawia się w panelu bocznym dla wpisów i stron."
+
+#: functions.php:458
+msgid "Secondary Widget Area"
+msgstr "Drugi obszar dla widżetów"
+
+#: functions.php:448
+msgid "Appears in the footer section of the site."
+msgstr "Znajduje się w stopce witryny."
+
+#: functions.php:446
+msgid "Main Widget Area"
+msgstr "Główna strefa widgetów"
+
+#. translators: %s: Page number.
+#: functions.php:431
+msgid "Page %s"
+msgstr "Strona %s"
+
+#. translators: If there are characters in your language that are not supported
+#. by Bitter, translate this to 'off'. Do not translate into your own language.
+#: functions.php:288
+msgctxt "Bitter font: on or off"
+msgid "on"
+msgstr "włącz"
+
+#. translators: If there are characters in your language that are not supported
+#. by Source Sans Pro, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:282
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr "włącz"
+
+#: functions.php:246
+msgid "Navigation Menu"
+msgstr "Menu nawigacji"
+
+#. translators: %s: WordPress
+#: footer.php:34
+msgid "Proudly powered by %s"
+msgstr "Dumnie wspierane przez %s"
+
+#: content-none.php:32
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Nie udało się znaleźć tego, czego szukasz. Być może wyszukiwanie przyniesie lepsze rezultaty."
+
+#: content-none.php:27
+msgid "Sorry, but nothing matched your search terms. Please try again with different keywords."
+msgstr "Przepraszamy, ale nie znaleziono wpisów pasujących do podanych kryteriów. Proszę spróbować ponownie, podając inne kryteria."
+
+#. translators: %s: Post editor URL.
+#: content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "Czy można już opublikować pierwszy wpis? <a href=\"%s\">Zacznij tutaj</a>."
+
+#: content-none.php:12
+msgid "Nothing Found"
+msgstr "Niczego nie znaleziono"
+
+#: content-gallery.php:52 content-image.php:48 content-quote.php:38
+#: content-video.php:48 content.php:65
+msgid "View all % comments"
+msgstr "Zobacz komentarze (%)"
+
+#: content-gallery.php:52 content-image.php:48 content-quote.php:38
+#: content-video.php:48 content.php:65
+msgid "One comment so far"
+msgstr "Zobacz komentarze (1)"
+
+#: content-gallery.php:52 content-image.php:48 content-quote.php:38
+#: content-video.php:48 content.php:65
+msgid "Leave a comment"
+msgstr "Dodaj komentarz"
+
+#: content-aside.php:36 content-aside.php:44 content-audio.php:47
+#: content-chat.php:45 content-gallery.php:55 content-image.php:51
+#: content-link.php:19 content-quote.php:41 content-status.php:35
+#: content-video.php:51 content.php:31 image.php:56 page.php:51
+msgid "Edit"
+msgstr "Edytuj"
+
+#: content-aside.php:24 content-audio.php:35 content-chat.php:34
+#: content-gallery.php:35 content-image.php:34 content-link.php:35
+#: content-quote.php:24 content-status.php:24 content-video.php:34
+#: content.php:52 image.php:85 page.php:41
+msgid "Pages:"
+msgstr "Strony:"
+
+#. translators: %s: Post title. Only visible to screen readers.
+#: content-aside.php:17 content-audio.php:28 content-chat.php:27
+#: content-gallery.php:28 content-image.php:27 content-link.php:28
+#: content-quote.php:17 content-status.php:17 content-video.php:27
+#: content.php:45 functions.php:750
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Czytaj dalej %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:72
+msgid "Comments are closed."
+msgstr "Możliwość komentowania została wyłączona."
+
+#: comments.php:67
+msgid "Newer Comments &rarr;"
+msgstr "Nowsze komentarze &rarr;"
+
+#: comments.php:66
+msgid "&larr; Older Comments"
+msgstr "&larr; Starsze komentarze"
+
+#. translators: Hidden accessibility text.
+#: comments.php:63
+msgid "Comment navigation"
+msgstr "Nawigacja po komentarzach"
+
+#. translators: 1: The number of comments, 2: The post title.
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s komentarz do &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s komentarze do &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s komentarzy do &ldquo;%2$s&rdquo;"
+
+#. translators: %s: Category title.
+#: category.php:22
+msgid "Category Archives: %s"
+msgstr "Archiwum kategorii: %s"
+
+#. translators: %s: Author display name.
+#: author.php:34
+msgid "All posts by %s"
+msgstr "Wszystkie wpisy, których autorem jest %s"
+
+#. translators: %s: Author display name.
+#: author-bio.php:37
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Zobacz wszystkie wpisy, których autorem jest %s <span class=\"meta-nav\">&rarr;</span>"
+
+#. translators: %s: Author display name.
+#: author-bio.php:29
+msgid "About %s"
+msgstr "O %s"
+
+#: archive.php:39
+msgid "Archives"
+msgstr "Archiwa"
+
+#. translators: %s: Date.
+#: archive.php:37
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#. translators: %s: Date.
+#: archive.php:37
+msgid "Yearly Archives: %s"
+msgstr "Archiwum roku: %s"
+
+#. translators: %s: Date.
+#: archive.php:34
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#. translators: %s: Date.
+#: archive.php:34
+msgid "Monthly Archives: %s"
+msgstr "Archiwum miesiąca: %s"
+
+#. translators: %s: Date.
+#: archive.php:31
+msgid "Daily Archives: %s"
+msgstr "Archiwum dnia: %s"
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Niczego tutaj nie ma. Może użyj wyszukiwarki?"
+
+#: 404.php:21
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "Jest to trochę krępujące, nieprawdaż?"
+
+#: 404.php:16
+msgid "Not Found"
+msgstr "Nie znaleziono"
+
+#. Author URI of the theme
+#: style.css footer.php:31
+#, gp-priority: low
+msgid "https://wordpress.org/"
+msgstr "https://pl.wordpress.org/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "the WordPress team"
+msgstr "zespół WordPressa"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://wordpress.org/themes/twentythirteen/"
+msgstr "https://wordpress.org/themes/twentythirteen/"

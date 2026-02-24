@@ -1,0 +1,175 @@
+# Translation of Themes - NewseBlog in German
+# This file is distributed under the same license as the Themes - NewseBlog package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-11-11 00:15:55+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: de\n"
+"Project-Id-Version: Themes - NewseBlog\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "NewseBlog is a fast, modern, highly customizable WordPress theme built for news websites, magazines, bloggers, and content creators, offering clean code, mobile-first design, lightning-fast performance, SEO optimization, beautiful homepage layouts, featured sliders, trending sections, multiple blog styles, complete Elementor and Gutenberg compatibility, seamless integration with the free Blog News For Elementor plugin with 50+ widgets and 20+ templates, and all the speed, power, and flexibility needed to create stunning news portals, personal blogs, magazine sites, or multi-author platforms. All these templates are created with elementor page builder.  Live preview : https://blognews.themeansar.com/default and documentation at https://docs.themeansar.com/docs/blognews-for-elementor/"
+msgstr ""
+
+#. Theme Name of the theme
+#: style.css admin/newseblog-admin-plugin-install.php:78
+#, gp-priority: high
+msgid "NewseBlog"
+msgstr "NewseBlog"
+
+#: admin/newseblog-admin-plugin-install.php:124
+msgid "Failed to fetch plugin information."
+msgstr "Das Abrufen der Plugin-Informationen ist fehlgeschlagen."
+
+#: template-parts/content.php:49
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Leider gibt es keine Übereinstimmung mit Ihren Suchbegriffen. Bitte versuchen Sie es mit anderen Schlüsselwörtern erneut."
+
+#: template-parts/content.php:48
+msgid "Nothing Found!"
+msgstr "Nichts gefunden!"
+
+#: template-parts/content.php:42
+msgid "Read More"
+msgstr "Weiterlesen"
+
+#: single.php:33 template-parts/content.php:37
+msgid "Comments"
+msgstr "Kommentare"
+
+#: single.php:33 template-parts/content.php:37
+msgid "1 Comment"
+msgstr "1 Kommentar"
+
+#: single.php:33 template-parts/content.php:37
+msgid "No Comments"
+msgstr "Keine Kommentare"
+
+#: page.php:31
+msgid "Pages:"
+msgstr "Seiten:"
+
+#: header.php:30
+msgid "Skip to content"
+msgstr "Zum Inhalt springen"
+
+#: functions.php:116
+msgid "Primary menu"
+msgstr "Primäres Menü"
+
+#: footer.php:21
+msgid "<p> <span class=\"copyright-text\">Copyright © All rights reserved</span> | %1$s by  <a href=\"%2$s\">%3$s.</a></p>"
+msgstr "<p> <span class=\"copyright-text\">Copyright © Alle Rechte vorbehalten</span> | %1$s von <a href=\"%2$s\">%3$s.</a></p>"
+
+#: comments.php:94
+msgid "Comments are closed."
+msgstr "Die Kommentare sind geschlossen."
+
+#: comments.php:59 comments.php:83
+msgid "Newer Comments"
+msgstr "Neuere Kommentare"
+
+#: comments.php:58 comments.php:82
+msgid "Older Comments"
+msgstr "Ältere Kommentare"
+
+#: comments.php:55 comments.php:79
+msgid "Comment navigation"
+msgstr "Kommentar-Navigation"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:36
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s Gedanke zu „%2$s“"
+msgstr[1] "%1$s Gedanken zu „%2$s“"
+
+#. translators: %s: post title
+#: comments.php:31
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Ein Gedanke zu „%s“"
+
+#: admin/newseblog-admin-plugin-install.php:155
+msgid "All plugins installed and activated successfully."
+msgstr "Alle Plugins wurden erfolgreich installiert und aktiviert."
+
+#: admin/newseblog-admin-plugin-install.php:132
+msgid "Plugin installation failed."
+msgstr "Die Plugin-Installation ist fehlgeschlagen."
+
+#: admin/newseblog-admin-plugin-install.php:96
+msgid "Sorry, you are not allowed to access this page."
+msgstr "Sie sind leider nicht berechtigt, auf diese Seite zuzugreifen."
+
+#: admin/newseblog-admin-plugin-install.php:68
+msgid "Video Tutorials"
+msgstr "Videoanleitungen"
+
+#: admin/newseblog-admin-plugin-install.php:64
+msgid "Support"
+msgstr "Support"
+
+#: admin/newseblog-admin-plugin-install.php:60
+msgid "View Documentation"
+msgstr "Dokumentation anzeigen"
+
+#: admin/newseblog-admin-plugin-install.php:55
+msgid "View Demos"
+msgstr "Demos anzeigen"
+
+#: admin/newseblog-admin-plugin-install.php:54
+msgid "Get Started"
+msgstr "Loslegen"
+
+#: admin/newseblog-admin-plugin-install.php:46
+msgid "Ansar Import"
+msgstr "Ansar Import"
+
+#: admin/newseblog-admin-plugin-install.php:41
+msgid "Thank you for choosing %1$s theme. To take full advantage of the complete features of the theme, click Get Started and install and activate the %2$s plugin, then use the demo importer and install the %3$s demo according to your need."
+msgstr "Vielen Dank, dass Sie sich für das %1$s-Theme entschieden haben. Um alle Funktionen des Themes voll auszuschöpfen, klicken Sie auf „Erste Schritte“, installieren und aktivieren Sie das %2$s-Plugin und verwenden Sie dann den Demo-Importer, um die %3$s-Demo entsprechend Ihren Anforderungen zu installieren."
+
+#: admin/newseblog-admin-plugin-install.php:35
+msgid "Welcome to %1$s"
+msgstr "Willkommen bei %1$s"
+
+#: admin/newseblog-admin-plugin-install.php:27
+msgid "Hello, "
+msgstr "Hallo, "
+
+#: 404.php:21
+msgid "Go Back"
+msgstr "Zurück"
+
+#: 404.php:20
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr "Es tut uns leid, aber die Seite, die Sie suchen, existiert nicht."
+
+#: 404.php:19
+msgid "Page Not Found"
+msgstr "Seite nicht gefunden"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themeansar.com/free-themes/newseblog/"
+msgstr "https://themeansar.com/free-themes/newseblog/"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themeansar.com"
+msgstr "https://themeansar.com"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Themeansar"
+msgstr "Themeansar"

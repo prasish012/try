@@ -1,0 +1,1030 @@
+# Translation of Themes - Newsup in Japanese
+# This file is distributed under the same license as the Themes - Newsup package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-07-21 02:43:05+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - Newsup\n"
+
+#. Description of the theme
+#: style.css inc/ansar/admin/getting-started.php:90
+#, gp-priority: high
+msgid "Newsup is a fast, clean, modern-looking Best Responsive News Magazine WordPress theme. The theme is fully widgetized, so users can manage the content by using easy to use widgets. Newsup is suitable for dynamic news, newspapers, magazine, publishers, blogs, editors, online and gaming magazines, newsportals,personal blogs, newspaper, publishing or review siteand any creative website. Newsup is SEO friendly, WPML,Gutenberg, translation and RTL ready. Live preview : https://demo.themeansar.com/newsup and documentation at https://docs.themeansar.com/docs/newsup/"
+msgstr "Newsup は高速、クリーン、モダンな外観の完全にレスポンシブなニュースマガジン向け WordPress テーマです。テーマは完全にウィジェット化され、ユーザーは使いやすいウィジェットを使用してコンテンツを管理できます。動的なニュース、新聞、雑誌、出版、ブログ、編集者、オンライン雑誌、ゲーム雑誌、ニュースポータル、個人ブログ、新聞、出版、レビューサイトなど、あらゆる創造的なウェブサイトに適しています。SEO フレンドリー、WPML、Gutenberg、翻訳、RTLに対応しています。ライブプレビュー: https://demo.themeansar.com/newsup、ドキュメント: https://docs.themeansar.com/docs/newsup/"
+
+#. Theme Name of the theme
+#: style.css inc/ansar/customizer-admin/newsup-admin-plugin-install.php:83
+#, gp-priority: high
+msgid "Newsup"
+msgstr "Newsup"
+
+#: inc/ansar/customizer-admin/newsup-admin-plugin-install.php:135
+msgid "Plugin installed and activated successfully."
+msgstr ""
+
+#: inc/ansar/customizer-admin/newsup-admin-plugin-install.php:129
+msgid "Plugin installation failed."
+msgstr ""
+
+#: inc/ansar/customizer-admin/newsup-admin-plugin-install.php:122
+msgid "Failed to fetch plugin information."
+msgstr ""
+
+#: inc/ansar/customizer-admin/newsup-admin-plugin-install.php:102
+msgid "Sorry, you are not allowed to access this page."
+msgstr ""
+
+#: inc/ansar/customizer-admin/newsup-admin-plugin-install.php:55
+msgid "Get Started"
+msgstr ""
+
+#: inc/ansar/customizer-admin/newsup-admin-plugin-install.php:73
+msgid "Video Tutorials"
+msgstr "動画チュートリアル"
+
+#: inc/ansar/customizer-admin/newsup-admin-plugin-install.php:69
+msgid "Support"
+msgstr "サポート"
+
+#: inc/ansar/customizer-admin/newsup-admin-plugin-install.php:47
+msgid "Ansar Import"
+msgstr "Ansar Import"
+
+#: inc/ansar/template-tags.php:208
+msgid "No results found"
+msgstr "結果がありません"
+
+#: inc/ansar/template-tags.php:204
+msgid "%s result found"
+msgid_plural "%s results found"
+msgstr[0] "%s件の結果が見つかりました"
+
+#: inc/ansar/template-tags.php:93
+msgid "No Comments"
+msgstr "0 コメント"
+
+#: inc/ansar/template-tags.php:96
+msgid "Comments"
+msgstr "コメント"
+
+#: inc/ansar/customizer-admin/newsup-admin-plugin-install.php:61
+msgid "View Demos"
+msgstr "デモを表示"
+
+#: inc/ansar/customizer-admin/newsup-admin-plugin-install.php:65
+msgid "View Documentation"
+msgstr "ドキュメンテーションを表示"
+
+#: inc/ansar/customizer-admin/newsup-admin-plugin-install.php:56
+msgid "Customize Site"
+msgstr "サイトをカスタマイズ"
+
+#: inc/ansar/customizer-admin/newsup-admin-plugin-install.php:42
+msgid "Thank you for choosing %1$s theme. To take full advantage of the complete features of the theme, click Get Started and install and activate the %2$s plugin, then use the demo importer and install the %3$s demo according to your need."
+msgstr ""
+
+#: inc/ansar/customizer-admin/newsup-admin-plugin-install.php:28
+msgid "Hello, "
+msgstr "こんにちは "
+
+#: inc/ansar/template-tags.php:96
+msgid "Comment"
+msgstr "コメント"
+
+#: inc/ansar/customize/theme-options.php:527
+msgid "Page"
+msgstr "ページ"
+
+#: inc/ansar/customize/theme-options.php:894
+msgid "Footer Option"
+msgstr "フッター設定"
+
+#: inc/ansar/customize/theme-options.php:96
+#: inc/ansar/customize/theme-options.php:959
+msgid "Social Icon"
+msgstr "ソーシャルアイコン"
+
+#: inc/ansar/customize/theme-options.php:35
+msgid "Date & Time"
+msgstr "日付と時刻"
+
+#: inc/ansar/customize/theme-options.php:396
+msgid "Link"
+msgstr "リンク"
+
+#: inc/ansar/customize/theme-options.php:380
+msgid "Hide / Show"
+msgstr "表示 / 非表示"
+
+#: inc/ansar/customize/theme-options.php:365
+msgid "Subscribe"
+msgstr "登録"
+
+#: inc/ansar/customize/customizer.php:563
+msgid "Display Center Site Title and Tagline"
+msgstr "サイトのタイトルとキャッチフレーズを表示"
+
+#: inc/ansar/customize/theme-options.php:1215
+msgid "Hide/Show Footer Menu"
+msgstr "フッターメニューを表示 / 非表示"
+
+#: inc/ansar/customize/theme-options.php:1200
+msgid "Footer Menu"
+msgstr "フッターメニュー"
+
+#: inc/ansar/customize/frontpage-options.php:302
+msgid "Right"
+msgstr "右寄せ"
+
+#: inc/ansar/customize/frontpage-options.php:301
+msgid "Left"
+msgstr "左寄せ"
+
+#: inc/ansar/customize/frontpage-options.php:297
+msgid "Select Slider Carousel Position"
+msgstr "トレンドカルーセル位置を選択"
+
+#: inc/ansar/newsup-custom-navwalker.php:207
+msgid "Add a menu"
+msgstr "メニューを追加"
+
+#: inc/ansar/customize/customizer.php:547
+msgid "Site Title Size"
+msgstr "サイト タイトル サイズ"
+
+#: inc/ansar/customize/theme-options.php:350
+msgid "Hide / Show Search"
+msgstr "探索を表示 / 非表示"
+
+#: inc/ansar/customize/theme-options.php:335
+msgid "Search"
+msgstr "検索"
+
+#: inc/ansar/admin/tabs/recommended-plugins-panel.php:28
+msgid "Ansar Demo Import"
+msgstr "Ansar Demo Import"
+
+#: inc/ansar/customize/theme-options.php:931
+msgid "Text Color"
+msgstr "文字色"
+
+#: inc/ansar/customize/theme-options.php:306
+#: inc/ansar/customize/theme-options.php:1171
+msgid "Telegram URL"
+msgstr "Telegram URL"
+
+#: inc/ansar/template-tags.php:83
+msgid "Edit"
+msgstr "編集"
+
+#: inc/ansar/customize/theme-options.php:713
+msgid "Hide/Show Sharing Icons"
+msgstr "共有アイコンを非表示/表示"
+
+#: inc/ansar/customize/theme-options.php:1238
+msgid "Auto Height Post Image"
+msgstr ""
+
+#: inc/ansar/customize/theme-options.php:1237
+msgid "Fix Height Post Image"
+msgstr ""
+
+#: inc/ansar/customize/theme-options.php:1235
+msgid "Post Image display type:"
+msgstr ""
+
+#: inc/ansar/customize/theme-options.php:1221
+msgid "Post Image Settings"
+msgstr "投稿画像設定"
+
+#: inc/ansar/customize/theme-options.php:683
+msgid "Hide/Show Tag"
+msgstr "タグを隠す / 表示"
+
+#: inc/ansar/customize/theme-options.php:80
+msgid "From WordPress Setting"
+msgstr "WordPress 設定から"
+
+#: inc/ansar/customize/theme-options.php:79
+msgid "Theme Default Setting"
+msgstr "テーマデフォルト設定"
+
+#: inc/ansar/customize/theme-options.php:77
+msgid "Date / Time in header display type:"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/ansar/template-functions.php:181
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "編集 <span class=\"screen-reader-text\">%s</span>"
+
+#. Template Name of the theme
+msgid "Page Builder Template"
+msgstr "ページビルダーテンプレート"
+
+#: searchform.php:3
+msgctxt "placeholder"
+msgid "Search"
+msgstr "検索"
+
+#: comments.php:88
+msgid "Comments are closed."
+msgstr "コメントは受け付けていません。"
+
+#: comments.php:56 comments.php:77
+msgid "Newer Comments"
+msgstr "新しいコメント"
+
+#: comments.php:55 comments.php:76
+msgid "Older Comments"
+msgstr "過去のコメント"
+
+#: comments.php:52 comments.php:73
+msgid "Comment navigation"
+msgstr "コメントナビゲーション"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:34
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "「%2$s」への%1$s件のフィードバック"
+
+#. translators: %s: post title
+#: comments.php:29
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "&ldquo;%s&rdquo; に1件のフィードバックがあります"
+
+#. translators: placeholder replaced with string
+#: inc/ansar/hooks/hook-footer.php:72
+msgid "https://themeansar.com/"
+msgstr "https://themeansar.com/"
+
+#. translators: placeholder replaced with string
+#: inc/ansar/hooks/hook-footer.php:72
+msgid "Theme: %1$s by %2$s."
+msgstr "テーマ: %1$s by %2$s."
+
+#. translators: placeholder replaced with string
+#: inc/ansar/hooks/hook-footer.php:66
+msgid "Proudly powered by %s"
+msgstr "Proudly powered by %s"
+
+#: inc/ansar/hooks/hook-footer.php:63
+msgid "https://wordpress.org/"
+msgstr "https://ja.wordpress.org/"
+
+#: inc/ansar/customize/theme-options.php:1141
+msgid "Pinterest URL"
+msgstr "Pinterest URL"
+
+#: inc/ansar/customize/theme-options.php:944
+msgid "Select Column Layout"
+msgstr "カラムレイアウトを選択"
+
+#: inc/ansar/customize/frontpage-options.php:27
+#: inc/ansar/customize/theme-options.php:919
+msgid "Overlay Color"
+msgstr "オーバーレイの色"
+
+#: inc/ansar/customize/theme-options.php:907
+msgid "Background Image"
+msgstr "背景画像"
+
+#: inc/ansar/customize/theme-options.php:878
+msgid "Footer Options"
+msgstr "フッター設定"
+
+#: inc/ansar/customize/theme-options.php:860
+msgid "You Missed"
+msgstr "見逃しています"
+
+#: inc/ansar/customize/theme-options.php:851
+msgid "Hide / Show You Missed Section"
+msgstr "「見逃し」セクションを非表示/表示"
+
+#: inc/ansar/customize/theme-options.php:836
+msgid "You Missed Section"
+msgstr "「見逃し」セクション"
+
+#: inc/ansar/customize/theme-options.php:655
+#: inc/ansar/customize/theme-options.php:727
+msgid "Hide/Show Author Details"
+msgstr "投稿者の詳細の非表示 / 表示"
+
+#: inc/ansar/customize/theme-options.php:815
+msgid "Hide/Show Author Name"
+msgstr "投稿者の名を表示 / 非表示"
+
+#: inc/ansar/customize/theme-options.php:599
+#: inc/ansar/customize/theme-options.php:829
+msgid "Hide/Show Comments"
+msgstr "コメントを表示 / 非表示"
+
+#: inc/ansar/customize/theme-options.php:669
+#: inc/ansar/customize/theme-options.php:801
+msgid "Hide/Show Date"
+msgstr "日付の非表示 / 表示"
+
+#: inc/ansar/customize/theme-options.php:641
+#: inc/ansar/customize/theme-options.php:787
+msgid "Hide/Show Categories"
+msgstr "カテゴリーを表示 / 非表示"
+
+#: inc/ansar/customize/theme-options.php:764
+msgid "Related Posts"
+msgstr "関連投稿"
+
+#: inc/ansar/customize/theme-options.php:757
+msgid "Enable Related Posts"
+msgstr "関連記事を有効化"
+
+#: inc/ansar/customize/theme-options.php:698
+msgid "Hide/Show Featured Image"
+msgstr "アイキャッチ画像を表示"
+
+#: inc/ansar/customize/theme-options.php:609
+#: inc/ansar/customize/theme-options.php:625
+msgid "Single Post"
+msgstr "個別投稿"
+
+#: inc/ansar/customize/theme-options.php:586
+msgid "Hide All"
+msgstr "すべて非表示"
+
+#: inc/ansar/customize/theme-options.php:585
+msgid "Show Author Only"
+msgstr "投稿者のみ表示"
+
+#: inc/ansar/customize/theme-options.php:584
+msgid "Show Date Only"
+msgstr "日付のみ表示"
+
+#: inc/ansar/customize/theme-options.php:583
+msgid "Show Date and Author"
+msgstr "日付と投稿者を表示"
+
+#: inc/ansar/customize/theme-options.php:563
+#: inc/ansar/customize/theme-options.php:579
+msgid "Date and Author"
+msgstr "日付と投稿者"
+
+#: inc/ansar/customize/theme-options.php:486
+msgid "Single Blog Pages"
+msgstr "個別ブログページ"
+
+#: inc/ansar/customize/theme-options.php:464
+#: inc/ansar/customize/theme-options.php:508
+#: inc/ansar/customize/theme-options.php:549
+msgid "Layout"
+msgstr "レイアウト"
+
+#: inc/ansar/customize/theme-options.php:442
+msgid "Archive Blog Pages"
+msgstr "アーカイブブログページ"
+
+#: inc/ansar/customize/theme-options.php:425
+msgid "Content Layout Settings"
+msgstr "コンテンツレイアウト設定"
+
+#: inc/ansar/customize/theme-options.php:276
+msgid "Pintrest URL"
+msgstr "Pintrest URL"
+
+#: inc/ansar/customize/theme-options.php:246
+#: inc/ansar/customize/theme-options.php:1111
+msgid "Youtube URL"
+msgstr "YouTube URL"
+
+#: inc/ansar/customize/theme-options.php:216
+#: inc/ansar/customize/theme-options.php:1081
+msgid "Instagram URL"
+msgstr "Instagram URL"
+
+#: inc/ansar/customize/theme-options.php:186
+#: inc/ansar/customize/theme-options.php:1051
+msgid "Linkedin URL"
+msgstr "LinkedIn URL"
+
+#: inc/ansar/customize/theme-options.php:156
+#: inc/ansar/customize/theme-options.php:1021
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+#: inc/ansar/customize/theme-options.php:126
+#: inc/ansar/customize/theme-options.php:991
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: inc/ansar/customize/theme-options.php:110
+#: inc/ansar/customize/theme-options.php:975
+msgid "Hide / Show Social Icon"
+msgstr "ソーシャルアイコンを非表示/表示"
+
+#: inc/ansar/customize/theme-options.php:63
+msgid "Hide / Show Time"
+msgstr "時間の非表示 / 表示"
+
+#: inc/ansar/customize/theme-options.php:49
+msgid "Hide / Show Date"
+msgstr "日付の非表示 / 表示"
+
+#: inc/ansar/customize/theme-options.php:19
+msgid "Header Options"
+msgstr "ヘッダー設定"
+
+#: inc/ansar/customize/theme-options.php:13
+msgid "Theme Options"
+msgstr "テーマ設定"
+
+#: inc/ansar/customize/frontpage-options.php:426
+msgid "Posts to be shown on trending tab"
+msgstr ""
+
+#: inc/ansar/customize/frontpage-options.php:408
+msgid "Trending Tab Title"
+msgstr ""
+
+#: inc/ansar/customize/frontpage-options.php:391
+msgid "Popular Tab Title"
+msgstr "人気タブタイトル"
+
+#: inc/ansar/customize/frontpage-options.php:374
+msgid "Latest Tab Title"
+msgstr "最新タブのタイトル"
+
+#: inc/ansar/customize/frontpage-options.php:357
+msgid "Tabbed Section "
+msgstr ""
+
+#: inc/ansar/customize/frontpage-options.php:338
+msgid "Posts to be shown on banner slider section"
+msgstr "バナースライダーセクションに表示される投稿"
+
+#: inc/ansar/customize/frontpage-options.php:337
+#: inc/ansar/customize/frontpage-options.php:425
+msgid "Category"
+msgstr "カテゴリー"
+
+#: inc/ansar/customize/frontpage-options.php:320
+msgid "Slider Section "
+msgstr "スライダーセクション"
+
+#: inc/ansar/customize/frontpage-options.php:275
+msgid "Background image"
+msgstr "背景画像"
+
+#: inc/ansar/customize/frontpage-options.php:256
+msgid "Enable Slider Banner Section"
+msgstr "スライダーバナーセクションを有効化"
+
+#: inc/ansar/customize/frontpage-options.php:240
+msgid "Slider Banner & Tab Section"
+msgstr ""
+
+#: inc/ansar/customize/frontpage-options.php:225
+msgid "Posts to be shown on trending posts "
+msgstr "トレンド投稿に表示される投稿"
+
+#: inc/ansar/customize/frontpage-options.php:224
+msgid "Latest Posts Category"
+msgstr "最新の投稿のカテゴリー"
+
+#: inc/ansar/customize/frontpage-options.php:205
+msgid "Latest Post Title"
+msgstr "最新投稿のタイトル"
+
+#: inc/ansar/customize/frontpage-options.php:187
+msgid "Enable Latest Posts Section"
+msgstr "最新投稿セクションを有効化"
+
+#: inc/ansar/customize/frontpage-options.php:158
+msgid "Section Title"
+msgstr "セクションのタイトル"
+
+#: inc/ansar/customize/frontpage-options.php:141
+msgid "Hide/Show Top Tags"
+msgstr "タグを表示/非表示"
+
+#: inc/ansar/customize/frontpage-options.php:115
+#: inc/ansar/customize/theme-options.php:140
+#: inc/ansar/customize/theme-options.php:170
+#: inc/ansar/customize/theme-options.php:200
+#: inc/ansar/customize/theme-options.php:230
+#: inc/ansar/customize/theme-options.php:260
+#: inc/ansar/customize/theme-options.php:290
+#: inc/ansar/customize/theme-options.php:320
+#: inc/ansar/customize/theme-options.php:411
+#: inc/ansar/customize/theme-options.php:1005
+#: inc/ansar/customize/theme-options.php:1035
+#: inc/ansar/customize/theme-options.php:1065
+#: inc/ansar/customize/theme-options.php:1095
+#: inc/ansar/customize/theme-options.php:1125
+#: inc/ansar/customize/theme-options.php:1155
+#: inc/ansar/customize/theme-options.php:1185
+msgid "Open link in a new tab"
+msgstr "リンクを新しいタブで開く"
+
+#: inc/ansar/customize/frontpage-options.php:100
+msgid "URL Link"
+msgstr "URL リンク"
+
+#: inc/ansar/customize/frontpage-options.php:79
+#: inc/ansar/customize/frontpage-options.php:276
+msgid "Recommended Size %1$s px X %2$s px"
+msgstr "%1$s px X %2$s px のサイズがおすすめです"
+
+#: inc/ansar/customize/frontpage-options.php:78
+msgid "Banner Section Advertisement"
+msgstr "バナーセクション広告"
+
+#: inc/ansar/customize/frontpage-options.php:60
+msgid "Banner Advertisement"
+msgstr "バナー広告"
+
+#: inc/ansar/customize/frontpage-options.php:52
+msgid "Frontpage Options"
+msgstr "フロントページ設定"
+
+#: inc/ansar/customize/frontpage-options.php:43
+msgid "Remove Image Overlay"
+msgstr "画像オーバーレイを削除"
+
+#: inc/ansar/customize/customizer-control.php:104
+msgid "All"
+msgstr "すべて"
+
+#: inc/ansar/customize/customizer-default.php:32
+msgid "Latest Post"
+msgstr "最近の投稿"
+
+#: inc/ansar/customize/customizer-default.php:27
+#: inc/ansar/customize/frontpage-options.php:126
+msgid "Top Tags"
+msgstr "人気のタグ"
+
+#: inc/ansar/widgets/widget-design-slider.php:22
+msgid "AR: 3 Column Posts Slider"
+msgstr ""
+
+#: inc/ansar/widgets/widget-posts-tabbed.php:137
+msgid "Enable Categorised Tab"
+msgstr ""
+
+#: inc/ansar/widgets/widget-posts-tabbed.php:135
+msgid "Categorised Posts"
+msgstr "カテゴリー:"
+
+#: inc/ansar/widgets/widget-posts-tabbed.php:130
+msgid "Popular Posts"
+msgstr "人気の投稿"
+
+#: inc/ansar/customize/customizer-default.php:43
+#: inc/ansar/widgets/widget-posts-tabbed.php:128
+msgid "Latest"
+msgstr "最新"
+
+#: inc/ansar/customize/customizer-default.php:45
+#: inc/ansar/widgets/widget-posts-tabbed.php:51
+#: inc/ansar/widgets/widget-posts-tabbed.php:138
+msgid "Trending"
+msgstr "最近人気"
+
+#: inc/ansar/widgets/widget-posts-tabbed.php:47
+msgid "NEWSUP Latest"
+msgstr ""
+
+#: inc/ansar/widgets/widget-posts-tabbed.php:46
+msgid "NEWSUP Popular"
+msgstr ""
+
+#: inc/ansar/widgets/widget-posts-tabbed.php:23
+msgid "AR: Tabbed Posts"
+msgstr ""
+
+#: inc/ansar/widgets/widget-posts-tabbed.php:19
+msgid "Displays tabbed posts lists from selected settings."
+msgstr "選択した設定からタブ付きで投稿一覧を表示する。"
+
+#: inc/ansar/widgets/featured-post-widget.php:39
+msgid "Choose Category:"
+msgstr "カテゴリーを選択"
+
+#: inc/ansar/widgets/featured-post-widget.php:35
+msgid "Show Posts from Category"
+msgstr "カテゴリーから投稿を表示"
+
+#: inc/ansar/customize/frontpage-options.php:171
+#: inc/ansar/widgets/featured-post-widget.php:32
+#: inc/ansar/widgets/widget-posts-tabbed.php:127
+msgid "Latest Posts"
+msgstr "最新の投稿"
+
+#: inc/ansar/widgets/featured-post-widget.php:26
+msgid "Title: "
+msgstr "タイトル:"
+
+#: inc/ansar/widgets/featured-post-widget.php:8
+msgid "AR: Featured Posts"
+msgstr "AR おすすめ投稿"
+
+#: inc/ansar/widgets/featured-post-widget.php:6
+msgid "Display Featured Posts"
+msgstr "おすすめ投稿を表示"
+
+#: inc/ansar/widgets/widget-posts-double-category.php:201
+msgid "Select category 2"
+msgstr "カテゴリー2を選択"
+
+#: inc/ansar/widgets/widget-posts-double-category.php:200
+msgid "Title 2"
+msgstr "タイトル 2:"
+
+#: inc/ansar/widgets/widget-posts-double-category.php:199
+msgid "Select category 1"
+msgstr "カテゴリー1を選択"
+
+#: inc/ansar/widgets/widget-posts-double-category.php:198
+msgid "Title 1"
+msgstr "タイトル 1"
+
+#: inc/ansar/widgets/widget-posts-double-category.php:22
+msgid "AR: Double Categories Posts"
+msgstr ""
+
+#: inc/ansar/widgets/widget-posts-double-category.php:18
+msgid "Displays posts from 2 selected categories in double column."
+msgstr "リスト内の選択したカテゴリーから商品を表示します。"
+
+#: inc/ansar/widgets/widget-posts-carousel.php:22
+msgid "AR: Posts Carousel"
+msgstr "AR: 投稿カルーセル"
+
+#: inc/ansar/widgets/widget-posts-carousel.php:18
+msgid "Displays posts carousel from selected category."
+msgstr "選択したカテゴリーから投稿カルーセルを表示します。"
+
+#: inc/ansar/widgets/widgets-common-functions.php:21
+msgid "Select Category"
+msgstr "カテゴリーを選択"
+
+#: inc/ansar/widgets/widgets-base.php:194
+msgctxt "Remove"
+msgid "X"
+msgstr "X"
+
+#: inc/ansar/widgets/widgets-base.php:183
+msgid "Choose Image"
+msgstr "画像の選択"
+
+#: inc/ansar/widgets/widgets-base.php:183
+msgid "Select Image"
+msgstr "画像を選択"
+
+#: inc/ansar/widgets/widgets-base.php:183
+msgid "Upload"
+msgstr "アップロード"
+
+#: inc/ansar/widgets/widget-posts-list.php:119
+msgid "Posts List"
+msgstr "投稿一覧"
+
+#: inc/ansar/widgets/widget-posts-list.php:22
+msgid "AR: Posts List"
+msgstr ""
+
+#: inc/ansar/widgets/widget-posts-list.php:18
+msgid "Displays posts from selected category in a list."
+msgstr "リスト内の選択したカテゴリーから投稿を表示します。"
+
+#: inc/ansar/widgets/widget-latest-news.php:115
+msgid "Show excerpt"
+msgstr "抜粋を表示"
+
+#: inc/ansar/widgets/widget-latest-news.php:22
+msgid "AR: Latest News Post"
+msgstr ""
+
+#: inc/ansar/widgets/widget-latest-news.php:18
+msgid "Displays posts from selected category in single column."
+msgstr "単一カラム内の選択したカテゴリーから投稿を表示します。"
+
+#: inc/ansar/widgets/widget-design-slider.php:106
+#: inc/ansar/widgets/widget-latest-news.php:114
+#: inc/ansar/widgets/widget-posts-carousel.php:117
+#: inc/ansar/widgets/widget-posts-list.php:120
+#: inc/ansar/widgets/widget-posts-slider.php:105
+#: inc/ansar/widgets/widget-posts-tabbed.php:139
+msgid "Select category"
+msgstr "カテゴリーを選択"
+
+#: inc/ansar/customize/theme-options.php:771
+#: inc/ansar/customize/theme-options.php:869
+#: inc/ansar/widgets/widget-design-slider.php:105
+#: inc/ansar/widgets/widget-posts-list.php:119
+#: inc/ansar/widgets/widget-posts-slider.php:104
+#: inc/ansar/widgets/widget-posts-tabbed.php:128
+#: inc/ansar/widgets/widget-posts-tabbed.php:131
+#: inc/ansar/widgets/widget-posts-tabbed.php:138
+msgid "Title"
+msgstr "タイトル"
+
+#: inc/ansar/widgets/widget-design-slider.php:100
+#: inc/ansar/widgets/widget-latest-news.php:106
+#: inc/ansar/widgets/widget-posts-list.php:112
+#: inc/ansar/widgets/widget-posts-slider.php:98
+#: inc/ansar/widgets/widget-posts-tabbed.php:123
+msgid "No"
+msgstr "いいえ"
+
+#: inc/ansar/widgets/widget-design-slider.php:99
+#: inc/ansar/widgets/widget-latest-news.php:105
+#: inc/ansar/widgets/widget-posts-list.php:111
+#: inc/ansar/widgets/widget-posts-slider.php:97
+#: inc/ansar/widgets/widget-posts-tabbed.php:122
+msgid "Yes"
+msgstr "はい"
+
+#: inc/ansar/widgets/widget-posts-slider.php:22
+msgid "AR: Posts Slider"
+msgstr "AR: 記事スライダー"
+
+#: inc/ansar/widgets/widget-design-slider.php:18
+#: inc/ansar/widgets/widget-posts-slider.php:18
+msgid "Displays posts slider from selected category."
+msgstr "選択したカテゴリーから商品スライダーを表示します。"
+
+#: inc/ansar/customize-pro/class-customize.php:65
+msgid "Go Pro"
+msgstr "プロ版へ"
+
+#: inc/ansar/customize-pro/class-customize.php:64
+msgid "Newsup Pro Available!"
+msgstr " Newsup Pro がご利用いただけます。"
+
+#: inc/ansar/template-tags.php:35
+msgid "View all posts in %s"
+msgstr "%s の投稿をすべて表示"
+
+#: inc/ansar/admin/tabs/useful-plugin-panel.php:46
+msgid "To use the Elementor layouts and pages, install the Elementor plugin."
+msgstr ""
+
+#: inc/ansar/admin/tabs/useful-plugin-panel.php:42
+msgid "To display the Woocommerce layout, please install the Woocommerce plugin."
+msgstr ""
+
+#: inc/ansar/admin/tabs/useful-plugin-panel.php:38
+msgid "To display the contact form, please install the Contact Form 7 plugin."
+msgstr "お問い合わせフォームを表示するには、Contact Form 7 プラグインをインストールしてください。"
+
+#: inc/ansar/admin/tabs/getting-started-panel.php:19
+msgid "Visit the Support"
+msgstr "サポートにアクセス"
+
+#: inc/ansar/admin/tabs/getting-started-panel.php:18
+#: inc/ansar/admin/tabs/getting-started-panel.php:19
+msgid "Go to the Customizer"
+msgstr "カスタマイザーにいく"
+
+#: inc/ansar/admin/tabs/getting-started-panel.php:15
+msgid "Documentation"
+msgstr "ドキュメンテーション"
+
+#: inc/ansar/admin/tabs/getting-started-panel.php:15
+msgid "Newsup Support"
+msgstr "Newsup サポート"
+
+#: inc/ansar/admin/tabs/getting-started-panel.php:14
+msgid "Newsup Documentation"
+msgstr "Newsup ドキュメント"
+
+#: inc/ansar/admin/class-getting-start-plugin-helper.php:112
+msgid "Deactivate"
+msgstr "無効化"
+
+#: inc/ansar/admin/class-getting-start-plugin-helper.php:97
+msgid "Activate"
+msgstr "有効化"
+
+#: inc/ansar/admin/class-getting-start-plugin-helper.php:93
+msgid "Install and activate"
+msgstr "インストールと有効化"
+
+#: inc/ansar/admin/getting-started.php:168
+msgid "Get started with Newsup"
+msgstr "Newsup を使い始める"
+
+#: inc/ansar/admin/getting-started.php:166
+msgid "Thank you for choosing Newsup theme. To take full advantage of the complete features of the theme, you have to go to our %1$s welcome page %2$s."
+msgstr ""
+
+#: inc/ansar/admin/getting-started.php:164
+msgid "Congratulations, Welcome to %1$s Theme"
+msgstr ""
+
+#: inc/ansar/admin/getting-started.php:130
+msgid "Submit a review"
+msgstr "レビューを投稿"
+
+#: inc/ansar/admin/getting-started.php:129
+msgid "Your feedback is valuable to us"
+msgstr "フィードバックに感謝します。"
+
+#: inc/ansar/admin/getting-started.php:126
+msgid "Get Support"
+msgstr "サポートを受ける"
+
+#: inc/ansar/admin/getting-started.php:125
+msgid "Newsup Theme Support"
+msgstr "Newsup テーマサポート"
+
+#: inc/ansar/admin/getting-started.php:113
+msgid "Useful Plugins"
+msgstr "便利なプラグイン"
+
+#: inc/ansar/admin/getting-started.php:105
+#: inc/ansar/admin/tabs/getting-started-panel.php:10
+#: inc/ansar/admin/tabs/getting-started-panel.php:11
+msgid "Demo Content"
+msgstr "デモコンテンツ"
+
+#: inc/ansar/admin/getting-started.php:100
+msgid "Getting Started"
+msgstr "はじめてみよう"
+
+#. translators: %1$s %2$s: welcome message
+#: inc/ansar/admin/getting-started.php:89
+msgid "Welcome to %1$s - Version %2$s"
+msgstr "%1$s へようこそ - バージョン %2$s"
+
+#: inc/ansar/admin/getting-started.php:37
+msgid "Activating "
+msgstr "有効化中 "
+
+#. translators: %1$s: welcome page
+#: inc/ansar/admin/getting-started.php:21
+#: inc/ansar/customizer-admin/newsup-admin-plugin-install.php:36
+msgid "Welcome to %1$s"
+msgstr "%1$s へようこそ"
+
+#. translators: %1$s %2$s: about
+#: inc/ansar/admin/getting-started.php:19
+msgid "About %1$s %2$s"
+msgstr "%1$s%2$sについて"
+
+#: inc/ansar/hooks/hook-meta.php:23 inc/ansar/hooks/hook-meta.php:60
+msgid "Select category color class. You can set appropriate categories color on \"Categories\" section of the theme customizer."
+msgstr ""
+
+#: inc/ansar/hooks/hook-meta.php:17 inc/ansar/hooks/hook-meta.php:45
+msgid "Color Class"
+msgstr "色クラス"
+
+#: inc/ansar/hooks/hook-meta.php:12 inc/ansar/hooks/hook-meta.php:52
+msgid "Category Color 4"
+msgstr "カテゴリーの色4"
+
+#: inc/ansar/hooks/hook-meta.php:11 inc/ansar/hooks/hook-meta.php:51
+msgid "Category Color 3"
+msgstr "カテゴリーの色3"
+
+#: inc/ansar/hooks/hook-meta.php:10 inc/ansar/hooks/hook-meta.php:50
+msgid "Category Color 2"
+msgstr "カテゴリーの色2"
+
+#: inc/ansar/hooks/hook-meta.php:9 inc/ansar/hooks/hook-meta.php:49
+msgid "Category Color 1"
+msgstr "カテゴリーの色1"
+
+#: inc/ansar/hooks/hooks.php:95 inc/ansar/widgets/widget-posts-tabbed.php:79
+msgid "Categorised"
+msgstr ""
+
+#: inc/ansar/customize/customizer-default.php:44 inc/ansar/hooks/hooks.php:89
+#: inc/ansar/widgets/widget-posts-tabbed.php:70
+#: inc/ansar/widgets/widget-posts-tabbed.php:131
+msgid "Popular"
+msgstr "人気"
+
+#: inc/ansar/hooks/hooks.php:83 inc/ansar/widgets/widget-posts-tabbed.php:63
+msgid "Recent"
+msgstr "最近"
+
+#: template-parts/content-search.php:39
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "ご指定の検索条件に合う投稿がありませんでした。他のキーワードでもう一度検索してみてください。"
+
+#: template-parts/content-search.php:37
+msgid "Nothing Found"
+msgstr "何も見つかりませんでした"
+
+#. translators: %s: search term
+#: index-banner.php:20 index-banner.php:29
+msgid "Search Results for: %s"
+msgstr "「%s」の検索結果"
+
+#. Template Name of the theme
+msgid "Frontpage"
+msgstr "フロントページ"
+
+#: header.php:71
+msgid "Toggle navigation"
+msgstr "ナビゲーションを切り替え"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "コンテンツへスキップ"
+
+#: inc/ansar/customize/theme-options.php:742
+#: inc/ansar/hooks/hook-index-main.php:169
+msgid "Related Post"
+msgstr "関連記事"
+
+#: inc/ansar/hooks/hook-index-main.php:85
+#: inc/ansar/hooks/hook-index-main.php:156
+msgid "By"
+msgstr "投稿者:"
+
+#: inc/ansar/hooks/hook-index-main.php:73
+msgid "Permalink to: "
+msgstr "パーマリンク:"
+
+#: template-parts/content-page.php:29
+msgid "Pages:"
+msgstr "固定ページ:"
+
+#: inc/ansar/template-tags.php:129
+msgid "Read More"
+msgstr "続きを読む"
+
+#: 404.php:36
+msgid "Go Back"
+msgstr "戻る"
+
+#: 404.php:35
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr "お探しのページが見つかりません。検索をお試しください。"
+
+#: 404.php:34
+msgid "Oops! Page not found"
+msgstr "ページが見つかりませんでした"
+
+#: 404.php:33
+msgid "4"
+msgstr "4"
+
+#: 404.php:17
+msgid "Home"
+msgstr "ホーム"
+
+#: 404.php:14 404.php:18
+msgid "404"
+msgstr "404"
+
+#: functions.php:266
+msgid "Footer Widget Area"
+msgstr "フッターウィジェットエリア"
+
+#: functions.php:256
+msgid "Front-page Sidebar Section"
+msgstr "フロントページ左サイドバーセクション"
+
+#: functions.php:246
+msgid "Front-page Content Section"
+msgstr "フロントページコンテンツ上セクション"
+
+#: functions.php:236
+msgid "Sidebar Widget Area"
+msgstr "サイドバーウィジェットエリア"
+
+#: functions.php:118
+msgid "Footer menu"
+msgstr "フッターメニュー"
+
+#: functions.php:117
+msgid "Primary menu"
+msgstr "メインメニュー"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themeansar.com"
+msgstr "https://themeansar.com"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Themeansar"
+msgstr "Themeansar"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themeansar.com/free-themes/newsup/"
+msgstr "https://themeansar.com/free-themes/newsup/"

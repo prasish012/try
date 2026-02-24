@@ -1,0 +1,681 @@
+# Translation of Themes - NewsBlogger in Arabic
+# This file is distributed under the same license as the Themes - NewsBlogger package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-07-08 13:37:12+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n == 0) ? 0 : ((n == 1) ? 1 : ((n == 2) ? 2 : ((n % 100 >= 3 && n % 100 <= 10) ? 3 : ((n % 100 >= 11 && n % 100 <= 99) ? 4 : 5))));\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: ar\n"
+"Project-Id-Version: Themes - NewsBlogger\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "NewsBlogger is a dynamic and versatile child theme for the popular NewCrunch WordPress theme. Perfect for bloggers, journalists, and online magazines, it offers enhanced customization options, improved performance, and seamless integration with both the Gutenberg and Classic editors. Compatible to various popular plugins such as Elementor, Contact Form 7, Polylang and WPML. Theme is RTL ready and prioritizes user privacy and complies with the General Data Protection Regulation (GDPR) guidelines by refraining from collecting any personal data restricted under GDPR. The theme is also schema-ready, enhancing search engine visibility and optimization. To explore the theme further, feel free to check out our demo at: https://demo-news.spicethemes.com/startersite-1/. For video tutorial visit here https://www.youtube.com/playlist?list=PLTfjrb24Pq_DeJOZdKEaP3rZPbHuOCLtZ"
+msgstr ""
+"NewsBlogger عبارة عن قالب إبن\n"
+" ديناميكي ومتعدد الاستخدامات لقالب NewCrunch WordPress الشهير. إنه مثالي للمدونين والصحفيين والمجلات عبر الإنترنت، فهو يوفر خيارات تخصيص محسنة وأداء محسن وتكاملًا سلسًا مع كل من محرري Gutenberg وClassic. متوافق مع العديد من الإضافات الشائعة مثل Elementor وContact Form 7 وPolylang وWPML. القالب جاهز لـ RTL ويعطي الأولوية لخصوصية المستخدم ويتوافق مع إرشادات اللائحة العامة لحماية البيانات (GDPR) من خلال الامتناع عن جمع أي بيانات شخصية مقيدة بموجب اللائحة العامة لحماية البيانات (GDPR). السمة أيضًا جاهزة للمخطط (schema)، مما يعزز رؤية محرك البحث وتحسينه. لاستكشاف القالب بشكل أكبر، لا تتردد في الاطلاع على العرض التوضيحي الخاص بنا على: https://demo-news.spicethemes.com/startersite-1/. لمشاهدة فيديو تعليمي، قم بزيارة هنا https://www.youtube.com/playlist?list=PLTfjrb24Pq_DeJOZdKEaP3rZPbHuOCLtZ"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "NewsBlogger"
+msgstr "NewsBlogger"
+
+#: functions.php:508
+msgid "No plugin URL provided."
+msgstr ""
+
+#: functions.php:503
+msgid "You do not have permission to install plugins."
+msgstr ""
+
+#: functions.php:476
+msgid "No plugin slug provided."
+msgstr ""
+
+#: functions.php:471
+msgid "You do not have permission to manage plugins."
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:569
+msgid "It is recommended that you install & activate the Spice Blocks plugin to import the gutenberg starter sites"
+msgstr ""
+
+#: functions.php:173 functions.php:257
+msgid "Dismiss this notice"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:564
+msgid "We highly recommend installing and activating the WooCommerce plugin, which allows you to create a shop and enhance your business."
+msgstr ""
+
+#. translators: %s: theme name
+#: admin/inc/class-spicethemes-about-page.php:344
+msgid "now"
+msgstr ""
+
+#. translators: %s: theme name
+#: admin/inc/class-spicethemes-about-page.php:344
+msgid "Install"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:26 functions.php:164
+msgid "Install Plugin"
+msgstr ""
+
+#: partials/header/header-nav.php:115
+msgid "Light/Dark Mode"
+msgstr "الوضع الفاتح / الداكن"
+
+#: partials/header/header-nav.php:103
+msgid "Close Search"
+msgstr "إغلاق البحث"
+
+#: partials/header/header-nav.php:79 partials/header/header-nav.php:87
+#: partials/header/header-nav.php:88 partials/header/header-nav.php:99
+#: partials/header/header-nav.php:106 partials/header/header-nav.php:108
+msgid "Search"
+msgstr "البحث"
+
+#: partials/header/header-nav.php:40
+msgid "Close Off-Canvas"
+msgstr "إغلاق خارج اللوحة"
+
+#: partials/header/header-nav.php:28
+msgid "Close Icon"
+msgstr "إغلاق الأيقونة"
+
+#: partials/header/header-nav.php:21
+msgid "Toggle Icon"
+msgstr "تبديل الأيقونة"
+
+#: partials/header/header-nav.php:15
+msgid "Menu"
+msgstr "القائمة"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "التجاوز إلى المحتوى"
+
+#: functions.php:408
+msgid "Alignment"
+msgstr "المحاذاة"
+
+#: functions.php:312
+msgid "Header Layout"
+msgstr "تخطيط الترويسة "
+
+#: functions.php:249 functions.php:251
+msgid "Upgrade To Pro"
+msgstr "الترقية إلى احترافي"
+
+#: functions.php:244 functions.php:246
+msgid "Watch Videos"
+msgstr "شاهد الفيديوهات"
+
+#: functions.php:241
+msgid "See Changelog"
+msgstr "عرض سجل التغيير"
+
+#: functions.php:236
+msgid "Try It Now"
+msgstr "جربه الآن"
+
+#: functions.php:234
+msgid "Try Now"
+msgstr "جرب الآن"
+
+#: functions.php:226
+msgid "complete with exciting new features. Take a look now!"
+msgstr "كاملة مع ميزات جديدة ومثيرة. ألق نظرة الآن!"
+
+#: functions.php:226
+msgid "We've consistently aimed to meet our users' needs and demands. In order to address specific requirements and rectify issues from our previous version, we've rolled out version"
+msgstr "لقد سعينا باستمرار إلى تلبية احتياجات المستخدمين ومتطلباتهم. من أجل تلبية متطلبات محددة وتصحيح المشكلات التي واجهناها في الإصدار السابق، قمنا بطرح الإصدار"
+
+#: functions.php:223
+msgid "%1$s Current %2$s"
+msgstr "%1$s %2$s الحالي"
+
+#: functions.php:170
+msgid "Welcome Banner"
+msgstr "بانر الترحيب"
+
+#: functions.php:160
+msgid "Theme Documentation"
+msgstr "وثائق مساعدة القالب"
+
+#: functions.php:156
+msgid "View Live Demos"
+msgstr "مشاهدة العروض التوضيحية المباشرة"
+
+#: functions.php:154
+msgid "Live Demo"
+msgstr "العرض التجريبي المباشر"
+
+#: functions.php:150 functions.php:152
+msgid "Theme Dashboard"
+msgstr "رئيسية القالب"
+
+#. translators: %s: theme name
+#: functions.php:147
+msgid "%s is now installed and ready to use. We've provide some links to get you started."
+msgstr "%s الآن منصب وجاهز للاستخدام. لقد وفرنا بعض الروابط لتبدأ."
+
+#. translators: %s: theme name
+#: functions.php:142
+msgid "Welcome to"
+msgstr "مرحبًا بك في"
+
+#: functions.php:133
+msgid "Hello"
+msgstr "مرحبا"
+
+#: admin/tab-pages/video-tutorials.php:158
+msgid "Core Background Color & Image Customize"
+msgstr "لون الخلفية الأساسي وتخصيص الصورة"
+
+#: admin/tab-pages/video-tutorials.php:157
+msgid "Core Background Color & Image Video"
+msgstr "لون الخلفية الأساسي وصورة الفيديو"
+
+#: admin/tab-pages/video-tutorials.php:155
+msgid "Background Color & Image"
+msgstr "لون الخلفية والصورة"
+
+#: admin/tab-pages/video-tutorials.php:146
+msgid "Theme Color Customize"
+msgstr "تخصيص لون القالب"
+
+#: admin/tab-pages/video-tutorials.php:145
+msgid "Theme Color Video"
+msgstr "فيديو لون القالب"
+
+#: admin/tab-pages/video-tutorials.php:143
+msgid "Theme & Category Color"
+msgstr "لون التصنيف والقالب"
+
+#: admin/tab-pages/video-tutorials.php:134
+msgid "Footer Section Customize"
+msgstr "تخصيص قسم التذييل"
+
+#: admin/tab-pages/video-tutorials.php:133
+msgid "Footer Section Video"
+msgstr "فيديو قسم التذييل"
+
+#: admin/tab-pages/video-tutorials.php:131
+msgid "Footer Widgets & Copyright Text"
+msgstr "ودجات التذييل ونص حقوق الطبع والنشر"
+
+#: admin/tab-pages/video-tutorials.php:122
+msgid "Custom Widgets Customize"
+msgstr "تخصيص الودجات المخصصة"
+
+#: admin/tab-pages/video-tutorials.php:121
+msgid "Custom Widgets Video"
+msgstr "فيديو الودجات المخصصة"
+
+#: admin/tab-pages/video-tutorials.php:119
+msgid "Setup Custom Widgets"
+msgstr "إعداد الودجات المخصصة"
+
+#: admin/tab-pages/video-tutorials.php:110
+msgid "Sections Rearrange Customize"
+msgstr "إعادة ترتيب تخصيص الأقسام"
+
+#: admin/tab-pages/video-tutorials.php:109
+msgid "Sections Rearrange Video"
+msgstr "أقسام إعادة ترتيب الفيديو"
+
+#: admin/tab-pages/video-tutorials.php:107
+msgid "Reorder/Rearrange Sections"
+msgstr "إعادة ترتيب / تنظيم الأقسام"
+
+#: admin/tab-pages/video-tutorials.php:98
+msgid "Highlight Customize"
+msgstr "تخصيص التمييز"
+
+#: admin/tab-pages/video-tutorials.php:97
+msgid "Highlight Video"
+msgstr "قم بتمييز الفيديو"
+
+#: admin/tab-pages/video-tutorials.php:95
+msgid "Setup Highlight Section"
+msgstr "قم بتمييز الإعداد"
+
+#: admin/tab-pages/video-tutorials.php:86
+msgid "Banner Customize"
+msgstr "تخصيص البانر"
+
+#: admin/tab-pages/video-tutorials.php:85
+msgid "Banner Video"
+msgstr "فيديو البانر"
+
+#: admin/tab-pages/video-tutorials.php:83
+msgid "Setup Banner Section"
+msgstr "قسم إعداد البانر"
+
+#: admin/tab-pages/video-tutorials.php:74
+msgid "Toggle Sidebar Customize"
+msgstr "تبديل تخصيص الشريط الجانبي"
+
+#: admin/tab-pages/video-tutorials.php:73
+msgid "Toggle Sidebar Video"
+msgstr "تبديل فيديو الشريط الجانبي"
+
+#: admin/tab-pages/video-tutorials.php:71
+msgid "Setup Toggle Sidebar"
+msgstr "إعداد تبديل الشريط الجانبي"
+
+#: admin/tab-pages/video-tutorials.php:62
+msgid "Global Options Customize"
+msgstr "تخصيص الخيارات العامة"
+
+#: admin/tab-pages/video-tutorials.php:61
+msgid "Global Options Video"
+msgstr "فيديو الخيارات العامة"
+
+#: admin/tab-pages/video-tutorials.php:59
+msgid "Manage Global Options"
+msgstr "إدارة الخيارات العامة"
+
+#: admin/tab-pages/video-tutorials.php:50
+msgid "Header Customize"
+msgstr "تخصيص الترويسة"
+
+#: admin/tab-pages/video-tutorials.php:49
+msgid "Header Video"
+msgstr "فيديو الترويسة"
+
+#: admin/tab-pages/video-tutorials.php:47
+msgid "Setup Header"
+msgstr "إعداد الترويسة"
+
+#: admin/tab-pages/video-tutorials.php:38
+msgid "Site Identity Customize"
+msgstr "تخصيص هوية الموقع"
+
+#: admin/tab-pages/video-tutorials.php:37
+msgid "Site Identity Video"
+msgstr "فيديو هوية الموقع"
+
+#: admin/tab-pages/video-tutorials.php:35
+msgid "Setup Site Identity"
+msgstr "هوية إعداد الموقع"
+
+#: admin/tab-pages/video-tutorials.php:26
+#: admin/tab-pages/video-tutorials.php:38
+#: admin/tab-pages/video-tutorials.php:50
+#: admin/tab-pages/video-tutorials.php:62
+#: admin/tab-pages/video-tutorials.php:74
+#: admin/tab-pages/video-tutorials.php:86
+#: admin/tab-pages/video-tutorials.php:98
+#: admin/tab-pages/video-tutorials.php:110
+#: admin/tab-pages/video-tutorials.php:122
+#: admin/tab-pages/video-tutorials.php:134
+#: admin/tab-pages/video-tutorials.php:146
+#: admin/tab-pages/video-tutorials.php:158
+msgid "Customize"
+msgstr "تخصيص"
+
+#: admin/tab-pages/video-tutorials.php:26
+msgid "Menu Customize"
+msgstr "تخصيص القائمة"
+
+#: admin/tab-pages/video-tutorials.php:25
+msgid "Menu Video"
+msgstr "فيديو القائمة"
+
+#: admin/tab-pages/video-tutorials.php:23
+msgid "Setup Main Menu"
+msgstr "إعداد القائمة الرئيسية"
+
+#: admin/tab-pages/video-tutorials.php:13
+#: admin/tab-pages/video-tutorials.php:25
+#: admin/tab-pages/video-tutorials.php:37
+#: admin/tab-pages/video-tutorials.php:49
+#: admin/tab-pages/video-tutorials.php:61
+#: admin/tab-pages/video-tutorials.php:73
+#: admin/tab-pages/video-tutorials.php:85
+#: admin/tab-pages/video-tutorials.php:97
+#: admin/tab-pages/video-tutorials.php:109
+#: admin/tab-pages/video-tutorials.php:121
+#: admin/tab-pages/video-tutorials.php:133
+#: admin/tab-pages/video-tutorials.php:145
+#: admin/tab-pages/video-tutorials.php:157
+msgid "Watch Video"
+msgstr "شاهد الفيديو"
+
+#: admin/tab-pages/video-tutorials.php:13
+msgid "Demo Import Video"
+msgstr "فيديو استيراد تجريبي"
+
+#: admin/tab-pages/video-tutorials.php:11
+msgid "Demo Import"
+msgstr "استيراد تجريبي"
+
+#: admin/tab-pages/unlock-premium-feature.php:99
+msgid "Explore Premium Features"
+msgstr "اكتشف الميزات المميزة"
+
+#: admin/tab-pages/unlock-premium-feature.php:97
+msgid "Upgrade today and transform your website with NewsBlogger Premium!"
+msgstr "قم بالترقية اليوم وقم بتحويل موقع الويب الخاص بك باستخدام NewsBlogger Premium!"
+
+#: admin/tab-pages/unlock-premium-feature.php:96
+msgid "All premium features are managed through the Newscrunch Plus plugin, providing a seamless and integrated experience for both NewsBlogger and Newscrunch users."
+msgstr "تتم إدارة جميع الميزات المميزة من خلال الإضافة Newscrunch Plus، مما يوفر تجربة سلسة ومتكاملة لكل من مستخدمي NewsBlogger و Newscrunch."
+
+#: admin/tab-pages/unlock-premium-feature.php:96
+msgid "Note"
+msgstr "ملاحظة"
+
+#: admin/tab-pages/unlock-premium-feature.php:89
+msgid "Explore and import the premium starter sites available under both NewsBlogger and Newscrunch."
+msgstr "استكشف واستورد المواقع البدائية المميزة المتوفرة ضمن كل من NewsBlogger وNewscrunch."
+
+#: admin/tab-pages/unlock-premium-feature.php:86
+msgid "To access premium starter sites offered by Newscrunch, deactivate the NewsBlogger theme and activate the Newscrunch theme."
+msgstr "للوصول إلى المواقع البدائية المميزة التي تقدمها Newscrunch، قم بتعطيل قالب NewsBlogger وتفعيل قالب Newscrunch."
+
+#: admin/tab-pages/unlock-premium-feature.php:83
+msgid "Navigate to the starter sites section in your WordPress dashboard."
+msgstr "انتقل إلى قسم المواقع البدائية في لوحة تحكم ووردبريس الخاصة بك."
+
+#: admin/tab-pages/unlock-premium-feature.php:80
+msgid "Access Premium Starter Sites"
+msgstr "الوصول إلى المواقع البدائية المميزة"
+
+#: admin/tab-pages/unlock-premium-feature.php:75
+msgid "Enter your premium license key to activate all the premium features."
+msgstr "أدخل مفتاح الترخيص المميز الخاص بك لتفعيل جميع الميزات المميزة."
+
+#: admin/tab-pages/unlock-premium-feature.php:72
+msgid "Download and install the Newscrunch Plus plugin if you haven’t already."
+msgstr "قم بتنزيل وتنصيب الإضافة Newscrunch Plus إذا لم تقم بذلك حتى الآن."
+
+#: admin/tab-pages/unlock-premium-feature.php:69
+msgid "Install and Activate Newscrunch Plus"
+msgstr "تنصيب وتفعيل Newscrunch Plus"
+
+#: admin/tab-pages/unlock-premium-feature.php:64
+msgid "Visit our pricing page to choose the plan that suits you best."
+msgstr "تفضل بزيارة صفحة الأسعار الخاصة بنا لاختيار الخطة التي تناسبك."
+
+#: admin/tab-pages/unlock-premium-feature.php:61
+msgid "Purchase NewsBlogger Premium functionality coded in Newscrunch Plus plugin"
+msgstr "قم بشراء وظيفة NewsBlogger Premium المشفرة في إضافة Newscrunch Plus"
+
+#: admin/tab-pages/unlock-premium-feature.php:58
+#: admin/tab-pages/video-tutorials.php:14
+msgid "Get Started"
+msgstr "الشروع في ..."
+
+#: admin/tab-pages/unlock-premium-feature.php:53
+msgid "Stay up-to-date with the latest features and improvements with regular updates to Newscrunch Plus."
+msgstr "ابق على اطلاع بأحدث الميزات والتحسينات من خلال التحديثات المنتظمة ل Newscrunch Plus."
+
+#: admin/tab-pages/unlock-premium-feature.php:50
+msgid "Regular Updates"
+msgstr "تحديثات منتظمة"
+
+#: admin/tab-pages/unlock-premium-feature.php:45
+msgid "Receive dedicated support from our team to help you with any questions or issues."
+msgstr "احصل على دعم مخصص من فريقنا لمساعدتك في أي سؤال أو مشكلة."
+
+#: admin/tab-pages/unlock-premium-feature.php:42
+msgid "Priority Support"
+msgstr "دعم ذو أولوية"
+
+#: admin/tab-pages/unlock-premium-feature.php:37
+msgid "Benefit from performance optimizations to ensure your site runs smoothly and efficiently."
+msgstr "استفد من تحسينات الأداء لضمان تشغيل موقعك بسلاسة وكفاءة."
+
+#: admin/tab-pages/unlock-premium-feature.php:34
+msgid "Enhanced Performance Features"
+msgstr "ميزات الأداء المحسنة"
+
+#: admin/tab-pages/unlock-premium-feature.php:29
+msgid "Unlock advanced customization settings to fine-tune the appearance and functionality of your site."
+msgstr "إلغاء تأمين إعدادات التخصيص المتقدمة لضبط مظهر موقعك ووظائفه."
+
+#: admin/tab-pages/unlock-premium-feature.php:26
+msgid "Advanced Customization Options"
+msgstr "خيارات التخصيص المتقدمة"
+
+#: admin/tab-pages/unlock-premium-feature.php:21
+msgid "To access premium starter sites offered by Newscrunch, you need to deactivate the NewsBlogger theme and activate the Newscrunch theme."
+msgstr "للوصول إلى المواقع المبدئية المميزة التي تقدمها Newscrunch، تحتاج إلى تعطيل قالب NewsBlogger وتفعيل قالب Newscrunch."
+
+#: admin/tab-pages/unlock-premium-feature.php:21
+msgid "Premium starter sites for Newscrunch are also available, offering you a broader selection of templates to choose from. Note"
+msgstr "تتوفر أيضًا المواقع البدائية مميزة لـ Newscrunch، مما يوفر لك مجموعة واسعة من القوالب للاختيار من بينها. ملاحظة"
+
+#: admin/tab-pages/unlock-premium-feature.php:18
+msgid "Access exclusive NewsBlogger starter sites that are crafted for various niches and styles."
+msgstr "قم بالوصول إلى المواقع البدائية NewsBlogger الحصرية والمصممة لمختلف المجالات والأنماط."
+
+#: admin/tab-pages/unlock-premium-feature.php:15
+msgid "Premium Starter Sites"
+msgstr "المواقع البدائية المميزة"
+
+#: admin/tab-pages/unlock-premium-feature.php:11
+msgid "Here’s what you get with NewsBlogger Premium"
+msgstr "هذا ما ستحصل عليه مع NewsBlogger Premium"
+
+#: admin/tab-pages/getting-started.php:125
+msgid "Pre-sales enquiry"
+msgstr "استعلام ما قبل البيع"
+
+#: admin/tab-pages/getting-started.php:125
+msgid "Pre-sales Enquiry"
+msgstr "استفسار قبل الشراء"
+
+#: admin/tab-pages/getting-started.php:121
+msgid "Premium Version"
+msgstr "نسخة الاحترافية Premium"
+
+#: admin/tab-pages/getting-started.php:121
+msgid "Premium Demo"
+msgstr "نسخة تجريبية Premium"
+
+#: admin/tab-pages/getting-started.php:117 functions.php:239
+msgid "Changelog"
+msgstr "سجّل التغيير"
+
+#: admin/tab-pages/getting-started.php:113
+msgid "Free vs Pro"
+msgstr "مجانا مقابل احترافي"
+
+#: admin/tab-pages/getting-started.php:113
+msgid "Free or Pro Comparison"
+msgstr "مقارنة مجاني أو للمحترفين"
+
+#: admin/tab-pages/getting-started.php:109
+msgid "Your feedback is valuable to us"
+msgstr "ملاحظاتك مهمة بالنسبة لنا"
+
+#: admin/tab-pages/getting-started.php:109
+msgid "Valuable Feedback"
+msgstr "ملاحظات قيمة"
+
+#: admin/tab-pages/getting-started.php:105
+msgid "Support"
+msgstr "الدعم"
+
+#: admin/tab-pages/getting-started.php:101
+msgid "Documentation"
+msgstr "Documentation"
+
+#: admin/tab-pages/getting-started.php:101 functions.php:158
+msgid "Help Docs"
+msgstr "مستندات المساعدة"
+
+#: admin/tab-pages/getting-started.php:97
+msgid "Theme Demos"
+msgstr "عرض توضيحي للقالب"
+
+#: admin/tab-pages/getting-started.php:93
+msgid "Theme Detail"
+msgstr "تفاصيل القالب"
+
+#: admin/tab-pages/getting-started.php:88
+msgid "Useful Links"
+msgstr "روابط مفيدة"
+
+#: admin/tab-pages/getting-started.php:80
+msgid "Widgets"
+msgstr "الودجات"
+
+#: admin/tab-pages/getting-started.php:76
+msgid "Menus"
+msgstr "قوائم"
+
+#: admin/tab-pages/getting-started.php:72
+msgid "Footer Widgets"
+msgstr "تذييل الودجات "
+
+#: admin/tab-pages/getting-started.php:68
+msgid "Social Icons"
+msgstr "أيقونات اجتماعية"
+
+#: admin/tab-pages/getting-started.php:64
+msgid "Sidebar Layout"
+msgstr "الشكل العام للشريط الجانبي"
+
+#: admin/tab-pages/getting-started.php:60
+msgid "Header Section"
+msgstr "قسم الترويسة"
+
+#: admin/tab-pages/getting-started.php:56
+msgid "Site Layout"
+msgstr "Site Layout"
+
+#: admin/tab-pages/getting-started.php:52
+msgid "Site Logo"
+msgstr "شعار الموقع"
+
+#: admin/tab-pages/getting-started.php:47
+msgid "Theme Features"
+msgstr "ميزات القالب"
+
+#: admin/tab-pages/getting-started.php:38
+msgid "Customize Image"
+msgstr "تخصيص الصورة"
+
+#: admin/tab-pages/getting-started.php:29
+msgid "Need to install & activate the \"Spice Starter Sites\" plugin to import the demo."
+msgstr "تحتاج إلى تنصيب وتفعيل الإضافة \"Spice Starter Sites\" لاستيراد العرض التوضيحي."
+
+#: admin/tab-pages/getting-started.php:22
+#: admin/tab-pages/getting-started.php:28
+msgid "Import Image"
+msgstr "استيراد الصورة"
+
+#. translators: %s: theme name
+#: admin/tab-pages/getting-started.php:13
+msgid "%s Theme Configuration"
+msgstr "تكوين قالب %s"
+
+#: admin/inc/class-spicethemes-about-page.php:559
+msgid "We highly recommend installing and activating the Seo Optimized Images plugin, which will dynamically insert SEO-friendly alt attributes and title attributes to enhance your image optimization."
+msgstr "نوصي بشدة بتنصيب وتفعيل الإضافة Seo Optimized Images ، والذي ستدرج ديناميكيًا سمات بديلة ملائمة لتحسين محركات البحث وسمات العنوان لتعزيز تحسين الصورة الخاصة بك."
+
+#: admin/inc/class-spicethemes-about-page.php:554
+msgid "To add the social share buttons to your posts, install & activate this plugin."
+msgstr "لإضافة أزرار المشاركة الاجتماعية إلى مقالاتك ، قم بتنصيب هذه الإضافة وتفعيلها."
+
+#: admin/inc/class-spicethemes-about-page.php:549
+msgid "To display the posts in a beautiful slider with multiple options, install & activate this plugin."
+msgstr "لعرض المقالات في شريط تمرير جميل بخيارات متعددة ، قم بتنصيب وتفعيل هذه الإضافة."
+
+#: admin/inc/class-spicethemes-about-page.php:544
+msgid "To add a different banner image for a different page or post, install & activate this plugin."
+msgstr "لإضافة صورة بانر مختلفة لصفحة أو مقالة مختلفة ، قم بتنصيب وتفعيل هذه الإضافة."
+
+#: admin/inc/class-spicethemes-about-page.php:539
+msgid "To enable the display of breadcrumbs, please install and activate this plugin."
+msgstr "لتمكين عرض مسارات التنقل ، يرجى تنصيب وتفعيل هذا الإضافة."
+
+#: admin/inc/class-spicethemes-about-page.php:534
+msgid "To display the contact form, install & activate this plugin."
+msgstr "لعرض نموذج الاتصال ، يرجى تنصيب و تفعيل هذه الإضافة."
+
+#: admin/inc/class-spicethemes-about-page.php:384
+msgid "Active"
+msgstr "تفعيل"
+
+#. translators: %s: theme name
+#: admin/inc/class-spicethemes-about-page.php:375
+msgid "Activate %s now"
+msgstr "نشط %s الآن"
+
+#: admin/inc/class-spicethemes-about-page.php:368
+msgid "Activate Import Plugin"
+msgstr "قم بتفعيل استيراد الإضافة"
+
+#: admin/inc/class-spicethemes-about-page.php:364
+msgid "Activate"
+msgstr "التفعيل"
+
+#: admin/inc/class-spicethemes-about-page.php:346
+msgid "Install and activate"
+msgstr "التنصيب والتفعيل"
+
+#. translators: %s: theme name
+#: admin/inc/class-spicethemes-about-page.php:137
+msgid "Get started with %s theme"
+msgstr "بدء الاستخدام مع قالب %s"
+
+#. translators: %1$s: theme name and %2$ %3$s: url of the options page
+#: admin/inc/class-spicethemes-about-page.php:134
+msgid "%1$s theme is installed. To take full advantage of the features this theme has to offer visit our %2$swelcome page%3$s"
+msgstr "تم تنصيب القالب %1$s. للاستفادة الكاملة من المميزات التي يجب أن يوفرها هذا القالب، تفضل بزيارة %2$sصفحة الترحيب%3$s الخاصة بنا "
+
+#. translators: %1$s: theme name and %2$s: version of the theme
+#: admin/inc/class-spicethemes-about-page.php:117
+msgid "Welcome to %1$s %2$s"
+msgstr "مرحبا في %1$s %2$s"
+
+#. translators: %1$s: theme name and %2$s: count of recommended plugins
+#: admin/inc/class-spicethemes-about-page.php:115
+msgid "About %1$s %2$s"
+msgstr "حول %1$s %2$s"
+
+#: admin/inc/class-spicethemes-about-page.php:106
+msgid "View Theme Info"
+msgstr "عرض معلومات القالب"
+
+#: admin/inc/class-spicethemes-about-page.php:71
+msgid "Error"
+msgstr "خطأ"
+
+#: admin/inc/class-spicethemes-about-page.php:70
+msgid "Activating"
+msgstr "يتم التنشيط"
+
+#: admin/inc/class-spicethemes-about-page.php:69
+msgid "Installing"
+msgstr "جاري التنصيب"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://spicethemes.com"
+msgstr "https://spicethemes.com"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "spicethemes"
+msgstr "spicethemes"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://spicethemes.com/newsblogger-wordpress-theme/"
+msgstr "https://spicethemes.com/newsblogger-wordpress-theme/"

@@ -1,0 +1,600 @@
+# Translation of Themes - Hello Biz in Japanese
+# This file is distributed under the same license as the Themes - Hello Biz package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-10-03 14:13:12+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - Hello Biz\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Hello Biz is a free, user-friendly Hybrid WordPress Theme that was crafted for seamless integration with the Elementor site builder and tailored specifically for business websites. Perfect for beginners, but far from limited to just them, it features a dedicated beginner-oriented “Home” screen to simplify and streamline the web-building process. Hello Biz also integrates with Elementor’s premium features, giving you access to tools like AI, and accessibility enhancements in one place. Whether launching a startup site or refining a company portfolio, Hello Biz offers a solid, responsive foundation for all web creators. Report security bugs through the Patchstack Vulnerability Disclosure Program. The Patchstack team validates, triages, and handles vulnerabilities. Report here: https://patchstack.com/database/wordpress/theme/hello-biz/vdp."
+msgstr "Hello Biz は、Elementor サイトビルダーとのシームレスな統合を可能にし、ビジネスウェブサイト向けに特化して設計された無料のユーザーフレンドリーなハイブリッド WordPress テーマです。初心者に最適ですが、それだけに限定されるものではありません。初心者向けの専用「ホーム」画面を搭載し、ウェブ構築プロセスを簡素化・効率化します。Hello Biz は Elementor のプレミアム機能とも統合されており、AI ツールやアクセシビリティの向上機能など、すべてのツールを1か所で利用可能です。スタートアップサイトの立ち上げでも、会社のポートフォリオの改良でも、Hello Biz はすべてのウェブクリエイターに堅実でレスポンシブな基盤を提供します。脆弱性を発見した場合は、Patchstack 脆弱性開示プログラムを通じて報告してください。Patchstack チームが脆弱性の検証、優先順位付け、対応を行います。脆弱性報告はこちら: https://patchstack.com/database/wordpress/theme/hello-biz/vdp"
+
+#. Theme Name of the theme
+#: style.css modules/admin-home/components/admin-menu-controller.php:28
+#: modules/admin-home/components/admin-menu-controller.php:29
+#: assets/js/hello-biz-admin-top-bar.js:1
+#, gp-priority: high
+msgid "Hello Biz"
+msgstr "Hello Biz"
+
+#: assets/js/hello-biz-settings.js:74
+msgid "Tip: If you use an SEO plugin that handles meta descriptions, like Yoast or Rank Math, disable this option to prevent duplicate meta tags."
+msgstr "ヒント: Yoast または Rank Math のようなメタ説明を扱う SEO プラグインを使用している場合、メタタグの重複を避けるためにこのオプションを無効化してください。"
+
+#: assets/js/hello-biz-settings.js:74
+msgid "What it does: Removes the description meta tag code from singular content pages."
+msgstr "その動作: 個別コンテンツページから説明メタタグを削除します。"
+
+#: assets/js/hello-biz-settings.js:74
+msgid "Disable description meta tag"
+msgstr "description メタタグの無効化"
+
+#: assets/js/hello-biz-admin.js:101
+msgid "Create header"
+msgstr ""
+
+#: assets/js/hello-biz-admin.js:101
+msgid "Got it"
+msgstr ""
+
+#: assets/js/hello-biz-admin.js:101
+msgid "Create your website header and footer from the Hello Biz home screen. Find more Hello+ widgets in the Elementor Editor. Hello+ is installed and active on your site."
+msgstr ""
+
+#: assets/js/hello-biz-admin.js:101
+msgid "Your Hello Biz setup is complete with Hello+"
+msgstr ""
+
+#: assets/js/hello-biz-admin.js:101
+msgid "Installing Hello+…"
+msgstr "Hello+をインストール中..."
+
+#: assets/js/hello-biz-admin.js:101 assets/js/hello-biz-customizer.js:1
+msgid "Something went wrong. Please try again later. You can also contact our support at: wordpress.org/plugins/hello-plus"
+msgstr ""
+
+#: modules/theme/classes/customizer-action-links.php:63
+msgid "Customize your header and footer across your website."
+msgstr ""
+
+#: modules/theme/classes/customizer-action-links.php:62
+msgid "Style your header and footer"
+msgstr ""
+
+#: modules/conversion-banner/components/ajax-handler.php:26
+msgid "Click the link to activate Hello Plus."
+msgstr ""
+
+#: modules/admin-home/rest/install-confirmation.php:62
+msgid "Install confirmation dialog dismissed."
+msgstr ""
+
+#: modules/admin-home/rest/install-confirmation.php:53
+msgid "Failed to update user meta."
+msgstr ""
+
+#: modules/admin-home/rest/install-confirmation.php:43
+msgid "User not found."
+msgstr ""
+
+#: modules/admin-home/components/admin-bar-controller.php:37
+msgid "Manage Hello Biz theme"
+msgstr "Hello Biz テーマを管理"
+
+#: includes/welcome-banner-config.php:57
+#: modules/admin-home/components/admin-menu-controller.php:92
+msgid "Begin setup"
+msgstr "セットアップを開始"
+
+#: includes/welcome-banner-config.php:53
+#: modules/admin-home/components/admin-menu-controller.php:89
+msgid "Finish setup"
+msgstr ""
+
+#: includes/welcome-banner-config.php:43
+msgid "Access the full suite of features, including website templates, header and footer templates, and extra widgets."
+msgstr ""
+
+#: includes/welcome-banner-config.php:41
+msgid "Access everything you need to set up and manage your website."
+msgstr ""
+
+#: includes/welcome-banner-config.php:39
+msgid "Choose a website template and start customizing your site."
+msgstr ""
+
+#: includes/welcome-banner-config.php:37
+msgid "Hello+ is a free plugin that gives your website a header, footer, and extra widgets designed to help you build a business-ready site."
+msgstr ""
+
+#: includes/welcome-banner-config.php:26 modules/theme/module.php:91
+msgid "Hello Biz Home"
+msgstr "Hello Biz ホーム"
+
+#: includes/welcome-banner-config.php:24
+msgid "Almost there"
+msgstr ""
+
+#: includes/welcome-banner-config.php:22
+msgid "Complete your website faster with Hello+"
+msgstr ""
+
+#: assets/js/hello-biz-admin.js:101
+msgid "Resources"
+msgstr "リソース"
+
+#: assets/js/hello-biz-admin.js:101
+msgid "Community"
+msgstr "コミュニティ"
+
+#: modules/admin-home/rest/promotions.php:49
+msgid "Connect any website to automated Email & SMS workflows in a click with Send."
+msgstr "Send を利用して、クリック一つであらゆるウェブサイトを自動メールと SMS 配信ワークフローに連携する。"
+
+#: modules/admin-home/rest/promotions.php:46
+msgid "Send"
+msgstr "送信"
+
+#: modules/admin-home/rest/admin-config.php:302
+msgid "Site Favicon"
+msgstr "サイトのファビコン"
+
+#: modules/admin-home/rest/admin-config.php:263
+msgid "Add New"
+msgstr ""
+
+#: modules/admin-home/rest/admin-config.php:259
+msgid "Edit"
+msgstr "編集"
+
+#: modules/admin-home/components/admin-menu-controller.php:54
+#: modules/admin-home/components/admin-menu-controller.php:55
+#: modules/admin-home/rest/admin-config.php:219
+msgid "Theme Builder"
+msgstr "テーマビルダー"
+
+#: modules/admin-home/rest/admin-config.php:90
+msgid "Platinum Support"
+msgstr "プラチナサポート"
+
+#: modules/admin-home/rest/admin-config.php:84
+msgid "Blog"
+msgstr "ブログ"
+
+#: modules/admin-home/rest/admin-config.php:78
+msgid "Help Center"
+msgstr "ヘルプセンター"
+
+#: modules/admin-home/rest/admin-config.php:70
+msgid "Rate Us"
+msgstr "評価する"
+
+#: modules/admin-home/rest/admin-config.php:65
+msgid "Discord"
+msgstr "Discord"
+
+#: modules/admin-home/rest/admin-config.php:59
+msgid "YouTube"
+msgstr "YouTube"
+
+#: modules/admin-home/rest/admin-config.php:53
+msgid "Facebook"
+msgstr "Facebook"
+
+#: assets/js/hello-biz-settings.js:74
+msgid "Tip: If a Hello+ or Elementor Pro theme builder header or footer already exists on the website, it will get priority. In such case, this setting has no effect and the toggle will be ignored."
+msgstr ""
+
+#: template-parts/search.php:102
+msgid "Next"
+msgstr "次"
+
+#: template-parts/search.php:91
+msgid "Previous"
+msgstr "前"
+
+#. translators: 1: Number of results, 2: Search term
+#: template-parts/search.php:33
+msgid "%1$s found for %2$s"
+msgstr "%2$sの検索結果: %1$s"
+
+#. translators: %d: Number of search results
+#: template-parts/search.php:27
+msgid "%d result"
+msgid_plural "%d results"
+msgstr[0] "%d個"
+
+#: template-parts/404.php:31
+msgid "Try searching or <a href=\"%s\">return to homepage</a>."
+msgstr "サイト内を検索するか、<a href=\"%s\">ホームページに戻ってください</a>。"
+
+#: template-parts/404.php:20
+msgid "We can't find that page"
+msgstr "ページが見つかりませんでした。"
+
+#: template-parts/404.php:17
+msgid "404"
+msgstr "404"
+
+#: searchform.php:18 searchform.php:23
+msgctxt "submit button"
+msgid "Search"
+msgstr "検索"
+
+#: searchform.php:15
+msgctxt "placeholder"
+msgid "Search…"
+msgstr "検索…"
+
+#: searchform.php:14
+msgctxt "label"
+msgid "Search for:"
+msgstr "検索結果:"
+
+#: assets/js/hello-biz-settings.js:74
+msgid "Changelog"
+msgstr "更新履歴"
+
+#: modules/admin-home/rest/promotions.php:30
+msgid "Try Image Optimizer for free"
+msgstr "無料で Image Optimizer を試す"
+
+#: modules/admin-home/rest/promotions.php:29
+msgid "Improve Speed."
+msgstr "スピードを向上"
+
+#: modules/admin-home/rest/promotions.php:28
+msgid "Reduce Size."
+msgstr "サイズを縮小"
+
+#: modules/admin-home/rest/promotions.php:27
+msgid "Optimize Images."
+msgstr "画像を最適化"
+
+#: assets/js/hello-biz-settings.js:74
+msgid "Advanced settings are available for experienced users and developers. If you're unsure about a setting, we recommend keeping the default option."
+msgstr "熟練したユーザーと開発者向けの高度な設定です。設定内容がわからない場合は、デフォルトのままにしておくことをお勧めします。"
+
+#: assets/js/hello-biz-settings.js:74
+msgid "Advanced theme settings"
+msgstr "高度なテーマ設定"
+
+#: assets/js/hello-biz-settings.js:74
+msgid "These settings affect how search engines and assistive technologies interact with your website."
+msgstr "この設定は、ウェブサイトに検索エンジンと補助的技術がどうやり取りするかに影響します。"
+
+#: assets/js/hello-biz-admin.js:101
+msgid "Recent Pages"
+msgstr ""
+
+#: modules/theme/starter-content/home.php:400
+msgctxt "Theme starter content"
+msgid "Home"
+msgstr "ホーム"
+
+#: assets/js/hello-biz-admin.js:101
+msgid "The kit you imported doesn't have an Header or a Footer."
+msgstr ""
+
+#: assets/js/hello-biz-settings.js:74
+msgid "CSS and styling control"
+msgstr "CSS とスタイルコントロール"
+
+#: assets/js/hello-biz-settings.js:74
+msgid "Structure and layout"
+msgstr "構造とレイアウト"
+
+#: assets/js/hello-biz-settings.js:74
+msgid "SEO and accessibility"
+msgstr "SEO とアクセシビリティ"
+
+#: assets/js/hello-biz-settings.js:74
+msgid "Tip: Deregistering theme.css can make your website load faster. Disable it only if you are not using any WordPress elements on your website, or if you want to style them yourself. Examples of WordPress elements include comments area, pagination box, and image align classes."
+msgstr "ヒント: theme.css の登録を解除すると、ウェブサイトの読み込みが速くなる。これを無効化にするのは、ウェブサイトに WordPress 要素を使用していないまたは自分でスタイルしたい場合のみです。WordPress 要素の例は、コメントエリア、ページ送りボックスと画像配置クラスなどがあります。"
+
+#: assets/js/hello-biz-settings.js:74
+msgid "What it does: Turns off CSS reset rules by disabling the theme’s primary stylesheet. CSS reset rules make sure your website looks the same in different browsers."
+msgstr "その動作: テーマのメインスタイルシートを無効化することで、CSS のリセットルールをオフにします。CSS のリセットルールは、ウェブサイトが異なるブラウザーで同じ外観になることを保証します。"
+
+#: assets/js/hello-biz-settings.js:74
+msgid "Deregister Hello Biz theme.css"
+msgstr "Hello Biz theme.css の登録解除"
+
+#: assets/js/hello-biz-settings.js:74
+msgid "Be Careful, disabling these settings could break your website."
+msgstr "ご注意ください。この設定を無効にするとウェブサイトが壊れる恐れがあります。"
+
+#: assets/js/hello-biz-settings.js:74
+msgid "Tip: If you do not want to display page titles or are using Elementor widgets to display your page titles, hide the page title."
+msgstr "ヒント: もしページタイトルを表示したくない、または Elementor ウィジェットでページタイトルを表示している場合、ページタイトルを非表示にする。"
+
+#: assets/js/hello-biz-settings.js:74
+msgid "What it does: Removes the main page title above your page content."
+msgstr "その動作: ページコンテンツの上のメインページタイトルを削除します。"
+
+#: assets/js/hello-biz-settings.js:74
+msgid "Hide page title"
+msgstr "ページタイトルを非表示"
+
+#: assets/js/hello-biz-settings.js:74
+msgid "What it does: Removes the theme’s default header and footer sections from every page, along with their associated CSS/JS files."
+msgstr "その動作: テーマのすべてのページのデフォルトヘッダーとフッターセクションを関連する CSS / JS ファイルと共に削除します。"
+
+#: assets/js/hello-biz-settings.js:74
+msgid "Disable theme header and footer"
+msgstr "テーマヘッダーとフッターを無効化"
+
+#: assets/js/hello-biz-settings.js:74
+msgid "These settings relate to the structure of your pages."
+msgstr "この設定はページの構造に関係があります。"
+
+#: assets/js/hello-biz-settings.js:74
+msgid "Tip: If you use an accessibility plugin that adds a \"skip to content\" link, disable this option to prevent duplications."
+msgstr "ヒント: 「コンテンツにスキップ」リンクのようなアクセシビリティプラグインを使用している場合、重複を避けるためにこのオプションを無効化してください。"
+
+#: assets/js/hello-biz-settings.js:74
+msgid "What it does: Removes the \"Skip to content\" link that helps screen reader users and keyboard navigators jump directly to the main content."
+msgstr "その動作: スクリーンリーダーユーザーやキーボード利用者がメインコンテンツに直接ジャンプできる「コンテンツにスキップ」リンクを削除します。"
+
+#: assets/js/hello-biz-settings.js:74
+msgid "Disable skip links"
+msgstr "スキップリンクの無効化"
+
+#: assets/js/hello-biz-settings.js:74
+msgid "These settings affect how search engines and assistive technologies interact with your site."
+msgstr "この設定は、サイトに検索エンジンと補助的技術がどうやり取りするかに影響します。"
+
+#: assets/js/hello-biz-settings.js:1
+msgid "Error when saving settings"
+msgstr "設定の保存中にエラーが発生しました。"
+
+#: assets/js/hello-biz-settings.js:1
+msgid "Settings Saved"
+msgstr "設定を保存しました"
+
+#: assets/js/hello-biz-conversion-banner.js:101
+msgid "Dismiss this notice."
+msgstr "この通知を非表示にする。"
+
+#: assets/js/hello-biz-admin.js:101
+msgid "General"
+msgstr "全般"
+
+#: assets/js/hello-biz-admin.js:101
+msgid "Site Parts"
+msgstr "サイトのパーツ"
+
+#: includes/welcome-banner-config.php:82
+msgid "By clicking \"%s\" I agree to install and activate the Hello+ plugin."
+msgstr ""
+
+#: includes/welcome-banner-config.php:28
+msgid "Welcome to Hello Biz"
+msgstr "Hello Biz へようこそ"
+
+#: assets/js/hello-biz-admin.js:101
+msgid "These quick actions will get your site airborne in a flash."
+msgstr "これらの簡単な設定で、サイトをすぐに公開できます。"
+
+#: assets/js/hello-biz-admin.js:101
+msgid "Quick Links"
+msgstr "クイックリンク"
+
+#: template-parts/single.php:31
+msgid "Tagged "
+msgstr ""
+
+#: template-parts/search.php:73
+msgid "It seems we can't find what you're looking for."
+msgstr "お探しのものが見つかりません。"
+
+#: template-parts/header.php:43
+msgid "Main menu"
+msgstr "メインメニュー"
+
+#: template-parts/footer.php:21
+msgid "Footer menu"
+msgstr "フッターメニュー"
+
+#. translators: %s: HTML entity for arrow character.
+#: template-parts/archive.php:54
+msgid "Next %s"
+msgstr "次 %s"
+
+#. translators: %s: HTML entity for arrow character.
+#: template-parts/archive.php:50
+msgid "%s Previous"
+msgstr "%s 前へ"
+
+#: modules/theme/components/customizer.php:22
+msgid "Header & Footer"
+msgstr "ヘッダーとフッター"
+
+#: modules/theme/classes/customizer-action-links.php:66
+msgid "By clicking “Begin setup” I agree to install and activate the Hello+ plugin."
+msgstr ""
+
+#: modules/theme/classes/customizer-action-links.php:61
+msgid "Elementor"
+msgstr "Elementor"
+
+#: modules/conversion-banner/components/conversion-banner.php:109
+msgid "Notice dismissed."
+msgstr ""
+
+#: modules/theme/classes/customizer-action-links.php:55
+msgid "Finish Setup"
+msgstr ""
+
+#: modules/admin-home/rest/theme-settings.php:52
+msgid "Settings must be an array"
+msgstr ""
+
+#: modules/admin-home/rest/promotions.php:94
+msgid "Role Manager"
+msgstr "役割の管理者"
+
+#: modules/admin-home/rest/promotions.php:93
+msgid "Customs Attribute"
+msgstr "カスタム属性"
+
+#: modules/admin-home/rest/promotions.php:92
+msgid "Form Integrations"
+msgstr "フォーム連携"
+
+#: modules/admin-home/rest/promotions.php:91
+msgid "Form Submission"
+msgstr "フォーム送信"
+
+#: modules/admin-home/rest/promotions.php:90
+msgid "Collaborative Notes"
+msgstr "共同メモ"
+
+#: modules/admin-home/rest/promotions.php:89
+msgid "E-commerce Features"
+msgstr "Eコマース機能"
+
+#: modules/admin-home/rest/promotions.php:88
+msgid "Custom Code & CSS"
+msgstr "カスタムコードと CSS"
+
+#: modules/admin-home/rest/promotions.php:87
+msgid "Popup Builder"
+msgstr "ポップアップビルダー"
+
+#: modules/admin-home/rest/promotions.php:84
+msgid "Upgrade Now"
+msgstr "今すぐアップグレード"
+
+#: modules/admin-home/rest/promotions.php:82
+msgid "Get complete design flexibility for your website with Elementor Pro’s advanced tools and premium features."
+msgstr "Elementor Pro の高度なツールとプレミアム機能でウェブサイトに完全に設計の柔軟性を得る。"
+
+#: modules/admin-home/rest/promotions.php:80
+msgid "Bring your vision to life"
+msgstr "ビジョンを形に"
+
+#: modules/admin-home/rest/promotions.php:79
+msgid "Elementor Pro"
+msgstr "Elementor Pro"
+
+#: modules/admin-home/rest/promotions.php:70
+msgid "Let's Go"
+msgstr "さあ、始めましょう"
+
+#: modules/admin-home/rest/promotions.php:68
+msgid "Boost creativity with Elementor AI. Craft & enhance copy, create custom CSS & Code, and generate images to elevate your website."
+msgstr ""
+
+#: modules/admin-home/rest/promotions.php:65
+#: modules/admin-home/rest/promotions.php:66
+msgid "Elementor AI"
+msgstr "Elementor AI"
+
+#: modules/admin-home/rest/promotions.php:32
+#: modules/admin-home/rest/promotions.php:51
+msgid "Install"
+msgstr "インストール"
+
+#: modules/admin-home/rest/promotions.php:24
+msgid "Elementor Image Optimizer"
+msgstr "Elementor Image Optimizer"
+
+#: includes/welcome-banner-config.php:123
+msgid "View site"
+msgstr "サイトを表示"
+
+#: includes/welcome-banner-config.php:55
+msgid "Edit home page"
+msgstr ""
+
+#: modules/theme/classes/customizer-action-links.php:46
+msgid "Begin Setup"
+msgstr ""
+
+#: modules/admin-home/rest/admin-config.php:316
+msgid "Site Fonts"
+msgstr "サイトのフォント"
+
+#: modules/admin-home/rest/admin-config.php:310
+msgid "Site Colors"
+msgstr "サイトの色"
+
+#: modules/admin-home/rest/admin-config.php:297
+msgid "Site Logo"
+msgstr "サイトロゴ"
+
+#: modules/admin-home/rest/admin-config.php:292
+msgid "Site Name"
+msgstr "サイト名"
+
+#: modules/admin-home/rest/admin-config.php:208
+#: modules/theme/components/theme-support.php:23
+msgid "Footer"
+msgstr "フッター"
+
+#: modules/admin-home/rest/admin-config.php:200
+#: modules/theme/components/theme-support.php:22
+msgid "Header"
+msgstr "ヘッダー"
+
+#: modules/admin-home/rest/admin-config.php:189
+#: modules/settings/components/settings-menu.php:16
+#: modules/settings/components/settings-menu.php:17
+msgid "Settings"
+msgstr "設定"
+
+#: modules/admin-home/rest/admin-config.php:184
+msgid "Add New Page"
+msgstr "新規固定ページを追加"
+
+#: modules/admin-home/components/admin-menu-controller.php:39
+#: modules/admin-home/components/admin-menu-controller.php:40
+#: template-parts/header.php:30
+msgid "Home"
+msgstr "ホーム"
+
+#: includes/module-base.php:259 includes/module-base.php:270
+msgid "Something went wrong."
+msgstr "問題が発生しました。"
+
+#: header.php:31
+msgid "Skip to content"
+msgstr "コンテンツにスキップ"
+
+#: comments.php:37
+msgctxt "comments title"
+msgid "%s Response"
+msgid_plural "%s Responses"
+msgstr[0] "%s件のフィードバック"
+
+#: comments.php:32
+msgctxt "comments title"
+msgid "One Response"
+msgstr "1件のフィードバック"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://elementor.com/?utm_source=wp-themes&utm_campaign=author-uri&utm_medium=wp-dash"
+msgstr ""
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Elementor Team"
+msgstr "Elementor Team"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://elementor.com/products/hello-biz/?utm_source=wp-themes&utm_campaign=theme-uri&utm_medium=wp-dash"
+msgstr ""

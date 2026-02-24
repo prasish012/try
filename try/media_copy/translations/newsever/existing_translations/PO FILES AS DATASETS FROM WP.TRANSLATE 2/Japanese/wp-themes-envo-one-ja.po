@@ -1,0 +1,253 @@
+# Translation of Themes - Envo One in Japanese
+# This file is distributed under the same license as the Themes - Envo One package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-10-28 14:43:05+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - Envo One\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Envo One is a fast, clean, lightweight, customizable and modern-looking free responsive WooCommerce WordPress theme for e-commerce stores like clothing, fashion, electronics, ebooks, dress store, sports shop, marketplace, multivendor, equipments or online products. Theme works perfectly with the new block editor (Gutenberg) and popular page builders like Elementor, Beaver Builder, SiteOrigin, Thrive Architect, Divi, Brizy, Visual Composer etc. Theme is compatible with YITH WooCommerce Wishlist, YITH WooCommerce Compare, WooCommerce Variation Swatches and other popular plugins. The theme is SEO friendly, WPML and RTL ready. Theme demo ready to import: https://envothemes.com/envo-one/"
+msgstr "Envo One は、無料、高速、クリーン、軽量、カスタマイズ可能、モダンな外観のレスポンシブな WordPress 用 WooCommerce テーマです。Altr は、衣料品、ファッション、電化製品、電子ブック、ドレス ストア、スポーツ ショップ、マーケットプレイス、マルチベンダー、機器、オンライン製品などの eコマース ストア向けに特に作成されました。このテーマは、新しいブロック エディター (Gutenberg) や、Elementor、Beaver Builder、SiteOrigin、Thrive Architect、Divi、Brizy、Visual Composer などの人気のあるページ ビルダーと完全に連携します。テーマは、YITH WooCommerce Wishlist、YITH WooCommerce Compare、WooCommerce variation Swatches、その他の人気のあるプラグインと互換性があります。このテーマは SEO に優しく、WPML と RTL に対応しています。テーマのデモをインポートする準備ができました: https://envothemes.com/envo-one/"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Envo One"
+msgstr "Envo One"
+
+#: lib/customizer/install/class-plugin-install-helper.php:110
+#: lib/customizer/notice/class-customizer-notice.php:144
+msgid "Activating"
+msgstr "有効化しています"
+
+#. Template Name of the theme
+msgid "Page Builders"
+msgstr "Page Builders"
+
+#. Template Name of the theme
+msgid "No Sidebar"
+msgstr "サイドバーなし"
+
+#. translators: %s: Search results
+#: search.php:7
+msgid "Results for \"%s\""
+msgstr "「%s」の結果"
+
+#: lib/wp_bootstrap_navwalker.php:366
+msgid "Add a menu"
+msgstr "メニューを追加"
+
+#: lib/envo-one-woocommerce.php:123
+msgid "Compare"
+msgstr "比較"
+
+#: lib/envo-one-woocommerce.php:102
+msgid "Wishlist"
+msgstr "ウィッシュリスト"
+
+#: lib/envo-one-woocommerce.php:83
+msgid "My Account"
+msgstr "マイ・アカウント"
+
+#: lib/envo-one-woocommerce.php:27
+msgid "Cart"
+msgstr "カート"
+
+#: lib/envo-one-plugin-install.php:75
+msgid "Learn more"
+msgstr "詳細はこちら"
+
+#: lib/customizer-recommend.php:27 lib/envo-one-plugin-install.php:55
+msgid "Install now"
+msgstr "今すぐインストール"
+
+#. translators: %1$s: Envo One theme author (do not translate) with
+#. envothemes.com URL
+#: lib/envo-one-extra.php:544
+msgctxt "Theme author"
+msgid "EnvoThemes"
+msgstr "EnvoThemes"
+
+#. translators: %1$s: Envo One theme author (do not translate) with
+#. envothemes.com URL
+#: lib/envo-one-extra.php:544
+msgid "Theme by %1$s"
+msgstr "%1$s が作成したテーマ"
+
+#: lib/envo-one-extra.php:500
+msgid "Tags"
+msgstr "タグ"
+
+#: lib/envo-one-extra.php:496
+msgid "Category"
+msgstr "カテゴリー"
+
+#: lib/envo-one-extra.php:385
+msgid "Next"
+msgstr "次"
+
+#: lib/envo-one-extra.php:385
+msgid "Next Post"
+msgstr "次の投稿"
+
+#: lib/envo-one-extra.php:384
+msgid "Previous"
+msgstr "前"
+
+#: lib/envo-one-extra.php:384
+msgid "Previous Post"
+msgstr "過去の投稿"
+
+#: lib/envo-one-extra.php:270
+msgid "About The Author"
+msgstr "投稿者について"
+
+#: lib/envo-one-extra.php:247
+msgid "Comment on "
+msgstr "投稿にコメントがあるは"
+
+#: lib/envo-one-extra.php:244
+msgid "Off"
+msgstr "オフ"
+
+#: lib/envo-one-extra.php:221
+msgid "By"
+msgstr "投稿者:"
+
+#. translators: %s: Theme name
+#: lib/envo-one-dashboard.php:87
+msgid "Get started with %s"
+msgstr "%s を利用開始"
+
+#: lib/envo-one-dashboard.php:83 lib/envo-one-dashboard.php:139
+msgid "Install"
+msgstr "インストール"
+
+#: lib/customizer-recommend.php:28
+#: lib/customizer/install/class-plugin-install-helper.php:59
+#: lib/customizer/install/class-plugin-install-helper.php:75
+#: lib/envo-one-dashboard.php:83 lib/envo-one-dashboard.php:139
+#: lib/envo-one-plugin-install.php:40
+msgid "Activate"
+msgstr "有効化"
+
+#: lib/envo-one-dashboard.php:83 lib/envo-one-dashboard.php:139
+#: lib/envo-one-plugin-install.php:29
+msgid "Activated"
+msgstr "有効化済み"
+
+#. translators: %s: Plugin name string
+#: lib/customizer-recommend.php:22 lib/envo-one-dashboard.php:79
+#: lib/envo-one-dashboard.php:136
+msgid "To take full advantage of all the features this theme has to offer, please install and activate the %s plugin."
+msgstr "このテーマが提供するすべての機能を最大限に活用するには、%sプラグインをインストールして有効にしてください。"
+
+#. translators: %s: Theme name
+#: lib/customizer-recommend.php:26 lib/envo-one-dashboard.php:73
+#: lib/envo-one-dashboard.php:130
+msgid "Thank you for installing %s."
+msgstr "%s をインストールしていただきありがとうございます。"
+
+#: functions.php:544
+msgid "Skip to the content"
+msgstr "コンテンツにスキップ"
+
+#: functions.php:510
+msgid "Top bar"
+msgstr "トップバー"
+
+#: functions.php:500
+msgid "Header Section"
+msgstr "ヘッダーセクション"
+
+#: functions.php:490
+msgid "Footer Section"
+msgstr "フッターセクション"
+
+#: functions.php:480
+msgid "Sidebar"
+msgstr "サイドバー"
+
+#: functions.php:350
+msgid "All Categories"
+msgstr "すべてのカテゴリー"
+
+#: functions.php:348
+msgid "Search products..."
+msgstr "商品を検索・・・"
+
+#: functions.php:31
+msgid "Menu Right"
+msgstr "右のメニュー"
+
+#: functions.php:31
+msgid "Main Menu"
+msgstr "メインメニュー"
+
+#: content-none.php:19
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "探しているものが見つかりません。おそらく検索が役立つでしょう。"
+
+#: content-none.php:14
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "検索キーワードに一致するものが見つかりませんでした。 別のキーワードで試してみてください。"
+
+#. translators: %1$s: link to admin area
+#: content-none.php:9
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "最初の投稿の準備ができましたか ? <a href=\"%1$s\">ここから始めましょう</a>"
+
+#: content-none.php:3
+msgid "Nothing Found"
+msgstr "何も見つかりません"
+
+#: comments.php:47
+msgid "Comments are closed."
+msgstr "コメントは停止中です。"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:22
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "「%2$s」についての%1$sのフィードバック"
+
+#. translators: %s: post title
+#: comments.php:19
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "「%s」で1件のフィードバック"
+
+#: 404.php:7
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "こちらには何もありません。検索をお試しください。"
+
+#: 404.php:5
+msgid "Nothing here"
+msgstr "ここには何もない"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://envothemes.com/"
+msgstr "https://envothemes.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "EnvoThemes"
+msgstr "EnvoThemes"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://envothemes.com/envo-one-woocommerce/"
+msgstr "https://envothemes.com/envo-one-woocommerce/"

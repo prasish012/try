@@ -1,0 +1,2289 @@
+# Translation of Themes - Page Builder Framework in Dutch
+# This file is distributed under the same license as the Themes - Page Builder Framework package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-10-30 13:12:08+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: nl\n"
+"Project-Id-Version: Themes - Page Builder Framework\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Page Builder Framework is a super fast, lightweight (less than 50kb on the frontend) and highly customizible WordPress theme made to work with all page builders such as Elementor, Beaver Builder, Visual Composer, SiteOrigin, Divi, Thrive Architect, Brizy and more. It can be daunting to look for the perfect theme to pair with the page builder you love. Page Builder Framework is the only theme that has been specifically created for Page Builders. It has been written from ground up with SEO in mind, is 100% Gutenberg compatible and follows the latest web standards (HTML5 and schema.org markup). With its minimalistic approach and lots of customization options in the WordPress customizer, it enables you to build almost any type of website such as a Blog, Portfolio website, Agency website or WooCommerce storefront. Agency owners and Developers love Page Builder Framework for its flexibility and extendability when it comes to building outstanding client websites. If you’re not a coder, don’t worry! With endless options in the WordPress customizer it’s the perfect fit for users at any skill level. Are you using a Page Builder and still looking for the perfect theme? Look no further."
+msgstr "Page Builder Framework is een supersnel, lichtgewicht (minder dan 50kb aan de voorkant) en zeer aanpasbaar WordPress thema dat is gemaakt om samen te werken met alle pagina bouwers zoals Elementor, Beaver Builder, Visual Composer, SiteOrigin, Divi, Thrive Architect, Brizy en meer. Het kan ontmoedigend zijn om op zoek te gaan naar het perfecte thema om te combineren met de pagina bouwer die je gebruikt. Page Builder Framework is het enige thema dat speciaal is gemaakt voor paginabouwers. Het is vanaf de grond af aan geschreven met SEO in gedachten, is 100% compatibel met Gutenberg en volgt de nieuwste webstandaarden (HTML5 en schema.org markering). Met zijn minimalistische aanpak en talloze aanpassingsopties in de WordPress customizer, stelt het je in staat om bijna elk type site te bouwen, zoals een blog, portfolio site, bureau site of WooCommerce winkel. Bureau eigenaren en ontwikkelaars zijn dol op Page Builder Framework vanwege de flexibiliteit en uitbreidbaarheid bij het bouwen van uitstekende klantsites. Als je geen programmeur bent, maak je geen zorgen! Met eindeloze opties in de WordPress customizer is het perfect geschikt voor gebruikers van elk vaardigheidsniveau. Gebruik je een pagina bouwer en ben je nog steeds op zoek naar het perfecte thema? Zoek niet verder."
+
+#. Theme Name of the theme
+#: style.css inc/template-parts/footer.php:21
+#, gp-priority: high
+msgid "Page Builder Framework"
+msgstr "Page Builder Framework"
+
+#: inc/customizer/settings/settings-compatibility.php:19
+#: inc/settings/compatibility-notice.php:22
+msgid "Your version of the <strong>Premium Add-On</strong> is outdated and no longer compatible with the latest version of <strong>Page Builder Framework.</strong>"
+msgstr "Je versie van de <strong>Premium add-on</strong> is verouderd en niet langer compatibel met de laatste versie van <strong>Page Builder Framework.</strong>"
+
+#: Customizer/Controls/Typography/FontsUtil.php:176
+msgid "No local fonts found."
+msgstr "Geen lokale lettertypen gevonden."
+
+#: inc/customizer/settings/settings-compatibility.php:38
+msgid "Compatibility Warning"
+msgstr "Compatibiliteit waarschuwing"
+
+#: inc/settings/bfcm-notice.php:20
+msgid "💸 Up to 25% Off Page Builder Framework Premium - Black Friday Sale!"
+msgstr "💸 Tot 25% korting op Page Builder Framework Premium - Black Friday uitverkoop!"
+
+#: inc/settings/metaboxes/clear-font-cache.php:26
+msgid "Clear Cache"
+msgstr "Wis cache"
+
+#: inc/settings/metaboxes/clear-font-cache.php:19
+msgid "This is safe to do on production sites."
+msgstr "Dit is veilig om te doen op productiesites."
+
+#: inc/settings/metaboxes/clear-font-cache.php:16
+msgid "If Google Fonts selected in the Customizer are not displayed correctly, please try clearing the Font Cache."
+msgstr "Als de geselecteerde Google Fonts in de customizer niet correct worden weergegeven, probeer dan de lettertypecache te wissen."
+
+#: inc/settings/metaboxes/clear-font-cache.php:15
+msgid "In order to achieve GDPR-compliance, we store Google Fonts locally on your server."
+msgstr "Om te voldoen aan de AVG/GDPR, slaan we Google Fonts lokaal op je server op."
+
+#: inc/settings/metaboxes/clear-font-cache.php:12
+msgid "Clear Font Cache"
+msgstr "De cache van het lettertype wissen"
+
+#: inc/settings/bfcm-notice.php:31
+msgid "Learn more"
+msgstr "Kom meer te weten"
+
+#: inc/settings/bfcm-notice.php:23
+msgid "Upgrade to the <strong>Premium Add-On</strong> for Page Builder Framework, today & get up to 25% off!"
+msgstr "Upgrade naar de <strong>Premium add-on</strong> voor pagina Builder Framework, vandaag & krijg tot 25% korting!"
+
+#: inc/settings/metaboxes/recommended.php:27
+msgid "Better Admin Bar"
+msgstr "Betere toolbar"
+
+#: inc/customizer/settings/settings-compatibility.php:27
+#: inc/settings/compatibility-notice.php:30
+msgid "Manage Subscription"
+msgstr "Beheer abonnement"
+
+#: inc/customizer/settings/settings-compatibility.php:24
+#: inc/settings/compatibility-notice.php:27
+msgid "View Updates"
+msgstr "Bekijk updates"
+
+#: inc/customizer/settings/settings-compatibility.php:20
+#: inc/settings/compatibility-notice.php:23
+msgid "Please update the Premium Add-On to the latest version."
+msgstr "Update de Premium add-On naar de nieuwste versie."
+
+#: inc/settings/compatibility-notice.php:19
+msgid "Premium Add-On - Compatibility Warning"
+msgstr "Premium Add-On - compatibiliteit waarschuwing"
+
+#: inc/customizer/settings/settings-header.php:1330
+msgid "Define a background color & turn the hamburger icon into a button."
+msgstr "Definieer een achtergrondkleur & verander het pictogram van de hamburger in een knop."
+
+#: inc/customizer/settings/settings-header.php:1329
+msgid "Hamburger Icon Button"
+msgstr "Pictogram knop hamburger"
+
+#: inc/customizer/settings/settings-header.php:970
+msgid "Sub Menu Width"
+msgstr "Submenu breedte"
+
+#: inc/customizer/settings/settings-general.php:759
+msgid "Applies to buttons displayed in the themes accent color such as WooCommerce buttons."
+msgstr "Geldt voor knoppen die worden weergegeven in de accentkleur van het thema, zoals WooCommerce knoppen."
+
+#: inc/customizer/settings/settings-general.php:758
+msgid "Theme Buttons (Primary)"
+msgstr "Thema knoppen (primair)"
+
+#: inc/customizer/settings/settings-general.php:702
+msgid "Applies to default buttons such as \"Read more\" used throughout the theme."
+msgstr "Geldt voor standaardknoppen zoals \"Lees meer\" die in het hele thema worden gebruikt."
+
+#: inc/customizer/settings/settings-general.php:388
+msgid "Sidebar Widgets"
+msgstr "Zijbalk widgets"
+
+#: inc/customizer/settings/settings-general.php:337
+msgid "Position (Global)"
+msgstr "Positie (Globale)"
+
+#: inc/customizer/settings/settings-general.php:80
+msgid "Page Padding"
+msgstr "Pagina padding"
+
+#: inc/customizer/settings/settings-general.php:60
+#: inc/customizer/settings/settings-general.php:944
+msgid "Scroll to Top Button"
+msgstr "Scrol naar boven knop"
+
+#: inc/customizer/settings/settings-footer.php:39
+#: inc/customizer/settings/settings-header.php:32
+#: inc/customizer/settings/settings-header.php:47
+#: inc/customizer/settings/settings-header.php:62
+#: inc/customizer/settings/settings-header.php:77
+msgid "Design"
+msgstr "Ontwerp"
+
+#: inc/customizer/settings/settings-blog.php:797
+msgid "Disable Comments"
+msgstr "Reacties uitschakelen"
+
+#. translators: %s is the limit of selection number.
+#: Customizer/Controls/Select/SelectControl.php:161
+msgid "You can only select %s items"
+msgstr "Je kunt alleen %s items selecteren"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "Extra groot"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Larger"
+msgstr "Groter"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Groot"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Regular"
+msgstr "Normaal"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Klein"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Tiny"
+msgstr "Mini"
+
+#: Customizer/Controls/Typography/TypographyField.php:319
+msgid "Font Variant"
+msgstr "Lettertype variant"
+
+#: Customizer/Controls/Typography/FontsStore.php:117
+msgid "900 Italic"
+msgstr "900 cursief"
+
+#: Customizer/Controls/Typography/FontsStore.php:116
+msgid "900"
+msgstr "900"
+
+#: Customizer/Controls/Typography/FontsStore.php:115
+msgid "800 Italic"
+msgstr "800 cursief"
+
+#: Customizer/Controls/Typography/FontsStore.php:114
+msgid "800"
+msgstr "800"
+
+#: Customizer/Controls/Typography/FontsStore.php:111
+msgid "600 Italic"
+msgstr "600 cursief"
+
+#: Customizer/Controls/Typography/FontsStore.php:110
+msgid "600"
+msgstr "600"
+
+#: Customizer/Controls/Typography/FontsStore.php:109
+msgid "500 Italic"
+msgstr "500 cursief"
+
+#: Customizer/Controls/Typography/FontsStore.php:108
+msgid "500"
+msgstr "500"
+
+#: Customizer/Controls/Typography/FontsStore.php:107
+msgid "300 Italic"
+msgstr "300 cursief"
+
+#: Customizer/Controls/Typography/FontsStore.php:106
+msgid "300"
+msgstr "300"
+
+#: Customizer/Controls/Typography/FontsStore.php:105
+msgid "200 Italic"
+msgstr "200 cursief"
+
+#: Customizer/Controls/Typography/FontsStore.php:104
+msgid "200"
+msgstr "200"
+
+#: Customizer/Controls/Typography/FontsStore.php:103
+msgid "100 Italic"
+msgstr "100 cursief"
+
+#: Customizer/Controls/Typography/FontsStore.php:102
+msgid "100"
+msgstr "100"
+
+#: Customizer/Controls/Typography/FontsStore.php:89
+#: Customizer/Controls/Typography/FontsStore.php:113
+msgid "700 Italic"
+msgstr "700 cursief"
+
+#: Customizer/Controls/Typography/FontsStore.php:88
+#: Customizer/Controls/Typography/FontsStore.php:112
+msgid "700"
+msgstr "700"
+
+#: Customizer/Controls/Typography/FontsStore.php:87
+#: Customizer/Controls/Typography/FontsStore.php:101
+msgid "Italic"
+msgstr "Cursief"
+
+#: Customizer/Controls/Typography/FontsStore.php:86
+#: Customizer/Controls/Typography/FontsStore.php:100
+msgid "Regular"
+msgstr "Normaal"
+
+#: Customizer/Controls/Select/SelectControl.php:154
+msgid "Select..."
+msgstr "Selecteer..."
+
+#: inc/settings/bfcm-notice.php:33
+msgid "*Only Administrators will see this message."
+msgstr "(Alleen beheerders zien dit bericht.)."
+
+#: inc/settings/bfcm-notice.php:27
+msgid "All prices are reduced. No coupon code required."
+msgstr "Alle prijzen zijn verlaagd. Geen kortingscode vereist."
+
+#: inc/settings/bfcm-notice.php:26
+msgid "But hurry up, the deal will expire soon!"
+msgstr "Maar schiet op, de deal loopt binnenkort af!"
+
+#: inc/customizer/settings/settings-header.php:1524
+msgid "Auto collapse open sub-menu if other sub-menu is being opened."
+msgstr "Automatisch invouwen van een geopend submenu als een ander submenu wordt geopend."
+
+#: inc/customizer/settings/settings-header.php:1523
+msgid "Auto Collapse"
+msgstr "Automatisch invouwen"
+
+#: inc/settings/metaboxes/recommended.php:76
+msgid "WPML is a popular translation plugin that helps you create a multilingual website for your business or blog."
+msgstr "WPML is een populaire vertaal plugin die je helpt een meertalige site te maken voor je bedrijf of blog."
+
+#: inc/settings/metaboxes/recommended.php:75
+msgid "WPML"
+msgstr "WPML"
+
+#: inc/options.php:114
+msgid "Custom Width"
+msgstr "Aangepaste breedte"
+
+#: inc/customizer/settings/settings-header.php:1011
+msgid "Text Alignment"
+msgstr "Tekst uitlijning"
+
+#: inc/settings/metaboxes/recommended.php:60
+msgid "A set of plugins to help you build dynamic, advanced websites without programming."
+msgstr "Een set plugins waarmee je dynamische, geavanceerde sites kunt bouwen zonder te programmeren."
+
+#: inc/settings/metaboxes/recommended.php:59
+msgid "Toolset"
+msgstr "Gereedschapsset"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:617
+msgid "Notice Font Color"
+msgstr "Kleur lettertype bericht"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:284
+msgid "Disable Gallery Lightbox"
+msgstr "Galerij lightbox uitschakelen"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:275
+msgid "Disable Gallery Slider"
+msgstr "Galerij slider uitschakelen"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:266
+msgid "Disable Gallery Zoom"
+msgstr "Galerij zoom uitschakelen"
+
+#: searchform.php:29 searchform.php:30 searchform.php:36
+msgid "Search"
+msgstr "Zoeken"
+
+#: inc/settings/metaboxes/recommended.php:68
+msgid "The Weglot translation plugin gives you a reliable and easy way to take your WordPress website from local to global in minutes. No coding required and no developer time needed."
+msgstr "De Weglot vertaal plugin biedt je een betrouwbare en eenvoudige manier om je WordPress site binnen enkele minuten van lokaal naar wereldwijd te brengen. Geen codering vereist en geen ontwikkeltijd nodig."
+
+#: inc/customizer/settings/settings-blog.php:459
+msgid "Full Post"
+msgstr "Volledig bericht"
+
+#: inc/customizer/settings/settings-blog.php:458
+msgid "Excerpt"
+msgstr "Samenvatting"
+
+#: inc/customizer/settings/settings-blog.php:453
+msgid "Content"
+msgstr "Inhoud"
+
+#: inc/settings/metaboxes/review.php:18
+msgid "Leave a Review"
+msgstr "Beoordeling achterlaten"
+
+#: inc/settings/metaboxes/review.php:15
+msgid "Do you enjoy Page Builder Framework? Leave a review in the WordPress directory and spread the word!"
+msgstr "Vind je pagina bouwer framework leuk? Laat een beoordeling achter in de WordPress folder en vertel het verder!"
+
+#: inc/settings/metaboxes/review.php:12
+msgid "Leave us a Review"
+msgstr "Laat een beoordeling achter"
+
+#: inc/settings/metaboxes/recommended.php:121
+msgid "Not Installed"
+msgstr "Niet geïnstalleerd"
+
+#: inc/settings/metaboxes/recommended.php:113
+msgid "Install"
+msgstr "Installeer"
+
+#: inc/settings/metaboxes/recommended.php:103
+#: inc/settings/metaboxes/recommended.php:106
+msgid "Installed"
+msgstr "Geïnstalleerd"
+
+#: inc/settings/metaboxes/recommended.php:52
+msgid "Reset, Export & Import your WordPress customizer settings with a simple click of a button."
+msgstr "Reset, export & importeer je WordPress customizer instellingen met een simpele klik op de knop."
+
+#: inc/settings/metaboxes/recommended.php:51
+msgid "Customizer Reset - Export & Import"
+msgstr "Customizer reset - Export & import"
+
+#: inc/settings/metaboxes/recommended.php:44
+msgid "Ultimate Dashboard is the #1 plugin to customize your WordPress Dashboard."
+msgstr "Ultimate Dashboard is de #1 plugin om je WordPress Dashboard aan te passen."
+
+#: inc/settings/metaboxes/recommended.php:43
+msgid "Ultimate Dashboard"
+msgstr "Ultiem dashboard"
+
+#: inc/settings/metaboxes/recommended.php:36
+msgid "Add beautiful WordPress video lightbox popups to your website without sacrificing performance."
+msgstr "Voeg prachtige WordPress video lightbox pop-ups toe aan je site zonder dat dit ten koste gaat van de prestaties."
+
+#: inc/settings/metaboxes/recommended.php:35
+msgid "WP Video Popup"
+msgstr "WP video pop-up"
+
+#: inc/settings/metaboxes/recommended.php:28
+msgid "Quickly access all important areas of your WordPress website & provide your clients with the user experience they deserve."
+msgstr "Krijg snel toegang tot alle belangrijke onderdelen van je WordPress site & voorzie je klanten van de gebruikerservaring die ze verdienen."
+
+#: inc/settings/metaboxes/recommended.php:20
+msgid "Take your website to the next level with the Premium Add-On for Page Builder Framework."
+msgstr "Til je site naar een hoger niveau met de Premium Add-On voor pagina bouwer framework."
+
+#: inc/settings/metaboxes/premium.php:100
+msgid "Check out all the Premium Add-On features."
+msgstr "Bekijk alle functies van de Premium Add-On."
+
+#: inc/settings/metaboxes/premium.php:97
+msgid "And much more!"
+msgstr "En veel meer!"
+
+#: inc/settings/metaboxes/premium.php:64
+msgid "Add a customizable Call to Action Button to your navigation with just a few clicks."
+msgstr "Voeg met een paar klikken een aanpasbare knop met oproepen tot actie toe aan je navigatie."
+
+#: inc/settings/metaboxes/premium.php:63
+msgid "Call to Action Button"
+msgstr "Call To Action knop"
+
+#: inc/settings/metaboxes/premium.php:59
+msgid "Easily create an advanced mega menu with up to 4 rows."
+msgstr "Maak eenvoudig een geavanceerd megamenu met maximaal 4 rijen."
+
+#: inc/settings/metaboxes/premium.php:58
+msgid "Mega Menu"
+msgstr "Mega menu"
+
+#: inc/settings/metaboxes/premium.php:54
+msgid "Take full control over the design of your online store with more advanced WooCommerce features."
+msgstr "Neem de volledige controle over het ontwerp van je online winkel met geavanceerdere WooCommerce functies."
+
+#: inc/settings/metaboxes/premium.php:53
+msgid "Advanced WooCommerce Features"
+msgstr "Geavanceerde WooCommerce functies"
+
+#: inc/settings/metaboxes/premium.php:49
+msgid "Set custom responsive breakpoints for tablets, desktops & mobiles for a pixel perfect design."
+msgstr "Stel aangepaste responsive breakpoints in voor tablets, desktops & mobiles voor een pixel perfect ontwerp."
+
+#: inc/settings/metaboxes/premium.php:48
+msgid "Adjustable Breakpoints"
+msgstr "Aanpasbare breakpoints"
+
+#: inc/settings/metaboxes/premium.php:44
+msgid "Customize fonts and add Typekit- & Custom Fonts to your website."
+msgstr "Pas lettertypes aan en voeg Typekit & Custom Fonts toe aan je site."
+
+#: inc/settings/metaboxes/premium.php:43
+msgid "Advanced Typography"
+msgstr "Geavanceerde typografie"
+
+#: inc/settings/metaboxes/premium.php:39
+msgid "Your theme, your branding. Fully white label Page Builder Framework & the Premium Add-On."
+msgstr "Je thema, je branding. Volledig wit label Page Builder Framework, de Premium Add-On."
+
+#: inc/settings/metaboxes/premium.php:38
+msgid "White Label Settings"
+msgstr "White label instellingen"
+
+#: inc/settings/metaboxes/premium.php:34
+msgid "Create a beautiful & fully customizable Sticky Navigation in seconds."
+msgstr "Maak een prachtige & aanpasbare sticky navigatie in seconden."
+
+#: inc/settings/metaboxes/premium.php:33
+msgid "Sticky Navigation"
+msgstr "Sticky navigatie"
+
+#: inc/settings/metaboxes/premium.php:29
+msgid "Create a customizable Transparent Header with just a few clicks."
+msgstr "Maak met een paar klikken een aanpasbare transparante header."
+
+#: inc/settings/metaboxes/premium.php:28
+msgid "Transparent Header"
+msgstr "Transparante header"
+
+#: inc/settings/metaboxes/premium.php:19
+msgid "Upgrade Now"
+msgstr "Upgrade nu"
+
+#: inc/settings/metaboxes/premium.php:18
+msgid "Premium Add-On Features"
+msgstr "Premium Add-On functies"
+
+#: inc/settings/metaboxes/community.php:15
+msgid "Join the community and meet 1700+ Page Builder Framework users in our Facebook group."
+msgstr "Word lid van de community en ontmoet 1700+ pagina bouwer framework gebruikers in onze Facebook groep."
+
+#: inc/settings/metaboxes/community.php:12
+#: inc/settings/metaboxes/community.php:18
+msgid "Join the Community"
+msgstr "Word lid van de community"
+
+#: inc/settings/metaboxes/customizer.php:96
+msgid "Explore all of the Page Builder Framework features."
+msgstr "Ontdek alle functies van het pagina bouwer framework."
+
+#: inc/settings/metaboxes/customizer.php:93
+msgid "Launch WordPress Customizer"
+msgstr "Start de WordPress Customizer"
+
+#: inc/settings/metaboxes/customizer.php:80
+msgid "Customizer Settings"
+msgstr "Customizer instellingen"
+
+#: inc/settings/metaboxes/resources.php:20
+msgid "Page Builder Framework Website"
+msgstr "Pagina bouwer framework site"
+
+#: inc/settings/metaboxes/resources.php:13
+msgid "Additional Resources"
+msgstr "Aanvullende gegevensbronnen"
+
+#: inc/settings/metaboxes/documentation.php:39
+msgid "Any questions? Don't hesitate to reach out! <br><br> Post your question in the official WordPress support forum and we will help you out asap!"
+msgstr "Heb je vragen? Aarzel niet om contact op te nemen! <br><br> Plaats je bericht in het officiële ondersteuningsforum van WordPress en we zullen je zo snel mogelijk helpen!"
+
+#: inc/settings/metaboxes/documentation.php:38
+#: inc/settings/metaboxes/resources.php:32
+msgid "Support Forum"
+msgstr "Ondersteuningsforum"
+
+#: inc/settings/metaboxes/documentation.php:33
+msgid "Are you planning to make code changes to your website? We've got you covered! <br><br> Download the Page Builder Framework child theme or generate your own, white labeled version of it."
+msgstr "Ben je van plan om code wijzigingen aan te brengen op je site? We hebben je gedekt! <br><br> Download het subthema van de Page Builder Framework of genereer je eigen versie ervan met je eigen merknaam."
+
+#: inc/settings/metaboxes/documentation.php:32
+#: inc/settings/metaboxes/resources.php:26
+msgid "Child Theme"
+msgstr "Subthema"
+
+#: inc/settings/metaboxes/documentation.php:27
+msgid "Did you know? There is a Facebook Community of Page Builder Framework users, just like you! <br><br> Join the community and meet 1700+ Page Builder Framework users."
+msgstr "Wist je dat? Er is een Facebook Community van Page Builder Framework gebruikers, net als jij! <br><br> Sluit je aan bij de community en ontmoet 1700+ Page Builder Framework gebruikers."
+
+#: inc/settings/metaboxes/documentation.php:26
+msgid "Community"
+msgstr "Community"
+
+#: inc/settings/metaboxes/documentation.php:21
+msgid "Not sure how something works? <br><br> Our extensive Documentation is a great place to get started and learn more about Page Builder Framework."
+msgstr "Niet zeker hoe iets werkt? <br><br> Onze uitgebreide documentatie is een geweldige plek om te beginnen en meer te leren over Page Builder Framework."
+
+#: inc/settings/metaboxes/documentation.php:20
+msgid "Documentation"
+msgstr "Documentatie"
+
+#: inc/settings/settings-page.php:38
+msgid "Help"
+msgstr "Hulp"
+
+#: inc/settings/settings-page.php:37
+msgid "Recommended Plugins"
+msgstr "Aanbevolen plugins"
+
+#: inc/settings/metaboxes/recommended.php:19 inc/settings/settings-page.php:36
+msgid "Premium Add-On"
+msgstr "Premium add-on"
+
+#: inc/settings/settings-page.php:35
+msgid "Getting Started"
+msgstr "Ga aan de slag"
+
+#: inc/integration/elementor-pro.php:113
+msgid "After Main Content"
+msgstr "Na de hoofdinhoud"
+
+#: inc/integration/elementor-pro.php:104
+msgid "Before Main Content"
+msgstr "Voor de hoofdinhoud"
+
+#: inc/integration/elementor-pro.php:95
+msgid "After Inner Content"
+msgstr "Na innerlijke inhoud"
+
+#: inc/integration/elementor-pro.php:86
+msgid "Before Inner Content"
+msgstr "Voor de inhoud"
+
+#: inc/integration/elementor-pro.php:77
+msgid "After Content"
+msgstr "Na inhoud"
+
+#: inc/integration/elementor-pro.php:40
+msgid "Footer (Replace)"
+msgstr "Footer (vervangen)"
+
+#: inc/integration/elementor-pro.php:31
+msgid "Header (Replace)"
+msgstr "Header (vervangen)"
+
+#: inc/integration/elementor-pro.php:22
+msgid "Pre Header (Replace)"
+msgstr "Pre header (vervangen)"
+
+#: inc/integration/lifterlms/lifterlms-customizer-settings.php:58
+msgid "Action Color"
+msgstr "Actie kleur"
+
+#: inc/integration/lifterlms/lifterlms-customizer-settings.php:45
+msgid "Primary Color"
+msgstr "Primaire kleur"
+
+#: inc/integration/lifterlms/lifterlms-customizer-settings.php:25
+msgid "Colors"
+msgstr "Kleuren"
+
+#: inc/integration/lifterlms/lifterlms-customizer-settings.php:16
+msgid "LifterLMS"
+msgstr "LifterLMS"
+
+#: inc/template-parts/navigation/menu-mobile-default.php:25
+#: inc/template-parts/navigation/menu-mobile-hamburger.php:29
+#: inc/template-parts/navigation/menu-mobile-hamburger.php:37
+#: inc/template-parts/navigation/menu-mobile-off-canvas.php:33
+#: inc/template-parts/navigation/menu-mobile-off-canvas.php:40
+msgid "Mobile Site Navigation"
+msgstr "Mobiele site navigatie"
+
+#: inc/customizer/settings/settings-header.php:1534
+msgid "Indent"
+msgstr "Inspringen"
+
+#: inc/customizer/settings/settings-header.php:85
+msgid "Mobile Sub Menu"
+msgstr "Mobiel submenu"
+
+#: inc/integration/woocommerce/woocommerce-functions.php:87
+msgid "Widgets in this area will be shown on WooCommerce product pages."
+msgstr "Widgets in dit gebied worden getoond op WooCommerce productpagina's."
+
+#: inc/integration/woocommerce/woocommerce-functions.php:74
+msgid "Widgets in this area will be shown on WooCommerce archive pages."
+msgstr "Widgets in dit gebied worden getoond op WooCommerce archiefpagina's."
+
+#: inc/integration/edd/edd-functions.php:80
+msgid "Widgets in this area will be shown on EDD product pages."
+msgstr "Widgets in dit gebied worden getoond op EDD product pagina's."
+
+#: inc/integration/edd/edd-functions.php:69
+msgid "Widgets in this area will be shown on EDD archive pages."
+msgstr "Widgets in dit gebied worden getoond op EDD archief pagina's."
+
+#: inc/settings/activation-notice.php:28
+msgid "Get Started"
+msgstr "Ga aan de slag"
+
+#. Template Name of the theme
+msgid "Sidebar (Deprecated)"
+msgstr "Zijbalk (verouderd)"
+
+#: inc/customizer/settings/settings-footer.php:32
+msgid "Footer Bar"
+msgstr "Footer balk"
+
+#: inc/customizer/settings/settings-footer.php:25
+msgid "Widget Area"
+msgstr "Widget gebied"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:313
+msgid "Price Quantity Buttons (+/-)"
+msgstr "Prijs hoeveelheid knoppen (+/-)"
+
+#: inc/integration/woocommerce/woocommerce-functions.php:739
+msgid "Increase quantity"
+msgstr "Verhoog aantal"
+
+#: inc/integration/woocommerce/woocommerce-functions.php:726
+msgid "Decrease quantity"
+msgstr "Verlaag aantal"
+
+#: inc/settings/metaboxes/customizer.php:98
+msgid "Customize"
+msgstr "Aanpassen"
+
+#: inc/settings/activation-notice.php:23
+msgid "Thank you for choosing Page Builder Framework! Please visit the theme settings page to get started."
+msgstr "Bedankt voor het kiezen van Page Builder Framework! Bezoek de thema instellingenpagina om te beginnen."
+
+#: inc/settings/activation-notice.php:20
+msgid "Welcome to Page Builder Framework!"
+msgstr "Welkom bij pagina bouwer framework!"
+
+#: inc/customizer/settings/settings-header.php:1377
+msgid "Menu Item Settings"
+msgstr "Instellingen menu-item"
+
+#: inc/theme-settings.php:42
+msgid "Theme Settings"
+msgstr "Thema instellingen"
+
+#: inc/customizer/settings/settings-general.php:99
+msgid "Boxed Layout"
+msgstr "Boxed lay-out"
+
+#: inc/customizer/settings/settings-blog.php:187
+msgid "Excerpt Indicator"
+msgstr "Samenvatting indicator"
+
+#: inc/integration/edd/edd-customizer-settings.php:25
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:35
+msgid "Cart Menu Item"
+msgstr "Winkelwagen menu-item"
+
+#: inc/customizer/settings/settings-header.php:278
+msgid "Pre Header Width"
+msgstr "Pre header breedte"
+
+#: inc/customizer/settings/settings-footer.php:363
+#: inc/customizer/settings/settings-footer.php:377
+#: inc/customizer/settings/settings-header.php:951
+#: inc/customizer/settings/settings-header.php:1149
+#: inc/customizer/settings/settings-header.php:1504
+#: inc/customizer/settings/settings-header.php:1633
+#: inc/customizer/settings/settings-typography.php:179
+#: inc/customizer/settings/settings-typography.php:298
+#: inc/customizer/settings/settings-typography.php:347
+#: inc/customizer/settings/settings-typography.php:397
+#: inc/customizer/settings/settings-typography.php:446
+#: inc/customizer/settings/settings-typography.php:495
+#: inc/customizer/settings/settings-typography.php:544
+#: inc/customizer/settings/settings-typography.php:593
+#: inc/customizer/settings/settings-typography.php:642
+#: inc/customizer/settings/settings-typography.php:691
+#: inc/settings/metaboxes/premium.php:104
+#: inc/settings/metaboxes/recommended.php:115
+msgid "Learn More"
+msgstr "Lees verder"
+
+#: inc/customizer/settings/settings-footer.php:362
+#: inc/customizer/settings/settings-footer.php:376
+#: inc/customizer/settings/settings-header.php:950
+#: inc/customizer/settings/settings-header.php:1148
+#: inc/customizer/settings/settings-header.php:1503
+#: inc/customizer/settings/settings-header.php:1632
+#: inc/customizer/settings/settings-typography.php:178
+#: inc/customizer/settings/settings-typography.php:297
+#: inc/customizer/settings/settings-typography.php:346
+#: inc/customizer/settings/settings-typography.php:396
+#: inc/customizer/settings/settings-typography.php:445
+#: inc/customizer/settings/settings-typography.php:494
+#: inc/customizer/settings/settings-typography.php:543
+#: inc/customizer/settings/settings-typography.php:592
+#: inc/customizer/settings/settings-typography.php:641
+#: inc/customizer/settings/settings-typography.php:690
+msgid "Premium Features available"
+msgstr "Premium functies beschikbaar"
+
+#: inc/customizer/settings/settings-header.php:424
+msgid "Mobile Logo"
+msgstr "Mobiel logo"
+
+#: inc/customizer/settings/settings-blog.php:69
+msgid "Post"
+msgstr "Bericht"
+
+#: inc/integration/elementor-pro.php:167
+msgid "After Sidebar"
+msgstr "Na zijbalk"
+
+#: inc/integration/elementor-pro.php:158
+msgid "Before Sidebar"
+msgstr "Voor zijbalk"
+
+#: inc/integration/elementor-pro.php:149
+msgid "After Post"
+msgstr "Na bericht"
+
+#: inc/integration/elementor-pro.php:140
+msgid "Before Post"
+msgstr "Voor bericht"
+
+#: inc/integration/elementor-pro.php:131
+msgid "After Footer"
+msgstr "Na footer"
+
+#: inc/integration/elementor-pro.php:122
+msgid "Before Footer"
+msgstr "Voor de footer"
+
+#: inc/integration/elementor-pro.php:58
+msgid "After Header"
+msgstr "Na header"
+
+#: inc/integration/elementor-pro.php:49
+msgid "Before Header"
+msgstr "Voor header"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:796
+msgid "List"
+msgstr "Lijst"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:493
+msgid "Enable AJAX add to cart button"
+msgstr "AJAX knop toevoegen aan winkelwagen inschakelen"
+
+#: inc/customizer/settings/settings-blog.php:132
+msgid "Author Avatar"
+msgstr "Auteur avatar"
+
+#: inc/customizer/settings/settings-blog.php:95
+msgid "Date"
+msgstr "Datum"
+
+#: inc/customizer/settings/settings-general.php:537
+msgid "Below Header"
+msgstr "Onder header"
+
+#: inc/customizer/settings/settings-general.php:536
+#: inc/integration/elementor-pro.php:68
+msgid "Before Content"
+msgstr "Voor inhoud"
+
+#: inc/customizer/settings/settings-blog.php:32
+msgid "Pagination"
+msgstr "Paginering"
+
+#: inc/customizer/settings/settings-blog.php:660
+msgid "Image Beside Post Layout Settings"
+msgstr "Afbeelding naast bericht lay-out instellingen"
+
+#: inc/customizer/settings/settings-blog.php:521
+#: inc/customizer/settings/settings-blog.php:842
+msgid "Stretch Featured Image"
+msgstr "Uitgelichte afbeelding uitrekken"
+
+#: inc/helpers.php:767
+msgid "Scroll to Top"
+msgstr "Scroll naar boven"
+
+#: inc/customizer/settings/settings-header.php:448
+msgid "Logo Width"
+msgstr "Logo breedte"
+
+#: inc/customizer/settings/settings-footer.php:188
+msgid "Powered by [theme_author]"
+msgstr "Mogelijk gemaakt door [thema_auteur]"
+
+#: inc/customizer/settings/settings-footer.php:112
+msgid "&copy; [year] - [blogname] | All rights reserved"
+msgstr "&copy; [year] - [blogname] | Alle rechten voorbehouden"
+
+#: inc/customizer/settings/settings-header.php:588
+msgid "Display Tagline on Mobile"
+msgstr "Toon slogan op mobiel"
+
+#: inc/customizer/settings/settings-typography.php:234
+msgid "Tagline - Font Settings"
+msgstr "Slogan - lettertype instellingen"
+
+#: inc/customizer/settings/settings-typography.php:197
+msgid "Title - Font Settings"
+msgstr "Titel - lettertype instellingen"
+
+#: inc/customizer/settings/settings-general.php:350
+msgid "Gap"
+msgstr "Ruimte"
+
+#: inc/customizer/settings/settings-general.php:988
+msgid "Show after (px)"
+msgstr "Toon na (px)"
+
+#: inc/customizer/settings/settings-blog.php:819
+msgid "Post Title"
+msgstr "Titel van bericht"
+
+#: inc/customizer/settings/settings-blog.php:818
+msgid "Previous/Next Post"
+msgstr "Vorige/Volgende Bericht"
+
+#: inc/customizer/settings/settings-blog.php:695
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:251
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:825
+msgid "Image Width"
+msgstr "Breedte afbeelding"
+
+#: inc/customizer/settings/settings-blog.php:561
+msgid "Space Between"
+msgstr "Ruimte tussen"
+
+#: inc/customizer/settings/settings-blog.php:508
+#: inc/customizer/settings/settings-blog.php:829
+msgid "Style"
+msgstr "Stijl"
+
+#: inc/customizer/settings/settings-blog.php:403
+msgid "Remove Prefix"
+msgstr "Voorvoegsel verwijderen"
+
+#: inc/customizer/settings/settings-blog.php:259
+msgid "Categories Title"
+msgstr "Categorieën titel"
+
+#: inc/customizer/settings/settings-blog.php:114
+#: inc/customizer/settings/settings-general.php:552
+msgid "Separator"
+msgstr "Scheidingsteken"
+
+#: inc/customizer/settings/settings-blog.php:48
+msgid "Search Results"
+msgstr "Zoekresultaten"
+
+#: inc/customizer/settings/settings-blog.php:44
+msgid "Blog / Archive"
+msgstr "Blog/archief"
+
+#: inc/customizer/settings/settings-typography.php:25
+msgid "Site Title / Tagline"
+msgstr "Site titel/slogan"
+
+#: inc/theme-mods.php:129
+msgid "Search Toggle"
+msgstr "Zoeken toggle"
+
+#: inc/integration/edd/edd-functions.php:75
+msgid "Easy Digital Downloads Product Page Sidebar"
+msgstr "Eenvoudige digitale downloads productpagina zijbalk"
+
+#: inc/integration/edd/edd-functions.php:64
+msgid "Easy Digital Downloads Sidebar"
+msgstr "Easy Digital Downloads zijbalk"
+
+#: inc/integration/edd/edd-customizer-settings.php:75
+msgid "Display Menu Item only on EDD related pages."
+msgstr "Menu item alleen weergeven op EDD gerelateerde pagina's."
+
+#: inc/integration/edd/edd-customizer-settings.php:16
+msgid "Easy Digital Downloads"
+msgstr "Easy Digital Downloads"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:585
+msgid "Error Notice"
+msgstr "Fout bericht"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:572
+msgid "Success Notice"
+msgstr "Bericht van succes"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:560
+msgid "Info Notice"
+msgstr "Info bericht"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:534
+msgid "Store Notice"
+msgstr "Winkel bericht"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:77
+msgid "Turn the Search Menu Item into a Product Search."
+msgstr "Verander het Zoeken menu-item in een Product zoeken."
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:76
+msgid "Product Search"
+msgstr "Product zoeken"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:56
+msgid "Notices"
+msgstr "Berichten"
+
+#: inc/integration/edd/edd-functions.php:177
+#: inc/integration/woocommerce/woocommerce-functions.php:576
+msgid "Items in Cart"
+msgstr "Items in winkelwagen"
+
+#: inc/helpers.php:1243
+msgid "<span>1</span> Comment"
+msgstr "<span>1</span> reactie"
+
+#: inc/helpers.php:1502 inc/helpers.php:1508
+#: inc/template-parts/navigation/menu-full-screen.php:32
+#: inc/template-parts/navigation/menu-full-screen.php:39
+#: inc/template-parts/navigation/menu-mobile-hamburger.php:30
+#: inc/template-parts/navigation/menu-mobile-hamburger.php:38
+#: inc/template-parts/navigation/menu-mobile-off-canvas.php:34
+#: inc/template-parts/navigation/menu-mobile-off-canvas.php:41
+#: inc/template-parts/navigation/menu-off-canvas-left.php:30
+#: inc/template-parts/navigation/menu-off-canvas-left.php:37
+#: inc/template-parts/navigation/menu-off-canvas.php:36
+#: inc/template-parts/navigation/menu-off-canvas.php:43
+msgid "Menu Toggle"
+msgstr "Menu toggle"
+
+#: inc/settings/metaboxes/customizer.php:21
+#: inc/template-parts/navigation/menu-centered.php:23
+#: inc/template-parts/navigation/menu-full-screen.php:31
+#: inc/template-parts/navigation/menu-full-screen.php:38
+#: inc/template-parts/navigation/menu-left.php:21
+#: inc/template-parts/navigation/menu-off-canvas-left.php:29
+#: inc/template-parts/navigation/menu-off-canvas-left.php:36
+#: inc/template-parts/navigation/menu-off-canvas.php:35
+#: inc/template-parts/navigation/menu-off-canvas.php:42
+#: inc/template-parts/navigation/menu-right.php:27
+#: inc/template-parts/navigation/menu-stacked-advanced.php:37
+#: inc/template-parts/navigation/menu-stacked.php:19
+msgid "Site Navigation"
+msgstr "Sitenavigatie"
+
+#: inc/options.php:125 inc/quick-edit.php:82
+msgid "Page Title"
+msgstr "Paginatitel"
+
+#: inc/options.php:121 inc/quick-edit.php:72
+msgid "Disable Elements"
+msgstr "Elementen uitschakelen"
+
+#: inc/options.php:109 inc/options.php:318 inc/quick-edit.php:60
+msgid "Contained"
+msgstr "Ingesloten"
+
+#: comments.php:49 comments.php:50
+msgid "Comments Navigation"
+msgstr "Reacties navigatie"
+
+#: searchform.php:24
+msgid "Search for:"
+msgstr "Zoek naar:"
+
+#: inc/customizer/settings/settings-header.php:1305
+msgid "Icon Size"
+msgstr "Icoon grootte"
+
+#: inc/customizer/settings/settings-header.php:706
+msgid "Custom \"title\" Tag"
+msgstr "Aangepaste \"titel\" tag"
+
+#: inc/customizer/settings/settings-header.php:690
+msgid "Custom \"alt\" Tag"
+msgstr "Aangepaste \"alt\" tag"
+
+#: inc/customizer/settings/settings-general.php:791
+msgid "Primary Font Color"
+msgstr "Primaire kleur lettertype"
+
+#: inc/customizer/settings/settings-general.php:457
+msgid "Search Form"
+msgstr "Zoekformulier"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:67
+msgid "Display Menu Item only on WooCommerce related pages."
+msgstr "Menu-item alleen weergeven op WooCommerce gerelateerde pagina's."
+
+#: inc/integration/edd/edd-customizer-settings.php:74
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:66
+msgid "Hide from non-Shop Pages"
+msgstr "Verbergen van niet winkelpagina's"
+
+#: inc/customizer/settings/settings-footer.php:217
+msgid "Footer Width"
+msgstr "Breedte footer"
+
+#: inc/customizer/settings/settings-header.php:1117
+msgid "Sub Menu Separator"
+msgstr "Scheidingsteken submenu"
+
+#: inc/customizer/settings/settings-blog.php:397
+msgid "Headline"
+msgstr "Kopregel"
+
+#: inc/helpers.php:1210
+msgid "View all posts by %s"
+msgstr "Bekijk alle berichten van %s"
+
+#: inc/customizer/settings/settings-general.php:513
+msgid "Pages"
+msgstr "Pagina's"
+
+#: inc/customizer/settings/settings-general.php:39
+#: inc/customizer/settings/settings-general.php:512
+msgid "404 Page"
+msgstr "404 pagina"
+
+#: inc/customizer/settings/settings-general.php:511
+msgid "Search Page"
+msgstr "Zoekpagina"
+
+#: inc/customizer/settings/settings-general.php:510
+msgid "Single"
+msgstr "Enkel"
+
+#: inc/customizer/settings/settings-general.php:508
+msgid "Front Page"
+msgstr "Voorpagina"
+
+#: inc/customizer/settings/settings-general.php:504
+msgid "Display Breadcrumbs on"
+msgstr "Toon kruimelpaden op"
+
+#: inc/customizer/settings/settings-general.php:46
+#: inc/customizer/settings/settings-general.php:481
+msgid "Breadcrumbs"
+msgstr "Kruimelpad"
+
+#: inc/customizer/settings/settings-general.php:53
+#: inc/customizer/settings/settings-general.php:701
+#: inc/settings/metaboxes/customizer.php:53
+msgid "Theme Buttons"
+msgstr "Thema knoppen"
+
+#: inc/customizer/settings/settings-blog.php:16
+#: inc/settings/metaboxes/customizer.php:41
+msgid "Blog"
+msgstr "Blog"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: inc/breadcrumbs.php:377
+msgid "Week %s"
+msgstr "Week %s"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: inc/breadcrumbs.php:375
+msgid "Minute %s"
+msgstr "Minuut %s"
+
+#. Translators: %s is the page number.
+#: inc/breadcrumbs.php:373
+msgid "Comment Page %s"
+msgstr "Reactie pagina %s"
+
+#. Translators: %s is the page number.
+#: inc/breadcrumbs.php:371
+msgid "Page %s"
+msgstr "Pagina %s"
+
+#. Translators: %s is the search query.
+#: inc/breadcrumbs.php:369
+msgid "Search results for: %s"
+msgstr "Zoekresultaten voor: %s"
+
+#: inc/breadcrumbs.php:367 inc/customizer/settings/settings-general.php:509
+msgid "Archives"
+msgstr "Archieven"
+
+#: inc/breadcrumbs.php:366
+msgid "404 Not Found"
+msgstr "404 niet gevonden"
+
+#: inc/breadcrumbs.php:365
+msgid "Home"
+msgstr "Home"
+
+#: inc/breadcrumbs.php:364
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "Kruimelpad"
+
+#: inc/customizer/settings/settings-blog.php:303
+#: inc/customizer/settings/settings-blog.php:340
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:414
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:459
+msgid "Active"
+msgstr "Actief"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:365
+msgid "Modern"
+msgstr "Modern"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:361
+msgid "Tabs Layout"
+msgstr "Lay-out tabs"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:293
+msgid "Summary Separator"
+msgstr "Samenvatting scheidingsteken"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:1048
+msgid "Out of Stock Notice"
+msgstr "Melding Niet meer voorradig"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:1013
+msgid "Price Font Size"
+msgstr "Lettertype grootte prijs"
+
+#: inc/customizer/settings/settings-blog.php:632
+#: inc/customizer/settings/settings-blog.php:896
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:978
+msgid "Title Font Size"
+msgstr "Titel lettertypegrootte"
+
+#: inc/customizer/settings/settings-general.php:577
+#: inc/customizer/settings/settings-general.php:967
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:888
+msgid "Alignment"
+msgstr "Uitlijning"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:873
+msgid "Square"
+msgstr "Vierkant"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:872
+msgid "Round"
+msgstr "Rond"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:782
+msgid "Short Description"
+msgstr "Korte beschrijving"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:781
+msgid "Add to Cart Button"
+msgstr "Voeg toe aan winkelwagen knop"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:780
+msgid "Price"
+msgstr "Prijs"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:779
+msgid "Rating"
+msgstr "Waardering"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:769
+msgid "Structure"
+msgstr "Structuur"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:738
+msgid "Grid Gap"
+msgstr "Raster marge"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:722
+msgid "Products per Row"
+msgstr "Producten per rij"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:688
+msgid "Hide Breadcrumbs"
+msgstr "Verberg kruimelpad"
+
+#: inc/integration/edd/edd-customizer-settings.php:201
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:201
+msgid "Count"
+msgstr "Tellen"
+
+#: inc/customizer/settings/settings-general.php:1064
+#: inc/customizer/settings/settings-header.php:1285
+msgid "Icon Color"
+msgstr "Pictogram kleur"
+
+#: inc/integration/edd/edd-customizer-settings.php:147
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:148
+msgid "Add a Cart Icon to your Mobile Navigation."
+msgstr "Toevoegen aan winkelwagen pictogram aan je mobiele navigatie."
+
+#: inc/integration/edd/edd-customizer-settings.php:146
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:147
+msgid "Visibility (Mobile)"
+msgstr "Zichtbaarheid (Mobiel)"
+
+#: inc/integration/edd/edd-customizer-settings.php:92
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:94
+msgid "Add a Cart Icon to your Main Navigation."
+msgstr "Toevoegen aan winkelwagen pictogram aan je hoofd navigatie."
+
+#: inc/integration/edd/edd-customizer-settings.php:91
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:93
+msgid "Visibility (Desktop)"
+msgstr "Zichtbaarheid (Desktop)"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:25
+msgid "Shop Page"
+msgstr "Winkelpagina"
+
+#: inc/integration/edd/edd-functions.php:161
+#: inc/integration/edd/edd-functions.php:170
+#: inc/integration/woocommerce/woocommerce-functions.php:560
+#: inc/integration/woocommerce/woocommerce-functions.php:569
+msgid "Shopping Cart"
+msgstr "Winkelwagen"
+
+#: inc/integration/woocommerce/woocommerce-functions.php:392
+msgid "Out of stock"
+msgstr "Niet voorradig"
+
+#: inc/customizer/settings/settings-header.php:1027
+msgid "Menu Item Padding"
+msgstr "Menu-item padding"
+
+#: inc/customizer/settings/settings-header.php:749
+msgid "Logo Container Width (Mobile)"
+msgstr "Logo Container Breedte (Mobiel)"
+
+#: inc/customizer/settings/settings-blog.php:386
+#: inc/customizer/settings/settings-blog.php:722
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:227
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:662
+msgid "Custom Content Width"
+msgstr "Aangepast breedte inhoud"
+
+#: inc/settings/metaboxes/customizer.php:45
+msgid "Post Layout"
+msgstr "Bericht lay-out"
+
+#: inc/template-parts/blog/blog-readmore.php:19
+msgid "Read more"
+msgstr "Lees verder"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:636
+msgid "Side by Side"
+msgstr "Naast elkaar"
+
+#: inc/customizer/settings/settings-blog.php:675
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:237
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:804
+msgid "Image Alignment"
+msgstr "Afbeelding uitlijnen"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:860
+msgid "Inside"
+msgstr "Binnen"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:859
+msgid "Outside"
+msgstr "Buiten"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:854
+msgid "Sale Badge"
+msgstr "Verkoop badge"
+
+#: inc/customizer/settings/settings-blog.php:577
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:754
+msgid "Content Alignment"
+msgstr "Uitlijning inhoud"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:706
+msgid "Hide Ordering"
+msgstr "Bestelling verbergen"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:697
+msgid "Hide Result Count"
+msgstr "Resultaat telling verbergen"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:42
+msgid "Product Page"
+msgstr "Productpagina"
+
+#: searchform.php:25
+msgid "Search &hellip;"
+msgstr "Zoek &hellip;"
+
+#: inc/customizer/settings/settings-header.php:1460
+msgid "Divider Color"
+msgstr "Kleur scheidingsteken"
+
+#: inc/customizer/settings/settings-typography.php:366
+msgid "The settings below will apply to all headlines if not configured individually."
+msgstr "De instellingen hieronder zijn van toepassing op alle kopteksten, maar niet als apart gedefinieerd."
+
+#: sidebar.php:28
+msgid "Add Widgets"
+msgstr "Widgets toevoegen"
+
+#: sidebar.php:27
+msgid "Your Sidebar Widgets will appear here."
+msgstr "Je zijbalk widgets zullen hier verschijnen."
+
+#: inc/integration/woocommerce/woocommerce-functions.php:82
+msgid "WooCommerce Product Page Sidebar"
+msgstr "WooCommerce productpagina zijbalk"
+
+#: inc/integration/woocommerce/woocommerce-functions.php:69
+msgid "WooCommerce Sidebar"
+msgstr "WooCommerce zijbalk"
+
+#: inc/integration/edd/edd-customizer-settings.php:57
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:518
+msgid "Product Page Sidebar"
+msgstr "Productpagina zijbalk"
+
+#: inc/integration/edd/edd-customizer-settings.php:42
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:504
+msgid "Shop Page Sidebar"
+msgstr "Winkelpagina zijbalk"
+
+#: inc/customizer/settings/settings-header.php:1474
+#: inc/customizer/settings/settings-header.php:1605
+msgid "Sub Menu Arrow Color"
+msgstr "Submenu pijlkleur"
+
+#: inc/customizer/settings/settings-header.php:733
+#: inc/customizer/settings/settings-header.php:750
+msgid "Defines the space in % the logo area takes in the navigation."
+msgstr "Bepaalt de ruimte in % die het logo gedeelte inneemt in de navigatie."
+
+#: inc/customizer/settings/settings-header.php:732
+msgid "Logo Container Width"
+msgstr "Logo container breedte"
+
+#: inc/customizer/settings/settings-typography.php:105
+#: inc/customizer/settings/settings-typography.php:267
+#: inc/customizer/settings/settings-typography.php:316
+#: inc/customizer/settings/settings-typography.php:365
+#: inc/customizer/settings/settings-typography.php:415
+#: inc/customizer/settings/settings-typography.php:464
+#: inc/customizer/settings/settings-typography.php:513
+#: inc/customizer/settings/settings-typography.php:562
+#: inc/customizer/settings/settings-typography.php:611
+#: inc/customizer/settings/settings-typography.php:660
+msgid "Font Settings"
+msgstr "Lettertype instellingen"
+
+#: inc/customizer/settings/settings-general.php:904
+msgid "Primary Border Color"
+msgstr "Primaire rand kleur"
+
+#: inc/customizer/settings/settings-general.php:837
+msgid "Border Width"
+msgstr "Randbreedte"
+
+#: inc/customizer/settings/settings-blog.php:353
+#: inc/customizer/settings/settings-general.php:822
+#: inc/customizer/settings/settings-general.php:1103
+#: inc/customizer/settings/settings-header.php:1350
+msgid "Border Radius"
+msgstr "Randradius"
+
+#: inc/customizer/settings/settings-general.php:532
+msgid "Position"
+msgstr "Positie"
+
+#: inc/customizer/settings/settings-typography.php:88
+msgid "H6"
+msgstr "H6"
+
+#: inc/customizer/settings/settings-typography.php:81
+msgid "H5"
+msgstr "H5"
+
+#: inc/customizer/settings/settings-typography.php:74
+msgid "H4"
+msgstr "H4"
+
+#: inc/customizer/settings/settings-typography.php:67
+msgid "H3"
+msgstr "H3"
+
+#: inc/customizer/settings/settings-typography.php:60
+msgid "H2"
+msgstr "H2"
+
+#: inc/customizer/settings/settings-typography.php:53
+msgid "H1"
+msgstr "H1"
+
+#: inc/customizer/settings/settings-typography.php:16
+#: inc/settings/metaboxes/customizer.php:49
+msgid "Typography"
+msgstr "Typografie"
+
+#: functions.php:106
+msgid "Footer Right"
+msgstr "Footer rechts"
+
+#: functions.php:105
+msgid "Footer Left"
+msgstr "Footer links"
+
+#: inc/helpers.php:1016
+msgid "Next Post &rarr;"
+msgstr "Volgend bericht %rarr;"
+
+#: inc/helpers.php:1015
+msgid "&larr; Previous Post"
+msgstr "&larr; Vorig bericht"
+
+#: searchform.php:25
+msgid "Press enter to search"
+msgstr "Druk op Enter om te zoeken"
+
+#. translators: Search query
+#: inc/helpers.php:905
+msgid "Search Results for: %s"
+msgstr "Zoekresultaten voor: %s"
+
+#: inc/helpers.php:159
+msgid "Edit"
+msgstr "Bewerken"
+
+#: inc/template-parts/blog/blog-tags.php:18
+#: inc/template-parts/single/single-tags.php:18
+msgid "Tags:"
+msgstr "Tags:"
+
+#: inc/helpers.php:1228
+msgid "Posted on"
+msgstr "Geplaatst op"
+
+#: inc/template-parts/blog/blog-categories.php:20
+#: inc/template-parts/single/single-categories.php:20
+msgid "Filed under:"
+msgstr "Opgeslagen onder:"
+
+#: inc/template-parts/blog-layouts/beside.php:63
+#: inc/template-parts/blog-layouts/default.php:49
+#: inc/template-parts/blog-layouts/grid.php:51
+#: inc/template-parts/single-layouts/default.php:46 page-sidebar.php:44
+#: page.php:46
+msgid "Pages:"
+msgstr "Pagina's:"
+
+#: inc/options.php:173 inc/quick-edit.php:149
+msgid "Left Sidebar"
+msgstr "Zijbalk links"
+
+#: inc/options.php:168 inc/quick-edit.php:140
+msgid "Right Sidebar"
+msgstr "Zijbalk rechts"
+
+#: inc/options.php:104 inc/options.php:314 inc/quick-edit.php:51
+msgid "Full Width"
+msgstr "Volledige breedte"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:679
+msgid "Hide Page Title"
+msgstr "Paginatitel verbergen"
+
+#: inc/options.php:33
+msgid "Template Settings"
+msgstr "Template instellingen"
+
+#: inc/misc.php:27 inc/misc.php:39 inc/misc.php:66 inc/misc.php:78
+#: inc/misc.php:103 inc/misc.php:109
+msgid "Add Menu"
+msgstr "Menu Toevoegen"
+
+#: inc/customizer/settings/settings-general.php:866
+msgid "Border Color"
+msgstr "Randkleur"
+
+#: inc/customizer/settings/settings-header.php:1166
+msgid "Hamburger"
+msgstr "Hamburger"
+
+#: inc/customizer/settings/settings-header.php:986
+msgid "Sub Menu Alignment"
+msgstr "Uitlijning submenu"
+
+#: inc/customizer/settings/settings-header.php:866
+msgid "Menu Item Spacing"
+msgstr "Menu item spatie"
+
+#: inc/customizer/settings/settings-header.php:850
+msgid "Menu Height"
+msgstr "Menu Hoogte"
+
+#: inc/customizer/settings/settings-header.php:813
+#: inc/customizer/settings/settings-header.php:1209
+msgid "Search Icon"
+msgstr "Zoek pictogram"
+
+#: inc/customizer/settings/settings-header.php:776
+msgid "Stacked"
+msgstr "Gestapeld"
+
+#: inc/customizer/settings/settings-header.php:775
+msgid "Centered"
+msgstr "Gecentreerd"
+
+#: inc/customizer/settings/settings-header.php:773
+msgid "Right (default)"
+msgstr "Rechts (standaard)"
+
+#: inc/customizer/settings/settings-footer.php:86
+#: inc/customizer/settings/settings-footer.php:161
+#: inc/customizer/settings/settings-header.php:131
+#: inc/customizer/settings/settings-header.php:207
+#: inc/customizer/settings/settings-header.php:785
+#: inc/customizer/settings/settings-header.php:1174
+#: inc/template-parts/navigation/menu-mobile-default.php:26
+msgid "Menu"
+msgstr "Menu"
+
+#: inc/customizer/settings/settings-header.php:839
+msgid "Navigation Width"
+msgstr "Navigatie Breedte"
+
+#: inc/customizer/settings/settings-header.php:562
+msgid "Display Tagline"
+msgstr "Toon slogan"
+
+#: inc/customizer/settings/settings-header.php:680
+msgid "Custom Logo URL"
+msgstr "Aangepast logo URL"
+
+#: inc/customizer/settings/settings-blog.php:315
+#: inc/customizer/settings/settings-footer.php:279
+#: inc/customizer/settings/settings-general.php:642
+#: inc/customizer/settings/settings-general.php:734
+#: inc/customizer/settings/settings-header.php:340
+#: inc/customizer/settings/settings-header.php:908
+#: inc/customizer/settings/settings-header.php:1075
+#: inc/customizer/settings/settings-header.php:1434
+#: inc/customizer/settings/settings-header.php:1581
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:326
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:434
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:951
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:993
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:1028
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:1081
+msgid "Font Color"
+msgstr "Lettertype kleur"
+
+#: inc/customizer/settings/settings-footer.php:156
+#: inc/customizer/settings/settings-header.php:202
+#: inc/customizer/settings/settings-header.php:234
+#: inc/template-parts/pre-header.php:17
+msgid "Column 2"
+msgstr "Kolom 2"
+
+#: inc/customizer/settings/settings-footer.php:75
+#: inc/customizer/settings/settings-header.php:120
+#: inc/customizer/settings/settings-header.php:158
+#: inc/template-parts/pre-header.php:16
+msgid "Column 1"
+msgstr "Kolom 1"
+
+#: inc/customizer/settings/settings-footer.php:57
+#: inc/customizer/settings/settings-header.php:102
+msgid "Two Columns"
+msgstr "Twee kolommen"
+
+#: inc/customizer/settings/settings-footer.php:56
+#: inc/customizer/settings/settings-header.php:101
+msgid "One Column"
+msgstr "Één kolom"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:605
+msgid "Notice Background Color"
+msgstr "Bericht achtergrondkleur"
+
+#: inc/customizer/settings/settings-blog.php:291
+#: inc/customizer/settings/settings-blog.php:327
+#: inc/customizer/settings/settings-blog.php:621
+#: inc/customizer/settings/settings-footer.php:319
+#: inc/customizer/settings/settings-general.php:680
+#: inc/customizer/settings/settings-general.php:722
+#: inc/customizer/settings/settings-general.php:746
+#: inc/customizer/settings/settings-general.php:779
+#: inc/customizer/settings/settings-general.php:803
+#: inc/customizer/settings/settings-general.php:885
+#: inc/customizer/settings/settings-general.php:923
+#: inc/customizer/settings/settings-general.php:1043
+#: inc/customizer/settings/settings-general.php:1084
+#: inc/customizer/settings/settings-header.php:380
+#: inc/customizer/settings/settings-header.php:498
+#: inc/customizer/settings/settings-header.php:921
+#: inc/customizer/settings/settings-header.php:1061
+#: inc/customizer/settings/settings-header.php:1088
+#: inc/customizer/settings/settings-header.php:1420
+#: inc/customizer/settings/settings-header.php:1447
+#: inc/customizer/settings/settings-header.php:1569
+#: inc/customizer/settings/settings-header.php:1593
+#: inc/customizer/settings/settings-typography.php:165
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:394
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:447
+msgid "Hover"
+msgstr "Hoveren"
+
+#: inc/customizer/settings/settings-general.php:359
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:746
+msgid "Collapse"
+msgstr "Invouwen"
+
+#: inc/customizer/settings/settings-general.php:358
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:742
+msgid "Small"
+msgstr "Klein"
+
+#: inc/customizer/settings/settings-general.php:357
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:743
+msgid "Medium"
+msgstr "Medium"
+
+#: inc/customizer/settings/settings-general.php:356
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:744
+msgid "Large"
+msgstr "Groot"
+
+#: inc/customizer/settings/settings-general.php:355
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:745
+msgid "xLarge"
+msgstr "xGroot"
+
+#: inc/customizer/settings/settings-general.php:354
+msgid "Divider"
+msgstr "Scheidingslijn"
+
+#: inc/customizer/settings/settings-general.php:266
+msgid "Vertical"
+msgstr "Verticaal"
+
+#: inc/customizer/settings/settings-general.php:240
+msgid "Horizontal"
+msgstr "Horizontaal"
+
+#: inc/customizer/settings/settings-general.php:214
+msgid "Spread"
+msgstr "Spreiden"
+
+#: inc/customizer/settings/settings-general.php:188
+msgid "Blur"
+msgstr "Vervagen"
+
+#: inc/customizer/settings/settings-general.php:172
+msgid "Box Shadow"
+msgstr "Box schaduw"
+
+#: inc/customizer/settings/settings-general.php:108
+msgid "Margin"
+msgstr "Marge"
+
+#: inc/customizer/settings/settings-blog.php:512
+#: inc/customizer/settings/settings-blog.php:833
+msgid "Boxed"
+msgstr "Boxed"
+
+#: inc/customizer/settings/settings-blog.php:387
+#: inc/customizer/settings/settings-blog.php:723
+#: inc/customizer/settings/settings-footer.php:218
+#: inc/customizer/settings/settings-general.php:71
+#: inc/customizer/settings/settings-header.php:279
+#: inc/customizer/settings/settings-header.php:840
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:228
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:663
+msgid "Default: 1200px"
+msgstr "Standaard: 1200px"
+
+#: inc/customizer/settings/settings-general.php:70
+msgid "Page Width"
+msgstr "Paginabreedte"
+
+#: inc/customizer/settings/settings-blog.php:815 inc/helpers.php:1010
+#: inc/helpers.php:1012
+msgid "Post Navigation"
+msgstr "Bericht navigatie"
+
+#: inc/customizer/settings/settings-blog.php:96
+msgid "Comments"
+msgstr "Reacties"
+
+#: inc/customizer/settings/settings-blog.php:476
+#: inc/customizer/settings/settings-blog.php:779
+msgid "Tags"
+msgstr "Tags"
+
+#: inc/customizer/settings/settings-blog.php:475
+#: inc/customizer/settings/settings-blog.php:778
+msgid "Categories"
+msgstr "Categorieën"
+
+#: inc/customizer/settings/settings-blog.php:474
+#: inc/customizer/settings/settings-blog.php:777
+msgid "Read More"
+msgstr "Lees meer"
+
+#: inc/customizer/settings/settings-blog.php:444
+#: inc/customizer/settings/settings-blog.php:762 inc/options.php:130
+#: inc/quick-edit.php:91
+msgid "Featured Image"
+msgstr "Uitgelichte afbeelding"
+
+#: inc/customizer/settings/settings-blog.php:88
+#: inc/customizer/settings/settings-blog.php:443
+#: inc/customizer/settings/settings-blog.php:761
+msgid "Meta Data"
+msgstr "Meta Data"
+
+#: inc/customizer/settings/settings-blog.php:442
+#: inc/customizer/settings/settings-blog.php:760
+#: inc/customizer/settings/settings-general.php:437
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:778
+msgid "Title"
+msgstr "Titel"
+
+#: inc/customizer/settings/settings-blog.php:420
+#: inc/customizer/settings/settings-blog.php:737
+#: inc/customizer/settings/settings-general.php:343
+#: inc/integration/edd/edd-customizer-settings.php:49
+#: inc/integration/edd/edd-customizer-settings.php:64
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:510
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:524
+#: inc/options.php:178 inc/quick-edit.php:158
+msgid "No Sidebar"
+msgstr "Geen zijbalk"
+
+#: inc/customizer/settings/settings-blog.php:417
+#: inc/customizer/settings/settings-blog.php:734
+#: inc/integration/edd/edd-customizer-settings.php:46
+#: inc/integration/edd/edd-customizer-settings.php:61 inc/options.php:94
+#: inc/options.php:163 inc/options.php:322 inc/quick-edit.php:42
+#: inc/quick-edit.php:131
+msgid "Inherit Global Settings"
+msgstr "Globale instellingen erven"
+
+#: inc/customizer/settings/settings-blog.php:498
+msgid "Image Beside Post"
+msgstr "Afbeelding naast bericht"
+
+#: inc/customizer/settings/settings-blog.php:234
+msgid "Read More Text"
+msgstr "Lees meer tekst"
+
+#: inc/customizer/settings/settings-blog.php:216
+#: inc/customizer/settings/settings-footer.php:80
+#: inc/customizer/settings/settings-header.php:125
+msgid "Button (Primary)"
+msgstr "Knop (primair)"
+
+#: inc/customizer/settings/settings-blog.php:215
+#: inc/customizer/settings/settings-footer.php:79
+#: inc/customizer/settings/settings-header.php:124
+msgid "Button"
+msgstr "Knop"
+
+#: inc/customizer/settings/settings-blog.php:214
+#: inc/customizer/settings/settings-footer.php:78
+#: inc/customizer/settings/settings-footer.php:85
+#: inc/customizer/settings/settings-footer.php:111
+#: inc/customizer/settings/settings-footer.php:160
+#: inc/customizer/settings/settings-footer.php:187
+#: inc/customizer/settings/settings-general.php:447
+#: inc/customizer/settings/settings-header.php:123
+#: inc/customizer/settings/settings-header.php:130
+#: inc/customizer/settings/settings-header.php:157
+#: inc/customizer/settings/settings-header.php:206
+#: inc/customizer/settings/settings-header.php:233
+#: inc/customizer/settings/settings-typography.php:46
+msgid "Text"
+msgstr "Tekst"
+
+#: inc/customizer/settings/settings-blog.php:211
+msgid "Read More Link"
+msgstr "Lees meer link"
+
+#: inc/customizer/settings/settings-blog.php:165
+msgid "By default the excerpt length is set to return 55 words."
+msgstr "Standaard is de samenvatting lengte ingesteld op 55 woorden."
+
+#: inc/customizer/settings/settings-blog.php:164
+msgid "Excerpt Length"
+msgstr "Lengte samenvatting"
+
+#: inc/customizer/settings/settings-blog.php:402
+#: inc/customizer/settings/settings-blog.php:820
+#: inc/customizer/settings/settings-general.php:462
+#: inc/integration/edd/edd-customizer-settings.php:97
+#: inc/integration/edd/edd-customizer-settings.php:152
+#: inc/integration/edd/edd-customizer-settings.php:206
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:99
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:153
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:206
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:296
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:317
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:858
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:1053
+msgid "Hide"
+msgstr "Verberg"
+
+#: inc/customizer/settings/settings-blog.php:401
+#: inc/customizer/settings/settings-general.php:461
+#: inc/integration/edd/edd-customizer-settings.php:96
+#: inc/integration/edd/edd-customizer-settings.php:151
+#: inc/integration/edd/edd-customizer-settings.php:205
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:98
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:152
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:205
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:297
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:316
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:1052
+msgid "Show"
+msgstr "Toon"
+
+#: inc/customizer/settings/settings-blog.php:94
+msgid "Author"
+msgstr "Auteur"
+
+#: inc/customizer/settings/settings-header.php:25
+msgid "Pre Header"
+msgstr "Pre header"
+
+#: inc/customizer/settings/settings-header.php:70
+msgid "Mobile Navigation"
+msgstr "Mobiele navigatie"
+
+#: inc/customizer/settings/settings-header.php:55
+#: inc/customizer/settings/settings-typography.php:39
+msgid "Sub Menu"
+msgstr "Submenu"
+
+#: inc/customizer/settings/settings-header.php:40
+#: inc/customizer/settings/settings-typography.php:32
+msgid "Navigation"
+msgstr "Navigatie"
+
+#: inc/customizer/settings/settings-blog.php:610
+#: inc/customizer/settings/settings-footer.php:299
+#: inc/customizer/settings/settings-general.php:661
+#: inc/customizer/settings/settings-header.php:360
+#: inc/customizer/settings/settings-typography.php:153
+#: inc/integration/lifterlms/lifterlms-customizer-settings.php:71
+msgid "Accent Color"
+msgstr "Accent kleur"
+
+#: inc/customizer/settings/settings-blog.php:51
+#: inc/customizer/settings/settings-blog.php:72
+#: inc/customizer/settings/settings-blog.php:492
+#: inc/customizer/settings/settings-general.php:25
+#: inc/customizer/settings/settings-header.php:96
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:631
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:791
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:868
+#: inc/options.php:90 inc/options.php:289 inc/quick-edit.php:32
+#: inc/settings/metaboxes/customizer.php:33
+msgid "Layout"
+msgstr "Lay-out"
+
+#: inc/customizer/settings/settings-blog.php:468
+#: inc/customizer/settings/settings-blog.php:771
+#: inc/customizer/settings/settings-footer.php:16
+#: inc/customizer/settings/settings-footer.php:51
+#: inc/customizer/settings/settings-typography.php:95 inc/options.php:140
+#: inc/quick-edit.php:109 inc/settings/metaboxes/customizer.php:29
+msgid "Footer"
+msgstr "Footer"
+
+#: inc/customizer/settings/settings-blog.php:435
+#: inc/customizer/settings/settings-blog.php:753
+#: inc/customizer/settings/settings-header.php:16 inc/options.php:135
+#: inc/quick-edit.php:100 inc/settings/metaboxes/customizer.php:25
+msgid "Header"
+msgstr "Header"
+
+#: inc/customizer/settings/settings-blog.php:25
+#: inc/customizer/settings/settings-footer.php:36
+#: inc/customizer/settings/settings-general.php:16
+#: inc/customizer/settings/settings-header.php:29
+#: inc/customizer/settings/settings-header.php:44
+#: inc/customizer/settings/settings-header.php:59
+#: inc/customizer/settings/settings-header.php:74
+msgid "General"
+msgstr "Algemeen"
+
+#. translators: %1s represents the premium feature's URL.
+#: inc/customizer/settings/settings-premium.php:18
+msgid "Get all features with the <a href=\"%1s\" target=\"_blank\">Premium Add-On</a>!"
+msgstr "Verkrijg alle functies met de <a href=\"%1s\" target=\"_blank\">Premium add-on</a>!"
+
+#: inc/customizer/settings/settings-premium.php:26
+msgid "Premium Features available!"
+msgstr "Premium functies beschikbaar!"
+
+#: inc/customizer/settings/settings-setup.php:27
+msgid "Background"
+msgstr "Achtergrond"
+
+#: inc/customizer/settings/settings-setup.php:26
+#: inc/settings/metaboxes/customizer.php:17
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/customizer/settings/settings-blog.php:542
+#: inc/customizer/settings/settings-blog.php:858
+#: inc/customizer/settings/settings-general.php:130
+#: inc/customizer/settings/settings-general.php:396
+#: inc/customizer/settings/settings-header.php:1386
+msgid "Padding"
+msgstr "Padding"
+
+#: inc/helpers.php:182
+msgid "Your comment has yet to be approved."
+msgstr "Je reactie moet nog worden toegestaan."
+
+#: inc/helpers.php:171
+msgid "F d, Y"
+msgstr "F d, Y"
+
+#: inc/helpers.php:122
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Ga naar de inhoud"
+
+#: functions.php:138 inc/customizer/settings/settings-blog.php:413
+#: inc/customizer/settings/settings-blog.php:731
+#: inc/customizer/settings/settings-general.php:32
+#: inc/integration/edd/edd-customizer-settings.php:32
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:49
+#: inc/options.php:36 inc/quick-edit.php:121
+#: inc/settings/metaboxes/customizer.php:37
+msgid "Sidebar"
+msgstr "Zijbalk"
+
+#: functions.php:95
+msgid "Pre Header Right"
+msgstr "Pre header rechts"
+
+#: functions.php:94
+msgid "Pre Header Left"
+msgstr "Pre header links"
+
+#: functions.php:83
+msgid "Mobile Menu"
+msgstr "Mobiel menu"
+
+#: functions.php:82
+msgid "Main Menu"
+msgstr "Hoofdmenu"
+
+#: comments.php:59
+msgid "Comments are closed."
+msgstr "Reacties zijn gesloten."
+
+#: comments.php:52
+msgid "Newer Comments &rarr;"
+msgstr "Nieuwere reacties &rarr;"
+
+#: comments.php:51
+msgid "&larr; Older Comments"
+msgstr "&larr; Oudere reacties"
+
+#: comments.php:43
+msgid "Reply"
+msgstr "Antwoord"
+
+#: comments.php:33 inc/helpers.php:1244
+msgid "<span>%</span> Comments"
+msgstr "<span>%</span> reacties"
+
+#: comments.php:32
+msgid "<span>One</span> Comment"
+msgstr "<span>één</span> reactie"
+
+#: comments.php:31 inc/helpers.php:1242
+msgid "<span>No</span> Comments"
+msgstr "<span>Geen</span> reacties"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:777
+msgid "Category"
+msgstr "Categorie"
+
+#: inc/customizer/settings/settings-general.php:292
+#: inc/customizer/settings/settings-header.php:478
+#: inc/customizer/settings/settings-header.php:619
+#: inc/customizer/settings/settings-header.php:1127
+#: inc/customizer/settings/settings-typography.php:140
+#: inc/integration/edd/edd-customizer-settings.php:114
+#: inc/integration/edd/edd-customizer-settings.php:169
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:116
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:170
+msgid "Color"
+msgstr "Kleur"
+
+#: inc/customizer/settings/settings-footer.php:55
+#: inc/customizer/settings/settings-footer.php:84
+#: inc/customizer/settings/settings-footer.php:159
+#: inc/customizer/settings/settings-header.php:100
+#: inc/customizer/settings/settings-header.php:129
+#: inc/customizer/settings/settings-header.php:205
+msgid "None"
+msgstr "Geen"
+
+#: Customizer/Controls/Typography/TypographyField.php:278
+#: inc/customizer/settings/settings-typography.php:206
+#: inc/customizer/settings/settings-typography.php:243
+#: inc/customizer/settings/settings-typography.php:276
+#: inc/customizer/settings/settings-typography.php:325
+#: inc/customizer/settings/settings-typography.php:375
+#: inc/customizer/settings/settings-typography.php:424
+#: inc/customizer/settings/settings-typography.php:473
+#: inc/customizer/settings/settings-typography.php:522
+#: inc/customizer/settings/settings-typography.php:571
+#: inc/customizer/settings/settings-typography.php:620
+#: inc/customizer/settings/settings-typography.php:669
+msgid "Font Family"
+msgstr "Lettertype familie"
+
+#: Customizer/Controls/Checkbox/ToggleControl.php:61
+msgid "Off"
+msgstr "Uit"
+
+#: Customizer/Controls/Checkbox/ToggleControl.php:60
+msgid "On"
+msgstr "Aan"
+
+#: Customizer/Controls/Repeater/RepeaterControl.php:486
+#: Customizer/Controls/Repeater/RepeaterControl.php:488
+msgid "Change File"
+msgstr "Bestand wijzigen"
+
+#: Customizer/Controls/Repeater/RepeaterControl.php:486
+#: Customizer/Controls/Repeater/RepeaterControl.php:490
+msgid "Add File"
+msgstr "Bestand toevoegen"
+
+#: Customizer/Controls/Repeater/RepeaterControl.php:454
+#: Customizer/Controls/Repeater/RepeaterControl.php:456
+msgid "Change Image"
+msgstr "Afbeelding wijzigen"
+
+#: Customizer/Controls/Repeater/RepeaterControl.php:454
+#: Customizer/Controls/Repeater/RepeaterControl.php:458
+msgid "Add Image"
+msgstr "Afbeelding toevoegen"
+
+#: Customizer/Controls/Repeater/RepeaterControl.php:443
+#: Customizer/Controls/Repeater/RepeaterControl.php:448
+msgid "No Image Selected"
+msgstr "Geen afbeelding geselecteerd"
+
+#. translators: %s represents the number of rows we're limiting the repeater to
+#. allow.
+#: Customizer/Controls/Repeater/RepeaterControl.php:267
+msgid "Limit: %s rows"
+msgstr "Limiet: %s rijen"
+
+#: Customizer/Controls/Repeater/RepeaterControl.php:122
+msgid "Select a Page"
+msgstr "Selecteer een pagina"
+
+#. translators: %s represents the label of the row.
+#: Customizer/Controls/Repeater/RepeaterControl.php:81
+msgid "Add new %s"
+msgstr "Nieuwe toevoegen %s"
+
+#: Customizer/Controls/Repeater/RepeaterControl.php:69
+msgid "row"
+msgstr "rij"
+
+#: Customizer/Controls/Media/ImageControl.php:99
+msgid "Choose image"
+msgstr "Kies afbeelding"
+
+#: Customizer/Controls/Media/ImageControl.php:97
+#: Customizer/Controls/Media/dist/image-control-min.js:1
+msgid "No image selected"
+msgstr "Geen afbeelding geselecteerd"
+
+#: Customizer/Controls/Media/ImageControl.php:94
+msgid "Change image"
+msgstr "Afbeelding wijzigen"
+
+#: Customizer/Controls/Media/ImageControl.php:93
+#: Customizer/Controls/Media/ImageControl.php:98
+msgid "Select image"
+msgstr "Afbeelding selecteren"
+
+#: inc/customizer/settings/settings-general.php:367
+msgid "Width"
+msgstr "Breedte"
+
+#: inc/customizer/settings/settings-footer.php:235
+#: inc/customizer/settings/settings-header.php:296
+#: inc/customizer/settings/settings-header.php:1249
+msgid "Height"
+msgstr "Hoogte"
+
+#: inc/customizer/settings/settings-blog.php:418
+#: inc/customizer/settings/settings-blog.php:735
+#: inc/customizer/settings/settings-general.php:341
+#: inc/integration/edd/edd-customizer-settings.php:47
+#: inc/integration/edd/edd-customizer-settings.php:62
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:508
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:522
+msgid "Right"
+msgstr "Rechts"
+
+#: inc/customizer/settings/settings-blog.php:419
+#: inc/customizer/settings/settings-blog.php:736
+#: inc/customizer/settings/settings-general.php:342
+#: inc/customizer/settings/settings-header.php:774
+#: inc/integration/edd/edd-customizer-settings.php:48
+#: inc/integration/edd/edd-customizer-settings.php:63
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:509
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:523
+msgid "Left"
+msgstr "Links"
+
+#: inc/customizer/settings/settings-blog.php:368
+#: inc/customizer/settings/settings-blog.php:645
+#: inc/customizer/settings/settings-blog.php:909
+#: inc/customizer/settings/settings-footer.php:339
+#: inc/customizer/settings/settings-header.php:400
+#: inc/customizer/settings/settings-header.php:517
+#: inc/customizer/settings/settings-header.php:643
+#: inc/customizer/settings/settings-header.php:934
+#: inc/customizer/settings/settings-header.php:1102
+#: inc/customizer/settings/settings-header.php:1487
+#: inc/customizer/settings/settings-header.php:1617
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:339
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:471
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:909
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:1101
+msgid "Font Size"
+msgstr "Lettertype grootte"
+
+#: Customizer/Customizer.php:337
+msgid "Invalid Value"
+msgstr "Ongeldige waarde"
+
+#: Customizer/Controls/Typography/TypographyChoices.php:163
+msgid "Google Fonts"
+msgstr "Google Fonts"
+
+#: Customizer/Controls/Typography/TypographyChoices.php:152
+msgid "Standard Fonts"
+msgstr "Standaard lettertypen"
+
+#: Customizer/Controls/Media/ImageControl.php:95
+#: inc/customizer/settings/settings-blog.php:497
+#: inc/customizer/settings/settings-blog.php:511
+#: inc/customizer/settings/settings-blog.php:832
+#: inc/customizer/settings/settings-header.php:1165
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:364
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:635
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:795
+msgid "Default"
+msgstr "Standaard"
+
+#: Customizer/Controls/Media/ImageControl.php:96
+#: Customizer/Controls/Repeater/RepeaterControl.php:453
+#: Customizer/Controls/Repeater/RepeaterControl.php:485
+#: Customizer/Controls/Repeater/RepeaterControl.php:512
+msgid "Remove"
+msgstr "Verwijderen"
+
+#: Customizer/Controls/Repeater/RepeaterControl.php:475
+#: Customizer/Controls/Repeater/RepeaterControl.php:480
+msgid "No File Selected"
+msgstr "Geen bestand geselecteerd"
+
+#: inc/customizer/settings/settings-blog.php:279
+#: inc/customizer/settings/settings-blog.php:591
+#: inc/customizer/settings/settings-blog.php:877
+#: inc/customizer/settings/settings-footer.php:258
+#: inc/customizer/settings/settings-general.php:152
+#: inc/customizer/settings/settings-general.php:422
+#: inc/customizer/settings/settings-general.php:616
+#: inc/customizer/settings/settings-general.php:710
+#: inc/customizer/settings/settings-general.php:767
+#: inc/customizer/settings/settings-general.php:1023
+#: inc/customizer/settings/settings-header.php:319
+#: inc/customizer/settings/settings-header.php:894
+#: inc/customizer/settings/settings-header.php:1047
+#: inc/customizer/settings/settings-header.php:1265
+#: inc/customizer/settings/settings-header.php:1406
+#: inc/customizer/settings/settings-header.php:1557
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:374
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:931
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:1061
+msgid "Background Color"
+msgstr "Achtergrondkleur"
+
+#: inc/helpers.php:1039
+msgid "Next &rarr;"
+msgstr "Volgende &rarr;"
+
+#: inc/helpers.php:1038
+msgid "&larr; Previous"
+msgstr "&larr; Vorige"
+
+#: inc/template-parts/article-none.php:18
+msgid "Something went wrong."
+msgstr "Er is iets fout gegaan."
+
+#: inc/template-parts/article-none.php:13
+msgid "Oops, this article couldn't be found!"
+msgstr "Dit artikel kon niet gevonden worden!"
+
+#: inc/customizer/settings/settings-general.php:448
+#: inc/template-parts/404.php:31
+msgid "Oops! We're sorry, this page couldn't be found!"
+msgstr "Het spijt ons, deze pagina kon niet gevonden worden!"
+
+#: inc/customizer/settings/settings-general.php:438
+#: inc/template-parts/404.php:27
+msgid "404 - This page couldn't be found."
+msgstr "404 - Deze pagina kon niet worden gevonden."
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://mapsteps.com"
+msgstr "https://mapsteps.com"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "David Vongries"
+msgstr "David Vongries"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://wp-pagebuilderframework.com"
+msgstr "https://wp-pagebuilderframework.com"

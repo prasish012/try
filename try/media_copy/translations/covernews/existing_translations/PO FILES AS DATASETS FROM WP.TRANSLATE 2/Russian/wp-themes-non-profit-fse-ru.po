@@ -1,0 +1,432 @@
+# Translation of Themes - Non Profit FSE in Russian
+# This file is distributed under the same license as the Themes - Non Profit FSE package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-09-29 17:19:29+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Non Profit FSE\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Non Profit FSE is a purpose-built Full Site Editing WordPress theme for charities and non-profit organizations making a difference. Create a powerful charity website with ready-to-use patterns for campaigns, donations, impact stories, and team members. The theme includes mobile-optimized layouts, call-to-action sections, and integrated donation features."
+msgstr "FSE для некоммерческих организаций - это специально разработанная тема WordPress с полным редактированием сайта для благотворительных и некоммерческих организаций. Создайте мощный сайт благотворительной организации с готовыми шаблонами для кампаний, пожертвований, историй влияния и членов команды. Тема включает в себя макеты, оптимизированные для мобильных устройств, разделы с призывами к действию и интегрированные функции пожертвований."
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Non Profit FSE"
+msgstr "Non Profit FSE"
+
+#. translators: %1$s - plugin name, %2$s - HTML tag, %3$s - discount.
+#: inc/Admin.php:295
+msgid "Need to accept payments or donations? Try %1$s, built by the same team as your theme — now up to %2$s OFF, for a limited time only."
+msgstr "Вам нужно принимать платежи или пожертвования? Попробуйте %1$s, созданный той же командой, что и Ваша тема - теперь до %2$s OFF, только в течение ограниченного времени."
+
+#: styles/s3-impact.json
+msgctxt "Style variation name"
+msgid "Impact"
+msgstr "Влияние"
+
+#: styles/s2-funk-cloud.json
+msgctxt "Style variation name"
+msgid "Funk Cloud"
+msgstr "Фанк-облако"
+
+#: styles/s1-dark-paw.json
+msgctxt "Style variation name"
+msgid "Dark Paw"
+msgstr "Темная лапа"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer Variation - 5 Columns"
+msgstr "Вариант подвала - 5 колонок"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer Variation - 4 Columns"
+msgstr "Вариант подвала - 4 колонки"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer Variation - 3 Columns"
+msgstr "Вариант подвала - 3 колонки"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer Variation - Site Logo"
+msgstr "Вариант подвала - Логотип сайта"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Нижняя часть"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header Variation - Hamburger Menu"
+msgstr "Вариант подвала - Меню в виде гамбургера"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header Variation - Button"
+msgstr "Вариант заголовка - Кнопка"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header Variation - Centered"
+msgstr "Вариант заголовка - По центру"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Заголовок"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge"
+msgstr "Огромный"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "Очень большой"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Большой"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Медиа"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Normal"
+msgstr "Обычный"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Маленький"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Figtree"
+msgstr "Figtree"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Open Sans"
+msgstr "Open Sans"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Montserrat"
+msgstr "Montserrat"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Source Sans Pro"
+msgstr "Source Sans Pro"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Playfair Display"
+msgstr "Playfair Display"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Spline Sans"
+msgstr "Spline Sans"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Outfit"
+msgstr "Outfit"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Hanken Grotesk"
+msgstr "Hanken Grotesk"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Fraunces"
+msgstr "Fraunces"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Albert Sans"
+msgstr "Albert Sans"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Inter"
+msgstr "Inter"
+
+#: theme.json styles/s1-dark-paw.json styles/s2-funk-cloud.json
+#: styles/s3-impact.json
+msgctxt "Color name"
+msgid "Foreground Alt"
+msgstr "Альтернативный передний план"
+
+#: theme.json styles/s1-dark-paw.json styles/s2-funk-cloud.json
+#: styles/s3-impact.json
+msgctxt "Color name"
+msgid "Background Alt"
+msgstr "Альтернативный фон"
+
+#: theme.json styles/s1-dark-paw.json styles/s2-funk-cloud.json
+#: styles/s3-impact.json
+msgctxt "Color name"
+msgid "Background Dark"
+msgstr "Темный фон"
+
+#: theme.json styles/s1-dark-paw.json styles/s2-funk-cloud.json
+#: styles/s3-impact.json
+msgctxt "Color name"
+msgid "Accent Secondary"
+msgstr "Вторичный акцент"
+
+#: theme.json styles/s1-dark-paw.json styles/s2-funk-cloud.json
+#: styles/s3-impact.json
+msgctxt "Color name"
+msgid "Accent"
+msgstr "Акцент"
+
+#: theme.json styles/s1-dark-paw.json styles/s2-funk-cloud.json
+#: styles/s3-impact.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "Фон"
+
+#: theme.json styles/s1-dark-paw.json styles/s2-funk-cloud.json
+#: styles/s3-impact.json
+msgctxt "Color name"
+msgid "Background"
+msgstr "Фон"
+
+#: inc/patterns/templates/single-post-cover.php:16
+msgid "Single Post 3 (Cover)"
+msgstr "Единая запись 3 (Обложка)"
+
+#: inc/patterns/templates/single-post-cover-boxed.php:16
+msgid "Single Post 2 (Cover Boxed)"
+msgstr "Единая запись 2 (Обложка в рамке)"
+
+#: inc/patterns/templates/archive-list.php:16
+msgid "Archive List"
+msgstr "Список архива"
+
+#: inc/patterns/templates/archive-cover.php:16
+msgid "Archive Cover"
+msgstr "Обложка архива"
+
+#: inc/patterns/page_titles/page-title-4.php:20
+msgid "Page Title - Cover"
+msgstr "Заголовок страницы - Обложка"
+
+#: inc/patterns/page_titles/page-title-3.php:16
+msgid "Page Title - Light"
+msgstr "Заголовок страницы - Светлый"
+
+#: inc/patterns/page_titles/page-title-2.php:16
+msgid "Page Title - Dark"
+msgstr "Заголовок страницы - Тёмный"
+
+#: inc/patterns/page_titles/page-title-1.php:16
+msgid "Page Title - Simple"
+msgstr "Заголовок страницы - Простой"
+
+#: inc/patterns/loops/post-loop-2.php:16
+msgid "Posts loop 2"
+msgstr "Цикл записей 2"
+
+#: inc/patterns/loops/post-loop-1.php:16
+msgid "Posts loop 1"
+msgstr "Цикл записей 1"
+
+#: inc/patterns/layout/testimonials.php:18
+msgid "Testimonials"
+msgstr "Отзывы"
+
+#: inc/patterns/layout/testimonials-2.php:18
+msgid "Testimonials 2"
+msgstr "Отзывы 2"
+
+#: inc/patterns/layout/stats.php:18
+msgid "stats"
+msgstr "статистика"
+
+#: inc/patterns/layout/hero.php:20
+msgid "Hero Cover"
+msgstr "Обложка Hero"
+
+#: inc/patterns/layout/features.php:22
+msgid "Features"
+msgstr "Возможности"
+
+#: inc/patterns/layout/features-2.php:18
+msgid "Features 2"
+msgstr "Функции 2"
+
+#: inc/patterns/layout/faq.php:16
+msgid "FAQ"
+msgstr "ЧаВо"
+
+#: inc/patterns/layout/events.php:22
+msgid "Events"
+msgstr "События"
+
+#: inc/patterns/layout/events-2.php:21
+msgid "Events 2"
+msgstr "События 2"
+
+#: inc/patterns/layout/CTA.php:20
+msgid "Call to Action"
+msgstr "Призыв к действию"
+
+#: inc/patterns/layout/content.php:20
+msgid "Content"
+msgstr "Содержимое"
+
+#: inc/patterns/layout/content-4.php:21
+msgid "Content 4"
+msgstr "Содержимое 4"
+
+#: inc/patterns/layout/content-3.php:16
+msgid "Content 3"
+msgstr "Содержимое 3"
+
+#: inc/patterns/layout/content-2.php:20
+msgid "Content 2"
+msgstr "Содержимое 2"
+
+#: inc/patterns/layout/campaign.php:20
+msgid "Campaigns"
+msgstr "Кампании"
+
+#: inc/patterns/layout/404.php:20
+msgid "404"
+msgstr "404"
+
+#: inc/Core.php:88
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: inc/Block_Patterns.php:68
+msgid "Full-page layouts that can be used as templates"
+msgstr "Разметки на всю страницу, которые могут использоваться в качестве шаблонов"
+
+#: inc/Block_Patterns.php:67
+msgid "Non Profit FSE Layouts"
+msgstr "Макеты FSE для некоммерческих организаций"
+
+#: inc/Block_Patterns.php:64
+msgid "Patterns for several sections and components"
+msgstr "Шаблоны для нескольких разделов и компонентов"
+
+#: inc/Block_Patterns.php:63
+msgid "Non Profit FSE Patterns"
+msgstr "Шаблоны FSE для некоммерческих организаций"
+
+#: inc/Admin.php:150
+msgid "WP Full Pay preview"
+msgstr "Обзор WP Full Pay"
+
+#: inc/Admin.php:142
+msgid "Learn More"
+msgstr "Узнать больше"
+
+#. translators: %s: WP Full Pay
+#: inc/Admin.php:137
+msgid "Install & Activate %s"
+msgstr "Установить и активировать %s"
+
+#. translators: %s: WP Full Pay
+#: inc/Admin.php:135
+msgid "Activate %s"
+msgstr "Активировать %s"
+
+#: inc/Admin.php:125
+msgid "One-time and recurring donations with customizable amounts"
+msgstr "Одноразовые и регулярные пожертвования с настраиваемой суммой"
+
+#: inc/Admin.php:125
+msgid "Multiple payment options"
+msgstr "Несколько вариантов оплаты"
+
+#: inc/Admin.php:124
+msgid "Connect to Stripe and create your first donation form in minutes"
+msgstr "Подключитесь к Stripe и создайте свою первую форму для пожертвований за считанные минуты"
+
+#: inc/Admin.php:124
+msgid "Quick setup"
+msgstr "Быстрая настройка"
+
+#: inc/Admin.php:123
+msgid "The simplest way to accept donations and payments on your WordPress site. Set up in minutes with no technical knowledge required."
+msgstr "Самый простой способ принимать платежи и пожертвования на вашем сайте WordPress. Установите за считанные минуты без каких-либо технических требований."
+
+#. translators: %s: WP Full Pay
+#: inc/Admin.php:119
+msgid "Start Collecting Funds with %s!"
+msgstr "Начните сбор средств с помощью %s!"
+
+#. translators: %s: 🎉 emoji
+#: inc/Admin.php:114
+msgid "Accept Donations on Your Non-Profit Site %s"
+msgstr "Принимайте пожервования на сайте своей некоммерческой организации %s"
+
+#: inc/Admin.php:101
+msgid "Done"
+msgstr "Готово"
+
+#: inc/Admin.php:100
+msgid "Installing"
+msgstr "Установка"
+
+#: inc/Admin.php:99
+msgid "Activating"
+msgstr "Активация"
+
+#. translators: %s: commands to run the theme
+#: functions.php:106
+msgid "You appear to be running the Non Profit FSE theme from source code. Please finish installation by running %s."
+msgstr "У вас запущена тема FSE для некоммерческих организаций из исходного кода. Пожалуйста, завершите установку, запустив %s."
+
+#: functions.php:57
+msgid "upgrading PHP to the latest version"
+msgstr "обновление PHP до последней версии"
+
+#. translators: %s message to upgrade PHP to the latest version
+#: functions.php:53
+msgid "Hey, we've noticed that you're running an outdated version of PHP which is no longer supported. Make sure your site is fast and secure, by %1$s. Non Profit FSE's minimal requirement is PHP%2$s."
+msgstr "Мы заметили, что у вас запущена устаревшая версия PHP, которая больше не поддерживается. Убедитесь, что ваш сайт работает быстро и надежно, обновив PHP до %1$s. Минимальное требование FSE для некоммерческих организаций - PHP%2$s."
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themeisle.com"
+msgstr "https://themeisle.com"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "ThemeIsle"
+msgstr "ThemeIsle"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://github.com/Codeinwp/non-profit-fse/"
+msgstr "https://github.com/Codeinwp/non-profit-fse/"

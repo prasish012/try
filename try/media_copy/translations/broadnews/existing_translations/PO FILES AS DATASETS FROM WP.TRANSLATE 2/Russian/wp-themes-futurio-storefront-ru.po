@@ -1,0 +1,233 @@
+# Translation of Themes - Futurio Storefront in Russian
+# This file is distributed under the same license as the Themes - Futurio Storefront package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-05-01 17:55:44+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Futurio Storefront\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Futurio Storefront is a lightweight, fast and customizable free multi-purpose and WooCommerce WordPress theme, suitable for business, portfolio, creative, and photography sites, eCommerce shops, landing pages, blogs or WooCommerce storefronts. Futurio Storefront works perfectly with all page builders, like Elementor, Beaver Builder, Brizy, Visual Composer, SiteOrigin, Divi or Gutenberg, and supports most free and premium WordPress plugins, like WooCommerce, Jetpack, Contact Form 7, Yoast SEO and many more. Futurio Storefront is responsive, SEO friendly, WPML, translation and RTL ready, and comes with a 1-click-demo-import feature. Demos ready for download: https://futuriowp.com/futurio-storefront/"
+msgstr "Futurio Storefront — легковесная, быстрая и настраиваемая многоцелевая WordPress тема с поддержкой WooCommerce. Подходит для бизнеса, портфолио, креативных и фото сайтов, магазинов электронной комерции, лендингов, блогов и магазинов WooCommerce. Futurio Storefront прекрасно работает со всеми конструкторами страниц, такими как Elementor, Beaver Builder, Brizy, Visual Composer, SiteOrigin, Divi или Gutenberg. Поддерживает большинство бесплатных и платных плагинов WordPress, такие как WooCommerce, Jetpack, Contact Form 7, Yoast SEO и много других. Futurio Storefront адаптивна, дружественна к SEO, WPML, готова для переводов и поддержке языков RTL и поставляется с функцией «демо импорт в 1 клик». Загрузите демо: https://futuriowp.com/futurio-storefront/"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Futurio Storefront"
+msgstr "Futurio Storefront"
+
+#: lib/customizer/customizer-notice/class-customizer-notice.php:143
+#: lib/customizer/plugin-install/class-plugin-install-helper.php:110
+msgid "Activating"
+msgstr "Активация"
+
+#. translators: %s: search result string
+#: search.php:11
+msgid "Search Results for: %s"
+msgstr "Результаты поиска: %s"
+
+#: lib/wp_bootstrap_navwalker.php:368
+msgid "Add a menu"
+msgstr "Добавить меню"
+
+#: lib/futurio-plugin-install.php:74
+msgid "Learn more"
+msgstr "Узнать больше"
+
+#: lib/customizer-plugin-recommend.php:25 lib/futurio-plugin-install.php:55
+msgid "Install now"
+msgstr "Установить сейчас"
+
+#. translators: %s: Theme name
+#: lib/dashboard.php:85
+msgid "Get started with %s"
+msgstr "Начать с %s"
+
+#: lib/dashboard.php:81 lib/dashboard.php:133
+msgid "Install"
+msgstr "Установить"
+
+#: lib/customizer-plugin-recommend.php:26
+#: lib/customizer/plugin-install/class-plugin-install-helper.php:59
+#: lib/customizer/plugin-install/class-plugin-install-helper.php:75
+#: lib/dashboard.php:81 lib/dashboard.php:133 lib/futurio-plugin-install.php:40
+msgid "Activate"
+msgstr "Активировать"
+
+#: lib/dashboard.php:81 lib/dashboard.php:133 lib/futurio-plugin-install.php:29
+msgid "Activated"
+msgstr "Активировано"
+
+#. translators: %s: Plugin name string
+#: lib/customizer-plugin-recommend.php:20 lib/dashboard.php:77
+#: lib/dashboard.php:130
+msgid "To take full advantage of all the features this theme has to offer, please install and activate the %s plugin."
+msgstr "Если вы хотите воспользоваться полным спектром функций этой темы, пожалуйста, установите и активируйте плагин %s."
+
+#. translators: %s: Theme name
+#: lib/customizer-plugin-recommend.php:24 lib/dashboard.php:71
+#: lib/dashboard.php:124
+msgid "Thank you for installing %s."
+msgstr "Спасибо за установку %s."
+
+#: functions.php:1090
+msgid "Skip to the content"
+msgstr "Перейти к содержимому"
+
+#: functions.php:710
+msgid "My Account"
+msgstr "Моя учётная запись"
+
+#: functions.php:661
+msgid "View your shopping cart"
+msgstr "Просмотреть свою корзину"
+
+#: functions.php:636 template-parts/template-part-postauthor.php:4
+msgid "About The Author"
+msgstr "Об авторе"
+
+#: functions.php:616
+msgid "By"
+msgstr "Автор "
+
+#: functions.php:601
+msgid "Next"
+msgstr "Следующая"
+
+#: functions.php:601
+msgid "Next Post"
+msgstr "Следующая запись"
+
+#: functions.php:600
+msgid "Previous"
+msgstr "Предыдущая"
+
+#: functions.php:600
+msgid "Previous Post"
+msgstr "Предыдущая запись"
+
+#: functions.php:460
+msgid "Comment on "
+msgstr "Комментировать"
+
+#: functions.php:455
+msgid "Off"
+msgstr "Выкл."
+
+#. translators: %1$s: Futurio Storefront name with futuriowp.com URL
+#: functions.php:431
+msgid "Theme: %1$s"
+msgstr "Тема: %1$s"
+
+#: functions.php:350
+msgid "Tags"
+msgstr "Метки"
+
+#: functions.php:346
+msgid "Posted in"
+msgstr "Опубликовано"
+
+#: functions.php:288
+msgid "WooCommerce archive sidebar"
+msgstr "Боковая колонка WooCommerce"
+
+#: functions.php:278
+msgid "WooCommerce Sidebar"
+msgstr "Боковая колонка WooCommerce"
+
+#: functions.php:267
+msgid "Header Section"
+msgstr "Раздел заголовка"
+
+#: functions.php:257
+msgid "Footer Section"
+msgstr "Раздел подвала"
+
+#: functions.php:247
+msgid "Menu Section"
+msgstr "Раздел меню"
+
+#: functions.php:237
+msgid "Archive sidebar"
+msgstr "Боковая колонка с архивом"
+
+#: functions.php:227
+msgid "Sidebar"
+msgstr "Боковая колонка"
+
+#: functions.php:26
+msgid "Homepage main menu"
+msgstr "Главное меню домашней страницы"
+
+#: functions.php:25
+msgid "Main Menu"
+msgstr "Главное меню"
+
+#: content-none.php:19
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Кажется, мы не можем найти то, что вы ищете. Возможно, поиск может помочь."
+
+#: content-none.php:14
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Жаль, но по данному запросу ничего не найдено. Пожалуйста, попробуйте снова, используя другие ключевые слова."
+
+#. translators: %1$s: link to admin area
+#: content-none.php:8
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните здесь</a>."
+
+#: content-none.php:2
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: comments.php:46
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:23
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий к записи &laquo;%2$s&raquo;"
+msgstr[1] "%1$s комментариев к записи &laquo;%2$s&raquo;"
+msgstr[2] "%1$s комментариев к записи &laquo;%2$s&raquo;"
+
+#. translators: %s: post title
+#: comments.php:19
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Один отзыв для &ldquo;%s&rdquo;"
+
+#: 404.php:40
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "По данному адресу ничего не найдено. Попробуйте воспользоваться поиском."
+
+#: 404.php:37
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ой! Страница не найдена."
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://futuriowp.com/"
+msgstr "https://futuriowp.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "FuturioWP"
+msgstr "FuturioWP"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://futuriowp.com/futurio-storefront/"
+msgstr "https://futuriowp.com/futurio-storefront/"

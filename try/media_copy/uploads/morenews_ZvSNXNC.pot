@@ -1,0 +1,5507 @@
+# Copyright (C) 2026 AF themes
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: MoreNews Pro 4.7.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/morenews-pro\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-01-20T08:11:59+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: morenews\n"
+
+#. Theme Name of the theme
+#: admin-dashboard/admin_dashboard.php:103
+#: admin-dashboard/admin_dashboard.php:104
+msgid "MoreNews Pro"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://afthemes.com/products/morenews-pro/"
+msgstr ""
+
+#. Description of the theme
+msgid "MoreNews Pro is a professional WordPress theme for news, blog, and magazine websites. The theme comes with a number of free demo sites that can be imported with a simple click to create a fantastic news hub. The theme is fully widgetized, allowing users to control site content with 16+ custom widgets and widget sections. It also offers a light and dark color option for reading articles and blog posts in a fashionable manner.It also includes a variety of useful customizer choices for creating an aesthetically pleasing news site. You may set it up as you want and see how it looks before publishing any changes with the live customizer. It works with Gutenberg blocks and RTL, as well as the WooCommerce plugin, allowing you to mix and match an online store with our newspaper theme. The theme is appropriate for a news, journal, magazine, publishing, or review website, as well as blogging. It's well-designed to help the website rank higher in search engines, and users will receive excellent support from the staff if they run into any issues while using it."
+msgstr ""
+
+#. Author of the theme
+msgid "AF themes"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://www.afthemes.com/"
+msgstr ""
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:23
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:116
+#: admin-dashboard/admin_dashboard.php:117
+msgid "Dashboard"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:127
+#: admin-dashboard/admin_dashboard.php:128
+#: inc/template-functions.php:2025
+msgid "Site Analytics"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:136
+#: admin-dashboard/admin_dashboard.php:137
+#: admin-dashboard/admin_dashboard.php:366
+#: inc/template-functions.php:2030
+#: admin-dashboard/src/admin-top-menu.js:126
+msgid "Ads Settings"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:146
+#: admin-dashboard/admin_dashboard.php:147
+#: lib/info/info.php:74
+msgid "Customize"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:156
+#: admin-dashboard/admin_dashboard.php:157
+#: inc/customizer/builder/class-header-footer-builder.php:36
+#: inc/template-functions.php:2040
+#: admin-dashboard/src/admin-top-menu.js:133
+#: admin-dashboard/src/components/json/home-content.js:5
+msgid "Header Builder"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:165
+#: admin-dashboard/admin_dashboard.php:166
+#: inc/customizer/builder/class-header-footer-builder.php:45
+#: inc/template-functions.php:2050
+#: admin-dashboard/src/admin-top-menu.js:147
+#: admin-dashboard/src/components/json/home-content.js:25
+msgid "Footer Builder"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:179
+#: admin-dashboard/admin_dashboard.php:180
+#: inc/template-functions.php:2035
+msgid "Starter Sites"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:189
+#: admin-dashboard/admin_dashboard.php:190
+msgid "Block Patterns"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:199
+#: admin-dashboard/admin_dashboard.php:200
+msgid "Elementor Kits"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:211
+#: admin-dashboard/admin_dashboard.php:212
+#: lib/info/info.php:25
+#: admin-dashboard/src/components/json/sidebar-content.js:10
+#: admin-dashboard/src/components/json/sidebar-content.js:11
+msgid "Support"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:221
+#: admin-dashboard/admin_dashboard.php:222
+msgid "Master Bundle Plan"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:234
+msgid "Security check failed"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:238
+msgid "You do not have permission to perform this action."
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:280
+msgid "Ads settings saved."
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:373
+msgid "Global Ads Placement"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:376
+msgid "💡 Tip: You can rotate multiple ads by separating them with <!--next-->. One ad will be shown randomly per page load. Works with HTML, JavaScript, and shortcodes."
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:380
+msgid "Header Ad"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:383
+msgid "Add your HTML, JavaScript, or shortcode to display an ad at the very top of your site (header area)."
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:388
+#: inc/customizer/theme-options.php:1932
+msgid "Before Content"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:391
+msgid "Ad before post content. Supports rotating multiple ads using <!--next-->."
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:396
+#: inc/customizer/theme-options.php:1933
+msgid "After Content"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:399
+msgid "Ad after post content. You can rotate multiple ads with <!--next--> separator."
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:404
+msgid "Before First Paragraph"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:407
+msgid "This ad appears after the first paragraph of single post content. Rotation supported via <!--next-->."
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:412
+msgid "After Third Paragraph"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:415
+msgid "Shown after the third paragraph in single post content. Supports rotating ads with <!--next-->."
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:420
+msgid "After Post Content"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:423
+msgid "Displayed below post content, before comments or related posts. Rotation via <!--next--> supported."
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:428
+msgid "Sidebar Ad"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:431
+msgid "Shown in sidebar globally. You may use widgets for better control. Supports <!--next--> for rotating ads."
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:436
+msgid "Footer Ad"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:439
+msgid "Displayed at the bottom of the site above footer widgets. Rotating ads supported using <!--next-->."
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:444
+msgid "Archive / Blog Ads"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:447
+msgid "Before Post List"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:450
+msgid "Shown before posts in blog or archive pages. Use <!--next--> to rotate multiple ads."
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:455
+msgid "After Post List"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:458
+msgid "Shown after posts in archive or blog listings. Supports ad rotation using <!--next--> tag."
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:463
+msgid "Between Posts"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:466
+msgid "Manually inserted between posts in archive loop using hooks/snippets. Rotate with <!--next--> if needed."
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:471
+msgid "Save Ads Settings"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:476
+msgid "Highlight Promotion Box"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:481
+msgid "Highlight Promotion Boxes let you display ads, affiliate offers, products, services, or important notices in a clean and eye-catching layout."
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:488
+msgid "Insert a highlight box anywhere using the shortcode below:"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:505
+msgid "Available Attributes"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:508
+msgid "Main heading or product/service name (required)"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:509
+msgid "Short description, tagline, or message"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:510
+msgid "Image ID or image URL"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:511
+msgid "Price, offer, or supporting text"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:512
+msgid "Optional label such as Pro, Sponsored, New, or Featured"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:513
+msgid "Call-to-action button text"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:514
+msgid "Destination link (required)"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:515
+msgid "Link target (default: _blank)"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:516
+msgid "Link rel attribute (default: nofollow sponsored)"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:517
+msgid "Optional disclosure or disclaimer text"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:522
+msgid "Works in all content areas and Ads placements, including Header, Sidebar, Before or After Content, and Archive sections."
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:528
+msgid "Helpful YouTube Videos"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:533
+msgid "Launch Your News Website Quickly"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:534
+msgid "Use our free accessible theme to build a news site without coding."
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:541
+msgid "Multi-Author Collaboration"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:542
+msgid "Learn how to manage multiple authors smoothly with our plugin."
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:549
+msgid "Import Gutenberg Patterns"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:550
+msgid "Easily import templates and patterns for consistent layouts."
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:557
+msgid "Elementor Tutorial for Beginners"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:558
+msgid "Build a professional news site fast with no coding needed."
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:565
+msgid "Multilingual Translation Guide"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:566
+msgid "Step-by-step guide to translate your site into multiple languages."
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:622
+msgid "The Templatespare plugin should be updated to the latest version"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:625
+msgid "Import a Starter Site, Personalize, and Live it in 3 Easy Steps!"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:691
+msgid "Blockspare plugin version should be more than %s."
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:696
+#: admin-dashboard/admin_dashboard.php:766
+msgid "One-click Import, No Coding Hassle!"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:765
+msgid "Elespare plugin version should be more than %s."
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:842
+msgid "Are you sure you want to install this plugin?"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:843
+#: admin-dashboard/rest-api/api-request.php:26
+msgid "Install Now"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:844
+#: admin-dashboard/rest-api/api-request.php:70
+#: lib/tgm/class-tgm-plugin-activation.php:2736
+msgid "Activate"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:845
+#: admin-dashboard/rest-api/api-request.php:66
+msgid "Activated"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:948
+#: admin-dashboard/rest-api/api-request.php:104
+#: admin-dashboard/rest-api/class-admin-notice.php:106
+msgid "Get Starter Sites"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:953
+#: admin-dashboard/rest-api/class-admin-notice.php:110
+#: admin-dashboard/src/components/blockspare.demo.js:27
+#: admin-dashboard/src/components/elespare-demo.js:29
+#: admin-dashboard/src/components/templatespare-demo.js:56
+msgid "Get Started"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:954
+msgid "The \"Get Started\" action will install/activate the Templatespare and Blockspare plugins for Starter Sites and Templates."
+msgstr ""
+
+#: admin-dashboard/rest-api/api-request.php:99
+msgid "By"
+msgstr ""
+
+#: admin-dashboard/rest-api/api-request.php:114
+msgid "More Details"
+msgstr ""
+
+#: admin-dashboard/rest-api/class-admin-notice.php:111
+msgid "The \"Get Started\" action will install/activate the Templatespare  plugin for Starter Sites and Templates."
+msgstr ""
+
+#: admin-dashboard/rest-api/class-admin-notice.php:125
+msgid "Howdy!"
+msgstr ""
+
+#: admin-dashboard/rest-api/class-admin-notice.php:127
+msgid "%s is now installed and ready to use. We've assembled some links to get you started."
+msgstr ""
+
+#: admin-dashboard/rest-api/class-admin-notice.php:161
+msgid "Explore Our Pre-Built Starter Websites!"
+msgstr ""
+
+#: admin-dashboard/rest-api/class-admin-notice.php:162
+msgid "Let your imagination soar! Designed with User-Friendly features, incorporating the Latest Trends and SEO-Friendly Markups. We genuinely appreciate you choosing our theme!"
+msgstr ""
+
+#: admin-dashboard/rest-api/class-admin-notice.php:166
+msgid "Demos/product"
+msgstr ""
+
+#: admin-dashboard/rest-api/class-admin-notice.php:168
+msgid "Theme dashboard"
+msgstr ""
+
+#: admin-dashboard/rest-api/class-admin-notice.php:192
+#: admin-dashboard/src/components/json/dashboard-content.js:14
+#: admin-dashboard/src/components/json/sidebar-content.js:4
+msgid "Documentation"
+msgstr ""
+
+#: admin-dashboard/rest-api/class-admin-notice.php:193
+#: lib/info/info.php:56
+#: lib/info/info.php:119
+#: admin-dashboard/src/components/json/sidebar-content.js:7
+msgid "Please check our full documentation for detailed information on how to setup and customize the theme."
+msgstr ""
+
+#: admin-dashboard/rest-api/class-admin-notice.php:194
+msgid "Docs"
+msgstr ""
+
+#: admin-dashboard/rest-api/class-admin-notice.php:195
+msgid "Videos"
+msgstr ""
+
+#: admin-dashboard/rest-api/class-admin-notice.php:196
+msgid "Blog"
+msgstr ""
+
+#: admin-dashboard/rest-api/class-admin-notice.php:197
+#: lib/info/info.php:46
+#: admin-dashboard/src/components/json/dashboard-content.js:18
+msgid "Rate This Theme"
+msgstr ""
+
+#: admin-dashboard/rest-api/class-ajaxcall.php:9
+#: admin-dashboard/rest-api/class-ajaxcall.php:136
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr ""
+
+#: admin-dashboard/rest-api/class-ajaxcall.php:16
+#: admin-dashboard/rest-api/class-ajaxcall.php:76
+#: admin-dashboard/rest-api/class-ajaxcall.php:143
+msgid "Error - unable to verify nonce, please try again."
+msgstr ""
+
+#: admin-dashboard/rest-api/class-ajaxcall.php:69
+msgid "Sorry, you are not allowed to activate plugins on this site."
+msgstr ""
+
+#. translators: 1: title.
+#: comments.php:34
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr ""
+
+#. translators: 1: Theme name, 2: Theme author.
+#: footer.php:176
+#: inc/customizer/builder/builder-structure.php:413
+msgid "%1$s by %2$s."
+msgstr ""
+
+#: functions.php:153
+#: inc/class-amp-compatible.php:154
+#: inc/customizer/builder/builder-structure.php:249
+#: inc/hooks/hook-header-section.php:159
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:154
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:155
+#: inc/customizer/builder/options.php:264
+#: inc/customizer/builder/options.php:269
+#: inc/customizer/builder/options.php:394
+#: inc/customizer/builder/options.php:399
+msgid "Social Menu"
+msgstr ""
+
+#: functions.php:156
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:588
+msgid "You already reacted."
+msgstr ""
+
+#: functions.php:589
+msgid "Thanks for reacting!"
+msgstr ""
+
+#: functions.php:590
+msgid "Error occurred."
+msgstr ""
+
+#: header.php:55
+msgid "Skip to content"
+msgstr ""
+
+#: inc/ajax-loadmore-functions.php:21
+msgid "Load More"
+msgstr ""
+
+#: inc/class-amp-compatible.php:192
+#: inc/class-amp-compatible.php:196
+#: inc/hooks/hook-header-section.php:192
+msgid "Open search form"
+msgstr ""
+
+#: inc/customizer/builder/class-block-toggle.php:12
+msgid "Click the setting <span class=\"dashicons dashicons-admin-generic\"></span> on each element to customize its settings."
+msgstr ""
+
+#: inc/customizer/builder/class-header-footer-builder-control.php:31
+msgid "Hide builder panel"
+msgstr ""
+
+#: inc/customizer/builder/class-header-footer-builder-control.php:33
+msgid "Hide Builder"
+msgstr ""
+
+#: inc/customizer/builder/class-header-footer-builder-control.php:37
+msgid "Device view controls"
+msgstr ""
+
+#: inc/customizer/builder/class-header-footer-builder-control.php:57
+msgid "Choose an Element"
+msgstr ""
+
+#: inc/customizer/builder/class-header-footer-builder-control.php:59
+msgid "Close choose element modal"
+msgstr ""
+
+#: inc/customizer/builder/class-header-footer-builder.php:82
+msgid "Footer Layout"
+msgstr ""
+
+#: inc/customizer/builder/class-header-footer-builder.php:95
+msgid "Create dynamic header effortlessly with drag-and-drop builder."
+msgstr ""
+
+#: inc/customizer/builder/class-header-footer-builder.php:96
+msgid "Header"
+msgstr ""
+
+#: inc/customizer/builder/class-header-footer-builder.php:98
+msgid "Create dynamic footer effortlessly with drag-and-drop builder."
+msgstr ""
+
+#: inc/customizer/builder/class-header-footer-builder.php:99
+#: inc/customizer/theme-options.php:3358
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer/builder/class-header-footer-builder.php:115
+msgid "Enable %s Builder"
+msgstr ""
+
+#: inc/customizer/builder/class-header-footer-builder.php:278
+msgid "Add Element"
+msgstr ""
+
+#: inc/customizer/builder/class-header-footer-builder.php:279
+msgid "Remove Element"
+msgstr ""
+
+#: inc/customizer/builder/class-header-footer-builder.php:280
+msgid "Configure Element"
+msgstr ""
+
+#: inc/customizer/builder/class-header-footer-builder.php:281
+msgid "Desktop"
+msgstr ""
+
+#: inc/customizer/builder/class-header-footer-builder.php:282
+msgid "Element Settings"
+msgstr ""
+
+#: inc/customizer/builder/header-builder-structure.php:188
+#: inc/hooks/blocks/block-header-layout-default-2.php:100
+#: inc/hooks/blocks/block-header-layout-default-3.php:99
+#: inc/hooks/blocks/block-header-layout-default-4.php:92
+#: inc/hooks/blocks/block-header-layout-default.php:89
+#: inc/hooks/hook-header-section.php:119
+msgid "close Off-Canvas Navigation"
+msgstr ""
+
+#: inc/customizer/builder/options.php:89
+#: inc/customizer/builder/options.php:467
+msgid "Site & Logo"
+msgstr ""
+
+#: inc/customizer/builder/options.php:95
+#: inc/customizer/builder/options.php:101
+#: inc/customizer/builder/options.php:473
+#: inc/customizer/builder/options.php:479
+msgid "Site Identity"
+msgstr ""
+
+#. translators: %s is a link to Site Identity panel
+#: inc/customizer/builder/options.php:100
+#: inc/customizer/builder/options.php:478
+msgid "You can change Site Identity from %s."
+msgstr ""
+
+#: inc/customizer/builder/options.php:109
+#: inc/customizer/builder/options.php:114
+#: inc/customizer/builder/options.php:487
+#: inc/customizer/builder/options.php:492
+msgid "Promotion"
+msgstr ""
+
+#: inc/customizer/builder/options.php:129
+#: inc/customizer/builder/options.php:505
+#: inc/widgets/widgets-register-sidebars.php:82
+msgid "Off Canvas"
+msgstr ""
+
+#: inc/customizer/builder/options.php:134
+#: inc/customizer/builder/options.php:510
+msgid "Off Canvas Widget Area"
+msgstr ""
+
+#: inc/customizer/builder/options.php:139
+#: inc/customizer/builder/options.php:515
+msgid "This widget area is used in the mobile off-canvas panel. %s"
+msgstr ""
+
+#: inc/customizer/builder/options.php:140
+#: inc/customizer/builder/options.php:295
+#: inc/customizer/builder/options.php:313
+#: inc/customizer/builder/options.php:331
+#: inc/customizer/builder/options.php:427
+#: inc/customizer/builder/options.php:444
+#: inc/customizer/builder/options.php:461
+#: inc/customizer/builder/options.php:516
+msgid "Manage widgets"
+msgstr ""
+
+#: inc/customizer/builder/options.php:148
+#: inc/customizer/builder/options.php:524
+msgid "Primary menu"
+msgstr ""
+
+#: inc/customizer/builder/options.php:153
+#: inc/customizer/builder/options.php:191
+#: inc/customizer/builder/options.php:350
+#: inc/customizer/builder/options.php:529
+#: inc/customizer/builder/options.php:550
+#: inc/customizer/builder/options.php:646
+msgid "Select Menu"
+msgstr ""
+
+#. translators: %s is a link to manage menus
+#. translators: %s is a link to manage menu
+#. translators: %s is a link to the menu panel
+#: inc/customizer/builder/options.php:160
+#: inc/customizer/builder/options.php:198
+#: inc/customizer/builder/options.php:276
+#: inc/customizer/builder/options.php:357
+#: inc/customizer/builder/options.php:406
+#: inc/customizer/builder/options.php:536
+#: inc/customizer/builder/options.php:557
+msgid "You can change Menu from menu panel. %s"
+msgstr ""
+
+#: inc/customizer/builder/options.php:161
+#: inc/customizer/builder/options.php:199
+#: inc/customizer/builder/options.php:277
+#: inc/customizer/builder/options.php:358
+#: inc/customizer/builder/options.php:407
+#: inc/customizer/builder/options.php:537
+#: inc/customizer/builder/options.php:558
+msgid "Manage menu"
+msgstr ""
+
+#: inc/customizer/builder/options.php:167
+#: inc/customizer/builder/options.php:621
+msgid "Date"
+msgstr ""
+
+#: inc/customizer/builder/options.php:172
+#: inc/customizer/builder/options.php:626
+msgid "Choose date format"
+msgstr ""
+
+#. translators: %s is a link to manage menus
+#: inc/customizer/builder/options.php:179
+msgid "You can change date from general settings (Settings > General > Date Format). %s"
+msgstr ""
+
+#: inc/customizer/builder/options.php:180
+msgid "Manage Date"
+msgstr ""
+
+#: inc/customizer/builder/options.php:186
+#: inc/customizer/builder/options.php:545
+msgid "Top Navigation"
+msgstr ""
+
+#: inc/customizer/builder/options.php:206
+#: inc/customizer/builder/options.php:211
+#: inc/customizer/builder/options.php:567
+#: inc/customizer/builder/options.php:572
+msgid "Site Mode"
+msgstr ""
+
+#: inc/customizer/builder/options.php:220
+#: inc/customizer/builder/options.php:366
+msgid "Custom HTML"
+msgstr ""
+
+#: inc/customizer/builder/options.php:225
+#: inc/customizer/builder/options.php:371
+msgid "HTML Content"
+msgstr ""
+
+#: inc/customizer/builder/options.php:234
+#: inc/customizer/builder/options.php:600
+msgid "Search"
+msgstr ""
+
+#: inc/customizer/builder/options.php:239
+#: inc/customizer/builder/options.php:605
+msgid "Searc Form"
+msgstr ""
+
+#: inc/customizer/builder/options.php:248
+#: inc/customizer/builder/options.php:584
+msgid "Custom Link"
+msgstr ""
+
+#: inc/customizer/builder/options.php:253
+#: inc/customizer/builder/options.php:589
+msgid "Custom link"
+msgstr ""
+
+#: inc/customizer/builder/options.php:256
+#: inc/customizer/builder/options.php:592
+msgid "live"
+msgstr ""
+
+#: inc/customizer/builder/options.php:283
+#: inc/customizer/builder/options.php:416
+msgid "Widget 1"
+msgstr ""
+
+#: inc/customizer/builder/options.php:288
+#: inc/customizer/builder/options.php:306
+#: inc/customizer/builder/options.php:324
+#: inc/customizer/builder/options.php:421
+#: inc/customizer/builder/options.php:438
+#: inc/customizer/builder/options.php:455
+msgid "Select Widget"
+msgstr ""
+
+#: inc/customizer/builder/options.php:294
+#: inc/customizer/builder/options.php:312
+#: inc/customizer/builder/options.php:330
+#: inc/customizer/builder/options.php:426
+#: inc/customizer/builder/options.php:443
+#: inc/customizer/builder/options.php:460
+msgid "Add widget to display . %s"
+msgstr ""
+
+#: inc/customizer/builder/options.php:301
+#: inc/customizer/builder/options.php:433
+msgid "Widget 2"
+msgstr ""
+
+#: inc/customizer/builder/options.php:319
+#: inc/customizer/builder/options.php:450
+msgid "Widget 3"
+msgstr ""
+
+#: inc/customizer/builder/options.php:345
+msgid "Navigation"
+msgstr ""
+
+#: inc/customizer/builder/options.php:381
+msgid "Copyright"
+msgstr ""
+
+#: inc/customizer/builder/options.php:482
+#: inc/customizer/builder/options.php:497
+#: inc/customizer/builder/options.php:519
+#: inc/customizer/builder/options.php:540
+#: inc/customizer/builder/options.php:561
+#: inc/customizer/builder/options.php:577
+#: inc/customizer/builder/options.php:594
+#: inc/customizer/builder/options.php:615
+#: inc/customizer/builder/options.php:632
+msgid "Beta"
+msgstr ""
+
+#. translators: %s is a link to manage header
+#: inc/customizer/builder/options.php:610
+msgid "You can manage header site mode, search and live text from here. %s"
+msgstr ""
+
+#: inc/customizer/builder/options.php:611
+msgid "Manage Header"
+msgstr ""
+
+#: inc/customizer/builder/options.php:651
+msgid "No menu assigned"
+msgstr ""
+
+#: inc/customizer/customizer-control.php:192
+msgid "-- Select --"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:52
+msgid "Live"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:67
+#: inc/customizer/frontpage-options.php:2047
+msgid "Popular Tags"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:74
+msgid "Exclusive"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:79
+#: inc/customizer/customizer-default.php:84
+msgid "Prime News"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:85
+#: inc/customizer/customizer-default.php:375
+msgid "Related Stories"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:92
+msgid "Youtube video Section"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:94
+msgid "Featured Videos"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:101
+msgid "Express Posts Section"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:103
+msgid "Express Posts 1"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:104
+msgid "Express Posts 2"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:110
+msgid "Posts List Section"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:114
+msgid "Post list %d"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:120
+#: inc/customizer/frontpage-options.php:2747
+msgid "Posts Carousel"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:136
+msgid "Main News"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:141
+#: inc/customizer/customizer-default.php:168
+#: inc/template-functions.php:2418
+#: inc/widgets/widget-posts-tabs.php:45
+#: inc/widgets/widget-posts-tabs.php:112
+#: inc/widgets/widget-posts-tabs.php:113
+msgid "Latest"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:142
+#: inc/customizer/customizer-default.php:158
+#: inc/template-functions.php:2358
+#: inc/template-functions.php:2417
+#: inc/widgets/widget-posts-tabs.php:48
+#: inc/widgets/widget-posts-tabs.php:116
+#: inc/widgets/widget-posts-tabs.php:117
+#: inc/widgets/widgets-common-functions.php:102
+msgid "Popular"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:143
+#: inc/template-functions.php:2419
+msgid "Trending"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:146
+#: inc/customizer/customizer-default.php:209
+#: inc/customizer/customizer-default.php:342
+#: inc/template-functions.php:2246
+msgid "Trending Now"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:152
+msgid "Popular Now"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:163
+#: inc/template-functions.php:2141
+#: inc/template-functions.php:2437
+#: admin-dashboard/src/components/json/sidebar-content.js:17
+msgid "Video"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:173
+#: inc/customizer/theme-options.php:3163
+msgid "Top"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:178
+#: inc/template-functions.php:2148
+#: inc/template-functions.php:2208
+#: inc/widgets/widget-posts-tabs.php:51
+#: inc/widgets/widget-posts-tabs.php:120
+#: inc/widgets/widget-posts-tabs.php:121
+#: inc/widgets/widgets-common-functions.php:115
+#: lib/tgm/class-tgm-plugin-activation.php:2733
+msgid "Update"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:183
+#: inc/template-functions.php:2149
+#: inc/template-functions.php:2209
+#: inc/template-functions.php:2364
+msgid "More"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:204
+#: inc/customizer/customizer-default.php:222
+#: inc/template-functions.php:2245
+msgid "Editor's Picks"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:225
+msgid "Trending Story"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:230
+#: inc/customizer/frontpage-options.php:2243
+msgid "Featured Posts"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:237
+msgid "Featured Categories"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:238
+msgid "Featured Pages"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:239
+msgid "Custom Options"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:242
+msgid "Post list Section Title %d"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:248
+msgid "View More"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:271
+msgid "Read More"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:337
+msgid "What do you feel about this?"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:355
+#: inc/widgets/widget-social-contacts.php:41
+msgid "Connect with Us"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:361
+#: inc/widgets/widget-author-info.php:170
+msgid "Instagram"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:367
+#: inc/template-functions.php:2170
+#: inc/template-functions.php:2335
+#: inc/template-functions.php:2381
+msgid "Popular News"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:379
+#: inc/hooks/hook-toc.php:85
+#: inc/hooks/hook-toc.php:172
+msgid "Table of contents"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:389
+msgid "Subscribe To  Our Newsletter"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:398
+msgid "You may have missed"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:402
+msgid "Copyright &copy; {year} All rights reserved."
+msgstr ""
+
+#: inc/customizer/customizer.php:68
+msgid "Body Background Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:96
+msgid "Site Title Size"
+msgstr ""
+
+#: inc/customizer/customizer.php:116
+msgid "Uppercase Site Title and Tagline"
+msgstr ""
+
+#: inc/customizer/customizer.php:127
+msgid "Site Title/Tagline Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:154
+msgid "Header Image"
+msgstr ""
+
+#: inc/customizer/customizer.php:175
+msgid "Header Image Mode"
+msgstr ""
+
+#: inc/customizer/customizer.php:176
+msgid "Image visibility may vary as per the mode"
+msgstr ""
+
+#: inc/customizer/customizer.php:180
+msgid "Above Site Title"
+msgstr ""
+
+#: inc/customizer/customizer.php:181
+msgid "Set as Background"
+msgstr ""
+
+#: inc/customizer/customizer.php:182
+msgid "Show Full Image (Background)"
+msgstr ""
+
+#: inc/customizer/customizer.php:201
+msgid "Disable Image Tint/Overlay"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:25
+msgid "Site Title/Tagline Color (Dark Mode)"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:47
+msgid "Site Color Mode"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:48
+msgid "If the mode switch is in the menu, please test it using the toggle."
+msgstr ""
+
+#: inc/customizer/font-color-options.php:52
+msgid "Light"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:53
+msgid "Dark"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:72
+msgid "Primary Color Section "
+msgstr ""
+
+#: inc/customizer/font-color-options.php:94
+msgid "Body Background Color (Dark Mode) will be applied for this mode."
+msgstr ""
+
+#: inc/customizer/font-color-options.php:118
+msgid "Body Background Color (Dark Mode)"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:144
+#: inc/customizer/font-color-options.php:168
+msgid "Link Color"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:194
+#: inc/customizer/font-color-options.php:218
+msgid "Link Hover Color"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:241
+#: inc/customizer/font-color-options.php:268
+msgid "Box Background Color"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:297
+#: inc/customizer/font-color-options.php:321
+msgid "Primary Color"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:343
+msgid "Secondary Color Section "
+msgstr ""
+
+#: inc/customizer/font-color-options.php:368
+msgid "Secondary Color"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:393
+msgid "Texts over Secondary Color"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:416
+msgid "Top Header Section "
+msgstr ""
+
+#: inc/customizer/font-color-options.php:440
+#: inc/customizer/font-color-options.php:513
+#: inc/customizer/font-color-options.php:1318
+#: inc/customizer/font-color-options.php:1399
+msgid "Background Color"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:464
+#: inc/customizer/font-color-options.php:1346
+#: inc/customizer/font-color-options.php:1423
+msgid "Texts Color"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:489
+msgid "Primary Navigation Section "
+msgstr ""
+
+#: inc/customizer/font-color-options.php:537
+msgid "Menu Item Color"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:561
+msgid "Badge Background"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:585
+msgid "Badge Text Color"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:610
+msgid "Watch Online Background"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:635
+msgid "Breaking News Background"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:658
+msgid "Archive/Widgets Section "
+msgstr ""
+
+#: inc/customizer/font-color-options.php:681
+#: inc/customizer/font-color-options.php:705
+msgid "Post Title"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:729
+msgid "Post Title Over Image"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:755
+msgid "Category Color Section "
+msgstr ""
+
+#: inc/customizer/font-color-options.php:767
+msgid "Category Colors"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:791
+msgid "Category %d Background"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:814
+msgid "Category %d Texts Color"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:829
+msgid "Fonts & Typography"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:852
+msgid "Font Family Section"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:875
+msgid "Global Fonts Family"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:879
+msgid "Google Fonts"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:880
+msgid "System Fonts"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:900
+msgid "Site Title Font"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:922
+msgid "Primary Font"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:944
+msgid "Secondary Font"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:968
+msgid "Texts Formatting Section"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:990
+msgid "Title Font Weight"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:991
+#: inc/customizer/font-color-options.php:1022
+#: inc/customizer/font-color-options.php:1104
+#: inc/customizer/font-color-options.php:1125
+#: inc/customizer/font-color-options.php:1146
+#: inc/customizer/font-color-options.php:1166
+#: inc/customizer/font-color-options.php:1187
+#: inc/customizer/font-color-options.php:1208
+#: inc/customizer/font-color-options.php:1228
+#: inc/customizer/font-color-options.php:1251
+#: inc/customizer/font-color-options.php:1272
+msgid "Default Value: %d"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:995
+msgid "100"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:996
+msgid "200"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:997
+msgid "300"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:998
+msgid "400"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:999
+msgid "500"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:1000
+msgid "600"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:1001
+msgid "700"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:1002
+msgid "800"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:1003
+msgid "900"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:1021
+msgid "Global Letter Spacing"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:1041
+msgid "Title Line height"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:1042
+#: inc/customizer/font-color-options.php:1062
+msgid "Default Value: %g"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:1061
+msgid "Global Line height"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:1083
+msgid "Font Size Section"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:1103
+msgid "General Font Size"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:1124
+msgid "Global Section Title Size"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:1145
+msgid "Big Spotlight Post Title Size"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:1165
+msgid "Medium Spotlight Post Title Size"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:1186
+msgid "General Post Title Size (Grid)"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:1207
+msgid "General Post Title Size (List)"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:1227
+msgid "General Grid Post Title Size"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:1250
+msgid "Single Page/Posts Title Size"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:1271
+msgid "Single Page/Posts Paragraph Size"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:1292
+msgid "MailChimp Section"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:1376
+msgid "Footer Section"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:1447
+msgid "Credits Background Color"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:1470
+msgid "Credits Texts Color"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:23
+#: admin-dashboard/src/components/json/home-content.js:45
+msgid "Main Banner Options"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:38
+msgid "Main Banner"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:59
+msgid "Enable Main Banner Section"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:84
+msgid "Main Banner Background Image"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:85
+#: inc/customizer/theme-options.php:340
+#: inc/customizer/theme-options.php:3397
+msgid "Recommended Size %1$s px X %2$s px"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:111
+msgid "Select Main Banner Layout"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:115
+msgid "Slider, Trending and Tabs"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:116
+msgid "Slider, Tiles and Tabs"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:117
+msgid "Slider, Tiles and Trending"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:118
+msgid "Slider and Double Tiles"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:119
+msgid "Slider and Tiles"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:120
+msgid "Slider and Double Tabs"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:121
+msgid "Slider and Single Tabs"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:122
+msgid "Slider and Double Trending"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:123
+msgid "Slider and Single Trending"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:124
+msgid "2 Columns Carousel"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:125
+msgid "3 Columns Carousel"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:126
+msgid "4 Columns Carousel"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:127
+msgid "Single Slider"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:148
+#: inc/customizer/frontpage-options.php:179
+#: inc/customizer/frontpage-options.php:205
+msgid "Select Main Banner Order"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:152
+#: inc/customizer/frontpage-options.php:183
+#: inc/customizer/frontpage-options.php:209
+msgid "Order 1"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:153
+#: inc/customizer/frontpage-options.php:184
+#: inc/customizer/frontpage-options.php:210
+msgid "Order 2"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:154
+#: inc/customizer/frontpage-options.php:211
+msgid "Order 3"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:155
+#: inc/customizer/frontpage-options.php:212
+msgid "Order 4"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:156
+msgid "Order 5"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:157
+msgid "Order 6"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:238
+msgid "Main News Section "
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:257
+#: inc/customizer/frontpage-options.php:430
+#: inc/customizer/frontpage-options.php:593
+#: inc/customizer/frontpage-options.php:755
+#: inc/customizer/frontpage-options.php:921
+#: inc/customizer/frontpage-options.php:1090
+#: inc/customizer/frontpage-options.php:1255
+#: inc/customizer/frontpage-options.php:1420
+#: inc/customizer/frontpage-options.php:1587
+#: inc/customizer/frontpage-options.php:1752
+#: inc/customizer/frontpage-options.php:1917
+#: inc/customizer/frontpage-options.php:2095
+#: inc/customizer/frontpage-options.php:2159
+#: inc/customizer/frontpage-options.php:2286
+#: inc/customizer/frontpage-options.php:2399
+#: inc/customizer/frontpage-options.php:2519
+#: inc/customizer/frontpage-options.php:2787
+msgid "Section Title "
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:283
+#: inc/customizer/frontpage-options.php:460
+#: inc/customizer/frontpage-options.php:623
+#: inc/customizer/frontpage-options.php:786
+#: inc/customizer/frontpage-options.php:952
+#: inc/customizer/frontpage-options.php:1120
+#: inc/customizer/frontpage-options.php:1284
+#: inc/customizer/frontpage-options.php:1449
+#: inc/customizer/frontpage-options.php:1617
+#: inc/customizer/frontpage-options.php:1781
+#: inc/customizer/frontpage-options.php:1946
+#: inc/widgets/widget-popular-posts.php:117
+msgid "Filter Posts By"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:287
+#: inc/customizer/frontpage-options.php:464
+#: inc/customizer/frontpage-options.php:627
+#: inc/customizer/frontpage-options.php:790
+#: inc/customizer/frontpage-options.php:956
+#: inc/customizer/frontpage-options.php:1124
+#: inc/customizer/frontpage-options.php:1288
+#: inc/customizer/frontpage-options.php:1453
+#: inc/customizer/frontpage-options.php:1621
+#: inc/customizer/frontpage-options.php:1785
+#: inc/customizer/frontpage-options.php:1950
+#: inc/customizer/frontpage-options.php:2546
+#: inc/customizer/frontpage-options.php:2615
+#: inc/customizer/frontpage-options.php:2727
+msgid "Category"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:288
+#: inc/customizer/frontpage-options.php:465
+#: inc/customizer/frontpage-options.php:628
+#: inc/customizer/frontpage-options.php:791
+#: inc/customizer/frontpage-options.php:957
+#: inc/customizer/frontpage-options.php:1125
+#: inc/customizer/frontpage-options.php:1289
+#: inc/customizer/frontpage-options.php:1454
+#: inc/customizer/frontpage-options.php:1622
+#: inc/customizer/frontpage-options.php:1786
+#: inc/customizer/frontpage-options.php:1951
+msgid "Tag"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:289
+#: inc/customizer/frontpage-options.php:466
+#: inc/customizer/frontpage-options.php:629
+#: inc/customizer/frontpage-options.php:792
+#: inc/customizer/frontpage-options.php:958
+#: inc/customizer/frontpage-options.php:1126
+#: inc/customizer/frontpage-options.php:1290
+#: inc/customizer/frontpage-options.php:1455
+#: inc/customizer/frontpage-options.php:1623
+#: inc/customizer/frontpage-options.php:1787
+#: inc/customizer/frontpage-options.php:1952
+#: inc/customizer/theme-options.php:923
+msgid "Comment Count"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:290
+#: inc/customizer/frontpage-options.php:467
+#: inc/customizer/frontpage-options.php:630
+#: inc/customizer/frontpage-options.php:793
+#: inc/customizer/frontpage-options.php:959
+#: inc/customizer/frontpage-options.php:1127
+#: inc/customizer/frontpage-options.php:1291
+#: inc/customizer/frontpage-options.php:1456
+#: inc/customizer/frontpage-options.php:1624
+#: inc/customizer/frontpage-options.php:1788
+#: inc/customizer/frontpage-options.php:1953
+#: inc/customizer/theme-options.php:960
+msgid "View Count"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:313
+#: inc/widgets/widget-express-posts-list.php:137
+#: inc/widgets/widget-posts-grid.php:115
+#: inc/widgets/widget-posts-list.php:118
+#: inc/widgets/widget-posts-single-column.php:118
+#: inc/widgets/widget-trending-posts.php:140
+msgid "Select Category"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:314
+msgid "Select category to be shown on main slider section"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:346
+#: inc/customizer/frontpage-options.php:530
+#: inc/customizer/frontpage-options.php:693
+#: inc/customizer/frontpage-options.php:858
+#: inc/customizer/frontpage-options.php:1024
+#: inc/customizer/frontpage-options.php:1191
+#: inc/customizer/frontpage-options.php:1356
+#: inc/customizer/frontpage-options.php:1521
+#: inc/customizer/frontpage-options.php:1688
+#: inc/customizer/frontpage-options.php:1853
+#: inc/customizer/frontpage-options.php:2018
+#: inc/widgets/widget-trending-posts-by-tag.php:121
+msgid "Select Tag"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:347
+msgid "Select tag to be shown on main slider section"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:375
+#: inc/customizer/frontpage-options.php:2337
+#: inc/customizer/frontpage-options.php:2837
+#: inc/customizer/theme-options.php:3239
+msgid "Number of Posts"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:376
+msgid "Accepts any postive number."
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:404
+msgid "Editor's Picks Section"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:496
+#: inc/customizer/frontpage-options.php:659
+#: inc/customizer/frontpage-options.php:823
+#: inc/customizer/frontpage-options.php:989
+#: inc/customizer/frontpage-options.php:1157
+#: inc/customizer/frontpage-options.php:1322
+#: inc/customizer/frontpage-options.php:1487
+#: inc/customizer/frontpage-options.php:1654
+#: inc/customizer/frontpage-options.php:1819
+#: inc/customizer/frontpage-options.php:1984
+#: inc/widgets/widget-express-posts-grid.php:127
+#: inc/widgets/widgets-common-functions.php:25
+msgid "Select"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:567
+#: inc/customizer/frontpage-options.php:729
+msgid "Trending Section"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:895
+msgid "Trending Section 2"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:1063
+msgid "Latest Section"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:1228
+msgid "Popular Section"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:1393
+msgid "Updates Section"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:1560
+msgid "Tab 2: Latest Section"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:1725
+msgid "Tab 2: Popular Section"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:1890
+msgid "Tabs 2: Updates Section"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:2076
+msgid "Enable Trending Tags"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:2111
+#: inc/template-functions.php:2168
+#: inc/template-functions.php:2197
+#: inc/template-functions.php:2241
+#: inc/template-functions.php:2262
+#: inc/template-functions.php:2286
+#: inc/template-functions.php:2309
+#: inc/template-functions.php:2327
+#: inc/template-functions.php:2348
+#: inc/template-functions.php:2392
+#: inc/template-functions.php:2416
+msgid "Breaking News"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:2140
+msgid "Enable Flash News"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:2184
+msgid "Flash Posts Category"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:2185
+msgid "Select category to be shown on trending posts "
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:2209
+msgid "Number of Flash Posts "
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:2228
+msgid "Front-page Options"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:2266
+msgid "Enable Featured Post Section"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:2312
+#: inc/customizer/frontpage-options.php:2812
+msgid "Select "
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:2313
+#: inc/customizer/frontpage-options.php:2728
+#: inc/customizer/frontpage-options.php:2813
+msgid "Select category to be shown on featured section "
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:2352
+msgid "Youtube Videos"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:2381
+msgid "Show Youtube Video"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:2425
+msgid "YouTube Video URL %d"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:2426
+msgid "Add youtube video"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:2449
+msgid "Express Posts"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:2478
+msgid "Show Express Post Section"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:2500
+msgid "Section 1"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:2547
+#: inc/customizer/frontpage-options.php:2616
+msgid "Select category to be shown on express post section "
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:2570
+msgid "Section 2"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:2592
+#: inc/customizer/frontpage-options.php:2702
+#: inc/customizer/theme-options.php:1249
+msgid "Section Title"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:2637
+msgid "Posts List"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:2657
+msgid "Enable Post List Section"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:2681
+msgid "Section %d"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:2767
+msgid "Enable Posts Carousel Section"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:2851
+msgid "Front-page Layout Settings"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:2873
+msgid "Front-page Content Display"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:2874
+msgid "Select frontpage content display"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:2878
+msgid "Front-page Widgets"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:2879
+msgid "Page Contents & Front-page Widgets"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:2899
+msgid "Front-page Content Alignment"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:2900
+msgid "Select frontpage content alignment"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:2904
+msgid "Home Content - Home Sidebar"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:2905
+msgid "Home Sidebar - Home Content"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:2906
+msgid "Only Home Content"
+msgstr ""
+
+#: inc/customizer/theme-options.php:31
+msgid "Header Options"
+msgstr ""
+
+#: inc/customizer/theme-options.php:47
+msgid "Header Settings"
+msgstr ""
+
+#: inc/customizer/theme-options.php:68
+msgid "Theme Header Layout"
+msgstr ""
+
+#: inc/customizer/theme-options.php:69
+msgid "Select built-in header layout from theme"
+msgstr ""
+
+#: inc/customizer/theme-options.php:73
+msgid "Side"
+msgstr ""
+
+#: inc/customizer/theme-options.php:74
+msgid "Side 2"
+msgstr ""
+
+#: inc/customizer/theme-options.php:75
+msgid "Side 3"
+msgstr ""
+
+#: inc/customizer/theme-options.php:76
+msgid "Side 4"
+msgstr ""
+
+#: inc/customizer/theme-options.php:77
+msgid "Centered"
+msgstr ""
+
+#: inc/customizer/theme-options.php:78
+msgid "Centered 2"
+msgstr ""
+
+#: inc/customizer/theme-options.php:79
+msgid "Centered 3"
+msgstr ""
+
+#: inc/customizer/theme-options.php:80
+msgid "Centered 4"
+msgstr ""
+
+#: inc/customizer/theme-options.php:81
+msgid "Compressed"
+msgstr ""
+
+#: inc/customizer/theme-options.php:82
+msgid "Compressed 2"
+msgstr ""
+
+#: inc/customizer/theme-options.php:83
+msgid "Compressed 3"
+msgstr ""
+
+#: inc/customizer/theme-options.php:84
+msgid "Compressed 4"
+msgstr ""
+
+#: inc/customizer/theme-options.php:105
+msgid "Site Mode Switch"
+msgstr ""
+
+#: inc/customizer/theme-options.php:110
+msgid "Enable"
+msgstr ""
+
+#: inc/customizer/theme-options.php:111
+#: inc/customizer/theme-options.php:704
+#: inc/customizer/theme-options.php:732
+#: inc/customizer/theme-options.php:759
+msgid "Disable"
+msgstr ""
+
+#: inc/customizer/theme-options.php:130
+msgid "Disable Sticky Header"
+msgstr ""
+
+#: inc/customizer/theme-options.php:134
+msgid "Sticky header works only with builder at bottom."
+msgstr ""
+
+#: inc/customizer/theme-options.php:152
+msgid "Top Header Section"
+msgstr ""
+
+#: inc/customizer/theme-options.php:176
+msgid "Show Top Header"
+msgstr ""
+
+#: inc/customizer/theme-options.php:203
+msgid "Show Social Menu"
+msgstr ""
+
+#: inc/customizer/theme-options.php:230
+msgid "Show Date"
+msgstr ""
+
+#: inc/customizer/theme-options.php:258
+msgid "Menu Border"
+msgstr ""
+
+#: inc/customizer/theme-options.php:262
+#: inc/customizer/theme-options.php:852
+#: inc/customizer/theme-options.php:927
+#: inc/customizer/theme-options.php:964
+#: inc/customizer/theme-options.php:1355
+#: inc/customizer/theme-options.php:1380
+msgid "Show"
+msgstr ""
+
+#: inc/customizer/theme-options.php:263
+#: inc/customizer/theme-options.php:853
+#: inc/customizer/theme-options.php:928
+#: inc/customizer/theme-options.php:965
+#: inc/customizer/theme-options.php:1356
+#: inc/customizer/theme-options.php:1381
+msgid "Hide"
+msgstr ""
+
+#: inc/customizer/theme-options.php:277
+#: inc/customizer/theme-options.php:298
+msgid "Header Advertisement"
+msgstr ""
+
+#: inc/customizer/theme-options.php:339
+msgid "Header Section Advertisement"
+msgstr ""
+
+#: inc/customizer/theme-options.php:365
+msgid "URL Link"
+msgstr ""
+
+#: inc/customizer/theme-options.php:384
+msgid "Open In New Tab"
+msgstr ""
+
+#: inc/customizer/theme-options.php:405
+msgid "Show Header Advertisement On"
+msgstr ""
+
+#: inc/customizer/theme-options.php:406
+msgid "Select scope to display on header advertisement section"
+msgstr ""
+
+#: inc/customizer/theme-options.php:410
+msgid "Show Site-wide"
+msgstr ""
+
+#: inc/customizer/theme-options.php:411
+msgid "Show on Homepage only"
+msgstr ""
+
+#: inc/customizer/theme-options.php:423
+#: lib/info/info.php:71
+#: admin-dashboard/src/components/json/home-content.js:92
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer/theme-options.php:441
+msgid "Site Layout Mode"
+msgstr ""
+
+#: inc/customizer/theme-options.php:463
+msgid "Theme Tone"
+msgstr ""
+
+#: inc/customizer/theme-options.php:464
+msgid "Publish and reload to preview changes"
+msgstr ""
+
+#: inc/customizer/theme-options.php:468
+#: inc/customizer/theme-options.php:587
+#: inc/customizer/theme-options.php:1811
+#: inc/customizer/theme-options.php:2855
+#: inc/customizer/theme-options.php:2994
+#: inc/customizer/theme-options.php:3100
+#: inc/hooks/hook-meta.php:80
+#: inc/hooks/hook-meta.php:297
+#: inc/hooks/hook-meta.php:486
+msgid "Default"
+msgstr ""
+
+#: inc/customizer/theme-options.php:469
+msgid "BlackNews"
+msgstr ""
+
+#: inc/customizer/theme-options.php:470
+msgid "CelebNews"
+msgstr ""
+
+#: inc/customizer/theme-options.php:471
+msgid "CentralNews"
+msgstr ""
+
+#: inc/customizer/theme-options.php:472
+msgid "GamerNews"
+msgstr ""
+
+#: inc/customizer/theme-options.php:473
+#: inc/template-functions.php:2178
+#: inc/template-functions.php:2272
+#: inc/template-functions.php:2296
+#: inc/template-functions.php:2336
+#: inc/template-functions.php:2382
+#: inc/template-functions.php:2402
+#: inc/template-functions.php:2425
+#: inc/template-functions.php:2444
+msgid "General News"
+msgstr ""
+
+#: inc/customizer/theme-options.php:474
+msgid "GlobalNews"
+msgstr ""
+
+#: inc/customizer/theme-options.php:475
+msgid "MoreMag"
+msgstr ""
+
+#: inc/customizer/theme-options.php:476
+msgid "NewsCorp"
+msgstr ""
+
+#: inc/customizer/theme-options.php:477
+msgid "NewsDay"
+msgstr ""
+
+#: inc/customizer/theme-options.php:478
+msgid "Newsical"
+msgstr ""
+
+#: inc/customizer/theme-options.php:479
+msgid "NewsLight"
+msgstr ""
+
+#: inc/customizer/theme-options.php:480
+#: inc/customizer/theme-options.php:481
+msgid "NewsMore"
+msgstr ""
+
+#: inc/customizer/theme-options.php:482
+msgid "SideNews"
+msgstr ""
+
+#: inc/customizer/theme-options.php:502
+msgid "Layout Option"
+msgstr ""
+
+#: inc/customizer/theme-options.php:506
+msgid "Boxed"
+msgstr ""
+
+#: inc/customizer/theme-options.php:507
+msgid "Wide"
+msgstr ""
+
+#: inc/customizer/theme-options.php:526
+msgid "Enable Box's Top/Bottom Gaps"
+msgstr ""
+
+#: inc/customizer/theme-options.php:541
+msgid "Breadcrumb Options"
+msgstr ""
+
+#: inc/customizer/theme-options.php:562
+msgid "Show breadcrumbs"
+msgstr ""
+
+#: inc/customizer/theme-options.php:582
+msgid "Select Breadcrumbs"
+msgstr ""
+
+#: inc/customizer/theme-options.php:583
+msgid "Please ensure that you have enabled the plugin's breadcrumbs before choosing other than Default"
+msgstr ""
+
+#: inc/customizer/theme-options.php:588
+msgid "Yoast SEO"
+msgstr ""
+
+#: inc/customizer/theme-options.php:589
+msgid "Rank Math"
+msgstr ""
+
+#: inc/customizer/theme-options.php:590
+msgid "NavXT"
+msgstr ""
+
+#: inc/customizer/theme-options.php:609
+msgid "Global Settings"
+msgstr ""
+
+#: inc/customizer/theme-options.php:630
+msgid "Enable Preloader"
+msgstr ""
+
+#: inc/customizer/theme-options.php:650
+msgid "Disable Emoji Script"
+msgstr ""
+
+#: inc/customizer/theme-options.php:651
+msgid "GDPR friendly & better performance"
+msgstr ""
+
+#: inc/customizer/theme-options.php:673
+msgid "Global Content Alignment"
+msgstr ""
+
+#: inc/customizer/theme-options.php:677
+msgid "Content - Primary sidebar"
+msgstr ""
+
+#: inc/customizer/theme-options.php:678
+msgid "Primary sidebar - Content"
+msgstr ""
+
+#: inc/customizer/theme-options.php:679
+msgid "Full width content"
+msgstr ""
+
+#: inc/customizer/theme-options.php:698
+msgid "Also Show Content Image in Archive"
+msgstr ""
+
+#: inc/customizer/theme-options.php:699
+msgid "If there is no Post Featured image set"
+msgstr ""
+
+#: inc/customizer/theme-options.php:703
+#: inc/customizer/theme-options.php:731
+#: inc/customizer/theme-options.php:758
+msgid "Enable "
+msgstr ""
+
+#: inc/customizer/theme-options.php:726
+msgid "Image Lazy Loading"
+msgstr ""
+
+#: inc/customizer/theme-options.php:727
+msgid "Set for better performance"
+msgstr ""
+
+#: inc/customizer/theme-options.php:753
+msgid "Image Async Decoding"
+msgstr ""
+
+#: inc/customizer/theme-options.php:754
+msgid "Set to enhance rendering speed"
+msgstr ""
+
+#: inc/customizer/theme-options.php:781
+msgid "Widget Title Style"
+msgstr ""
+
+#: inc/customizer/theme-options.php:785
+msgid "Border Bottom"
+msgstr ""
+
+#: inc/customizer/theme-options.php:786
+msgid "Border Center"
+msgstr ""
+
+#: inc/customizer/theme-options.php:787
+msgid "Fill and Border"
+msgstr ""
+
+#: inc/customizer/theme-options.php:788
+msgid "Fill"
+msgstr ""
+
+#: inc/customizer/theme-options.php:789
+#: inc/customizer/theme-options.php:816
+#: inc/customizer/theme-options.php:1109
+#: inc/customizer/theme-options.php:1910
+#: inc/customizer/theme-options.php:2969
+#: inc/template-functions.php:1858
+#: inc/template-functions.php:1940
+msgid "None"
+msgstr ""
+
+#: inc/customizer/theme-options.php:810
+msgid "Scroll to Top Position"
+msgstr ""
+
+#: inc/customizer/theme-options.php:814
+#: inc/customizer/theme-options.php:2828
+#: inc/hooks/hook-meta.php:292
+#: inc/hooks/hook-meta.php:481
+msgid "Right"
+msgstr ""
+
+#: inc/customizer/theme-options.php:815
+#: inc/customizer/theme-options.php:2827
+#: inc/hooks/hook-meta.php:291
+#: inc/hooks/hook-meta.php:480
+msgid "Left"
+msgstr ""
+
+#: inc/customizer/theme-options.php:828
+msgid "Categories Settings"
+msgstr ""
+
+#: inc/customizer/theme-options.php:848
+msgid "Post Categories"
+msgstr ""
+
+#: inc/customizer/theme-options.php:874
+msgid "Categories to be displayed"
+msgstr ""
+
+#: inc/customizer/theme-options.php:878
+msgid "Show All"
+msgstr ""
+
+#: inc/customizer/theme-options.php:879
+msgid "Top One Category"
+msgstr ""
+
+#: inc/customizer/theme-options.php:880
+msgid "Custom"
+msgstr ""
+
+#: inc/customizer/theme-options.php:901
+msgid "Number of Categories"
+msgstr ""
+
+#: inc/customizer/theme-options.php:939
+msgid "View Count Settings"
+msgstr ""
+
+#: inc/customizer/theme-options.php:985
+msgid "View Count Option"
+msgstr ""
+
+#: inc/customizer/theme-options.php:986
+msgid "Select post view count for single post"
+msgstr ""
+
+#: inc/customizer/theme-options.php:990
+msgid "Default - Each View"
+msgstr ""
+
+#: inc/customizer/theme-options.php:991
+msgid "Count On Content Scroll"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1003
+msgid "Author and Date Settings"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1024
+msgid "For Spotlight Posts"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1028
+#: inc/customizer/theme-options.php:1055
+#: inc/customizer/theme-options.php:1081
+msgid "Show Date and Author"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1029
+#: inc/customizer/theme-options.php:1056
+#: inc/customizer/theme-options.php:1082
+msgid "Show Date Only"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1030
+#: inc/customizer/theme-options.php:1057
+#: inc/customizer/theme-options.php:1083
+msgid "Show Author Only"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1031
+#: inc/customizer/theme-options.php:1058
+#: inc/customizer/theme-options.php:1084
+msgid "Hide All"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1051
+msgid "For Small Grid"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1077
+msgid "For List"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1103
+msgid "Author Icon/Gravatar"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1107
+msgid "Show Gravatar"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1108
+msgid "Show Icon"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1130
+msgid "Single Post Date Type"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1134
+#: inc/customizer/theme-options.php:1160
+msgid "Published"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1135
+#: inc/customizer/theme-options.php:1161
+msgid "Modified"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1136
+#: inc/customizer/theme-options.php:1162
+msgid "Both"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1156
+msgid "Archive Post Date Type"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1181
+#: inc/template-analytics.php:472
+msgid "Date Format"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1185
+msgid "WordPress Default Date Format"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1186
+msgid "Ago Date Format"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1187
+msgid "Year and Month Format"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1188
+msgid "Month and Day Format"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1189
+msgid "Year Format"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1190
+msgid "Month Format"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1191
+msgid "Day Format"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1192
+msgid "24 Hours Format"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1193
+msgid "12 Hours Format"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1206
+msgid "Table of Contents"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1231
+msgid "Show Table of Contents on %s"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1268
+msgid "Insert TOC after paragraph"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1275
+msgid "Insert TOC after this paragraph number. 0 = top of content"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1292
+msgid "Maximum Heading Level"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1299
+msgid "Choose the deepest heading level to include in TOC (H2-H6)"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1316
+msgid "Enable Smooth Scroll"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1330
+msgid "Minutes Read Count"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1351
+msgid "Single Post Minutes Read Count"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1376
+msgid "Archive Posts Minutes Read Count"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1402
+msgid "Number of Words per Minute Read"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1415
+msgid "Excerpt Settings"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1436
+msgid "Global Excerpt Length"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1457
+msgid "Global Excerpt Read More"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1480
+msgid "Custom Menu Section"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1500
+msgid "Enable Custom Menu Section"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1521
+msgid "Icon Mode"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1525
+msgid "Ripple"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1526
+msgid "FontAwesome Icon"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1547
+msgid "Icon"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1574
+#: inc/customizer/theme-options.php:2689
+#: inc/customizer/theme-options.php:3294
+#: inc/widgets/widget-author-info.php:164
+#: inc/widgets/widget-express-posts-grid.php:126
+#: inc/widgets/widget-express-posts-list.php:136
+#: inc/widgets/widget-popular-posts.php:116
+#: inc/widgets/widget-posts-double-column.php:141
+#: inc/widgets/widget-posts-double-column.php:142
+#: inc/widgets/widget-posts-grid.php:114
+#: inc/widgets/widget-posts-list.php:117
+#: inc/widgets/widget-posts-single-column.php:117
+#: inc/widgets/widget-posts-slider.php:111
+#: inc/widgets/widget-posts-tabs.php:113
+#: inc/widgets/widget-posts-tabs.php:117
+#: inc/widgets/widget-posts-tabs.php:121
+#: inc/widgets/widget-trending-posts-by-tag.php:120
+#: inc/widgets/widget-trending-posts-by-view.php:116
+#: inc/widgets/widget-trending-posts.php:138
+msgid "Title"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1595
+msgid "Link"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1610
+msgid "Single Post"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1630
+msgid "Show Post Categories"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1649
+msgid "Show Post Title"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1668
+msgid "Show Post Excerpt"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1687
+msgid "Show Post Meta"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1706
+msgid "Show Featured Image"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1727
+msgid "Featured Image Size"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1731
+#: inc/customizer/theme-options.php:1787
+#: inc/customizer/theme-options.php:2780
+#: inc/hooks/hook-meta.php:286
+#: inc/hooks/hook-meta.php:474
+msgid "Full"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1732
+msgid "Large"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1733
+msgid "Medium"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1734
+msgid "Thumbnail"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1754
+msgid "Featured Image Width"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1758
+msgid "Full - Default"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1759
+msgid "Original"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1782
+msgid "Post Title Option"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1786
+msgid "Boxed - Default"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1807
+msgid "Single Content Mode"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1812
+#: inc/hooks/hook-meta.php:83
+msgid "Spacious"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1831
+msgid "Enable Reading Progress Bar"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1884
+msgid "Social Share Options"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1904
+msgid "Defined Links"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1908
+msgid "Theme"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1909
+msgid "JetPack"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1927
+msgid "Position"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1931
+msgid "Before and After Content"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1955
+#: inc/widgets/widget-author-info.php:169
+msgid "Facebook"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1983
+msgid "X (Twitter)"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2010
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2037
+msgid "Telegram"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2064
+msgid "Pinterest"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2091
+msgid "Buffer App"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2119
+msgid "WhatsApp"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2146
+msgid "Reddit"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2173
+msgid "Line"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2200
+msgid "Email"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2230
+msgid "Essential Posts Settings"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2251
+msgid "Show Copy Post Link"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2279
+msgid "Show Post Bookmark Option"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2308
+msgid "Show Post Print Option"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2335
+msgid "Show Post Badge"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2355
+msgid "Show Post Subtitles"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2375
+msgid "Show Post Featured Video"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2395
+msgid "Show Post Source Attribution"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2415
+msgid "Show Post Sponsor"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2437
+msgid "Below Posts Settings"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2458
+msgid "Show Reactions under Content"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2480
+msgid "Reactions Section Title"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2502
+msgid "Show Author Bio under Content"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2523
+msgid "Show Tags under Content"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2544
+msgid "Show Category under Content"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2567
+msgid "Show MailChimp Subscription Box"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2587
+msgid "Show Author's Posts"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2606
+msgid "Show Bookmarked (Saved) Posts"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2626
+msgid "Show Trending Posts List"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2648
+msgid "Related Posts Settings"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2669
+msgid "Enable Related Posts"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2711
+msgid "Maximum Number of Related Posts"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2731
+msgid "Archive Settings"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2752
+msgid "Disable Main Banner on Blog"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2773
+#: inc/hooks/hook-meta.php:330
+#: inc/hooks/hook-meta.php:468
+msgid "Archive layout"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2774
+#: inc/hooks/hook-meta.php:336
+#: inc/hooks/hook-meta.php:517
+msgid "Select layout for archive"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2778
+#: inc/hooks/hook-meta.php:285
+#: inc/hooks/hook-meta.php:473
+msgid "Grid"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2779
+msgid "List"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2781
+#: inc/hooks/hook-meta.php:287
+#: inc/hooks/hook-meta.php:475
+msgid "Masonry"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2800
+msgid "Make First Post Full"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2822
+#: inc/customizer/theme-options.php:2850
+msgid "Image Alignment"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2823
+#: inc/customizer/theme-options.php:2851
+msgid "Select image alignment for archive"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2829
+#: inc/customizer/theme-options.php:2856
+#: inc/hooks/hook-meta.php:293
+#: inc/hooks/hook-meta.php:298
+#: inc/hooks/hook-meta.php:482
+#: inc/hooks/hook-meta.php:487
+msgid "Alternate"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2857
+#: inc/hooks/hook-meta.php:299
+#: inc/hooks/hook-meta.php:488
+msgid "Tile"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2858
+msgid "Default With List"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2879
+msgid "Grid Column Layout"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2880
+msgid "Select column for archive grid"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2884
+#: inc/customizer/theme-options.php:2912
+msgid "Two Column"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2885
+#: inc/customizer/theme-options.php:2913
+msgid "Three Column"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2886
+#: inc/customizer/theme-options.php:2914
+msgid "Four Column"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2907
+msgid "Select Masonry Layout"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2908
+msgid "Select masonry layout for archive"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2934
+msgid "Select Title Position"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2935
+msgid "Select full layout for archive"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2939
+msgid "After Image"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2940
+msgid "Before Image"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2941
+msgid "Over Image"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2962
+msgid "Content View"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2963
+msgid "Select content view for archive"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2967
+msgid "Post Excerpt"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2968
+msgid "Full Content"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2989
+#: inc/customizer/theme-options.php:3095
+msgid "Pagination"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2990
+#: inc/customizer/theme-options.php:3096
+msgid "Select pagination view for archive"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2995
+#: inc/customizer/theme-options.php:3101
+msgid "Ajax Load More"
+msgstr ""
+
+#: inc/customizer/theme-options.php:2996
+#: inc/customizer/theme-options.php:3102
+msgid "Infinite Scroll"
+msgstr ""
+
+#: inc/customizer/theme-options.php:3007
+msgid "Search Options"
+msgstr ""
+
+#: inc/customizer/theme-options.php:3028
+msgid "Search Results"
+msgstr ""
+
+#: inc/customizer/theme-options.php:3029
+msgid "Select search results for archive"
+msgstr ""
+
+#: inc/customizer/theme-options.php:3033
+msgid "All (Pages, Posts, etc)"
+msgstr ""
+
+#: inc/customizer/theme-options.php:3034
+msgid "Posts"
+msgstr ""
+
+#: inc/customizer/theme-options.php:3054
+msgid "Ajax Results Dropdown"
+msgstr ""
+
+#: inc/customizer/theme-options.php:3074
+msgid "Number of Posts in Dropdown"
+msgstr ""
+
+#: inc/customizer/theme-options.php:3117
+msgid "Sidebar Settings"
+msgstr ""
+
+#: inc/customizer/theme-options.php:3138
+msgid "Make Sidebar Sticky"
+msgstr ""
+
+#: inc/customizer/theme-options.php:3159
+msgid "Sidebar Sticky Position"
+msgstr ""
+
+#: inc/customizer/theme-options.php:3164
+msgid "Bottom"
+msgstr ""
+
+#: inc/customizer/theme-options.php:3177
+msgid "You May Have Missed"
+msgstr ""
+
+#: inc/customizer/theme-options.php:3196
+#: inc/customizer/theme-options.php:3274
+msgid "Show Above Footer"
+msgstr ""
+
+#: inc/customizer/theme-options.php:3216
+msgid "Posts Section Title"
+msgstr ""
+
+#: inc/customizer/theme-options.php:3254
+msgid "Mailchimp Subscriptions"
+msgstr ""
+
+#: inc/customizer/theme-options.php:3316
+msgid "Shortcode"
+msgstr ""
+
+#: inc/customizer/theme-options.php:3339
+msgid "Visible In:"
+msgstr ""
+
+#: inc/customizer/theme-options.php:3344
+msgid "Front page only"
+msgstr ""
+
+#: inc/customizer/theme-options.php:3345
+msgid "All pages"
+msgstr ""
+
+#: inc/customizer/theme-options.php:3396
+msgid "Footer Background Image"
+msgstr ""
+
+#: inc/customizer/theme-options.php:3423
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer/theme-options.php:3424
+msgid "The {year} is used for current year"
+msgstr ""
+
+#: inc/customizer/theme-options.php:3445
+msgid "Hide footer Menu Section"
+msgstr ""
+
+#: inc/customizer/theme-options.php:3467
+msgid "Hide Theme Credits"
+msgstr ""
+
+#: inc/hooks/blocks/block-archive-grid.php:43
+#: inc/hooks/blocks/block-archive-list.php:20
+#: inc/hooks/blocks/block-archive-masonry.php:21
+#: template-parts/content-page.php:27
+#: template-parts/content.php:86
+msgid "Pages:"
+msgstr ""
+
+#: inc/hooks/blocks/block-header-layout-centered-2.php:112
+#: inc/hooks/blocks/block-header-layout-centered-3.php:112
+#: inc/hooks/blocks/block-header-layout-centered-4.php:114
+#: inc/hooks/blocks/block-header-layout-centered.php:95
+msgid "Close Off Canvas Navigation"
+msgstr ""
+
+#: inc/hooks/blocks/block-header-layout-compressed-2.php:48
+#: inc/hooks/blocks/block-header-layout-compressed-3.php:49
+#: inc/hooks/blocks/block-header-layout-compressed-4.php:49
+#: inc/hooks/blocks/block-header-layout-compressed.php:49
+msgid "Open Off-Canvas Navigation"
+msgstr ""
+
+#: inc/hooks/blocks/block-post-author.php:14
+msgid "Author's Other Posts"
+msgstr ""
+
+#: inc/hooks/blocks/block-post-bookmarked.php:21
+msgid "Your Saved Posts"
+msgstr ""
+
+#: inc/hooks/hook-affiliate.php:24
+msgid "Get Deal"
+msgstr ""
+
+#: inc/hooks/hook-header-section.php:261
+#: inc/hooks/hook-header-section.php:282
+msgid "Light/Dark Button"
+msgstr ""
+
+#: inc/hooks/hook-meta-analytics.php:55
+msgid "Post Analytics"
+msgstr ""
+
+#: inc/hooks/hook-meta-analytics.php:491
+msgid "Refresh analytics"
+msgstr ""
+
+#: inc/hooks/hook-meta-analytics.php:492
+msgid "Refresh Analytics"
+msgstr ""
+
+#: inc/hooks/hook-meta-analytics.php:499
+#: inc/template-analytics.php:339
+msgid "Engagement"
+msgstr ""
+
+#: inc/hooks/hook-meta-analytics.php:500
+msgid "Views:"
+msgstr ""
+
+#: inc/hooks/hook-meta-analytics.php:501
+msgid "Comments:"
+msgstr ""
+
+#: inc/hooks/hook-meta-analytics.php:505
+#: inc/template-analytics.php:338
+msgid "Content"
+msgstr ""
+
+#: inc/hooks/hook-meta-analytics.php:506
+msgid "Word Count:"
+msgstr ""
+
+#: inc/hooks/hook-meta-analytics.php:507
+msgid "Read Time:"
+msgstr ""
+
+#: inc/hooks/hook-meta-analytics.php:507
+msgid "min"
+msgstr ""
+
+#: inc/hooks/hook-meta-analytics.php:512
+msgid "Reactions (Chart)"
+msgstr ""
+
+#: inc/hooks/hook-meta-analytics.php:513
+msgid "Reactions chart"
+msgstr ""
+
+#: inc/hooks/hook-meta-analytics.php:517
+msgid "Reactions Stats"
+msgstr ""
+
+#: inc/hooks/hook-meta-analytics.php:536
+#: inc/hooks/hook-meta-analytics.php:550
+msgid "Total"
+msgstr ""
+
+#: inc/hooks/hook-meta-analytics.php:543
+msgid "Links Breakdown (Chart)"
+msgstr ""
+
+#: inc/hooks/hook-meta-analytics.php:544
+msgid "Links chart"
+msgstr ""
+
+#: inc/hooks/hook-meta-analytics.php:548
+msgid "Links Stats"
+msgstr ""
+
+#: inc/hooks/hook-meta-analytics.php:551
+msgid "Internal"
+msgstr ""
+
+#: inc/hooks/hook-meta-analytics.php:552
+msgid "External"
+msgstr ""
+
+#: inc/hooks/hook-meta-analytics.php:553
+msgid "Nofollow"
+msgstr ""
+
+#: inc/hooks/hook-meta-analytics.php:554
+msgid "Target Blank"
+msgstr ""
+
+#: inc/hooks/hook-meta-analytics.php:555
+msgid "No Text"
+msgstr ""
+
+#: inc/hooks/hook-meta-analytics.php:558
+msgid "Shortest Link Text:"
+msgstr ""
+
+#: inc/hooks/hook-meta-analytics.php:558
+#: inc/hooks/hook-meta-analytics.php:559
+msgid "No link text found"
+msgstr ""
+
+#: inc/hooks/hook-meta-analytics.php:559
+msgid "Longest Link Text:"
+msgstr ""
+
+#: inc/hooks/hook-meta-analytics.php:562
+msgid "Examples Without Anchor Text (external):"
+msgstr ""
+
+#: inc/hooks/hook-meta-analytics.php:575
+msgid "Top External Domains (Chart)"
+msgstr ""
+
+#: inc/hooks/hook-meta-analytics.php:576
+msgid "Top domains chart"
+msgstr ""
+
+#: inc/hooks/hook-meta-analytics.php:580
+msgid "Most Linked External Sites"
+msgstr ""
+
+#: inc/hooks/hook-meta-analytics.php:585
+#: inc/template-analytics.php:505
+msgid "No external domains found."
+msgstr ""
+
+#: inc/hooks/hook-meta-analytics.php:591
+msgid "Explore Shortcuts"
+msgstr ""
+
+#: inc/hooks/hook-meta-analytics.php:592
+msgid "View Author Archive"
+msgstr ""
+
+#: inc/hooks/hook-meta-analytics.php:593
+msgid "View Publish Day Archive"
+msgstr ""
+
+#: inc/hooks/hook-meta-analytics.php:606
+msgid "Invalid post ID."
+msgstr ""
+
+#: inc/hooks/hook-meta-analytics.php:608
+msgid "Unauthorized."
+msgstr ""
+
+#: inc/hooks/hook-meta-analytics.php:612
+msgid "Nonce verification failed."
+msgstr ""
+
+#: inc/hooks/hook-meta-analytics.php:616
+msgid "Post not found."
+msgstr ""
+
+#: inc/hooks/hook-meta-extra.php:15
+msgctxt "taxonomy general name"
+msgid "Post Badges"
+msgstr ""
+
+#: inc/hooks/hook-meta-extra.php:16
+msgctxt "taxonomy singular name"
+msgid "Post Badge"
+msgstr ""
+
+#: inc/hooks/hook-meta-extra.php:17
+msgid "Search Badges"
+msgstr ""
+
+#: inc/hooks/hook-meta-extra.php:18
+msgid "All Badges"
+msgstr ""
+
+#: inc/hooks/hook-meta-extra.php:19
+msgid "Parent Badge"
+msgstr ""
+
+#: inc/hooks/hook-meta-extra.php:20
+msgid "Parent Badge:"
+msgstr ""
+
+#: inc/hooks/hook-meta-extra.php:21
+msgid "Edit Badge"
+msgstr ""
+
+#: inc/hooks/hook-meta-extra.php:22
+msgid "Update Badge"
+msgstr ""
+
+#: inc/hooks/hook-meta-extra.php:23
+msgid "Add New Badge"
+msgstr ""
+
+#: inc/hooks/hook-meta-extra.php:24
+msgid "New Badge Name"
+msgstr ""
+
+#: inc/hooks/hook-meta-extra.php:25
+msgid "Badges"
+msgstr ""
+
+#: inc/hooks/hook-meta-extra.php:65
+#: inc/hooks/hook-meta-extra.php:75
+msgid "Post Subtitle"
+msgstr ""
+
+#: inc/hooks/hook-meta-extra.php:66
+msgid "Featured Video"
+msgstr ""
+
+#: inc/hooks/hook-meta-extra.php:67
+msgid "Source Attribution"
+msgstr ""
+
+#: inc/hooks/hook-meta-extra.php:68
+msgid "Sponsorship Settings"
+msgstr ""
+
+#: inc/hooks/hook-meta-extra.php:77
+msgid "Displayed below the post title."
+msgstr ""
+
+#: inc/hooks/hook-meta-extra.php:83
+msgid "Featured Video URL"
+msgstr ""
+
+#: inc/hooks/hook-meta-extra.php:85
+msgid "Paste YouTube, Vimeo, or Facebook link."
+msgstr ""
+
+#: inc/hooks/hook-meta-extra.php:92
+msgid "Source Name"
+msgstr ""
+
+#: inc/hooks/hook-meta-extra.php:94
+msgid "Source URL"
+msgstr ""
+
+#: inc/hooks/hook-meta-extra.php:104
+msgid "Mark as Sponsored"
+msgstr ""
+
+#: inc/hooks/hook-meta-extra.php:105
+msgid "Sponsor Name"
+msgstr ""
+
+#: inc/hooks/hook-meta-extra.php:107
+msgid "Sponsor URL"
+msgstr ""
+
+#: inc/hooks/hook-meta-extra.php:158
+msgid "View posts with badge: %s"
+msgstr ""
+
+#: inc/hooks/hook-meta-extra.php:178
+msgid "Source:"
+msgstr ""
+
+#: inc/hooks/hook-meta-extra.php:180
+msgid "Visit source: %s"
+msgstr ""
+
+#: inc/hooks/hook-meta-extra.php:203
+msgid "Sponsored by:"
+msgstr ""
+
+#: inc/hooks/hook-meta-extra.php:205
+msgid "Visit sponsor: %s"
+msgstr ""
+
+#: inc/hooks/hook-meta-extra.php:362
+msgid "Author Support & Donation"
+msgstr ""
+
+#: inc/hooks/hook-meta-extra.php:365
+msgid "Donation Link"
+msgstr ""
+
+#: inc/hooks/hook-meta-extra.php:368
+msgid "Enter your donation or support URL (e.g., PayPal.me, BuyMeACoffee, Ko-fi)."
+msgstr ""
+
+#: inc/hooks/hook-meta-extra.php:372
+msgid "Donation Button Text"
+msgstr ""
+
+#: inc/hooks/hook-meta-extra.php:375
+msgid "Custom text for the donation button (e.g., \"Buy me a coffee\", \"Support Author\")."
+msgstr ""
+
+#: inc/hooks/hook-meta.php:23
+msgid "Layout Options"
+msgstr ""
+
+#: inc/hooks/hook-meta.php:72
+msgid "Content Options"
+msgstr ""
+
+#: inc/hooks/hook-meta.php:77
+#: inc/hooks/hook-meta.php:98
+msgid "Set as global layout"
+msgstr ""
+
+#: inc/hooks/hook-meta.php:88
+msgid "Please go to Customize>Themes Options for Single Post/Page."
+msgstr ""
+
+#: inc/hooks/hook-meta.php:93
+msgid "Sidebar Options"
+msgstr ""
+
+#: inc/hooks/hook-meta.php:101
+msgid "Content - Primary Sidebar"
+msgstr ""
+
+#: inc/hooks/hook-meta.php:104
+msgid "Primary Sidebar - Content"
+msgstr ""
+
+#: inc/hooks/hook-meta.php:107
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/hooks/hook-meta.php:111
+msgid "Please go to Customize>Front-page Options for Homepage."
+msgstr ""
+
+#: inc/hooks/hook-meta.php:184
+#: inc/hooks/hook-meta.php:227
+msgid "Category Color 1"
+msgstr ""
+
+#: inc/hooks/hook-meta.php:185
+#: inc/hooks/hook-meta.php:228
+msgid "Category Color 2"
+msgstr ""
+
+#: inc/hooks/hook-meta.php:186
+#: inc/hooks/hook-meta.php:229
+msgid "Category Color 3"
+msgstr ""
+
+#: inc/hooks/hook-meta.php:187
+#: inc/hooks/hook-meta.php:230
+msgid "Category Color 4"
+msgstr ""
+
+#: inc/hooks/hook-meta.php:188
+#: inc/hooks/hook-meta.php:231
+msgid "Category Color 5"
+msgstr ""
+
+#: inc/hooks/hook-meta.php:189
+#: inc/hooks/hook-meta.php:232
+msgid "Category Color 6"
+msgstr ""
+
+#: inc/hooks/hook-meta.php:190
+#: inc/hooks/hook-meta.php:233
+msgid "Category Color 7"
+msgstr ""
+
+#: inc/hooks/hook-meta.php:195
+#: inc/hooks/hook-meta.php:223
+msgid "Color Class"
+msgstr ""
+
+#: inc/hooks/hook-meta.php:201
+#: inc/hooks/hook-meta.php:242
+msgid "Select category color class. You can set appropriate categories color on \"Categories\" section of the theme customizer."
+msgstr ""
+
+#: inc/hooks/hook-meta.php:284
+#: inc/hooks/hook-meta.php:472
+msgid "list"
+msgstr ""
+
+#: inc/hooks/hook-meta.php:300
+#: inc/hooks/hook-meta.php:489
+msgid "Default with list"
+msgstr ""
+
+#: inc/hooks/hook-meta.php:304
+#: inc/hooks/hook-meta.php:311
+#: inc/hooks/hook-meta.php:493
+#: inc/hooks/hook-meta.php:500
+msgid "Two column"
+msgstr ""
+
+#: inc/hooks/hook-meta.php:305
+#: inc/hooks/hook-meta.php:310
+#: inc/hooks/hook-meta.php:494
+#: inc/hooks/hook-meta.php:499
+msgid "Three column"
+msgstr ""
+
+#: inc/hooks/hook-meta.php:306
+#: inc/hooks/hook-meta.php:312
+#: inc/hooks/hook-meta.php:495
+#: inc/hooks/hook-meta.php:501
+msgid "Four column"
+msgstr ""
+
+#: inc/hooks/hook-meta.php:316
+#: inc/hooks/hook-meta.php:505
+msgid "Title before image"
+msgstr ""
+
+#: inc/hooks/hook-meta.php:317
+#: inc/hooks/hook-meta.php:506
+msgid "Image before title"
+msgstr ""
+
+#: inc/hooks/hook-meta.php:318
+#: inc/hooks/hook-meta.php:507
+msgid "Title over Image"
+msgstr ""
+
+#: inc/hooks/hook-meta.php:341
+#: inc/hooks/hook-meta.php:353
+#: inc/hooks/hook-meta.php:523
+#: inc/hooks/hook-meta.php:537
+msgid "Archive Alignment"
+msgstr ""
+
+#: inc/hooks/hook-meta.php:347
+#: inc/hooks/hook-meta.php:530
+msgid "Select alignment for list archive layout"
+msgstr ""
+
+#: inc/hooks/hook-meta.php:359
+#: inc/hooks/hook-meta.php:544
+msgid "Select alignment for grid archive layout"
+msgstr ""
+
+#: inc/hooks/hook-meta.php:365
+msgid "Select grid column"
+msgstr ""
+
+#: inc/hooks/hook-meta.php:371
+#: inc/hooks/hook-meta.php:558
+msgid "Select column layout for grid archive layout"
+msgstr ""
+
+#: inc/hooks/hook-meta.php:377
+#: inc/hooks/hook-meta.php:564
+msgid "Select masonry layout"
+msgstr ""
+
+#: inc/hooks/hook-meta.php:383
+#: inc/hooks/hook-meta.php:572
+msgid "Select layout for masonry archive layout"
+msgstr ""
+
+#: inc/hooks/hook-meta.php:389
+#: inc/hooks/hook-meta.php:578
+msgid "Select full layout"
+msgstr ""
+
+#: inc/hooks/hook-meta.php:395
+#: inc/hooks/hook-meta.php:586
+msgid "Select layout for full archive layout"
+msgstr ""
+
+#: inc/hooks/hook-meta.php:550
+msgid "Select grid layout"
+msgstr ""
+
+#: inc/hooks/hook-tgm.php:20
+msgid "Elespare"
+msgstr ""
+
+#: inc/hooks/hook-tgm.php:25
+msgid "Blockspare"
+msgstr ""
+
+#: inc/hooks/hook-tgm.php:30
+msgid "Templatespare"
+msgstr ""
+
+#: inc/hooks/hook-tgm.php:35
+msgid "WP Post Author"
+msgstr ""
+
+#: inc/hooks/hook-tgm.php:40
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#: inc/hooks/hook-tgm.php:45
+msgid "Free Live Chat using 3CX"
+msgstr ""
+
+#: inc/hooks/hook-toc.php:173
+msgid "Jumped to section"
+msgstr ""
+
+#: inc/template-analytics.php:327
+msgid "📊 Site Analytics"
+msgstr ""
+
+#: inc/template-analytics.php:330
+msgid "Refresh Stats"
+msgstr ""
+
+#: inc/template-analytics.php:336
+msgid "Analytics tabs"
+msgstr ""
+
+#: inc/template-analytics.php:337
+msgid "Overview"
+msgstr ""
+
+#: inc/template-analytics.php:340
+msgid "Appearance"
+msgstr ""
+
+#: inc/template-analytics.php:341
+msgid "Authors & Links"
+msgstr ""
+
+#: inc/template-analytics.php:347
+msgid "Charts"
+msgstr ""
+
+#: inc/template-analytics.php:350
+msgid "Posts Breakdown"
+msgstr ""
+
+#: inc/template-analytics.php:353
+msgid "Comments Breakdown"
+msgstr ""
+
+#: inc/template-analytics.php:356
+msgid "Reactions Breakdown"
+msgstr ""
+
+#: inc/template-analytics.php:359
+msgid "Link Stats Breakdown"
+msgstr ""
+
+#: inc/template-analytics.php:362
+#: inc/template-analytics.php:508
+msgid "Top Authors by Views"
+msgstr ""
+
+#: inc/template-analytics.php:365
+msgid "Top Views per Posts"
+msgstr ""
+
+#: inc/template-analytics.php:369
+msgid "Top Categories by Post Count"
+msgstr ""
+
+#: inc/template-analytics.php:372
+msgid "Top Tags"
+msgstr ""
+
+#: inc/template-analytics.php:380
+msgid "Content Overview"
+msgstr ""
+
+#: inc/template-analytics.php:383
+msgid "Published Posts"
+msgstr ""
+
+#: inc/template-analytics.php:386
+msgid "Drafts"
+msgstr ""
+
+#: inc/template-analytics.php:389
+msgid "Pending Posts"
+msgstr ""
+
+#: inc/template-analytics.php:392
+msgid "Private Posts"
+msgstr ""
+
+#: inc/template-analytics.php:395
+msgid "Trashed Posts"
+msgstr ""
+
+#: inc/template-analytics.php:398
+msgid "Revisions"
+msgstr ""
+
+#: inc/template-analytics.php:401
+msgid "Pages"
+msgstr ""
+
+#: inc/template-analytics.php:404
+msgid "Media Items"
+msgstr ""
+
+#: inc/template-analytics.php:407
+msgid "Categories"
+msgstr ""
+
+#: inc/template-analytics.php:410
+msgid "Tags"
+msgstr ""
+
+#: inc/template-analytics.php:413
+msgid "Custom Post Types"
+msgstr ""
+
+#: inc/template-analytics.php:416
+msgid "Custom Taxonomies"
+msgstr ""
+
+#: inc/template-analytics.php:423
+msgid "Engagement & Performance"
+msgstr ""
+
+#: inc/template-analytics.php:426
+msgid "Approved Comments"
+msgstr ""
+
+#: inc/template-analytics.php:429
+msgid "Total Views"
+msgstr ""
+
+#: inc/template-analytics.php:432
+msgid "Total Reactions"
+msgstr ""
+
+#: inc/template-analytics.php:435
+msgid "Avg Words / Post (approx)"
+msgstr ""
+
+#: inc/template-analytics.php:438
+msgid "Avg Read Time (mins)"
+msgstr ""
+
+#: inc/template-analytics.php:445
+msgid "Appearance & Structure"
+msgstr ""
+
+#: inc/template-analytics.php:448
+msgid "Menus"
+msgstr ""
+
+#: inc/template-analytics.php:451
+msgid "Widget Areas"
+msgstr ""
+
+#: inc/template-analytics.php:454
+msgid "Active Theme"
+msgstr ""
+
+#: inc/template-analytics.php:457
+msgid "Inactive Themes"
+msgstr ""
+
+#: inc/template-analytics.php:460
+msgid "Total Plugins"
+msgstr ""
+
+#: inc/template-analytics.php:463
+msgid "Active Plugins"
+msgstr ""
+
+#: inc/template-analytics.php:466
+msgid "Inactive Plugins"
+msgstr ""
+
+#: inc/template-analytics.php:469
+msgid "Site Language"
+msgstr ""
+
+#: inc/template-analytics.php:475
+msgid "Time Format"
+msgstr ""
+
+#: inc/template-analytics.php:478
+msgid "Timezone"
+msgstr ""
+
+#: inc/template-analytics.php:481
+msgid "Permalink Structure"
+msgstr ""
+
+#: inc/template-analytics.php:488
+msgid "Top Authors & Link Stats"
+msgstr ""
+
+#: inc/template-analytics.php:497
+msgid "Top Linked External Domains"
+msgstr ""
+
+#: inc/template-analytics.php:512
+msgid "views"
+msgstr ""
+
+#: inc/template-analytics.php:516
+msgid "No author view data."
+msgstr ""
+
+#: inc/template-functions.php:717
+#: inc/template-functions.php:719
+msgid "Read more about %s"
+msgstr ""
+
+#: inc/template-functions.php:754
+msgid "Previous"
+msgstr ""
+
+#: inc/template-functions.php:755
+msgid "Next"
+msgstr ""
+
+#: inc/template-functions.php:892
+msgid "%s minute read"
+msgid_plural "%s minutes read"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/template-functions.php:1183
+#: inc/template-functions.php:1321
+msgid "Copy link to clipboard"
+msgstr ""
+
+#: inc/template-functions.php:1183
+#: inc/template-functions.php:1321
+msgid "Link copied to clipboard!"
+msgstr ""
+
+#: inc/template-functions.php:1186
+#: inc/template-functions.php:1323
+msgid "Save this post"
+msgstr ""
+
+#: inc/template-functions.php:1186
+#: inc/template-functions.php:1323
+msgid "Please log in to bookmark this post."
+msgstr ""
+
+#: inc/template-functions.php:1189
+#: inc/template-functions.php:1324
+msgid "Print this page"
+msgstr ""
+
+#: inc/template-functions.php:1393
+msgid "%s views"
+msgstr ""
+
+#: inc/template-functions.php:1497
+msgid "Love"
+msgstr ""
+
+#: inc/template-functions.php:1498
+msgid "Funny"
+msgstr ""
+
+#: inc/template-functions.php:1499
+msgid "Wow"
+msgstr ""
+
+#: inc/template-functions.php:1500
+msgid "Sad"
+msgstr ""
+
+#: inc/template-functions.php:1501
+msgid "Angry"
+msgstr ""
+
+#: inc/template-functions.php:1512
+msgid "Post Reactions"
+msgstr ""
+
+#: inc/template-functions.php:1717
+msgid "Support Author"
+msgstr ""
+
+#: inc/template-functions.php:1731
+msgid "About the Author"
+msgstr ""
+
+#: inc/template-functions.php:1773
+msgid "Visit Website"
+msgstr ""
+
+#: inc/template-functions.php:1779
+msgid "View All Posts"
+msgstr ""
+
+#: inc/template-functions.php:1866
+msgid "N/A"
+msgstr ""
+
+#: inc/template-functions.php:1875
+msgid "Site Stats"
+msgstr ""
+
+#: inc/template-functions.php:1882
+msgid "%s total views"
+msgstr ""
+
+#: inc/template-functions.php:1889
+msgid "Most read: %s"
+msgstr ""
+
+#: inc/template-functions.php:1896
+msgid "%s comments made"
+msgstr ""
+
+#: inc/template-functions.php:1903
+msgid "Readers mostly feel: %s"
+msgstr ""
+
+#: inc/template-functions.php:1910
+msgid "Top writer: %s"
+msgstr ""
+
+#: inc/template-functions.php:1917
+msgid "See all site stats"
+msgstr ""
+
+#: inc/template-functions.php:1950
+msgid "Post Stats"
+msgstr ""
+
+#: inc/template-functions.php:1957
+msgid "%d views"
+msgstr ""
+
+#: inc/template-functions.php:1963
+msgid "%d comments"
+msgstr ""
+
+#: inc/template-functions.php:1969
+msgid "Mostly: %s"
+msgstr ""
+
+#: inc/template-functions.php:1975
+msgid "%s min read"
+msgstr ""
+
+#: inc/template-functions.php:1981
+msgid "Edit Post"
+msgstr ""
+
+#: inc/template-functions.php:2008
+#: inc/template-functions.php:2016
+#: admin-dashboard/src/admin-top-menu.js:103
+msgid "MoreNews Options"
+msgstr ""
+
+#: inc/template-functions.php:2045
+#: admin-dashboard/src/admin-top-menu.js:140
+msgid "Front-page Banner"
+msgstr ""
+
+#: inc/template-functions.php:2145
+#: inc/template-functions.php:2205
+msgid "Featured"
+msgstr ""
+
+#: inc/template-functions.php:2147
+#: inc/template-functions.php:2207
+#: inc/template-functions.php:2362
+msgid "General"
+msgstr ""
+
+#: inc/template-functions.php:2169
+#: inc/template-functions.php:2310
+#: inc/template-functions.php:2372
+#: inc/template-functions.php:2414
+msgid "Watch Video"
+msgstr ""
+
+#: inc/template-functions.php:2171
+msgid "Latest News"
+msgstr ""
+
+#: inc/template-functions.php:2176
+#: inc/template-functions.php:2270
+#: inc/template-functions.php:2294
+#: inc/template-functions.php:2315
+#: inc/template-functions.php:2333
+#: inc/template-functions.php:2360
+#: inc/template-functions.php:2379
+#: inc/template-functions.php:2400
+#: inc/template-functions.php:2423
+#: inc/template-functions.php:2442
+msgid "Featured News"
+msgstr ""
+
+#: inc/template-functions.php:2179
+msgid "Central News"
+msgstr ""
+
+#: inc/template-functions.php:2180
+#: inc/template-functions.php:2274
+#: inc/template-functions.php:2298
+#: inc/template-functions.php:2337
+#: inc/template-functions.php:2383
+#: inc/template-functions.php:2404
+#: inc/template-functions.php:2427
+#: inc/template-functions.php:2446
+msgid "More News"
+msgstr ""
+
+#: inc/template-functions.php:2198
+#: inc/template-functions.php:2349
+#: inc/template-functions.php:2395
+msgid "Watch"
+msgstr ""
+
+#: inc/template-functions.php:2228
+msgid "Watch Videos"
+msgstr ""
+
+#: inc/template-functions.php:2244
+#: inc/template-functions.php:2287
+#: inc/template-functions.php:2326
+msgid "Subscribe"
+msgstr ""
+
+#: inc/template-functions.php:2263
+msgid "Watch Online"
+msgstr ""
+
+#: inc/template-functions.php:2273
+#: inc/template-functions.php:2297
+#: inc/template-functions.php:2403
+msgid "Global News"
+msgstr ""
+
+#: inc/template-functions.php:2316
+#: inc/template-functions.php:2338
+msgid "Related News"
+msgstr ""
+
+#: inc/template-functions.php:2357
+#: lib/tgm/class-tgm-plugin-activation.php:2286
+msgid "Recommended"
+msgstr ""
+
+#: inc/template-functions.php:2359
+msgid "Archive"
+msgstr ""
+
+#: inc/template-functions.php:2363
+msgid "Opinion"
+msgstr ""
+
+#: inc/template-functions.php:2426
+msgid "Top News"
+msgstr ""
+
+#: inc/template-functions.php:2445
+msgid "Hot News"
+msgstr ""
+
+#: inc/template-tags.php:144
+#: inc/template-tags.php:226
+msgid "Published: "
+msgstr ""
+
+#: inc/template-tags.php:146
+#: inc/template-tags.php:228
+msgid "Updated: "
+msgstr ""
+
+#: inc/template-tags.php:265
+msgid "ago"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:291
+#: template-parts/content-page.php:41
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/template-tags.php:326
+msgid "Searching..."
+msgstr ""
+
+#: inc/template-tags.php:340
+msgid "Invalid security token."
+msgstr ""
+
+#: inc/template-tags.php:368
+msgid "Live search results"
+msgstr ""
+
+#: inc/template-tags.php:386
+msgid "View all search results"
+msgstr ""
+
+#: inc/template-tags.php:387
+msgid "View all results for \"%s\""
+msgstr ""
+
+#: inc/template-tags.php:393
+msgid "No results found."
+msgstr ""
+
+#: inc/updater/theme-updater.php:29
+msgid "Theme License"
+msgstr ""
+
+#: inc/updater/theme-updater.php:30
+msgid "Enter your theme license key."
+msgstr ""
+
+#: inc/updater/theme-updater.php:31
+msgid "License Key"
+msgstr ""
+
+#: inc/updater/theme-updater.php:32
+msgid "License Action"
+msgstr ""
+
+#: inc/updater/theme-updater.php:33
+msgid "Deactivate License"
+msgstr ""
+
+#: inc/updater/theme-updater.php:34
+msgid "Activate License"
+msgstr ""
+
+#: inc/updater/theme-updater.php:35
+#: inc/updater/theme-updater.php:47
+msgid "License status is unknown."
+msgstr ""
+
+#: inc/updater/theme-updater.php:36
+msgid "Renew?"
+msgstr ""
+
+#: inc/updater/theme-updater.php:37
+msgid "unlimited"
+msgstr ""
+
+#: inc/updater/theme-updater.php:38
+msgid "License key is active."
+msgstr ""
+
+#: inc/updater/theme-updater.php:39
+msgid "Expires %s."
+msgstr ""
+
+#: inc/updater/theme-updater.php:40
+msgid "You have %1$s / %2$s sites activated."
+msgstr ""
+
+#: inc/updater/theme-updater.php:41
+msgid "License key expired %s."
+msgstr ""
+
+#: inc/updater/theme-updater.php:42
+msgid "License key has expired."
+msgstr ""
+
+#: inc/updater/theme-updater.php:43
+msgid "License keys do not match."
+msgstr ""
+
+#: inc/updater/theme-updater.php:44
+msgid "License is inactive."
+msgstr ""
+
+#: inc/updater/theme-updater.php:45
+msgid "License key is disabled."
+msgstr ""
+
+#: inc/updater/theme-updater.php:46
+msgid "Site is inactive."
+msgstr ""
+
+#: inc/updater/theme-updater.php:48
+msgid "Updating this theme will lose any customizations you have made. 'Cancel' to stop, 'OK' to update."
+msgstr ""
+
+#: inc/updater/theme-updater.php:49
+msgid "<strong>%1$s %2$s</strong> is available. <a href=\"%3$s\" class=\"thickbox\" title=\"%4s\">Check out what's new</a> or <a href=\"%5$s\"%6$s>update now</a>."
+msgstr ""
+
+#: inc/widgets/widget-author-info.php:20
+msgid "Displays author info."
+msgstr ""
+
+#: inc/widgets/widget-author-info.php:24
+msgid "AFTMN Author Info"
+msgstr ""
+
+#: inc/widgets/widget-author-info.php:164
+msgid "About Author"
+msgstr ""
+
+#: inc/widgets/widget-author-info.php:166
+msgid "Profile image"
+msgstr ""
+
+#: inc/widgets/widget-author-info.php:167
+msgid "Name"
+msgstr ""
+
+#: inc/widgets/widget-author-info.php:168
+msgid "Descriptions"
+msgstr ""
+
+#: inc/widgets/widget-author-info.php:171
+msgid "Twitter"
+msgstr ""
+
+#: inc/widgets/widget-author-info.php:172
+msgid "TikTok"
+msgstr ""
+
+#: inc/widgets/widget-author-info.php:173
+msgid "YouTube"
+msgstr ""
+
+#: inc/widgets/widget-author-info.php:174
+msgid "Linkedin"
+msgstr ""
+
+#: inc/widgets/widget-author-info.php:175
+msgid "VK"
+msgstr ""
+
+#: inc/widgets/widget-express-posts-grid.php:25
+#: inc/widgets/widget-express-posts-list.php:28
+msgid "Displays Express Posts from selected categories."
+msgstr ""
+
+#: inc/widgets/widget-express-posts-grid.php:29
+msgid "AFTMN Express Posts Grid"
+msgstr ""
+
+#: inc/widgets/widget-express-posts-grid.php:128
+#: inc/widgets/widget-express-posts-list.php:138
+#: inc/widgets/widget-popular-posts.php:118
+#: inc/widgets/widget-posts-carousel.php:110
+#: inc/widgets/widget-posts-double-column.php:145
+#: inc/widgets/widget-posts-grid.php:116
+#: inc/widgets/widget-posts-list.php:119
+#: inc/widgets/widget-posts-single-column.php:119
+#: inc/widgets/widget-posts-slider.php:114
+#: inc/widgets/widget-trending-posts-by-tag.php:122
+#: inc/widgets/widget-trending-posts-by-view.php:117
+#: inc/widgets/widget-trending-posts.php:141
+msgid "Number of posts"
+msgstr ""
+
+#: inc/widgets/widget-express-posts-list.php:32
+msgid "AFTMN Express Posts List"
+msgstr ""
+
+#: inc/widgets/widget-popular-posts.php:30
+#: inc/widgets/widget-posts-double-column.php:30
+#: inc/widgets/widget-posts-grid.php:28
+#: inc/widgets/widget-posts-list.php:28
+#: inc/widgets/widget-trending-posts-by-tag.php:30
+#: inc/widgets/widget-trending-posts-by-view.php:30
+#: inc/widgets/widget-trending-posts.php:30
+msgid "Displays grid from selected categories."
+msgstr ""
+
+#: inc/widgets/widget-popular-posts.php:34
+msgid "AFTMN Popular News"
+msgstr ""
+
+#: inc/widgets/widget-posts-carousel.php:20
+msgid "Displays posts carousel from selected category."
+msgstr ""
+
+#: inc/widgets/widget-posts-carousel.php:24
+msgid "AFTMN Posts Carousel"
+msgstr ""
+
+#: inc/widgets/widget-posts-carousel.php:109
+#: inc/widgets/widget-posts-slider.php:113
+#: inc/widgets/widget-posts-tabs.php:114
+#: inc/widgets/widget-posts-tabs.php:118
+#: inc/widgets/widget-posts-tabs.php:122
+msgid "Select category"
+msgstr ""
+
+#: inc/widgets/widget-posts-double-column.php:34
+msgid "AFTMN Post Double Columns"
+msgstr ""
+
+#: inc/widgets/widget-posts-double-column.php:143
+msgid "Select Category 1"
+msgstr ""
+
+#: inc/widgets/widget-posts-double-column.php:144
+msgid "Select Category 2"
+msgstr ""
+
+#: inc/widgets/widget-posts-grid.php:32
+msgid "AFTMN Post Grid"
+msgstr ""
+
+#: inc/widgets/widget-posts-list.php:32
+msgid "AFTMN Post List"
+msgstr ""
+
+#: inc/widgets/widget-posts-single-column.php:28
+msgid "Displays posts single column from selected categories."
+msgstr ""
+
+#: inc/widgets/widget-posts-single-column.php:32
+msgid "AFTMN Post Single Column"
+msgstr ""
+
+#: inc/widgets/widget-posts-slider.php:20
+msgid "Displays posts slider from selected category."
+msgstr ""
+
+#: inc/widgets/widget-posts-slider.php:24
+msgid "AFTMN Posts Slider"
+msgstr ""
+
+#: inc/widgets/widget-posts-tabs.php:21
+msgid "Displays tabbed posts lists from selected settings."
+msgstr ""
+
+#: inc/widgets/widget-posts-tabs.php:26
+msgid "AFTMN Posts Tabs"
+msgstr ""
+
+#: inc/widgets/widget-posts-tabs.php:97
+#: inc/widgets/widget-posts-tabs.php:103
+msgid "Yes"
+msgstr ""
+
+#: inc/widgets/widget-posts-tabs.php:98
+#: inc/widgets/widget-posts-tabs.php:104
+msgid "No"
+msgstr ""
+
+#: inc/widgets/widget-posts-tabs.php:124
+msgid "Settings for all tabs"
+msgstr ""
+
+#: inc/widgets/widget-posts-tabs.php:126
+msgid "Number of posts per tab"
+msgstr ""
+
+#: inc/widgets/widget-social-contacts.php:20
+msgid "Displays social contacts lists from selected settings."
+msgstr ""
+
+#: inc/widgets/widget-social-contacts.php:24
+msgid "AFTMN Social Contacts"
+msgstr ""
+
+#: inc/widgets/widget-social-contacts.php:67
+msgid "Social menu is not set. You need to create menu and assign it to Social Menu on Menu Settings."
+msgstr ""
+
+#: inc/widgets/widget-trending-posts-by-tag.php:34
+msgid "AFTMN Trending News (By Tag)"
+msgstr ""
+
+#: inc/widgets/widget-trending-posts-by-view.php:34
+msgid "AFTMN Trending News (By View)"
+msgstr ""
+
+#: inc/widgets/widget-trending-posts.php:34
+msgid "AFTMN Trending News"
+msgstr ""
+
+#: inc/widgets/widget-youtube-video.php:21
+msgid "Displays youtube video slider."
+msgstr ""
+
+#: inc/widgets/widget-youtube-video.php:25
+msgid "AFTMN YouTube Video"
+msgstr ""
+
+#: inc/widgets/widget-youtube-video.php:173
+msgid "YouTube Videos:"
+msgstr ""
+
+#: inc/widgets/widgets-base.php:222
+msgid "Upload"
+msgstr ""
+
+#: inc/widgets/widgets-base.php:223
+msgid "Select Image"
+msgstr ""
+
+#: inc/widgets/widgets-base.php:224
+msgid "Choose Image"
+msgstr ""
+
+#: inc/widgets/widgets-base.php:235
+msgctxt "Remove"
+msgid "X"
+msgstr ""
+
+#: inc/widgets/widgets-common-functions.php:89
+msgid "Recent"
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:13
+msgid "Main Sidebar"
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:15
+msgid "Add widgets for main sidebar."
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:23
+msgid "Header Widget 1"
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:25
+#: inc/widgets/widgets-register-sidebars.php:34
+#: inc/widgets/widgets-register-sidebars.php:42
+msgid "Add widgets for header section."
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:32
+msgid "Header Widget 2"
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:40
+msgid "Header Widget 3"
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:51
+msgid "Front-page Content Section"
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:53
+msgid "Add widgets to front-page contents section."
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:61
+msgid "Front-page Sidebar Section"
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:63
+msgid "Add widgets to front-page sidebar section."
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:71
+msgid "Banner Ad Section"
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:73
+msgid "Add widgets for frontpage banner section advertisement."
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:84
+msgid "Add widgets for off-canvas section."
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:92
+msgid "Above Site Header Section"
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:94
+msgid "Add widgets for above site header section."
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:102
+msgid "Below Site Header Section"
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:104
+msgid "Add widgets for below site header section."
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:112
+msgid "Above Main Banner Section"
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:114
+msgid "Add widgets for above main banner section."
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:122
+msgid "Below Main Banner Section"
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:124
+msgid "Add widgets for below main banner section."
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:132
+msgid "Below Featured Section"
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:134
+msgid "Add widgets for below featured section."
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:142
+msgid "Above Site Footer Section"
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:144
+msgid "Add widgets for above site footer section."
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:153
+msgid "Footer Widget 1"
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:155
+msgid "Displays items on footer first column."
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:164
+msgid "Footer Widget 2"
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:166
+msgid "Displays items on footer second column."
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:174
+msgid "Footer Widget 3"
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:176
+msgid "Displays items on footer third column."
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:184
+msgid "Below Site Footer Section"
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:186
+msgid "Add widgets for below site footer section."
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:195
+msgid "Above Single Post Title Section"
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:197
+msgid "Add widgets for single above post title."
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:205
+msgid "Below Single Post Title Section"
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:207
+msgid "Add widgets for single below single post title ."
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:215
+msgid "Above Single Featured Image Section"
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:217
+msgid "Add widgets for above featured image."
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:225
+msgid "Below Single Featured Image Section"
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:227
+msgid "Add widgets for below featured image ."
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:235
+msgid "Above Single Post Content Section"
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:237
+msgid "Add widgets for single posts= content."
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:245
+msgid "Below Single Post Content Section"
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:247
+msgid "Add widgets for single post content."
+msgstr ""
+
+#: inc/woocommerce.php:254
+msgid "View your shopping cart"
+msgstr ""
+
+#. translators: number of items in the mini cart.
+#: inc/woocommerce.php:258
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:304
+msgid "Browse:"
+msgstr ""
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:305
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:306
+msgid "Home"
+msgstr ""
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:307
+msgid "404 Not Found"
+msgstr ""
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:308
+msgid "Archives"
+msgstr ""
+
+#. Translators: %s is the search query.
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:310
+msgid "Search results for: %s"
+msgstr ""
+
+#. Translators: %s is the page number.
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:312
+msgid "Page %s"
+msgstr ""
+
+#. Translators: %s is the page number.
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:314
+msgid "Comment Page %s"
+msgstr ""
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:316
+msgid "Minute %s"
+msgstr ""
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:318
+msgid "Week %s"
+msgstr ""
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:791
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:809
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:827
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:844
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:874
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:902
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:930
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:1285
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:845
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:903
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:1289
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:846
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:1293
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:875
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: lib/info/class.info.php:126
+msgid "Welcome! Thank you for choosing %1$s. To fully take advantage of the best our theme can offer please make sure you visit theme details page."
+msgstr ""
+
+#: lib/info/class.info.php:126
+msgid "Get started with %1$s"
+msgstr ""
+
+#: lib/info/class.info.php:126
+#: lib/tgm/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: lib/info/class.info.php:232
+msgid "%s() method does not exist."
+msgstr ""
+
+#: lib/info/class.info.php:341
+#: lib/info/class.info.php:382
+msgid "Manage Plugins"
+msgstr ""
+
+#: lib/info/class.info.php:410
+msgid "Product Features"
+msgstr ""
+
+#: lib/info/class.info.php:411
+msgid "Free"
+msgstr ""
+
+#: lib/info/class.info.php:412
+msgid "Premium"
+msgstr ""
+
+#: lib/info/info.php:20
+msgid "Howdy %1$s, we would like to thank you for installing and activating %2$s theme for your precious site. All of the features provided by the theme are now ready to use; Here, we have gathered all of the essential details and helpful links for you and your better experience with %2$s. Once again, Thanks for using our theme!"
+msgstr ""
+
+#: lib/info/info.php:24
+msgid "Getting Started"
+msgstr ""
+
+#: lib/info/info.php:26
+#: admin-dashboard/src/components/main.js:62
+msgid "Useful Plugins"
+msgstr ""
+
+#: lib/info/info.php:27
+#: lib/info/info.php:87
+#: lib/info/info.php:90
+msgid "Demo Content"
+msgstr ""
+
+#: lib/info/info.php:34
+#: admin-dashboard/src/components/json/dashboard-content.js:6
+msgid "Theme Details"
+msgstr ""
+
+#: lib/info/info.php:38
+#: lib/info/info.php:98
+msgid "View Demo"
+msgstr ""
+
+#: lib/info/info.php:42
+#: lib/info/info.php:57
+#: lib/info/info.php:120
+msgid "View Documentation"
+msgstr ""
+
+#: lib/info/info.php:54
+#: lib/info/info.php:117
+msgid "Theme Documentation"
+msgstr ""
+
+#: lib/info/info.php:63
+#: lib/info/info.php:66
+#: admin-dashboard/src/components/json/home-content.js:65
+msgid "Static Front Page"
+msgstr ""
+
+#: lib/info/info.php:65
+msgid "To achieve custom home page other than blog listing, you need to create and set static front page."
+msgstr ""
+
+#: lib/info/info.php:73
+msgid "Theme uses Customizer API for theme options. Using the Customizer you can easily customize different aspects of the theme."
+msgstr ""
+
+#: lib/info/info.php:79
+#: lib/info/info.php:82
+msgid "Widgets"
+msgstr ""
+
+#: lib/info/info.php:81
+msgid "Theme uses Wedgets API for widget options. Using the Widgets you can easily customize different aspects of the theme."
+msgstr ""
+
+#: lib/info/info.php:89
+msgid "To import sample demo content, %1$s plugin should be installed and activated. After plugin is activated, visit AF Companion Dashboard from admin menu."
+msgstr ""
+
+#: lib/info/info.php:95
+msgid "Theme Preview"
+msgstr ""
+
+#: lib/info/info.php:97
+msgid "You can check out the theme demos for reference to find out what you can achieve using the theme and how it can be customized."
+msgstr ""
+
+#: lib/info/info.php:108
+#: lib/info/info.php:111
+msgid "Contact Support"
+msgstr ""
+
+#: lib/info/info.php:110
+msgid "Got theme support question or found bug or got some feedbacks? Best place to ask your query is the dedicated Support forum for the theme."
+msgstr ""
+
+#: lib/info/info.php:126
+msgid "Child Theme"
+msgstr ""
+
+#: lib/info/info.php:128
+msgid "For advanced theme customization, it is recommended to use child theme rather than modifying the theme file itself. Using this approach, you wont lose the customization after theme update."
+msgstr ""
+
+#: lib/info/info.php:129
+msgid "Learn More"
+msgstr ""
+
+#: lib/info/info.php:138
+msgid "Theme supports some helpful WordPress plugins to enhance your site. But, please enable only those plugins which you need in your site. For example, enable WooCommerce only if you are using e-commerce."
+msgstr ""
+
+#: lib/info/info.php:143
+msgid "To import demo content for this theme, %1$s plugin is needed. Please make sure plugin is installed and activated. After plugin is activated, you will see AF Companion Dashboard from admin menu."
+msgstr ""
+
+#: lib/info/info.php:143
+msgid "AF Companion"
+msgstr ""
+
+#: lib/info/info.php:191
+msgid "If you want more advanced features then you can upgrade to the premium version of the theme."
+msgstr ""
+
+#: lib/info/info.php:192
+msgid "Upgrade Now"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: lib/tgm/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: lib/tgm/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: lib/tgm/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: lib/tgm/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: lib/tgm/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: lib/tgm/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: lib/tgm/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: lib/tgm/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:386
+#: lib/tgm/class-tgm-plugin-activation.php:830
+#: lib/tgm/class-tgm-plugin-activation.php:2543
+#: lib/tgm/class-tgm-plugin-activation.php:3590
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:387
+#: lib/tgm/class-tgm-plugin-activation.php:3169
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:388
+#: lib/tgm/class-tgm-plugin-activation.php:2962
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: lib/tgm/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: lib/tgm/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: lib/tgm/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:939
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:939
+#: lib/tgm/class-tgm-plugin-activation.php:942
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:942
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:1131
+#: lib/tgm/class-tgm-plugin-activation.php:2958
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: lib/tgm/class-tgm-plugin-activation.php:1992
+msgid "TGMPA v%s"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2283
+msgid "Required"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2302
+msgid "WordPress Repository"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2305
+msgid "External Source"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2308
+msgid "Pre-Packaged"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2325
+msgid "Not Installed"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2329
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2331
+msgid "Active"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2337
+msgid "Required Update not Available"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2340
+msgid "Requires Update"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2343
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: lib/tgm/class-tgm-plugin-activation.php:2352
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: lib/tgm/class-tgm-plugin-activation.php:2398
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: lib/tgm/class-tgm-plugin-activation.php:2402
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: lib/tgm/class-tgm-plugin-activation.php:2406
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: lib/tgm/class-tgm-plugin-activation.php:2410
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2492
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2500
+msgid "Installed version:"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2508
+msgid "Minimum required version:"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2520
+msgid "Available version:"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2543
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2557
+msgid "Plugin"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2558
+msgid "Source"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2559
+msgid "Type"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2563
+msgid "Version"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2564
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: lib/tgm/class-tgm-plugin-activation.php:2613
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: lib/tgm/class-tgm-plugin-activation.php:2618
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: lib/tgm/class-tgm-plugin-activation.php:2624
+msgid "Activate %2$s"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2694
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2727
+msgid "Install"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2767
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2769
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2810
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2812
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2918
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2944
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:3168
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: lib/tgm/class-tgm-plugin-activation.php:3508
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: lib/tgm/class-tgm-plugin-activation.php:3511
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: lib/tgm/class-tgm-plugin-activation.php:3513
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:3517
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: lib/tgm/class-tgm-plugin-activation.php:3519
+#: lib/tgm/class-tgm-plugin-activation.php:3527
+msgid "%1$s done."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:3520
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: lib/tgm/class-tgm-plugin-activation.php:3522
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:3525
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:3528
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: lib/tgm/class-tgm-plugin-activation.php:3530
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Blank Canvas"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Page Builder Full Width"
+msgstr ""
+
+#. translators: %s: search query.
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr ""
+
+#: single.php:65
+msgid "Embedded video content"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:25
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:38
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:21
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#. translators: %s: Title of the previous post.
+#: template-parts/content.php:72
+msgid "Previous: %s"
+msgstr ""
+
+#. translators: %s: Title of the next post.
+#: template-parts/content.php:77
+msgid "Next: %s"
+msgstr ""
+
+#. translators: Hidden heading for the post navigation section.
+#: template-parts/content.php:81
+msgid "Post navigation"
+msgstr ""
+
+#: admin-dashboard/src/admin-top-menu.js:116
+msgid "Analytics"
+msgstr ""
+
+#: admin-dashboard/src/components/blockspare.demo.js:32
+msgid "Update Blockspare Pro"
+msgstr ""
+
+#: admin-dashboard/src/components/blockspare.demo.js:34
+msgid "Update Blockspare"
+msgstr ""
+
+#: admin-dashboard/src/components/blockspare.demo.js:48
+msgid "Page Builder Gutenberg Blocks & Patterns"
+msgstr ""
+
+#: admin-dashboard/src/components/blockspare.demo.js:51
+msgid "Add pages effortlessly with expertly crafted Gutenberg patterns and blocks for blogs, magazines, newspapers, and agency sites using the Blockspare plugin!"
+msgstr ""
+
+#: admin-dashboard/src/components/dashboard-content.js:42
+msgid "Hello "
+msgstr ""
+
+#: admin-dashboard/src/components/dashboard-content.js:45
+msgid "Welcome to "
+msgstr ""
+
+#: admin-dashboard/src/components/elespare-demo.js:34
+msgid "Update Elespare Pro"
+msgstr ""
+
+#: admin-dashboard/src/components/elespare-demo.js:36
+msgid "Update Elespare"
+msgstr ""
+
+#: admin-dashboard/src/components/elespare-demo.js:50
+msgid "Page Builder Elementor Widgets"
+msgstr ""
+
+#: admin-dashboard/src/components/elespare-demo.js:53
+msgid "Add pages effortlessly with expertly crafted Elementor widgets for blogs, magazines, newspapers, and agency sites using the Elespare plugin!"
+msgstr ""
+
+#: admin-dashboard/src/components/json/dashboard-content.js:2
+msgid "we would like to thank you for installing and activating [theme] theme for your precious site. All of the features provided by the theme are now ready to use; Here, we have gathered all of the essential details and helpful links for you and your better experience with [theme]. Once again, Thanks for using our theme!"
+msgstr ""
+
+#: admin-dashboard/src/components/json/dashboard-content.js:10
+msgid "View Demos"
+msgstr ""
+
+#: admin-dashboard/src/components/json/dashboard-content.js:23
+msgid "Need Help?"
+msgstr ""
+
+#: admin-dashboard/src/components/json/dashboard-content.js:25
+msgid "Demo Sites"
+msgstr ""
+
+#: admin-dashboard/src/components/json/home-content.js:6
+msgid "Set the theme header type, set the colors, spacing, alignment and more."
+msgstr ""
+
+#: admin-dashboard/src/components/json/home-content.js:15
+msgid "Banner Advertisement"
+msgstr ""
+
+#: admin-dashboard/src/components/json/home-content.js:16
+msgid "You can easily place your promotional banners within your header section."
+msgstr ""
+
+#: admin-dashboard/src/components/json/home-content.js:26
+msgid "Set the footer type, number of columns, spacing and colors."
+msgstr ""
+
+#: admin-dashboard/src/components/json/home-content.js:35
+msgid "Color Options"
+msgstr ""
+
+#: admin-dashboard/src/components/json/home-content.js:36
+msgid "Change the color setting provide with the Theme."
+msgstr ""
+
+#: admin-dashboard/src/components/json/home-content.js:46
+msgid "Selecting different categories can be done for different section."
+msgstr ""
+
+#: admin-dashboard/src/components/json/home-content.js:55
+msgid "Front-page Option"
+msgstr ""
+
+#: admin-dashboard/src/components/json/home-content.js:56
+msgid "Front-page layout with Popular Tag, Breaking News, Feature News can be set."
+msgstr ""
+
+#: admin-dashboard/src/components/json/home-content.js:66
+msgid "Set the Homepage as a static page to create own homepage using widgets."
+msgstr ""
+
+#: admin-dashboard/src/components/json/home-content.js:75
+msgid "Widgets Area"
+msgstr ""
+
+#: admin-dashboard/src/components/json/home-content.js:76
+msgid "Widgets can be added on all the section provide by the Theme."
+msgstr ""
+
+#: admin-dashboard/src/components/json/home-content.js:85
+msgid "Archive Options"
+msgstr ""
+
+#: admin-dashboard/src/components/json/home-content.js:86
+msgid "Customize the blog layout desgin."
+msgstr ""
+
+#: admin-dashboard/src/components/json/home-content.js:93
+msgid "Set the Global Layout, Breadcrumb, Sidebar, Single Post, You may have missed and more."
+msgstr ""
+
+#: admin-dashboard/src/components/json/premium-plugins-content.js:4
+msgid "Elespare (Elementor)"
+msgstr ""
+
+#: admin-dashboard/src/components/json/premium-plugins-content.js:6
+msgid "A stunning assortment of WordPress post widgets. It allows you to display your posts in many formats such as grid, list, tile, full, express, and so on."
+msgstr ""
+
+#: admin-dashboard/src/components/json/premium-plugins-content.js:10
+msgid "Blockspare Pro"
+msgstr ""
+
+#: admin-dashboard/src/components/json/premium-plugins-content.js:12
+msgid "Beautiful Page Building Gutenberg Blocks for WordPress"
+msgstr ""
+
+#: admin-dashboard/src/components/json/premium-plugins-content.js:16
+msgid "Magic Content Box Block"
+msgstr ""
+
+#: admin-dashboard/src/components/json/premium-plugins-content.js:18
+msgid "We build a beautiful series of page section Gutenberg blocks for WordPress content to help you quickly create the website you have always desired.."
+msgstr ""
+
+#: admin-dashboard/src/components/json/premium-plugins-content.js:22
+msgid "Latest Posts Block for WordPress (Gutenberg)"
+msgstr ""
+
+#: admin-dashboard/src/components/json/premium-plugins-content.js:24
+msgid "A beautiful collection of latest posts Gutenberg blocks for WordPress, which helps you to design posts grid, posts list, full posts layout, advanced express posts design, and tile layouts of your posts."
+msgstr ""
+
+#: admin-dashboard/src/components/json/premium-plugins-content.js:28
+msgid "Team and Testimonial Block for WordPress (Gutenberg)"
+msgstr ""
+
+#: admin-dashboard/src/components/json/premium-plugins-content.js:30
+msgid "With the Team and Testimonial Block for Gutenberg, you can quickly create a beautiful, responsive, and high-converting team, members, review, rating, etc, sections. There is no need to code anything."
+msgstr ""
+
+#: admin-dashboard/src/components/json/premium-plugins-content.js:34
+msgid "Pricing Table Block for WordPress (Gutenberg)"
+msgstr ""
+
+#: admin-dashboard/src/components/json/premium-plugins-content.js:36
+msgid "With the Pricing Table Block for Gutenberg, you can quickly create a beautiful, responsive, and high-converting pricing table. There is no need to code anything."
+msgstr ""
+
+#: admin-dashboard/src/components/json/sidebar-content.js:5
+msgid "View"
+msgstr ""
+
+#: admin-dashboard/src/components/json/sidebar-content.js:13
+msgid "Got theme support question or found bug or got some feedbacks? Best place to ask your query is the dedicated Support forum for the theme.."
+msgstr ""
+
+#: admin-dashboard/src/components/json/sidebar-content.js:16
+msgid "Video  Tutorials"
+msgstr ""
+
+#: admin-dashboard/src/components/json/sidebar-content.js:19
+msgid "Watch out the videos for an easy learning on Customizing the Theme ."
+msgstr ""
+
+#: admin-dashboard/src/components/json/sidebar-content.js:22
+msgid "3CX Free Live Chat"
+msgstr ""
+
+#: admin-dashboard/src/components/json/sidebar-content.js:24
+msgid "Visit"
+msgstr ""
+
+#: admin-dashboard/src/components/json/sidebar-content.js:26
+msgid "We have built a new live chat solution called 3cx startup! this will give you completely free live chat, voice capability plus a team communication system!"
+msgstr ""
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:5
+msgid "Use AF Companion to import live demo content, widgets, and settings swiftly. This plugin gives fundamental layout to build your website and accelerate the development process."
+msgstr ""
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:9
+msgid "You may design complicated layouts for your website in just a few minutes with our adaptable and inventive blocks."
+msgstr ""
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:13
+msgid "Get ready-to-use Starter Sites instantly and build modern websites in minutes."
+msgstr ""
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:17
+msgid "DESIGN PERFECT BLOG, NEWS, OR MAGAZINE WEBSITES Elespare is a simple yet effective WordPress plugin that lets you use Elementor to create fantastic Header, Footer and Contents of websites with highly customization options for FREE. "
+msgstr ""
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:21
+msgid "A beautiful collection of latest posts Gutenberg blocks for WordPress, which helps you to design posts grid, posts list, full posts layout, advanced express posts design and tile layouts of your posts."
+msgstr ""
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:25
+msgid "We build a beautiful series of page section Gutenberg blocks for WordPress content to help you quickly create the website you've always desired."
+msgstr ""
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:29
+msgid "It has 3 different widgets for post's author, selective author by id and custom author. It also provides shortcodes for the author profile."
+msgstr ""
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:33
+msgid "This free plugin offers a free live chat solution for your website visitors to contact you via live chat or a live call - all for free! Engage with your customers and increase sales."
+msgstr ""
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:37
+msgid "A free WordPress Plugin which facilitates with the functionality to submit Posts from frontend with or without logging in with various configurable options."
+msgstr ""
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:41
+msgid "This plugin helps you grow your Mailchimp lists and write better newsletters through various methods. You can create good looking opt-in forms or integrate with any existing form on your site, like your comment, contact or checkout form."
+msgstr ""
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:48
+#: admin-dashboard/src/components/json/useful-plugins-content.js:53
+msgid "Get Started with Beautiful Starter Templates."
+msgstr ""
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:49
+msgid "Use templatespare to import live demo content, widgets, and settings swiftly. This plugin gives fundamental layout to build your website and accelerate the development process."
+msgstr ""
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:54
+msgid "Use blockspare to import live demo content, widgets, and settings swiftly. This plugin gives fundamental layout to build your website and accelerate the development process."
+msgstr ""
+
+#: admin-dashboard/src/components/main.js:54
+msgid "Get started"
+msgstr ""
+
+#: admin-dashboard/src/components/main.js:69
+msgid "Premium Plugins"
+msgstr ""
+
+#: admin-dashboard/src/components/main.js:77
+msgid "Change Log"
+msgstr ""
+
+#: admin-dashboard/src/components/nav-content/home.js:26
+msgid "Go to option"
+msgstr ""
+
+#: admin-dashboard/src/components/nav-content/premium-plugins.js:24
+msgid "Buy Now"
+msgstr ""
+
+#: admin-dashboard/src/components/templatespare-demo.js:60
+msgid "Update Templatespare"
+msgstr ""
+
+#: admin-dashboard/src/components/templatespare-demo.js:75
+msgid "Create Your Dream Website in Minutes!"
+msgstr ""
+
+#: admin-dashboard/src/components/templatespare-demo.js:79
+msgid "No coding needed. One-click import of expert-made starter sites with customizer, widgets, Elementor Template Kits, and Gutenberg Patterns. Start now with Templatespare Plugin!"
+msgstr ""
+
+#: admin-dashboard/src/components/templatespare-demo.js:225
+msgid "Preview"
+msgstr ""
+
+#: admin-dashboard/src/components/templatespare-demo.js:232
+msgid "All Themes Plan"
+msgstr ""

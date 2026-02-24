@@ -1,0 +1,4078 @@
+# Translation of Themes - News Magazine X in Italian
+# This file is distributed under the same license as the Themes - News Magazine X package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-10-26 15:19:07+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: it\n"
+"Project-Id-Version: Themes - News Magazine X\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Easy to use Personal and Multi-Author Free WordPress Blog Magazine Theme - Suitable for WordPress Beginners and for Professionals as Well. Perfect for bloggers, journalists, and online magazines, news, blogs, and magazine websites. The theme has built in Magazine Grid Widget, Classic Post Grid Widget, Featured Tabs widget, Featured Post Widget, Subscription (newsletter) Widget, Category List widget and many other widgets. You can place your ads anywhere on the website, including the header, footer, various homepage sections, and other pages as well. The theme also offers a Header Footer builder with a Menu Widget, Logo Widget, News Ticker Widget, Social Icons Widget, Search Widget, Dark Mode Switcher Widget, Weather Widget (PRO), Random Post Widget, Offcanvas Widget (side menu) Widget, Header Image and another widget to build eye catching headers and footers. Clean and Modern Responsive design will perfectly showcase your content on any device, even on tablet, mobile & retina displays. Very fast, Search engine optimized fast loading speed, and SEO optimization, compatibility with many popular plugins & of course translation ready, coded with best SEO practices. Complies with the General Data Protection Regulation (GDPR) guidelines by refraining from collecting any personal data restricted under GDPR. Works perfectly with all major drag-and-drop page builders like Elementor, Gutenberg, Brizy, Beaver Builder, Visual Composer, SiteOrigin, Divi. You just need to write and be awesome! TEMPLATE DEMO: https://news-magazine-x-free.wp-royal-themes.com/demo/"
+msgstr "Tema per blog e riviste WordPress gratuito, personale e multi-autore, facile da usare - Adatto sia ai principianti di WordPress che ai professionisti. Perfetto per blogger, giornalisti e siti web di riviste, notizie, blog e riviste online. Il tema ha integrato Widget griglia rivista, Widget griglia post classico, Widget Schede in evidenza, Widget post in evidenza, Widget di iscrizione (newsletter), Widget Elenco Categorie e molti altri widget. Puoi posizionare i tuoi annunci ovunque sul sito web, inclusi header, footer, varie sezioni della home page e altre pagine. Il tema offre anche un generatore di header footer con un menu widget, widget del logo, widget ticker notizie, widget icone social, widget di ricerca, widget di commutazione modalità scura, widget meteo (PRO), widget di post casuale, widget fuori tela (side menu), immagine di intestazione e un altro widget per creare intestazioni e footer accattivanti. Il design pulito e moderno Responsive mostrerà perfettamente i tuoi contenuti su qualsiasi dispositivo, anche su tablet, dispositivi mobili e display Retina. Molto veloce, velocità di caricamento veloce ottimizzata per i motori di ricerca e ottimizzazione SEO, compatibilità con molti plugin popolari e, naturalmente, pronto per la traduzione, codificato con le migliori pratiche SEO. Conforme alle linee guida del Regolamento generale sulla protezione dei dati (GDPR) astenendosi dal raccogliere dati personali limitati dal GDPR. Funziona perfettamente con tutti i principali costruttori di pagine drag-and-drop come Elementor, Gutenberg, Brizy, Beaver Builder, Visual Composer, SiteOrigin, Divi. Devi solo scrivere ed essere fantastico! DEMO DEL MODELLO: https://news-magazine-x-free.wp-royal-themes.com/demo/"
+
+#. Theme Name of the theme
+#: style.css includes/admin/menu/class-newsx-admin-menu.php:20
+#: includes/admin/menu/class-newsx-admin-menu.php:21
+#: includes/admin/menu/page-content.php:34 includes/helpers/utilities.php:85
+#, gp-priority: high
+msgid "News Magazine X"
+msgstr "Rivista di notizie X"
+
+#: includes/customizer/sections/header/elements/site-identity.php:70
+msgid "H1 (Adaptive)"
+msgstr ""
+
+#: includes/customizer/sections/header/elements/site-identity.php:66
+msgid "Only applied to Front Page and Blog Page."
+msgstr ""
+
+#: includes/customizer/sections/header/elements/site-identity.php:65
+msgid "Site Title Tag"
+msgstr ""
+
+#: includes/customizer/sections/register-sections.php:274
+msgid "Featured Image"
+msgstr ""
+
+#: includes/customizer/extend/custom-controls.php:147
+msgid "Upgrade to Pro ☆"
+msgstr ""
+
+#: template-parts/blog-single/single-wrap.php:158
+msgid "Continue Reading"
+msgstr ""
+
+#: includes/admin/menu/tab-welcome.php:77
+#: includes/admin/menu/tab-welcome.php:87
+#: includes/admin/menu/tab-welcome.php:97
+msgid "Tutorial"
+msgstr ""
+
+#: includes/admin/menu/tab-welcome.php:28
+msgid "PRO"
+msgstr ""
+
+#: includes/admin/menu/tab-free-vs-pro.php:266
+msgid "You can Activate the License on Staging/testing sites and this will not count as real activation."
+msgstr ""
+
+#: includes/admin/menu/tab-free-vs-pro.php:265
+msgid "Free Localhost / Staging / Test Licenses"
+msgstr ""
+
+#: includes/admin/menu/tab-free-vs-pro.php:258
+msgid "Includes the full collection of Premium Starter Templates"
+msgstr ""
+
+#: includes/admin/menu/tab-free-vs-pro.php:257
+msgid "Access to PRO Starter Templates"
+msgstr ""
+
+#: includes/admin/menu/tab-free-vs-pro.php:250
+msgid "Multiple animation styles and customizable settings for your page preloader."
+msgstr ""
+
+#: includes/admin/menu/tab-free-vs-pro.php:249
+msgid "Page Preloader"
+msgstr ""
+
+#: includes/customizer/sections/register-sections.php:457
+msgid "Preloader"
+msgstr ""
+
+#: includes/customizer/extend/custom-controls.php:143
+msgid "Try Options ➝"
+msgstr ""
+
+#: includes/customizer/extend/custom-controls.php:21
+msgid "News Magazine X theme comes with multiple starter templates. Click the button below to see what is this theme capable of."
+msgstr ""
+
+#: includes/customizer/sections/header/elements/date-and-time.php:37
+msgid "Show Icons"
+msgstr ""
+
+#: includes/customizer/sections/header/elements/date-and-time.php:26
+msgid "Show Live Time"
+msgstr ""
+
+#: includes/customizer/sections/global/layout.php:73
+msgid "Apply Island Style to visually separate some element from the rest of the page with a boxed, padded layout. Works best when the site background is NOT pure white."
+msgstr ""
+
+#: includes/customizer/sections/global/layout.php:72
+msgid "Apply Global Island Style"
+msgstr ""
+
+#: includes/customizer/sections/global/typography.php:49
+msgid "Heading Font"
+msgstr ""
+
+#: includes/admin/menu/tab-support.php:32
+msgid "Video Tutorials"
+msgstr ""
+
+#: includes/widgets/newsx-featured-posts-widget.php:166
+#: includes/widgets/newsx-featured-tabs-widget.php:209
+#: includes/widgets/newsx-grid-widget.php:165
+#: includes/widgets/newsx-list-widget.php:173
+#: includes/widgets/newsx-magazine-widget.php:144
+msgid "No posts found"
+msgstr "Nessun articolo trovato"
+
+#: includes/admin/menu/tab-welcome.php:147
+msgid "Watch Video Tutorial →"
+msgstr "Guarda il video tutorial →"
+
+#: includes/admin/menu/tab-welcome.php:144
+msgid "Video Tutorial"
+msgstr "Tutorial video"
+
+#: includes/admin/menu/tab-welcome.php:141
+msgid "Getting Started Video"
+msgstr "Video introduttivo"
+
+#: includes/admin/menu/tab-free-vs-pro.php:14
+#: includes/admin/menu/tab-free-vs-pro.php:276
+#: includes/customizer/extend/custom-controls.php:30
+msgid "Try Before Buy ➝"
+msgstr "Prova prima di acquistare ➝"
+
+#: includes/admin/menu/tab-free-vs-pro.php:218
+msgid "Create Audio, Video, Gallery Blog Posts with unique, modern and minimal styling. Full control over your Blog Posts."
+msgstr "Crea post di blog audio, video e gallerie con uno stile unico, moderno e minimale. Controllo completo sui tuoi post di blog."
+
+#: includes/admin/menu/tab-free-vs-pro.php:217
+msgid "Post Formats Support"
+msgstr "Supporto formati post"
+
+#: includes/widgets/newsx-grid-widget.php:12
+msgid "NewsX: Posts Grid Layout"
+msgstr "NewsX: Layout griglia post"
+
+#: includes/customizer/sections/register-sections.php:21
+msgid "About News Magazine X"
+msgstr "Informazioni su News Magazine X"
+
+#. translators: %s theme name
+#: includes/customizer/extend/custom-controls.php:51
+msgid "Need more details? Please check our full documentation for detailed information on how to use %s."
+msgstr "Hai bisogno di maggiori dettagli? Consulta la nostra documentazione completa per informazioni dettagliate su come utilizzare %s."
+
+#: includes/customizer/extend/custom-controls.php:43
+msgid "Get Started"
+msgstr "Inizia"
+
+#: includes/customizer/extend/custom-controls.php:42
+msgid "Demo Preview Page."
+msgstr "Pagina di anteprima demo."
+
+#: includes/customizer/extend/custom-controls.php:41
+msgid "All you need for startup: Demo Import, Video Tutorials and more. To see what News Magazine X theme can offer, please visit a "
+msgstr "Tutto ciò di cui hai bisogno per l'avvio: importazione demo, tutorial video e altro ancora. Per vedere cosa può offrire il tema News Magazine X, visita un "
+
+#: includes/customizer/extend/custom-controls.php:40
+msgid "Demo Import / Getting Started"
+msgstr "Importazione demo / Introduzione"
+
+#: includes/customizer/extend/custom-controls.php:37
+msgid "Contact Us"
+msgstr "Contattaci"
+
+#: includes/customizer/extend/custom-controls.php:36
+msgid "If you have any kind of theme related questions, feel free to ask."
+msgstr "Se avete domande relative a qualsiasi argomento, non esitate a contattarci."
+
+#: includes/customizer/extend/custom-controls.php:29
+msgid "Get News Magazine X Pro"
+msgstr "Ottieni News Magazine X Pro"
+
+#: includes/customizer/extend/custom-controls.php:28
+msgid "There are lots of reasons to upgrade to Pro version. Unlimited custom Colors, rich Typography options, multiple variation of Blog Feed layout and way much more. Also Premium Support included."
+msgstr "Ci sono molti motivi per passare alla versione Pro. Colori personalizzati illimitati, ricche opzioni di tipografia, molteplici varianti di layout del Blog Feed e molto altro. Anche il supporto Premium è incluso."
+
+#: includes/customizer/extend/custom-controls.php:27
+msgid "Upgrade"
+msgstr "Aggiorna"
+
+#: includes/admin/menu/tab-welcome.php:46
+#: includes/admin/notices/class-newsx-welcome-notice.php:86
+#: includes/customizer/extend/custom-controls.php:22
+msgid "Theme Demo Preview"
+msgstr "Anteprima demo del tema"
+
+#: includes/admin/menu/tab-support.php:43
+msgid "You can also contact us via email for any support related queries."
+msgstr "Puoi anche contattarci via email per qualsiasi domanda relativa all'assistenza."
+
+#: includes/admin/menu/tab-support.php:42
+#: includes/admin/menu/tab-support.php:46
+msgid "Email Support"
+msgstr "Email supporto"
+
+#: includes/admin/menu/tab-support.php:36
+msgid "Watch Tutorials"
+msgstr "Guarda Tutorial"
+
+#: includes/admin/menu/tab-support.php:33
+msgid "Watch our video tutorials to learn how to use News Magazine X theme."
+msgstr "Guarda i nostri tutorial video per imparare a utilizzare il tema News Magazine X."
+
+#: includes/admin/menu/tab-support.php:26
+msgid "Get Support"
+msgstr "Ottieni Supporto"
+
+#: includes/admin/menu/tab-support.php:23
+msgid "Have a question or need help? Our support team is here to assist you."
+msgstr "Hai una domanda o hai bisogno di aiuto? Il nostro team di supporto è qui per assisterti."
+
+#: includes/admin/menu/tab-support.php:22
+msgid "Support Forum"
+msgstr "Forum di Supporto"
+
+#: includes/admin/menu/tab-support.php:16
+msgid "Read Documentation"
+msgstr "Leggi la Documentazione"
+
+#: includes/admin/menu/tab-support.php:13
+msgid "Need help setting up News Magazine X? Our documentation covers it all."
+msgstr "Hai bisogno di aiuto per configurare News Magazine X? La nostra documentazione copre tutto."
+
+#: includes/admin/menu/tab-starter-templates.php:11
+msgid "Click the button below to begin your journey with ease."
+msgstr "Clicca sul pulsante qui sotto per iniziare il tuo viaggio in tutta semplicità."
+
+#: includes/admin/menu/tab-starter-templates.php:10
+msgid "Unlock endless possibilities by installing the Starter Templates plugin!"
+msgstr "Sblocca infinite possibilità installando il plugin Starter Templates!"
+
+#: includes/admin/menu/tab-free-vs-pro.php:242
+msgid "Add up to 6 widget areas to the footer."
+msgstr "Aggiungi fino a 6 aree widget al piè di pagina."
+
+#: includes/admin/menu/tab-free-vs-pro.php:241
+msgid "Footer Widget Areas"
+msgstr "Piè di pagina Widget Area"
+
+#: includes/admin/menu/tab-free-vs-pro.php:234
+msgid "Sticky Sidebar, Custom Sidebar Width, Left & Right Sidebar, No Sidebar, etc."
+msgstr "Barra laterale fissa, larghezza barra laterale personalizzata, barra laterale sinistra e destra, nessuna barra laterale, ecc."
+
+#: includes/admin/menu/tab-free-vs-pro.php:226
+msgid "Customize Header, Footer, and Page Backgrounds with Background Color, Image, and Gradient."
+msgstr "Personalizza l'intestazione, il piè di pagina e gli sfondi della pagina con colore di sfondo, immagine e sfumatura."
+
+#: includes/admin/menu/tab-free-vs-pro.php:225
+msgid "Custom Background Styling"
+msgstr "Stile di sfondo personalizzato"
+
+#: includes/admin/menu/tab-free-vs-pro.php:213
+msgid "3 Locations"
+msgstr "3 Posizioni"
+
+#: includes/admin/menu/tab-free-vs-pro.php:212
+msgid "1 Location"
+msgstr "1 Posizione"
+
+#: includes/admin/menu/tab-free-vs-pro.php:210
+msgid "Display social sharing buttons in post header and/or as a floating sharing bar."
+msgstr "Visualizza i pulsanti di condivisione social nell'intestazione del post e/o come barra di condivisione mobile."
+
+#: includes/admin/menu/tab-free-vs-pro.php:209
+msgid "Single Post: Social Sharing"
+msgstr "Post singolo: Condivisione social"
+
+#: includes/admin/menu/tab-free-vs-pro.php:202
+msgid "Choose from 8 different layouts for the single post navigation."
+msgstr "Scegli tra 8 diversi layout per la navigazione dei singoli post."
+
+#: includes/admin/menu/tab-free-vs-pro.php:201
+msgid "Single Post: Navigation Layouts"
+msgstr "Post singolo: Layout di navigazione"
+
+#: includes/admin/menu/tab-free-vs-pro.php:194
+msgid "Add a auto load next post at the end of the single post on scroll."
+msgstr "Aggiungere il caricamento automatico del post successivo alla fine del singolo post durante lo scorrimento."
+
+#: includes/admin/menu/tab-free-vs-pro.php:193
+msgid "Single Post: Auto Load Next Post"
+msgstr "Post singolo: caricamento automatico post successivo"
+
+#: includes/admin/menu/tab-free-vs-pro.php:186
+msgid "Add a reading progress bar to the single posts."
+msgstr "Aggiungere una barra di avanzamento della lettura ai singoli post."
+
+#: includes/admin/menu/tab-free-vs-pro.php:185
+msgid "Single Post: Reading Progress Bar"
+msgstr "Post singolo: Barra di avanzamento della lettura"
+
+#: includes/admin/menu/tab-free-vs-pro.php:178
+msgid "Add a reading time and post views to the single post header."
+msgstr "Aggiungi un tempo di lettura e le visualizzazioni del post all'intestazione del singolo post."
+
+#: includes/admin/menu/tab-free-vs-pro.php:177
+msgid "Single Post: Reading Time and Post Views"
+msgstr "Post singolo: tempo di lettura e visualizzazioni dei post"
+
+#: includes/admin/menu/tab-free-vs-pro.php:170
+msgid "Add a table of contents to the single post content."
+msgstr "Aggiungere un indice al contenuto del singolo post."
+
+#: includes/admin/menu/tab-free-vs-pro.php:169
+msgid "Single Post: Table of Contents"
+msgstr "Post singolo: Indice"
+
+#: includes/admin/menu/tab-free-vs-pro.php:165
+#: includes/admin/menu/tab-free-vs-pro.php:205
+msgid "8"
+msgstr "8"
+
+#: includes/admin/menu/tab-free-vs-pro.php:162
+msgid "Choose from 8 different styles of single post layouts."
+msgstr "Scegli tra 8 diversi stili di layout per singoli post."
+
+#: includes/admin/menu/tab-free-vs-pro.php:161
+msgid "Single Post Layouts"
+msgstr "Layout dei singoli post"
+
+#: includes/admin/menu/tab-free-vs-pro.php:154
+msgid "Display a video playlist widget with a up to 6 custom video URLs."
+msgstr "Visualizza un widget di playlist video con un massimo di 6 URL video personalizzati."
+
+#: includes/admin/menu/tab-free-vs-pro.php:153
+msgid "Video Playlist Widget"
+msgstr "Widget playlist video"
+
+#: includes/admin/menu/tab-free-vs-pro.php:146
+msgid "Display a weather forecast widget with auto location detection. "
+msgstr "Visualizza un widget delle previsioni meteo con rilevamento automatico della posizione. "
+
+#: includes/admin/menu/tab-free-vs-pro.php:145
+msgid "Weather Forecast Widget"
+msgstr "Widget delle previsioni del tempo"
+
+#: includes/admin/menu/tab-free-vs-pro.php:138
+msgid "Display your posts in a slider or carousel (2, 3, 4 Columns)."
+msgstr "Visualizza i tuoi post in uno slider o in un carosello (2, 3, 4 colonne)."
+
+#: includes/admin/menu/tab-free-vs-pro.php:137
+msgid "Posts Slider / Carousel Widget"
+msgstr "Widget Slider/Carosello dei post"
+
+#: includes/admin/menu/tab-free-vs-pro.php:130
+msgid "Display your posts in a grid layout with 1, 2, 3 or 4 columns."
+msgstr "Visualizza i tuoi post in un layout a griglia con 1, 2, 3 o 4 colonne."
+
+#: includes/admin/menu/tab-free-vs-pro.php:129
+msgid "Posts Grid Widget Layouts"
+msgstr "Layout widget griglia post"
+
+#: includes/admin/menu/tab-free-vs-pro.php:125
+msgid "9"
+msgstr "9"
+
+#: includes/admin/menu/tab-free-vs-pro.php:122
+msgid "Display your posts in a list layout with up to 9 different layouts."
+msgstr "Visualizza i tuoi post in un layout elenco con un massimo di 9 layout diversi."
+
+#: includes/admin/menu/tab-free-vs-pro.php:121
+msgid "Magazine List Widget Layouts"
+msgstr "Layout widget elenco riviste"
+
+#: includes/admin/menu/tab-free-vs-pro.php:117
+msgid "12"
+msgstr "12"
+
+#: includes/admin/menu/tab-free-vs-pro.php:114
+msgid "Display your posts in a grid layout with up to 12 different layouts."
+msgstr "Visualizza i tuoi post in un layout a griglia con un massimo di 12 layout diversi."
+
+#: includes/admin/menu/tab-free-vs-pro.php:113
+msgid "Magazine Grid Widget Layouts"
+msgstr "Layout widget griglia rivista"
+
+#: includes/admin/menu/tab-free-vs-pro.php:109
+msgid "10 Sections"
+msgstr "10 Sezioni"
+
+#: includes/admin/menu/tab-free-vs-pro.php:108
+msgid "3 Sections"
+msgstr "3 Sezioni"
+
+#: includes/admin/menu/tab-free-vs-pro.php:106
+msgid "Add up to 10 sections, Choose from 4 different Layouts, stretch sections to full width."
+msgstr "Aggiungi fino a 10 sezioni, scegli tra 4 layout diversi, estendi le sezioni a larghezza intera."
+
+#: includes/admin/menu/tab-free-vs-pro.php:98
+msgid "Add a call to action button to the header with a custom link."
+msgstr "Aggiungi un pulsante di invito all'azione all'intestazione con un collegamento personalizzato."
+
+#: includes/admin/menu/tab-free-vs-pro.php:97
+msgid "Header: Call To Action Button"
+msgstr "Intestazione: pulsante di invito all'azione"
+
+#: includes/admin/menu/tab-free-vs-pro.php:93
+msgid "AJAX Search"
+msgstr "Ricerca AJAX"
+
+#: includes/admin/menu/tab-free-vs-pro.php:92
+msgid "Classic Search"
+msgstr "Ricerca Classica"
+
+#: includes/admin/menu/tab-free-vs-pro.php:90
+msgid "Enable AJAX search in the header search form. Choose from 3 different search styles."
+msgstr "Abilita la ricerca AJAX nel modulo di ricerca dell'intestazione. Scegli tra 3 diversi stili di ricerca."
+
+#: includes/admin/menu/tab-free-vs-pro.php:89
+msgid "Header: Search Form (AJAX)"
+msgstr "Intestazione: Modulo di ricerca (AJAX)"
+
+#: includes/admin/menu/tab-free-vs-pro.php:82
+msgid "Add a weather forecast widget with auto location detection to the header."
+msgstr "Aggiungi all'intestazione un widget per le previsioni meteo con rilevamento automatico della posizione."
+
+#: includes/admin/menu/tab-free-vs-pro.php:81
+msgid "Header: Weather Forecast Widget"
+msgstr "Intestazione: Widget previsioni meteo"
+
+#: includes/admin/menu/tab-free-vs-pro.php:74
+msgid "Add an ad banner to the header with Custom HTML or Header Widget Areas."
+msgstr "Aggiungi un banner pubblicitario all'intestazione con HTML personalizzato o aree widget dell'intestazione."
+
+#: includes/admin/menu/tab-free-vs-pro.php:73
+msgid "Header: Advertisement Banner"
+msgstr "Intestazione: Banner pubblicitario"
+
+#: includes/admin/menu/tab-free-vs-pro.php:66
+msgid "Custom Sticky options for Top, Middle and Bottom sections of the header."
+msgstr "Opzioni personalizzate per le sezioni superiore, centrale e inferiore dell'intestazione."
+
+#: includes/admin/menu/tab-free-vs-pro.php:58
+msgid "1000+ Google Fonts. Advanced typography options and customization."
+msgstr "Oltre 1000 Google Fonts. Opzioni tipografiche avanzate e personalizzazione."
+
+#: includes/admin/menu/page-content.php:55
+msgid "Theme Documentation"
+msgstr "Documentazione Tema"
+
+#: includes/admin/menu/page-content.php:45
+msgid "V"
+msgstr "V"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "Molto grande"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Grande"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Medio"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Piccolo"
+
+#: template-parts/header/elements/site-identity.php:34
+#: template-parts/header/elements/site-identity.php:49
+msgid "Home"
+msgstr "Home"
+
+#: template-parts/header/elements/dark-switcher.php:11
+msgid "Switch to Light"
+msgstr "Passa alla luce"
+
+#: template-parts/header/elements/dark-switcher.php:10
+msgid "Switch to Dark"
+msgstr "Passa a Scuro"
+
+#: template-parts/front-page/content.php:15
+#: template-parts/front-page/left-sidebar.php:15
+#: template-parts/front-page/right-sidebar.php:15
+msgid "Please Select Widgets Area."
+msgstr "Selezionare l'area widget."
+
+#: template-parts/footer/elements/copyright.php:24
+msgid "Powered by %s"
+msgstr "Powered by %s"
+
+#: template-parts/blog-single/sources.php:36
+msgid "Via:"
+msgstr "Via:"
+
+#: template-parts/blog-single/sources.php:23
+msgid "Sources:"
+msgstr "Fonti:"
+
+#: template-parts/blog-single/sources.php:15
+msgid "Tagged:"
+msgstr "Tag:"
+
+#: template-parts/blog-single/header.php:96
+msgid "Updated: "
+msgstr "Aggiornato: "
+
+#: template-parts/blog-single/header.php:64
+msgid "By "
+msgstr "Di "
+
+#: template-parts/blog-single/author.php:245
+msgid "Rss"
+msgstr "Rss"
+
+#: template-parts/blog-single/author.php:230
+msgid "Vkontakte"
+msgstr "Vkontakte"
+
+#: template-parts/blog-single/author.php:215
+msgid "SoundCloud"
+msgstr "SoundCloud"
+
+#: template-parts/blog-single/author.php:205
+msgid "Digg"
+msgstr "Digg"
+
+#: template-parts/blog-single/author.php:200
+msgid "Bloglovin"
+msgstr "Bloglovin"
+
+#: template-parts/blog-single/author.php:195
+msgid "SnapChat"
+msgstr "Snapchat"
+
+#: template-parts/blog-single/author.php:190
+msgid "Skype"
+msgstr "Skype"
+
+#: template-parts/blog-single/author.php:185
+msgid "Flickr"
+msgstr "Flickr"
+
+#: template-parts/blog-single/author.php:160
+msgid "Google News"
+msgstr "Notizie di Google"
+
+#: template-parts/blog-single/author.php:155
+msgid "YouTube"
+msgstr "YouTube"
+
+#: template-parts/blog-single/author.php:140
+msgid "Website"
+msgstr "Sito web"
+
+#: searchform.php:13
+msgid "Search Submit"
+msgstr "Invia Ricerca"
+
+#: searchform.php:12
+msgid "Search..."
+msgstr "Cerca..."
+
+#: searchform.php:11
+msgid "Search for:"
+msgstr "Cerca:"
+
+#: page.php:40 template-parts/blog-single/content.php:24
+msgid "Pages:"
+msgstr "Pagine:"
+
+#: includes/widgets/register-sidebars.php:104
+msgid "Footer Widgets %d"
+msgstr "Widget piè di pagina %d"
+
+#: includes/widgets/register-sidebars.php:91
+msgid "General Right Sidebar"
+msgstr "Barra laterale destra generale"
+
+#: includes/widgets/register-sidebars.php:81
+msgid "General Left Sidebar"
+msgstr "Barra laterale sinistra generale"
+
+#: includes/widgets/register-sidebars.php:69
+msgid "Front Page Widgets %d Right Sidebar"
+msgstr "Widget della prima pagina %d Barra laterale destra"
+
+#: includes/widgets/register-sidebars.php:58
+msgid "Front Page Widgets %d Left Sidebar"
+msgstr "Widget della prima pagina %d Barra laterale sinistra"
+
+#: includes/widgets/register-sidebars.php:47
+msgid "Front Page Widgets %d Content"
+msgstr "Widget della prima pagina %d Contenuto"
+
+#: includes/widgets/register-sidebars.php:34
+msgid "Header Widgets 2"
+msgstr "Widget di intestazione 2"
+
+#: includes/widgets/register-sidebars.php:24
+msgid "Header Widgets 1"
+msgstr "Widget di intestazione 1"
+
+#: includes/widgets/register-sidebars.php:13
+msgid "Header Off-Canvas"
+msgstr "Intestazione fuori tela"
+
+#: includes/widgets/presets/class-newsx-category-list-widget-presets.php:109
+msgid "Articles"
+msgstr "Articoli"
+
+#: includes/widgets/newsx-social-icons-widget.php:268
+msgid "Join"
+msgstr "Partecipa"
+
+#: includes/widgets/newsx-social-icons-widget.php:267
+msgid "Members"
+msgstr "Membri"
+
+#: includes/widgets/newsx-social-icons-widget.php:263
+msgid "Subscribe"
+msgstr "Iscriviti"
+
+#: includes/widgets/newsx-social-icons-widget.php:262
+msgid "Subscribers"
+msgstr "Iscritti"
+
+#: includes/widgets/newsx-social-icons-widget.php:258
+msgid "Pin"
+msgstr "Pin"
+
+#: includes/widgets/newsx-social-icons-widget.php:254
+msgid "Like"
+msgstr "Mi piace"
+
+#: includes/widgets/newsx-social-icons-widget.php:253
+msgid "Fans"
+msgstr "Fans"
+
+#: includes/widgets/newsx-social-icons-widget.php:250
+msgid "Follow"
+msgstr "Segui"
+
+#: includes/widgets/newsx-social-icons-widget.php:249
+msgid "Followers"
+msgstr "Followers"
+
+#: includes/widgets/newsx-social-icons-widget.php:202
+msgid "Thousand Separator"
+msgstr "Separatore migliaia"
+
+#: includes/widgets/newsx-social-icons-widget.php:200
+msgid "Choose 1 or 2 Columns"
+msgstr "Scegli 1 o 2 colonne"
+
+#: includes/widgets/newsx-social-icons-widget.php:199
+msgid "3 Social Icon Styles"
+msgstr "3 stili di icone social"
+
+#: includes/widgets/newsx-social-icons-widget.php:198
+msgid "3 Social Icon Layout"
+msgstr "3 Layout delle icone social"
+
+#: includes/widgets/newsx-social-icons-widget.php:176
+#: template-parts/blog-single/author.php:210
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: includes/widgets/newsx-social-icons-widget.php:162
+#: template-parts/blog-single/author.php:220
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: includes/widgets/newsx-social-icons-widget.php:148
+msgid "Soundcloud"
+msgstr "Soundcloud"
+
+#: includes/widgets/newsx-social-icons-widget.php:120
+msgid "Tiktok"
+msgstr "Tiktok"
+
+#: includes/widgets/newsx-social-icons-widget.php:106
+msgid "Youtube"
+msgstr "Youtube"
+
+#: includes/widgets/newsx-social-icons-widget.php:78
+#: template-parts/blog-single/author.php:170
+msgid "Instagram"
+msgstr "Instagram"
+
+#: includes/widgets/newsx-social-icons-widget.php:64
+#: template-parts/blog-single/author.php:150
+msgid "X (Twitter)"
+msgstr "X (Twitter)"
+
+#: includes/widgets/newsx-social-icons-widget.php:60
+#: includes/widgets/newsx-social-icons-widget.php:74
+#: includes/widgets/newsx-social-icons-widget.php:88
+#: includes/widgets/newsx-social-icons-widget.php:102
+#: includes/widgets/newsx-social-icons-widget.php:116
+#: includes/widgets/newsx-social-icons-widget.php:130
+#: includes/widgets/newsx-social-icons-widget.php:144
+#: includes/widgets/newsx-social-icons-widget.php:158
+#: includes/widgets/newsx-social-icons-widget.php:172
+#: includes/widgets/newsx-social-icons-widget.php:186
+msgid "Likes / Followers Count"
+msgstr "Mi piace / conteggio dei follower"
+
+#: includes/widgets/newsx-social-icons-widget.php:55
+#: includes/widgets/newsx-social-icons-widget.php:69
+#: includes/widgets/newsx-social-icons-widget.php:83
+#: includes/widgets/newsx-social-icons-widget.php:97
+#: includes/widgets/newsx-social-icons-widget.php:111
+#: includes/widgets/newsx-social-icons-widget.php:125
+#: includes/widgets/newsx-social-icons-widget.php:139
+#: includes/widgets/newsx-social-icons-widget.php:153
+#: includes/widgets/newsx-social-icons-widget.php:167
+#: includes/widgets/newsx-social-icons-widget.php:181
+msgid "Social URL"
+msgstr "URL sociale"
+
+#: includes/widgets/newsx-social-icons-widget.php:40
+msgid "Use Original colors"
+msgstr "Usa i colori originali"
+
+#: includes/widgets/newsx-social-icons-widget.php:12
+msgid "NewsX: Social Icons"
+msgstr "NewsX: icone social"
+
+#: includes/widgets/newsx-newsletter-widget.php:36
+#: includes/widgets/newsx-newsletter-widget.php:41
+msgid "Description"
+msgstr "Descrizione"
+
+#: includes/widgets/newsx-newsletter-widget.php:12
+msgid "NewsX: Mailchimp Newsletter"
+msgstr "NewsX: Newsletter di Mailchimp"
+
+#: includes/widgets/newsx-magazine-widget.php:93
+msgid "Custom Container Height"
+msgstr "Altezza contenitore personalizzata"
+
+#: includes/widgets/newsx-magazine-widget.php:90
+msgid "12 Magazine Grid Layouts"
+msgstr "12 layout di griglia di riviste"
+
+#: includes/widgets/newsx-magazine-widget.php:71
+#: includes/widgets/newsx-magazine-widget.php:75
+msgid "5 posts"
+msgstr "5 messaggi"
+
+#: includes/widgets/newsx-magazine-widget.php:31
+#: includes/widgets/newsx-social-icons-widget.php:31
+msgid "Widget Title"
+msgstr "Titolo Widget"
+
+#: includes/widgets/newsx-magazine-widget.php:12
+msgid "NewsX: Magazine Grid Layout"
+msgstr "NewsX: Layout griglia rivista"
+
+#: includes/widgets/newsx-list-widget.php:108
+msgid "9 List Layouts"
+msgstr "9 Layout di elenco"
+
+#: includes/widgets/newsx-list-widget.php:93
+msgid "1 Column"
+msgstr "1 Colonna"
+
+#: includes/widgets/newsx-list-widget.php:89
+msgid "Two Big"
+msgstr "Due grandi"
+
+#: includes/widgets/newsx-list-widget.php:85
+msgid "One Big Left"
+msgstr "Una grande sinistra"
+
+#: includes/widgets/newsx-list-widget.php:12
+msgid "NewsX: Magazine List Layout"
+msgstr "NewsX: Layout elenco riviste"
+
+#: includes/widgets/newsx-heading-widget.php:38
+msgid "Container Width"
+msgstr "Larghezza Contenitore"
+
+#: includes/widgets/newsx-heading-widget.php:12
+msgid "NewsX: Heading"
+msgstr "NewsX: Titolo"
+
+#: includes/widgets/newsx-grid-widget.php:103
+#: includes/widgets/newsx-list-widget.php:116
+#: includes/widgets/newsx-magazine-widget.php:95
+msgid "Custom Excerpt Length"
+msgstr "Lunghezza estratto personalizzato"
+
+#: includes/widgets/newsx-grid-widget.php:100
+#: includes/widgets/newsx-list-widget.php:113
+#: includes/widgets/newsx-magazine-widget.php:92
+msgid "Show/Hide Post Elements"
+msgstr "Mostra/Nascondi elementi post"
+
+#: includes/widgets/newsx-grid-widget.php:99
+#: includes/widgets/newsx-list-widget.php:112
+msgid "AJAX Pagination"
+msgstr "Paginazione AJAX"
+
+#: includes/widgets/newsx-grid-widget.php:98
+#: includes/widgets/newsx-list-widget.php:111
+msgid "AJAX Load More"
+msgstr "AJAX Carica altro"
+
+#: includes/widgets/newsx-grid-widget.php:97
+#: includes/widgets/newsx-list-widget.php:110
+msgid "AJAX Category Filters"
+msgstr "Filtri di categoria AJAX"
+
+#: includes/widgets/newsx-grid-widget.php:95
+msgid "1, 2, 3, and 4 Column Grid Layouts"
+msgstr "Layout griglia a 1, 2, 3 e 4 colonne"
+
+#: includes/widgets/newsx-grid-widget.php:83
+msgid "Image Size"
+msgstr "Dimensione immagine"
+
+#: includes/widgets/newsx-grid-widget.php:45
+#: includes/widgets/newsx-list-widget.php:45
+msgid "View All Text"
+msgstr "Vedi tutto il testo"
+
+#: includes/widgets/newsx-grid-widget.php:40
+#: includes/widgets/newsx-list-widget.php:40
+msgid "Custom URL"
+msgstr "URL personalizzato"
+
+#: includes/widgets/newsx-grid-widget.php:35
+#: includes/widgets/newsx-list-widget.php:35
+msgid "Extras"
+msgstr "Extra"
+
+#: includes/widgets/newsx-featured-tabs-widget.php:94
+msgid "Display additional 3rd Tab"
+msgstr "Visualizza la terza scheda aggiuntiva"
+
+#: includes/widgets/newsx-featured-tabs-widget.php:57
+msgid "Tab 2"
+msgstr "Scheda 2"
+
+#: includes/widgets/newsx-featured-tabs-widget.php:26
+msgid "Tab 1"
+msgstr "Scheda 1"
+
+#: includes/widgets/newsx-featured-tabs-widget.php:12
+msgid "NewsX: Featured Tabs"
+msgstr "NewsX: Schede in evidenza"
+
+#: includes/widgets/newsx-featured-posts-widget.php:73
+#: includes/widgets/newsx-featured-tabs-widget.php:99
+#: includes/widgets/newsx-grid-widget.php:106
+#: includes/widgets/newsx-list-widget.php:119
+#: includes/widgets/newsx-magazine-widget.php:98
+#: includes/widgets/newsx-social-icons-widget.php:204
+msgid "and much more..."
+msgstr "e molto altro ancora…"
+
+#: includes/widgets/newsx-featured-posts-widget.php:70
+#: includes/widgets/newsx-featured-tabs-widget.php:96
+#: includes/widgets/newsx-grid-widget.php:101
+#: includes/widgets/newsx-list-widget.php:115
+msgid "Show X number of posts"
+msgstr "Mostra X numero di post"
+
+#: includes/widgets/newsx-featured-posts-widget.php:69
+#: includes/widgets/newsx-featured-tabs-widget.php:95
+#: includes/widgets/newsx-grid-widget.php:96
+#: includes/widgets/newsx-list-widget.php:109
+#: includes/widgets/newsx-magazine-widget.php:91
+msgid " Order: Modified, Popular, Random..."
+msgstr " Ordine: Modificato, Popolare, Casuale..."
+
+#: includes/widgets/newsx-featured-posts-widget.php:12
+msgid "NewsX: Featured Posts"
+msgstr "NewsX: Post in evidenza"
+
+#: includes/widgets/newsx-category-list-widget.php:73
+#: includes/widgets/newsx-featured-posts-widget.php:72
+#: includes/widgets/newsx-featured-tabs-widget.php:98
+#: includes/widgets/newsx-grid-widget.php:104
+#: includes/widgets/newsx-list-widget.php:117
+#: includes/widgets/newsx-magazine-widget.php:96
+#: includes/widgets/newsx-newsletter-widget.php:53
+msgid "Change Title HTML Tag"
+msgstr "Cambia il tag HTML del titolo"
+
+#: includes/widgets/newsx-category-list-widget.php:72
+#: includes/widgets/newsx-featured-posts-widget.php:71
+#: includes/widgets/newsx-featured-tabs-widget.php:97
+#: includes/widgets/newsx-grid-widget.php:102
+#: includes/widgets/newsx-heading-widget.php:52
+#: includes/widgets/newsx-list-widget.php:114
+#: includes/widgets/newsx-magazine-widget.php:94
+#: includes/widgets/newsx-social-icons-widget.php:203
+msgid "Custom Accent Color"
+msgstr "Colore accento personalizzato"
+
+#: includes/widgets/newsx-category-list-widget.php:71
+msgid "3 Category List Layouts"
+msgstr "3 Layout dell'elenco delle categorie"
+
+#: includes/widgets/newsx-category-list-widget.php:65
+#: includes/widgets/newsx-featured-posts-widget.php:63
+#: includes/widgets/newsx-featured-tabs-widget.php:88
+#: includes/widgets/newsx-grid-widget.php:89
+#: includes/widgets/newsx-heading-widget.php:46
+#: includes/widgets/newsx-list-widget.php:102
+#: includes/widgets/newsx-magazine-widget.php:84
+#: includes/widgets/newsx-newsletter-widget.php:47
+#: includes/widgets/newsx-social-icons-widget.php:192
+msgid "Premium Options"
+msgstr "Opzioni Premium"
+
+#: includes/widgets/newsx-category-list-widget.php:59
+msgid "Layout Preset"
+msgstr "Preimpostazione di layout"
+
+#: includes/widgets/newsx-category-list-widget.php:31
+#: includes/widgets/newsx-featured-posts-widget.php:31
+#: includes/widgets/newsx-featured-tabs-widget.php:31
+#: includes/widgets/newsx-featured-tabs-widget.php:62
+#: includes/widgets/newsx-grid-widget.php:31
+#: includes/widgets/newsx-list-widget.php:31
+msgid "Title"
+msgstr "Titolo"
+
+#: includes/widgets/newsx-category-list-widget.php:12
+msgid "NewsX: Category List"
+msgstr "NewsX: Elenco categorie"
+
+#: includes/widgets/newsx-category-list-widget.php:11
+#: includes/widgets/newsx-featured-posts-widget.php:11
+#: includes/widgets/newsx-featured-tabs-widget.php:11
+#: includes/widgets/newsx-grid-widget.php:11
+#: includes/widgets/newsx-heading-widget.php:11
+#: includes/widgets/newsx-list-widget.php:11
+#: includes/widgets/newsx-magazine-widget.php:11
+#: includes/widgets/newsx-newsletter-widget.php:11
+#: includes/widgets/newsx-social-icons-widget.php:11
+msgid "Smaple description, remove if needed."
+msgstr "Descrizione semplice, da rimuovere se necessario."
+
+#: includes/widgets/loop/post-elements.php:250
+msgid "Read More"
+msgstr "Leggi di più"
+
+#: includes/widgets/loop/post-elements.php:202
+msgid " ago"
+msgstr " il y a"
+
+#: includes/widgets/extend/abstract-newsx-widget.php:694
+msgid "Upgrade to Pro &#8594;"
+msgstr "Passa a Pro &#8594;"
+
+#: includes/widgets/extend/abstract-newsx-widget.php:322
+msgid "Select an Image"
+msgstr "Seleziona una immagine"
+
+#: includes/widgets/extend/abstract-newsx-widget.php:319
+msgid "Use image"
+msgstr "Usa immagine"
+
+#: includes/widgets/extend/abstract-newsx-widget.php:318
+msgid "Choose an image"
+msgstr "Scegli un'immagine"
+
+#: includes/extra-filters.php:223
+msgid "Leave a comment"
+msgstr "Lascia un commento"
+
+#: includes/extra-filters.php:219
+msgid "Your Website"
+msgstr "Il tuo sito web"
+
+#: includes/extra-filters.php:215
+msgid "Your email"
+msgstr "La tua email"
+
+#: includes/extra-filters.php:212
+msgid "Your name"
+msgstr "Il tuo nome"
+
+#: includes/customizer/sections/register-sections.php:442
+#: includes/customizer/sections/register-sections.php:449
+msgid "Back to Top"
+msgstr "Torna Su"
+
+#: includes/customizer/sections/register-sections.php:413
+msgid "Menu"
+msgstr "Menu"
+
+#: includes/customizer/sections/register-sections.php:406
+msgid "Copyright"
+msgstr "Copyright"
+
+#: includes/customizer/sections/register-sections.php:393
+msgid "Footer Elements"
+msgstr "Elementi a Piè di Pagina"
+
+#: includes/customizer/sections/register-sections.php:357
+msgid "Footer Sections"
+msgstr "Sezioni del piè di pagina"
+
+#: includes/customizer/sections/register-sections.php:352
+msgid "Footer"
+msgstr "Footer"
+
+#: includes/customizer/sections/register-sections.php:341
+msgid "Advanced Options"
+msgstr "Opzioni avanzate"
+
+#: includes/customizer/sections/register-sections.php:334
+msgid "Related Posts"
+msgstr "Articoli correlati"
+
+#: includes/customizer/sections/register-sections.php:326
+msgid "Newsletter (Mailchimp)"
+msgstr "Notiziario (Mailchimp)"
+
+#: includes/customizer/sections/register-sections.php:318
+msgid "Author Box"
+msgstr "Riquadro Autore"
+
+#: includes/customizer/sections/register-sections.php:297
+#: includes/customizer/sections/register-sections.php:304
+msgid "Social Sharing"
+msgstr "Condivisione Social"
+
+#: includes/customizer/sections/register-sections.php:289
+msgid "Post Content"
+msgstr "Contenuto Post"
+
+#: includes/customizer/sections/register-sections.php:281
+msgid "Table of Contents"
+msgstr "Tabella dei Contenuti"
+
+#: includes/customizer/sections/register-sections.php:266
+msgid "Post Header"
+msgstr "Intestazione Articolo"
+
+#: includes/customizer/sections/register-sections.php:261
+msgid "Blog Single"
+msgstr "Blog Singolo"
+
+#: includes/customizer/sections/register-sections.php:251
+msgid "Posts Feed"
+msgstr "Posts Feed"
+
+#: includes/customizer/sections/register-sections.php:245
+msgid "Posts Slider"
+msgstr "Posts Slider"
+
+#: includes/customizer/sections/register-sections.php:240
+msgid "Blog Page"
+msgstr "Pagina Blog"
+
+#: includes/customizer/sections/register-sections.php:177
+msgid "Weather"
+msgstr "Meteo"
+
+#: includes/customizer/sections/register-sections.php:170
+msgid "CTA Button"
+msgstr "Pulsante CTA"
+
+#: includes/customizer/sections/register-sections.php:107
+msgid "Header Elements"
+msgstr "Elementi Header"
+
+#: includes/customizer/sections/register-sections.php:99
+#: includes/customizer/sections/register-sections.php:378
+#: includes/customizer/sections/register-sections.php:385
+msgid "Bottom Section"
+msgstr "Sezione inferiore"
+
+#: includes/customizer/sections/register-sections.php:92
+#: includes/customizer/sections/register-sections.php:370
+msgid "Middle Section"
+msgstr "Sezione centrale"
+
+#: includes/customizer/sections/register-sections.php:85
+#: includes/customizer/sections/register-sections.php:363
+msgid "Top Section"
+msgstr "Sezione superiore"
+
+#: includes/customizer/sections/register-sections.php:79
+msgid "Header Sections"
+msgstr "Sezioni Header"
+
+#: includes/customizer/sections/register-sections.php:74
+msgid "Header"
+msgstr "Header"
+
+#: includes/customizer/sections/register-sections.php:53
+msgid "Sidebar"
+msgstr "Barra laterale"
+
+#: includes/customizer/sections/register-sections.php:30
+msgid "Global"
+msgstr "Globale"
+
+#: includes/customizer/sections/header/rows/bottom-section.php:197
+#: includes/customizer/sections/header/rows/middle-section.php:192
+#: includes/customizer/sections/header/rows/top-section.php:177
+msgid "Header Widgets Area 2"
+msgstr "Area widget intestazione 2"
+
+#: includes/customizer/sections/header/rows/bottom-section.php:196
+#: includes/customizer/sections/header/rows/middle-section.php:191
+#: includes/customizer/sections/header/rows/top-section.php:176
+msgid "Header Widgets Area 1"
+msgstr "Area widget intestazione 1"
+
+#: includes/customizer/sections/header/rows/bottom-section.php:193
+#: includes/customizer/sections/header/rows/middle-section.php:188
+#: includes/customizer/sections/header/rows/top-section.php:173
+msgid "Call to Action Button"
+msgstr "Bottone Call to action"
+
+#: includes/customizer/sections/header/rows/bottom-section.php:192
+#: includes/customizer/sections/header/rows/middle-section.php:187
+#: includes/customizer/sections/header/rows/top-section.php:172
+msgid "Weather Forecast"
+msgstr "Previsioni meteo"
+
+#: includes/customizer/sections/header/rows/bottom-section.php:191
+#: includes/customizer/sections/header/rows/middle-section.php:186
+#: includes/customizer/sections/header/rows/top-section.php:171
+msgid "Add more Header Elements"
+msgstr "Aggiungi altri elementi di intestazione"
+
+#: includes/customizer/sections/header/rows/bottom-section.php:190
+#: includes/customizer/sections/header/rows/middle-section.php:185
+#: includes/customizer/sections/header/rows/top-section.php:170
+msgid "Make this Section Sticky"
+msgstr "Rendi questa sezione fissa"
+
+#: includes/customizer/sections/header/rows/bottom-section.php:188
+#: includes/customizer/sections/header/rows/middle-section.php:183
+#: includes/customizer/sections/header/rows/top-section.php:168
+msgid "Need more Header Options?"
+msgstr "Hai bisogno di più opzioni per l'intestazione?"
+
+#: includes/customizer/sections/header/rows/bottom-section.php:24
+msgid "Bottom Section Elements"
+msgstr "Elementi della sezione inferiore"
+
+#: includes/customizer/sections/header/elements/site-identity.php:267
+msgid "Tagline Color"
+msgstr "Colore Tagline"
+
+#: includes/customizer/sections/header/elements/site-identity.php:266
+msgid "Site Title Color"
+msgstr "Colore titolo sito"
+
+#: includes/customizer/sections/header/elements/site-identity.php:188
+msgid "Tagline Font Size"
+msgstr "Dimensione font tagline"
+
+#: includes/customizer/sections/header/elements/site-identity.php:166
+msgid "Title Font Size"
+msgstr "Dimensione font titolo"
+
+#: includes/customizer/sections/header/elements/site-identity.php:144
+msgid "Title & Tagline Font"
+msgstr "Carattere del titolo e dello slogan"
+
+#: includes/customizer/sections/header/elements/site-identity.php:122
+msgid "General Visibility"
+msgstr "Visibilità generale"
+
+#: includes/customizer/sections/header/elements/site-identity.php:106
+msgid "Tagline Visibility"
+msgstr "Visibilità dello slogan"
+
+#: includes/customizer/sections/header/elements/site-identity.php:95
+msgid "Tagline"
+msgstr "Slogan"
+
+#: includes/customizer/sections/header/elements/site-identity.php:79
+msgid "Site Title Visibility"
+msgstr "Visibilità del titolo del sito"
+
+#: includes/customizer/sections/header/elements/site-identity.php:52
+msgid "Site Title"
+msgstr "Titolo del sito"
+
+#: includes/customizer/sections/header/elements/site-identity.php:42
+msgid "Block"
+msgstr "Blocco"
+
+#: includes/customizer/sections/header/elements/site-identity.php:37
+msgid "Logo & Site Title Display"
+msgstr "Visualizzazione del logo e del titolo del sito"
+
+#: includes/customizer/sections/header/elements/search.php:113
+msgid "Custom Colors"
+msgstr "Colori personalizzati"
+
+#: includes/customizer/sections/header/elements/search.php:112
+msgid "Popup Search on Click"
+msgstr "Ricerca popup al clic"
+
+#: includes/customizer/sections/header/elements/search.php:111
+msgid "Live(AJAX) Search"
+msgstr "Ricerca in tempo reale (AJAX)"
+
+#: includes/customizer/sections/header/elements/search.php:110
+msgid "Query: only Posts or Pages"
+msgstr "Query: solo Post o Pagine"
+
+#: includes/customizer/sections/header/elements/search.php:108
+msgid "Need more Search Options?"
+msgstr "Hai bisogno di più opzioni di ricerca?"
+
+#: includes/customizer/sections/header/elements/search.php:33
+msgid "Style 1"
+msgstr "Stile 1"
+
+#: includes/customizer/sections/header/elements/search.php:29
+msgid "Select Style"
+msgstr "Selezione stile"
+
+#: includes/customizer/sections/header/elements/search.php:18
+msgid "Placeholder"
+msgstr "Segnaposto"
+
+#: includes/customizer/sections/header/elements/random-post.php:121
+msgid "Need more Random Post Options?"
+msgstr "Hai bisogno di più opzioni per i post casuali?"
+
+#: includes/customizer/sections/header/elements/random-post.php:39
+msgid "Tooltip Text"
+msgstr "Testo del Tooltip"
+
+#: includes/customizer/sections/header/elements/primary-menu.php:277
+#: includes/customizer/sections/header/elements/secondary-menu.php:239
+msgid "Submenu Offset"
+msgstr "Offset del sottomenu"
+
+#: includes/customizer/sections/header/elements/primary-menu.php:276
+#: includes/customizer/sections/header/elements/secondary-menu.php:238
+msgid "Submenu Width"
+msgstr "Larghezza del sottomenu"
+
+#: includes/customizer/sections/header/elements/primary-menu.php:275
+#: includes/customizer/sections/header/elements/secondary-menu.php:237
+msgid "Submenu Item Font Size"
+msgstr "Dimensione carattere elemento sottomenu"
+
+#: includes/customizer/sections/header/elements/primary-menu.php:272
+msgid "Mobile Toggle Styles"
+msgstr "Stili di attivazione/disattivazione per dispositivi mobili"
+
+#: includes/customizer/sections/header/elements/primary-menu.php:271
+#: includes/customizer/sections/header/elements/secondary-menu.php:234
+msgid "Submenu Animations"
+msgstr "Sottomenu Animazioni"
+
+#: includes/customizer/sections/header/elements/primary-menu.php:270
+#: includes/customizer/sections/header/elements/secondary-menu.php:233
+msgid "Item Hover Effects"
+msgstr "Effetti al passaggio del mouse sugli oggetti"
+
+#: includes/customizer/sections/header/elements/primary-menu.php:267
+#: includes/customizer/sections/header/elements/secondary-menu.php:230
+msgid "Need more Menu Options?"
+msgstr "Hai bisogno di più opzioni nel menu?"
+
+#: includes/customizer/sections/header/elements/primary-menu.php:188
+#: includes/customizer/sections/header/elements/secondary-menu.php:150
+msgid "Item Margin"
+msgstr "Margine oggetto"
+
+#: includes/customizer/sections/header/elements/primary-menu.php:97
+#: includes/customizer/sections/header/elements/secondary-menu.php:70
+msgid "Menu Font"
+msgstr "Menu Font"
+
+#: includes/customizer/sections/header/elements/primary-menu.php:83
+msgid "Mobile Toggle Label"
+msgstr "Etichetta di attivazione/disattivazione mobile"
+
+#: includes/customizer/sections/header/elements/primary-menu.php:67
+msgid "Chevron Down"
+msgstr "Chevron Giù"
+
+#: includes/customizer/sections/header/elements/primary-menu.php:63
+msgid "Mobile Toggle Icon"
+msgstr "Icona di attivazione/disattivazione mobile"
+
+#: includes/customizer/sections/header/elements/primary-menu.php:50
+msgid "Show Home Icon"
+msgstr "Mostra Icona Home"
+
+#: includes/customizer/sections/header/elements/primary-menu.php:34
+#: includes/customizer/sections/header/elements/secondary-menu.php:34
+msgid "Submenu Animation"
+msgstr "Animazione Sottomenu"
+
+#: includes/customizer/sections/header/elements/primary-menu.php:19
+#: includes/customizer/sections/header/elements/primary-menu.php:38
+#: includes/customizer/sections/header/elements/secondary-menu.php:19
+#: includes/customizer/sections/header/elements/secondary-menu.php:38
+msgid "Fade"
+msgstr "Dissolvenza"
+
+#: includes/customizer/sections/header/elements/primary-menu.php:15
+#: includes/customizer/sections/header/elements/secondary-menu.php:15
+msgid "Menu Item Hover Effect"
+msgstr "Effetto hover della voce di menu"
+
+#: includes/customizer/sections/header/elements/offcanvas.php:133
+msgid "Custom Popup Width"
+msgstr "Larghezza popup personalizzata"
+
+#: includes/customizer/sections/header/elements/offcanvas.php:131
+msgid "Need more Off-Canvas Options?"
+msgstr "Hai bisogno di più opzioni Off-Canvas?"
+
+#: includes/customizer/sections/header/elements/offcanvas.php:92
+msgid "Popup Padding"
+msgstr "Riempimento popup"
+
+#: includes/customizer/sections/header/elements/offcanvas.php:54
+msgid "Icon Margin"
+msgstr "Margine icona"
+
+#: includes/customizer/sections/header/elements/news-ticker.php:192
+msgid "Post Title Letter Count"
+msgstr "Titolo del post Numero di lettere"
+
+#: includes/customizer/sections/header/elements/news-ticker.php:191
+msgid "Blinking Heading Icon"
+msgstr "Icona di intestazione lampeggiante"
+
+#: includes/customizer/sections/header/elements/news-ticker.php:190
+msgid "Different Heading Styles"
+msgstr "Diversi stili di intestazione"
+
+#: includes/customizer/sections/header/elements/news-ticker.php:188
+msgid "Slider Navigation Arrows"
+msgstr "Frecce di navigazione del cursore"
+
+#: includes/customizer/sections/header/elements/news-ticker.php:187
+msgid "News Ticker Type: Slider"
+msgstr "Tipo di ticker di notizie: Slider"
+
+#: includes/customizer/sections/header/elements/news-ticker.php:184
+msgid "Need more News Ticker Options?"
+msgstr "Hai bisogno di più opzioni per il ticker delle notizie?"
+
+#: includes/customizer/sections/header/elements/news-ticker.php:124
+msgid "Show Thumbnails"
+msgstr "Dimensioni delle miniature"
+
+#: includes/customizer/sections/header/elements/news-ticker.php:114
+msgid "Number of Posts"
+msgstr "Numero di Articoli"
+
+#: includes/customizer/sections/header/elements/news-ticker.php:95
+msgid "Fire"
+msgstr "Incendio"
+
+#: includes/customizer/sections/header/elements/news-ticker.php:91
+msgid "Icon Type"
+msgstr "Tipo Icona"
+
+#: includes/customizer/sections/header/elements/news-ticker.php:81
+msgid "Heading Text"
+msgstr "Testo dell’intestazione"
+
+#: includes/customizer/sections/header/elements/news-ticker.php:72
+msgid "Heading"
+msgstr "Intestazione"
+
+#: includes/customizer/sections/header/elements/date-and-time.php:122
+msgid "Custom Color"
+msgstr "Colore personalizzato"
+
+#: includes/customizer/sections/header/elements/date-and-time.php:120
+msgid "Need more Date & Time Options?"
+msgstr "Hai bisogno di più opzioni di data e ora?"
+
+#: includes/customizer/sections/header/elements/date-and-time.php:16
+msgid "WordPress Date Settings"
+msgstr "Impostazioni data di WordPress"
+
+#: includes/customizer/sections/header/elements/date-and-time.php:15
+msgid "Theme Default"
+msgstr "Tema predefinito"
+
+#: includes/customizer/sections/header/elements/dark-switcher.php:171
+msgid "Set Dark Mode by Default"
+msgstr "Imposta la modalità scura per impostazione predefinita"
+
+#: includes/customizer/sections/header/elements/dark-switcher.php:169
+msgid "Need more Dark Switcher Options?"
+msgstr "Hai bisogno di più opzioni per Dark Switcher?"
+
+#: includes/customizer/sections/header/elements/dark-switcher.php:42
+msgid "Tooltip: Dark Text"
+msgstr "Tooltip: Testo scuro"
+
+#: includes/customizer/sections/header/elements/dark-switcher.php:25
+msgid "Tooltip: Light Text"
+msgstr "Tooltip: Testo chiaro"
+
+#: includes/customizer/sections/header/elements/dark-switcher.php:15
+#: includes/customizer/sections/header/elements/random-post.php:29
+msgid "Show Tooltip"
+msgstr "Mostra Tooltip"
+
+#: includes/customizer/sections/global/typography.php:77
+msgid "Custom Font Subsets"
+msgstr "Sottoinsiemi di font personalizzati"
+
+#: includes/customizer/sections/global/typography.php:76
+msgid "Heading Font Options: H1 - H6"
+msgstr "Opzioni carattere intestazione: H1 - H6"
+
+#: includes/customizer/sections/global/typography.php:75
+msgid "Body Font Size"
+msgstr "Dimensione Carattere del Contenuto"
+
+#: includes/customizer/sections/global/typography.php:74
+#: includes/customizer/sections/header/elements/primary-menu.php:269
+#: includes/customizer/sections/header/elements/secondary-menu.php:232
+msgid "All 1000+ Google Fonts"
+msgstr "Tutti i 1000+ Google Fonts"
+
+#: includes/customizer/sections/global/typography.php:72
+msgid "Need more Global Typography Options?"
+msgstr "Hai bisogno di più opzioni di tipografia globale?"
+
+#: includes/customizer/sections/global/typography.php:24
+msgid "Body Font"
+msgstr "Font del corpo"
+
+#: includes/customizer/sections/global/typography.php:16
+msgid "Base Fonts"
+msgstr "Caratteri di base"
+
+#: includes/customizer/sections/global/sidebar.php:79
+msgid "And much more..."
+msgstr "E molto altro..."
+
+#: includes/customizer/sections/global/sidebar.php:78
+msgid "Display Left/Right or Both Sidebars"
+msgstr "Visualizza le barre laterali sinistra/destra o entrambe"
+
+#: includes/customizer/sections/global/sidebar.php:77
+msgid "Enable Sticky Sidebar"
+msgstr "Abilita Header Galleggiante"
+
+#: includes/customizer/sections/global/sidebar.php:76
+msgid "Custom Sidebar Width"
+msgstr "Larghezza barra laterale personalizzata"
+
+#: includes/customizer/sections/global/sidebar.php:74
+msgid "Need more Sidebar Options?"
+msgstr "Hai bisogno di più opzioni nella barra laterale?"
+
+#: includes/customizer/sections/global/sidebar.php:59
+msgid "Category/Tag Sidebar"
+msgstr "Barra laterale categoria/tag"
+
+#: includes/customizer/sections/global/sidebar.php:45
+msgid "Single Page Sidebar"
+msgstr "Pagina singola Sidebar"
+
+#: includes/customizer/sections/global/sidebar.php:31
+msgid "Blog Single Sidebar"
+msgstr "Barra laterale singola del bog"
+
+#: includes/customizer/sections/global/sidebar.php:17
+msgid "Blog Page Sidebar"
+msgstr "Pagina Blog Sidebar"
+
+#: includes/customizer/sections/global/layout.php:114
+msgid "Custom Container Padding"
+msgstr "Imbottitura contenitore personalizzata"
+
+#: includes/customizer/sections/global/layout.php:113
+msgid "Custom Container Width"
+msgstr "Larghezza contenitore personalizzata"
+
+#: includes/customizer/sections/global/layout.php:111
+msgid "Need more Layout Options?"
+msgstr "Hai bisogno di più opzioni di layout?"
+
+#: includes/customizer/sections/global/layout.php:97
+msgid "Apply different hover effects to images in grid layouts."
+msgstr "Applica diversi effetti hover alle immagini nei layout a griglia."
+
+#: includes/customizer/sections/global/layout.php:96
+msgid "Apply Global Image Hover Effects"
+msgstr "Applica effetti di passaggio del mouse sull'immagine globale"
+
+#: includes/customizer/sections/global/layout.php:85
+msgid "Apply border radius to all Elements except Header and Footer."
+msgstr "Applica il raggio del bordo a tutti gli elementi eccetto Intestazione e Piè di pagina."
+
+#: includes/customizer/sections/global/layout.php:84
+msgid "Apply Global Border Radius"
+msgstr "Applica raggio bordo globale"
+
+#: includes/customizer/sections/global/layout.php:58
+msgid "Footer Width"
+msgstr "Larghezza Footer"
+
+#: includes/customizer/sections/global/layout.php:44
+msgid "Single Content Width"
+msgstr "Contenuto Superiore"
+
+#: includes/customizer/sections/global/layout.php:30
+msgid "Content Width"
+msgstr "Larghezza contenuto"
+
+#: includes/customizer/sections/global/layout.php:22
+#: includes/customizer/sections/global/layout.php:36
+#: includes/customizer/sections/global/layout.php:50
+#: includes/customizer/sections/global/layout.php:64
+msgid "Boxed"
+msgstr "Boxed"
+
+#: includes/customizer/sections/global/layout.php:21
+#: includes/customizer/sections/global/layout.php:35
+#: includes/customizer/sections/global/layout.php:49
+#: includes/customizer/sections/global/layout.php:63
+msgid "Full"
+msgstr "Pieno"
+
+#: includes/customizer/sections/global/layout.php:16
+msgid "Header Width"
+msgstr "Larghezza Header"
+
+#: includes/customizer/sections/global/colors.php:77
+msgid "Custom Footer Colors"
+msgstr "Colori piè di pagina personalizzati"
+
+#: includes/customizer/sections/global/colors.php:76
+msgid "Border Color"
+msgstr "Colore Bordo"
+
+#: includes/customizer/sections/global/colors.php:75
+msgid "Meta Color"
+msgstr "Colore Meta"
+
+#: includes/customizer/sections/global/colors.php:74
+msgid "Body Text Color"
+msgstr "Colore Testo Corpo"
+
+#: includes/customizer/sections/global/colors.php:73
+msgid "Heading (H1-H6) Color"
+msgstr "Colore intestazione (H1-H6)"
+
+#: includes/customizer/sections/global/colors.php:72
+msgid "Link and Link Hover"
+msgstr "Collegamento e passaggio del mouse sul collegamento"
+
+#: includes/customizer/sections/global/colors.php:70
+msgid "Need more Global Colors Options?"
+msgstr "Hai bisogno di più opzioni di colori globali?"
+
+#: includes/customizer/sections/global/colors.php:31
+msgid "Site Background"
+msgstr "Sfondo Sito"
+
+#: includes/customizer/sections/global/categories.php:57
+msgid "Different Category Styles"
+msgstr "Diversi stili di categoria"
+
+#: includes/customizer/sections/global/categories.php:55
+msgid "Need more Category Options?"
+msgstr "Hai bisogno di più opzioni di categoria?"
+
+#: includes/customizer/sections/global/categories.php:13
+msgid "Enable Custom Category Colors"
+msgstr "Abilita colori categoria personalizzati"
+
+#: includes/customizer/sections/front-page.php:95
+msgid "Stretch sections to Full Width"
+msgstr "Allunga le sezioni a larghezza intera"
+
+#: includes/customizer/sections/front-page.php:94
+msgid "4 Different Layout Options"
+msgstr "4 diverse opzioni di layout"
+
+#: includes/customizer/sections/front-page.php:93
+msgid "Choose from 10 Widget Areas"
+msgstr "Scegli tra 10 aree widget"
+
+#: includes/customizer/sections/front-page.php:92
+msgid "Add up to 10 Sections"
+msgstr "Aggiungi fino a 10 sezioni"
+
+#: includes/customizer/sections/front-page.php:90
+msgid "Need more Front Page Options?"
+msgstr "Hai bisogno di più opzioni per la prima pagina?"
+
+#: includes/customizer/sections/front-page.php:79
+msgid "Disable default Blog Feed and the Static page content on the front page. This option allows you to customize the front page more effectively by adding different types of post widgets using the sections above."
+msgstr "Disattiva il Feed Blog predefinito e il contenuto della pagina statica nella home page. Questa opzione ti consente di personalizzare la home page in modo più efficace aggiungendo diversi tipi di widget post tramite le sezioni sopra."
+
+#: includes/customizer/sections/front-page.php:78
+msgid "Hide Blog Feed / Static Page"
+msgstr "Nascondi Feed del blog / Pagina statica"
+
+#: includes/customizer/sections/front-page.php:57
+msgid "Add Section"
+msgstr "Aggiungi Sezione"
+
+#: includes/customizer/sections/front-page.php:54
+msgid "Section "
+msgstr "Sezione "
+
+#: includes/customizer/sections/front-page.php:40
+#: includes/widgets/newsx-list-widget.php:96
+#: includes/widgets/newsx-magazine-widget.php:78
+msgid "Select Layout"
+msgstr "Seleziona layout"
+
+#: includes/customizer/sections/front-page.php:35
+msgid "Widget Area 3"
+msgstr "Area widget 3"
+
+#: includes/customizer/sections/front-page.php:34
+msgid "Widget Area 2"
+msgstr "Area widget 2"
+
+#: includes/customizer/sections/front-page.php:33
+msgid "Widget Area 1"
+msgstr "Area widget 1"
+
+#: includes/customizer/sections/front-page.php:32
+msgid "- Select -"
+msgstr "- Seleziona -"
+
+#: includes/customizer/sections/front-page.php:29
+msgid "Select Widget Area"
+msgstr "Selezione la Widget Area"
+
+#: includes/admin/menu/tab-free-vs-pro.php:105
+#: includes/customizer/sections/front-page.php:16
+msgid "Front Page Sections"
+msgstr "Sezioni homepage"
+
+#: includes/customizer/sections/footer/rows/top-section.php:24
+#: includes/customizer/sections/header/rows/top-section.php:24
+msgid "Top Section Elements"
+msgstr "Elementi della sezione superiore"
+
+#: includes/customizer/sections/footer/rows/middle-section.php:235
+#: includes/customizer/sections/footer/rows/top-section.php:220
+msgid "Need more Footer Options?"
+msgstr "Hai bisogno di più opzioni per il piè di pagina?"
+
+#: includes/customizer/sections/footer/rows/middle-section.php:139
+#: includes/customizer/sections/footer/rows/top-section.php:124
+#: includes/customizer/sections/header/rows/bottom-section.php:89
+#: includes/customizer/sections/header/rows/middle-section.php:84
+#: includes/customizer/sections/header/rows/top-section.php:69
+msgid "Section Min Height"
+msgstr "Altezza minima della sezione"
+
+#: includes/customizer/sections/footer/rows/middle-section.php:117
+#: includes/customizer/sections/footer/rows/top-section.php:102
+msgid "Columns Gap"
+msgstr "Colonne Gap"
+
+#: includes/customizer/sections/footer/rows/middle-section.php:105
+#: includes/customizer/sections/footer/rows/top-section.php:90
+msgid "Vertical Alignment"
+msgstr "Allineamento verticale"
+
+#: includes/customizer/sections/footer/rows/middle-section.php:86
+#: includes/customizer/sections/footer/rows/top-section.php:71
+msgid "Columns"
+msgstr "Colonne"
+
+#: includes/customizer/sections/footer/rows/middle-section.php:76
+#: includes/customizer/sections/footer/rows/top-section.php:61
+#: includes/customizer/sections/header/rows/bottom-section.php:79
+#: includes/customizer/sections/header/rows/middle-section.php:74
+#: includes/customizer/sections/header/rows/top-section.php:59
+msgid "Element "
+msgstr "Elemento "
+
+#: includes/admin/menu/tab-free-vs-pro.php:245
+#: includes/customizer/sections/footer/rows/middle-section.php:66
+#: includes/customizer/sections/footer/rows/middle-section.php:96
+#: includes/customizer/sections/footer/rows/top-section.php:51
+#: includes/customizer/sections/footer/rows/top-section.php:81
+msgid "6"
+msgstr "6"
+
+#: includes/customizer/sections/footer/rows/middle-section.php:65
+#: includes/customizer/sections/footer/rows/middle-section.php:95
+#: includes/customizer/sections/footer/rows/top-section.php:50
+#: includes/customizer/sections/footer/rows/top-section.php:80
+msgid "5"
+msgstr "5"
+
+#: includes/admin/menu/tab-free-vs-pro.php:133
+#: includes/admin/menu/tab-free-vs-pro.php:244
+#: includes/customizer/sections/footer/rows/middle-section.php:64
+#: includes/customizer/sections/footer/rows/middle-section.php:94
+#: includes/customizer/sections/footer/rows/top-section.php:49
+#: includes/customizer/sections/footer/rows/top-section.php:79
+msgid "4"
+msgstr "4"
+
+#: includes/admin/menu/tab-free-vs-pro.php:124
+#: includes/customizer/sections/footer/rows/middle-section.php:63
+#: includes/customizer/sections/footer/rows/middle-section.php:93
+#: includes/customizer/sections/footer/rows/top-section.php:48
+#: includes/customizer/sections/footer/rows/top-section.php:78
+msgid "3"
+msgstr "3"
+
+#: includes/admin/menu/tab-free-vs-pro.php:116
+#: includes/customizer/sections/footer/rows/middle-section.php:62
+#: includes/customizer/sections/footer/rows/middle-section.php:92
+#: includes/customizer/sections/footer/rows/top-section.php:47
+#: includes/customizer/sections/footer/rows/top-section.php:77
+msgid "2"
+msgstr "2"
+
+#: includes/admin/menu/tab-free-vs-pro.php:132
+#: includes/admin/menu/tab-free-vs-pro.php:164
+#: includes/admin/menu/tab-free-vs-pro.php:204
+#: includes/customizer/sections/footer/rows/middle-section.php:61
+#: includes/customizer/sections/footer/rows/middle-section.php:91
+#: includes/customizer/sections/footer/rows/top-section.php:46
+#: includes/customizer/sections/footer/rows/top-section.php:76
+msgid "1"
+msgstr "1"
+
+#: includes/customizer/sections/footer/rows/middle-section.php:58
+#: includes/customizer/sections/footer/rows/top-section.php:43
+#: includes/customizer/sections/header/rows/bottom-section.php:63
+#: includes/customizer/sections/header/rows/middle-section.php:58
+#: includes/customizer/sections/header/rows/top-section.php:43
+msgid "Position"
+msgstr "Posizione"
+
+#: includes/customizer/sections/footer/rows/middle-section.php:52
+#: includes/customizer/sections/footer/rows/top-section.php:37
+#: includes/customizer/sections/header/rows/bottom-section.php:57
+#: includes/customizer/sections/header/rows/middle-section.php:52
+#: includes/customizer/sections/header/rows/top-section.php:37
+msgid "Select Element"
+msgstr "Seleziona elemento"
+
+#: includes/customizer/sections/footer/rows/middle-section.php:24
+#: includes/customizer/sections/header/rows/middle-section.php:24
+msgid "Middle Section Elements"
+msgstr "Elementi della sezione centrale"
+
+#: includes/customizer/sections/footer/rows/bottom-section.php:27
+#: includes/customizer/sections/footer/rows/middle-section.php:239
+#: includes/customizer/sections/footer/rows/top-section.php:224
+#: includes/customizer/sections/header/rows/bottom-section.php:198
+#: includes/customizer/sections/header/rows/middle-section.php:193
+#: includes/customizer/sections/header/rows/top-section.php:178
+msgid "Section Background Color"
+msgstr "Colore di sfondo sezione"
+
+#: includes/customizer/sections/footer/rows/bottom-section.php:26
+#: includes/customizer/sections/footer/rows/middle-section.php:238
+#: includes/customizer/sections/footer/rows/top-section.php:223
+msgid "Footer Widgets Area 6"
+msgstr "Area widget piè di pagina 6"
+
+#: includes/customizer/sections/footer/rows/bottom-section.php:25
+#: includes/customizer/sections/footer/rows/middle-section.php:237
+#: includes/customizer/sections/footer/rows/top-section.php:222
+msgid "Footer Widgets Area 5"
+msgstr "Area widget piè di pagina 5"
+
+#: includes/customizer/sections/footer/rows/bottom-section.php:24
+msgid "1 to 6 Columns Option"
+msgstr "Opzione da 1 a 6 colonne"
+
+#: includes/customizer/sections/footer/rows/bottom-section.php:22
+msgid "Add Footer Builder Elements"
+msgstr "Aggiungi elementi del footer builder"
+
+#: includes/customizer/sections/footer/rows/bottom-section.php:21
+msgid "Enable/Disable this Section"
+msgstr "Abilita/Disabilita questa sezione"
+
+#: includes/customizer/sections/footer/rows/bottom-section.php:19
+msgid "This Section is available in the Pro Version"
+msgstr "Questa sezione è disponibile nella versione Pro"
+
+#: includes/customizer/sections/footer/elements/social-icons.php:153
+#: includes/customizer/sections/header/elements/social-icons.php:139
+msgid "Custom Label Size"
+msgstr "Dimensioni etichetta personalizzate"
+
+#: includes/customizer/sections/footer/elements/social-icons.php:152
+#: includes/customizer/sections/header/elements/offcanvas.php:134
+#: includes/customizer/sections/header/elements/random-post.php:123
+#: includes/customizer/sections/header/elements/search.php:114
+#: includes/customizer/sections/header/elements/social-icons.php:138
+#: includes/widgets/newsx-social-icons-widget.php:201
+msgid "Custom Icon Size"
+msgstr "Dimensione icona personalizzata"
+
+#: includes/customizer/sections/footer/elements/social-icons.php:151
+#: includes/customizer/sections/header/elements/social-icons.php:137
+msgid "Custom Icon Colors"
+msgstr "Colori delle icone personalizzati"
+
+#: includes/customizer/sections/footer/elements/social-icons.php:149
+#: includes/customizer/sections/header/elements/social-icons.php:135
+msgid "Need more Social Icons Options?"
+msgstr "Hai bisogno di più opzioni per le icone social?"
+
+#: includes/customizer/sections/footer/elements/social-icons.php:57
+#: includes/customizer/sections/footer/rows/middle-section.php:79
+#: includes/customizer/sections/footer/rows/top-section.php:64
+#: includes/customizer/sections/header/elements/social-icons.php:62
+#: includes/customizer/sections/header/rows/bottom-section.php:82
+#: includes/customizer/sections/header/rows/middle-section.php:77
+#: includes/customizer/sections/header/rows/top-section.php:62
+msgid "Add Element"
+msgstr "Aggiungi Elemento"
+
+#: includes/customizer/sections/footer/elements/social-icons.php:55
+#: includes/customizer/sections/header/elements/social-icons.php:60
+msgid "Social Icon "
+msgstr "Icona sociale "
+
+#: includes/customizer/sections/footer/elements/social-icons.php:49
+#: includes/customizer/sections/header/elements/social-icons.php:54
+msgid "URL"
+msgstr "URL"
+
+#: includes/customizer/sections/footer/elements/social-icons.php:44
+#: includes/customizer/sections/header/elements/offcanvas.php:18
+#: includes/customizer/sections/header/elements/random-post.php:18
+#: includes/customizer/sections/header/elements/social-icons.php:49
+msgid "Select Icon"
+msgstr "Seleziona icona"
+
+#: includes/customizer/sections/footer/elements/logo.php:120
+#: includes/customizer/sections/header/elements/site-identity.php:265
+msgid "Retina Logo Upload"
+msgstr "Caricamento del logo Retina"
+
+#: includes/customizer/sections/footer/elements/logo.php:119
+#: includes/customizer/sections/header/elements/site-identity.php:264
+msgid "Retina Logo Switcher"
+msgstr "Cambia logo Retina"
+
+#: includes/customizer/sections/footer/elements/logo.php:117
+#: includes/customizer/sections/header/elements/site-identity.php:262
+msgid "Need more Logo Options?"
+msgstr "Hai bisogno di più opzioni per il logo?"
+
+#: includes/customizer/sections/footer/elements/logo.php:42
+#: includes/customizer/sections/header/elements/site-identity.php:15
+msgid "Logo Width"
+msgstr "Larghezza Logo"
+
+#: includes/customizer/sections/footer/elements/footer-menu.php:157
+#: includes/customizer/sections/header/elements/primary-menu.php:274
+#: includes/customizer/sections/header/elements/secondary-menu.php:236
+msgid "Menu Item Font Size"
+msgstr "Dimensione font elemento menu"
+
+#: includes/customizer/sections/footer/elements/footer-menu.php:156
+msgid "Menu Item Background Colors"
+msgstr "Colori di sfondo delle voci di menu"
+
+#: includes/customizer/sections/footer/elements/footer-menu.php:155
+#: includes/customizer/sections/header/elements/primary-menu.php:273
+#: includes/customizer/sections/header/elements/secondary-menu.php:235
+msgid "Menu Item Colors"
+msgstr "Colori delle voci di menu"
+
+#: includes/customizer/sections/footer/elements/footer-menu.php:153
+msgid "Need more Footer Menu Options?"
+msgstr "Hai bisogno di più opzioni per il menu a piè di pagina?"
+
+#: includes/customizer/sections/footer/elements/footer-menu.php:76
+#: includes/customizer/sections/header/elements/primary-menu.php:150
+#: includes/customizer/sections/header/elements/secondary-menu.php:112
+msgid "Item Padding"
+msgstr "Padding oggetto"
+
+#: includes/customizer/sections/footer/elements/footer-menu.php:30
+#: includes/customizer/sections/footer/elements/logo.php:24
+#: includes/customizer/sections/footer/elements/social-icons.php:64
+msgid "Alignment"
+msgstr "Allineamento"
+
+#: includes/customizer/sections/footer/elements/footer-menu.php:22
+msgid "Stack"
+msgstr "Pila"
+
+#: includes/customizer/sections/footer/elements/footer-menu.php:21
+#: includes/customizer/sections/header/elements/site-identity.php:43
+msgid "Inline"
+msgstr "In linea"
+
+#: includes/customizer/sections/footer/elements/custom-html-1.php:99
+#: includes/customizer/sections/footer/elements/custom-html-2.php:99
+msgid "Need more Custom HTML Options?"
+msgstr "Hai bisogno di più opzioni HTML personalizzate?"
+
+#: includes/customizer/sections/footer/elements/copyright.php:84
+#: includes/customizer/sections/footer/elements/custom-html-1.php:102
+#: includes/customizer/sections/footer/elements/custom-html-2.php:102
+msgid "Custom Link Color"
+msgstr "Colore collegamento personalizzato"
+
+#: includes/customizer/sections/footer/elements/copyright.php:82
+msgid "Responsive Alignment Option"
+msgstr "Opzione di allineamento reattivo"
+
+#: includes/customizer/sections/footer/elements/copyright.php:81
+#: includes/customizer/sections/footer/rows/bottom-section.php:23
+msgid "Responsive Visibility Option"
+msgstr "Opzione di visibilità reattiva"
+
+#: includes/customizer/sections/footer/elements/copyright.php:80
+msgid "Move anywhere across the Footer"
+msgstr "Spostati ovunque nel piè di pagina"
+
+#: includes/customizer/sections/footer/elements/copyright.php:79
+msgid "Remove Powered by link"
+msgstr "Rimuovi Powered by link"
+
+#: includes/customizer/sections/footer/elements/copyright.php:77
+msgid "Need more Copyright Options?"
+msgstr "Hai bisogno di più opzioni di copyright?"
+
+#: includes/customizer/sections/footer/elements/copyright.php:15
+msgid "Copyright Text"
+msgstr "Testo Copyright"
+
+#: includes/customizer/sections/footer/elements/back-to-top.php:61
+msgid "Custom Background Color"
+msgstr "Colore di sfondo personalizzato"
+
+#: includes/customizer/sections/footer/elements/back-to-top.php:60
+#: includes/customizer/sections/header/elements/offcanvas.php:135
+#: includes/customizer/sections/header/elements/random-post.php:124
+msgid "Custom Icon Color"
+msgstr "Colore icona personalizzata"
+
+#: includes/customizer/sections/footer/elements/back-to-top.php:59
+msgid "Change Icon"
+msgstr "Modifica icona"
+
+#: includes/customizer/sections/footer/elements/back-to-top.php:57
+msgid "Need more Back to Top Options?"
+msgstr "Hai bisogno di altre opzioni \"Torna all'inizio\"?"
+
+#: includes/customizer/sections/footer/elements/back-to-top.php:45
+#: includes/customizer/sections/footer/elements/custom-html-1.php:40
+#: includes/customizer/sections/footer/elements/custom-html-2.php:40
+#: includes/customizer/sections/footer/elements/footer-menu.php:56
+#: includes/customizer/sections/footer/elements/social-icons.php:90
+#: includes/customizer/sections/footer/rows/middle-section.php:170
+#: includes/customizer/sections/footer/rows/top-section.php:155
+#: includes/customizer/sections/header/elements/dark-switcher.php:64
+#: includes/customizer/sections/header/elements/date-and-time.php:54
+#: includes/customizer/sections/header/elements/offcanvas.php:35
+#: includes/customizer/sections/header/elements/random-post.php:61
+#: includes/customizer/sections/header/elements/search.php:50
+#: includes/customizer/sections/header/elements/secondary-menu.php:55
+#: includes/customizer/sections/header/elements/site-identity.php:87
+#: includes/customizer/sections/header/elements/site-identity.php:114
+#: includes/customizer/sections/header/elements/site-identity.php:130
+#: includes/customizer/sections/header/elements/social-icons.php:76
+#: includes/customizer/sections/header/rows/bottom-section.php:123
+#: includes/customizer/sections/header/rows/middle-section.php:118
+#: includes/customizer/sections/header/rows/top-section.php:102
+msgid "Mobile"
+msgstr "Cellulare"
+
+#: includes/customizer/sections/footer/elements/back-to-top.php:44
+#: includes/customizer/sections/footer/elements/custom-html-1.php:39
+#: includes/customizer/sections/footer/elements/custom-html-2.php:39
+#: includes/customizer/sections/footer/elements/footer-menu.php:55
+#: includes/customizer/sections/footer/elements/social-icons.php:89
+#: includes/customizer/sections/footer/rows/middle-section.php:169
+#: includes/customizer/sections/footer/rows/top-section.php:154
+#: includes/customizer/sections/header/elements/dark-switcher.php:63
+#: includes/customizer/sections/header/elements/date-and-time.php:53
+#: includes/customizer/sections/header/elements/offcanvas.php:34
+#: includes/customizer/sections/header/elements/random-post.php:60
+#: includes/customizer/sections/header/elements/search.php:49
+#: includes/customizer/sections/header/elements/secondary-menu.php:54
+#: includes/customizer/sections/header/elements/site-identity.php:86
+#: includes/customizer/sections/header/elements/site-identity.php:113
+#: includes/customizer/sections/header/elements/site-identity.php:129
+#: includes/customizer/sections/header/elements/social-icons.php:75
+#: includes/customizer/sections/header/rows/bottom-section.php:122
+#: includes/customizer/sections/header/rows/middle-section.php:117
+#: includes/customizer/sections/header/rows/top-section.php:101
+msgid "Tablet"
+msgstr "Tablet"
+
+#: includes/customizer/sections/footer/elements/back-to-top.php:43
+#: includes/customizer/sections/footer/elements/custom-html-1.php:38
+#: includes/customizer/sections/footer/elements/custom-html-2.php:38
+#: includes/customizer/sections/footer/elements/footer-menu.php:54
+#: includes/customizer/sections/footer/elements/social-icons.php:88
+#: includes/customizer/sections/footer/rows/middle-section.php:168
+#: includes/customizer/sections/footer/rows/top-section.php:153
+#: includes/customizer/sections/header/elements/dark-switcher.php:62
+#: includes/customizer/sections/header/elements/date-and-time.php:52
+#: includes/customizer/sections/header/elements/offcanvas.php:33
+#: includes/customizer/sections/header/elements/random-post.php:59
+#: includes/customizer/sections/header/elements/search.php:48
+#: includes/customizer/sections/header/elements/secondary-menu.php:53
+#: includes/customizer/sections/header/elements/site-identity.php:85
+#: includes/customizer/sections/header/elements/site-identity.php:112
+#: includes/customizer/sections/header/elements/site-identity.php:128
+#: includes/customizer/sections/header/elements/social-icons.php:74
+#: includes/customizer/sections/header/rows/bottom-section.php:121
+#: includes/customizer/sections/header/rows/middle-section.php:116
+#: includes/customizer/sections/header/rows/top-section.php:100
+msgid "Desktop"
+msgstr "Desktop"
+
+#: includes/customizer/sections/footer/elements/back-to-top.php:37
+#: includes/customizer/sections/footer/elements/custom-html-1.php:32
+#: includes/customizer/sections/footer/elements/custom-html-2.php:32
+#: includes/customizer/sections/footer/elements/footer-menu.php:48
+#: includes/customizer/sections/footer/elements/social-icons.php:82
+#: includes/customizer/sections/footer/rows/middle-section.php:161
+#: includes/customizer/sections/footer/rows/top-section.php:146
+#: includes/customizer/sections/header/elements/dark-switcher.php:59
+#: includes/customizer/sections/header/elements/date-and-time.php:46
+#: includes/customizer/sections/header/elements/offcanvas.php:26
+#: includes/customizer/sections/header/elements/random-post.php:56
+#: includes/customizer/sections/header/elements/search.php:42
+#: includes/customizer/sections/header/elements/secondary-menu.php:47
+#: includes/customizer/sections/header/elements/social-icons.php:71
+#: includes/customizer/sections/header/rows/bottom-section.php:114
+#: includes/customizer/sections/header/rows/middle-section.php:109
+#: includes/customizer/sections/header/rows/top-section.php:94
+msgid "Visibility"
+msgstr "Visibilità"
+
+#: includes/customizer/sections/footer/elements/back-to-top.php:27
+msgid "Transparent Background"
+msgstr "Sfondo trasparente"
+
+#: includes/customizer/sections/footer/elements/back-to-top.php:16
+msgid "Enable Back to Top Button"
+msgstr "Abilita il pulsante Torna all'inizio"
+
+#: includes/customizer/sections/blog-single/sharing.php:194
+msgid "Custom Icon Sizes"
+msgstr "Dimensioni delle icone personalizzate"
+
+#: includes/customizer/sections/blog-single/sharing.php:193
+msgid "Custom Colors: Normal/Hover"
+msgstr "Colori personalizzati: Normale/Hover"
+
+#: includes/customizer/sections/blog-single/sharing.php:192
+msgid "Show Tooltips"
+msgstr "Mostra suggerimenti"
+
+#: includes/customizer/sections/blog-single/sharing.php:191
+msgid "Show Brand Labels"
+msgstr "Mostra etichette di marca"
+
+#: includes/customizer/sections/blog-single/sharing.php:190
+msgid "Display with Brand Colors"
+msgstr "Display con colori del marchio"
+
+#: includes/customizer/sections/blog-single/sharing.php:189
+msgid "Display as side Floated Sharing"
+msgstr "Visualizza come condivisione laterale flottante"
+
+#: includes/customizer/sections/blog-single/sharing.php:188
+msgid "Show in Post Header"
+msgstr "Mostra nell'intestazione del post"
+
+#: includes/customizer/sections/blog-single/sharing.php:186
+msgid "Need more Post Sharing Options?"
+msgstr "Hai bisogno di più opzioni di condivisione dei post?"
+
+#: includes/customizer/sections/blog-single/sharing.php:133
+msgid "VKontakte"
+msgstr "VKontakte"
+
+#: includes/customizer/sections/blog-single/sharing.php:103
+msgid "Linkedin"
+msgstr "LinkedIn"
+
+#: includes/customizer/sections/blog-single/sharing.php:93
+msgid "Whatsapp"
+msgstr "WhatsApp"
+
+#: includes/customizer/sections/blog-single/sharing.php:63
+msgid "X (twitter)"
+msgstr "X (cinguettio)"
+
+#: includes/customizer/sections/blog-single/sharing.php:38
+msgid "Icon Style"
+msgstr "Stile Icona"
+
+#: includes/customizer/sections/blog-single/sharing.php:30
+msgid "Sharing Text"
+msgstr "Condivisione del testo"
+
+#: includes/customizer/sections/blog-single/sharing.php:17
+msgid "Show After Content"
+msgstr "Mostra dopo il contenuto"
+
+#: includes/customizer/sections/blog-single/related-posts.php:140
+msgid "Display 3, 6 or 9 Posts Grid"
+msgstr "Visualizza griglia 3, 6 o 9 post"
+
+#: includes/customizer/sections/blog-single/related-posts.php:139
+msgid "Display Related or Random Posts"
+msgstr "Visualizza post correlati o casuali"
+
+#: includes/customizer/sections/blog-single/related-posts.php:137
+msgid "Need more Related Posts Options?"
+msgstr "Hai bisogno di più opzioni per i post correlati?"
+
+#: includes/customizer/sections/about.php:12
+#: includes/customizer/sections/blog-single/related-posts.php:30
+#: includes/widgets/newsx-newsletter-widget.php:31
+msgid "Section Title"
+msgstr "Titolo della sezione"
+
+#: includes/customizer/sections/blog-single/related-posts.php:17
+msgid "Enable Related Posts"
+msgstr "Abilita Articoli Correlati"
+
+#: includes/customizer/sections/blog-single/navigation.php:144
+msgid "Custom Navigation Labels"
+msgstr "Etichette di navigazione personalizzate"
+
+#: includes/customizer/sections/blog-single/navigation.php:143
+msgid "Custom Navigation Icons"
+msgstr "Icone di navigazione personalizzate"
+
+#: includes/customizer/sections/blog-single/navigation.php:142
+msgid "8 Different Navigation Styles"
+msgstr "8 diversi stili di navigazione"
+
+#: includes/customizer/sections/blog-single/navigation.php:140
+msgid "Need more Post Navigation Options?"
+msgstr "Hai bisogno di più opzioni di navigazione nei post?"
+
+#: includes/customizer/sections/blog-single/navigation.php:42
+msgid "Show Dividers"
+msgstr "Mostra divisori"
+
+#: includes/customizer/sections/blog-single/navigation.php:34
+#: includes/customizer/sections/blog-single/sharing.php:44
+#: includes/widgets/newsx-category-list-widget.php:57
+msgid "Style 2"
+msgstr "Stile 2"
+
+#: includes/customizer/sections/blog-single/navigation.php:28
+msgid "Navigation Style"
+msgstr "Stile della navigazione"
+
+#: includes/customizer/sections/blog-single/navigation.php:17
+msgid "Enable Navigation"
+msgstr "Abilita navigazione"
+
+#: includes/customizer/sections/blog-single/header.php:140
+msgid "Show Post Views"
+msgstr "Mostra visualizzazioni post"
+
+#: includes/customizer/sections/blog-single/header.php:139
+msgid "Show Reading Time"
+msgstr "Mostra tempo di lettura"
+
+#: includes/customizer/sections/blog-single/header.php:138
+msgid "8 Different Header Layouts"
+msgstr "8 diversi layout di intestazione"
+
+#: includes/customizer/sections/blog-single/header.php:136
+msgid "Need more Post Header Options?"
+msgstr "Hai bisogno di più opzioni per l'intestazione del post?"
+
+#: includes/customizer/sections/blog-single/header.php:122
+msgid "Show Time"
+msgstr "Mostra orario"
+
+#: includes/customizer/sections/blog-single/header.php:111
+msgid "Show Comments"
+msgstr "Mostra Commenti"
+
+#: includes/customizer/sections/blog-single/header.php:91
+msgid "Avatar Size"
+msgstr "Dimensione avatar"
+
+#: includes/customizer/sections/blog-single/header.php:72
+msgid "Show Avatar"
+msgstr "Mostra Avatar"
+
+#: includes/customizer/sections/blog-single/header.php:62
+msgid "Show Author"
+msgstr "Mostra autore"
+
+#: includes/customizer/sections/blog-single/header.php:55
+msgid "Post Meta"
+msgstr "Post Meta"
+
+#: includes/customizer/sections/blog-single/header.php:42
+msgid "Show Categories"
+msgstr "Mostra Categorie"
+
+#: includes/customizer/sections/blog-single/header.php:31
+msgid "Show Breadcrumbs"
+msgstr "Mostra breadcrumbs"
+
+#: includes/customizer/sections/blog-single/header.php:23
+msgid "Style 2 (No Media)"
+msgstr "Stile 2 (Nessun Media)"
+
+#: includes/customizer/sections/blog-single/header.php:17
+msgid "Post Header Layout Preset"
+msgstr "Preimpostazione layout intestazione post"
+
+#: includes/customizer/sections/blog-single/content.php:35
+#: includes/customizer/sections/footer/elements/copyright.php:85
+#: includes/customizer/sections/footer/elements/custom-html-1.php:103
+#: includes/customizer/sections/footer/elements/custom-html-2.php:103
+#: includes/customizer/sections/header/elements/date-and-time.php:123
+msgid "Custom Font Size"
+msgstr "Usa dimensione personalizzata del carattere"
+
+#: includes/customizer/sections/blog-single/content.php:34
+#: includes/customizer/sections/footer/elements/copyright.php:83
+#: includes/customizer/sections/footer/elements/custom-html-1.php:101
+#: includes/customizer/sections/footer/elements/custom-html-2.php:101
+msgid "Custom Text Color"
+msgstr "Colore testo personalizzato"
+
+#: includes/customizer/sections/blog-single/content.php:33
+msgid "Newsletter (Subscription) Form"
+msgstr "Modulo di iscrizione alla newsletter"
+
+#: includes/customizer/sections/blog-single/content.php:32
+msgid "Table of Contents (Auto-Generate)"
+msgstr "Indice (generato automaticamente)"
+
+#: includes/customizer/sections/blog-single/content.php:30
+msgid "Need more Single Content Options?"
+msgstr "Hai bisogno di più opzioni per singoli contenuti?"
+
+#: includes/customizer/sections/blog-single/content.php:19
+msgid "Enable Underline Links"
+msgstr "Abilita i collegamenti sottolineati"
+
+#: includes/customizer/sections/blog-single/author.php:130
+msgid "Author Avatar Border Radius"
+msgstr "Autore Avatar Raggio del bordo"
+
+#: includes/customizer/sections/blog-single/author.php:129
+msgid "Custom Author Avatar Size"
+msgstr "Dimensione avatar autore personalizzata"
+
+#: includes/customizer/sections/blog-single/author.php:128
+msgid "5 Different Author Box Styles"
+msgstr "5 diversi stili di box autore"
+
+#: includes/customizer/sections/blog-single/author.php:126
+msgid "Need more Author Box Options?"
+msgstr "Hai bisogno di più opzioni per l'Autore Box?"
+
+#: includes/customizer/sections/blog-single/author.php:87
+#: includes/customizer/sections/blog-single/navigation.php:101
+#: includes/customizer/sections/blog-single/related-posts.php:98
+#: includes/customizer/sections/footer/elements/copyright.php:38
+#: includes/customizer/sections/footer/elements/custom-html-1.php:60
+#: includes/customizer/sections/footer/elements/custom-html-2.php:60
+#: includes/customizer/sections/footer/elements/footer-menu.php:114
+#: includes/customizer/sections/footer/elements/logo.php:75
+#: includes/customizer/sections/footer/elements/social-icons.php:110
+#: includes/customizer/sections/header/elements/dark-switcher.php:128
+#: includes/customizer/sections/header/elements/date-and-time.php:78
+#: includes/customizer/sections/header/elements/news-ticker.php:145
+#: includes/customizer/sections/header/elements/primary-menu.php:226
+#: includes/customizer/sections/header/elements/random-post.php:82
+#: includes/customizer/sections/header/elements/search.php:69
+#: includes/customizer/sections/header/elements/secondary-menu.php:188
+#: includes/customizer/sections/header/elements/site-identity.php:220
+#: includes/customizer/sections/header/elements/social-icons.php:96
+msgid "Margin"
+msgstr "Margine"
+
+#: includes/customizer/sections/blog-single/author.php:49
+#: includes/customizer/sections/blog-single/navigation.php:63
+#: includes/customizer/sections/blog-single/related-posts.php:60
+#: includes/customizer/sections/footer/rows/middle-section.php:194
+#: includes/customizer/sections/footer/rows/top-section.php:179
+#: includes/customizer/sections/header/rows/bottom-section.php:147
+#: includes/customizer/sections/header/rows/middle-section.php:142
+#: includes/customizer/sections/header/rows/top-section.php:127
+msgid "Padding"
+msgstr "Padding"
+
+#: includes/customizer/sections/blog-single/author.php:29
+#: includes/customizer/sections/blog-single/related-posts.php:40
+msgid "Show Section Divider"
+msgstr "Mostra divisore di sezione"
+
+#: includes/customizer/sections/blog-single/author.php:17
+msgid "Enable Author Box"
+msgstr "Attivare la casella dell'autore"
+
+#: includes/customizer/sections/blog-single/advanced.php:44
+msgid "More is coming soon..."
+msgstr "Presto ne arriveranno altre..."
+
+#: includes/customizer/sections/blog-single/advanced.php:43
+msgid "Auto Load Next Posts"
+msgstr "Caricamento automatico dei post successivi"
+
+#: includes/customizer/sections/blog-single/advanced.php:42
+msgid "Progress Bar Height"
+msgstr "Altezza della barra di avanzamento"
+
+#: includes/customizer/sections/blog-single/advanced.php:41
+msgid "Progress Bar Color"
+msgstr "Colore della barra di avanzamento"
+
+#: includes/customizer/sections/blog-single/advanced.php:39
+msgid "Need more Advanced Options?"
+msgstr "Hai bisogno di più opzioni avanzate?"
+
+#: includes/customizer/sections/blog-single/advanced.php:28
+msgid "Enable Progress Bar"
+msgstr "Abilita barra di progressione"
+
+#: includes/customizer/sections/blog-single/advanced.php:19
+msgid "Reading Progress Bar"
+msgstr "Barra di avanzamento della lettura"
+
+#: includes/customizer/sections/blog-page/posts-slider.php:149
+msgid "Custom Navigation Arrows"
+msgstr "Frecce di navigazione personalizzate"
+
+#: includes/customizer/sections/blog-page/posts-slider.php:148
+#: includes/customizer/sections/header/elements/news-ticker.php:189
+msgid "Slider Autoplay on Load"
+msgstr "Slider riproduzione automatica al caricamento"
+
+#: includes/customizer/sections/blog-page/posts-slider.php:147
+msgid "Unlimited Number of Posts"
+msgstr "Numero illimitato di post"
+
+#: includes/customizer/sections/blog-page/posts-slider.php:146
+#: includes/customizer/sections/header/elements/news-ticker.php:186
+msgid "Order: Modified, Popular, Random..."
+msgstr "Ordine: Modificato, Popolare, Casuale..."
+
+#: includes/customizer/sections/blog-page/posts-slider.php:145
+msgid "Choose 1, 2, 3, or 4 Columns"
+msgstr "Scegli 1, 2, 3 o 4 colonne"
+
+#: includes/customizer/sections/blog-page/posts-slider.php:143
+msgid "Need more Posts Slider Options?"
+msgstr "Hai bisogno di più opzioni per lo slider dei post?"
+
+#: includes/customizer/sections/blog-page/posts-slider.php:132
+msgid "Time Ago"
+msgstr "Tempo fa"
+
+#: includes/customizer/sections/blog-page/posts-slider.php:131
+msgid "WordPress Default"
+msgstr "WordPress predefinito"
+
+#: includes/customizer/sections/blog-page/posts-slider.php:128
+#: includes/customizer/sections/header/elements/date-and-time.php:10
+msgid "Date Format"
+msgstr "Formato data"
+
+#: includes/customizer/sections/blog-page/posts-slider.php:97
+msgid "Elements"
+msgstr "Elementi"
+
+#: includes/customizer/sections/blog-page/posts-slider.php:85
+msgid "Show Arrows"
+msgstr "Mostra Frecce"
+
+#: includes/customizer/sections/blog-page/posts-slider.php:78
+#: includes/customizer/sections/register-sections.php:311
+msgid "Navigation"
+msgstr "Navigazione"
+
+#: includes/customizer/sections/blog-page/posts-slider.php:66
+#: includes/customizer/sections/header/elements/news-ticker.php:60
+#: includes/widgets/newsx-featured-posts-widget.php:57
+#: includes/widgets/newsx-featured-tabs-widget.php:51
+#: includes/widgets/newsx-featured-tabs-widget.php:82
+#: includes/widgets/newsx-grid-widget.php:71
+#: includes/widgets/newsx-list-widget.php:71
+#: includes/widgets/newsx-magazine-widget.php:57
+msgid "Tags"
+msgstr "Tags"
+
+#: includes/customizer/sections/blog-page/posts-slider.php:54
+#: includes/customizer/sections/header/elements/news-ticker.php:48
+#: includes/customizer/sections/register-sections.php:65
+#: includes/widgets/newsx-category-list-widget.php:44
+#: includes/widgets/newsx-featured-posts-widget.php:50
+#: includes/widgets/newsx-featured-tabs-widget.php:44
+#: includes/widgets/newsx-featured-tabs-widget.php:75
+#: includes/widgets/newsx-grid-widget.php:64
+#: includes/widgets/newsx-list-widget.php:64
+#: includes/widgets/newsx-magazine-widget.php:50
+msgid "Categories"
+msgstr "Categorie"
+
+#: includes/customizer/sections/blog-page/posts-slider.php:38
+#: includes/customizer/sections/header/elements/news-ticker.php:32
+#: includes/widgets/newsx-featured-posts-widget.php:43
+#: includes/widgets/newsx-featured-tabs-widget.php:37
+#: includes/widgets/newsx-featured-tabs-widget.php:68
+#: includes/widgets/newsx-grid-widget.php:57
+#: includes/widgets/newsx-list-widget.php:57
+#: includes/widgets/newsx-magazine-widget.php:43
+msgid "Order by"
+msgstr "Ordina per"
+
+#: includes/customizer/sections/blog-page/posts-slider.php:29
+#: includes/widgets/newsx-category-list-widget.php:37
+#: includes/widgets/newsx-featured-posts-widget.php:37
+#: includes/widgets/newsx-grid-widget.php:51
+#: includes/widgets/newsx-list-widget.php:51
+#: includes/widgets/newsx-magazine-widget.php:37
+msgid "Query"
+msgstr "Query"
+
+#: includes/customizer/sections/blog-page/posts-slider.php:17
+msgid "Please Note: Posts Slider will only be displayed on the blog page if Settings > Reading > \"Front page displays\" is set to \"A static page\"."
+msgstr "Nota: il cursore dei post verrà visualizzato sulla pagina del blog solo se Impostazioni > Lettura > \"Visualizzazione della prima pagina\" è impostato su \"Una pagina statica\"."
+
+#: includes/customizer/sections/blog-page/posts-slider.php:16
+#: includes/customizer/sections/footer/rows/middle-section.php:10
+#: includes/customizer/sections/footer/rows/top-section.php:10
+#: includes/customizer/sections/header/rows/bottom-section.php:10
+#: includes/customizer/sections/header/rows/middle-section.php:10
+#: includes/customizer/sections/header/rows/top-section.php:10
+msgid "Enable this Section"
+msgstr "Abilita questa sezione"
+
+#: includes/customizer/sections/blog-page/posts-feed.php:58
+#: includes/customizer/sections/blog-page/posts-slider.php:151
+#: includes/customizer/sections/blog-single/header.php:142
+#: includes/customizer/sections/blog-single/sharing.php:195
+#: includes/customizer/sections/footer/rows/bottom-section.php:28
+#: includes/customizer/sections/footer/rows/middle-section.php:240
+#: includes/customizer/sections/footer/rows/top-section.php:225
+#: includes/customizer/sections/header/elements/news-ticker.php:193
+#: includes/customizer/sections/header/elements/offcanvas.php:136
+#: includes/customizer/sections/header/elements/primary-menu.php:278
+#: includes/customizer/sections/header/elements/search.php:115
+#: includes/customizer/sections/header/elements/secondary-menu.php:240
+#: includes/customizer/sections/header/rows/bottom-section.php:199
+#: includes/customizer/sections/header/rows/middle-section.php:194
+#: includes/customizer/sections/header/rows/top-section.php:179
+msgid "And much more...."
+msgstr "E molto altro ancora..."
+
+#: includes/customizer/sections/blog-page/posts-feed.php:57
+#: includes/customizer/sections/blog-page/posts-slider.php:150
+msgid "Custom Read More Text"
+msgstr "Testo \"Leggi altro\" personalizzato"
+
+#: includes/customizer/sections/blog-page/posts-feed.php:56
+msgid "Custom Excerpt Letter Count"
+msgstr "Conteggio lettere estratto personalizzato"
+
+#: includes/customizer/sections/blog-page/posts-feed.php:55
+msgid "Show Author Avatar"
+msgstr "Mostra autore Avatar"
+
+#: includes/customizer/sections/blog-page/posts-feed.php:54
+#: includes/customizer/sections/blog-single/header.php:141
+#: includes/widgets/newsx-grid-widget.php:105
+#: includes/widgets/newsx-list-widget.php:118
+#: includes/widgets/newsx-magazine-widget.php:97
+msgid "Date Format: Last Updated"
+msgstr "Formato data: Ultimo aggiornamento"
+
+#: includes/customizer/sections/blog-page/posts-feed.php:53
+msgid "Grid Layout: 1, 2, 3 Columns"
+msgstr "Layout griglia: 1, 2, 3 colonne"
+
+#: includes/customizer/sections/blog-page/posts-feed.php:51
+msgid "Need more Blog Feed Options?"
+msgstr "Hai bisogno di più opzioni per i feed del blog?"
+
+#: includes/customizer/sections/blog-page/posts-feed.php:37
+msgid "Image links to Single Page"
+msgstr "Collegamenti immagine a pagina singola"
+
+#: includes/customizer/sections/blog-page/posts-feed.php:29
+#: includes/customizer/sections/blog-page/posts-slider.php:117
+msgid "Title Letter Count"
+msgstr "Numero di lettere del titolo"
+
+#: includes/customizer/sections/blog-page/posts-feed.php:18
+#: includes/customizer/sections/blog-page/posts-slider.php:106
+msgid "Title Tag"
+msgstr "Tag del titolo di lavoro"
+
+#: includes/customizer/kirki/upgrade-notifications.php:30
+msgid "Important Upgrade Notice:"
+msgstr "Avviso di aggiornamento importante:"
+
+#: includes/customizer/kirki/pro-src/packages/kirki-pro-tabs/edd/EDD_SL_Plugin_Updater.php:484
+msgid "Error"
+msgstr "Errore"
+
+#: includes/customizer/kirki/pro-src/packages/kirki-pro-tabs/edd/EDD_SL_Plugin_Updater.php:484
+msgid "You do not have permission to install plugin updates"
+msgstr "Non hai il permesso di installare gli aggiornamenti dei plugin"
+
+#: includes/customizer/kirki/pro-src/packages/kirki-pro-tabs/edd/EDD_SL_Plugin_Updater.php:252
+msgid "Update now."
+msgstr "Aggiorna adesso."
+
+#: includes/customizer/kirki/pro-src/packages/kirki-pro-tabs/edd/EDD_SL_Plugin_Updater.php:241
+msgid "%1$sView version %2$s details%3$s or %4$supdate now%5$s."
+msgstr "%1$sGuarda i dettagli della versione %2$s%3$s o %4$saggiorna adesso%5$s."
+
+#. translators: 1. opening anchor tag, do not translate 2. the new plugin
+#. version 3. closing anchor tag, do not translate.
+#: includes/customizer/kirki/pro-src/packages/kirki-pro-tabs/edd/EDD_SL_Plugin_Updater.php:233
+msgid "%1$sView version %2$s details%3$s."
+msgstr "%1$sGuarda i dettagli della versione %2$s%3$s."
+
+#: includes/customizer/kirki/pro-src/packages/kirki-pro-tabs/edd/EDD_SL_Plugin_Updater.php:228
+msgid "Contact your network administrator to install the update."
+msgstr "Contatta il tuo amministratore di rete per installare l'aggiornamento."
+
+#. translators: the plugin name.
+#: includes/customizer/kirki/pro-src/packages/kirki-pro-tabs/edd/EDD_SL_Plugin_Updater.php:222
+msgid "There is a new version of %1$s available."
+msgstr "È disponibile una nuova versione di %1$s."
+
+#: includes/customizer/kirki/kirki-packages/settings/templates/settings-template.php:38
+#: includes/widgets/newsx-social-icons-widget.php:35
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: includes/customizer/kirki/kirki-packages/settings/templates/settings-template.php:26
+msgid "The #1 Customizer Toolkit for WordPress Theme Developers."
+msgstr "Il toolkit di personalizzazione n. 1 per gli sviluppatori di temi WordPress."
+
+#: includes/customizer/kirki/kirki-packages/settings/templates/metaboxes/documentation.php:34
+msgid "The following article provides a detailed explanation of the Clear Font Cache option in Kirki."
+msgstr "Il seguente articolo fornisce una spiegazione dettagliata dell'opzione Cancella cache caratteri in Kirki."
+
+#: includes/customizer/kirki/kirki-packages/settings/templates/metaboxes/documentation.php:31
+msgid "For more information, please refer to your theme's documentation."
+msgstr "Per ulteriori informazioni, consulta la documentazione del tuo tema."
+
+#: includes/customizer/kirki/kirki-packages/settings/templates/metaboxes/documentation.php:20
+msgid "It provides advanced customization options within the WordPress Customizer, allowing you to easily modify the appearance of your site."
+msgstr "Offre opzioni di personalizzazione avanzate all'interno di WordPress Customizer, consentendoti di modificare facilmente l'aspetto del tuo sito."
+
+#: includes/customizer/kirki/kirki-packages/settings/templates/metaboxes/documentation.php:17
+msgid "Kirki is a key component of the WordPress theme you have installed."
+msgstr "Kirki è un componente chiave del tema WordPress che hai installato."
+
+#: includes/customizer/kirki/kirki-packages/settings/templates/metaboxes/documentation.php:13
+msgid "Why do I see this?"
+msgstr "Perché vedo questo?"
+
+#: includes/customizer/kirki/kirki-packages/settings/templates/metaboxes/clear-font-cache.php:26
+msgid "Clear Cache"
+msgstr "Cancella la Cache"
+
+#: includes/customizer/kirki/kirki-packages/settings/templates/metaboxes/clear-font-cache.php:19
+msgid "This is safe to do on production sites."
+msgstr "Questa operazione può essere eseguita in sicurezza nei siti di produzione."
+
+#: includes/customizer/kirki/kirki-packages/settings/templates/metaboxes/clear-font-cache.php:16
+msgid "If Google Fonts selected in the Customizer are not displayed correctly, please try clearing the font cache."
+msgstr "Se i Google Fonts selezionati nel Personalizzatore non vengono visualizzati correttamente, prova a cancellare la cache dei font."
+
+#: includes/customizer/kirki/kirki-packages/settings/templates/metaboxes/clear-font-cache.php:15
+msgid "In order to achieve GDPR-compliance, Kirki stores Google Fonts locally on your server."
+msgstr "Per garantire la conformità al GDPR, Kirki memorizza i Google Fonts localmente sul tuo server."
+
+#: includes/customizer/kirki/kirki-packages/settings/templates/metaboxes/clear-font-cache.php:12
+msgid "Clear Font Cache"
+msgstr "Cancella cache caratteri"
+
+#: includes/customizer/kirki/kirki-packages/settings/src/SetupSettings.php:55
+msgid "Kirki"
+msgstr "Kirki"
+
+#: includes/customizer/kirki/kirki-packages/settings/src/SetupSettings.php:54
+#: includes/customizer/kirki/kirki-packages/settings/templates/settings-template.php:23
+msgid "Kirki Customizer Framework"
+msgstr "Framework di personalizzazione Kirki"
+
+#: includes/customizer/kirki/kirki-packages/settings/src/Notice.php:144
+msgid "Discount notice has been dismissed"
+msgstr "L'avviso di sconto è stato respinto"
+
+#: includes/customizer/kirki/kirki-packages/settings/src/Notice.php:136
+msgid "You don't have capability to run this action"
+msgstr "Non hai la capacità di eseguire questa azione"
+
+#: includes/customizer/kirki/kirki-packages/settings/src/Notice.php:132
+msgid "Invalid nonce"
+msgstr "Nonce non valido"
+
+#: includes/customizer/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:184
+msgid "Ultra-Bold 900 Italic"
+msgstr "Ultra-Bold 900 Italic"
+
+#: includes/customizer/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:182
+#: includes/customizer/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:183
+msgid "Ultra-Bold 900"
+msgstr "Ultra-Bold 900"
+
+#: includes/customizer/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:181
+msgid "Extra-Bold 800 Italic"
+msgstr "Extra-Bold 800 Italic"
+
+#: includes/customizer/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:179
+#: includes/customizer/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:180
+msgid "Extra-Bold 800"
+msgstr "Extra-Bold 800"
+
+#: includes/customizer/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:178
+msgid "Bold 700 Italic"
+msgstr "Bold 700 Italic"
+
+#: includes/customizer/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:177
+msgid "Bold 700"
+msgstr "Bold 700"
+
+#: includes/customizer/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:176
+msgid "Semi-Bold 600 Italic"
+msgstr "Semi-Bold 600 Italic"
+
+#: includes/customizer/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:174
+#: includes/customizer/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:175
+msgid "Semi-Bold 600"
+msgstr "Semi-Bold 600"
+
+#: includes/customizer/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:173
+msgid "Medium 500 Italic"
+msgstr "Medium 500 Italic"
+
+#: includes/customizer/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:172
+msgid "Medium 500"
+msgstr "Medium 500"
+
+#: includes/customizer/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:171
+msgid "Normal 400 Italic"
+msgstr "Normal 400 Italic"
+
+#: includes/customizer/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:169
+#: includes/customizer/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:170
+msgid "Normal 400"
+msgstr "Normal 400"
+
+#: includes/customizer/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:168
+msgid "Book 300 Italic"
+msgstr "Book 300 Italic"
+
+#: includes/customizer/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:167
+msgid "Book 300"
+msgstr "Book 300"
+
+#: includes/customizer/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:166
+msgid "Light 200 Italic"
+msgstr "Light 200 Italic"
+
+#: includes/customizer/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:165
+msgid "Light 200"
+msgstr "Light 200"
+
+#: includes/customizer/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:164
+msgid "Ultra-Light 100 Italic"
+msgstr "Ultra-Light 100 Italic"
+
+#: includes/customizer/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:162
+#: includes/customizer/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:163
+msgid "Ultra-Light 100"
+msgstr "Ultra-Light 100"
+
+#. translators: The title.
+#: includes/customizer/kirki/kirki-packages/module-sections/src/Section_Types/Nested.php:65
+msgid "Customizing &#9656; %s"
+msgstr "Personalizzazione %s"
+
+#: includes/customizer/kirki/kirki-packages/module-sections/src/Section_Types/Nested.php:62
+msgid "Customizing"
+msgstr "Personalizzazione"
+
+#: includes/customizer/kirki/kirki-packages/field-typography/src/Field/Typography.php:935
+msgid "Google Fonts"
+msgstr "Google Fonts"
+
+#: includes/customizer/kirki/kirki-packages/field-typography/src/Field/Typography.php:930
+msgid "Standard Fonts"
+msgstr "Font standard"
+
+#: includes/customizer/kirki/kirki-packages/field-typography/src/Field/Typography.php:903
+msgid "Defaults"
+msgstr "Predefinite"
+
+#: includes/customizer/kirki/kirki-packages/field-typography/src/Field/Typography.php:468
+msgid "Margin Bottom"
+msgstr "Margine Inferiore"
+
+#: includes/customizer/kirki/kirki-packages/field-typography/src/Field/Typography.php:463
+msgid "Margin Top"
+msgstr "Margine Superiore"
+
+#: includes/customizer/kirki/kirki-packages/field-typography/src/Field/Typography.php:418
+msgid "Wavy"
+msgstr "Ondulato"
+
+#: includes/customizer/kirki/kirki-packages/field-typography/src/Field/Typography.php:417
+msgid "Solid"
+msgstr "Solido"
+
+#: includes/customizer/kirki/kirki-packages/field-typography/src/Field/Typography.php:416
+msgid "Overline"
+msgstr "Sopralineato"
+
+#: includes/customizer/kirki/kirki-packages/field-typography/src/Field/Typography.php:415
+msgid "Line Through"
+msgstr "Barrato"
+
+#: includes/customizer/kirki/kirki-packages/field-typography/src/Field/Typography.php:414
+msgid "Underline"
+msgstr "Sottolineato"
+
+#: includes/customizer/kirki/kirki-packages/field-typography/src/Field/Typography.php:410
+msgid "Text Decoration"
+msgstr "Decorazione Testo"
+
+#: includes/customizer/kirki/kirki-packages/field-typography/src/Field/Typography.php:396
+msgid "Lowercase"
+msgstr "Minuscolo"
+
+#: includes/customizer/kirki/kirki-packages/field-typography/src/Field/Typography.php:395
+msgid "Uppercase"
+msgstr "Maiuscolo"
+
+#: includes/customizer/kirki/kirki-packages/field-typography/src/Field/Typography.php:394
+msgid "Capitalize"
+msgstr "Iniziali maiuscole"
+
+#: includes/customizer/kirki/kirki-packages/field-typography/src/Field/Typography.php:393
+#: includes/customizer/kirki/kirki-packages/field-typography/src/Field/Typography.php:413
+#: includes/customizer/sections/header/elements/news-ticker.php:94
+#: includes/customizer/sections/header/elements/primary-menu.php:18
+#: includes/customizer/sections/header/elements/primary-menu.php:37
+#: includes/customizer/sections/header/elements/primary-menu.php:66
+#: includes/customizer/sections/header/elements/secondary-menu.php:18
+#: includes/customizer/sections/header/elements/secondary-menu.php:37
+msgid "None"
+msgstr "Nessuna"
+
+#: includes/customizer/kirki/kirki-packages/field-typography/src/Field/Typography.php:390
+msgid "Text Transform"
+msgstr "Trasformazione Testo"
+
+#: includes/customizer/kirki/kirki-packages/field-typography/src/Field/Typography.php:385
+msgid "Justify"
+msgstr "Giustificato"
+
+#: includes/customizer/kirki/kirki-packages/field-typography/src/Field/Typography.php:381
+msgid "Initial"
+msgstr "Initial"
+
+#: includes/customizer/kirki/kirki-packages/field-typography/src/Field/Typography.php:378
+msgid "Text Align"
+msgstr "Allineamento Testo"
+
+#: includes/customizer/kirki/kirki-packages/field-typography/src/Field/Typography.php:320
+msgid "Font Variant"
+msgstr "Variante Caratteri"
+
+#: includes/customizer/kirki/kirki-packages/field-typography/src/Field/Typography.php:293
+msgid "Font Family"
+msgstr "Famiglia di font"
+
+#: includes/customizer/kirki/kirki-packages/field-typography/src/Field/Typography.php:199
+msgid "900 Italic"
+msgstr "900 Italic"
+
+#: includes/customizer/kirki/kirki-packages/field-typography/src/Field/Typography.php:195
+msgid "900"
+msgstr "900"
+
+#: includes/customizer/kirki/kirki-packages/field-typography/src/Field/Typography.php:191
+msgid "800 Italic"
+msgstr "800 Italic"
+
+#: includes/customizer/kirki/kirki-packages/field-typography/src/Field/Typography.php:187
+msgid "800"
+msgstr "800"
+
+#: includes/customizer/kirki/kirki-packages/field-typography/src/Field/Typography.php:175
+msgid "600 Italic"
+msgstr "600 Italic"
+
+#: includes/customizer/kirki/kirki-packages/field-typography/src/Field/Typography.php:171
+msgid "600"
+msgstr "600"
+
+#: includes/customizer/kirki/kirki-packages/field-typography/src/Field/Typography.php:167
+msgid "500 Italic"
+msgstr "500 Italic"
+
+#: includes/customizer/kirki/kirki-packages/field-typography/src/Field/Typography.php:163
+msgid "500"
+msgstr "500"
+
+#: includes/customizer/kirki/kirki-packages/field-typography/src/Field/Typography.php:159
+msgid "300 Italic"
+msgstr "400 Italic"
+
+#: includes/customizer/kirki/kirki-packages/field-typography/src/Field/Typography.php:155
+msgid "300"
+msgstr "300"
+
+#: includes/customizer/kirki/kirki-packages/field-typography/src/Field/Typography.php:151
+msgid "200 Italic"
+msgstr "200 Italic"
+
+#: includes/customizer/kirki/kirki-packages/field-typography/src/Field/Typography.php:147
+msgid "200"
+msgstr "200"
+
+#: includes/customizer/kirki/kirki-packages/field-typography/src/Field/Typography.php:143
+msgid "100 Italic"
+msgstr "100 Italic"
+
+#: includes/customizer/kirki/kirki-packages/field-typography/src/Field/Typography.php:139
+msgid "100"
+msgstr "100"
+
+#: includes/customizer/kirki/kirki-packages/field-typography/src/Field/Typography.php:124
+#: includes/customizer/kirki/kirki-packages/field-typography/src/Field/Typography.php:183
+msgid "700 Italic"
+msgstr "700 Italic"
+
+#: includes/customizer/kirki/kirki-packages/field-typography/src/Field/Typography.php:120
+#: includes/customizer/kirki/kirki-packages/field-typography/src/Field/Typography.php:179
+msgid "700"
+msgstr "700"
+
+#: includes/customizer/kirki/kirki-packages/field-typography/src/Field/Typography.php:116
+#: includes/customizer/kirki/kirki-packages/field-typography/src/Field/Typography.php:135
+msgid "Italic"
+msgstr "Corsivo"
+
+#: includes/customizer/kirki/kirki-packages/field-typography/src/Field/Typography.php:112
+#: includes/customizer/kirki/kirki-packages/field-typography/src/Field/Typography.php:131
+msgid "Regular"
+msgstr "Regolare"
+
+#: includes/customizer/kirki/kirki-packages/field-dimensions/src/Dimensions.php:73
+msgid "Height"
+msgstr "Altezza"
+
+#: includes/customizer/kirki/kirki-packages/field-dimensions/src/Dimensions.php:72
+#: includes/widgets/newsx-heading-widget.php:40
+msgid "Width"
+msgstr "Larghezza"
+
+#: includes/customizer/kirki/kirki-packages/field-dimensions/src/Dimensions.php:70
+msgid "Size"
+msgstr "Dimensione"
+
+#: includes/customizer/kirki/kirki-packages/field-dimensions/src/Dimensions.php:69
+#: includes/customizer/kirki/kirki-packages/field-typography/src/Field/Typography.php:383
+#: includes/customizer/sections/header/rows/bottom-section.php:67
+#: includes/customizer/sections/header/rows/middle-section.php:62
+#: includes/customizer/sections/header/rows/top-section.php:47
+msgid "Center"
+msgstr "Centro"
+
+#: includes/customizer/kirki/kirki-packages/field-dimensions/src/Dimensions.php:68
+#: includes/customizer/kirki/kirki-packages/field-typography/src/Field/Typography.php:384
+#: includes/customizer/sections/header/rows/bottom-section.php:68
+#: includes/customizer/sections/header/rows/middle-section.php:63
+#: includes/customizer/sections/header/rows/top-section.php:48
+msgid "Right"
+msgstr "Destra"
+
+#: includes/customizer/kirki/kirki-packages/field-dimensions/src/Dimensions.php:67
+#: includes/customizer/kirki/kirki-packages/field-typography/src/Field/Typography.php:382
+#: includes/customizer/sections/header/rows/bottom-section.php:66
+#: includes/customizer/sections/header/rows/middle-section.php:61
+#: includes/customizer/sections/header/rows/top-section.php:46
+msgid "Left"
+msgstr "Sinistra"
+
+#: includes/customizer/kirki/kirki-packages/field-dimensions/src/Dimensions.php:66
+msgid "Bottom"
+msgstr "Sotto"
+
+#: includes/customizer/kirki/kirki-packages/field-dimensions/src/Dimensions.php:65
+msgid "Top"
+msgstr "In alto"
+
+#: includes/customizer/kirki/kirki-packages/field-dimensions/src/Dimensions.php:64
+msgid "Word Spacing"
+msgstr "Spaziatura parole"
+
+#: includes/customizer/kirki/kirki-packages/field-dimensions/src/Dimensions.php:63
+#: includes/customizer/kirki/kirki-packages/field-typography/src/Field/Typography.php:443
+msgid "Letter Spacing"
+msgstr "Spaziatura lettere"
+
+#: includes/customizer/kirki/kirki-packages/field-dimensions/src/Dimensions.php:62
+msgid "Font Style"
+msgstr "Stile Carattere"
+
+#: includes/customizer/kirki/kirki-packages/field-dimensions/src/Dimensions.php:61
+#: includes/customizer/kirki/kirki-packages/field-typography/src/Field/Typography.php:433
+msgid "Line Height"
+msgstr "Altezza riga"
+
+#: includes/customizer/kirki/kirki-packages/field-dimensions/src/Dimensions.php:60
+msgid "Font Weight"
+msgstr "Font Weight"
+
+#: includes/customizer/kirki/kirki-packages/field-dimensions/src/Dimensions.php:59
+#: includes/customizer/kirki/kirki-packages/field-typography/src/Field/Typography.php:343
+msgid "Font Size"
+msgstr "Dimensione Carattere"
+
+#: includes/customizer/kirki/kirki-packages/field-background/src/Background.php:314
+msgid "Fixed"
+msgstr "Fisso"
+
+#: includes/customizer/kirki/kirki-packages/field-background/src/Background.php:313
+msgid "Scroll"
+msgstr "Scorri"
+
+#: includes/customizer/kirki/kirki-packages/field-background/src/Background.php:309
+msgid "Background Attachment"
+msgstr "Sfondo Allegato"
+
+#: includes/customizer/kirki/kirki-packages/field-background/src/Background.php:293
+msgid "Auto"
+msgstr "Auto"
+
+#: includes/customizer/kirki/kirki-packages/field-background/src/Background.php:292
+msgid "Contain"
+msgstr "Contenere"
+
+#: includes/customizer/kirki/kirki-packages/field-background/src/Background.php:291
+msgid "Cover"
+msgstr "Cover"
+
+#: includes/customizer/kirki/kirki-packages/field-background/src/Background.php:287
+msgid "Background Size"
+msgstr "Sfondo Dimensione"
+
+#: includes/customizer/kirki/kirki-packages/field-background/src/Background.php:272
+#: includes/customizer/kirki/kirki-packages/field-dimensions/src/Dimensions.php:55
+msgid "Right Bottom"
+msgstr "In Basso a Destra"
+
+#: includes/customizer/kirki/kirki-packages/field-background/src/Background.php:271
+#: includes/customizer/kirki/kirki-packages/field-dimensions/src/Dimensions.php:54
+msgid "Right Center"
+msgstr "Centrato a Destra"
+
+#: includes/customizer/kirki/kirki-packages/field-background/src/Background.php:270
+#: includes/customizer/kirki/kirki-packages/field-dimensions/src/Dimensions.php:53
+msgid "Right Top"
+msgstr "In alto a destra"
+
+#: includes/customizer/kirki/kirki-packages/field-background/src/Background.php:269
+#: includes/customizer/kirki/kirki-packages/field-dimensions/src/Dimensions.php:58
+msgid "Center Bottom"
+msgstr "Centrato in basso"
+
+#: includes/customizer/kirki/kirki-packages/field-background/src/Background.php:268
+#: includes/customizer/kirki/kirki-packages/field-dimensions/src/Dimensions.php:57
+msgid "Center Center"
+msgstr "Centrato"
+
+#: includes/customizer/kirki/kirki-packages/field-background/src/Background.php:267
+#: includes/customizer/kirki/kirki-packages/field-dimensions/src/Dimensions.php:56
+msgid "Center Top"
+msgstr "Centrato in alto"
+
+#: includes/customizer/kirki/kirki-packages/field-background/src/Background.php:266
+#: includes/customizer/kirki/kirki-packages/field-dimensions/src/Dimensions.php:52
+msgid "Left Bottom"
+msgstr "In Basso a Sinistra"
+
+#: includes/customizer/kirki/kirki-packages/field-background/src/Background.php:265
+#: includes/customizer/kirki/kirki-packages/field-dimensions/src/Dimensions.php:51
+msgid "Left Center"
+msgstr "Centrato a sinistra"
+
+#: includes/customizer/kirki/kirki-packages/field-background/src/Background.php:264
+#: includes/customizer/kirki/kirki-packages/field-dimensions/src/Dimensions.php:50
+msgid "Left Top"
+msgstr "In alto a sinistra"
+
+#: includes/customizer/kirki/kirki-packages/field-background/src/Background.php:260
+msgid "Background Position"
+msgstr "Posizione Sfondo"
+
+#: includes/customizer/kirki/kirki-packages/field-background/src/Background.php:245
+msgid "Repeat Vertically"
+msgstr "Ripeti in verticale"
+
+#: includes/customizer/kirki/kirki-packages/field-background/src/Background.php:244
+msgid "Repeat Horizontally"
+msgstr "Ripeti in orizzontale"
+
+#: includes/customizer/kirki/kirki-packages/field-background/src/Background.php:243
+msgid "Repeat All"
+msgstr "Ripeti tutto"
+
+#: includes/customizer/kirki/kirki-packages/field-background/src/Background.php:242
+msgid "No Repeat"
+msgstr "Non ripetere"
+
+#: includes/customizer/kirki/kirki-packages/field-background/src/Background.php:238
+msgid "Background Repeat"
+msgstr "Ripeti Sfondo"
+
+#: includes/customizer/kirki/kirki-packages/field-background/src/Background.php:222
+msgid "Background Image"
+msgstr "Immagine di Sfondo"
+
+#: includes/customizer/kirki/kirki-packages/field-background/src/Background.php:201
+msgid "Gradient Angle"
+msgstr "Angolo di gradiente"
+
+#: includes/customizer/kirki/kirki-packages/field-background/src/Background.php:180
+msgid "End Color Position"
+msgstr "Posizione colore finale"
+
+#: includes/customizer/kirki/kirki-packages/field-background/src/Background.php:159
+msgid "Sart Color Position"
+msgstr "Posizione del colore iniziale"
+
+#: includes/customizer/kirki/kirki-packages/field-background/src/Background.php:140
+msgid "End Color"
+msgstr "Colore finale"
+
+#: includes/customizer/kirki/kirki-packages/field-background/src/Background.php:121
+msgid "Start Color"
+msgstr "Inizio Colore"
+
+#: includes/customizer/kirki/kirki-packages/field-background/src/Background.php:102
+msgid "Background Color"
+msgstr "Colore di sfondo"
+
+#: includes/customizer/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:575
+msgid "Manage Right Sidebar Widgets"
+msgstr "Gestisci i widget della barra laterale destra"
+
+#: includes/customizer/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:574
+msgid "Manage Left Sidebar Widgets"
+msgstr "Gestisci i widget della barra laterale sinistra"
+
+#: includes/customizer/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:573
+msgid "Manage Content Widgets"
+msgstr "Gestisci widget di contenuto"
+
+#: includes/customizer/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:571
+msgid "Edit Options"
+msgstr "Modifica Opzioni"
+
+#: includes/customizer/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:551
+#: includes/customizer/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:553
+msgid "Change File"
+msgstr "Cambia File"
+
+#: includes/customizer/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:551
+#: includes/customizer/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:555
+msgid "Add File"
+msgstr "Aggiungi File"
+
+#: includes/customizer/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:540
+#: includes/customizer/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:545
+msgid "No File Selected"
+msgstr "Nessun file selezionato"
+
+#: includes/customizer/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:519
+#: includes/customizer/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:521
+msgid "Change Image"
+msgstr "Cambia immagine"
+
+#: includes/customizer/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:519
+#: includes/customizer/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:523
+msgid "Add Image"
+msgstr "Aggiungi immagine"
+
+#: includes/customizer/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:508
+#: includes/customizer/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:513
+msgid "No Image Selected"
+msgstr "Nessuna immagine selezionata"
+
+#. translators: %s represents the number of rows we're limiting the repeater to
+#. allow.
+#: includes/customizer/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:275
+msgid "Limit: %s rows"
+msgstr "Limite: %s righe"
+
+#: includes/customizer/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:139
+msgid "Select a Page"
+msgstr "Seleziona una pagina"
+
+#. translators: %s represents the label of the row.
+#: includes/customizer/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:104
+msgid "Add new %s"
+msgstr "Aggiungi nuovo %s"
+
+#: includes/customizer/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:95
+msgid "row"
+msgstr "riga"
+
+#. translators: %s is the limit of selection number.
+#: includes/customizer/kirki/kirki-packages/control-react-select/src/Control/ReactSelect.php:169
+msgid "You can only select %s items"
+msgstr "Puoi selezionare solo %s elementi"
+
+#: includes/customizer/kirki/kirki-packages/control-react-select/src/Control/ReactSelect.php:162
+msgid "Select..."
+msgstr "Seleziona..."
+
+#: includes/customizer/kirki/kirki-packages/control-image/src/Field/Image.php:117
+msgid "Choose image"
+msgstr "Scegli immagine"
+
+#: includes/customizer/kirki/kirki-packages/control-image/src/Field/Image.php:112
+msgid "Change image"
+msgstr "Cambia immagine"
+
+#: includes/customizer/kirki/kirki-packages/control-image/src/Control/Image.php:89
+#: includes/customizer/kirki/kirki-packages/control-image/src/Field/Image.php:111
+#: includes/customizer/kirki/kirki-packages/control-image/src/Field/Image.php:116
+msgid "Select image"
+msgstr "Seleziona immagine"
+
+#: includes/customizer/kirki/kirki-packages/control-image/src/Control/Image.php:87
+#: includes/customizer/kirki/kirki-packages/control-image/src/Field/Image.php:113
+#: includes/customizer/kirki/kirki-packages/field-typography/src/Field/Typography.php:905
+#: includes/customizer/sections/blog-single/header.php:22
+#: includes/customizer/sections/blog-single/navigation.php:33
+#: includes/customizer/sections/blog-single/sharing.php:43
+#: includes/customizer/sections/header/elements/search.php:32
+#: includes/customizer/sections/header/elements/site-identity.php:69
+#: includes/widgets/newsx-category-list-widget.php:56
+#: includes/widgets/newsx-heading-widget.php:37
+msgid "Default"
+msgstr "Predefinito"
+
+#: includes/customizer/kirki/kirki-packages/control-image/src/Control/Image.php:85
+#: includes/customizer/kirki/kirki-packages/control-image/src/Field/Image.php:114
+#: includes/customizer/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:518
+#: includes/customizer/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:550
+#: includes/customizer/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:588
+msgid "Remove"
+msgstr "Rimuovi"
+
+#: includes/customizer/kirki/kirki-packages/control-image/src/Control/Image.php:82
+#: includes/customizer/kirki/kirki-packages/control-image/src/Field/Image.php:115
+#: includes/customizer/kirki/kirki-packages/control-image/dist/control.js:1
+#: includes/customizer/kirki/kirki-packages/control-image/src/control.js:100
+#: includes/customizer/kirki/kirki-packages/control-image/dist/control.js:100
+msgid "No image selected"
+msgstr "Nessuna immagine selezionata"
+
+#: includes/customizer/kirki/kirki-packages/control-dimension/src/Control/Dimension.php:67
+#: includes/customizer/kirki/kirki-packages/field-dimensions/src/Dimensions.php:74
+msgid "Invalid Value"
+msgstr "Valore non valido"
+
+#: includes/customizer/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:116
+msgid "Miscelaneous"
+msgstr "Miscellanea"
+
+#: includes/customizer/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:115
+msgid "Notifications"
+msgstr "Notifiche"
+
+#: includes/customizer/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:114
+#: includes/customizer/sections/register-sections.php:59
+msgid "Widgets"
+msgstr "Widgets"
+
+#: includes/customizer/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:113
+msgid "Taxonomies"
+msgstr "Tassonomie"
+
+#: includes/customizer/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:112
+msgid "Products"
+msgstr "Prodotti"
+
+#: includes/customizer/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:110
+msgid "Social"
+msgstr "Social"
+
+#: includes/customizer/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:109
+msgid "Sorting"
+msgstr "Ordinamento"
+
+#: includes/customizer/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:108
+msgid "Posts"
+msgstr "Articoli"
+
+#: includes/customizer/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:106
+msgid "Image Editing"
+msgstr "Modifica delle immagini"
+
+#: includes/customizer/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:105
+msgid "Media"
+msgstr "Media"
+
+#: includes/customizer/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:104
+msgid "Post Formats"
+msgstr "Formati articolo"
+
+#: includes/customizer/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:103
+msgid "Welcome Screen"
+msgstr "Schermata di benvenuto"
+
+#: includes/customizer/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:102
+msgid "Admin Menu"
+msgstr "Menu Amministratore"
+
+#: includes/customizer/kirki/kirki-packages/control-custom/src/Control/Custom.php:110
+msgid "Image"
+msgstr "Immagine"
+
+#: includes/customizer/kirki/kirki-packages/control-custom/src/Control/Custom.php:109
+msgid "Gradient"
+msgstr "Gradiente"
+
+#: includes/customizer/kirki/kirki-packages/control-custom/src/Control/Custom.php:108
+msgid "Color"
+msgstr "Colore"
+
+#: includes/customizer/kirki/kirki-packages/control-checkbox/src/Control/Checkbox_Switch.php:80
+msgid "Off"
+msgstr "Off"
+
+#: includes/customizer/kirki/kirki-packages/control-checkbox/src/Control/Checkbox_Switch.php:79
+msgid "On"
+msgstr "On"
+
+#: includes/customizer/kirki/kirki-packages/compatibility/src/Kirki.php:191
+msgid "Kirki fields should not be added on customize_register. Please add them directly, or on init."
+msgstr "I campi Kirki non dovrebbero essere aggiunti su customize_register. Si prega di aggiungerli direttamente o su init."
+
+#: includes/customizer/kirki/kirki-packages/compatibility/src/Init.php:261
+msgid "Don't show this again"
+msgstr "Non visualizzare più questo messaggio"
+
+#: includes/customizer/kirki/kirki-packages/compatibility/src/Init.php:260
+msgid "Install Plugin"
+msgstr "Installa Plugin"
+
+#: includes/customizer/kirki/kirki-packages/compatibility/src/Init.php:257
+msgid "Your theme uses a Font Awesome field for icons. To avoid issues with missing icons on your frontend we recommend you install the official Font Awesome plugin."
+msgstr "Il tuo tema utilizza un campo Font Awesome per le icone. Per evitare problemi con le icone mancanti sul frontend, ti consigliamo di installare il plug-in Font Awesome ufficiale."
+
+#: includes/customizer/kirki/kirki-packages/compatibility/src/Init.php:206
+msgid "We detected you're using Kirki\\Compatibility\\Init::get_variables(). Please use \\Kirki\\Util\\Util::get_variables() instead."
+msgstr "We detected you're using Kirki\\Compatibility\\Init::get_variables(). Please use \\Kirki\\Util\\Util::get_variables() instead."
+
+#. translators: The field ID where the error occurs.
+#: includes/customizer/kirki/kirki-packages/compatibility/src/Field.php:533
+#: includes/customizer/kirki/kirki-packages/compatibility/src/Field.php:544
+#: includes/customizer/kirki/kirki-packages/module-css/src/CSS.php:133
+#: includes/customizer/kirki/kirki-packages/module-css/src/CSS.php:144
+#: includes/customizer/kirki/kirki-packages/module-postmessage/src/Postmessage.php:69
+msgid "\"output\" invalid format in field %s. The \"output\" argument should be defined as an array of arrays."
+msgstr "\"output\" non valido nel campo %s. L'argomento \"output\" dovrebbe essere definito come una matrice di matrici."
+
+#. translators: %1$s represents the field ID where the error occurs.
+#: includes/customizer/kirki/kirki-packages/compatibility/src/Field.php:407
+msgid "\"partial_refresh\" invalid entry in field %s"
+msgstr "\"partial_refresh\" voce non valida nel campo %s"
+
+#. translators: %1$s represents the field ID where the error occurs. %2$s is
+#. the URL in the documentation site.
+#: includes/customizer/kirki/kirki-packages/compatibility/src/Field.php:285
+msgid "Config not defined for field %1$s - See %2$s for details on how to properly add fields."
+msgstr "Configurazione non definita per il campo %1$s - Vedere %2$s per i dettagli su come aggiungere correttamente i campi."
+
+#. translators: %s represents the field ID where the error occurs.
+#: includes/customizer/kirki/kirki-packages/compatibility/src/Field.php:274
+msgid "Typo found in field %s - setting instead of settings."
+msgstr "Errore di battitura trovato in campo %s - impostazione al posto delle impostazioni."
+
+#: includes/customizer/kirki/kirki-packages/compatibility/src/deprecated/functions.php:20
+msgid "%1$s or %2$s"
+msgstr "%1$s o %2$s"
+
+#: includes/customizer/extend/override-defaults.php:43
+msgid "Site Icons are what you see in browser tabs, bookmark bars, and within the WordPress mobile apps. Upload one here! Site Icons should be square and at least 512 × 512 pixels."
+msgstr "Le icone del sito sono quelle che vedi nelle schede del browser, nelle barre dei segnalibri e all'interno delle app mobili di WordPress. Caricane una qui! Le icone del sito devono essere quadrate e di almeno 512 × 512 pixel."
+
+#. translators: %1$s: Search term, %2$s: Search field name
+#: includes/customizer/extend/enqueue-scripts.php:36
+msgid "Note: Type %1$s in the %2$s to find all available widgets for the News Magazine X theme."
+msgstr "Nota: digita %1$s in %2$s per trovare tutti i widget disponibili per il tema News Magazine X."
+
+#: includes/customizer/extend/custom-controls.php:161
+msgid "Upgrade to Pro."
+msgstr "Passa alla versione Pro."
+
+#: includes/customizer/extend/custom-controls.php:160
+msgid " Options?"
+msgstr " Opzioni?"
+
+#: includes/customizer/extend/custom-controls.php:160
+msgid "Need more "
+msgstr "Ne ho bisogno di più "
+
+#: includes/custom-functions.php:828
+msgid "Showing %s results for your search"
+msgstr "Visualizzazione di %s risultati per la tua ricerca"
+
+#. Translators: %s: Search query.
+#: includes/custom-functions.php:813
+msgid "Search Results for: %s"
+msgstr "Risultati della ricerca per: %s"
+
+#: includes/custom-functions.php:795
+msgid "Sub Categories:"
+msgstr "Sottocategorie:"
+
+#: includes/custom-functions.php:777
+msgid "Browsing Tag:&nbsp;"
+msgstr "Tag di navigazione:&nbsp;"
+
+#: includes/custom-functions.php:741
+#: includes/customizer/sections/blog-single/sharing.php:173
+msgid "Print Article"
+msgstr "Stampa articolo"
+
+#: includes/custom-functions.php:734
+msgid "Copied!"
+msgstr "Copiato!"
+
+#: includes/custom-functions.php:732
+#: includes/customizer/sections/blog-single/sharing.php:163
+msgid "Copy Link"
+msgstr "Copia Link"
+
+#: includes/custom-functions.php:718
+#: includes/customizer/sections/blog-single/sharing.php:153
+msgid "Email"
+msgstr "Email"
+
+#: includes/custom-functions.php:717
+msgid "I found this article interesting and thought of sharing it with you. Check it out: %s"
+msgstr "Ho trovato questo articolo interessante e ho pensato di condividerlo con voi. Date un'occhiata: %s"
+
+#: includes/custom-functions.php:708
+#: includes/customizer/sections/blog-single/sharing.php:143
+#: includes/widgets/newsx-social-icons-widget.php:134
+#: template-parts/blog-single/author.php:235
+msgid "Telegram"
+msgstr "Telegram"
+
+#: includes/custom-functions.php:698 template-parts/blog-single/author.php:240
+msgid "WhatsApp"
+msgstr "WhatsApp"
+
+#: includes/custom-functions.php:688
+msgid "VK"
+msgstr "VK"
+
+#: includes/custom-functions.php:678
+#: includes/customizer/sections/blog-single/sharing.php:123
+#: template-parts/blog-single/author.php:225
+msgid "Reddit"
+msgstr "Reddit"
+
+#: includes/custom-functions.php:668
+#: includes/customizer/sections/blog-single/sharing.php:113
+#: template-parts/blog-single/author.php:180
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: includes/custom-functions.php:658 template-parts/blog-single/author.php:175
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: includes/custom-functions.php:648
+#: includes/customizer/sections/blog-single/sharing.php:83
+#: includes/widgets/newsx-social-icons-widget.php:92
+#: template-parts/blog-single/author.php:165
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: includes/custom-functions.php:630
+#: includes/customizer/sections/blog-single/sharing.php:73
+msgid "Flipboard"
+msgstr "Flipboard"
+
+#: includes/custom-functions.php:620
+msgid "Twitter"
+msgstr "Twitter"
+
+#: includes/custom-functions.php:610
+#: includes/customizer/sections/blog-single/sharing.php:53
+#: includes/widgets/newsx-social-icons-widget.php:50
+#: template-parts/blog-single/author.php:145
+msgid "Facebook"
+msgstr "Facebook"
+
+#: includes/custom-functions.php:547
+msgid "&nbsp;Views"
+msgstr "&nbsp;Visualizzazioni"
+
+#: includes/custom-functions.php:334
+msgid "Add Widgets"
+msgstr "Aggiungi widget"
+
+#: includes/custom-functions.php:180 includes/custom-functions.php:182
+msgid "Set up menu"
+msgstr "Imposta il menu"
+
+#: includes/custom-functions.php:20
+msgid "Click to edit this element."
+msgstr "Clicca per modificare questo elemento."
+
+#: includes/widgets/newsx-heading-widget.php:31
+msgid "Text"
+msgstr "Testo"
+
+#: includes/customizer/sections/global/colors.php:11
+msgid "Accent"
+msgstr "In risalto"
+
+#: includes/admin/notices/class-newsx-welcome-notice.php:145
+msgid "Installing Starter Templates"
+msgstr "Installazione dei modelli di avvio"
+
+#: includes/admin/notices/class-newsx-welcome-notice.php:113
+msgid "Cheatin&#8217; huh?"
+msgstr "Stai barando&#8217; eh?"
+
+#: includes/admin/notices/class-newsx-welcome-notice.php:92
+msgid "I want to build this website from scratch"
+msgstr "Voglio costruire questo sito web da zero"
+
+#: includes/admin/notices/class-newsx-welcome-notice.php:83
+msgid "Get started with Starter Templates"
+msgstr "Inizia con i modelli di avvio"
+
+#. translators: 1: welcome page link starting html tag, 2: welcome page link
+#. ending html tag.
+#: includes/admin/notices/class-newsx-welcome-notice.php:75
+msgid "To fully enjoy the best features of our theme, click the button below to install the Theme Core plugin. This plugin allows you to import Starter Semplates with a single click."
+msgstr "Per godere appieno delle migliori funzionalità del nostro tema, clicca sul pulsante qui sotto per installare il plugin Theme Core. Questo plugin ti consente di importare Starter Semplates con un solo clic."
+
+#: includes/admin/notices/class-newsx-welcome-notice.php:67
+msgid "Build your website with News Magazine X!"
+msgstr "Crea il tuo sito web con News Magazine X!"
+
+#. translators: 1: Username
+#: includes/admin/notices/class-newsx-welcome-notice.php:59
+msgid "Welcome %1$s!"
+msgstr "Benvenuto %1$s!"
+
+#: includes/admin/notices/class-newsx-theme-review-notice.php:134
+#: includes/admin/notices/class-newsx-theme-review-notice.php:152
+#: includes/admin/notices/class-newsx-welcome-notice.php:109
+msgid "Action failed. Please refresh the page and retry."
+msgstr "Azione fallita. Per piacere carica la pagina e riprova."
+
+#: includes/admin/notices/class-newsx-theme-review-notice.php:114
+msgid "NO, not good enough!"
+msgstr "NO, non abbastanza!"
+
+#: includes/admin/notices/class-newsx-theme-review-notice.php:109
+msgid "I need support"
+msgstr "Ho bisogno di supporto"
+
+#: includes/admin/notices/class-newsx-theme-review-notice.php:104
+msgid "Maybe later"
+msgstr "Forse più tardi"
+
+#: includes/admin/notices/class-newsx-theme-review-notice.php:99
+msgid "I already did!"
+msgstr "L'ho già fatto!"
+
+#: includes/admin/notices/class-newsx-theme-review-notice.php:94
+msgid "OK, you deserve it!"
+msgstr "Ok, te lo meriti!"
+
+#. translators: %1$s: Opening of strong tag, %2$s: Theme's Name, %3$s: Closing
+#. of strong tag
+#: includes/admin/notices/class-newsx-theme-review-notice.php:84
+msgid "Thank you for choosing the %1$s %2$s %3$s theme! We hope you're enjoying it so far. Your feedback means the world to us so please take a moment to leave a nice review. It helps us grow and inspires us to do even better!"
+msgstr "Grazie per aver scelto il tema %1$s %2$s %3$s! Ci auguriamo che finora ti stia piacendo. Il tuo feedback è molto importante per noi, quindi prenditi un momento per lasciare una bella recensione. Ci aiuta a crescere e ci ispira a fare ancora meglio!"
+
+#: includes/admin/notices/class-newsx-theme-review-notice.php:76
+msgid "Thank you for using %s Theme!"
+msgstr "Grazie per aver utilizzato il tema %s!"
+
+#: includes/admin/menu/tab-welcome.php:180
+msgid "Contact Support →"
+msgstr "Contatta il supporto →"
+
+#: includes/admin/menu/tab-welcome.php:179
+msgid "If you have any questions or need help, please feel free to contact us."
+msgstr "Se avete domande o avete bisogno di aiuto, non esitate a contattarci."
+
+#: includes/admin/menu/tab-welcome.php:174
+msgid "Leave a Review →"
+msgstr "Lascia una recensione →"
+
+#: includes/admin/menu/tab-welcome.php:173
+msgid "We'd love your feedback! Please take a moment to review the theme and share your thoughts."
+msgstr "Ci piacerebbe ricevere il tuo feedback! Prenditi un momento per rivedere il tema e condividere i tuoi pensieri."
+
+#: includes/admin/menu/tab-welcome.php:171
+msgid "5 Stars"
+msgstr "5 stelle"
+
+#: includes/admin/menu/tab-welcome.php:162
+msgid "Review"
+msgstr "Recensione"
+
+#: includes/admin/menu/tab-welcome.php:158
+msgid "View Starter Templates →"
+msgstr "Visualizza i modelli di avvio →"
+
+#: includes/admin/menu/tab-welcome.php:157
+msgid "With just one click, select the demo that suits your needs, import it, and customize it to match your personal style!"
+msgstr "Con un solo clic, seleziona la demo più adatta alle tue esigenze, importala e personalizzala in base al tuo stile personale!"
+
+#: includes/admin/menu/tab-free-vs-pro.php:65
+msgid "Sticky Header"
+msgstr "Sticky Header"
+
+#: includes/customizer/kirki/kirki-packages/field-dimensions/src/Dimensions.php:71
+#: includes/customizer/sections/blog-single/author.php:40
+#: includes/customizer/sections/blog-single/navigation.php:54
+#: includes/customizer/sections/blog-single/related-posts.php:51
+#: includes/customizer/sections/footer/elements/copyright.php:29
+#: includes/customizer/sections/footer/elements/custom-html-1.php:51
+#: includes/customizer/sections/footer/elements/custom-html-2.php:51
+#: includes/customizer/sections/footer/elements/footer-menu.php:67
+#: includes/customizer/sections/footer/elements/logo.php:66
+#: includes/customizer/sections/footer/elements/social-icons.php:101
+#: includes/customizer/sections/footer/rows/middle-section.php:185
+#: includes/customizer/sections/footer/rows/top-section.php:170
+#: includes/customizer/sections/header/elements/dark-switcher.php:119
+#: includes/customizer/sections/header/elements/date-and-time.php:69
+#: includes/customizer/sections/header/elements/news-ticker.php:136
+#: includes/customizer/sections/header/elements/offcanvas.php:45
+#: includes/customizer/sections/header/elements/primary-menu.php:141
+#: includes/customizer/sections/header/elements/random-post.php:73
+#: includes/customizer/sections/header/elements/search.php:60
+#: includes/customizer/sections/header/elements/secondary-menu.php:103
+#: includes/customizer/sections/header/elements/site-identity.php:211
+#: includes/customizer/sections/header/elements/social-icons.php:87
+#: includes/customizer/sections/header/rows/bottom-section.php:138
+#: includes/customizer/sections/header/rows/middle-section.php:133
+#: includes/customizer/sections/header/rows/top-section.php:118
+msgid "Spacing"
+msgstr "Spaziatura"
+
+#: includes/admin/menu/page-content.php:57
+#: includes/admin/menu/tab-support.php:12
+#: includes/customizer/extend/custom-controls.php:46
+#: includes/customizer/extend/custom-controls.php:54
+#: includes/customizer/kirki/kirki-packages/settings/templates/metaboxes/documentation.php:27
+#: includes/customizer/kirki/kirki-packages/settings/templates/metaboxes/documentation.php:37
+msgid "Documentation"
+msgstr "Documentazione"
+
+#: includes/admin/menu/tab-welcome.php:128
+msgid "Menus"
+msgstr "Menu"
+
+#: includes/admin/menu/tab-welcome.php:123
+msgid "Blog Options"
+msgstr "Blog Opzioni"
+
+#: includes/admin/menu/tab-welcome.php:72
+#: includes/customizer/sections/register-sections.php:232
+msgid "Front Page"
+msgstr "Pagina Iniziale (Homepage)"
+
+#: includes/admin/menu/tab-welcome.php:113
+#: includes/customizer/sections/footer/elements/footer-menu.php:16
+#: includes/customizer/sections/header/elements/news-ticker.php:105
+#: includes/customizer/sections/register-sections.php:47
+#: includes/widgets/newsx-category-list-widget.php:50
+#: includes/widgets/newsx-grid-widget.php:77
+#: includes/widgets/newsx-list-widget.php:77
+#: includes/widgets/newsx-magazine-widget.php:63
+msgid "Layout"
+msgstr "Layout"
+
+#: includes/admin/menu/tab-welcome.php:103
+#: includes/customizer/sections/register-sections.php:35
+msgid "Colors"
+msgstr "Colori"
+
+#: includes/admin/menu/tab-welcome.php:92
+msgid "Footer Builder"
+msgstr "Generatore di Footer"
+
+#: includes/admin/menu/tab-welcome.php:82
+msgid "Header Builder"
+msgstr "Generatore di intestazione"
+
+#: includes/admin/menu/tab-welcome.php:73
+#: includes/admin/menu/tab-welcome.php:83
+#: includes/admin/menu/tab-welcome.php:93
+#: includes/admin/menu/tab-welcome.php:104
+#: includes/admin/menu/tab-welcome.php:109
+#: includes/admin/menu/tab-welcome.php:114
+#: includes/admin/menu/tab-welcome.php:118
+#: includes/admin/menu/tab-welcome.php:124
+#: includes/admin/menu/tab-welcome.php:129
+msgid "Customize"
+msgstr "Personalizza"
+
+#: includes/admin/menu/tab-welcome.php:117
+#: includes/customizer/extend/override-defaults.php:19
+#: includes/customizer/extend/override-defaults.php:31
+msgid "Site Identity"
+msgstr "Identità del Sito"
+
+#: includes/admin/menu/tab-welcome.php:65
+msgid "Go to Customizer"
+msgstr "Vai al personalizzatore"
+
+#: includes/admin/menu/tab-welcome.php:64
+msgid "Quick Settings"
+msgstr "Impostazioni rapide"
+
+#: includes/admin/menu/tab-welcome.php:51
+msgid "Start Customizing"
+msgstr "Inizia a personalizzare"
+
+#: includes/admin/menu/tab-welcome.php:41
+msgid "Experience the ultimate magazine-themed website building journey! Enjoy exploring all the settings and features to get started effortlessly."
+msgstr "Prova il viaggio definitivo nella creazione di siti web a tema rivista! Divertiti a esplorare tutte le impostazioni e le funzionalità per iniziare senza sforzo."
+
+#: includes/admin/menu/tab-welcome.php:34
+msgid "FREE"
+msgstr "GRATIS"
+
+#: includes/admin/menu/tab-welcome.php:26
+#: includes/admin/menu/tab-welcome.php:32
+msgid "Welcome to"
+msgstr "Benvenuto su"
+
+#: includes/admin/menu/tab-welcome.php:15
+msgid "Hello"
+msgstr "Ciao"
+
+#: includes/admin/menu/tab-starter-templates.php:15
+msgid "Install Starter Templates"
+msgstr "Installa i modelli di avvio"
+
+#: includes/admin/menu/tab-free-vs-pro.php:17
+#: includes/admin/menu/tab-free-vs-pro.php:279
+msgid "Upgrade to Pro"
+msgstr "Aggiorna a Pro"
+
+#: includes/admin/menu/tab-free-vs-pro.php:57
+#: includes/admin/menu/tab-welcome.php:108
+#: includes/customizer/sections/register-sections.php:41
+msgid "Typography"
+msgstr "Tipografia"
+
+#: includes/admin/menu/tab-free-vs-pro.php:53
+#: includes/admin/menu/tab-free-vs-pro.php:61
+msgid "All Features"
+msgstr "Tutte le caratteristiche"
+
+#: includes/admin/menu/tab-free-vs-pro.php:52
+#: includes/admin/menu/tab-free-vs-pro.php:60
+msgid "Limited Features"
+msgstr "Funzionalità limitate"
+
+#: includes/admin/menu/tab-free-vs-pro.php:50
+msgid "Advanced color and background customization options."
+msgstr "Opzioni avanzate di personalizzazione del colore e dello sfondo."
+
+#: includes/admin/menu/tab-free-vs-pro.php:49
+msgid "Colors and Backgrounds"
+msgstr "Colori e Sfondi"
+
+#: includes/admin/menu/tab-free-vs-pro.php:233
+msgid "Sidebar Designing Styles"
+msgstr "Stili di progettazione della barra laterale"
+
+#: includes/admin/menu/tab-free-vs-pro.php:42
+msgid "Get instant access to the latest pro features and updates."
+msgstr "Ottieni accesso immediato alle ultime funzionalità e agli aggiornamenti professionali."
+
+#: includes/admin/menu/tab-free-vs-pro.php:41
+msgid "Access To Pro Updates"
+msgstr "Accesso agli aggiornamenti Pro"
+
+#: includes/admin/menu/tab-free-vs-pro.php:34
+msgid "Get premium customer support 24/7 with our dedicated team."
+msgstr "Ottieni un supporto clienti premium 24 ore su 24, 7 giorni su 7 con il nostro team dedicato."
+
+#: includes/admin/menu/tab-free-vs-pro.php:33
+msgid "24/7 Premium Support"
+msgstr "Supporto Premium 24 ore su 24, 7 giorni su 7"
+
+#: includes/admin/menu/tab-free-vs-pro.php:27
+msgid "Pro"
+msgstr "Pro"
+
+#: includes/admin/menu/tab-free-vs-pro.php:26
+msgid "Free"
+msgstr "Gratis"
+
+#: includes/admin/menu/tab-free-vs-pro.php:25
+msgid "Features"
+msgstr "Caratteristiche"
+
+#: includes/admin/menu/tab-free-vs-pro.php:10
+msgid "Free vs Pro Features"
+msgstr "Funzionalità gratuite vs Pro"
+
+#: includes/admin/menu/page-content.php:50
+msgid "Unlock Pro Features"
+msgstr "Sblocca le funzionalità Pro"
+
+#: includes/admin/menu/page-content.php:40
+msgid "Free vs Pro"
+msgstr "Gratuito vs Pro"
+
+#: includes/admin/menu/page-content.php:39
+#: includes/admin/menu/tab-welcome.php:178
+#: includes/customizer/extend/custom-controls.php:35
+msgid "Support"
+msgstr "Supporto"
+
+#: includes/admin/menu/page-content.php:38
+#: includes/admin/menu/tab-welcome.php:151
+#: includes/admin/menu/tab-welcome.php:154
+#: includes/admin/notices/class-newsx-welcome-notice.php:96
+#: includes/customizer/extend/custom-controls.php:20
+msgid "Starter Templates"
+msgstr "Starter Templates"
+
+#: includes/admin/menu/page-content.php:37
+msgid "Welcome"
+msgstr "Benvenuto"
+
+#: includes/admin/helpers/helper-functions.php:205
+#: includes/customizer/sections/blog-page/posts-slider.php:44
+#: includes/customizer/sections/header/elements/news-ticker.php:38
+msgid "Post Author"
+msgstr "Autore Post"
+
+#: includes/admin/helpers/helper-functions.php:204
+#: includes/customizer/sections/blog-page/posts-slider.php:43
+#: includes/customizer/sections/header/elements/news-ticker.php:37
+msgid "Post ID"
+msgstr "ID Articolo"
+
+#: includes/admin/helpers/helper-functions.php:203
+#: includes/customizer/sections/blog-page/posts-slider.php:42
+#: includes/customizer/sections/header/elements/news-ticker.php:36
+msgid "Post Title"
+msgstr "Titolo Post"
+
+#: includes/admin/helpers/helper-functions.php:202
+#: includes/customizer/sections/blog-page/posts-slider.php:41
+#: includes/customizer/sections/header/elements/news-ticker.php:35
+msgid "Published Date"
+msgstr "Data pubblicazione"
+
+#: includes/admin/helpers/helper-functions.php:73
+msgid "P"
+msgstr "P"
+
+#: includes/admin/helpers/helper-functions.php:72
+msgid "Span"
+msgstr "Span"
+
+#: includes/admin/helpers/helper-functions.php:71
+msgid "Div"
+msgstr "Div"
+
+#: includes/admin/helpers/helper-functions.php:70
+msgid "H6"
+msgstr "H6"
+
+#: includes/admin/helpers/helper-functions.php:69
+msgid "H5"
+msgstr "H5"
+
+#: includes/admin/helpers/helper-functions.php:68
+msgid "H4"
+msgstr "H4"
+
+#: includes/admin/helpers/helper-functions.php:67
+msgid "H3"
+msgstr "H3"
+
+#: includes/admin/helpers/helper-functions.php:66
+msgid "H2"
+msgstr "H2"
+
+#: includes/admin/helpers/helper-functions.php:65
+msgid "H1"
+msgstr "H1"
+
+#: includes/admin/helpers/helper-functions.php:49
+msgid "Widgets Area 4"
+msgstr "Area widget 4"
+
+#: includes/admin/helpers/helper-functions.php:48
+msgid "Widgets Area 3"
+msgstr "Area 3 dei widget"
+
+#: includes/admin/helpers/helper-functions.php:47
+#: includes/customizer/sections/register-sections.php:221
+msgid "Widgets Area 2"
+msgstr "Area 2 dei widget"
+
+#: includes/admin/helpers/helper-functions.php:46
+#: includes/customizer/sections/register-sections.php:214
+msgid "Widgets Area 1"
+msgstr "Area 1 dei widget"
+
+#: includes/admin/helpers/helper-functions.php:45
+#: includes/customizer/sections/header/rows/bottom-section.php:195
+#: includes/customizer/sections/header/rows/middle-section.php:190
+#: includes/customizer/sections/header/rows/top-section.php:175
+#: includes/customizer/sections/register-sections.php:207
+#: includes/customizer/sections/register-sections.php:434
+msgid "Custom HTML 2"
+msgstr "HTML personalizzato 2"
+
+#: includes/admin/helpers/helper-functions.php:44
+#: includes/customizer/sections/header/rows/bottom-section.php:194
+#: includes/customizer/sections/header/rows/middle-section.php:189
+#: includes/customizer/sections/header/rows/top-section.php:174
+#: includes/customizer/sections/register-sections.php:200
+#: includes/customizer/sections/register-sections.php:427
+msgid "Custom HTML 1"
+msgstr "HTML personalizzato 1"
+
+#: includes/admin/helpers/helper-functions.php:42
+#: includes/core/after-theme-setup.php:33
+msgid "Footer Menu"
+msgstr "Menu piè di pagina"
+
+#: includes/admin/helpers/helper-functions.php:41
+#: includes/customizer/sections/footer/elements/logo.php:10
+#: includes/customizer/sections/register-sections.php:399
+msgid "Logo"
+msgstr "Logo"
+
+#: includes/admin/helpers/helper-functions.php:37
+#: includes/customizer/sections/register-sections.php:192
+msgid "Dark Mode Switcher"
+msgstr "Selettore modalità scura"
+
+#: includes/admin/helpers/helper-functions.php:36
+#: includes/customizer/sections/register-sections.php:185
+#: template-parts/header/elements/random-post.php:30
+msgid "Random Post"
+msgstr "Articolo casuale"
+
+#: includes/admin/helpers/helper-functions.php:35
+#: includes/customizer/sections/register-sections.php:162
+msgid "Off-Canvas"
+msgstr "Off-Canvas"
+
+#: includes/admin/helpers/helper-functions.php:34
+#: includes/customizer/sections/register-sections.php:155 searchform.php:14
+msgid "Search"
+msgstr "Cerca"
+
+#: includes/admin/helpers/helper-functions.php:33
+#: includes/admin/helpers/helper-functions.php:43
+#: includes/customizer/sections/footer/elements/social-icons.php:18
+#: includes/customizer/sections/header/elements/social-icons.php:18
+#: includes/customizer/sections/register-sections.php:148
+#: includes/customizer/sections/register-sections.php:420
+#: includes/widgets/newsx-social-icons-widget.php:46
+msgid "Social Icons"
+msgstr "Icone Social"
+
+#: includes/admin/helpers/helper-functions.php:32
+#: includes/customizer/sections/register-sections.php:141
+msgid "News Ticker"
+msgstr "News Ticker"
+
+#: includes/admin/helpers/helper-functions.php:31
+#: includes/customizer/sections/register-sections.php:134
+msgid "Date and Time"
+msgstr "Data e Ora"
+
+#: includes/admin/helpers/helper-functions.php:30
+#: includes/core/after-theme-setup.php:32
+#: includes/customizer/sections/register-sections.php:127
+msgid "Secondary Menu"
+msgstr "Menu Secondario"
+
+#: includes/admin/helpers/helper-functions.php:29
+#: includes/core/after-theme-setup.php:31
+#: includes/customizer/sections/register-sections.php:120
+msgid "Primary Menu"
+msgstr "Menu principale"
+
+#: includes/admin/helpers/helper-functions.php:28
+#: includes/customizer/extend/override-defaults.php:13
+#: includes/customizer/sections/register-sections.php:113
+msgid "Logo / Site Title"
+msgstr "Logo / Titolo del sito"
+
+#: includes/admin/helpers/helper-functions.php:16
+msgid "Design"
+msgstr "Design"
+
+#: includes/admin/helpers/helper-functions.php:13
+#: includes/customizer/sections/front-page.php:69
+#: includes/widgets/newsx-category-list-widget.php:26
+#: includes/widgets/newsx-featured-posts-widget.php:26
+#: includes/widgets/newsx-grid-widget.php:26
+#: includes/widgets/newsx-heading-widget.php:26
+#: includes/widgets/newsx-list-widget.php:26
+#: includes/widgets/newsx-magazine-widget.php:26
+#: includes/widgets/newsx-newsletter-widget.php:26
+#: includes/widgets/newsx-social-icons-widget.php:26
+msgid "General"
+msgstr "Generale"
+
+#: includes/actions/class-newsx-ajax-public.php:53
+msgid "Nothing Found."
+msgstr "Nessun risultato."
+
+#: includes/actions/class-newsx-ajax-public.php:47
+msgid "View all results"
+msgstr "Guarda tutti i risultati"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "Salta al contenuto"
+
+#: comments.php:104
+msgid "Your comment is awaiting moderation."
+msgstr "Il tuo commento è in attesa di moderazione."
+
+#: comments.php:94
+msgid "Reply"
+msgstr "Rispondi"
+
+#: comments.php:63 comments.php:87
+msgid "[Edit]"
+msgstr "[Modifica]"
+
+#: comments.php:62 comments.php:86
+msgid "&nbsp;at&nbsp;"
+msgstr "&nbsp;a&nbsp;"
+
+#: comments.php:59
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: comments.php:46
+msgid "Post Comment"
+msgstr "Commenta"
+
+#: comments.php:45
+msgid "Comment"
+msgstr "Commento"
+
+#: comments.php:42
+msgid "Leave a Reply"
+msgstr "Lascia un commento"
+
+#: comments.php:29
+msgid "Newer Comments"
+msgstr "Commenti più recenti"
+
+#: comments.php:25
+msgid "Older Comments"
+msgstr "Commenti precedenti"
+
+#: comments.php:13
+msgid "% Comments"
+msgstr "% Commenti"
+
+#: comments.php:13
+msgid "One Comment"
+msgstr "Un commento"
+
+#: comments.php:13
+msgid "0 Comments"
+msgstr "0 Commenti"
+
+#: 404.php:22
+msgid "It seems we can't find what you're looking for. Perhaps searching can help."
+msgstr "Sembra che non siamo in grado di trovare ciò che stai cercando. Forse la ricerca può aiutare."
+
+#: 404.php:21
+msgid "Page Not Found"
+msgstr "Pagina non trovata"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://wp-royal-themes.com/themes/item-news-magazine-x-free/#!/demo-preview"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://wp-royal-themes.com/themes/item-news-magazine-x-free/"
+msgstr "https://wp-royal-themes.com/themes/item-news-magazine-x-free/"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://wp-royal-themes.com/#ultimate-heading-229367ca4dce90c11"
+msgstr "https://wp-royal-themes.com/#ultimate-heading-229367ca4dce90c11"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "WP Royal Themes"
+msgstr "Temi WP Royal"

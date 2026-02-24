@@ -1,0 +1,2634 @@
+# Translation of Themes - Mesmerize in Russian
+# This file is distributed under the same license as the Themes - Mesmerize package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-06-11 14:56:23+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Mesmerize\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Mesmerize is an incredibly flexible, multipurpose WordPress theme that can help you create an amazing website easier than ever, by drag and drop. It comes with a predesigned home page, 5 header designs and over 30 ready to use content sections that you can easily customize. It also has lots of customization options (video background, slideshow background, header content types, gradient overlays, etc) that will help you create a beautiful, unique website in no time. Mesmerize is responsive so it works on mobile devices out of the box and it is also WooCommerce ready. DEMO: https://extendthemes.com/go/mesmerize-demos/"
+msgstr ""
+"Mesmerize — необычайно гибкая и многоцелевая тема WordPress. Она поможет вам создать великолепный сайт в считаные минуты с помощью перетаскивания. Она поставляется с предопределенной главной страницей, 5 макетами шапки и с более чем 30 уже готовыми разделами с содержимым, которые вы можете с легкостью настроить. Также имеется множество настроек (фоновое видео, слайдшоу в фоне, типы содержимого шапки, градиентные накладки и т.д.), которые помогут создать прекрасный, уникальный сайт в мгновение ока. Mesmerize — отзывчивая тема, а потому из коробки работает на мобильных устройствах, а также поддерживает WooCommerce.\n"
+"ДЕМО: https://extendthemes.com/go/mesmerize-demos/"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Mesmerize"
+msgstr "Mesmerize"
+
+#: inc/functions.php:1226
+msgid "Current Color"
+msgstr "Текущий цвет"
+
+#: inc/functions.php:1225
+msgid "Select Color"
+msgstr "Выбрать цвет"
+
+#: inc/functions.php:1223
+msgid "Clear"
+msgstr "Очистить"
+
+#: inc/companion.php:58
+msgid "Sorry, you are not allowed to manage options for this site."
+msgstr "Вам не разрешено управлять параметрами этого сайта."
+
+#: customizer/start-with-frontpage.php:64
+msgid "This action will install the %s plugin"
+msgstr "Это действие установит плагин %s"
+
+#: customizer/start-with-frontpage.php:36
+msgid "Install %s homepage"
+msgstr "Установить %s главную страницу"
+
+#: customizer/start-with-frontpage.php:20
+msgid "Would you like to install the predesigned %s homepage?"
+msgstr "Хотите ли вы установить заранее разработанную домашнюю страницу %s?"
+
+#: inc/templates-functions.php:161
+msgid "Skip to content"
+msgstr "Перейти к контенту"
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:370
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Этот рекомендуемый плагин сейчас деактивирован: %1$s."
+msgstr[1] "Эти рекомендуемые плагины сейчас деактивированы: %1$s."
+msgstr[2] "Эти рекомендуемые плагины сейчас деактивированы: %1$s."
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:364
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Этот требуемый плагин сейчас деактивирован: %1$s."
+msgstr[1] "Эти требуемые плагины сейчас деактивированы: %1$s."
+msgstr[2] "Эти требуемые плагины сейчас деактивированы: %1$s."
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:358
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Доступно обновление плагина: %1$s."
+msgstr[1] "Доступны обновления плагинов: %1$s."
+msgstr[2] "Доступны обновления плагинов: %1$s."
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:352
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Этот плагин для максимальной совместимости с темой должен быть обновлен на последнюю версию: %1$s."
+msgstr[1] "Эти плагины для максимальной совместимости с темой должны быть обновлены на последнюю версию: %1$s."
+msgstr[2] "Эти плагины для максимальной совместимости с темой должны быть обновлены на последнюю версию: %1$s."
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:346
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Эта тема рекомендует следующий плагин: %1$s."
+msgstr[1] "Эта тема рекомендует следующие плагины: %1$s."
+msgstr[2] "Эта тема рекомендует следующие плагины: %1$s."
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:340
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Эта тема требует следующий плагин: %1$s."
+msgstr[1] "Эта тема требует следующие плагины: %1$s."
+msgstr[2] "Эта тема требует следующие плагины: %1$s."
+
+#: inc/wp-forms/mesmerize-template.php:19
+msgid "This is a simple contact form template designed to best fit the Mesmerize theme design. You can add and remove fields as needed."
+msgstr "Это простой шаблон контактной формы, созданный чтобы максимально следовать дизайну темы Mesmerize. Вы можете добавлять и удалять поля по желанию."
+
+#: inc/wp-forms/mesmerize-template.php:17
+msgid "Mesmerize Contact Form Template"
+msgstr "Шаблон контактной формы Mesmerize"
+
+#: inc/functions.php:380
+msgid "Contact Form by WPForms"
+msgstr "Contact Form by WPForms"
+
+#: inc/blog-options.php:53
+msgid "%s item"
+msgid_plural "%s items"
+msgstr[0] "%s элемент"
+msgstr[1] "%s элементов"
+msgstr[2] "%s элементов"
+
+#: inc/theme-cache-cleaner.php:21
+msgid "Clear theme cache"
+msgstr "Удалить кеш темы"
+
+#: inc/theme-options.php:220
+msgid "Update companion now"
+msgstr "Обновить companion сейчас"
+
+#: inc/theme-options.php:217
+msgid "There is a newer version of the Mesmerize Companion plugin available. This feature requires an update to the latest version"
+msgstr "Доступна новая версия плагина Mesmerize Companion. Этот функционал требует последней версии плагина."
+
+#: inc/theme-options.php:128
+msgid "Optimization"
+msgstr "Оптимизация"
+
+#: inc/theme-options.php:36
+msgid "Import Predesigned Sites"
+msgstr "Импортировать предварительно созданные сайты"
+
+#: inc/optimizations.php:90
+msgid "Install and activate the \"Autoptimize\" plugin to improve your site speed."
+msgstr "Установите и активируйте плагин Autoptimize, чтобы ускорить ваш сайт."
+
+#: inc/optimizations.php:76
+msgid "Autoptimize"
+msgstr "Autoptimize"
+
+#: inc/optimizations.php:44
+msgid "Settings applied"
+msgstr "Настройки применены"
+
+#: inc/optimizations.php:43
+msgid "Apply Settings"
+msgstr "Применить настройки"
+
+#: inc/optimizations.php:42
+msgid "Please apply the Mesmerize recommended settings for Autoptimize. This will set the Autoptimize parameters to the best configuration for Mesmerize."
+msgstr "Пожалуйста, примените рекомендуемые настройки Mesmerize для Autoptimize. Это выставит настройки Autoptimize для лучшего соответствия с Mesmerize."
+
+#: inc/infopage-parts/demo-import.php:2
+msgid "Import Demo sites with one click"
+msgstr "Импортируйте демо сайты в один клик"
+
+#: inc/functions.php:1106
+msgid "Demo Import"
+msgstr "Демо импорт"
+
+#: customizer/customizer-controls.php:314
+msgid "%s is active"
+msgstr "%s активен"
+
+#: customizer/customizer-controls.php:309
+msgid "Activate %s"
+msgstr "Активировать %s"
+
+#: customizer/customizer-controls.php:304
+msgid "Install %s"
+msgstr "Установить %s"
+
+#: customizer/add-sections-preview.php:28
+msgid "Add Section"
+msgstr "Добавить раздел"
+
+#: inc/theme-info.php:4
+msgid "Getting started"
+msgstr "Приступить к работе"
+
+#: inc/functions.php:351
+msgid "Full HD"
+msgstr "Full HD"
+
+#: inc/blog-options.php:70
+msgid "The inner pages hero background should be set to image"
+msgstr "Фон темы дня внутренних страниц следует установить как изображение"
+
+#: inc/blog-options.php:69
+msgid "Use post featured image as hero background when available"
+msgstr "Отображать ассоциированную картинку записи в качестве фона темы дня, если доступна"
+
+#: inc/blog-options.php:27
+msgid "Show post title in post page"
+msgstr "Отобразить заголовок записи на странице записи"
+
+#: inc/header-options/presets.php:90
+msgid "18 more beautiful header designs are available in the PRO version. @BTN@"
+msgstr "В версии PRO доступно еще 18 красивых дизайнов заголовков. @BTN@"
+
+#: inc/header-options/content-options/content-type.php:741
+msgid "More content layouts and media types available in PRO. @BTN@"
+msgstr "Еще больше разметок содержимого и типов медиа доступно в Про-версии. @BTN@"
+
+#: inc/general-options/page-settings.php:10
+msgid "Enable smooth scrolling"
+msgstr "Включить плавное прокручивание"
+
+#: inc/general-options/colors.php:96
+msgid "Customize all theme colors in PRO. @BTN@"
+msgstr "Настраивайте все цвета темы в Про-версии. @BTN@"
+
+#: inc/footer-options.php:74 inc/header-options/content-options/buttons.php:145
+#: inc/header-options/navigation-options/nav-bar.php:167
+#: inc/header-options/navigation-options/offscreen.php:41
+#: inc/header-options/navigation-options/top-bar.php:35
+msgid "More colors and typography options available in PRO. @BTN@"
+msgstr "Еще больше цветов и шрифтов доступны в Про-версии. @BTN@"
+
+#. Template Name of the theme
+msgid "Page With Right Sidebar"
+msgstr "Страница с правой колонкой"
+
+#. Template Name of the theme
+msgid "Page With Left Sidebar"
+msgstr "Страница с левой колонкой"
+
+#: inc/header-options/background-options/background-types/image.php:355
+msgid "Mobile Bg. Vertical Offset"
+msgstr "Вертикальный отступ фона на мобильных"
+
+#: inc/header-options/background-options/background-types/image.php:332
+msgid "Mobile Bg. Horizontal Position"
+msgstr "Горизонтальная позиция фона на мобильных "
+
+#: customizer/customizer-controls.php:517
+msgid "Upgrade to PRO"
+msgstr "Обновиться до Про-версии"
+
+#: woocommerce/order/order-details.php:51
+msgid "Total"
+msgstr "Всего"
+
+#: woocommerce/order/order-details.php:50
+msgid "Product"
+msgstr "Продукт"
+
+#: woocommerce/order/order-details.php:44
+msgid "Order details"
+msgstr "Детали заказа"
+
+#: woocommerce/order/order-details-customer.php:69
+msgid "Shipping address"
+msgstr "Адрес доставки"
+
+#: woocommerce/order/order-details-customer.php:65
+#: woocommerce/order/order-details-customer.php:71
+msgid "N/A"
+msgstr "Не доступно"
+
+#: woocommerce/order/order-details-customer.php:63
+msgid "Billing address"
+msgstr "Адрес для счета"
+
+#: woocommerce/order/order-details-customer.php:49
+msgid "Phone:"
+msgstr "Телефон:"
+
+#: woocommerce/order/order-details-customer.php:35
+#: woocommerce/order/order-details.php:89
+msgid "Note:"
+msgstr "Примечание:"
+
+#: woocommerce/order/order-details-customer.php:29
+msgid "Customer details"
+msgstr "Детали покупателя"
+
+#: woocommerce/checkout/thankyou.php:71
+msgid "Payment method:"
+msgstr "Способ оплаты:"
+
+#: woocommerce/checkout/thankyou.php:64
+msgid "Total:"
+msgstr "Итого:"
+
+#: woocommerce/checkout/thankyou.php:58
+#: woocommerce/order/order-details-customer.php:42
+msgid "Email:"
+msgstr "E-mail:"
+
+#: woocommerce/checkout/thankyou.php:52
+msgid "Date:"
+msgstr "Дата:"
+
+#: woocommerce/checkout/thankyou.php:47
+msgid "Order number:"
+msgstr "Номер заказа:"
+
+#: woocommerce/checkout/thankyou.php:42 woocommerce/checkout/thankyou.php:92
+msgid "Thank you. Your order has been received."
+msgstr "Спасибо. Ваш заказ получен."
+
+#: woocommerce/checkout/thankyou.php:36
+msgid "My account"
+msgstr "Моя учётная запись"
+
+#: woocommerce/checkout/thankyou.php:34
+msgid "Pay"
+msgstr "Оплатить"
+
+#: woocommerce/checkout/thankyou.php:31
+msgid "Unfortunately your order cannot be processed as the originating bank/merchant has declined your transaction. Please attempt your purchase again."
+msgstr "К сожалению, мы не можем обработать ваш заказ, так как банк или торговая площадка отказали в транзакции. Пожалуйста, попробуйте совершить покупку снова."
+
+#: woocommerce/checkout/form-checkout.php:56
+msgid "Your order"
+msgstr "Ваш заказ"
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr "Вы должны войти в систему для покупки."
+
+#: inc/woocommerce/woocommerce.php:459
+msgid "<strong>Mesmerize theme</strong> requires the WooCommerce plugin version to be at least: "
+msgstr "<strong>Теме Mesmerize </strong> для работы необходимо, чтобы версия плагина WooCommerce была не ниже: "
+
+#: inc/woocommerce/woocommerce.php:458
+msgid "You need to update your <strong>WooCommerce plugin</strong> to use it with the <strong>Mesmerize theme</strong>."
+msgstr "Вам следует обновить ваш <strong>плагин WooCommerce </strong>, чтобы использовать <strong>тему Mesmerize</strong>."
+
+#: inc/woocommerce/woocommerce.php:456
+msgid "WooCommerce version outdated!"
+msgstr "Версия WooCommerce устарела!"
+
+#. translators: %d is number of items
+#: inc/woocommerce/woocommerce.php:237
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d позици"
+msgstr[1] "%d позиций"
+msgstr[2] "%d позиций"
+
+#: inc/woocommerce/woocommerce.php:232
+msgid "View your shopping cart"
+msgstr "Просмотреть свою корзину"
+
+#: inc/woocommerce/woocommerce.php:217
+msgid "Cart Content: "
+msgstr "Содержимое корзины: "
+
+#: inc/woocommerce/options.php:209
+msgid "On product page set product image as header background"
+msgstr "На странице продукта установите изображение продукта как фон шапки"
+
+#: inc/woocommerce/options.php:196
+msgid "Product detail header"
+msgstr "Шапка деталей продукта"
+
+#: inc/woocommerce/options.php:188 inc/woocommerce/options.php:201
+msgid "Navigation only"
+msgstr "Только навигация"
+
+#: inc/woocommerce/options.php:187 inc/woocommerce/options.php:200
+msgid "Large header with title"
+msgstr "Большая шапка с надписью"
+
+#: inc/woocommerce/options.php:183
+msgid "Shop header"
+msgstr "Шапка магазина"
+
+#: inc/woocommerce/options.php:174
+msgid "Show cart button in menu"
+msgstr "Отображать кнопку корзины в меню"
+
+#: inc/woocommerce/options.php:165
+msgid "Shop Header Settings"
+msgstr "Настройки шапки магазина"
+
+#: inc/woocommerce/options.php:154
+msgid "Cross-sell products per row on tablet"
+msgstr "Сопутствующих продуктов в ряд на планшете"
+
+#: inc/woocommerce/options.php:144
+msgid "Cross-sell products per row on desktop"
+msgstr "Сопутствующих продуктов в ряд на десктопе"
+
+#: inc/woocommerce/options.php:135
+msgid "Number of cross-sell products to display"
+msgstr "Количество сопутствующих продуктов для отображения"
+
+#: inc/woocommerce/options.php:125
+msgid "The cross-sell product list appears in the shopping cart page"
+msgstr "Список сопутствующих продуктов отображается на странице корзины"
+
+#: inc/woocommerce/options.php:115
+msgid "Cross-sell products Settings"
+msgstr "Настройки сопутствующих продуктов"
+
+#: inc/woocommerce/options.php:107
+msgid "Upsell products per row on tablet"
+msgstr "Upsell-продуктов в ряд на планшете"
+
+#: inc/woocommerce/options.php:98
+msgid "Upsell products per row on desktop"
+msgstr "Upsell-продуктов в ряд на десктопе"
+
+#: inc/woocommerce/options.php:89
+msgid "The upsell product list appears in the product page, before the related products list"
+msgstr "Список upsell-продуктов отображается на странице продуктов, перед списком похожих товаров"
+
+#: inc/woocommerce/options.php:80
+msgid "Upsell products Settings"
+msgstr "Настройки upsell-продуктов"
+
+#: inc/woocommerce/options.php:72
+msgid "Related products per row on tablet"
+msgstr "Похожих продуктов в ряд на планшете"
+
+#: inc/woocommerce/options.php:62
+msgid "Related products per row on desktop"
+msgstr "Похожих продуктов в ряд на десктопе"
+
+#: inc/woocommerce/options.php:52
+msgid "Related products Settings"
+msgstr "Настройки похожих продуктов"
+
+#: inc/woocommerce/options.php:43
+msgid "Products per row on tablet"
+msgstr "Продуктов в ряд на планшете"
+
+#: inc/woocommerce/options.php:33
+msgid "Products per row on desktop"
+msgstr "Продуктов в ряд на десктопе"
+
+#: inc/woocommerce/options.php:24
+msgid "Products per page"
+msgstr "Продуктов на странице"
+
+#: inc/woocommerce/options.php:15
+msgid "Shop Page Settings"
+msgstr "Настройки страницы магазина"
+
+#: inc/woocommerce/index.php:27
+msgid "General Options"
+msgstr "Основные настройки"
+
+#: inc/woocommerce/index.php:21
+msgid "Product List Options"
+msgstr "Настройки списка товаров"
+
+#: inc/woocommerce/index.php:14 inc/woocommerce/woocommerce-ready.php:12
+msgid "WooCommerce Options"
+msgstr "Настройки WooCommerce"
+
+#: inc/templates-functions.php:340
+msgid "Built using WordPress and the <a rel=\"nofollow\" target=\"_blank\" href=\"%1$s\" class=\"mesmerize-theme-link\">Mesmerize Theme</a>"
+msgstr "Построен с использованием WordPress и <a rel=\"nofollow\" target=\"_blank\" href=\"%1$s\" class=\"mesmerize-theme-link\">Mesmerize Theme</a>"
+
+#: inc/header-options/background-options/background-types/image.php:255
+msgid "Show page featured image when available"
+msgstr "Отображать ассоциированную картинку страницы, если доступна"
+
+#: inc/header-options/content-options/content-type.php:337
+msgid "Width"
+msgstr "Ширина"
+
+#: inc/theme-options.php:154
+msgid "Page Settings"
+msgstr "Настройки Страницы"
+
+#: inc/theme-options.php:42
+msgid "Front Page Header Designs"
+msgstr "Внешний вид заголовков главной страницы"
+
+#: inc/infopage-parts/getting-started.php:57
+msgid "3. Enjoy! :)"
+msgstr "3. Наслаждайтесь! :)"
+
+#: inc/infopage-parts/getting-started.php:56
+msgid "Customize"
+msgstr "Настроить"
+
+#: inc/infopage-parts/getting-started.php:39
+msgid "Plugin is installed and active."
+msgstr "Плагины установлены и активированы."
+
+#: inc/infopage-parts/getting-started.php:5
+msgid "1. Install the recommended plugins"
+msgstr "1. Установите рекомендуемые плагины"
+
+#: inc/infopage-parts/getting-started.php:4
+msgid "Get Started in 3 Easy Steps"
+msgstr "Начать с 3 простых шагов"
+
+#: inc/theme-info.php:20
+msgid "We're glad you chose our theme and we hope it will help you create a beautiful site in no time!<br> If you have any suggestions, don't hesitate to leave us some feedback."
+msgstr "Мы рады, что вы выбрали нашу тему. Надеемся, с ее помощью вы создадите прекрасный сайт в мгновение ока!<br> Если у вас есть какие-либо предложения, непременно поделитесь ими с нами."
+
+#: inc/theme-info.php:19
+msgid "Thanks for choosing Mesmerize!"
+msgstr "Спасибо за выбор Mesmerize!"
+
+#: inc/header-options/presets.php:69
+msgid "Apply Preset"
+msgstr "Применить шаблон"
+
+#: inc/header-options/navigation.php:13
+msgid "Mobile (Offscreen) Navigation"
+msgstr "Мобильная (закадровая) навигация"
+
+#: inc/header-options/navigation-options/top-bar/content-types/information.php:38
+msgid "Information fields"
+msgstr "Информационные поля"
+
+#: inc/header-options/navigation-options/offscreen.php:32
+msgid "Show offscreen navigation on desktop"
+msgstr "Отображать закадровую навигацию на десктопе"
+
+#: inc/header-options/navigation-options/offscreen.php:22
+msgid "Show offscreen navigation on tablet"
+msgstr "Отображать закадровую навигацию на планшетах"
+
+#: inc/header-options/navigation-options/offscreen.php:13
+msgid "Offscreen Menu Settings"
+msgstr "Настройки закадрового меню"
+
+#: inc/header-options/navigation-options/nav-bar.php:214
+msgid "Underlined active item"
+msgstr "Подчеркивать активный пункт"
+
+#: inc/header-options/navigation-options/nav-bar.php:213
+msgid "Simple text menu"
+msgstr "Меню с простым текстом"
+
+#: inc/header-options/navigation-options/nav-bar.php:209
+msgid "Navigation style"
+msgstr "Стиль навигации"
+
+#: inc/header-options/navigation-options/nav-bar.php:183
+msgid "Logo above menu"
+msgstr "Лого над меню"
+
+#: inc/header-options/navigation-options/nav-bar.php:182
+msgid "Logo on left, Navigation on right"
+msgstr "Лого слева, навигация справа"
+
+#: inc/header-options/navigation-options/nav-bar.php:178
+msgid "Navigation bar type"
+msgstr "Тип навигационной панели"
+
+#: inc/header-options/navigation-options/nav-bar.php:143
+msgid "Border Options"
+msgstr "Параметры границы"
+
+#: inc/header-options/navigation-options/nav-bar.php:106
+msgid "Bottom Border Thickness"
+msgstr "Толщина нижней границы"
+
+#: inc/header-options/navigation-options/nav-bar.php:79
+msgid "Bottom Border Color"
+msgstr "Цвет нижней границы"
+
+#: inc/header-options/navigation-options/nav-bar.php:63
+msgid "Bottom Border Options"
+msgstr "Параметры нижней границы"
+
+#: inc/header-options/content-options/content-type.php:778
+msgid "Mobile Content Spacing"
+msgstr "Интервал содержимого на мобильных"
+
+#: inc/header-options/content-options/content-type.php:532
+msgid "Text Box Settings"
+msgstr "Настройки блока текста"
+
+#: inc/header-options/content-options/content-type.php:498
+msgid "Hide frame on mobile"
+msgstr "Прятать рамку на мобильных"
+
+#: inc/header-options/content-options/content-type.php:485
+msgid "Show frame shadow"
+msgstr "Отображать тень рамки"
+
+#: inc/header-options/content-options/content-type.php:471
+msgid "Show frame over image"
+msgstr "Отображать рамку поверх изображения"
+
+#: inc/header-options/content-options/content-type.php:457
+msgid "Frame Color"
+msgstr "Цвет рамки"
+
+#: inc/header-options/content-options/content-type.php:417
+msgid "Frame thickness"
+msgstr "Толщина рамки"
+
+#: inc/header-options/content-options/content-type.php:397
+msgid "Offset top"
+msgstr "Смещение сверху"
+
+#: inc/header-options/content-options/content-type.php:377
+msgid "Offset left"
+msgstr "Смещение слева"
+
+#: inc/header-options/content-options/content-type.php:320
+msgid "Border"
+msgstr "Рамка"
+
+#: inc/header-options/content-options/content-type.php:315
+msgid "Frame Type"
+msgstr "Тип рамки"
+
+#: inc/header-options/content-options/content-type.php:298
+msgid "Frame Options"
+msgstr "Настройки рамки"
+
+#: inc/header-options/content-options/content-type.php:79
+msgid "Media Box Settings"
+msgstr "Настройки медиа блока"
+
+#: inc/header-options/content-options/content-type.php:89
+msgid "Media width"
+msgstr "Ширина медиа"
+
+#: inc/header-options/background-options/overlay-type.php:40
+msgid "Shape Only"
+msgstr "Только форма"
+
+#: inc/header-options/background-options/header-separator.php:16
+msgid "Bottom Separator"
+msgstr "Нижний разделитель"
+
+#: inc/header-options/background-options/bottom-arrow.php:187
+msgid "Icon Background Color"
+msgstr "Цвет фона иконки"
+
+#: inc/header-options/background-options/bottom-arrow.php:160
+msgid "Icon Color"
+msgstr "Цвет иконки"
+
+#: inc/header-options/background-options/bottom-arrow.php:130
+msgid "Icon Bottom Offset"
+msgstr "Отступ иконки снизу"
+
+#: inc/header-options/background-options/bottom-arrow.php:89
+msgid "Icon Size"
+msgstr "Размер иконки"
+
+#: inc/header-options/background-options/bottom-arrow.php:53
+msgid "Bounce arrow"
+msgstr "Скачущая стрелка"
+
+#: inc/header-options/background-options/bottom-arrow.php:23
+msgid "Use Bottom Arrow"
+msgstr "Использовать стрелку вниз"
+
+#: inc/header-options/background-options/background-types/video.php:82
+msgid "Video Background Options"
+msgstr "Настройки фона видео"
+
+#: inc/header-options/background-options/background-types/slideshow.php:38
+msgid "Slideshow Background Options"
+msgstr "Настройки фона слайдшоу"
+
+#: inc/header-options/background-options/background-types/image.php:313
+msgid "Leave this field empty if you want to use the main image header image"
+msgstr "Оставьте это поле пустым, если хотите использовать основное изображение заголовка"
+
+#: inc/header-options/background-options/background-types/image.php:312
+msgid "Mobile Only Image"
+msgstr "Изображение только для мобильных"
+
+#: inc/header-options/background-options/background-types/image.php:295
+msgid "Mobile Image Background Options"
+msgstr "Настройки мобильного фонового изображения"
+
+#: inc/header-options/background-options/background-types/image.php:142
+msgid "Image Background Options"
+msgstr "Настройки фонового изображения "
+
+#: inc/header-options/background-options/background-types/gradient.php:31
+msgid "Gradient Background Options"
+msgstr "Настройки заливки фона"
+
+#: inc/header-options/background-options/background-types/color.php:42
+msgid "Color Background Options"
+msgstr "Настройки цвета фона"
+
+#: inc/general-options/colors.php:11
+msgid "color6"
+msgstr "цвет6"
+
+#: inc/functions.php:1131
+msgid "Mesmerize Info"
+msgstr "Инфо о Mesmerize"
+
+#: inc/functions.php:907
+msgid "Footer Third Box Widgets"
+msgstr "Виджеты третьего блока подвала"
+
+#: inc/functions.php:897
+msgid "Footer Second Box Widgets"
+msgstr "Виджеты второго блока подвала"
+
+#: inc/functions.php:889 inc/functions.php:899 inc/functions.php:909
+msgid "Widget Area"
+msgstr "Область для виджетов"
+
+#: inc/functions.php:887
+msgid "Footer First Box Widgets"
+msgstr "Виджеты первого блока подвала"
+
+#: inc/functions.php:398 inc/infopage-parts/demo-import.php:7
+msgid "This feature requires the Mesmerize Companion plugin to be installed."
+msgstr "Для этого функционала требуется установка плагина Mesmerize Companion."
+
+#: inc/functions.php:397
+msgid "Install Mesmerize Companion"
+msgstr "Установить Mesmerize Companion"
+
+#: inc/functions.php:395
+msgid "This feature requires the Mesmerize Companion plugin to be activated."
+msgstr "Для этого функционала требуется активация плагина Mesmerize Companion."
+
+#: inc/functions.php:394
+msgid "Activate Mesmerize Companion"
+msgstr "Активировать Mesmerize Companion"
+
+#: inc/functions.php:381
+msgid "The Contact Form by WPForms plugin is recommended for the Mesmerize contact section."
+msgstr "Контактные формы от плагина WPForms рекомендованы для раздела контактов темы Mesmerize."
+
+#: inc/functions.php:365
+msgid "Mesmerize Companion plugin adds drag and drop functionality and many other features to the Mesmerize theme."
+msgstr "Плагин Mesmerize Companion предоставляет функционал редактирования с помощью перетаскивания, а также ряд других функций для темы Mesmerize."
+
+#: inc/functions.php:370 inc/infopage-parts/demo-import.php:6
+msgid "Mesmerize Companion"
+msgstr "Mesmerize Companion"
+
+#: inc/footer-options.php:421
+msgid "Go to widgets section to add a widget here."
+msgstr "Перейти в раздел виджетов, чтобы добавить виджет."
+
+#: inc/footer-options.php:315
+msgid "Icon %s icon"
+msgstr "Лого иконки %s"
+
+#: inc/footer-options.php:314
+msgid "Icon %s url"
+msgstr "Ссылка иконки %s"
+
+#: inc/footer-options.php:313
+msgid "Show Icon %s"
+msgstr "Отобразить иконку %s"
+
+#: inc/footer-options.php:311
+msgid "Social Icon %s Options"
+msgstr "Настройки социальной иконки %s"
+
+#: inc/footer-options.php:285
+msgid "Contact Boxes Options"
+msgstr "Настройки блока контактов"
+
+#: inc/footer-options.php:224
+msgid "Box 3 Content"
+msgstr "Содержимое блока 3"
+
+#: inc/footer-options.php:164
+msgid "Box 2 Content"
+msgstr "Содержимое блока 2"
+
+#: inc/footer-options.php:140 inc/footer-options.php:199
+#: inc/footer-options.php:259
+msgid "Text"
+msgstr "Текст"
+
+#: inc/footer-options.php:122 inc/footer-options.php:181
+#: inc/footer-options.php:241
+#: inc/header-options/background-options/bottom-arrow.php:71
+msgid "Icon"
+msgstr "Иконка"
+
+#: inc/footer-options.php:105
+msgid "Box 1 Content"
+msgstr "Содержимое блока 1"
+
+#: inc/footer-options.php:92
+msgid "Widgets Boxes"
+msgstr "Модули с виджетами"
+
+#: inc/footer-options.php:91
+msgid "Contact Boxes"
+msgstr "Модули с контактами"
+
+#: inc/footer-options.php:90
+msgid "Simple"
+msgstr "Простой"
+
+#: inc/footer-options.php:85
+msgid "Footer Template"
+msgstr "Шаблон подвала"
+
+#: inc/footer-options.php:64
+msgid "Use footer parallax"
+msgstr "Использовать параллакс в подвале"
+
+#: inc/footer-options.php:55
+msgid "Footer Content"
+msgstr "Содержимое подвала"
+
+#: inc/footer-options.php:24
+msgid "+1 (555) 345 234343"
+msgstr "+1 (555) 345 234343"
+
+#: inc/footer-options.php:18
+msgid "hello@mycoolsite.com"
+msgstr "hello@mycoolsite.com"
+
+#: inc/footer-options.php:12
+msgid "San Francisco - Adress - 18 California Street 1100."
+msgstr "San Francisco - Adress - 18 California Street 1100."
+
+#: inc/blog-options.php:87
+msgid "Placeholder Background Color"
+msgstr "Цвет фона заполнителя"
+
+#: inc/blog-options.php:80
+msgid "Show thumbnail placeholder"
+msgstr "Отобразить заполнители миниатюр"
+
+#: inc/blog-options.php:60
+msgid "Post per row"
+msgstr "Запись на строку"
+
+#: inc/blog-options.php:44
+msgid "Highlight first post"
+msgstr "Подсветить первый пост"
+
+#: inc/blog-options.php:35
+msgid "Show post meta"
+msgstr "Отобразить мета-информацию записи"
+
+#: inc/blog-options.php:18
+msgid "Show blog sidebar"
+msgstr "Отобразить боковую колонку блога"
+
+#: inc/blog-options.php:9 inc/theme-options.php:117
+msgid "Blog Settings"
+msgstr "Настройки блога"
+
+#: customizer/companion-popup.php:65 customizer/customizer-controls.php:656
+#: inc/companion.php:109
+msgid "Install now"
+msgstr "Установить сейчас"
+
+#: customizer/companion-popup.php:62 customizer/customizer-controls.php:653
+#: inc/companion.php:106
+msgid "Activate now"
+msgstr "Активировать сейчас"
+
+#: customizer/start-with-frontpage.php:53
+msgid "Maybe later"
+msgstr "Возможно позже"
+
+#: customizer/companion-popup.php:45
+msgid "Don't show this popup in the future"
+msgstr "Не показывать это всплывающее сообщение в будущем"
+
+#: customizer/companion-popup.php:29
+msgid "and many other features"
+msgstr "и много других функций"
+
+#: customizer/companion-popup.php:28
+msgid "3 footer types"
+msgstr "3 типа подвалов"
+
+#: customizer/companion-popup.php:27
+msgid "5 header types"
+msgstr "5 типов заголовков"
+
+#: customizer/companion-popup.php:26
+msgid "Live content editing"
+msgstr "Редактирование содержимого вживую"
+
+#: customizer/companion-popup.php:25
+msgid "25+ predefined content sections"
+msgstr "25 предопределенных разделов для содержимого"
+
+#: customizer/companion-popup.php:24
+msgid "Drag and drop page customization"
+msgstr "Настройка страницы с помощью перетаскивания"
+
+#: customizer/companion-popup.php:23
+msgid "Beautiful ready-made homepage"
+msgstr "Красивая готовая домашняя страница"
+
+#: customizer/companion-popup.php:21
+msgid "Here's what you'll get:"
+msgstr "Вот что вам будет доступно:"
+
+#: customizer/companion-popup.php:19 customizer/customizer-controls.php:647
+#: inc/companion.php:99
+msgid "Please Install the Mesmerize Companion Plugin to Enable All the Theme Features"
+msgstr "Пожалуйста, установите плагин Mesmerize Companion, чтобы активировать все возможности темы"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3664
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка плагина %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3662
+msgid "All installations have been completed."
+msgstr "Все плагины установлены успешно."
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3661
+msgid "%1$s installed successfully."
+msgstr "%1$s установлен успешно."
+
+#: class-tgm-plugin-activation.php:3659
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Процесс установки начинается. В зависимости от мощности вашего сервера этот процесс может занять некоторое время. Пожалуйста, будьте терпеливы."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3656
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Устанавливаю и aктивирую плагин %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3654
+msgid "All installations and activations have been completed."
+msgstr "Все установки и активации были завершены."
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3653 class-tgm-plugin-activation.php:3661
+msgid "Hide Details"
+msgstr "Скрыть детали"
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3653 class-tgm-plugin-activation.php:3661
+msgid "Show Details"
+msgstr "Показать детали"
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3653
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s установлен и активирован успешно."
+
+#: class-tgm-plugin-activation.php:3651
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Процесс установки и активации запущен. В зависимости от мощности вашего сервера этот процесс может занять некоторое время. Пожалуйста, будьте терпеливы."
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3647
+msgid "The installation of %1$s failed."
+msgstr "Установка %1$s завершилась ошибкой."
+
+#. translators: 1: plugin name, 2: error message.
+#: class-tgm-plugin-activation.php:3645
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Во время установки %1$s произошла ошибка: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3642
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Обновить плагин %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3290
+msgid "Plugin activation failed."
+msgstr "Активация плагина не удалась."
+
+#: class-tgm-plugin-activation.php:3057
+msgid "No plugins are available to be activated at this time."
+msgstr "Сейчас нет плагинов доступных для активации."
+
+#: class-tgm-plugin-activation.php:3031
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Плагины для активации не выбраны. Никаких действий не принимается."
+
+#: class-tgm-plugin-activation.php:2925
+msgid "No plugins are available to be updated at this time."
+msgstr "Сейчас нет плагинов доступных для обновления."
+
+#: class-tgm-plugin-activation.php:2923
+msgid "No plugins are available to be installed at this time."
+msgstr "Сейчас нет плагинов доступных для установки."
+
+#: class-tgm-plugin-activation.php:2882
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Плагины для обновления не выбраны. Никаких действий не принимается."
+
+#: class-tgm-plugin-activation.php:2880
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Плагины для установки не выбраны. Никаких действий не принимается."
+
+#: class-tgm-plugin-activation.php:2848 inc/functions.php:373
+#: inc/functions.php:384 inc/infopage-parts/demo-import.php:16
+msgid "Activate"
+msgstr "Активировать"
+
+#: class-tgm-plugin-activation.php:2845
+msgid "Update"
+msgstr "Обновить"
+
+#: class-tgm-plugin-activation.php:2839 inc/functions.php:376
+#: inc/functions.php:387 inc/infopage-parts/demo-import.php:20
+msgid "Install"
+msgstr "Установить"
+
+#: class-tgm-plugin-activation.php:2804
+msgid "Upgrade message from the plugin author:"
+msgstr "Сообщение об апгрейде от автора плагина:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2730
+msgid "Activate %2$s"
+msgstr "Активировать %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2724
+msgid "Update %2$s"
+msgstr "Обновить %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2719
+msgid "Install %2$s"
+msgstr "Установить %2$s"
+
+#: class-tgm-plugin-activation.php:2666
+msgid "Status"
+msgstr "Состояние"
+
+#: class-tgm-plugin-activation.php:2665
+msgid "Version"
+msgstr "Версия"
+
+#: class-tgm-plugin-activation.php:2660
+msgid "Source"
+msgstr "Источник"
+
+#: class-tgm-plugin-activation.php:2659
+msgid "Plugin"
+msgstr "Плагин"
+
+#: class-tgm-plugin-activation.php:2644
+msgid "No plugins to install, update or activate."
+msgstr "Нет плагинов для установки, обновления или активации."
+
+#: class-tgm-plugin-activation.php:2620
+msgid "Available version:"
+msgstr "Доступная версия:"
+
+#: class-tgm-plugin-activation.php:2608
+msgid "Minimum required version:"
+msgstr "Минимальная требуемая версия:"
+
+#: class-tgm-plugin-activation.php:2600
+msgid "Installed version:"
+msgstr "Установленная версия:"
+
+#: class-tgm-plugin-activation.php:2592
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "неизвестный"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2502
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Активировать <span class=\"count\">(%s)</span>"
+msgstr[1] "Активировать <span class=\"count\">(%s)</span>"
+msgstr[2] "Активировать <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2498
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Доступно обновление <span class=\"count\">(%s)</span>"
+msgstr[1] "Доступны обновления <span class=\"count\">(%s)</span>"
+msgstr[2] "Доступны обновления <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2494
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Для установки <span class=\"count\">(%s)</span>"
+msgstr[1] "Для установки <span class=\"count\">(%s)</span>"
+msgstr[2] "Для установки <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2490
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Все <span class=\"count\">(%s)</span>"
+msgstr[1] "Все <span class=\"count\">(%s)</span>"
+msgstr[2] "Все <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: class-tgm-plugin-activation.php:2441
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: class-tgm-plugin-activation.php:2432
+msgid "Update recommended"
+msgstr "Рекомендуется обновление"
+
+#: class-tgm-plugin-activation.php:2429
+msgid "Requires Update"
+msgstr "Требуется обновление"
+
+#: class-tgm-plugin-activation.php:2426
+msgid "Required Update not Available"
+msgstr "Необходимое обновление недоступно"
+
+#: class-tgm-plugin-activation.php:2420
+msgid "Active"
+msgstr "Активирован"
+
+#: class-tgm-plugin-activation.php:2418
+msgid "Installed But Not Activated"
+msgstr "Установлено, но не активировано"
+
+#: class-tgm-plugin-activation.php:2414
+msgid "Not Installed"
+msgstr "Не установлены"
+
+#: class-tgm-plugin-activation.php:2395
+msgid "Pre-Packaged"
+msgstr "Упакованный в тему"
+
+#: class-tgm-plugin-activation.php:2392
+msgid "External Source"
+msgstr "Внешний ресурс"
+
+#: class-tgm-plugin-activation.php:2389
+msgid "WordPress Repository"
+msgstr "Репозиторий WordPress"
+
+#: class-tgm-plugin-activation.php:2371
+msgid "Recommended"
+msgstr "Рекомендуемый"
+
+#: class-tgm-plugin-activation.php:2368
+msgid "Required"
+msgstr "Необходимый"
+
+#. translators: %s: version number
+#: class-tgm-plugin-activation.php:2066
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: class-tgm-plugin-activation.php:1146 class-tgm-plugin-activation.php:3071
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "и"
+
+#: class-tgm-plugin-activation.php:955
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Удалённый набор плагинов состоит из более, чем одного файла, но файлы не помещены в папку."
+
+#: class-tgm-plugin-activation.php:952 class-tgm-plugin-activation.php:955
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Свяжитесь с разработчиком плагина и попросите его упаковать плагин в соответствии с требованиями WordPress."
+
+#: class-tgm-plugin-activation.php:952
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Набор удалённых плагинов не содержит папку с требуемым ярлыком и переименование не работает."
+
+#: class-tgm-plugin-activation.php:531
+msgid "Update Required"
+msgstr "Требуется обновление"
+
+#: class-tgm-plugin-activation.php:530
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Обновите плагин для корректной работы с этой темой."
+
+#: class-tgm-plugin-activation.php:403
+msgid "Please contact the administrator of this site for help."
+msgstr "Пожалуйста, обратитесь к администратору этого сайта за помощью."
+
+#: class-tgm-plugin-activation.php:402
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Есть один или несколько требуемых или рекомендованных плагинов для установки, обновления или активации."
+
+#: class-tgm-plugin-activation.php:401
+msgid "Dismiss this notice"
+msgstr "Закрыть это уведомление"
+
+#. translators: 1: dashboard link.
+#: class-tgm-plugin-activation.php:400
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Все плагины успешно проинсталлированы и активированы. %1$s"
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:398
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Плагин не активирован. Для этой темы необходима более свежая версия %s. Пожалуйста, обновите плагин."
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:396
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Ничего не произошло. Плагин %1$s уже активирован."
+
+#: class-tgm-plugin-activation.php:394 class-tgm-plugin-activation.php:3075
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Этот плагин был успешно активирован:"
+msgstr[1] ""
+msgstr[2] ""
+
+#: class-tgm-plugin-activation.php:393 class-tgm-plugin-activation.php:3291
+msgid "Plugin activated successfully."
+msgstr "Плагин авктивирован успешно."
+
+#: class-tgm-plugin-activation.php:392 class-tgm-plugin-activation.php:842
+#: class-tgm-plugin-activation.php:2644 class-tgm-plugin-activation.php:3727
+msgid "Return to the Dashboard"
+msgstr "Вернуться в консоль"
+
+#: class-tgm-plugin-activation.php:391
+msgid "Return to Required Plugins Installer"
+msgstr "Возврат к установке необходимых плагинов"
+
+#: class-tgm-plugin-activation.php:386
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Начать активацию плагина"
+msgstr[1] "Начать активацию плагинов"
+msgstr[2] "Начать активацию плагинов"
+
+#: class-tgm-plugin-activation.php:381
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Начать обновление плагина"
+msgstr[1] "Начать обновление плагинов"
+msgstr[2] "Начать обновление плагинов"
+
+#: class-tgm-plugin-activation.php:376
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Начать установку плагина"
+msgstr[1] "Начать установку плагина"
+msgstr[2] "Начать установку плагинов"
+
+#: class-tgm-plugin-activation.php:339
+msgid "Something went wrong with the plugin API."
+msgstr "Что-то пошло не так с API плагина."
+
+#. translators: %s: plugin name.
+#: class-tgm-plugin-activation.php:338
+msgid "Updating Plugin: %s"
+msgstr "Обновляется плагин: %s"
+
+#. translators: %s: plugin name.
+#: class-tgm-plugin-activation.php:336
+msgid "Installing Plugin: %s"
+msgstr "Устанавливается плагин: %s"
+
+#: class-tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr "Установить плагины"
+
+#: class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr "Установить необходимыe плагины"
+
+#. Template Name of the theme
+msgid "Front Page Template"
+msgstr "Шаблон главной страницы"
+
+#: template-parts/content-single.php:48
+msgid "Previous post:"
+msgstr "Предыдущая запись:"
+
+#: template-parts/content-single.php:46
+msgid "Previous:"
+msgstr "Предыдущий:"
+
+#: template-parts/content-single.php:43
+msgid "Next post:"
+msgstr "Следующая запись:"
+
+#: template-parts/content-single.php:42
+msgid "Next:"
+msgstr "Следующий:"
+
+#: template-parts/content-post-meta.php:10
+msgid "on"
+msgstr "on"
+
+#: template-parts/content-post-meta.php:8
+msgid "by"
+msgstr "by"
+
+#: template-parts/content-page.php:6 template-parts/content-single.php:20
+msgid "Pages:"
+msgstr "Страниц:"
+
+#: template-parts/content-none.php:12
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Запрошенную информацию найти не удалось. Возможно, будет полезен поиск по сайту."
+
+#: template-parts/content-none.php:9
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, по вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+#: template-parts/content-none.php:7
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните отсюда</a>."
+
+#: template-parts/content-none.php:4
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: searchform.php:4
+msgid "Search &hellip;"
+msgstr "Поиск&hellip;"
+
+#: searchform.php:3
+msgctxt "label"
+msgid "Search for:"
+msgstr "Найти:"
+
+#: inc/templates-functions.php:367 template-parts/content-page.php:10
+#: template-parts/content-single.php:25
+msgid "Page"
+msgstr "Страница"
+
+#: inc/templates-functions.php:369 inc/templates-functions.php:376
+msgid "<i class=\"fa fa-angle-right\" aria-hidden=\"true\"></i>"
+msgstr "<i class=\"fa fa-angle-right\" aria-hidden=\"true\"></i>"
+
+#: inc/templates-functions.php:368 inc/templates-functions.php:375
+msgid "<i class=\"fa fa-angle-left\" aria-hidden=\"true\"></i>"
+msgstr "<i class=\"fa fa-angle-left\" aria-hidden=\"true\"></i>"
+
+#: inc/theme-options.php:353
+msgid "Change image"
+msgstr "Изменить изображение"
+
+#: inc/theme-options.php:352
+msgid "Deselect"
+msgstr "Снять выделение"
+
+#: customizer/GradientControl.php:15 inc/theme-options.php:351
+msgid "Select Gradient"
+msgstr "Выберите заливку"
+
+#: inc/theme-options.php:350
+msgid "Font Awesome Icons"
+msgstr "Иконки Font Awesome"
+
+#: inc/theme-options.php:349
+msgid "Web Gradients"
+msgstr "Вэб заливки"
+
+#: inc/theme-options.php:348
+msgid "Choose Images"
+msgstr "Выбрать изображения"
+
+#: inc/theme-options.php:284
+msgid "Choose logo"
+msgstr "Выбрать логотип"
+
+#: inc/theme-options.php:282
+msgid "No logo selected"
+msgstr "Логотип не выбран"
+
+#: inc/theme-options.php:279
+msgid "Change logo"
+msgstr "Сменить логотип"
+
+#: inc/theme-options.php:278 inc/theme-options.php:283
+msgid "Select logo"
+msgstr "Выбрать логотип"
+
+#: inc/theme-options.php:270
+msgid "Dark Logo"
+msgstr "Темный логотип"
+
+#: inc/theme-options.php:257
+msgid "Alternate text logo words"
+msgstr "Альтернативный текст слов логотипа"
+
+#: inc/theme-options.php:244
+msgid "Logo Max Height (px)"
+msgstr "Максимальная высота лого (px)"
+
+#: inc/theme-options.php:149
+msgid "Inner Pages Hero"
+msgstr "Тема дня внутренних страниц"
+
+#: inc/theme-options.php:144
+msgid "Front Page Hero Content"
+msgstr "Содержимое тема дня главной страницы"
+
+#: inc/theme-options.php:139
+msgid "Front Page Hero"
+msgstr "Тема дня на главной страницы"
+
+#: inc/theme-options.php:122
+msgid "General Settings"
+msgstr "Общие настройки"
+
+#: inc/theme-options.php:112
+msgid "Footer Settings"
+msgstr "Настройки подвала"
+
+#: inc/theme-options.php:63 inc/theme-options.php:87 inc/theme-options.php:96
+#: inc/theme-options.php:105
+msgid "Front Page content"
+msgstr "Содержимое главной страницы"
+
+#: inc/theme-options.php:76
+msgid "Hero"
+msgstr "Тема дня"
+
+#: inc/theme-options.php:51
+msgid "Navigation"
+msgstr "Навигация"
+
+#: inc/templates-functions.php:370
+msgid "Posts navigation"
+msgstr "Навигация по записям"
+
+#: inc/templates-functions.php:352
+msgid "Y"
+msgstr "Y"
+
+#: inc/header-options/navigation.php:12
+msgid "Inner Page Navigation"
+msgstr "Навигация внутренней страницы"
+
+#: inc/header-options/navigation.php:11
+msgid "Front Page Navigation"
+msgstr "Навигация главной страницы"
+
+#: inc/header-options/navigation.php:10
+msgid "Top Bar"
+msgstr "Верхняя панель"
+
+#: inc/header-options/navigation-options/top-bar.php:26
+msgid "Show Top Bar"
+msgstr "Отображать верхнюю панель"
+
+#: inc/header-options/navigation-options/top-bar.php:18
+msgid "Top Bar Display"
+msgstr "Отображение верхней панели"
+
+#: inc/footer-options.php:402
+#: inc/header-options/navigation-options/top-bar/content-types/social-icons.php:96
+msgid "Social Icons Options"
+msgstr "Настройки социальных иконок"
+
+#: inc/header-options/navigation-options/top-bar/content-types/social-icons.php:82
+msgid "Field %d link"
+msgstr "Ссылка поля %d"
+
+#: inc/header-options/navigation-options/top-bar/content-types/social-icons.php:68
+msgid "Icon %d icon"
+msgstr "Лого иконки %d"
+
+#: inc/header-options/navigation-options/top-bar/content-types/social-icons.php:47
+msgid "Show Icon %d"
+msgstr "Отобразить иконку %d"
+
+#: inc/header-options/navigation-options/top-bar/content-types/social-icons.php:4
+#: inc/header-options/navigation-options/top-bar/content-types/social-icons.php:27
+msgid "Social Icons"
+msgstr "Иконки соцсетей"
+
+#: inc/header-options/navigation-options/top-bar/content-types/information.php:111
+msgid "Info Options"
+msgstr "Настройки инфо"
+
+#: inc/header-options/navigation-options/top-bar/content-types/information.php:89
+msgid "Field %d text"
+msgstr "Текст поля %d"
+
+#: inc/header-options/navigation-options/top-bar/content-types/information.php:70
+msgid "Field %d icon"
+msgstr "Иконка поля %d"
+
+#: inc/header-options/navigation-options/top-bar/content-types/information.php:57
+msgid "Show Field %d"
+msgstr "Отобразить поле %d"
+
+#: inc/header-options/navigation-options/top-bar/content-types/information.php:28
+msgid "info@yourmail.com"
+msgstr "info@yourmail.com"
+
+#: inc/header-options/navigation-options/top-bar/content-types/information.php:23
+msgid "+1234567890"
+msgstr "+1234567890"
+
+#: inc/header-options/navigation-options/top-bar/content-types/information.php:18
+msgid "Location,TX 75035,USA"
+msgstr "Location,TX 75035,USA"
+
+#: inc/header-options/navigation-options/top-bar/content-types/information.php:5
+msgid "Information Fields"
+msgstr "Информационные поля"
+
+#: inc/header-options/navigation-options/top-bar/content-areas.php:35
+msgid "Top bar right area"
+msgstr "Правая область верхней панели"
+
+#: inc/header-options/navigation-options/top-bar/content-areas.php:30
+msgid "Top bar left area"
+msgstr "Левая область верхней панели"
+
+#: inc/header-options/navigation-options/nav-bar.php:157
+msgid "Transparent Nav Bar"
+msgstr "Прозрачная навигационная панель"
+
+#: inc/header-options/navigation-options/nav-bar.php:50
+msgid "Show Navigation Bottom Border"
+msgstr "Показать нижнюю кромку навигации"
+
+#: inc/header-options/navigation-options/nav-bar.php:39
+msgid "Boxed Navigation"
+msgstr "Блоковая навигация"
+
+#: inc/header-options/navigation-options/nav-bar.php:29
+msgid "Stick to top"
+msgstr "Прикрепить сверху"
+
+#: inc/header-options/navigation-options/nav-bar.php:18
+msgid "Front Page Navigation options"
+msgstr "Настройки навигации главной страницы"
+
+#: inc/header-options/navigation-options/nav-bar.php:18
+msgid "Inner Pages Navigation options"
+msgstr "Настройки навигации внутренних страниц"
+
+#: inc/header-options/content.php:67
+msgid "Text with media on right"
+msgstr "Текст с медиа справа"
+
+#: inc/header-options/content.php:66
+msgid "Text with media on left"
+msgstr "Текст с медиа слева"
+
+#: inc/header-options/content.php:65
+msgid "Text on left"
+msgstr "Текст слева"
+
+#: inc/header-options/content.php:64
+msgid "Text on right"
+msgstr "Текст справа"
+
+#: inc/header-options/content.php:63
+msgid "Text on center"
+msgstr "Текст по центру"
+
+#: inc/header-options/content-options/title.php:73
+msgid "You can set this title from the customizer."
+msgstr "Вы можете установить этот заголовок в настройщике."
+
+#: inc/header-options/content-options/title.php:43
+msgid "Title"
+msgstr "Заголовок"
+
+#: inc/header-options/content-options/title.php:12
+msgid "Show title"
+msgstr "Показать заголовок"
+
+#: inc/header-options/content-options/subtitle.php:76
+msgid "You can set this subtitle from the customizer."
+msgstr "Вы можете установить этот подзаголовок в настройщике."
+
+#: inc/header-options/content-options/subtitle.php:46
+msgid "Subtitle"
+msgstr "Подзаголовок"
+
+#: inc/header-options/content-options/subtitle.php:11
+msgid "Show subtitle"
+msgstr "Показать подзаголовок"
+
+#: inc/header-options/content-options/inner-pages.php:79
+msgid "Show subtitle (blog description)"
+msgstr "Показывать подзаголовок (описание блога)"
+
+#: inc/header-options/content-options/inner-pages.php:8
+msgid "Content"
+msgstr "Содержимое"
+
+#: inc/header-options/content-options/content-type.php:753
+#: inc/header-options/content-options/inner-pages.php:52
+msgid "Content Spacing"
+msgstr "Интервал содержимого"
+
+#: inc/header-options/content-options/content-type.php:724
+msgid "Media Type"
+msgstr "Тип медиа"
+
+#: inc/header-options/content-options/content-type.php:638
+msgid "Content layout"
+msgstr "Разметка содержимого"
+
+#: inc/header-options/content-options/content-type.php:628
+msgid "Content Options"
+msgstr "Настройки содержимого"
+
+#: inc/header-options/content-options/content-type.php:601
+msgid "Text Vertical Align"
+msgstr "Вертикальное выравнивание текста"
+
+#: inc/header-options/content-options/content-type.php:562
+msgid "Text Width"
+msgstr "Ширина текста"
+
+#: inc/header-options/content-options/content-type.php:523
+msgid "Text box settings"
+msgstr "Настройки блока текста"
+
+#: inc/header-options/content-options/content-type.php:229
+msgid "Media Box Spacing"
+msgstr "Отступ блока медиа"
+
+#: inc/header-options/content-options/content-type.php:186
+msgid "Image width"
+msgstr "Ширина изображения"
+
+#: inc/header-options/content-options/content-type.php:136
+msgid "Media Vertical Align"
+msgstr "Вертикальное выравнивание медиа"
+
+#: inc/header-options/content-options/content-type.php:64
+msgid "Media box settings"
+msgstr "Настройки медиа блока "
+
+#: inc/header-options/content-options/content-type.php:51
+#: inc/header-options/content-options/content-type.php:608
+msgid "Middle"
+msgstr "Посередине"
+
+#: inc/header-options/content-options/buttons.php:225
+msgid "Action button"
+msgstr "Кнопка действия"
+
+#: inc/header-options/content-options/buttons.php:134
+msgid "Class"
+msgstr "Класс"
+
+#: inc/header-options/content-options/buttons.php:128
+msgid "Target"
+msgstr "Цель"
+
+#: inc/header-options/content-options/buttons.php:122
+msgid "Link"
+msgstr "Ссылка"
+
+#: inc/header-options/content-options/buttons.php:118
+msgid "Action Button"
+msgstr "Кнопка действия"
+
+#: inc/header-options/content-options/buttons.php:117
+msgid "Label"
+msgstr "Этикетка"
+
+#: inc/header-options/content-options/buttons.php:112
+msgid "Button"
+msgstr "Кнопка"
+
+#: inc/header-options/content-options/buttons.php:81
+#: inc/header-options/content-options/buttons.php:103
+msgid "Buttons"
+msgstr "Кнопки"
+
+#: inc/header-options/content-options/buttons.php:49
+msgid "Show buttons"
+msgstr "Отобразить кнопки"
+
+#: inc/header-options/content-options/buttons.php:13
+msgid "Action Button 2"
+msgstr "Кнопка действия 2"
+
+#: inc/header-options/content-options/buttons.php:7
+msgid "Action Button 1"
+msgstr "Кнопка действия 1"
+
+#: inc/header-options/background.php:21
+#: inc/header-options/content-options/content-type.php:319
+msgid "Background"
+msgstr "Фон"
+
+#: inc/header-options/background-options/overlay-types/shapes-overlay.php:137
+msgid "Circles"
+msgstr "Круги"
+
+#: inc/header-options/background-options/overlay-types/shapes-overlay.php:28
+msgid "Shape Light"
+msgstr "Свет формы"
+
+#: inc/header-options/background-options/overlay-types/shapes-overlay.php:9
+msgid "Overlay Shapes"
+msgstr "Формы наложения"
+
+#: inc/header-options/background-options/overlay-types/color-overlay.php:57
+msgid "Overlay Opacity"
+msgstr "Прозрачность наложения"
+
+#: inc/header-options/background-options/overlay-types/color-overlay.php:13
+msgid "Overlay Color"
+msgstr "Цвет наложения"
+
+#: inc/header-options/background-options/overlay-type.php:37
+msgid "Overlay Type"
+msgstr "Тип наложения"
+
+#: inc/header-options/background-options/overlay-type.php:28
+msgid "Overlay Options"
+msgstr "Настройки наложения"
+
+#: inc/header-options/background-options/overlay-type.php:18
+msgid "Show overlay"
+msgstr "Показать наложение"
+
+#: inc/header-options/background-options/header-separator.php:278
+msgid "Zigzag"
+msgstr "Зигзаг"
+
+#: inc/header-options/background-options/header-separator.php:277
+msgid "Split Negative"
+msgstr "Трещина - негатив"
+
+#: inc/header-options/background-options/header-separator.php:276
+msgid "Split"
+msgstr "Трещина"
+
+#: inc/header-options/background-options/header-separator.php:275
+msgid "Book Negative"
+msgstr "Книга - негатив"
+
+#: inc/header-options/background-options/header-separator.php:274
+msgid "Book"
+msgstr "Книга"
+
+#: inc/header-options/background-options/header-separator.php:273
+msgid "Arrow Negative"
+msgstr "Стрелка - негатив"
+
+#: inc/header-options/background-options/header-separator.php:272
+msgid "Arrow"
+msgstr "Стрелка"
+
+#: inc/header-options/background-options/header-separator.php:271
+msgid "Drops Negative"
+msgstr "Капли - негатив"
+
+#: inc/header-options/background-options/header-separator.php:270
+msgid "Drops"
+msgstr "Капли"
+
+#: inc/header-options/background-options/header-separator.php:269
+msgid "Curve Asymmetrical Negative"
+msgstr "Асимметричный изгиб - негатив"
+
+#: inc/header-options/background-options/header-separator.php:268
+msgid "Curve Asymmetrical"
+msgstr "Асимметричный изгиб"
+
+#: inc/header-options/background-options/header-separator.php:267
+msgid "Curve Negative"
+msgstr "Изгиб - негатив"
+
+#: inc/header-options/background-options/header-separator.php:266
+msgid "Curve"
+msgstr "Изгиб"
+
+#: inc/header-options/background-options/header-separator.php:265
+msgid "Clouds Negative"
+msgstr "Облака - негатив"
+
+#: inc/header-options/background-options/header-separator.php:264
+msgid "Clouds"
+msgstr "Облака"
+
+#: inc/header-options/background-options/header-separator.php:263
+msgid "Waves Pattern"
+msgstr "Шаблон с волнами"
+
+#: inc/header-options/background-options/header-separator.php:262
+msgid "Waves Brush"
+msgstr "Кисть с волнами"
+
+#: inc/header-options/background-options/header-separator.php:261
+msgid "Waves Negative"
+msgstr "Волны - негатив"
+
+#: inc/header-options/background-options/header-separator.php:260
+msgid "Waves"
+msgstr "Волны"
+
+#: inc/header-options/background-options/header-separator.php:259
+msgid "Pyramids Negative"
+msgstr "Пирамиды - негатив"
+
+#: inc/header-options/background-options/header-separator.php:258
+msgid "Pyramids"
+msgstr "Пирамиды"
+
+#: inc/header-options/background-options/header-separator.php:257
+msgid "Mountains"
+msgstr "Горы"
+
+#: inc/header-options/background-options/header-separator.php:256
+msgid "Fan Opacity"
+msgstr "Прозрачность веера"
+
+#: inc/header-options/background-options/header-separator.php:255
+msgid "Triangle Asymmetrical Negative"
+msgstr "Асимметричный треугольник - негатив"
+
+#: inc/header-options/background-options/header-separator.php:254
+msgid "Triangle Asymmetrical"
+msgstr "Асимметричный треугольник"
+
+#: inc/header-options/background-options/header-separator.php:253
+msgid "Triangle Negative"
+msgstr "Треугольник - негатив"
+
+#: inc/header-options/background-options/header-separator.php:252
+msgid "Triangle"
+msgstr "Треугольник"
+
+#: inc/header-options/background-options/header-separator.php:251
+msgid "Tilt Opacity"
+msgstr "Прозрачность наклона"
+
+#: inc/header-options/background-options/header-separator.php:250
+msgid "Tilt Flipped"
+msgstr "Обратный наклон"
+
+#: inc/header-options/background-options/header-separator.php:249
+msgid "Tilt"
+msgstr "Наклон"
+
+#: inc/header-options/background-options/header-separator.php:242
+msgid "Stright Angles 1 Negative"
+msgstr "Прямые углы 1 - негатив"
+
+#: inc/header-options/background-options/header-separator.php:241
+msgid "Stright Angles 1"
+msgstr "Прямые углы 1"
+
+#: inc/header-options/background-options/header-separator.php:240
+#: inc/header-options/background-options/header-separator.php:244
+msgid "Triple Waves 2 Negative"
+msgstr "Тройные волны 2 - негатива"
+
+#: inc/header-options/background-options/header-separator.php:239
+#: inc/header-options/background-options/header-separator.php:243
+msgid "Triple Waves 2"
+msgstr "Тройные волны 2"
+
+#: inc/header-options/background-options/header-separator.php:238
+msgid "Triple Waves 1 Negative"
+msgstr "Тройные волны 1 - негатив"
+
+#: inc/header-options/background-options/header-separator.php:237
+msgid "Triple Waves 1"
+msgstr "Тройные волны 1"
+
+#: inc/header-options/background-options/header-separator.php:236
+msgid "Clouds 2"
+msgstr "Облака 2"
+
+#: inc/header-options/background-options/header-separator.php:235
+msgid "Wave no centric Negative"
+msgstr "Волна нецентрированная - негатив"
+
+#: inc/header-options/background-options/header-separator.php:234
+msgid "Wave no centric"
+msgstr "Волна нецентрированная"
+
+#: inc/functions.php:1224 inc/theme-options.php:281
+msgid "Default"
+msgstr "По умолчанию"
+
+#: inc/header-options/background-options/header-separator.php:206
+msgid "Wave and line Negative"
+msgstr "Волна и линия - негатив"
+
+#: inc/header-options/background-options/header-separator.php:205
+msgid "Wave and line"
+msgstr "Волна и линия"
+
+#: inc/header-options/background-options/header-separator.php:116
+msgid "Accent Color"
+msgstr "Основной цвет"
+
+#: class-tgm-plugin-activation.php:2661
+#: inc/header-options/background-options/header-separator.php:56
+#: inc/header-options/navigation-options/top-bar/content-areas.php:67
+msgid "Type"
+msgstr "Тип"
+
+#: inc/header-options/background-options/header-separator.php:46
+msgid "Bottom Separator Options"
+msgstr "Настройки нижнего разделителя"
+
+#: inc/header-options/background-options/general.php:17
+msgid "Full Height Background"
+msgstr "Фон во всю высоту"
+
+#: inc/header-options/background-options/background-types/video.php:136
+msgid "Video Poster"
+msgstr "Видео-плакат"
+
+#: inc/header-options/background-options/background-types/video.php:118
+msgid "External Video"
+msgstr "Внешнее видео"
+
+#: inc/header-options/background-options/background-types/video.php:99
+msgid "Self hosted video (MP4)"
+msgstr "Локальное видео на хостинге (MP4)"
+
+#: inc/header-options/background-options/background-types/video.php:46
+msgid "Video is playing."
+msgstr "Видео воспроизводится."
+
+#: inc/header-options/background-options/background-types/video.php:45
+msgid "Video is paused."
+msgstr "Видео приостановлено."
+
+#: inc/header-options/background-options/background-types/video.php:44
+msgid "Play"
+msgstr "Воспроизвести"
+
+#: inc/header-options/background-options/background-types/video.php:43
+msgid "Pause"
+msgstr "Пауза"
+
+#: inc/header-options/background-options/background-types/video.php:7
+msgid "Video"
+msgstr "Видео"
+
+#: inc/header-options/background-options/background-types/slideshow.php:102
+msgid "Effect Speed"
+msgstr "Скорость эффекта"
+
+#: inc/header-options/background-options/background-types/slideshow.php:83
+msgid "Slide Duration"
+msgstr "Длительность слайда"
+
+#: inc/header-options/background-options/background-types/slideshow.php:59
+msgid "slideshow image"
+msgstr "изображение слайдшоу"
+
+#: inc/header-options/background-options/background-types/slideshow.php:54
+msgid "Header Slideshow Images"
+msgstr "Изображения слайдшоу шапки"
+
+#: inc/header-options/background-options/background-types/slideshow.php:9
+msgid "Slideshow"
+msgstr "Слайдшоу"
+
+#: inc/header-options/background-options/background-types/image.php:160
+msgid "Header Image"
+msgstr "Изображение заголовка"
+
+#: inc/header-options/background-options/background-types/image.php:274
+msgid "Enable parallax effect"
+msgstr "Включить паралакс эффект"
+
+#: inc/header-options/background-options/background-types/image.php:8
+#: inc/header-options/background-options/background-types/slideshow.php:66
+#: inc/header-options/content-options/content-type.php:166
+#: inc/header-options/content.php:56
+msgid "Image"
+msgstr "Изображение"
+
+#: inc/header-options/background-options/background-types/gradient.php:48
+msgid "Header Gradient"
+msgstr "Заливка шапки"
+
+#: inc/header-options/background-options/background-types/gradient.php:8
+#: inc/header-options/background-options/overlay-types/gradient-overlay.php:4
+#: inc/header-options/background-options/overlay-types/gradient-overlay.php:11
+msgid "Gradient"
+msgstr "Заливка"
+
+#: inc/header-options/background-options/background-type.php:40
+#: inc/header-options/background-options/background-type.php:43
+#: inc/header-options/background-options/bottom-arrow.php:34
+#: inc/header-options/background-options/header-separator.php:27
+#: inc/header-options/background-options/overlay-type.php:50
+#: inc/header-options/content-options/buttons.php:59
+#: inc/header-options/content-options/subtitle.php:21
+#: inc/header-options/content-options/title.php:22
+msgid "Options"
+msgstr "Настройки"
+
+#: inc/header-options/background-options/background-type.php:25
+#: inc/header-options/presets.php:67
+msgid "Background Type"
+msgstr "Тип фона"
+
+#: inc/general-options/colors.php:45
+msgid "color %s not found"
+msgstr "цвет %s не найден"
+
+#: inc/general-options/colors.php:10
+msgid "color5"
+msgstr "цвет5"
+
+#: inc/general-options/colors.php:9
+msgid "color4"
+msgstr "цвет4"
+
+#: inc/general-options/colors.php:8
+msgid "color3"
+msgstr "цвет3"
+
+#: inc/general-options/colors.php:7
+msgid "Secondary"
+msgstr "Дополнительно"
+
+#: inc/general-options/colors.php:6
+msgid "Primary"
+msgstr "Основной"
+
+#: inc/functions.php:977
+msgid "Search Results for &#8220;%s&#8221;"
+msgstr "Результаты поиска для &#8220;%s&#8221;"
+
+#: inc/functions.php:975
+msgid "Page not found"
+msgstr "Страница не найдена"
+
+#: inc/functions.php:930
+msgid "Read more"
+msgstr "Читать дальше"
+
+#: inc/functions.php:868
+msgid "Sidebar widget area"
+msgstr "Область виджетов в боковой колонке"
+
+#: inc/functions.php:331
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: inc/functions.php:306
+msgid "Homepage Header Image"
+msgstr "Изображение заголовка домашней страницы"
+
+#: functions.php:37
+msgid "and the minimum required version is "
+msgstr "и минимальная необходимая версия "
+
+#: functions.php:36
+msgid "Current php version is:"
+msgstr "Текущая версия PHP:"
+
+#: functions.php:35
+msgid "You need to update your PHP version to use the <strong>Mesmerize</strong>."
+msgstr "Вам следует обновить вашу версию PHP, чтобы использовать <strong>Mesmerize</strong>."
+
+#: functions.php:33
+msgid "Mesmerize theme activation failed!"
+msgstr "Проблема с активацией темы Mesmerize!"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:221
+msgid "Add Web Font"
+msgstr "Добавить web-шрифт"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:220
+msgid "Hex Value"
+msgstr "HEX-код"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:219
+msgid "Switch Editor"
+msgstr "Переключить редактор"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:218
+msgid "Close Editor"
+msgstr "Закрыть редактор"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:217
+msgid "Open Editor"
+msgstr "Открыть редактор"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:216
+msgid "Select a Page"
+msgstr "Выбрать страницу"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:215
+msgid "Initial"
+msgstr "Исходный"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:214
+msgid "Lowercase"
+msgstr "Нижний регистр"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:213
+msgid "Uppercase"
+msgstr "Верхний регистр"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:212
+msgid "Capitalize"
+msgstr "Заглавные буквы"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:211
+#: inc/header-options/background-options/overlay-types/shapes-overlay.php:133
+#: inc/header-options/content-options/content-type.php:318
+#: inc/header-options/navigation-options/top-bar/content-areas.php:7
+msgid "None"
+msgstr "Нет"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:210
+msgid "Text Transform"
+msgstr "Преобразование текста"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:209
+#: inc/header-options/content-options/content-type.php:541
+#: inc/header-options/content-options/inner-pages.php:16
+msgid "Text Align"
+msgstr "Выравнивание текста"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:207
+msgid "%s Reset"
+msgstr "Сброс %s"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:206
+#: customizer/kirki/includes/sections/class-kirki-sections-hover-section.php:46
+msgid "Back"
+msgstr "Назад"
+
+#: customizer/customizer-controls.php:638
+#: customizer/kirki/includes/class-kirki-l10n.php:205
+#: customizer/kirki/includes/sections/class-kirki-sections-hover-section.php:40
+msgid "Press return or enter to open this section"
+msgstr "Нажмите Enter, чтобы открыть эту секцию"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:204
+msgid "Limit: %s rows"
+msgstr "Ограничение: %s строк"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:203
+msgid "row"
+msgstr "строка"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:202
+msgid "Add new"
+msgstr "Добавить новый"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:201
+msgid "Invalid Value"
+msgstr "Неверное значение"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:200
+msgid "Black (900) Italic"
+msgstr "Black (900) Italic"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:199
+msgid "Black (900)"
+msgstr "Black (900)"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:198
+msgid "Extra Bold (800) Italic"
+msgstr "Extra Bold (800) Italic"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:197
+msgid "Extra Bold (800)"
+msgstr "Extra Bold (800)"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:196
+msgid "Bold (700) Italic"
+msgstr "Bold (700) Italic"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:195
+msgid "Bold (700)"
+msgstr "Bold (700)"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:194
+msgid "Semi Bold (600) Italic"
+msgstr "Semi Bold (600) Italic"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:193
+msgid "Semi Bold (600)"
+msgstr "Semi Bold (600)"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:192
+msgid "Medium (500) Italic"
+msgstr "Medium (500) Italic"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:191
+msgid "Medium (500)"
+msgstr "Medium (500)"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:190
+msgid "Normal (400) Italic"
+msgstr "Normal (400) Italic"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:189
+msgid "Normal (400)"
+msgstr "Normal (400)"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:188
+msgid "Light (300) Italic"
+msgstr "Light (300) Italic"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:187
+msgid "Light (300)"
+msgstr "Light (300)"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:186
+msgid "Extra light (200) Italic"
+msgstr "Extra light (200) Italic"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:185
+msgid "Extra light (200)"
+msgstr "Extra light (200)"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:184
+msgid "Thin (100) Italic"
+msgstr "Thin (100) Italic"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:183
+msgid "Thin (100)"
+msgstr "Thin (100)"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:182
+msgid "Spacing"
+msgstr "Интервал"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:181
+#: inc/header-options/background-options/header-separator.php:160
+#: inc/header-options/content-options/content-type.php:357
+msgid "Height"
+msgstr "Высота"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:180
+msgid "Size"
+msgstr "Размер"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:179
+msgid "Subset"
+msgstr "Набор"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:178
+msgid "Variant"
+msgstr "Вариант"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:177
+msgid "Select a font-family"
+msgstr "Выбрать семейство шрифтов"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:176 inc/theme-options.php:280
+msgid "Remove"
+msgstr "Удалить"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:175
+msgid "No File Selected"
+msgstr "Файл не выбран"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:174
+msgid "Change File"
+msgstr "Изменить файл"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:173
+msgid "Add File"
+msgstr "Добавить файл"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:172
+msgid "No Image Selected"
+msgstr "Изображение не выбрано"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:171
+msgid "Change Image"
+msgstr "Изменить изображение"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:170
+msgid "Add Image"
+msgstr "Добавить изображение"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:169
+#: inc/header-options/background-options/background-types/color.php:7
+#: inc/header-options/background-options/header-separator.php:75
+#: inc/header-options/background-options/overlay-types/color-overlay.php:4
+msgid "Color"
+msgstr "Цвет"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:168
+msgid "Justify"
+msgstr "По ширине"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:167
+#: inc/header-options/content-options/content-type.php:548
+#: inc/header-options/content-options/inner-pages.php:23
+msgid "Center"
+msgstr "По центру"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:166
+#: inc/header-options/content-options/content-type.php:549
+#: inc/header-options/content-options/inner-pages.php:24
+msgid "Right"
+msgstr "Справа"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:165
+#: inc/header-options/content-options/content-type.php:547
+#: inc/header-options/content-options/inner-pages.php:22
+msgid "Left"
+msgstr "Слева"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:164
+#: inc/header-options/content-options/content-type.php:52
+#: inc/header-options/content-options/content-type.php:609
+msgid "Bottom"
+msgstr "Снизу"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:163
+#: inc/header-options/content-options/content-type.php:50
+#: inc/header-options/content-options/content-type.php:607
+msgid "Top"
+msgstr "Сверху"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:162
+msgid "Letter Spacing"
+msgstr "Межбуквенное расстояние"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:161
+msgid "Font Style"
+msgstr "Стиль шрифта"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:160
+msgid "Line Height"
+msgstr "Высота строки"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:159
+msgid "Font Weight"
+msgstr "Жирность шрифта"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:158
+msgid "Mobile Font Size"
+msgstr "Размер мобильного шрифта"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:157
+msgid "Font Size"
+msgstr "Размер шрифта"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:156
+msgid "Font Family"
+msgstr "Семейство шрифтов"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:155
+msgctxt "font style"
+msgid "Monospace"
+msgstr "Моноширинный"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:154
+msgctxt "font style"
+msgid "Sans Serif"
+msgstr "Без засечек"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:153
+msgctxt "font style"
+msgid "Serif"
+msgstr "С засечками"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:152
+msgid "Thai"
+msgstr "Тайский"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:151
+msgid "Telugu"
+msgstr "Телугу"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:150
+msgid "Tamil"
+msgstr "Тамильский"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:149
+msgid "Gujarati"
+msgstr "Гуджарати"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:148
+msgid "Bengali"
+msgstr "Бенгальский"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:147
+msgid "Arabic"
+msgstr "Арабский"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:146
+msgid "Hebrew"
+msgstr "Иврит"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:145
+msgid "Vietnamese"
+msgstr "Вьетнамский"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:144
+msgid "Latin Extended"
+msgstr "Латиница расширенная"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:143
+msgid "Latin"
+msgstr "Латиница"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:142
+msgid "Khmer"
+msgstr "Кхмерский"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:141
+msgid "Greek Extended"
+msgstr "Греческий расширенный"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:140
+msgid "Greek"
+msgstr "Греческий"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:139
+msgid "Devanagari"
+msgstr "Деванагари"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:138
+msgid "Cyrillic Extended"
+msgstr "Кириллица расширенная"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:137
+msgid "Cyrillic"
+msgstr "Кириллица"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:136
+msgid "All"
+msgstr "Все"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:135
+msgid "OFF"
+msgstr "Выключить"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:134
+msgid "ON"
+msgstr "Включить"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:133
+msgid "Background Opacity"
+msgstr "Прозрачность фона"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:132
+#: inc/header-options/background-options/background-types/image.php:181
+msgid "Background Position"
+msgstr "Позиция фона"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:131
+msgid "Center Bottom"
+msgstr "По центру внизу"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:130
+msgid "Center Center"
+msgstr "В самом центре"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:129
+msgid "Center Top"
+msgstr "По центру вверху"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:128
+msgid "Right Bottom"
+msgstr "Справа внизу"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:127
+msgid "Right Center"
+msgstr "Справа по центру"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:126
+msgid "Right Top"
+msgstr "Справа вверху"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:125
+msgid "Left Bottom"
+msgstr "Слева внизу"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:124
+msgid "Left Center"
+msgstr "Слева по центру"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:123
+msgid "Left Top"
+msgstr "Слева вверху"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:122
+msgid "Background Attachment"
+msgstr "Привязка фона"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:121
+msgid "Scroll"
+msgstr "Прокручивать"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:120
+msgid "Fixed"
+msgstr "Зафиксировать"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:119
+msgid "Background Size"
+msgstr "Размер фона"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:118
+msgid "Contain"
+msgstr "Содержимое"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:117
+msgid "Cover"
+msgstr "Обложка"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:116
+msgid "Background Repeat"
+msgstr "Повтор фона"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:115
+msgid "Inherit"
+msgstr "Наследовать"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:114
+msgid "Repeat Vertically"
+msgstr "Повторить вертикально"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:113
+msgid "Repeat Horizontally"
+msgstr "Повторить горизонтально"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:112
+msgid "Repeat All"
+msgstr "Повторять всё"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:111
+msgid "No Repeat"
+msgstr "Не повторять"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:110
+msgid "Background Image"
+msgstr "Фоновое изображение"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:109
+#: inc/header-options/background-options/background-types/color.php:58
+#: inc/header-options/background-options/background-types/image.php:228
+msgid "Background Color"
+msgstr "Цвет фона"
+
+#: customizer/customizer-controls.php:568
+#: customizer/customizer-controls.php:573
+msgid "Choose Icon"
+msgstr "Выбрать иконку"
+
+#: customizer/customizer-controls.php:567
+#: customizer/customizer-controls.php:572
+msgid "Select FontAwesome Icon"
+msgstr "Выбрать иконку из FontAwesome"
+
+#: customizer/customizer-controls.php:539
+msgid "Change Icon"
+msgstr "Сменить иконку"
+
+#: customizer/customizer-controls.php:471
+msgid "Check all PRO features"
+msgstr "Ознакомиться с Про-функциями"
+
+#: customizer/customizer-controls.php:92 customizer/customizer-controls.php:207
+msgid "Pro Only"
+msgstr "Только для Про"
+
+#: customizer/customizer-controls.php:91 customizer/customizer-controls.php:205
+msgid "Section is already in page"
+msgstr "Раздел уже находится на странице"
+
+#: customizer/customizer-controls.php:89 customizer/customizer-controls.php:196
+msgid "Available in PRO"
+msgstr "Доступно в Про"
+
+#: customizer/WebGradientsControl.php:10
+msgid "Change Gradient"
+msgstr "Изменить градиент"
+
+#: customizer/SidebarGroupButtonControl.php:71 inc/theme-options.php:347
+msgid "Close Panel"
+msgstr "Закрыть панель"
+
+#: comments.php:43
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#: comments.php:32
+msgid "Newer Comments <i class=\"font-icon-post fa fa-angle-double-right\"></i>"
+msgstr "Следующие комментарии <i class=\"font-icon-post fa fa-angle-double-right\"></i>"
+
+#: comments.php:29
+msgid "<i class=\"font-icon-post fa fa-angle-double-left\"></i> Older Comments"
+msgstr "<i class=\"font-icon-post fa fa-angle-double-left\"></i> Предыдущие комментарии"
+
+#: comments.php:12
+msgid "% Responses"
+msgstr "% Ответов"
+
+#: comments.php:12
+msgid "One Response"
+msgstr "Один Ответ"
+
+#: comments.php:12
+msgid "No Responses"
+msgstr "Нет Ответов"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://extendthemes.com/go/mesmerize-home/"
+msgstr "https://extendthemes.com/go/mesmerize-home/"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://extendthemes.com/"
+msgstr "https://extendthemes.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Horea Radu"
+msgstr "Horea Radu"

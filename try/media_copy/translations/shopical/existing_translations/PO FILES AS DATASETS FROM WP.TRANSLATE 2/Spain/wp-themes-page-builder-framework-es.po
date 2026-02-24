@@ -1,0 +1,2289 @@
+# Translation of Themes - Page Builder Framework in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Page Builder Framework package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-06-19 05:25:29+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Page Builder Framework\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Page Builder Framework is a super fast, lightweight (less than 50kb on the frontend) and highly customizible WordPress theme made to work with all page builders such as Elementor, Beaver Builder, Visual Composer, SiteOrigin, Divi, Thrive Architect, Brizy and more. It can be daunting to look for the perfect theme to pair with the page builder you love. Page Builder Framework is the only theme that has been specifically created for Page Builders. It has been written from ground up with SEO in mind, is 100% Gutenberg compatible and follows the latest web standards (HTML5 and schema.org markup). With its minimalistic approach and lots of customization options in the WordPress customizer, it enables you to build almost any type of website such as a Blog, Portfolio website, Agency website or WooCommerce storefront. Agency owners and Developers love Page Builder Framework for its flexibility and extendability when it comes to building outstanding client websites. If you’re not a coder, don’t worry! With endless options in the WordPress customizer it’s the perfect fit for users at any skill level. Are you using a Page Builder and still looking for the perfect theme? Look no further."
+msgstr "Page Builder Framework es es un tema de WordPress super rápido, ligero (menos de 50kb en el front-end) y muy personalizable, creado para ser compatible con todos los constructores de páginas como Elementor, Beaver Builder, Visual Composer, SiteOrigin, Divi, Thrive Architect y más. Puede resultar abrumador buscar el tema perfecto que emparejar con el constructor que te encanta. Page Builder Framework es el único tema hecho específicamente para constructores de páginas. Ha sido escrito de arriba a abajo con el SEO en mente y sigue los últimos estándares web (HTML5 y marcado de schema.org). Con su planteamiento minimalista y montones de opciones que configurar en el personalizador de WordPress, te permite construir casi cualquier tipo de web como un blog, web de portfolio, web de agencia o escaparate de WooCommerce. A los propietarios de agencias y los desarrolladores les encanta la flexibilidad y extensibilidad de Page Builder Framework a la hora de construir webs alucinantes para sus clientes. ¡No te preocupes si no eres un programador! Al tener una cantidad ilimitada de opciones en el personalizador, es perfecto para usuarios de cualquier nivel. ¿Usas un constructor de página y buscas el tema perfecto? No busques más."
+
+#. Theme Name of the theme
+#: style.css inc/template-parts/footer.php:21
+#, gp-priority: high
+msgid "Page Builder Framework"
+msgstr "Page Builder Framework"
+
+#: inc/customizer/settings/settings-compatibility.php:19
+#: inc/settings/compatibility-notice.php:22
+msgid "Your version of the <strong>Premium Add-On</strong> is outdated and no longer compatible with the latest version of <strong>Page Builder Framework.</strong>"
+msgstr "Tu versión de la <strong>extensión premium</strong> está obsoleta y ya no es compatible con la última versión de <strong>Page Builder Framework.</strong>"
+
+#: Customizer/Controls/Typography/FontsUtil.php:176
+msgid "No local fonts found."
+msgstr "No se han encontrado fuentes locales."
+
+#: inc/customizer/settings/settings-compatibility.php:38
+msgid "Compatibility Warning"
+msgstr "Advertencia de compatibilidad"
+
+#: inc/settings/bfcm-notice.php:20
+msgid "💸 Up to 25% Off Page Builder Framework Premium - Black Friday Sale!"
+msgstr "💸 Hasta un 25% de descuento en Page Builder Framework Premium - ¡Oferta del Black Friday!"
+
+#: inc/settings/metaboxes/clear-font-cache.php:26
+msgid "Clear Cache"
+msgstr "Vaciar la caché"
+
+#: inc/settings/metaboxes/clear-font-cache.php:19
+msgid "This is safe to do on production sites."
+msgstr "Es seguro utilizarlo en sitios de producción."
+
+#: inc/settings/metaboxes/clear-font-cache.php:16
+msgid "If Google Fonts selected in the Customizer are not displayed correctly, please try clearing the Font Cache."
+msgstr "Si las fuentes de Google seleccionadas en el personalizador no se muestran correctamente, por favor, trata de vaciar la caché de fuentes."
+
+#: inc/settings/metaboxes/clear-font-cache.php:15
+msgid "In order to achieve GDPR-compliance, we store Google Fonts locally on your server."
+msgstr "Para cumplir con el RGPD, almacenamos localmente en tu servidor las fuentes de Google."
+
+#: inc/settings/metaboxes/clear-font-cache.php:12
+msgid "Clear Font Cache"
+msgstr "Vaciar caché de fuentes"
+
+#: inc/settings/bfcm-notice.php:31
+msgid "Learn more"
+msgstr "Aprender más"
+
+#: inc/settings/bfcm-notice.php:23
+msgid "Upgrade to the <strong>Premium Add-On</strong> for Page Builder Framework, today & get up to 25% off!"
+msgstr "¡Actualiza a la <strong>extensión Premium</strong> para Page Builder Framework hoy mismo y consigue un descuento del 30 %!"
+
+#: inc/settings/metaboxes/recommended.php:27
+msgid "Better Admin Bar"
+msgstr "Better Admin Bar"
+
+#: inc/customizer/settings/settings-compatibility.php:27
+#: inc/settings/compatibility-notice.php:30
+msgid "Manage Subscription"
+msgstr "Gestionar suscripción"
+
+#: inc/customizer/settings/settings-compatibility.php:24
+#: inc/settings/compatibility-notice.php:27
+msgid "View Updates"
+msgstr "Ver actualizaciones"
+
+#: inc/customizer/settings/settings-compatibility.php:20
+#: inc/settings/compatibility-notice.php:23
+msgid "Please update the Premium Add-On to the latest version."
+msgstr "Por favor, actualiza el complemento premium a la última versión."
+
+#: inc/settings/compatibility-notice.php:19
+msgid "Premium Add-On - Compatibility Warning"
+msgstr "Complemento premium - Aviso de compatibilidad"
+
+#: inc/customizer/settings/settings-header.php:1330
+msgid "Define a background color & turn the hamburger icon into a button."
+msgstr "Define un color de fondo y convierte el icono de la hamburguesa en un botón."
+
+#: inc/customizer/settings/settings-header.php:1329
+msgid "Hamburger Icon Button"
+msgstr "Botón de icono hamburguesa"
+
+#: inc/customizer/settings/settings-header.php:970
+msgid "Sub Menu Width"
+msgstr "Ancho del submenú"
+
+#: inc/customizer/settings/settings-general.php:759
+msgid "Applies to buttons displayed in the themes accent color such as WooCommerce buttons."
+msgstr "Se aplica a los botones que se muestran en el color de acento del tema, como los botones de WooCommerce."
+
+#: inc/customizer/settings/settings-general.php:758
+msgid "Theme Buttons (Primary)"
+msgstr "Botones del tema (primarios)"
+
+#: inc/customizer/settings/settings-general.php:702
+msgid "Applies to default buttons such as \"Read more\" used throughout the theme."
+msgstr "Se aplica a los botones por defecto, como «Leer más», utilizados en todo el tema."
+
+#: inc/customizer/settings/settings-general.php:388
+msgid "Sidebar Widgets"
+msgstr "Widgets de la barra lateral"
+
+#: inc/customizer/settings/settings-general.php:337
+msgid "Position (Global)"
+msgstr "Posición (global)"
+
+#: inc/customizer/settings/settings-general.php:80
+msgid "Page Padding"
+msgstr "Relleno de página"
+
+#: inc/customizer/settings/settings-general.php:60
+#: inc/customizer/settings/settings-general.php:944
+msgid "Scroll to Top Button"
+msgstr "Botón de desplazamiento a la parte superior"
+
+#: inc/customizer/settings/settings-footer.php:39
+#: inc/customizer/settings/settings-header.php:32
+#: inc/customizer/settings/settings-header.php:47
+#: inc/customizer/settings/settings-header.php:62
+#: inc/customizer/settings/settings-header.php:77
+msgid "Design"
+msgstr "Diseño"
+
+#: inc/customizer/settings/settings-blog.php:797
+msgid "Disable Comments"
+msgstr "Desactivar comentarios"
+
+#. translators: %s is the limit of selection number.
+#: Customizer/Controls/Select/SelectControl.php:161
+msgid "You can only select %s items"
+msgstr "Solo puedes seleccionar %s elementos"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "Extragrande"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Larger"
+msgstr "Más grande"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Grande"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Regular"
+msgstr "Normal"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Pequeño"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Tiny"
+msgstr "Diminuto"
+
+#: Customizer/Controls/Typography/TypographyField.php:319
+msgid "Font Variant"
+msgstr "Variante de fuente"
+
+#: Customizer/Controls/Typography/FontsStore.php:117
+msgid "900 Italic"
+msgstr "900 Italic"
+
+#: Customizer/Controls/Typography/FontsStore.php:116
+msgid "900"
+msgstr "900"
+
+#: Customizer/Controls/Typography/FontsStore.php:115
+msgid "800 Italic"
+msgstr "800 Italic"
+
+#: Customizer/Controls/Typography/FontsStore.php:114
+msgid "800"
+msgstr "800"
+
+#: Customizer/Controls/Typography/FontsStore.php:111
+msgid "600 Italic"
+msgstr "600 Italic"
+
+#: Customizer/Controls/Typography/FontsStore.php:110
+msgid "600"
+msgstr "600"
+
+#: Customizer/Controls/Typography/FontsStore.php:109
+msgid "500 Italic"
+msgstr "500 Italic"
+
+#: Customizer/Controls/Typography/FontsStore.php:108
+msgid "500"
+msgstr "500"
+
+#: Customizer/Controls/Typography/FontsStore.php:107
+msgid "300 Italic"
+msgstr "300 Italic"
+
+#: Customizer/Controls/Typography/FontsStore.php:106
+msgid "300"
+msgstr "300"
+
+#: Customizer/Controls/Typography/FontsStore.php:105
+msgid "200 Italic"
+msgstr "200 Italic"
+
+#: Customizer/Controls/Typography/FontsStore.php:104
+msgid "200"
+msgstr "200"
+
+#: Customizer/Controls/Typography/FontsStore.php:103
+msgid "100 Italic"
+msgstr "100 Italic"
+
+#: Customizer/Controls/Typography/FontsStore.php:102
+msgid "100"
+msgstr "100"
+
+#: Customizer/Controls/Typography/FontsStore.php:89
+#: Customizer/Controls/Typography/FontsStore.php:113
+msgid "700 Italic"
+msgstr "700 Italic"
+
+#: Customizer/Controls/Typography/FontsStore.php:88
+#: Customizer/Controls/Typography/FontsStore.php:112
+msgid "700"
+msgstr "700"
+
+#: Customizer/Controls/Typography/FontsStore.php:87
+#: Customizer/Controls/Typography/FontsStore.php:101
+msgid "Italic"
+msgstr "Italic"
+
+#: Customizer/Controls/Typography/FontsStore.php:86
+#: Customizer/Controls/Typography/FontsStore.php:100
+msgid "Regular"
+msgstr "Regular"
+
+#: Customizer/Controls/Select/SelectControl.php:154
+msgid "Select..."
+msgstr "Seleccionar..."
+
+#: inc/settings/bfcm-notice.php:33
+msgid "*Only Administrators will see this message."
+msgstr "*Solo los administradores verán este mensaje."
+
+#: inc/settings/bfcm-notice.php:27
+msgid "All prices are reduced. No coupon code required."
+msgstr "Todos los precios están rebajados. No se requiere ningún código de cupón."
+
+#: inc/settings/bfcm-notice.php:26
+msgid "But hurry up, the deal will expire soon!"
+msgstr "¡Pero date prisa, la oferta caducará pronto!"
+
+#: inc/customizer/settings/settings-header.php:1524
+msgid "Auto collapse open sub-menu if other sub-menu is being opened."
+msgstr "Cerrar automáticamente el submenú abierto si se está abriendo otro submenú."
+
+#: inc/customizer/settings/settings-header.php:1523
+msgid "Auto Collapse"
+msgstr "Cerrar automáticamente"
+
+#: inc/settings/metaboxes/recommended.php:76
+msgid "WPML is a popular translation plugin that helps you create a multilingual website for your business or blog."
+msgstr "WPML es un popular plugin de traducción que te ayuda a crear una web multilingüe para tu negocio o tu blog."
+
+#: inc/settings/metaboxes/recommended.php:75
+msgid "WPML"
+msgstr "WPML"
+
+#: inc/options.php:114
+msgid "Custom Width"
+msgstr "Ancho personalizado"
+
+#: inc/customizer/settings/settings-header.php:1011
+msgid "Text Alignment"
+msgstr "Alineación del texto"
+
+#: inc/settings/metaboxes/recommended.php:60
+msgid "A set of plugins to help you build dynamic, advanced websites without programming."
+msgstr "Un conjunto de plugins para ayudarte a crear webs dinámicas y avanzadas sin programar."
+
+#: inc/settings/metaboxes/recommended.php:59
+msgid "Toolset"
+msgstr "Conjunto de herramientas"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:617
+msgid "Notice Font Color"
+msgstr "Color del texto de aviso"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:284
+msgid "Disable Gallery Lightbox"
+msgstr "Desactivar la caja de luz de la galería"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:275
+msgid "Disable Gallery Slider"
+msgstr "Desactivar el carrusel de la galería"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:266
+msgid "Disable Gallery Zoom"
+msgstr "Desactivar el zoom de la galería"
+
+#: searchform.php:29 searchform.php:30 searchform.php:36
+msgid "Search"
+msgstr "Buscar"
+
+#: inc/settings/metaboxes/recommended.php:68
+msgid "The Weglot translation plugin gives you a reliable and easy way to take your WordPress website from local to global in minutes. No coding required and no developer time needed."
+msgstr "El plugin de traducción Weglot te ofrece una forma fiable y sencilla de llevar tu web WordPress de local a global en cuestión de minutos. No es necesario codificar ni tiempo de desarrollo."
+
+#: inc/customizer/settings/settings-blog.php:459
+msgid "Full Post"
+msgstr "Entrada completa"
+
+#: inc/customizer/settings/settings-blog.php:458
+msgid "Excerpt"
+msgstr "Extracto"
+
+#: inc/customizer/settings/settings-blog.php:453
+msgid "Content"
+msgstr "Contenido"
+
+#: inc/settings/metaboxes/review.php:18
+msgid "Leave a Review"
+msgstr "Dejar una reseña"
+
+#: inc/settings/metaboxes/review.php:15
+msgid "Do you enjoy Page Builder Framework? Leave a review in the WordPress directory and spread the word!"
+msgstr "¿Te gusta Page Builder Framework? ¡Deja una reseña en el directorio de WordPress y haz correr la voz!"
+
+#: inc/settings/metaboxes/review.php:12
+msgid "Leave us a Review"
+msgstr "Déjanos una reseña"
+
+#: inc/settings/metaboxes/recommended.php:121
+msgid "Not Installed"
+msgstr "No instalado"
+
+#: inc/settings/metaboxes/recommended.php:113
+msgid "Install"
+msgstr "Instalar"
+
+#: inc/settings/metaboxes/recommended.php:103
+#: inc/settings/metaboxes/recommended.php:106
+msgid "Installed"
+msgstr "Instalado"
+
+#: inc/settings/metaboxes/recommended.php:52
+msgid "Reset, Export & Import your WordPress customizer settings with a simple click of a button."
+msgstr "Restablece, exporta e importa los ajustes del personalizador de WordPress con el simple clic de un botón."
+
+#: inc/settings/metaboxes/recommended.php:51
+msgid "Customizer Reset - Export & Import"
+msgstr "Customizer Reset - Export & Import"
+
+#: inc/settings/metaboxes/recommended.php:44
+msgid "Ultimate Dashboard is the #1 plugin to customize your WordPress Dashboard."
+msgstr "Ultimate Dashboard es el plugin número uno para personalizar tu escritorio de WordPress."
+
+#: inc/settings/metaboxes/recommended.php:43
+msgid "Ultimate Dashboard"
+msgstr "Ultimate Dashboard"
+
+#: inc/settings/metaboxes/recommended.php:36
+msgid "Add beautiful WordPress video lightbox popups to your website without sacrificing performance."
+msgstr "Añade bonitas ventanas emergentes de vídeo en caja de luz de WordPress a tu web sin sacrificar el rendimiento."
+
+#: inc/settings/metaboxes/recommended.php:35
+msgid "WP Video Popup"
+msgstr "WP Video Popup"
+
+#: inc/settings/metaboxes/recommended.php:28
+msgid "Quickly access all important areas of your WordPress website & provide your clients with the user experience they deserve."
+msgstr "Accede rápidamente a todas las áreas importantes de tu web WordPress y proporciona a tus clientes la experiencia de usuario que se merecen."
+
+#: inc/settings/metaboxes/recommended.php:20
+msgid "Take your website to the next level with the Premium Add-On for Page Builder Framework."
+msgstr "Lleva tu sitio web al siguiente nivel con la extensión Premium de Page Builder Framework."
+
+#: inc/settings/metaboxes/premium.php:100
+msgid "Check out all the Premium Add-On features."
+msgstr "Echa un vistazo a todas las características de la extensión Premium."
+
+#: inc/settings/metaboxes/premium.php:97
+msgid "And much more!"
+msgstr "¡Y mucho más!"
+
+#: inc/settings/metaboxes/premium.php:64
+msgid "Add a customizable Call to Action Button to your navigation with just a few clicks."
+msgstr "Añade un botón de llamada a la acción personalizable a tu navegación con solo unos pocos clics."
+
+#: inc/settings/metaboxes/premium.php:63
+msgid "Call to Action Button"
+msgstr "Botón de llamada a la acción"
+
+#: inc/settings/metaboxes/premium.php:59
+msgid "Easily create an advanced mega menu with up to 4 rows."
+msgstr "Crea fácilmente un mega menú avanzado con hasta 4 filas."
+
+#: inc/settings/metaboxes/premium.php:58
+msgid "Mega Menu"
+msgstr "Mega menú"
+
+#: inc/settings/metaboxes/premium.php:54
+msgid "Take full control over the design of your online store with more advanced WooCommerce features."
+msgstr "Toma el control total del diseño de tu tienda online con características más avanzadas para WooCommerce."
+
+#: inc/settings/metaboxes/premium.php:53
+msgid "Advanced WooCommerce Features"
+msgstr "Características avanzadas para WooCommerce"
+
+#: inc/settings/metaboxes/premium.php:49
+msgid "Set custom responsive breakpoints for tablets, desktops & mobiles for a pixel perfect design."
+msgstr "Establece puntos de ruptura adaptable personalizados para tabletas, equipos de escritorio y móviles para un diseño de píxel perfecto."
+
+#: inc/settings/metaboxes/premium.php:48
+msgid "Adjustable Breakpoints"
+msgstr "Puntos de ruptura ajustables"
+
+#: inc/settings/metaboxes/premium.php:44
+msgid "Customize fonts and add Typekit- & Custom Fonts to your website."
+msgstr "Personaliza las fuentes y añade Typekit y Custom Fonts a tu web."
+
+#: inc/settings/metaboxes/premium.php:43
+msgid "Advanced Typography"
+msgstr "Tipografía avanzada"
+
+#: inc/settings/metaboxes/premium.php:39
+msgid "Your theme, your branding. Fully white label Page Builder Framework & the Premium Add-On."
+msgstr "Tu tema, tu marca. Page Builder Framework y la extensión Premium totalmente de marca blanca."
+
+#: inc/settings/metaboxes/premium.php:38
+msgid "White Label Settings"
+msgstr "Ajustes de marca blanca"
+
+#: inc/settings/metaboxes/premium.php:34
+msgid "Create a beautiful & fully customizable Sticky Navigation in seconds."
+msgstr "Crea en segundos un bonito menú de navegación fijo y totalmente personalizable."
+
+#: inc/settings/metaboxes/premium.php:33
+msgid "Sticky Navigation"
+msgstr "Navegación fija"
+
+#: inc/settings/metaboxes/premium.php:29
+msgid "Create a customizable Transparent Header with just a few clicks."
+msgstr "Crea una cabecera transparente personalizable con solo unos pocos clics."
+
+#: inc/settings/metaboxes/premium.php:28
+msgid "Transparent Header"
+msgstr "Cabecera transparente"
+
+#: inc/settings/metaboxes/premium.php:19
+msgid "Upgrade Now"
+msgstr "Actualizar ahora"
+
+#: inc/settings/metaboxes/premium.php:18
+msgid "Premium Add-On Features"
+msgstr "Características de la extensión Premium"
+
+#: inc/settings/metaboxes/community.php:15
+msgid "Join the community and meet 1700+ Page Builder Framework users in our Facebook group."
+msgstr "Únete a la comunidad y conoce a más de 1700 usuarios de Page Builder Framework en nuestro grupo de Facebook."
+
+#: inc/settings/metaboxes/community.php:12
+#: inc/settings/metaboxes/community.php:18
+msgid "Join the Community"
+msgstr "Únete a la comunidad"
+
+#: inc/settings/metaboxes/customizer.php:96
+msgid "Explore all of the Page Builder Framework features."
+msgstr "Explora todas las características de Page Builder Framework."
+
+#: inc/settings/metaboxes/customizer.php:93
+msgid "Launch WordPress Customizer"
+msgstr "Lanzar el personalizador de WordPress"
+
+#: inc/settings/metaboxes/customizer.php:80
+msgid "Customizer Settings"
+msgstr "Ajustes del personalizador"
+
+#: inc/settings/metaboxes/resources.php:20
+msgid "Page Builder Framework Website"
+msgstr "Web de Page Builder Framework"
+
+#: inc/settings/metaboxes/resources.php:13
+msgid "Additional Resources"
+msgstr "Recursos adicionales"
+
+#: inc/settings/metaboxes/documentation.php:39
+msgid "Any questions? Don't hesitate to reach out! <br><br> Post your question in the official WordPress support forum and we will help you out asap!"
+msgstr "¿Alguna pregunta? ¡No dudes en contactar con nosotros! <br><br> Publica tu pregunta en el foro oficial de soporte de WordPress, ¡y te ayudaremos lo antes posible!"
+
+#: inc/settings/metaboxes/documentation.php:38
+#: inc/settings/metaboxes/resources.php:32
+msgid "Support Forum"
+msgstr "Foro de soporte"
+
+#: inc/settings/metaboxes/documentation.php:33
+msgid "Are you planning to make code changes to your website? We've got you covered! <br><br> Download the Page Builder Framework child theme or generate your own, white labeled version of it."
+msgstr "¿Planeas hacer cambios de código en tu web? ¡Te tenemos la solución! <br><br> Descarga el tema hijo de Page Builder Framework o genera el tuyo propio con marca blanca."
+
+#: inc/settings/metaboxes/documentation.php:32
+#: inc/settings/metaboxes/resources.php:26
+msgid "Child Theme"
+msgstr "Tema hijo"
+
+#: inc/settings/metaboxes/documentation.php:27
+msgid "Did you know? There is a Facebook Community of Page Builder Framework users, just like you! <br><br> Join the community and meet 1700+ Page Builder Framework users."
+msgstr "¿Lo sabías? ¡Hay una comunidad de usuarios de Page Builder Framework, como tú, en Facebook! <br><br> Únete a la comunidad y conoce a más de 1700 usuarios de Page Builder Framework."
+
+#: inc/settings/metaboxes/documentation.php:26
+msgid "Community"
+msgstr "Comunidad"
+
+#: inc/settings/metaboxes/documentation.php:21
+msgid "Not sure how something works? <br><br> Our extensive Documentation is a great place to get started and learn more about Page Builder Framework."
+msgstr "¿No estás seguro de cómo funciona algo? <br><br> Nuestra extensa documentación es un gran lugar para empezar y aprender más acerca de Page Builder Framework."
+
+#: inc/settings/metaboxes/documentation.php:20
+msgid "Documentation"
+msgstr "Documentación"
+
+#: inc/settings/settings-page.php:38
+msgid "Help"
+msgstr "Ayuda"
+
+#: inc/settings/settings-page.php:37
+msgid "Recommended Plugins"
+msgstr "Plugins recomendados"
+
+#: inc/settings/metaboxes/recommended.php:19 inc/settings/settings-page.php:36
+msgid "Premium Add-On"
+msgstr "Extensión Premium"
+
+#: inc/settings/settings-page.php:35
+msgid "Getting Started"
+msgstr "Primeros pasos"
+
+#: inc/integration/elementor-pro.php:113
+msgid "After Main Content"
+msgstr "Después del contenido principal"
+
+#: inc/integration/elementor-pro.php:104
+msgid "Before Main Content"
+msgstr "Antes del contenido principal"
+
+#: inc/integration/elementor-pro.php:95
+msgid "After Inner Content"
+msgstr "Después del contenido interno"
+
+#: inc/integration/elementor-pro.php:86
+msgid "Before Inner Content"
+msgstr "Antes del contenido interno"
+
+#: inc/integration/elementor-pro.php:77
+msgid "After Content"
+msgstr "Después del contenido"
+
+#: inc/integration/elementor-pro.php:40
+msgid "Footer (Replace)"
+msgstr "Pie de página (reemplazar)"
+
+#: inc/integration/elementor-pro.php:31
+msgid "Header (Replace)"
+msgstr "Cabecera (reemplazar)"
+
+#: inc/integration/elementor-pro.php:22
+msgid "Pre Header (Replace)"
+msgstr "Precabecera (reemplazar)"
+
+#: inc/integration/lifterlms/lifterlms-customizer-settings.php:58
+msgid "Action Color"
+msgstr "Color de acción"
+
+#: inc/integration/lifterlms/lifterlms-customizer-settings.php:45
+msgid "Primary Color"
+msgstr "Color principal"
+
+#: inc/integration/lifterlms/lifterlms-customizer-settings.php:25
+msgid "Colors"
+msgstr "Colores"
+
+#: inc/integration/lifterlms/lifterlms-customizer-settings.php:16
+msgid "LifterLMS"
+msgstr "LifterLMS"
+
+#: inc/template-parts/navigation/menu-mobile-default.php:25
+#: inc/template-parts/navigation/menu-mobile-hamburger.php:29
+#: inc/template-parts/navigation/menu-mobile-hamburger.php:37
+#: inc/template-parts/navigation/menu-mobile-off-canvas.php:33
+#: inc/template-parts/navigation/menu-mobile-off-canvas.php:40
+msgid "Mobile Site Navigation"
+msgstr "Navegación móvil"
+
+#: inc/customizer/settings/settings-header.php:1534
+msgid "Indent"
+msgstr "Sangría"
+
+#: inc/customizer/settings/settings-header.php:85
+msgid "Mobile Sub Menu"
+msgstr "Submenú móvil"
+
+#: inc/integration/woocommerce/woocommerce-functions.php:87
+msgid "Widgets in this area will be shown on WooCommerce product pages."
+msgstr "Los widgets de este área se mostrarán en las páginas de producto de WooCommerce."
+
+#: inc/integration/woocommerce/woocommerce-functions.php:74
+msgid "Widgets in this area will be shown on WooCommerce archive pages."
+msgstr "Los widgets de este área se mostrarán en las páginas de archivo de WooCommerce."
+
+#: inc/integration/edd/edd-functions.php:80
+msgid "Widgets in this area will be shown on EDD product pages."
+msgstr "Los widgets de este área se mostrarán en las páginas de producto de EDD."
+
+#: inc/integration/edd/edd-functions.php:69
+msgid "Widgets in this area will be shown on EDD archive pages."
+msgstr "Los widgets de este área se mostrarán en las páginas de archivo de EDD."
+
+#: inc/settings/activation-notice.php:28
+msgid "Get Started"
+msgstr "Primeros pasos"
+
+#. Template Name of the theme
+msgid "Sidebar (Deprecated)"
+msgstr "Barra lateral (Obsoleta)"
+
+#: inc/customizer/settings/settings-footer.php:32
+msgid "Footer Bar"
+msgstr "Barra del pie de página"
+
+#: inc/customizer/settings/settings-footer.php:25
+msgid "Widget Area"
+msgstr "Área de widgets"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:313
+msgid "Price Quantity Buttons (+/-)"
+msgstr "Botones de cantidad de precios (+/-)"
+
+#: inc/integration/woocommerce/woocommerce-functions.php:739
+msgid "Increase quantity"
+msgstr "Aumentar cantidad"
+
+#: inc/integration/woocommerce/woocommerce-functions.php:726
+msgid "Decrease quantity"
+msgstr "Disminuir la cantidad"
+
+#: inc/settings/metaboxes/customizer.php:98
+msgid "Customize"
+msgstr "Personalizar"
+
+#: inc/settings/activation-notice.php:23
+msgid "Thank you for choosing Page Builder Framework! Please visit the theme settings page to get started."
+msgstr "¡Gracias por elegir Page Builder Framework! Para empezar, por favor, visita la página de ajustes del tema."
+
+#: inc/settings/activation-notice.php:20
+msgid "Welcome to Page Builder Framework!"
+msgstr "¡Bienvenido a Page Builder Framework!"
+
+#: inc/customizer/settings/settings-header.php:1377
+msgid "Menu Item Settings"
+msgstr "Ajustes de los elementos del menú"
+
+#: inc/theme-settings.php:42
+msgid "Theme Settings"
+msgstr "Ajustes del tema"
+
+#: inc/customizer/settings/settings-general.php:99
+msgid "Boxed Layout"
+msgstr "Diseño de cajas"
+
+#: inc/customizer/settings/settings-blog.php:187
+msgid "Excerpt Indicator"
+msgstr "Indicador del extracto"
+
+#: inc/integration/edd/edd-customizer-settings.php:25
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:35
+msgid "Cart Menu Item"
+msgstr "Elemento del menú del carrito"
+
+#: inc/customizer/settings/settings-header.php:278
+msgid "Pre Header Width"
+msgstr "Ancho de la precabecera"
+
+#: inc/customizer/settings/settings-footer.php:363
+#: inc/customizer/settings/settings-footer.php:377
+#: inc/customizer/settings/settings-header.php:951
+#: inc/customizer/settings/settings-header.php:1149
+#: inc/customizer/settings/settings-header.php:1504
+#: inc/customizer/settings/settings-header.php:1633
+#: inc/customizer/settings/settings-typography.php:179
+#: inc/customizer/settings/settings-typography.php:298
+#: inc/customizer/settings/settings-typography.php:347
+#: inc/customizer/settings/settings-typography.php:397
+#: inc/customizer/settings/settings-typography.php:446
+#: inc/customizer/settings/settings-typography.php:495
+#: inc/customizer/settings/settings-typography.php:544
+#: inc/customizer/settings/settings-typography.php:593
+#: inc/customizer/settings/settings-typography.php:642
+#: inc/customizer/settings/settings-typography.php:691
+#: inc/settings/metaboxes/premium.php:104
+#: inc/settings/metaboxes/recommended.php:115
+msgid "Learn More"
+msgstr "Aprender más"
+
+#: inc/customizer/settings/settings-footer.php:362
+#: inc/customizer/settings/settings-footer.php:376
+#: inc/customizer/settings/settings-header.php:950
+#: inc/customizer/settings/settings-header.php:1148
+#: inc/customizer/settings/settings-header.php:1503
+#: inc/customizer/settings/settings-header.php:1632
+#: inc/customizer/settings/settings-typography.php:178
+#: inc/customizer/settings/settings-typography.php:297
+#: inc/customizer/settings/settings-typography.php:346
+#: inc/customizer/settings/settings-typography.php:396
+#: inc/customizer/settings/settings-typography.php:445
+#: inc/customizer/settings/settings-typography.php:494
+#: inc/customizer/settings/settings-typography.php:543
+#: inc/customizer/settings/settings-typography.php:592
+#: inc/customizer/settings/settings-typography.php:641
+#: inc/customizer/settings/settings-typography.php:690
+msgid "Premium Features available"
+msgstr "Características premium disponibles"
+
+#: inc/customizer/settings/settings-header.php:424
+msgid "Mobile Logo"
+msgstr "Logotipo para móviles"
+
+#: inc/customizer/settings/settings-blog.php:69
+msgid "Post"
+msgstr "Entrada"
+
+#: inc/integration/elementor-pro.php:167
+msgid "After Sidebar"
+msgstr "Después de la barra lateral"
+
+#: inc/integration/elementor-pro.php:158
+msgid "Before Sidebar"
+msgstr "Antes de la barra lateral"
+
+#: inc/integration/elementor-pro.php:149
+msgid "After Post"
+msgstr "Después de la entrada"
+
+#: inc/integration/elementor-pro.php:140
+msgid "Before Post"
+msgstr "Antes de la entrada"
+
+#: inc/integration/elementor-pro.php:131
+msgid "After Footer"
+msgstr "Después del pie de página"
+
+#: inc/integration/elementor-pro.php:122
+msgid "Before Footer"
+msgstr "Antes del pie de página"
+
+#: inc/integration/elementor-pro.php:58
+msgid "After Header"
+msgstr "Después de la cabecera"
+
+#: inc/integration/elementor-pro.php:49
+msgid "Before Header"
+msgstr "Antes de la cabecera"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:796
+msgid "List"
+msgstr "Lista"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:493
+msgid "Enable AJAX add to cart button"
+msgstr "Activar el botón de añadir al carrito por AJAX"
+
+#: inc/customizer/settings/settings-blog.php:132
+msgid "Author Avatar"
+msgstr "Avatar del autor"
+
+#: inc/customizer/settings/settings-blog.php:95
+msgid "Date"
+msgstr "Fecha"
+
+#: inc/customizer/settings/settings-general.php:537
+msgid "Below Header"
+msgstr "Bajo la cabecera"
+
+#: inc/customizer/settings/settings-general.php:536
+#: inc/integration/elementor-pro.php:68
+msgid "Before Content"
+msgstr "Antes del contenido"
+
+#: inc/customizer/settings/settings-blog.php:32
+msgid "Pagination"
+msgstr "Paginación"
+
+#: inc/customizer/settings/settings-blog.php:660
+msgid "Image Beside Post Layout Settings"
+msgstr "Ajustes de diseño de la imagen junto a la entrada"
+
+#: inc/customizer/settings/settings-blog.php:521
+#: inc/customizer/settings/settings-blog.php:842
+msgid "Stretch Featured Image"
+msgstr "Estirar imagen destacada"
+
+#: inc/helpers.php:767
+msgid "Scroll to Top"
+msgstr "Vuelve al inicio"
+
+#: inc/customizer/settings/settings-header.php:448
+msgid "Logo Width"
+msgstr "Ancho del logotipo"
+
+#: inc/customizer/settings/settings-footer.php:188
+msgid "Powered by [theme_author]"
+msgstr "Desarrollado por [theme_author]"
+
+#: inc/customizer/settings/settings-footer.php:112
+msgid "&copy; [year] - [blogname] | All rights reserved"
+msgstr "&copy; [año] - [blogname] | Todos los derechos reservados"
+
+#: inc/customizer/settings/settings-header.php:588
+msgid "Display Tagline on Mobile"
+msgstr "Mostrar descripción corta en móviles"
+
+#: inc/customizer/settings/settings-typography.php:234
+msgid "Tagline - Font Settings"
+msgstr "Descripción corta - Ajustes de fuentes"
+
+#: inc/customizer/settings/settings-typography.php:197
+msgid "Title - Font Settings"
+msgstr "Título - Ajustes de fuentes"
+
+#: inc/customizer/settings/settings-general.php:350
+msgid "Gap"
+msgstr "Espacio"
+
+#: inc/customizer/settings/settings-general.php:988
+msgid "Show after (px)"
+msgstr "Mostrar después (px)"
+
+#: inc/customizer/settings/settings-blog.php:819
+msgid "Post Title"
+msgstr "Título de la entrada"
+
+#: inc/customizer/settings/settings-blog.php:818
+msgid "Previous/Next Post"
+msgstr "Entrada anterior/siguiente"
+
+#: inc/customizer/settings/settings-blog.php:695
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:251
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:825
+msgid "Image Width"
+msgstr "Ancho de la imagen"
+
+#: inc/customizer/settings/settings-blog.php:561
+msgid "Space Between"
+msgstr "Espacio intermedio"
+
+#: inc/customizer/settings/settings-blog.php:508
+#: inc/customizer/settings/settings-blog.php:829
+msgid "Style"
+msgstr "Estilo"
+
+#: inc/customizer/settings/settings-blog.php:403
+msgid "Remove Prefix"
+msgstr "Eliminar prefijo"
+
+#: inc/customizer/settings/settings-blog.php:259
+msgid "Categories Title"
+msgstr "Título de las categorías"
+
+#: inc/customizer/settings/settings-blog.php:114
+#: inc/customizer/settings/settings-general.php:552
+msgid "Separator"
+msgstr "Separador"
+
+#: inc/customizer/settings/settings-blog.php:48
+msgid "Search Results"
+msgstr "Resultados de la búsqueda"
+
+#: inc/customizer/settings/settings-blog.php:44
+msgid "Blog / Archive"
+msgstr "Blog / Archivo"
+
+#: inc/customizer/settings/settings-typography.php:25
+msgid "Site Title / Tagline"
+msgstr "Título y descripción corta del sitio"
+
+#: inc/theme-mods.php:129
+msgid "Search Toggle"
+msgstr "Alternar búsqueda"
+
+#: inc/integration/edd/edd-functions.php:75
+msgid "Easy Digital Downloads Product Page Sidebar"
+msgstr "Barra lateral de la página de producto de Easy Digital Downloads"
+
+#: inc/integration/edd/edd-functions.php:64
+msgid "Easy Digital Downloads Sidebar"
+msgstr "Barra lateral de Easy Digital Downloads"
+
+#: inc/integration/edd/edd-customizer-settings.php:75
+msgid "Display Menu Item only on EDD related pages."
+msgstr "Mostrar elemento de menú solo en las páginas relacionadas con EDD."
+
+#: inc/integration/edd/edd-customizer-settings.php:16
+msgid "Easy Digital Downloads"
+msgstr "Easy Digital Downloads"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:585
+msgid "Error Notice"
+msgstr "Aviso de error"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:572
+msgid "Success Notice"
+msgstr "Aviso de éxito"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:560
+msgid "Info Notice"
+msgstr "Aviso de información"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:534
+msgid "Store Notice"
+msgstr "Aviso de la tienda"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:77
+msgid "Turn the Search Menu Item into a Product Search."
+msgstr "Convierte el elemento de menú de búsqueda en una búsqueda de productos."
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:76
+msgid "Product Search"
+msgstr "Búsqueda de productos"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:56
+msgid "Notices"
+msgstr "Avisos"
+
+#: inc/integration/edd/edd-functions.php:177
+#: inc/integration/woocommerce/woocommerce-functions.php:576
+msgid "Items in Cart"
+msgstr "Artículos en el carrito"
+
+#: inc/helpers.php:1243
+msgid "<span>1</span> Comment"
+msgstr "<span>1</span> comentario"
+
+#: inc/helpers.php:1502 inc/helpers.php:1508
+#: inc/template-parts/navigation/menu-full-screen.php:32
+#: inc/template-parts/navigation/menu-full-screen.php:39
+#: inc/template-parts/navigation/menu-mobile-hamburger.php:30
+#: inc/template-parts/navigation/menu-mobile-hamburger.php:38
+#: inc/template-parts/navigation/menu-mobile-off-canvas.php:34
+#: inc/template-parts/navigation/menu-mobile-off-canvas.php:41
+#: inc/template-parts/navigation/menu-off-canvas-left.php:30
+#: inc/template-parts/navigation/menu-off-canvas-left.php:37
+#: inc/template-parts/navigation/menu-off-canvas.php:36
+#: inc/template-parts/navigation/menu-off-canvas.php:43
+msgid "Menu Toggle"
+msgstr "Alternar menú"
+
+#: inc/settings/metaboxes/customizer.php:21
+#: inc/template-parts/navigation/menu-centered.php:23
+#: inc/template-parts/navigation/menu-full-screen.php:31
+#: inc/template-parts/navigation/menu-full-screen.php:38
+#: inc/template-parts/navigation/menu-left.php:21
+#: inc/template-parts/navigation/menu-off-canvas-left.php:29
+#: inc/template-parts/navigation/menu-off-canvas-left.php:36
+#: inc/template-parts/navigation/menu-off-canvas.php:35
+#: inc/template-parts/navigation/menu-off-canvas.php:42
+#: inc/template-parts/navigation/menu-right.php:27
+#: inc/template-parts/navigation/menu-stacked-advanced.php:37
+#: inc/template-parts/navigation/menu-stacked.php:19
+msgid "Site Navigation"
+msgstr "Navegación del sitio"
+
+#: inc/options.php:125 inc/quick-edit.php:82
+msgid "Page Title"
+msgstr "Título de página"
+
+#: inc/options.php:121 inc/quick-edit.php:72
+msgid "Disable Elements"
+msgstr "Desactivar elementos"
+
+#: inc/options.php:109 inc/options.php:318 inc/quick-edit.php:60
+msgid "Contained"
+msgstr "Contenido"
+
+#: comments.php:49 comments.php:50
+msgid "Comments Navigation"
+msgstr "Navegación de comentarios"
+
+#: searchform.php:24
+msgid "Search for:"
+msgstr "Buscar:"
+
+#: inc/customizer/settings/settings-header.php:1305
+msgid "Icon Size"
+msgstr "Tamaño de icono"
+
+#: inc/customizer/settings/settings-header.php:706
+msgid "Custom \"title\" Tag"
+msgstr "Etiqueta de título personalizada"
+
+#: inc/customizer/settings/settings-header.php:690
+msgid "Custom \"alt\" Tag"
+msgstr "Etiqueta alt personalizada"
+
+#: inc/customizer/settings/settings-general.php:791
+msgid "Primary Font Color"
+msgstr "Color de la fuente principal"
+
+#: inc/customizer/settings/settings-general.php:457
+msgid "Search Form"
+msgstr "Formulario de búsqueda"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:67
+msgid "Display Menu Item only on WooCommerce related pages."
+msgstr "Mostrar el elemento del menú sólo en las páginas relacionadas con WooCommerce."
+
+#: inc/integration/edd/edd-customizer-settings.php:74
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:66
+msgid "Hide from non-Shop Pages"
+msgstr "Ocultar de las páginas que no son de la tienda"
+
+#: inc/customizer/settings/settings-footer.php:217
+msgid "Footer Width"
+msgstr "Ancho del pie de página"
+
+#: inc/customizer/settings/settings-header.php:1117
+msgid "Sub Menu Separator"
+msgstr "Separador de submenú"
+
+#: inc/customizer/settings/settings-blog.php:397
+msgid "Headline"
+msgstr "Titular"
+
+#: inc/helpers.php:1210
+msgid "View all posts by %s"
+msgstr "Ver todas las entradas de %s"
+
+#: inc/customizer/settings/settings-general.php:513
+msgid "Pages"
+msgstr "Páginas"
+
+#: inc/customizer/settings/settings-general.php:39
+#: inc/customizer/settings/settings-general.php:512
+msgid "404 Page"
+msgstr "Página 404"
+
+#: inc/customizer/settings/settings-general.php:511
+msgid "Search Page"
+msgstr "Página de búsqueda"
+
+#: inc/customizer/settings/settings-general.php:510
+msgid "Single"
+msgstr "Individual"
+
+#: inc/customizer/settings/settings-general.php:508
+msgid "Front Page"
+msgstr "Página de inicio"
+
+#: inc/customizer/settings/settings-general.php:504
+msgid "Display Breadcrumbs on"
+msgstr "Mostrar migas de pan en"
+
+#: inc/customizer/settings/settings-general.php:46
+#: inc/customizer/settings/settings-general.php:481
+msgid "Breadcrumbs"
+msgstr "Migas de pan"
+
+#: inc/customizer/settings/settings-general.php:53
+#: inc/customizer/settings/settings-general.php:701
+#: inc/settings/metaboxes/customizer.php:53
+msgid "Theme Buttons"
+msgstr "Botones del tema"
+
+#: inc/customizer/settings/settings-blog.php:16
+#: inc/settings/metaboxes/customizer.php:41
+msgid "Blog"
+msgstr "Blog"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: inc/breadcrumbs.php:377
+msgid "Week %s"
+msgstr "Semana %s"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: inc/breadcrumbs.php:375
+msgid "Minute %s"
+msgstr "Minuto %s"
+
+#. Translators: %s is the page number.
+#: inc/breadcrumbs.php:373
+msgid "Comment Page %s"
+msgstr "Página de comentarios %s"
+
+#. Translators: %s is the page number.
+#: inc/breadcrumbs.php:371
+msgid "Page %s"
+msgstr "Página %s"
+
+#. Translators: %s is the search query.
+#: inc/breadcrumbs.php:369
+msgid "Search results for: %s"
+msgstr "Resultados de búsqueda para: %s"
+
+#: inc/breadcrumbs.php:367 inc/customizer/settings/settings-general.php:509
+msgid "Archives"
+msgstr "Archivos"
+
+#: inc/breadcrumbs.php:366
+msgid "404 Not Found"
+msgstr "404 Página no encontrada"
+
+#: inc/breadcrumbs.php:365
+msgid "Home"
+msgstr "Página de Inicio"
+
+#: inc/breadcrumbs.php:364
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "Migas de pan"
+
+#: inc/customizer/settings/settings-blog.php:303
+#: inc/customizer/settings/settings-blog.php:340
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:414
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:459
+msgid "Active"
+msgstr "Activo"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:365
+msgid "Modern"
+msgstr "Moderno"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:361
+msgid "Tabs Layout"
+msgstr "Estructura de pestañas"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:293
+msgid "Summary Separator"
+msgstr "Separador de resumen"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:1048
+msgid "Out of Stock Notice"
+msgstr "Aviso de producto agotado"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:1013
+msgid "Price Font Size"
+msgstr "Tamaño de letra del precio"
+
+#: inc/customizer/settings/settings-blog.php:632
+#: inc/customizer/settings/settings-blog.php:896
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:978
+msgid "Title Font Size"
+msgstr "Tamaño de fuente del título"
+
+#: inc/customizer/settings/settings-general.php:577
+#: inc/customizer/settings/settings-general.php:967
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:888
+msgid "Alignment"
+msgstr "Alineación"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:873
+msgid "Square"
+msgstr "Cuadrado"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:872
+msgid "Round"
+msgstr "Redondo"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:782
+msgid "Short Description"
+msgstr "Descripción corta"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:781
+msgid "Add to Cart Button"
+msgstr "Botón de añadir al carrito"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:780
+msgid "Price"
+msgstr "Precio"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:779
+msgid "Rating"
+msgstr "Valoración"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:769
+msgid "Structure"
+msgstr "Estructura"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:738
+msgid "Grid Gap"
+msgstr "Separación de la cuadrícula"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:722
+msgid "Products per Row"
+msgstr "Productos por fila"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:688
+msgid "Hide Breadcrumbs"
+msgstr "Ocultar migas de pan"
+
+#: inc/integration/edd/edd-customizer-settings.php:201
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:201
+msgid "Count"
+msgstr "Cantidad"
+
+#: inc/customizer/settings/settings-general.php:1064
+#: inc/customizer/settings/settings-header.php:1285
+msgid "Icon Color"
+msgstr "Color del icono"
+
+#: inc/integration/edd/edd-customizer-settings.php:147
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:148
+msgid "Add a Cart Icon to your Mobile Navigation."
+msgstr "Añade un icono de carrito a la navegación móvil."
+
+#: inc/integration/edd/edd-customizer-settings.php:146
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:147
+msgid "Visibility (Mobile)"
+msgstr "Visibilidad (móvil)"
+
+#: inc/integration/edd/edd-customizer-settings.php:92
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:94
+msgid "Add a Cart Icon to your Main Navigation."
+msgstr "Añade un icono de carrito a la navegación principal."
+
+#: inc/integration/edd/edd-customizer-settings.php:91
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:93
+msgid "Visibility (Desktop)"
+msgstr "Visibilidad (escritorio)"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:25
+msgid "Shop Page"
+msgstr "Página de la tienda"
+
+#: inc/integration/edd/edd-functions.php:161
+#: inc/integration/edd/edd-functions.php:170
+#: inc/integration/woocommerce/woocommerce-functions.php:560
+#: inc/integration/woocommerce/woocommerce-functions.php:569
+msgid "Shopping Cart"
+msgstr "Carrito de la compra"
+
+#: inc/integration/woocommerce/woocommerce-functions.php:392
+msgid "Out of stock"
+msgstr "Agotado"
+
+#: inc/customizer/settings/settings-header.php:1027
+msgid "Menu Item Padding"
+msgstr "Espaciado de elemento de menú"
+
+#: inc/customizer/settings/settings-header.php:749
+msgid "Logo Container Width (Mobile)"
+msgstr "Ancho del contenedor del logotipo (Móvil)"
+
+#: inc/customizer/settings/settings-blog.php:386
+#: inc/customizer/settings/settings-blog.php:722
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:227
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:662
+msgid "Custom Content Width"
+msgstr "Ancho de contenido personalizado"
+
+#: inc/settings/metaboxes/customizer.php:45
+msgid "Post Layout"
+msgstr "Diseño de entrada"
+
+#: inc/template-parts/blog/blog-readmore.php:19
+msgid "Read more"
+msgstr "Leer más"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:636
+msgid "Side by Side"
+msgstr "Lado a lado"
+
+#: inc/customizer/settings/settings-blog.php:675
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:237
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:804
+msgid "Image Alignment"
+msgstr "Alineación de la imagen"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:860
+msgid "Inside"
+msgstr "Interior"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:859
+msgid "Outside"
+msgstr "Exterior"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:854
+msgid "Sale Badge"
+msgstr "Indicador de oferta"
+
+#: inc/customizer/settings/settings-blog.php:577
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:754
+msgid "Content Alignment"
+msgstr "Alineación del contenido"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:706
+msgid "Hide Ordering"
+msgstr "Ocultar orden"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:697
+msgid "Hide Result Count"
+msgstr "Ocultar recuento de resultados"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:42
+msgid "Product Page"
+msgstr "Página de producto"
+
+#: searchform.php:25
+msgid "Search &hellip;"
+msgstr "Buscar &hellip;"
+
+#: inc/customizer/settings/settings-header.php:1460
+msgid "Divider Color"
+msgstr "Color de divisor"
+
+#: inc/customizer/settings/settings-typography.php:366
+msgid "The settings below will apply to all headlines if not configured individually."
+msgstr "Los ajustes siguientes se aplicarán a todos los encabezados si no se configuran por separado."
+
+#: sidebar.php:28
+msgid "Add Widgets"
+msgstr "Añadir widgets"
+
+#: sidebar.php:27
+msgid "Your Sidebar Widgets will appear here."
+msgstr "Los widgets de la barra lateral aparecerán aquí."
+
+#: inc/integration/woocommerce/woocommerce-functions.php:82
+msgid "WooCommerce Product Page Sidebar"
+msgstr "Barra lateral de la página de producto de WooCommerce"
+
+#: inc/integration/woocommerce/woocommerce-functions.php:69
+msgid "WooCommerce Sidebar"
+msgstr "Barra lateral de WooCommerce"
+
+#: inc/integration/edd/edd-customizer-settings.php:57
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:518
+msgid "Product Page Sidebar"
+msgstr "Barra lateral de la página de producto"
+
+#: inc/integration/edd/edd-customizer-settings.php:42
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:504
+msgid "Shop Page Sidebar"
+msgstr "Barra lateral de la página de tienda"
+
+#: inc/customizer/settings/settings-header.php:1474
+#: inc/customizer/settings/settings-header.php:1605
+msgid "Sub Menu Arrow Color"
+msgstr "Color de la flecha de submenú"
+
+#: inc/customizer/settings/settings-header.php:733
+#: inc/customizer/settings/settings-header.php:750
+msgid "Defines the space in % the logo area takes in the navigation."
+msgstr "Define el espacio en % que ocupa el área del logotipo en la navegación."
+
+#: inc/customizer/settings/settings-header.php:732
+msgid "Logo Container Width"
+msgstr "Ancho del contenedor del logotipo"
+
+#: inc/customizer/settings/settings-typography.php:105
+#: inc/customizer/settings/settings-typography.php:267
+#: inc/customizer/settings/settings-typography.php:316
+#: inc/customizer/settings/settings-typography.php:365
+#: inc/customizer/settings/settings-typography.php:415
+#: inc/customizer/settings/settings-typography.php:464
+#: inc/customizer/settings/settings-typography.php:513
+#: inc/customizer/settings/settings-typography.php:562
+#: inc/customizer/settings/settings-typography.php:611
+#: inc/customizer/settings/settings-typography.php:660
+msgid "Font Settings"
+msgstr "Ajustes de fuente"
+
+#: inc/customizer/settings/settings-general.php:904
+msgid "Primary Border Color"
+msgstr "Color de borde principal"
+
+#: inc/customizer/settings/settings-general.php:837
+msgid "Border Width"
+msgstr "Ancho del borde"
+
+#: inc/customizer/settings/settings-blog.php:353
+#: inc/customizer/settings/settings-general.php:822
+#: inc/customizer/settings/settings-general.php:1103
+#: inc/customizer/settings/settings-header.php:1350
+msgid "Border Radius"
+msgstr "Radio del borde"
+
+#: inc/customizer/settings/settings-general.php:532
+msgid "Position"
+msgstr "Posición"
+
+#: inc/customizer/settings/settings-typography.php:88
+msgid "H6"
+msgstr "H6"
+
+#: inc/customizer/settings/settings-typography.php:81
+msgid "H5"
+msgstr "H5"
+
+#: inc/customizer/settings/settings-typography.php:74
+msgid "H4"
+msgstr "H4"
+
+#: inc/customizer/settings/settings-typography.php:67
+msgid "H3"
+msgstr "H3"
+
+#: inc/customizer/settings/settings-typography.php:60
+msgid "H2"
+msgstr "H2"
+
+#: inc/customizer/settings/settings-typography.php:53
+msgid "H1"
+msgstr "H1"
+
+#: inc/customizer/settings/settings-typography.php:16
+#: inc/settings/metaboxes/customizer.php:49
+msgid "Typography"
+msgstr "Tipografía"
+
+#: functions.php:106
+msgid "Footer Right"
+msgstr "A la derecha del pie de página"
+
+#: functions.php:105
+msgid "Footer Left"
+msgstr "A la izquierda del pie de página"
+
+#: inc/helpers.php:1016
+msgid "Next Post &rarr;"
+msgstr "Entrada siguiente &rarr;"
+
+#: inc/helpers.php:1015
+msgid "&larr; Previous Post"
+msgstr "&larr; Entrada anterior"
+
+#: searchform.php:25
+msgid "Press enter to search"
+msgstr "Presiona intro para buscar"
+
+#. translators: Search query
+#: inc/helpers.php:905
+msgid "Search Results for: %s"
+msgstr "Resultados de búsqueda para: %s"
+
+#: inc/helpers.php:159
+msgid "Edit"
+msgstr "Editar"
+
+#: inc/template-parts/blog/blog-tags.php:18
+#: inc/template-parts/single/single-tags.php:18
+msgid "Tags:"
+msgstr "Etiquetas:"
+
+#: inc/helpers.php:1228
+msgid "Posted on"
+msgstr "Publicado el"
+
+#: inc/template-parts/blog/blog-categories.php:20
+#: inc/template-parts/single/single-categories.php:20
+msgid "Filed under:"
+msgstr "Archivado en:"
+
+#: inc/template-parts/blog-layouts/beside.php:63
+#: inc/template-parts/blog-layouts/default.php:49
+#: inc/template-parts/blog-layouts/grid.php:51
+#: inc/template-parts/single-layouts/default.php:46 page-sidebar.php:44
+#: page.php:46
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: inc/options.php:173 inc/quick-edit.php:149
+msgid "Left Sidebar"
+msgstr "Barra lateral izquierda"
+
+#: inc/options.php:168 inc/quick-edit.php:140
+msgid "Right Sidebar"
+msgstr "Barra lateral derecha"
+
+#: inc/options.php:104 inc/options.php:314 inc/quick-edit.php:51
+msgid "Full Width"
+msgstr "Ancho completo"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:679
+msgid "Hide Page Title"
+msgstr "Ocultar título de página"
+
+#: inc/options.php:33
+msgid "Template Settings"
+msgstr "Ajustes de plantilla"
+
+#: inc/misc.php:27 inc/misc.php:39 inc/misc.php:66 inc/misc.php:78
+#: inc/misc.php:103 inc/misc.php:109
+msgid "Add Menu"
+msgstr "Añadir menú"
+
+#: inc/customizer/settings/settings-general.php:866
+msgid "Border Color"
+msgstr "Color de borde"
+
+#: inc/customizer/settings/settings-header.php:1166
+msgid "Hamburger"
+msgstr "Hamburguesa"
+
+#: inc/customizer/settings/settings-header.php:986
+msgid "Sub Menu Alignment"
+msgstr "Alineación del submenú"
+
+#: inc/customizer/settings/settings-header.php:866
+msgid "Menu Item Spacing"
+msgstr "Espacio entre elementos de menú"
+
+#: inc/customizer/settings/settings-header.php:850
+msgid "Menu Height"
+msgstr "Altura del menú"
+
+#: inc/customizer/settings/settings-header.php:813
+#: inc/customizer/settings/settings-header.php:1209
+msgid "Search Icon"
+msgstr "Icono de búsqueda"
+
+#: inc/customizer/settings/settings-header.php:776
+msgid "Stacked"
+msgstr "Apilado"
+
+#: inc/customizer/settings/settings-header.php:775
+msgid "Centered"
+msgstr "Centrado"
+
+#: inc/customizer/settings/settings-header.php:773
+msgid "Right (default)"
+msgstr "Derecha (por defecto)"
+
+#: inc/customizer/settings/settings-footer.php:86
+#: inc/customizer/settings/settings-footer.php:161
+#: inc/customizer/settings/settings-header.php:131
+#: inc/customizer/settings/settings-header.php:207
+#: inc/customizer/settings/settings-header.php:785
+#: inc/customizer/settings/settings-header.php:1174
+#: inc/template-parts/navigation/menu-mobile-default.php:26
+msgid "Menu"
+msgstr "Menú"
+
+#: inc/customizer/settings/settings-header.php:839
+msgid "Navigation Width"
+msgstr "Ancho de la navegación"
+
+#: inc/customizer/settings/settings-header.php:562
+msgid "Display Tagline"
+msgstr "Mostrar descripción corta"
+
+#: inc/customizer/settings/settings-header.php:680
+msgid "Custom Logo URL"
+msgstr "URL de logotipo personalizada"
+
+#: inc/customizer/settings/settings-blog.php:315
+#: inc/customizer/settings/settings-footer.php:279
+#: inc/customizer/settings/settings-general.php:642
+#: inc/customizer/settings/settings-general.php:734
+#: inc/customizer/settings/settings-header.php:340
+#: inc/customizer/settings/settings-header.php:908
+#: inc/customizer/settings/settings-header.php:1075
+#: inc/customizer/settings/settings-header.php:1434
+#: inc/customizer/settings/settings-header.php:1581
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:326
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:434
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:951
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:993
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:1028
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:1081
+msgid "Font Color"
+msgstr "Color de fuente"
+
+#: inc/customizer/settings/settings-footer.php:156
+#: inc/customizer/settings/settings-header.php:202
+#: inc/customizer/settings/settings-header.php:234
+#: inc/template-parts/pre-header.php:17
+msgid "Column 2"
+msgstr "Columna 2"
+
+#: inc/customizer/settings/settings-footer.php:75
+#: inc/customizer/settings/settings-header.php:120
+#: inc/customizer/settings/settings-header.php:158
+#: inc/template-parts/pre-header.php:16
+msgid "Column 1"
+msgstr "Columna 1"
+
+#: inc/customizer/settings/settings-footer.php:57
+#: inc/customizer/settings/settings-header.php:102
+msgid "Two Columns"
+msgstr "Dos columnas"
+
+#: inc/customizer/settings/settings-footer.php:56
+#: inc/customizer/settings/settings-header.php:101
+msgid "One Column"
+msgstr "Una columna"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:605
+msgid "Notice Background Color"
+msgstr "Color de fondo del aviso"
+
+#: inc/customizer/settings/settings-blog.php:291
+#: inc/customizer/settings/settings-blog.php:327
+#: inc/customizer/settings/settings-blog.php:621
+#: inc/customizer/settings/settings-footer.php:319
+#: inc/customizer/settings/settings-general.php:680
+#: inc/customizer/settings/settings-general.php:722
+#: inc/customizer/settings/settings-general.php:746
+#: inc/customizer/settings/settings-general.php:779
+#: inc/customizer/settings/settings-general.php:803
+#: inc/customizer/settings/settings-general.php:885
+#: inc/customizer/settings/settings-general.php:923
+#: inc/customizer/settings/settings-general.php:1043
+#: inc/customizer/settings/settings-general.php:1084
+#: inc/customizer/settings/settings-header.php:380
+#: inc/customizer/settings/settings-header.php:498
+#: inc/customizer/settings/settings-header.php:921
+#: inc/customizer/settings/settings-header.php:1061
+#: inc/customizer/settings/settings-header.php:1088
+#: inc/customizer/settings/settings-header.php:1420
+#: inc/customizer/settings/settings-header.php:1447
+#: inc/customizer/settings/settings-header.php:1569
+#: inc/customizer/settings/settings-header.php:1593
+#: inc/customizer/settings/settings-typography.php:165
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:394
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:447
+msgid "Hover"
+msgstr "Al pasar el cursor"
+
+#: inc/customizer/settings/settings-general.php:359
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:746
+msgid "Collapse"
+msgstr "Contraer"
+
+#: inc/customizer/settings/settings-general.php:358
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:742
+msgid "Small"
+msgstr "Pequeño"
+
+#: inc/customizer/settings/settings-general.php:357
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:743
+msgid "Medium"
+msgstr "Mediano"
+
+#: inc/customizer/settings/settings-general.php:356
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:744
+msgid "Large"
+msgstr "Grande"
+
+#: inc/customizer/settings/settings-general.php:355
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:745
+msgid "xLarge"
+msgstr "Extragrande"
+
+#: inc/customizer/settings/settings-general.php:354
+msgid "Divider"
+msgstr "Separador"
+
+#: inc/customizer/settings/settings-general.php:266
+msgid "Vertical"
+msgstr "Vertical"
+
+#: inc/customizer/settings/settings-general.php:240
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#: inc/customizer/settings/settings-general.php:214
+msgid "Spread"
+msgstr "Extender"
+
+#: inc/customizer/settings/settings-general.php:188
+msgid "Blur"
+msgstr "Desenfocar"
+
+#: inc/customizer/settings/settings-general.php:172
+msgid "Box Shadow"
+msgstr "Sombra de la caja"
+
+#: inc/customizer/settings/settings-general.php:108
+msgid "Margin"
+msgstr "Margen"
+
+#: inc/customizer/settings/settings-blog.php:512
+#: inc/customizer/settings/settings-blog.php:833
+msgid "Boxed"
+msgstr "Encajonado"
+
+#: inc/customizer/settings/settings-blog.php:387
+#: inc/customizer/settings/settings-blog.php:723
+#: inc/customizer/settings/settings-footer.php:218
+#: inc/customizer/settings/settings-general.php:71
+#: inc/customizer/settings/settings-header.php:279
+#: inc/customizer/settings/settings-header.php:840
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:228
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:663
+msgid "Default: 1200px"
+msgstr "Por defecto: 1200px"
+
+#: inc/customizer/settings/settings-general.php:70
+msgid "Page Width"
+msgstr "Ancho de página"
+
+#: inc/customizer/settings/settings-blog.php:815 inc/helpers.php:1010
+#: inc/helpers.php:1012
+msgid "Post Navigation"
+msgstr "Navegación por entradas"
+
+#: inc/customizer/settings/settings-blog.php:96
+msgid "Comments"
+msgstr "Comentarios"
+
+#: inc/customizer/settings/settings-blog.php:476
+#: inc/customizer/settings/settings-blog.php:779
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: inc/customizer/settings/settings-blog.php:475
+#: inc/customizer/settings/settings-blog.php:778
+msgid "Categories"
+msgstr "Categorías"
+
+#: inc/customizer/settings/settings-blog.php:474
+#: inc/customizer/settings/settings-blog.php:777
+msgid "Read More"
+msgstr "Seguir leyendo"
+
+#: inc/customizer/settings/settings-blog.php:444
+#: inc/customizer/settings/settings-blog.php:762 inc/options.php:130
+#: inc/quick-edit.php:91
+msgid "Featured Image"
+msgstr "Imagen destacada"
+
+#: inc/customizer/settings/settings-blog.php:88
+#: inc/customizer/settings/settings-blog.php:443
+#: inc/customizer/settings/settings-blog.php:761
+msgid "Meta Data"
+msgstr "Meta datos"
+
+#: inc/customizer/settings/settings-blog.php:442
+#: inc/customizer/settings/settings-blog.php:760
+#: inc/customizer/settings/settings-general.php:437
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:778
+msgid "Title"
+msgstr "Título"
+
+#: inc/customizer/settings/settings-blog.php:420
+#: inc/customizer/settings/settings-blog.php:737
+#: inc/customizer/settings/settings-general.php:343
+#: inc/integration/edd/edd-customizer-settings.php:49
+#: inc/integration/edd/edd-customizer-settings.php:64
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:510
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:524
+#: inc/options.php:178 inc/quick-edit.php:158
+msgid "No Sidebar"
+msgstr "Sin barra lateral"
+
+#: inc/customizer/settings/settings-blog.php:417
+#: inc/customizer/settings/settings-blog.php:734
+#: inc/integration/edd/edd-customizer-settings.php:46
+#: inc/integration/edd/edd-customizer-settings.php:61 inc/options.php:94
+#: inc/options.php:163 inc/options.php:322 inc/quick-edit.php:42
+#: inc/quick-edit.php:131
+msgid "Inherit Global Settings"
+msgstr "Heredar ajustes globales"
+
+#: inc/customizer/settings/settings-blog.php:498
+msgid "Image Beside Post"
+msgstr "Imagen junto a la entrada"
+
+#: inc/customizer/settings/settings-blog.php:234
+msgid "Read More Text"
+msgstr "Texto Leer más"
+
+#: inc/customizer/settings/settings-blog.php:216
+#: inc/customizer/settings/settings-footer.php:80
+#: inc/customizer/settings/settings-header.php:125
+msgid "Button (Primary)"
+msgstr "Botón (Principal)"
+
+#: inc/customizer/settings/settings-blog.php:215
+#: inc/customizer/settings/settings-footer.php:79
+#: inc/customizer/settings/settings-header.php:124
+msgid "Button"
+msgstr "Botón"
+
+#: inc/customizer/settings/settings-blog.php:214
+#: inc/customizer/settings/settings-footer.php:78
+#: inc/customizer/settings/settings-footer.php:85
+#: inc/customizer/settings/settings-footer.php:111
+#: inc/customizer/settings/settings-footer.php:160
+#: inc/customizer/settings/settings-footer.php:187
+#: inc/customizer/settings/settings-general.php:447
+#: inc/customizer/settings/settings-header.php:123
+#: inc/customizer/settings/settings-header.php:130
+#: inc/customizer/settings/settings-header.php:157
+#: inc/customizer/settings/settings-header.php:206
+#: inc/customizer/settings/settings-header.php:233
+#: inc/customizer/settings/settings-typography.php:46
+msgid "Text"
+msgstr "Texto"
+
+#: inc/customizer/settings/settings-blog.php:211
+msgid "Read More Link"
+msgstr "Enlace Leer más"
+
+#: inc/customizer/settings/settings-blog.php:165
+msgid "By default the excerpt length is set to return 55 words."
+msgstr "La longitud predeterminada del extracto es de 55 palabras."
+
+#: inc/customizer/settings/settings-blog.php:164
+msgid "Excerpt Length"
+msgstr "Longitud del extracto"
+
+#: inc/customizer/settings/settings-blog.php:402
+#: inc/customizer/settings/settings-blog.php:820
+#: inc/customizer/settings/settings-general.php:462
+#: inc/integration/edd/edd-customizer-settings.php:97
+#: inc/integration/edd/edd-customizer-settings.php:152
+#: inc/integration/edd/edd-customizer-settings.php:206
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:99
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:153
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:206
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:296
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:317
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:858
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:1053
+msgid "Hide"
+msgstr "Ocultar"
+
+#: inc/customizer/settings/settings-blog.php:401
+#: inc/customizer/settings/settings-general.php:461
+#: inc/integration/edd/edd-customizer-settings.php:96
+#: inc/integration/edd/edd-customizer-settings.php:151
+#: inc/integration/edd/edd-customizer-settings.php:205
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:98
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:152
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:205
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:297
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:316
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:1052
+msgid "Show"
+msgstr "Mostrar"
+
+#: inc/customizer/settings/settings-blog.php:94
+msgid "Author"
+msgstr "Autor"
+
+#: inc/customizer/settings/settings-header.php:25
+msgid "Pre Header"
+msgstr "Precabecera"
+
+#: inc/customizer/settings/settings-header.php:70
+msgid "Mobile Navigation"
+msgstr "Navegación móvil"
+
+#: inc/customizer/settings/settings-header.php:55
+#: inc/customizer/settings/settings-typography.php:39
+msgid "Sub Menu"
+msgstr "Submenú"
+
+#: inc/customizer/settings/settings-header.php:40
+#: inc/customizer/settings/settings-typography.php:32
+msgid "Navigation"
+msgstr "Navegación"
+
+#: inc/customizer/settings/settings-blog.php:610
+#: inc/customizer/settings/settings-footer.php:299
+#: inc/customizer/settings/settings-general.php:661
+#: inc/customizer/settings/settings-header.php:360
+#: inc/customizer/settings/settings-typography.php:153
+#: inc/integration/lifterlms/lifterlms-customizer-settings.php:71
+msgid "Accent Color"
+msgstr "Color de énfasis"
+
+#: inc/customizer/settings/settings-blog.php:51
+#: inc/customizer/settings/settings-blog.php:72
+#: inc/customizer/settings/settings-blog.php:492
+#: inc/customizer/settings/settings-general.php:25
+#: inc/customizer/settings/settings-header.php:96
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:631
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:791
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:868
+#: inc/options.php:90 inc/options.php:289 inc/quick-edit.php:32
+#: inc/settings/metaboxes/customizer.php:33
+msgid "Layout"
+msgstr "Diseño"
+
+#: inc/customizer/settings/settings-blog.php:468
+#: inc/customizer/settings/settings-blog.php:771
+#: inc/customizer/settings/settings-footer.php:16
+#: inc/customizer/settings/settings-footer.php:51
+#: inc/customizer/settings/settings-typography.php:95 inc/options.php:140
+#: inc/quick-edit.php:109 inc/settings/metaboxes/customizer.php:29
+msgid "Footer"
+msgstr "Pie de página"
+
+#: inc/customizer/settings/settings-blog.php:435
+#: inc/customizer/settings/settings-blog.php:753
+#: inc/customizer/settings/settings-header.php:16 inc/options.php:135
+#: inc/quick-edit.php:100 inc/settings/metaboxes/customizer.php:25
+msgid "Header"
+msgstr "Cabecera"
+
+#: inc/customizer/settings/settings-blog.php:25
+#: inc/customizer/settings/settings-footer.php:36
+#: inc/customizer/settings/settings-general.php:16
+#: inc/customizer/settings/settings-header.php:29
+#: inc/customizer/settings/settings-header.php:44
+#: inc/customizer/settings/settings-header.php:59
+#: inc/customizer/settings/settings-header.php:74
+msgid "General"
+msgstr "General"
+
+#. translators: %1s represents the premium feature's URL.
+#: inc/customizer/settings/settings-premium.php:18
+msgid "Get all features with the <a href=\"%1s\" target=\"_blank\">Premium Add-On</a>!"
+msgstr "Obtén todas las características con <a href=\"%1s\" target=\"_blank\">la extensión Premium</a>!"
+
+#: inc/customizer/settings/settings-premium.php:26
+msgid "Premium Features available!"
+msgstr "¡Características premium disponibles!"
+
+#: inc/customizer/settings/settings-setup.php:27
+msgid "Background"
+msgstr "Fondo"
+
+#: inc/customizer/settings/settings-setup.php:26
+#: inc/settings/metaboxes/customizer.php:17
+msgid "Logo"
+msgstr "Logotipo"
+
+#: inc/customizer/settings/settings-blog.php:542
+#: inc/customizer/settings/settings-blog.php:858
+#: inc/customizer/settings/settings-general.php:130
+#: inc/customizer/settings/settings-general.php:396
+#: inc/customizer/settings/settings-header.php:1386
+msgid "Padding"
+msgstr "Relleno"
+
+#: inc/helpers.php:182
+msgid "Your comment has yet to be approved."
+msgstr "Tu comentario aún no se ha aprobado."
+
+#: inc/helpers.php:171
+msgid "F d, Y"
+msgstr "d \\d\\e F, Y"
+
+#: inc/helpers.php:122
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: functions.php:138 inc/customizer/settings/settings-blog.php:413
+#: inc/customizer/settings/settings-blog.php:731
+#: inc/customizer/settings/settings-general.php:32
+#: inc/integration/edd/edd-customizer-settings.php:32
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:49
+#: inc/options.php:36 inc/quick-edit.php:121
+#: inc/settings/metaboxes/customizer.php:37
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: functions.php:95
+msgid "Pre Header Right"
+msgstr "Precabecera derecha"
+
+#: functions.php:94
+msgid "Pre Header Left"
+msgstr "Precabecera izquierda"
+
+#: functions.php:83
+msgid "Mobile Menu"
+msgstr "Menú móvil"
+
+#: functions.php:82
+msgid "Main Menu"
+msgstr "Menú principal"
+
+#: comments.php:59
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: comments.php:52
+msgid "Newer Comments &rarr;"
+msgstr "Últimos comentarios &raquo;"
+
+#: comments.php:51
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentarios anteriores"
+
+#: comments.php:43
+msgid "Reply"
+msgstr "Responder"
+
+#: comments.php:33 inc/helpers.php:1244
+msgid "<span>%</span> Comments"
+msgstr "<span>%</span> comentarios"
+
+#: comments.php:32
+msgid "<span>One</span> Comment"
+msgstr "<span>Un</span> comentario"
+
+#: comments.php:31 inc/helpers.php:1242
+msgid "<span>No</span> Comments"
+msgstr "<span>No hay</span> comentarios"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:777
+msgid "Category"
+msgstr "Categoría"
+
+#: inc/customizer/settings/settings-general.php:292
+#: inc/customizer/settings/settings-header.php:478
+#: inc/customizer/settings/settings-header.php:619
+#: inc/customizer/settings/settings-header.php:1127
+#: inc/customizer/settings/settings-typography.php:140
+#: inc/integration/edd/edd-customizer-settings.php:114
+#: inc/integration/edd/edd-customizer-settings.php:169
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:116
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:170
+msgid "Color"
+msgstr "Color"
+
+#: inc/customizer/settings/settings-footer.php:55
+#: inc/customizer/settings/settings-footer.php:84
+#: inc/customizer/settings/settings-footer.php:159
+#: inc/customizer/settings/settings-header.php:100
+#: inc/customizer/settings/settings-header.php:129
+#: inc/customizer/settings/settings-header.php:205
+msgid "None"
+msgstr "Nada"
+
+#: Customizer/Controls/Typography/TypographyField.php:278
+#: inc/customizer/settings/settings-typography.php:206
+#: inc/customizer/settings/settings-typography.php:243
+#: inc/customizer/settings/settings-typography.php:276
+#: inc/customizer/settings/settings-typography.php:325
+#: inc/customizer/settings/settings-typography.php:375
+#: inc/customizer/settings/settings-typography.php:424
+#: inc/customizer/settings/settings-typography.php:473
+#: inc/customizer/settings/settings-typography.php:522
+#: inc/customizer/settings/settings-typography.php:571
+#: inc/customizer/settings/settings-typography.php:620
+#: inc/customizer/settings/settings-typography.php:669
+msgid "Font Family"
+msgstr "Familia de fuente"
+
+#: Customizer/Controls/Checkbox/ToggleControl.php:61
+msgid "Off"
+msgstr "Desactivado"
+
+#: Customizer/Controls/Checkbox/ToggleControl.php:60
+msgid "On"
+msgstr "Encendido"
+
+#: Customizer/Controls/Repeater/RepeaterControl.php:486
+#: Customizer/Controls/Repeater/RepeaterControl.php:488
+msgid "Change File"
+msgstr "Cambiar archivo"
+
+#: Customizer/Controls/Repeater/RepeaterControl.php:486
+#: Customizer/Controls/Repeater/RepeaterControl.php:490
+msgid "Add File"
+msgstr "Añadir archivo"
+
+#: Customizer/Controls/Repeater/RepeaterControl.php:454
+#: Customizer/Controls/Repeater/RepeaterControl.php:456
+msgid "Change Image"
+msgstr "Cambiar la imagen"
+
+#: Customizer/Controls/Repeater/RepeaterControl.php:454
+#: Customizer/Controls/Repeater/RepeaterControl.php:458
+msgid "Add Image"
+msgstr "Añadir imagen"
+
+#: Customizer/Controls/Repeater/RepeaterControl.php:443
+#: Customizer/Controls/Repeater/RepeaterControl.php:448
+msgid "No Image Selected"
+msgstr "Ninguna imagen seleccionada"
+
+#. translators: %s represents the number of rows we're limiting the repeater to
+#. allow.
+#: Customizer/Controls/Repeater/RepeaterControl.php:267
+msgid "Limit: %s rows"
+msgstr "Límite: %s filas"
+
+#: Customizer/Controls/Repeater/RepeaterControl.php:122
+msgid "Select a Page"
+msgstr "Selecciona una página"
+
+#. translators: %s represents the label of the row.
+#: Customizer/Controls/Repeater/RepeaterControl.php:81
+msgid "Add new %s"
+msgstr "Añadir %s"
+
+#: Customizer/Controls/Repeater/RepeaterControl.php:69
+msgid "row"
+msgstr "fila"
+
+#: Customizer/Controls/Media/ImageControl.php:99
+msgid "Choose image"
+msgstr "Elegir una imagen"
+
+#: Customizer/Controls/Media/ImageControl.php:97
+#: Customizer/Controls/Media/dist/image-control-min.js:1
+msgid "No image selected"
+msgstr "Ninguna imagen seleccionada"
+
+#: Customizer/Controls/Media/ImageControl.php:94
+msgid "Change image"
+msgstr "Cambiar imagen"
+
+#: Customizer/Controls/Media/ImageControl.php:93
+#: Customizer/Controls/Media/ImageControl.php:98
+msgid "Select image"
+msgstr "Seleccionar imagen"
+
+#: inc/customizer/settings/settings-general.php:367
+msgid "Width"
+msgstr "Ancho"
+
+#: inc/customizer/settings/settings-footer.php:235
+#: inc/customizer/settings/settings-header.php:296
+#: inc/customizer/settings/settings-header.php:1249
+msgid "Height"
+msgstr "Altura"
+
+#: inc/customizer/settings/settings-blog.php:418
+#: inc/customizer/settings/settings-blog.php:735
+#: inc/customizer/settings/settings-general.php:341
+#: inc/integration/edd/edd-customizer-settings.php:47
+#: inc/integration/edd/edd-customizer-settings.php:62
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:508
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:522
+msgid "Right"
+msgstr "Derecha"
+
+#: inc/customizer/settings/settings-blog.php:419
+#: inc/customizer/settings/settings-blog.php:736
+#: inc/customizer/settings/settings-general.php:342
+#: inc/customizer/settings/settings-header.php:774
+#: inc/integration/edd/edd-customizer-settings.php:48
+#: inc/integration/edd/edd-customizer-settings.php:63
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:509
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:523
+msgid "Left"
+msgstr "Izquierda"
+
+#: inc/customizer/settings/settings-blog.php:368
+#: inc/customizer/settings/settings-blog.php:645
+#: inc/customizer/settings/settings-blog.php:909
+#: inc/customizer/settings/settings-footer.php:339
+#: inc/customizer/settings/settings-header.php:400
+#: inc/customizer/settings/settings-header.php:517
+#: inc/customizer/settings/settings-header.php:643
+#: inc/customizer/settings/settings-header.php:934
+#: inc/customizer/settings/settings-header.php:1102
+#: inc/customizer/settings/settings-header.php:1487
+#: inc/customizer/settings/settings-header.php:1617
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:339
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:471
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:909
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:1101
+msgid "Font Size"
+msgstr "Tamaño de la fuente"
+
+#: Customizer/Customizer.php:337
+msgid "Invalid Value"
+msgstr "Valor no válido"
+
+#: Customizer/Controls/Typography/TypographyChoices.php:163
+msgid "Google Fonts"
+msgstr "Fuentes de Google"
+
+#: Customizer/Controls/Typography/TypographyChoices.php:152
+msgid "Standard Fonts"
+msgstr "Fuentes estándar"
+
+#: Customizer/Controls/Media/ImageControl.php:95
+#: inc/customizer/settings/settings-blog.php:497
+#: inc/customizer/settings/settings-blog.php:511
+#: inc/customizer/settings/settings-blog.php:832
+#: inc/customizer/settings/settings-header.php:1165
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:364
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:635
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:795
+msgid "Default"
+msgstr "Por defecto"
+
+#: Customizer/Controls/Media/ImageControl.php:96
+#: Customizer/Controls/Repeater/RepeaterControl.php:453
+#: Customizer/Controls/Repeater/RepeaterControl.php:485
+#: Customizer/Controls/Repeater/RepeaterControl.php:512
+msgid "Remove"
+msgstr "Eliminar"
+
+#: Customizer/Controls/Repeater/RepeaterControl.php:475
+#: Customizer/Controls/Repeater/RepeaterControl.php:480
+msgid "No File Selected"
+msgstr "Ningún archivo seleccionado"
+
+#: inc/customizer/settings/settings-blog.php:279
+#: inc/customizer/settings/settings-blog.php:591
+#: inc/customizer/settings/settings-blog.php:877
+#: inc/customizer/settings/settings-footer.php:258
+#: inc/customizer/settings/settings-general.php:152
+#: inc/customizer/settings/settings-general.php:422
+#: inc/customizer/settings/settings-general.php:616
+#: inc/customizer/settings/settings-general.php:710
+#: inc/customizer/settings/settings-general.php:767
+#: inc/customizer/settings/settings-general.php:1023
+#: inc/customizer/settings/settings-header.php:319
+#: inc/customizer/settings/settings-header.php:894
+#: inc/customizer/settings/settings-header.php:1047
+#: inc/customizer/settings/settings-header.php:1265
+#: inc/customizer/settings/settings-header.php:1406
+#: inc/customizer/settings/settings-header.php:1557
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:374
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:931
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:1061
+msgid "Background Color"
+msgstr "Color del fondo"
+
+#: inc/helpers.php:1039
+msgid "Next &rarr;"
+msgstr "Siguiente &rarr;"
+
+#: inc/helpers.php:1038
+msgid "&larr; Previous"
+msgstr "&larr; Anterior"
+
+#: inc/template-parts/article-none.php:18
+msgid "Something went wrong."
+msgstr "Algo ha salido mal."
+
+#: inc/template-parts/article-none.php:13
+msgid "Oops, this article couldn't be found!"
+msgstr "¡Vaya!, ¡No se ha podido encontrar ese artículo!"
+
+#: inc/customizer/settings/settings-general.php:448
+#: inc/template-parts/404.php:31
+msgid "Oops! We're sorry, this page couldn't be found!"
+msgstr "¡Vaya! ¡Lo siento, no se ha podido encontrar esa página!"
+
+#: inc/customizer/settings/settings-general.php:438
+#: inc/template-parts/404.php:27
+msgid "404 - This page couldn't be found."
+msgstr "404 - Página no encontrada."
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://mapsteps.com"
+msgstr "https://mapsteps.com"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "David Vongries"
+msgstr "David Vongries"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://wp-pagebuilderframework.com"
+msgstr "https://wp-pagebuilderframework.com"
